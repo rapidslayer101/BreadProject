@@ -125,10 +125,11 @@ def tickers_sp500():
     # Downloads list of tickers currently listed in the S&P 500
     # get list of all S&P 500 stocks
     sp500 = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
+    sp_tickers = []
 
     for i in range(len(sp500)):
-        print(f"{sp500.values[i][0]}, {sp500.values[i][1]}, {sp500.values[i][2]},"
-              f" {sp500.values[i][3]}, {sp500.values[i][4]}, {sp500.values[i][6]}")
+        sp_tickers.append(f"{sp500.values[i][0]}, {sp500.values[i][1]}, {sp500.values[i][2]},"
+                          f" {sp500.values[i][3]}, {sp500.values[i][4]}, {sp500.values[i][6]}")
 
     return sp_tickers
 
