@@ -1,6 +1,5 @@
 from os.path import exists
 from os import mkdir
-from firehose import get_yf_rss
 from stock_info import *
 from options import *
 
@@ -30,6 +29,16 @@ if not exists("TickerData/nasdaq.txt"):
             f.write(f"{ticker}\n")
 else:
     print("Found nasdaq tickers...")
+
+
+# load nasdaq tickers   # todo make work <---
+if not exists("TickerData/other.txt"):
+    print("Downloading other tickers...")
+    with open("TickerData/other.txt", "w", encoding="utf-8") as f:
+        for ticker in tickers_us_other():
+            f.write(f"{ticker}\n")
+else:
+    print("Found other tickers...")
 
 
 

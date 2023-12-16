@@ -2,12 +2,14 @@ import feedparser
 from datetime import datetime, timedelta
 import time
 
+
 def read_rss_sources(file_path):
     """
     Read the RSS feed URLs from the specified file.
     """
     with open(file_path, 'r') as file:
         return [line.strip() for line in file if line.strip()]
+
 
 def parse_published_date(published_str):
     """
@@ -17,6 +19,7 @@ def parse_published_date(published_str):
         return datetime(*time.strptime(published_str, '%a, %d %b %Y %H:%M:%S %z')[:6])
     except ValueError:
         return None
+
 
 def print_news_stories(rss_urls):
     """
@@ -51,6 +54,7 @@ def print_news_stories(rss_urls):
         print(f"Number of Stories: {story_count}\n")
         print(f"Number of Outdated Stories: {outdated_stories_count}\n")
     print(old_feeds)
+
 
 if __name__ == "__main__":
     rss_urls = read_rss_sources("firehosesources.txt")

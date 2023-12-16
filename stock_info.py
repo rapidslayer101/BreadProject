@@ -120,7 +120,6 @@ def get_data(ticker, start_date=None, end_date=None, index_as_date=True, interva
     return frame
 
 
-# todo rewrote, old version was broken
 def tickers_sp500():
     # Downloads list of tickers currently listed in the S&P 500
     # get list of all S&P 500 stocks
@@ -134,63 +133,39 @@ def tickers_sp500():
     return sp_tickers
 
 
-def tickers_nasdaq(include_company_data=False):
-    
-    '''Downloads list of tickers currently listed in the NASDAQ'''
-    
+def _nasdaq_trader(search_param):
+    # Downloads list of tickers
+
     ftp = ftplib.FTP("ftp.nasdaqtrader.com")
     ftp.login()
     ftp.cwd("SymbolDirectory")
-    
+
     r = io.BytesIO()
-    ftp.retrbinary('RETR nasdaqlisted.txt', r.write)
-    
-    if include_company_data:
-        r.seek(0)
-        data = pd.read_csv(r, sep = "|")
-        return data
-    
+    ftp.retrbinary(f'RETR {search_param}.txt', r.write)
+
     info = r.getvalue().decode()
     splits = info.split("|")
 
     tickers = [x for x in splits if "\r\n" in x]
-    tickers = [x.split("\r\n")[1] for x in tickers if "NASDAQ" not in x != "\r\n"]
-    tickers = [ticker for ticker in tickers if "File" not in ticker]    
-    
-    ftp.close()    
+    if search_param == "nasdaqlisted":
+        tickers = [x.split("\r\n")[1] for x in tickers if "NASDAQ" not in x != "\r\n"]
+    else:
+        tickers = [x.split("\r\n")[1] for x in tickers]
+    ftp.close()
 
-    return tickers
-    
+    return [ticker for ticker in tickers if "File" not in ticker]
+
+
+def tickers_nasdaq():
+    return _nasdaq_trader("nasdaqlisted")
+
+
+def tickers_us_other():
+    return _nasdaq_trader("otherlisted")
     
 
-def tickers_other(include_company_data = False):
-    '''Downloads list of tickers currently listed in the "otherlisted.txt"
-       file on "ftp.nasdaqtrader.com" '''
-    ftp = ftplib.FTP("ftp.nasdaqtrader.com")
-    ftp.login()
-    ftp.cwd("SymbolDirectory")
-    
-    r = io.BytesIO()
-    ftp.retrbinary('RETR otherlisted.txt', r.write)
-    
-    if include_company_data:
-        r.seek(0)
-        data = pd.read_csv(r, sep = "|")
-        return data
-    
-    info = r.getvalue().decode()
-    splits = info.split("|")    
-    
-    tickers = [x for x in splits if "\r\n" in x]
-    tickers = [x.split("\r\n")[1] for x in tickers]
-    tickers = [ticker for ticker in tickers if "File" not in ticker]        
-    
-    ftp.close()    
-
-    return tickers
-    
-    
-def tickers_dow(include_company_data = False):
+# todo look at use of this function
+def tickers_dow(include_company_data=False):
     
     '''Downloads list of currently traded tickers on the Dow'''
 
@@ -206,7 +181,8 @@ def tickers_dow(include_company_data = False):
     return dow_tickers    
     
 
-def tickers_ibovespa(include_company_data = False):
+# todo look at use of this function
+def tickers_ibovespa(include_company_data=False):
     
     '''Downloads list of currently traded tickers on the Ibovespa, Brazil'''
 
@@ -304,7 +280,7 @@ def get_quote_table(ticker , dict_result = True, headers = {'User-agent': 'Mozil
 
     if dict_result:
         
-        result = {key : val for key,val in zip(data.attribute , data.value)}
+        result = {key: val for key, val in zip(data.attribute, data.value)}
         return result
         
     return data    
