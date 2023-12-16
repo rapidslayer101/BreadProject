@@ -84,7 +84,7 @@ def get_data(ticker, start_date=None, end_date=None, index_as_date=True, interva
     # build and connect to URL
     site, params = build_url(ticker, start_date, end_date, interval)
     print(site, params, headers)
-    resp = requests.get(site, params = params, headers = headers)
+    resp = requests.get(site, params=params, headers=headers)
 
     if not resp.ok:
         raise AssertionError(resp.json())
@@ -146,14 +146,19 @@ def _nasdaq_trader(search_param):
     info = r.getvalue().decode()
     splits = info.split("|")
 
-    tickers = [x for x in splits if "\r\n" in x]
-    if search_param == "nasdaqlisted":
-        tickers = [x.split("\r\n")[1] for x in tickers if "NASDAQ" not in x != "\r\n"]
-    else:
-        tickers = [x.split("\r\n")[1] for x in tickers]
-    ftp.close()
+    tickers = [x for x in splits if len(x) > 1]
+    ticker_data = []
+    for i in range(len(tickers)-4):
+        if tickers[i] == "100" and "-" in tickers[i+2]:
+            stock_ticker = tickers[i+1].split('\r\n')[1]
+            stock_name = tickers[i+2].split(" - ")[0]
+            stock_type = str(tickers[i+2].split(" - ")[1:])[2:-2]
+            ticker_data.append(f"{stock_ticker}, {stock_name}, {stock_type}")
+        elif tickers[i] == "100" and "-" not in tickers[i+2] and "test stock" not in tickers[i+2].lower():
+            stock_ticker = tickers[i+1].split('\r\n')[1]
+            ticker_data.append(f"{stock_ticker}, {tickers[i+2]}")
 
-    return [ticker for ticker in tickers if "File" not in ticker]
+    return ticker_data
 
 
 def tickers_nasdaq():
