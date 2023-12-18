@@ -1,3 +1,4 @@
+# Firehose Sources, place urls below, use # to comment.
 https://feeds.bbci.co.uk/news/business/rss.xml
 https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
 https://feeds.bbci.co.uk/news/technology/rss.xml
@@ -62,7 +63,6 @@ https://www.business-standard.com/rss/technology-108.rss
 https://www.business-standard.com/rss/technology/tech-news-10817.rss
 https://www.yahoo.com/news/rss
 https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best
-https://www.reutersagency.com/feed/?best-sectors=equities&post_type=best
 https://www.reutersagency.com/feed/?best-sectors=economy&post_type=best
 https://www.reutersagency.com/feed/?best-sectors=foreign-exchange-fixed-income&post_type=best
 https://www.reutersagency.com/feed/?best-sectors=commodities-energy&post_type=best

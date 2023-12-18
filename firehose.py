@@ -1,14 +1,61 @@
+# Firehose - A mass media monitoring tool.
+#
 import feedparser
 from datetime import datetime, timedelta
 import time
 
+# === CONFIG ===
+DateCutoff = 2  # Don't parse stories older than x days.
 
-def read_rss_sources(file_path):
+# Sources is a set to prevent dupe issues
+sources = set([])
+
+"""
+This is a dictionary in the format of 
+Key - URL
+Value - [Title, Publish date]
+"""
+pending_stories = dict()
+
+
+def parse_sources(path):
     """
-    Read the RSS feed URLs from the specified file.
+    Loads sources from a given file path, lines starting with a # will be ignored.
+    path: Path to firehose sources
     """
-    with open(file_path, 'r') as file:
-        return [line.strip() for line in file if line.strip()]
+    # Read the file
+    with open(path, 'r') as file:
+        for line in file:
+            if line[0] != "#":
+                sources.add(line.strip())
+
+    print(f"RSS Feed parsing complete, loaded {len(sources)} sources.")
+
+
+def get_stories():
+    """
+    Loads all stories from the source list.
+    """
+    current_time = datetime.now()
+    for url in sources:
+        feed = feedparser.parse(url)
+        feed_title = feed.feed.get('title', 'No Title Available')
+        print(f"\n`Parsing feed: {feed_title} ({url})")
+
+        for entry in feed.entries:
+            published_str = entry.get('published', '')
+            published_date = parse_published_date(published_str)
+
+            # Do not parse stories that are beyond the cut off point
+            if published_date:
+                if current_time - published_date >= timedelta(days=DateCutoff):
+                    continue
+
+            # Check if the story's URL is new and add it to pending_stories if it is.
+            url = entry.get('link')
+            if url and url not in pending_stories:
+                pending_stories[url] = (entry.get('title', 'Title Unavailable'), published_str)
+                print(f"found story - {pending_stories[url][0]}")
 
 
 def parse_published_date(published_str):
@@ -21,41 +68,8 @@ def parse_published_date(published_str):
         return None
 
 
-def print_news_stories(rss_urls):
-    """
-    Print news stories from the given list of RSS feed URLs.
-    """
-    current_time = datetime.now()
-
-    story_count = 0
-    for url in rss_urls:
-        feed = feedparser.parse(url)
-        feed_title = feed.feed.get('title', 'No Title Available')
-        old_feeds = []
-        print(f"\nFeed Title: {feed_title} ({url})\n")
-
-        for entry in feed.entries:
-            outdated_stories_count = 0
-            published_str = entry.get('published', '')
-            published_date = parse_published_date(published_str)
-            bad_feed = False
-            if published_date and (current_time - published_date >= timedelta(days=1)):
-                outdated_stories_count += 1
-                bad_feed = True
-            else:
-                story_count += 1
-                print(f"Title: {entry.get('title', 'No Title Available')}")
-                print(f"Link: {entry.get('link', 'No Link Available')}")
-                print(f"Published: {published_str}\n")
-
-        if bad_feed:
-            old_feeds.append({feed,feed_title, outdated_stories_count})
-
-        print(f"Number of Stories: {story_count}\n")
-        print(f"Number of Outdated Stories: {outdated_stories_count}\n")
-    print(old_feeds)
-
-
 if __name__ == "__main__":
-    rss_urls = read_rss_sources("firehosesources.txt")
-    print_news_stories(rss_urls)
+    print("You are running Firehose as the main file, checking sources and stories")
+    parse_sources("firehosesources.txt")
+    get_stories()
+    print(f"Found {len(pending_stories)} ready to be parsed!")
