@@ -1,8 +1,9 @@
 # Firehose - A mass media monitoring tool.
-#
 import feedparser
 from datetime import datetime, timedelta
+from bs4 import BeautifulSoup
 import time
+import requests
 
 # === CONFIG ===
 DateCutoff = 2  # Don't parse stories older than x days.
@@ -13,7 +14,7 @@ sources = set([])
 """
 This is a dictionary in the format of 
 Key - URL
-Value - [Title, Publish date]
+Value - [Title, Publish date, Article Text]
 """
 pending_stories = dict()
 
@@ -40,7 +41,7 @@ def get_stories():
     for url in sources:
         feed = feedparser.parse(url)
         feed_title = feed.feed.get('title', 'No Title Available')
-        print(f"\n`Parsing feed: {feed_title} ({url})")
+        print(f"\nParsing feed: {feed_title} ({url})")
 
         for entry in feed.entries:
             published_str = entry.get('published', '')
@@ -52,11 +53,20 @@ def get_stories():
                     continue
 
             # Check if the story's URL is new and add it to pending_stories if it is.
-            url = entry.get('link')
-            if url and url not in pending_stories:
-                pending_stories[url] = (entry.get('title', 'Title Unavailable'), published_str)
+            url = entry.get('link', "ERR")
+            if url != "ERR" and url not in pending_stories:
+                pending_stories[url] = (entry.get('title', 'Title Unavailable'), published_str, get_article_text(url))
                 print(f"found story - {pending_stories[url][0]}")
 
+
+def get_article_text(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, 'html.parser')
+        #print(soup.get_text().strip())
+        return soup.get_text()
+    else:
+        return "Error parsing text."
 
 def parse_published_date(published_str):
     """
@@ -72,4 +82,5 @@ if __name__ == "__main__":
     print("You are running Firehose as the main file, checking sources and stories")
     parse_sources("firehosesources.txt")
     get_stories()
+    print(pending_stories)
     print(f"Found {len(pending_stories)} ready to be parsed!")
