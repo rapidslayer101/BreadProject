@@ -4,12 +4,13 @@ from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 import time
 import requests
-
-# === CONFIG ===
+import re
+    # === CONFIG ===
 DateCutoff = 2  # Don't parse stories older than x days.
 
 # Sources is a set to prevent dupe issues
 sources = set([])
+blacklist = set([])
 
 """
 This is a dictionary in the format of 
@@ -18,6 +19,12 @@ Value - [Title, Publish date, Article Text]
 """
 pending_stories = dict()
 
+def parse_blacklist(path):
+    global blacklist
+    # Read the entire content of the file
+    file = open(path, "r")
+    content = file.read()
+    blacklist = sorted( re.findall(r'\"(.*?)\"', content), key=len, reverse=True)
 
 def parse_sources(path):
     """
@@ -56,17 +63,27 @@ def get_stories():
             url = entry.get('link', "ERR")
             if url != "ERR" and url not in pending_stories:
                 pending_stories[url] = (entry.get('title', 'Title Unavailable'), published_str, get_article_text(url))
-                print(f"found story - {pending_stories[url][0]}")
+                print(f"found story - {pending_stories[url][0]}   ")
 
 
 def get_article_text(url):
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
-        #print(soup.get_text().strip())
-        return soup.get_text()
+        txt = clean_text(soup.get_text().strip())
+        print(txt)
+        return txt
     else:
         return "Error parsing text."
+
+def clean_text(text):
+    text = re.sub(r'\n+', '\n', text)
+    stripped_lines = [line.rstrip() for line in text.split('\n')]
+    text = '\n'.join(stripped_lines)
+    text = re.sub(r'\s+', ' ', text)
+    for item in blacklist:
+        text = text.replace(item, "")
+    return text
 
 def parse_published_date(published_str):
     """
@@ -79,8 +96,12 @@ def parse_published_date(published_str):
 
 
 if __name__ == "__main__":
+    start = time.time()
     print("You are running Firehose as the main file, checking sources and stories")
-    parse_sources("firehosesources.txt")
+    parse_sources("FirehoseSources.txt")
+    parse_blacklist("Blacklist.txt")
+    print(f"{len(blacklist)} blacklist items")
     get_stories()
-    print(pending_stories)
+    #print(pending_stories)
     print(f"Found {len(pending_stories)} ready to be parsed!")
+    print(f"This took {time.time() - start}")
