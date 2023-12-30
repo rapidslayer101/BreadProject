@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import time
 import requests
 import re
-import AIDataAccessLayer as AIDAL
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 import feedparser
@@ -40,7 +39,7 @@ def parse_sources(path):
             if line[0] != "#":
                 sources.add(line.strip())
 
-    print(f"RSS Feed parsing complete, loaded {len(sources)} sources.")
+    print(f"Loaded {len(sources)} sources.")
 
 
 def parse_feed(url):
@@ -115,8 +114,8 @@ def parse_published_date(published_str):
 if __name__ == "__main__":
     start = time.time()
     print("You are running Firehose as the main file, checking sources and stories")
-    parse_sources("FirehoseSources.txt")
-    parse_blacklist("Blacklist.txt")
+    parse_sources("Firehose2/Data/FirehoseSources.txt")
+    parse_blacklist("Firehose2/Data/Blacklist.txt")
     print(f"{len(blacklist)} blacklist items")
     get_stories()
     print(f"Found {len(pending_stories)} ready to be parsed!")
