@@ -13,27 +13,27 @@ c[I ||||\''/
    `"""""""`
 """
 
-from bs4 import BeautifulSoup
-import time
-import requests
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timedelta
+import time
+from datetime import datetime, timedelta, timezone
+
 import feedparser
+import requests
+from bs4 import BeautifulSoup
+from dateutil import parser as dtParse
 
 
 class Hydrant():
+
+    too_old = 0
+    errored_text = 0
+    errored_parsing = 0
+    already_done = 0
+
     # Sources is a set to prevent dupe issues
     sources = set([])
     blacklist = set([])
     seen_URLs = set([])
-    """
-    This is a dictionary in the format of 
-    Key - URL
-    Value - [Title, Publish date, Article Text]
-    """
-    pending_stories = dict()
-    read_stories = []
 
     def __init__(self):
         self.parse_sources("Data/FirehoseSources.txt")
@@ -57,55 +57,59 @@ class Hydrant():
                     self.sources.add(line.strip())
         print(f"Loaded {len(self.sources)} sources.")
 
-    def get_stories(self):
-        """
-        Load all stories from the source list using multithreading.
-        """
-        self.pending_stories = []
-        with ThreadPoolExecutor() as executor:
-            future_to_url = {executor.submit(self.parse_feed, url): url for url in self.sources}
-            for future in as_completed(future_to_url):
-                url = future_to_url[future]
+
+    def get_stories(self, sources, filter=True):
+        entries_list = []
+        for source in sources:
+            feed = feedparser.parse(source)
+            for entry in feed.entries:  # Loop through each entry in the feed
                 try:
-                    stories = future.result()
-                    for story in stories:
-                        url = story[0]
-                        if url not in self.pending_stories and url not in self.seen_URLs:
-                            self.pending_stories[url] = story[1:]
-                    self.seen_URLs.add(url)
-                except Exception as exc:
-                    print(f'{url} generated an exception: {exc}')
-        return self.pending_stories
+                    # Hotfix for apple newsroom since doesnt have a published, just an updated field.
+                    if source == "https://www.apple.com/newsroom/rss-feed.rss":
+                        entry.published = entry["updated"]
+                    entry_data = {
+                        'Title': entry.title,
+                        'URL': entry.link,
+                        'Published': dtParse.parse(entry.published),
+                        'Summary': getattr(entry, 'Summary', '')}
 
-    def parse_feed(self, url):
-        """
-        Parse individual feed and return stories.
-        """
-        current_time = datetime.now()
-        stories = []
-        feed = feedparser.parse(url)
+                    if filter:
+                        age = datetime.now(timezone.utc) - entry_data['Published']  # Calc article age
 
-        for entry in feed.entries:
-            published_str = entry.get('published', '')
-            published_date = self.parse_published_date(published_str)
+                        # Check we haven't tried to read this URL before
+                        if self.seen_URLs.__contains__(entry_data["URL"]):
+                            self.already_done += 1
+                            print(f"Skipping {entry_data['Title']} since it's already been viewed.")
+                        else:
+                            if age <= timedelta(days=2):  # Ignore article if it's older than 2 days.
+                                entry_data['Content'] = self.get_article_text(entry_data["URL"])  # Get Article
 
-            if published_date and current_time - published_date < timedelta(days=2):
-                story_url = entry.get('link', "ERR")
-                if story_url != "ERR" and story_url not in self.pending_stories:
-                    stories.append((story_url, entry.get('title', 'Title Unavailable'), published_str,
-                                    self.get_article_text(story_url)))
-                    # Updated to only print a simplified message for recent stories
-                    print(f"found story - {entry.get('title', 'Title Unavailable')}")
+                                # Display information
+                                print(f"Found Story from {feed.feed.title} ({round(age.total_seconds() / 60 / 60, 2)} hrs ago) - {entry_data['Title']}")
+                                print(f"\t\t\t\t Article Text - {entry_data['Content']}")
+                                entries_list.append(entry_data)
+                                self.seen_URLs.add(entry_data["URL"])
+                            else:
+                                self.too_old += 1
+                                self.seen_URLs.add(entry_data["URL"])
+                    else:
+                        entries_list.append(entry_data)
+                except Exception as ex:
+                    self.errored_parsing += 1
+                    print(f"[ERROR] failed parsing source of {source} for URL {entry} with exception of {ex}")
 
+
+        return entries_list
 
     def get_article_text(self, url):
-        response = requests.get(url)
+        response = requests.get(url,  headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'})
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             txt = self.clean_text(soup.get_text().strip())
-            print(txt)
             return txt
         else:
+            print(f"[ERROR] Failed parsing Article URL {url}, expected 200 response, got {response.status_code}")
+            self.errored_text += 1
             return "Error parsing text."
 
     def clean_text(self, text):
@@ -120,11 +124,17 @@ class Hydrant():
             text = text.replace(item, "")
         return text
 
-    def parse_published_date(self, published_str):
-        """
-        Convert the published string to a datetime object.
-        """
-        try:
-            return datetime(*time.strptime(published_str, '%a, %d %b %Y %H:%M:%S %z')[:6])
-        except ValueError:
-            return None
+
+if __name__== "__main__":
+    input("""You are running Hydrant as the main file NOT firehose\nPress ENTER to test the feeds.""")
+    start = time.time()
+    H = Hydrant()
+    URLSet = H.get_stories(H.sources)
+    print(f"""Stats
+            Took {round((time.time() - start),2)}s
+            Ready: {len(URLSet)}
+            Too Old: {H.too_old}
+            Errors parsing: {H.errored_parsing}
+            Errors text: {H.errored_text}
+            URL Blacklist size: {len(H.seen_URLs)}
+            Blacklisted URL hits: {H.already_done} """)

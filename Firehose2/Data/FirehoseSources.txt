@@ -15,9 +15,9 @@ https://www.theverge.com/rss/index.xml
 #https://feeds.skynews.com/feeds/rss/business.xml
 #https://feeds.skynews.com/feeds/rss/politics.xml
 #https://feeds.skynews.com/feeds/rss/technology.xml
-#https://feeds.skynews.com/feeds/rss/entertainment.xml
-http://rss.cnn.com/rss/money_news_international.rss
-http://rss.cnn.com/rss/edition_technology.rss
+#https://feeds.skynews.com/feeds/rss/entertainment.xml Outdated!
+#http://rss.cnn.com/rss/money_news_international.rss commented due to be outdated
+#http://rss.cnn.com/rss/edition_technology.rss Outdated
 https://rss.cnn.com/rss/edition_space.rss
 https://rss.cnn.com/rss/edition_entertainment.rss
 https://rss.cnn.com/rss/edition.rss
