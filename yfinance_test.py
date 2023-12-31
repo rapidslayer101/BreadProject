@@ -2,15 +2,12 @@ import yfinance as yf
 
 # test file for understanding how to use yfinance
 
-print(yf.tickers.Tickers('msft aapl goog').tickers)
-input()
-
-msft = yf.Ticker("MSFT")
+msft = yf.Ticker("TSLA")
 
 # get all stock info
 print(msft.info)
-print(msft.fast_info)
 input()
+print(msft.fast_info)
 
 # get historical market data
 hist = msft.history(period="1mo")

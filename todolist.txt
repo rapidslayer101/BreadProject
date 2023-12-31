@@ -1,0 +1,3 @@
+- Function to get status of a given market
+- Scrape https://finance.yahoo.com/quote/TSLA/history?p=TSLA for historical data
+- Function to get live price of ticker

@@ -5,10 +5,12 @@ import io
 import re
 import json
 import datetime
+import warnings
 
 # file of functions to pull tickers and indexes from various sources
 # MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
 
+warnings.simplefilter(action='ignore', category=FutureWarning)
 default_headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) '
                                  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
@@ -68,7 +70,9 @@ def _convert_to_numeric(s):
     return force_float(s)
 
 
-def get_data(ticker, start_date=None, end_date=None, index_as_date=True, interval="1d", headers=default_headers):
+# todo make work
+def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=True,
+                       interval="1d", headers=default_headers):
 
     '''Downloads historical stock price data into a pandas data frame.  Interval
        must be "1d", "1wk", "1mo", or "1m" for daily, weekly, monthly, or minute data.
@@ -94,9 +98,11 @@ def get_data(ticker, start_date=None, end_date=None, index_as_date=True, interva
 
     # get JSON response
     data = resp.json()
+    print(data)
     
     # get open / high / low / close data
     frame = pd.DataFrame(data["chart"]["result"][0]["indicators"]["quote"][0])
+    print(frame)
 
     # get the date info
     temp_time = data["chart"]["result"][0]["timestamp"]
@@ -127,10 +133,9 @@ def tickers_sp500():  # TODO ADD PERIOD INDEX FUND CHECK
     # get list of all S&P 500 stocks
     sp500 = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     sp_tickers = []
-
     for i in range(len(sp500)):
-        sp_tickers.append(f"{sp500.values[i][0]}, {sp500.values[i][1]}, {sp500.values[i][2]},"
-                          f" {sp500.values[i][3]}, {sp500.values[i][4]}, {sp500.values[i][6]}")
+        sp_tickers.append(f"{sp500.values[i][0]}§{sp500.values[i][1]}§{sp500.values[i][2]}§"
+                          f" {sp500.values[i][3]}§{sp500.values[i][4]}§{sp500.values[i][6]}")
 
     return sp_tickers
 
@@ -155,192 +160,100 @@ def _nasdaq_trader(search_param):
             stock_ticker = tickers[i+1].split('\r\n')[1]
             stock_name = tickers[i+2].split(" - ")[0]
             stock_type = str(tickers[i+2].split(" - ")[1:])[2:-2]
-            ticker_data.append(f"{stock_ticker}, {stock_name}, {stock_type}")
+            ticker_data.append(f"{stock_ticker}§{stock_name}§{stock_type}")
         elif tickers[i] == "100" and "-" not in tickers[i+2] and "test stock" not in tickers[i+2].lower():
             stock_ticker = tickers[i+1].split('\r\n')[1]
-            ticker_data.append(f"{stock_ticker}, {tickers[i+2]}")
+            ticker_data.append(f"{stock_ticker}§{tickers[i+2]}")
 
     return ticker_data
 
 
-def tickers_nasdaq():
+def tickers_nasdaq():  # Nasdaq stocks
     return _nasdaq_trader("nasdaqlisted")
 
 
-def tickers_us_other():
+def tickers_us_other():  # Nasdaq other, funds, etfs, etc.
     return _nasdaq_trader("otherlisted")
     
 
-# todo look at use of this function INDEX FUND
-def tickers_dow(include_company_data=False):
-    
-    '''Downloads list of currently traded tickers on the Dow'''
-
+def tickers_dow():  # Dow_Jones_Industrial_Average
     site = "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
-    
     table = pd.read_html(site, attrs={"id": "constituents"})[0]
-    print(table)
-    
-    if include_company_data:
-        return table
-
     dow_tickers = []
     for i in range(len(table)):
-        dow_tickers.append(f"{table.values[i][0]}, {table.values[i][1]}, {table.values[i][2]}, {table.values[i][3]}, "
-                           f"{table.values[i][6]}")
+        dow_tickers.append(f"{table.values[i][2]}§{table.values[i][0]}§{table.values[i][6]}§{table.values[i][1]}§"
+                           f"{table.values[i][3]}")
 
     return dow_tickers    
     
 
-# todo look at use of this function
-def tickers_ibovespa(include_company_data=False):
-    
-    '''Downloads list of currently traded tickers on the Ibovespa, Brazil'''
-
-    table = pd.read_html("https://pt.wikipedia.org/wiki/Lista_de_companhias_citadas_no_Ibovespa")[0]
-    table.columns = ["Symbol", "Share", "Sector", "Type", "Site"]
-    
-    if include_company_data:
-        return table
-    
-    ibovespa_tickers = sorted(table.Symbol.tolist())
-    
-    return ibovespa_tickers
+#def tickers_ibovespa():
+#
+#    '''Downloads list of currently traded tickers on the Ibovespa, Brazil'''
+#
+#    table = pd.read_html("https://pt.wikipedia.org/wiki/Lista_de_companhias_citadas_no_Ibovespa")[0]
+#    table.columns = ["Symbol", "Share", "Sector", "Type", "Site"]
+#    print(table)
+#
+#    ibovespa_tickers = sorted(table.Symbol.tolist())
+#
+#    return ibovespa_tickers
 
 
-# todo look at use of this function
-def tickers_nifty50(include_company_data=False, headers={'User-agent': 'Mozilla/5.0'}):
-
-    '''Downloads list of currently traded tickers on the NIFTY 50, India'''
-
-    site = "https://finance.yahoo.com/quote/%5ENSEI/components?p=%5ENSEI"
-    table = pd.read_html(requests.get(site, headers=headers).text)[0]
-    
-    if include_company_data:
-        return table
-    
-    nifty50 = sorted(table['Symbol'].tolist())
+def tickers_nifty50():  # NIFTY 50, India
+    site = "https://en.wikipedia.org/wiki/NIFTY_50"
+    table = pd.read_html(site, attrs={"id": "constituents"})[0]
+    nifty50 = []
+    for i in range(len(table)):
+        nifty50.append(f"{table.values[i][1]}§{table.values[i][0]}§{table.values[i][2]}")
 
     return nifty50
 
 
-def tickers_niftybank():
-    ''' Currently traded tickers on the NIFTY BANK, India '''
-    
-    niftybank = ['AXISBANK', 'KOTAKBANK', 'HDFCBANK', 'SBIN', 'BANKBARODA', 'INDUSINDBK', 'PNB', 'IDFCFIRSTB', 'ICICIBANK', 'RBLBANK', 'FEDERALBNK', 'BANDHANBNK']
-    
-    return niftybank
-
-
-def tickers_ftse100(include_company_data = False):
-    
-    '''Downloads a list of the tickers traded on the FTSE 100 index'''
-    
+def tickers_ftse100():  # UK 100
     table = pd.read_html("https://en.wikipedia.org/wiki/FTSE_100_Index", attrs={"id": "constituents"})[0]
-    
-    if include_company_data:
-        return table
-    
-    return sorted(table.EPIC.tolist())
+    ftse100 = []
+    for i in range(len(table)):
+        ftse100.append(f"{table.values[i][1]}§{table.values[i][0]}§{table.values[i][2]}")
+
+    return ftse100
     
 
-def tickers_ftse250(include_company_data = False):
-    
-    
-    '''Downloads a list of the tickers traded on the FTSE 250 index'''
-    
+def tickers_ftse250():  # UK 250
     table = pd.read_html("https://en.wikipedia.org/wiki/FTSE_250_Index", attrs={"id": "constituents"})[0]
-    
-    table.columns = ["Company", "Ticker"]
-    
-    if include_company_data:
-        return table
-    
-    return sorted(table.Ticker.tolist())
-    
+    ftse250 = []
+    for i in range(len(table)):
+        ftse250.append(f"{table.values[i][1]}§{table.values[i][0]}§{table.values[i][2]}")
 
-def get_quote_table(ticker, dict_result=True, headers={'User-agent': 'Mozilla/5.0'}):
-    
-    '''Scrapes data elements found on Yahoo Finance's quote page 
-       of input ticker
-    
-       @param: ticker
-       @param: dict_result = True
-    '''
+    return ftse250
 
+
+def _site_scraper(site):
+    tables = pd.read_html(requests.get(site, headers={'User-agent': 'Mozilla/5.0'}).text)
+    data = {}
+    for table in tables:
+        for value in table.values:
+            data.update({value[0]: str(value[1:])[2:-2]})
+
+    return data
+
+
+def get_ticker_data(ticker):
+    # Scrapes data elements found on Yahoo Finance's quote page
     site = f"https://finance.yahoo.com/quote/{ticker}?p={ticker}"
+    return _site_scraper(site)
 
-    tables = pd.read_html(requests.get(site, headers=headers).text)
-    
-    data = tables[0].append(tables[1])
 
-    data.columns = ["attribute", "value"]
-    
-    quote_price = pd.DataFrame(["Quote Price", get_live_price(ticker)]).transpose()
-    quote_price.columns = data.columns.copy()
-    
-    data = data.append(quote_price)
-    
-    data = data.sort_values("attribute")
-    
-    data = data.drop_duplicates().reset_index(drop = True)
-    
-    data["value"] = data.value.map(force_float)
-
-    if dict_result:
-        
-        result = {key: val for key, val in zip(data.attribute, data.value)}
-        return result
-        
-    return data    
-    
-    
-def get_stats(ticker, headers={'User-agent': 'Mozilla/5.0'}):
-    
-    '''Scrapes information from the statistics tab on Yahoo Finance 
-       for an input ticker 
-    
-       @param: ticker
-    '''
-
+def get_ticker_stats(ticker):
+    # Scrapes information from the statistics tab on Yahoo Finance
     stats_site = f"https://finance.yahoo.com/quote/{ticker}/key-statistics?p={ticker}"
-
-    tables = pd.read_html(requests.get(stats_site, headers=headers).text)
-    
-    tables = [table for table in tables[1:] if table.shape[1] == 2]
-    
-    table = tables[0]
-    for elt in tables[1:]:
-        table = table.append(elt)
-
-    table.columns = ["Attribute" , "Value"]
-    
-    table = table.reset_index(drop = True)
-    
-    return table
-
-
-def get_stats_valuation(ticker, headers={'User-agent': 'Mozilla/5.0'}):
-    
-    '''Scrapes Valuation Measures table from the statistics tab on Yahoo Finance 
-       for an input ticker 
-    
-       @param: ticker
-    '''
-
-    stats_site = f"https://finance.yahoo.com/quote/{ticker}/key-statistics?p={ticker}"
-
-    tables = pd.read_html(requests.get(stats_site, headers=headers).text)
-    
-    tables = [table for table in tables if "Trailing P/E" in table.iloc[:,0].tolist()]
-
-    table = tables[0].reset_index(drop = True)
-    
-    return table
+    return _site_scraper(stats_site)
 
 
 def _parse_json(url, headers={'User-agent': 'Mozilla/5.0'}):
     html = requests.get(url=url, headers=headers).text
+    print(html)
+    input()
 
     json_str = html.split('root.App.main =')[1].split(
         '(this)')[0].split(';\n}')[0].strip()
@@ -353,7 +266,7 @@ def _parse_json(url, headers={'User-agent': 'Mozilla/5.0'}):
     else:
         # return data
         new_data = json.dumps(data).replace('{}', 'null')
-        new_data = re.sub(r'\{[\'|\"]raw[\'|\"]:(.*?),(.*?)\}', r'\1', new_data)
+        new_data = re.sub(r'\{[\'|\"]raw[\'|\"]:(.*?),(.*?)}', r'\1', new_data)
 
         json_info = json.loads(new_data)
 
@@ -378,7 +291,16 @@ def _parse_table(json_info):
     return df
 
 
-def get_income_statement(ticker, yearly = True):
+def get_ticker_profile(ticker):
+    prof_site = f"https://finance.yahoo.com/quote/{ticker}/profile?p={ticker}"
+    return _site_scraper(prof_site)
+
+
+# todo make work
+def get_income_statement(ticker, yearly=True):
+    #inc_site = f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}"
+    #return _site_scraper(inc_site)
+
     
     '''Scrape income statement from Yahoo Finance for a given ticker
     
@@ -395,7 +317,7 @@ def get_income_statement(ticker, yearly = True):
     return _parse_table(temp)      
         
 
-def get_balance_sheet(ticker, yearly = True):
+def get_balance_sheet(ticker, yearly=True):
     
     '''Scrapes balance sheet from Yahoo Finance for an input ticker 
     
@@ -415,7 +337,7 @@ def get_balance_sheet(ticker, yearly = True):
     return _parse_table(temp)      
 
 
-def get_cash_flow(ticker, yearly = True):
+def get_cash_flow(ticker, yearly=True):
     
     '''Scrapes the cash flow statement from Yahoo Finance for an input ticker 
     
@@ -432,7 +354,7 @@ def get_cash_flow(ticker, yearly = True):
     return _parse_table(temp)      
 
 
-def get_financials(ticker, yearly = True, quarterly = True):
+def get_financials(ticker, yearly=True, quarterly=True):
 
     '''Scrapes financials data from Yahoo Finance for an input ticker, including
        balance sheet, cash flow statement, and income statement.  Returns dictionary
@@ -445,11 +367,8 @@ def get_financials(ticker, yearly = True, quarterly = True):
 
     if not yearly and not quarterly:
         raise AssertionError("yearly or quarterly must be True")
-    
-    financials_site = "https://finance.yahoo.com/quote/" + ticker + \
-            "/financials?p=" + ticker
-            
-    json_info = _parse_json(financials_site)
+
+    json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}")
     
     result = {}
     
@@ -483,15 +402,14 @@ def get_financials(ticker, yearly = True, quarterly = True):
     return result
 
 
-def get_holders(ticker, headers = {'User-agent': 'Mozilla/5.0'}):
+def get_holders(ticker, headers={'User-agent': 'Mozilla/5.0'}):
     
     '''Scrapes the Holders page from Yahoo Finance for an input ticker 
     
        @param: ticker
     '''    
-    
-    holders_site = "https://finance.yahoo.com/quote/" + \
-                    ticker + "/holders?p=" + ticker
+
+    holders_site = f"https://finance.yahoo.com/quote/{ticker}/holders?p={ticker}"
         
     tables = pd.read_html(requests.get(holders_site, headers=headers).text)
 
@@ -510,8 +428,7 @@ def get_analysts_info(ticker, headers = {'User-agent': 'Mozilla/5.0'}):
        @param: ticker
     '''    
 
-    analysts_site = "https://finance.yahoo.com/quote/" + ticker + \
-                     "/analysts?p=" + ticker
+    analysts_site = f"https://finance.yahoo.com/quote/{ticker}/analysts?p={ticker}"
     
     tables = pd.read_html(requests.get(analysts_site, headers=headers).text)
     
@@ -520,18 +437,6 @@ def get_analysts_info(ticker, headers = {'User-agent': 'Mozilla/5.0'}):
     table_mapper = {key : val for key , val in zip(table_names , tables)}
 
     return table_mapper
-        
-
-def get_live_price(ticker):
-    
-    '''Gets the live price of input ticker
-    
-       @param: ticker
-    '''    
-    
-    df = get_data(ticker, end_date=pd.Timestamp.today()+pd.DateOffset(10))
-
-    return df.iloc[-1]
 
     
 def _raw_get_daily_info(site):
@@ -610,7 +515,7 @@ def get_top_crypto():
     return df
                     
         
-def get_dividends(ticker, start_date = None, end_date = None, index_as_date = True, headers=default_headers):
+def get_dividends(ticker, start_date=None, end_date=None, index_as_date=True, headers=default_headers):
     '''Downloads historical dividend data into a pandas data frame.
     
        @param: ticker
@@ -887,9 +792,8 @@ def get_quote_data(ticker, headers=default_headers):
        Returns a dictionary containing over 70 elements corresponding to the 
        input ticker, including company name, book value, moving average data,
        pre-market / post-market price (when applicable), and more.'''
-    
-    site = "https://query1.finance.yahoo.com/v7/finance/quote?symbols=" + ticker
-    
+
+    site = f"https://query1.finance.yahoo.com/v7/finance/quote?symbols={ticker}"
     resp = requests.get(site, headers=headers)
     
     if not resp.ok:
@@ -900,15 +804,6 @@ def get_quote_data(ticker, headers=default_headers):
     info = json_result["quoteResponse"]["result"]
     
     return info[0]
-    
-
-def get_market_status():
-    
-    '''Returns the current state of the market - PRE, POST, OPEN, or CLOSED'''
-    
-    quote_data = get_quote_data("^dji")
-
-    return quote_data["marketState"]
 
 
 def get_premarket_price(ticker):
