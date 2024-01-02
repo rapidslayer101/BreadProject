@@ -3,6 +3,7 @@ from os import mkdir, rename
 from tickers_and_indexes import *
 from datetime import datetime, timedelta
 from pandas import read_excel
+import yfinance as yf
 
 # File to load TICKERS, INDEXES and COMPANIES so that AI can link them together
 # This file should be called when the program starts
@@ -13,6 +14,9 @@ if not exists("TickerData"):
     print("Created TickerData directory...")
 else:
     print("Found TickerData directory...")
+
+if not exists("TickerData/Tickers"):
+    mkdir("TickerData/Tickers")
 
 
 def _writer_(file, refresh_days):
@@ -131,18 +135,14 @@ print("Loaded tickers and indexes successfully...\n-----------------------------
 
 
 def tns(name):  # ticker name system  # todo work in progress
-    name = name.lower()
     related_tickers = []
     counter = 0
     for ticker_list in tickers:
         counter += 1
         for ticker in ticker_list:
-            if f"{name} " in ticker[1].lower():
+            if re.search(r"\b"+re.escape(name.lower())+r"\b", ticker[1].lower()):
                 related_tickers.append([ticker[0], ticker[1]])
-                print(ticker)
-            if f"{name}, " in ticker[1].lower():
-                print(ticker)
-                related_tickers.append([ticker[0], ticker[1]])
+            # todo make whole word only
 
     relevant_indexes = []
     for ticker in related_tickers:
@@ -153,23 +153,32 @@ def tns(name):  # ticker name system  # todo work in progress
     return related_tickers, relevant_indexes
 
 
-print(tns("Tesla"))
-print(tns("Microsoft"))
-print(tns("Apple"))
-print(tns("Alphabet"))
-print(tns("Amazon"))
-print(tns("Rolls-Royce"))
+# todo first time load extract ticker data for company profile, currency, and other and cache
+def load_ticker_info(_ticker):
+    if exists(f"TickerData/Tickers/{_ticker}.txt"):
+        #with open(f"TickerData/Tickers/{ticker}.txt", "r", encoding="utf-8") as f:
+        #    ticker_info = []
+        #    for line in f.readlines():
+        #        ticker_info.append(line.replace("\n", "").split("§"))
+        #    return ticker_info#
+        return "todo"
+    else:
+        t_object = yf.Ticker(_ticker)
+        t_info = t_object.info
+        print(t_info)
 
-while True:
-    print(tns(input("Ticker name: ")))
+        print("\n")
+        print(get_ticker_data(_ticker))
+        print(get_ticker_stats(_ticker))
 
 
-print(get_ticker_data("amd"))
-print(get_ticker_stats("amd"))
-print(get_ticker_profile("amd"))
+ticker, index = tns(input("Ticker name: "))
+print(ticker[0][0], index)
+load_ticker_info(ticker[0][0])
 
-#print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(),
-#                         "1d", "1m"))
+input()
+print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
+
 
 
 input()

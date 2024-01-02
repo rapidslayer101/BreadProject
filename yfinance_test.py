@@ -1,11 +1,14 @@
 import yfinance as yf
 
 # test file for understanding how to use yfinance
+# todo finish testing and remove redundant file
 
 msft = yf.Ticker("TSLA")
 
 # get all stock info
-print(msft.info)
+#print(msft.info)
+print(msft)
+
 input()
 print(msft.fast_info)
 

@@ -7,12 +7,13 @@ import json
 import datetime
 import warnings
 
+
 # file of functions to pull tickers and indexes from various sources
 # MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
-default_headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) '
-                                 'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                                 'Chrome/120.0.0.0 Safari/537.3'}
 
 
 try:
@@ -72,7 +73,7 @@ def _convert_to_numeric(s):
 
 # todo make work
 def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=True,
-                       interval="1d", headers=default_headers):
+                       interval="1d"):
 
     '''Downloads historical stock price data into a pandas data frame.  Interval
        must be "1d", "1wk", "1mo", or "1m" for daily, weekly, monthly, or minute data.
@@ -90,8 +91,8 @@ def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=Tru
 
     # build and connect to URL
     site, params = build_url(ticker, start_date, end_date, interval)
-    print(site, params, headers)
-    resp = requests.get(site, params=params, headers=headers)
+    print(site, params)
+    resp = requests.get(site, params=params, headers=default_headers)
 
     if not resp.ok:
         raise AssertionError(resp.json())
@@ -116,7 +117,7 @@ def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=Tru
         frame = frame[["open", "high", "low", "close", "adjclose", "volume"]]
     else:
 
-        frame.index = pd.to_datetime(temp_time, unit = "s")
+        frame.index = pd.to_datetime(temp_time, unit="s")
         frame = frame[["open", "high", "low", "close", "volume"]]
         
     frame['ticker'] = ticker.upper()
@@ -229,7 +230,8 @@ def tickers_ftse250():  # UK 250
 
 
 def _site_scraper(site):
-    tables = pd.read_html(requests.get(site, headers={'User-agent': 'Mozilla/5.0'}).text)
+    # load website so all contents can be scraped
+    tables = pd.read_html(requests.get(site, headers=default_headers).text)
     data = {}
     for table in tables:
         for value in table.values:
@@ -250,7 +252,7 @@ def get_ticker_stats(ticker):
     return _site_scraper(stats_site)
 
 
-def _parse_json(url, headers={'User-agent': 'Mozilla/5.0'}):
+def _parse_json(url, headers=default_headers):
     html = requests.get(url=url, headers=headers).text
     print(html)
     input()
@@ -291,7 +293,7 @@ def _parse_table(json_info):
     return df
 
 
-def get_ticker_profile(ticker):
+def get_ticker_profile(ticker):  # todo redundant as ticker.info has same info
     prof_site = f"https://finance.yahoo.com/quote/{ticker}/profile?p={ticker}"
     return _site_scraper(prof_site)
 
@@ -558,7 +560,7 @@ def get_dividends(ticker, start_date=None, end_date=None, index_as_date=True, he
     
     if not index_as_date:  
         frame = frame.reset_index()
-        frame.rename(columns = {"index": "date"}, inplace = True)
+        frame.rename(columns={"index": "date"}, inplace = True)
         
     return frame
 
@@ -848,17 +850,4 @@ def get_company_info(ticker):
     info_frame = pd.DataFrame.from_dict(json_info, orient="index", columns=["Value"])
     info_frame = info_frame.drop("companyOfficers", axis="index")
     info_frame.index.name = "Breakdown"
-    return info_frame
-
-
-def get_company_officers(ticker):
-    '''Scrape the company information and return a table of the officers
-
-       @param: ticker
-    '''
-    site = f"https://finance.yahoo.com/quote/{ticker}/profile?p={ticker}"
-    json_info = _parse_json(site)
-    json_info = json_info["assetProfile"]["companyOfficers"]
-    info_frame = pd.DataFrame.from_dict(json_info)
-    info_frame = info_frame.set_index("name")
     return info_frame
