@@ -16,12 +16,14 @@ c[I ||||\''/
 import re
 import time
 from datetime import datetime, timedelta, timezone
-
+import mysql.connector
 import feedparser
+import mysql
 import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dtParse
-
+from openai import OpenAI
+import string
 
 class Hydrant():
 
@@ -29,15 +31,48 @@ class Hydrant():
     errored_text = 0
     errored_parsing = 0
     already_done = 0
+    LLMFilter = 0
 
     # Sources is a set to prevent dupe issues
     sources = set([])
     blacklist = set([])
     seen_URLs = set([])
 
+    db = mysql.connector.connect(
+        host="localhost",
+        user="root",
+        password="Mavik",
+        database="Oven"
+    )
+
     def __init__(self):
         self.parse_sources("Data/FirehoseSources.txt")
         self.parse_blacklist("Data/Blacklist.txt")
+        self.LoadURLBlacklist()
+
+    def LoadURLBlacklist(self):
+        try:
+            # Initialize the cursor
+            cursor = self.db.cursor()
+
+            # Execute the SQL command to select URLs
+            cursor.execute("SELECT URL FROM URL_BLACKLIST;")
+
+            # Fetch all the results
+            results = cursor.fetchall()
+
+            # Convert the results (a list of tuples) into a set of URLs
+            self.seen_URLs = set(url[0] for url in results)
+
+            # Print the number of loaded URLs
+            print(f"Loaded {len(self.seen_URLs)} blacklisted URLs")
+
+        except mysql.connector.Error as err:
+            # Handle any errors that occur
+            print(f"Error: {err}")
+        finally:
+            # Ensure the cursor is closed after operation
+            cursor.close()
 
     def parse_blacklist(self, path):
         # Read the entire content of the file
@@ -71,7 +106,7 @@ class Hydrant():
                         'Title': entry.title,
                         'URL': entry.link,
                         'Published': dtParse.parse(entry.published),
-                        'Summary': getattr(entry, 'Summary', '')}
+                        'Summary': getattr(entry, 'summary', 'No summary available')}
 
                     if filter:
                         age = datetime.now(timezone.utc) - entry_data['Published']  # Calc article age
@@ -81,17 +116,25 @@ class Hydrant():
                             self.already_done += 1
                             print(f"Skipping {entry_data['Title']} since it's already been viewed.")
                         else:
+                            self.seen_URLs.add(entry_data["URL"])
                             if age <= timedelta(days=2):  # Ignore article if it's older than 2 days.
-                                entry_data['Content'] = self.get_article_text(entry_data["URL"])  # Get Article
+                                if (entry_data["Summary"] == "No summary available"):
+                                    verdict = "Unknown"
+                                else:
+                                    # Filter based on phi-2 seeing if article is related to buisness.
+                                    verdict = self.summary_filter(entry_data["Title"], entry_data["Summary"])
+                                if verdict == "True" or verdict == "Unknown":
+                                    entry_data['Content'] = self.get_article_text(entry_data["URL"])  # Get Article
 
-                                # Display information
-                                print(f"Found Story from {feed.feed.title} ({round(age.total_seconds() / 60 / 60, 2)} hrs ago) - {entry_data['Title']}")
-                                print(f"\t\t\t\t Article Text - {entry_data['Content']}")
-                                entries_list.append(entry_data)
-                                self.seen_URLs.add(entry_data["URL"])
+                                    # Display information
+                                    print(f"Found Story from {feed.feed.title} ({round(age.total_seconds() / 60 / 60, 2)} hrs ago) - {entry_data['Title']}")
+                                    print(f"\t\t\t\t Article Text - {entry_data['Summary']}")
+                                    entries_list.append(entry_data)
+                                else:
+                                    print(f"Skipping {entry_data['Title']} due to being irrelevant")
+                                    self.LLMFilter += 1
                             else:
                                 self.too_old += 1
-                                self.seen_URLs.add(entry_data["URL"])
                     else:
                         entries_list.append(entry_data)
                 except Exception as ex:
@@ -124,6 +167,39 @@ class Hydrant():
             text = text.replace(item, "")
         return text
 
+    def summary_filter(self, Title, RSSSummary):
+        client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
+        Messages = [
+            {"role": "system", "content": """You are given story headlines and summaries.
+Your task is to determine if they are related to companies or not.
+You should return your answers with either a Yes or No."""},
+        {"role": "user", "content": f"Title:{Title}\nSSummary:{RSSSummary}"}]
+        completion = client.chat.completions.create(model="local-model", messages=Messages, temperature=0.1,
+                max_tokens=1).choices[0].message.content.lower().strip().translate(str.maketrans('', '', string.punctuation)).split(" ")[0]
+        print(completion)
+        if completion == "yes" or completion == "true":
+            return "True"
+        elif completion == "no" or completion == "false":
+            return "False"
+        else:
+            return "Unknown"
+
+    def UpdateBlacklist(self):
+        try:
+            # Prepare a list of tuples from the set of URLs
+            url_tuples = [(url,) for url in self.seen_URLs]
+
+            # Execute the SQL command
+            self.db.cursor().executemany("INSERT INTO URL_BLACKLIST (URL) VALUES (%s) ON DUPLICATE KEY UPDATE URL=URL;",
+                                         url_tuples)
+
+            # Commit your changes in the database
+            self.db.commit()
+        except mysql.connector.Error as err:
+            # Handle errors such as duplicate entry
+            print(f"Error: {err}")
+            self.db.rollback()
+
 
 if __name__== "__main__":
     input("""You are running Hydrant as the main file NOT firehose\nPress ENTER to test the feeds.""")
@@ -137,4 +213,9 @@ if __name__== "__main__":
             Errors parsing: {H.errored_parsing}
             Errors text: {H.errored_text}
             URL Blacklist size: {len(H.seen_URLs)}
-            Blacklisted URL hits: {H.already_done} """)
+            Blacklisted URL hits: {H.already_done} 
+            Irrelevant: {H.LLMFilter}
+            
+            Updating URL Blacklist...""")
+    H.UpdateBlacklist()
+    print("Blacklist updated")
