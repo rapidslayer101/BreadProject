@@ -139,9 +139,9 @@ def tns(name):  # ticker name system  # todo work in progress
         for ticker in ticker_list:
             if f"{name} " in ticker[1].lower():
                 related_tickers.append([ticker[0], ticker[1]])
-                print(ticker)
+                #print(ticker)
             if f"{name}, " in ticker[1].lower():
-                print(ticker)
+                #print(ticker)
                 related_tickers.append([ticker[0], ticker[1]])
 
     relevant_indexes = []

@@ -11,3 +11,7 @@ CREATE TABLE IF NOT EXISTS ARTICLES (
     WEIGHTING INT
     -- SUGGESTED_IMPACT (uncomment and define type if needed)
 );
+
+create table IF NOT EXISTS URL_BLACKLIST (URL VARCHAR(255) primary KEY);
+
+select * from ARTICLES;
