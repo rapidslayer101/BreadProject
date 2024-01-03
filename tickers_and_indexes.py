@@ -6,10 +6,23 @@ import re
 import json
 import datetime
 import warnings
+from os import rename, mkdir
+from os.path import exists
+from datetime import datetime, timedelta
+from pandas import read_excel
 
 
 # file of functions to pull tickers and indexes from various sources
 # MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
+
+if not exists("TickerData"):
+    mkdir("TickerData")
+    print("Created TickerData directory...")
+else:
+    print("Found TickerData directory...")
+
+if not exists("TickerData/Tickers"):
+    mkdir("TickerData/Tickers")
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -71,7 +84,7 @@ def _convert_to_numeric(s):
     return force_float(s)
 
 
-# todo make work
+# todo check if needed
 def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=True,
                        interval="1d"):
 
@@ -124,14 +137,12 @@ def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=Tru
     
     if not index_as_date:  
         frame = frame.reset_index()
-        frame.rename(columns = {"index": "date"}, inplace = True)
+        frame.rename(columns={"index": "date"}, inplace = True)
         
     return frame
 
 
-def tickers_sp500():  # TODO ADD PERIOD INDEX FUND CHECK
-    # Downloads list of tickers currently listed in the S&P 500
-    # get list of all S&P 500 stocks
+def tickers_sp500():  # Downloads list of tickers currently listed in the S&P 500
     sp500 = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     sp_tickers = []
     for i in range(len(sp500)):
@@ -141,9 +152,7 @@ def tickers_sp500():  # TODO ADD PERIOD INDEX FUND CHECK
     return sp_tickers
 
 
-def _nasdaq_trader(search_param):
-    # Downloads list of tickers
-
+def _nasdaq_trader(search_param):  # Downloads list of nasdaq tickers
     ftp = ftplib.FTP("ftp.nasdaqtrader.com")
     ftp.login()
     ftp.cwd("SymbolDirectory")
@@ -186,19 +195,6 @@ def tickers_dow():  # Dow_Jones_Industrial_Average
                            f"{table.values[i][3]}")
 
     return dow_tickers    
-    
-
-#def tickers_ibovespa():
-#
-#    '''Downloads list of currently traded tickers on the Ibovespa, Brazil'''
-#
-#    table = pd.read_html("https://pt.wikipedia.org/wiki/Lista_de_companhias_citadas_no_Ibovespa")[0]
-#    table.columns = ["Symbol", "Share", "Sector", "Type", "Site"]
-#    print(table)
-#
-#    ibovespa_tickers = sorted(table.Symbol.tolist())
-#
-#    return ibovespa_tickers
 
 
 def tickers_nifty50():  # NIFTY 50, India
@@ -215,7 +211,7 @@ def tickers_ftse100():  # UK 100
     table = pd.read_html("https://en.wikipedia.org/wiki/FTSE_100_Index", attrs={"id": "constituents"})[0]
     ftse100 = []
     for i in range(len(table)):
-        ftse100.append(f"{table.values[i][1]}§{table.values[i][0]}§{table.values[i][2]}")
+        ftse100.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
 
     return ftse100
     
@@ -224,9 +220,99 @@ def tickers_ftse250():  # UK 250
     table = pd.read_html("https://en.wikipedia.org/wiki/FTSE_250_Index", attrs={"id": "constituents"})[0]
     ftse250 = []
     for i in range(len(table)):
-        ftse250.append(f"{table.values[i][1]}§{table.values[i][0]}§{table.values[i][2]}")
-
+        ftse250.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
     return ftse250
+
+
+def _writer_(file, refresh_days):
+    with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
+        f.write(f"# reload+after+{datetime.now()+timedelta(days=refresh_days)}\n")
+        if file == "sp_500":
+            data = tickers_sp500()  #
+        elif file == "nasdaq":
+            data = tickers_nasdaq()
+        elif file == "nasdaq_other":
+            data = tickers_us_other()
+        elif file == "dow_jones":
+            data = tickers_dow()
+        elif file == "nifty50":
+            data = tickers_nifty50()
+        elif file == "ftse100":
+            data = tickers_ftse100()
+        elif file == "ftse250":
+            data = tickers_ftse250()
+
+        ticker_info = []
+        for ticker in data:
+            f.write(f"{ticker}\n")
+            ticker_info.append(ticker.split("§"))
+
+    return ticker_info
+
+
+def refresh_ticker_data(file, refresh_days):
+    if not exists(f"TickerData/{file}.txt"):
+        print(f"Downloading {file} tickers...")
+        ticker_info = _writer_(file, refresh_days)
+    else:
+        with open(f"TickerData/{file}.txt", "r", encoding="utf-8") as f:
+            file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
+            if file_time < datetime.now():
+                ticker_info = _writer_(file, refresh_days)
+                print(f"Found and refreshed {file} tickers...")
+            else:
+                print(f"Found {file} tickers...")
+                ticker_info = []
+                for ticker in f.readlines():
+                    ticker_info.append(ticker.replace("\n", "").split("§"))
+    return ticker_info
+
+
+def _lse_writer_(data, file, refresh_days):
+    with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
+        f.write(f"# reload+after+{datetime.now()+timedelta(days=refresh_days)}\n")
+        for ticker in data:
+            line = ""
+            for i in range(len(ticker)):
+                line += f"{ticker[i]}.L§"
+            f.write(f"{line[:-1]}\n")
+
+
+def _lse_reader_():
+    if not exists(f"TickerData/lse.xlsx"):
+        print("LSE tickers not found, please download the file from "
+              "https://www.londonstockexchange.com/reports?tab=instruments, then save it as lse.xlsx in the "
+              "TickerData folder")
+        exit()
+    else:
+        print(f"Downloading lse tickers...")
+        data = read_excel(f"TickerData/lse.xlsx", None)
+        all_eq = data['1.0 All Equity'].values.tolist()[8:]
+        all_no_eq = data['2.0 All Non-Equity'].values.tolist()[8:]
+        _lse_writer_(all_eq, "lse", 31)
+        _lse_writer_(all_no_eq, "lse_eq", 31)
+        rename("TickerData/lse.xlsx", "TickerData/lse_old.xlsx")
+        return all_eq, all_no_eq
+
+
+def refresh_lse_tickers():
+    if not exists(f"TickerData/lse.txt") or not exists(f"TickerData/lse_eq.txt"):
+        return _lse_reader_()
+    else:
+        with open(f"TickerData/lse.txt", "r", encoding="utf-8") as f:
+            file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
+            if file_time < datetime.now():
+                return _lse_reader_()
+            else:
+                print(f"Found lse and lse_eq tickers...")
+                _lse = []
+                for ticker in f.readlines():
+                    _lse.append(ticker.replace("\n", "").split("§"))
+                with open(f"TickerData/lse_eq.txt", "r", encoding="utf-8") as g:
+                    _lse_eq = []
+                    for ticker in g.readlines()[1:]:
+                        _lse_eq.append(ticker.replace("\n", "").split("§"))
+                return _lse, _lse_eq
 
 
 def _site_scraper(site):
@@ -252,6 +338,7 @@ def get_ticker_stats(ticker):
     return _site_scraper(stats_site)
 
 
+# todo check which of below functions are useful
 def _parse_json(url, headers=default_headers):
     html = requests.get(url=url, headers=headers).text
     print(html)
@@ -293,11 +380,6 @@ def _parse_table(json_info):
     return df
 
 
-def get_ticker_profile(ticker):  # todo redundant as ticker.info has same info
-    prof_site = f"https://finance.yahoo.com/quote/{ticker}/profile?p={ticker}"
-    return _site_scraper(prof_site)
-
-
 # todo make work
 def get_income_statement(ticker, yearly=True):
     #inc_site = f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}"
@@ -317,17 +399,17 @@ def get_income_statement(ticker, yearly=True):
         temp = json_info["incomeStatementHistoryQuarterly"]["incomeStatementHistory"]
     
     return _parse_table(temp)      
-        
+
 
 def get_balance_sheet(ticker, yearly=True):
-    
-    '''Scrapes balance sheet from Yahoo Finance for an input ticker 
-    
+
+    '''Scrapes balance sheet from Yahoo Finance for an input ticker
+
        @param: ticker
-    '''    
+    '''
 
     json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/balance-sheet?p={ticker}")
-    
+
     try:
         if yearly:
             temp = json_info["balanceSheetHistory"]["balanceSheetStatements"]
@@ -335,25 +417,25 @@ def get_balance_sheet(ticker, yearly=True):
             temp = json_info["balanceSheetHistoryQuarterly"]["balanceSheetStatements"]
     except:
         temp = []
-        
-    return _parse_table(temp)      
+
+    return _parse_table(temp)
 
 
 def get_cash_flow(ticker, yearly=True):
-    
-    '''Scrapes the cash flow statement from Yahoo Finance for an input ticker 
-    
+
+    '''Scrapes the cash flow statement from Yahoo Finance for an input ticker
+
        @param: ticker
     '''
 
     json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/cash-flow?p={ticker}")
-    
+
     if yearly:
         temp = json_info["cashflowStatementHistory"]["cashflowStatements"]
     else:
         temp = json_info["cashflowStatementHistoryQuarterly"]["cashflowStatements"]
-        
-    return _parse_table(temp)      
+
+    return _parse_table(temp)
 
 
 def get_financials(ticker, yearly=True, quarterly=True):
@@ -470,17 +552,17 @@ def _raw_get_daily_info(site):
     return df
     
 
-def get_day_most_active(count: int = 100):
+def get_day_most_active(count: int=100):
 
     return _raw_get_daily_info(f"https://finance.yahoo.com/most-active?offset=0&count={count}")
 
 
-def get_day_gainers(count: int = 100):
+def get_day_gainers(count: int=100):
 
     return _raw_get_daily_info(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
 
 
-def get_day_losers(count: int = 100):
+def get_day_losers(count: int=100):
 
     return _raw_get_daily_info(f"https://finance.yahoo.com/losers?offset=0&count={count}")
 
@@ -685,7 +767,7 @@ def get_earnings_history(ticker):
         return result["context"]["dispatcher"]["stores"]["ScreenerResultsStore"]["results"]["rows"]
 
 
-def get_earnings_for_date(date, offset = 0, count = 1):
+def get_earnings_for_date(date, offset=0, count=1):
 
     '''Inputs: @date
        Returns a dictionary of stock tickers with earnings expected on the
@@ -836,18 +918,3 @@ def get_postmarket_price(ticker):
         return quote_data["postMarketPrice"]
     
     raise AssertionError("Postmarket price not currently available.")
-    
-
-# Company Information Functions
-def get_company_info(ticker):
-    '''Scrape the company information for a ticker
-
-       @param: ticker
-    '''
-    site = f"https://finance.yahoo.com/quote/{ticker}/profile?p={ticker}"
-    json_info = _parse_json(site)
-    json_info = json_info["assetProfile"]
-    info_frame = pd.DataFrame.from_dict(json_info, orient="index", columns=["Value"])
-    info_frame = info_frame.drop("companyOfficers", axis="index")
-    info_frame.index.name = "Breakdown"
-    return info_frame
