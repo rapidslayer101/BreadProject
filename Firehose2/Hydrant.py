@@ -25,6 +25,9 @@ from dateutil import parser as dtParse
 from openai import OpenAI
 import string
 
+client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
+
+
 class Hydrant():
 
     too_old = 0
@@ -129,6 +132,7 @@ class Hydrant():
                                     # Display information
                                     print(f"Found Story from {feed.feed.title} ({round(age.total_seconds() / 60 / 60, 2)} hrs ago) - {entry_data['Title']}")
                                     print(f"\t\t\t\t Article Text - {entry_data['Summary']}")
+                                    self.Affected_Companies(entry_data["Title"], entry_data["Content"])
                                     entries_list.append(entry_data)
                                 else:
                                     print(f"Skipping {entry_data['Title']} due to being irrelevant")
@@ -168,7 +172,6 @@ class Hydrant():
         return text
 
     def summary_filter(self, Title, RSSSummary):
-        client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
         Messages = [
             {"role": "system", "content": """You are given story headlines and summaries.
 Your task is to determine if they are related to companies or not.
@@ -183,6 +186,21 @@ You should return your answers with either a Yes or No."""},
             return "False"
         else:
             return "Unknown"
+
+    def Affected_Companies(self, Title, Article_Text):
+        msgs = [
+            {"role": "system", "content":
+            """You identify companies in news articles.
+            List companies affected line by line
+            Only output a list of company names.
+            Do not give any summary or context"""},
+            {"role": "user", "content": f"Title:{Title}\nSSummary:{Article_Text}"}]
+
+        completion = client.chat.completions.create(model="local-model", messages=msgs, temperature=0.1,max_tokens=10).choices[0].message
+        print(completion)
+        return completion
+
+
 
     def UpdateBlacklist(self):
         try:
