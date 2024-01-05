@@ -274,7 +274,10 @@ def _lse_writer_(data, file, refresh_days):
         for ticker in data:
             line = ""
             for i in range(len(ticker)):
-                line += f"{ticker[i]}.L§"
+                if i == 0:
+                    line += f"{ticker[i]}.L§"
+                else:
+                    line += f"{ticker[i]}§"
             f.write(f"{line[:-1]}\n")
 
 

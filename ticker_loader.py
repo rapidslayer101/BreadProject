@@ -2,7 +2,8 @@ from tickers_and_indexes import *
 from datetime import datetime, timedelta
 import yfinance as yf
 
-# File to load TICKERS, INDEXES and COMPANIES so that AI can link them together
+# This file contains the TNS and other cache based functions
+# TNS links TICKERS, INDEXES and COMPANIES together
 # This file should be called when the program starts
 
 
@@ -69,7 +70,7 @@ def _ticker_info_writer_(_ticker):
     return ticker_profile
 
 
-# first time load extract ticker data for company profile, currency, and other and cache
+# loads company profile from cache or downloads it, returns profile data
 def load_ticker_info(_ticker):
     if exists(f"TickerData/Tickers/{_ticker}/profile.txt"):
         with open(f"TickerData/Tickers/{_ticker}/profile.txt", "r", encoding="utf-8") as f:
@@ -86,6 +87,28 @@ def load_ticker_info(_ticker):
             mkdir(f"TickerData/Tickers/{_ticker}")
         ticker_profile = _ticker_info_writer_(_ticker)
     return ticker_profile
+
+
+# todo check profile formats for ETF, FUND, COMMON STOCK, SHARES
+# todo basically check if more or less data is provided than the predefined list in _ticker_info_writer_
+# todo do not wish to miss data, MAKE EXCLUSION LIST RATHER THAN INCLUSION LIST
+# lse = ["SHRS", "ETFS", "DPRS", "OTHR"]
+# nasdaq = ??? a mess of like 400 different types, more research needed
+
+data_set = set()
+for ticker in nasdaq:
+    try:
+        t_type = ticker[2]
+        if t_type not in []:
+            print(t_type)
+            data_set.add(t_type)
+            #print(ticker)
+    except:
+        pass
+print(data_set)
+
+
+input()
 
 
 # the below block of code is TNS logic
@@ -115,15 +138,17 @@ except KeyError:
         exit(f"Ticker error: TNS failed to resolve ticker")
 # the above block of code is TNS logic
 
+
 print(ticker[0][0], index)
 print(get_ticker_data(ticker[0][0]))
 print(get_ticker_stats(ticker[0][0]))
 ticker_data = load_ticker_info(ticker[0][0])  # loads from cache or generates cache
 
-t_object = yf.Ticker(ticker[0][0])
-
 input("Enter to fetch all data: ")
+t_object = yf.Ticker(ticker[0][0])
 print(t_object.news)  # << live
+
+input()
 print(t_object.earnings_dates)
 print(t_object.dividends.values)
 print(t_object.actions)
