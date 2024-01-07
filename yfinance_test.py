@@ -6,7 +6,7 @@ import yfinance as yf
 msft = yf.Ticker("TSLA")
 
 # get all stock info
-#print(msft.info)
+print(msft.info)
 print(msft)
 
 input()

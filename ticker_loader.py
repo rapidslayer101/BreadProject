@@ -51,22 +51,27 @@ def _ticker_info_writer_(_ticker):
     ticker_profile = {}
     with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
         f.write(f"# reload+after+{datetime.now() + timedelta(days=14)}\n")
-        for key in t_info.keys():
-            if key == "previousClose":
-                break
-            f.write(f"{key}§{t_info[key]}\n")
-            ticker_profile.update({key: t_info[key]})
-        keys = ["forwardEps", "pegRatio", "lastDividendValue", "currency", "exchange", "quoteType", "shortName",
-                "longName", "firstTradeDateEpochUtc", "timeZoneFullName", "timeZoneShortName", "uuid",
-                "messageBoardId", "gmtOffSetMilliseconds", "targetHighPrice", "targetLowPrice", "targetMeanPrice",
-                "targetMedianPrice", "recommendationMean", "recommendationKey", "numberOfAnalystOpinions",
-                "quickRatio", "earningsGrowth", "grossMargins", "ebitdaMargins", "trailingPegRatio"]
-        for key in keys:
-            try:
-                f.write(f"{key}§{t_info[key]}\n")
-                ticker_profile.update({key: t_info[key]})
-            except KeyError:
-                print(f"KeyError: {key}")
+        # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
+        ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
+                   "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
+                   "regularMarketVolume", "averageVolume", "averageVolume10days", "averageDailyVolume10Day", "bid",
+                   "ask", "bidSize", "askSize", "marketCap", "fiftyTwoWeekLow", "fiftyTwoWeekHigh", "fiftyDayAverage",
+                   "twoHundredDayAverage", "trailingAnnualDividendRate", "trailingAnnualDividendYield",
+                   "enterpriseValue", "profitMargins", "floatShares", "sharesOutstanding", "sharesShort",
+                   "sharesShortPriorMonth", "sharesShortPreviousMonthDate", "sharesPercentSharesOut",
+                   "heldPercentInsiders", "heldPercentInstitutions", "shortRatio", "shortPercentOfFloat",
+                   "impliedSharesOutstanding", "bookValue", "priceToBook", "lastFiscalYearEnd", "nextFiscalYearEnd",
+                   "mostRecentQuarter", "earningsQuarterlyGrowth", "netIncomeToCommon", "trailingEps",
+                   "lastSplitFactor", "lastSplitDate", "enterpriseToRevenue", "enterpriseToEbitda", "52WeekChange",
+                   "SandP52WeekChange", "symbol", "underlyingSymbol", "currentPrice", "totalCash", "totalCashPerShare",
+                   "ebitda", "totalDebt", "currentRatio", "totalRevenue", "debtToEquity", "revenuePerShare",
+                   "returnOnAssets", "returnOnEquity", "grossProfits", "freeCashflow", "operatingCashflow",
+                   "revenueGrowth", "operatingMargins", "financialCurrency"]
+
+        for _key in t_info.keys():
+            if _key not in ex_keys:
+                f.write(f"{_key}§{t_info[_key]}\n")
+                ticker_profile.update({_key: t_info[_key]})
     return ticker_profile
 
 
@@ -89,25 +94,12 @@ def load_ticker_info(_ticker):
     return ticker_profile
 
 
-# todo check profile formats for ETF, FUND, COMMON STOCK, SHARES
-# todo basically check if more or less data is provided than the predefined list in _ticker_info_writer_
-# todo do not wish to miss data, MAKE EXCLUSION LIST RATHER THAN INCLUSION LIST
 # lse = ["SHRS", "ETFS", "DPRS", "OTHR"]
+# todo detect type of ticker loaded
+# todo improve TNS for ETF type finder, eg ISF.L working (basically checking 2nd index)
 # nasdaq = ??? a mess of like 400 different types, more research needed
 
-data_set = set()
-for ticker in nasdaq:
-    try:
-        t_type = ticker[2]
-        if t_type not in []:
-            print(t_type)
-            data_set.add(t_type)
-            #print(ticker)
-    except:
-        pass
-print(data_set)
-
-
+print(get_earnings_for_date(datetime.now()+timedelta(days=1)))
 input()
 
 
@@ -138,17 +130,22 @@ except KeyError:
         exit(f"Ticker error: TNS failed to resolve ticker")
 # the above block of code is TNS logic
 
-
 print(ticker[0][0], index)
-print(get_ticker_data(ticker[0][0]))
-print(get_ticker_stats(ticker[0][0]))
+print(ticker_live)
+ticker_stats = get_ticker_stats(ticker[0][0])
+if "Previous Close" in ticker_stats.keys():
+    print("Ticker doesnt have stats")
+    ticker_stats = {}
+else:
+    print(ticker_stats)
+
 ticker_data = load_ticker_info(ticker[0][0])  # loads from cache or generates cache
+print(ticker_data)
 
 input("Enter to fetch all data: ")
 t_object = yf.Ticker(ticker[0][0])
-print(t_object.news)  # << live
 
-input()
+print(t_object.news)  # << live
 print(t_object.earnings_dates)
 print(t_object.dividends.values)
 print(t_object.actions)
@@ -166,9 +163,11 @@ print(t_object.quarterly_financials)
 print(t_object.quarterly_income_stmt)
 print(t_object.splits)
 
+t_object.get_ear
+
 print(ticker_data)
 
-input()
+input("FINISHED.")
 print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
 
 

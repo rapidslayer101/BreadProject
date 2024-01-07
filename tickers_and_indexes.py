@@ -383,170 +383,41 @@ def _parse_table(json_info):
     return df
 
 
-# todo make work
-def get_income_statement(ticker, yearly=True):
-    #inc_site = f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}"
-    #return _site_scraper(inc_site)
-
-    
-    '''Scrape income statement from Yahoo Finance for a given ticker
-    
-       @param: ticker
-    '''
-
-    json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}")
-    
-    if yearly:
-        temp = json_info["incomeStatementHistory"]["incomeStatementHistory"]
-    else:
-        temp = json_info["incomeStatementHistoryQuarterly"]["incomeStatementHistory"]
-    
-    return _parse_table(temp)      
-
-
-def get_balance_sheet(ticker, yearly=True):
-
-    '''Scrapes balance sheet from Yahoo Finance for an input ticker
-
-       @param: ticker
-    '''
-
-    json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/balance-sheet?p={ticker}")
-
-    try:
-        if yearly:
-            temp = json_info["balanceSheetHistory"]["balanceSheetStatements"]
-        else:
-            temp = json_info["balanceSheetHistoryQuarterly"]["balanceSheetStatements"]
-    except:
-        temp = []
-
-    return _parse_table(temp)
-
-
-def get_cash_flow(ticker, yearly=True):
-
-    '''Scrapes the cash flow statement from Yahoo Finance for an input ticker
-
-       @param: ticker
-    '''
-
-    json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/cash-flow?p={ticker}")
-
-    if yearly:
-        temp = json_info["cashflowStatementHistory"]["cashflowStatements"]
-    else:
-        temp = json_info["cashflowStatementHistoryQuarterly"]["cashflowStatements"]
-
-    return _parse_table(temp)
-
-
-def get_financials(ticker, yearly=True, quarterly=True):
-
-    '''Scrapes financials data from Yahoo Finance for an input ticker, including
-       balance sheet, cash flow statement, and income statement.  Returns dictionary
-       of results.
-    
-       @param: ticker
-       @param: yearly = True
-       @param: quarterly = True
-    '''
-
-    if not yearly and not quarterly:
-        raise AssertionError("yearly or quarterly must be True")
-
-    json_info = _parse_json(f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}")
-    
-    result = {}
-    
-    if yearly:
-
-        temp = json_info["incomeStatementHistory"]["incomeStatementHistory"]
-        table = _parse_table(temp)
-        result["yearly_income_statement"] = table
-    
-        temp = json_info["balanceSheetHistory"]["balanceSheetStatements"]
-        table = _parse_table(temp)
-        result["yearly_balance_sheet"] = table
-        
-        temp = json_info["cashflowStatementHistory"]["cashflowStatements"]
-        table = _parse_table(temp)
-        result["yearly_cash_flow"] = table
-
-    if quarterly:
-        temp = json_info["incomeStatementHistoryQuarterly"]["incomeStatementHistory"]
-        table = _parse_table(temp)
-        result["quarterly_income_statement"] = table
-    
-        temp = json_info["balanceSheetHistoryQuarterly"]["balanceSheetStatements"]
-        table = _parse_table(temp)
-        result["quarterly_balance_sheet"] = table
-        
-        temp = json_info["cashflowStatementHistoryQuarterly"]["cashflowStatements"]
-        table = _parse_table(temp)
-        result["quarterly_cash_flow"] = table
-
-    return result
-
-
-def get_holders(ticker, headers={'User-agent': 'Mozilla/5.0'}):
-    
-    '''Scrapes the Holders page from Yahoo Finance for an input ticker 
-    
-       @param: ticker
-    '''    
-
+# todo check usefulness, it still works at least
+def get_holders(ticker, headers=default_headers):
+    # Scrapes the Holders page from Yahoo Finance for an input ticker
     holders_site = f"https://finance.yahoo.com/quote/{ticker}/holders?p={ticker}"
-        
     tables = pd.read_html(requests.get(holders_site, headers=headers).text)
-
-    table_names = ["Major Holders" , "Direct Holders (Forms 3 and 4)" ,
-                   "Top Institutional Holders" , "Top Mutual Fund Holders"]
-
-    table_mapper = {key : val for key,val in zip(table_names , tables)}
+    table_names = ["Major Holders", "Direct Holders (Forms 3 and 4)",
+                   "Top Institutional Holders", "Top Mutual Fund Holders"]
+    table_mapper = {key: val for key, val in zip(table_names, tables)}
 
     return table_mapper       
 
 
-def get_analysts_info(ticker, headers = {'User-agent': 'Mozilla/5.0'}):
-    
-    '''Scrapes the Analysts page from Yahoo Finance for an input ticker 
-    
-       @param: ticker
-    '''    
-
+# todo check usefulness, it still works at least
+def get_analysts_info(ticker, headers=default_headers):
+    # Scrapes the Analysts page from Yahoo Finance for an input ticker
     analysts_site = f"https://finance.yahoo.com/quote/{ticker}/analysts?p={ticker}"
-    
     tables = pd.read_html(requests.get(analysts_site, headers=headers).text)
-    
     table_names = [table.columns[0] for table in tables]
-
-    table_mapper = {key : val for key , val in zip(table_names , tables)}
+    table_mapper = {key: val for key, val in zip(table_names, tables)}
 
     return table_mapper
 
-    
-def _raw_get_daily_info(site):
-       
-    session = HTMLSession()
-    
-    resp = session.get(site)
-    
-    tables = pd.read_html(resp.html.raw_html)  
-    
-    df = tables[0].copy()
-    
-    df.columns = tables[0].columns
-    
-    del df["52 Week Range"]
-    
-    df["% Change"] = df["% Change"].map(lambda x: float(x.strip("%+").replace(",", "")))
 
-    fields_to_change = [x for x in df.columns.tolist() if "Vol" in x \
-                        or x == "Market Cap"]
+# todo check usefulness, it still works at least
+def _raw_get_daily_info(site):
+    session = HTMLSession()
+    resp = session.get(site)
+    tables = pd.read_html(resp.html.raw_html)
+    df = tables[0].copy()
+    df.columns = tables[0].columns
+    del df["52 Week Range"]
+    df["% Change"] = df["% Change"].map(lambda x: float(x.strip("%+").replace(",", "")))
+    fields_to_change = [x for x in df.columns.tolist() if "Vol" in x or x == "Market Cap"]
     
     for field in fields_to_change:
-        
         if type(df[field][0]) == str:
             df[field] = df[field].map(_convert_to_numeric)
             
@@ -556,20 +427,18 @@ def _raw_get_daily_info(site):
     
 
 def get_day_most_active(count: int=100):
-
     return _raw_get_daily_info(f"https://finance.yahoo.com/most-active?offset=0&count={count}")
 
 
 def get_day_gainers(count: int=100):
-
     return _raw_get_daily_info(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
 
 
 def get_day_losers(count: int=100):
-
     return _raw_get_daily_info(f"https://finance.yahoo.com/losers?offset=0&count={count}")
 
 
+# todo BROKEN CHECK IF WORKS
 def get_top_crypto():
     
     '''Gets the top 100 Cryptocurrencies by Market Cap'''      
@@ -601,7 +470,8 @@ def get_top_crypto():
                 
     return df
                     
-        
+
+# todo check usefulness against yf.Ticker(ticker).dividends.values
 def get_dividends(ticker, start_date=None, end_date=None, index_as_date=True, headers=default_headers):
     '''Downloads historical dividend data into a pandas data frame.
     
@@ -650,6 +520,7 @@ def get_dividends(ticker, start_date=None, end_date=None, index_as_date=True, he
     return frame
 
 
+# todo works, touch up code
 def get_splits(ticker, start_date=None, end_date=None, index_as_date=True, headers=default_headers):
     '''Downloads historical stock split data into a pandas data frame.
     
@@ -678,7 +549,7 @@ def get_splits(ticker, start_date=None, end_date=None, index_as_date=True, heade
     
     frame = frame.transpose()
         
-    frame.index = pd.to_datetime(frame.index, unit = "s")
+    frame.index = pd.to_datetime(frame.index, unit="s")
     frame.index = frame.index.map(lambda dt: dt.floor("d"))
     
     # sort in to chronological order
@@ -691,11 +562,12 @@ def get_splits(ticker, start_date=None, end_date=None, index_as_date=True, heade
     
     if not index_as_date:  
         frame = frame.reset_index()
-        frame.rename(columns = {"index": "date"}, inplace = True)
+        frame.rename(columns={"index": "date"}, inplace=True)
         
     return frame
         
 
+# todo check against yf.Ticker(ticker).get_earnings()
 def get_earnings(ticker):
     
     '''Scrapes earnings data from Yahoo Finance for an input ticker 
@@ -709,8 +581,7 @@ def get_earnings(ticker):
         "quarterly_revenue_earnings": pd.DataFrame()
     }
 
-    financials_site = "https://finance.yahoo.com/quote/" + ticker + \
-        "/financials?p=" + ticker
+    financials_site = f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}"
 
     json_info = _parse_json(financials_site)
 
@@ -745,31 +616,26 @@ def _parse_earnings_json(url, headers=default_headers):
         return json.loads(page_data)
 
 
+# todo check against yf.Ticker(ticker).get_earnings_dates()
 def get_next_earnings_date(ticker):
-        
-    base_earnings_url = 'https://finance.yahoo.com/quote'
-    new_url = base_earnings_url + "/" + ticker
-
-    parsed_result = _parse_earnings_json(new_url)
-    
+    parsed_result = _parse_earnings_json(f"https://finance.yahoo.com/quote/{ticker}")
     temp = parsed_result['context']['dispatcher']['stores']['QuoteSummaryStore']['calendarEvents']['earnings']['earningsDate'][0]['raw']
 
     return datetime.datetime.fromtimestamp(temp)
 
 
 def get_earnings_history(ticker):
-    
         '''Inputs: @ticker
            Returns the earnings calendar history of the input ticker with 
            EPS actual vs. expected data.'''
-
-        url = 'https://finance.yahoo.com/calendar/earnings?symbol=' + ticker
+        url = f"https://finance.yahoo.com/calendar/earnings?symbol={ticker}"
          
         result = _parse_earnings_json(url)
         
         return result["context"]["dispatcher"]["stores"]["ScreenerResultsStore"]["results"]["rows"]
 
 
+# todo does not scrap LSE, check against yf.Ticker(ticker).get_earnings()
 def get_earnings_for_date(date, offset=0, count=1):
 
     '''Inputs: @date
@@ -835,89 +701,21 @@ def get_earnings_in_date_range(start_date, end_date):
         return earnings_data
 
 
-def get_currencies(headers={'User-agent': 'Mozilla/5.0'}):
-    
-    '''Returns the currencies table from Yahoo Finance'''
-    
+def get_currencies(headers=default_headers):
+    # Returns the currencies table from Yahoo Finance
     site = "https://finance.yahoo.com/currencies"
-    tables = pd.read_html(requests.get(site, headers=headers).text)
-    
-    result = tables[0]
-    
-    return result
+    return pd.read_html(requests.get(site, headers=headers).text)[0]
 
 
-def get_futures(headers={'User-agent': 'Mozilla/5.0'}):
-    
-    '''Returns the futures table from Yahoo Finance'''
-    
+def get_futures(headers=default_headers):
+    # Returns the futures table from Yahoo Finance
     site = "https://finance.yahoo.com/commodities"
-    tables = pd.read_html(requests.get(site, headers=headers).text)
-    
-    result = tables[0]
-    
-    return result
+    return pd.read_html(requests.get(site, headers=headers).text)[0]
 
 
-def get_undervalued_large_caps(headers = {'User-agent': 'Mozilla/5.0'}):
-    
-    '''Returns the undervalued large caps table from Yahoo Finance'''
-    
+def get_undervalued_large_caps(headers=default_headers):
+    # Returns the undervalued large caps table from Yahoo Finance
     site = "https://finance.yahoo.com/screener/predefined/undervalued_large_caps?offset=0&count=100"
-    
-    tables = pd.read_html(requests.get(site, headers=headers).text)
-    
-    result = tables[0]
-    
-    return result
+    return pd.read_html(requests.get(site, headers=headers).text)[0]
 
 
-def get_quote_data(ticker, headers=default_headers):
-    
-    '''Inputs: @ticker
-    
-       Returns a dictionary containing over 70 elements corresponding to the 
-       input ticker, including company name, book value, moving average data,
-       pre-market / post-market price (when applicable), and more.'''
-
-    site = f"https://query1.finance.yahoo.com/v7/finance/quote?symbols={ticker}"
-    resp = requests.get(site, headers=headers)
-    
-    if not resp.ok:
-        raise AssertionError("""Invalid response from server.  Check if ticker is
-                              valid.""")
-
-    json_result = resp.json()
-    info = json_result["quoteResponse"]["result"]
-    
-    return info[0]
-
-
-def get_premarket_price(ticker):
-
-    '''Inputs: @ticker
-    
-       Returns the current pre-market price of the input ticker
-       (returns value if pre-market price is available.'''
-    
-    quote_data = get_quote_data(ticker)
-    
-    if "preMarketPrice" in quote_data:
-        return quote_data["preMarketPrice"]
-        
-    raise AssertionError("Premarket price not currently available.")
-
-
-def get_postmarket_price(ticker):
-
-    '''Inputs: @ticker
-    
-       Returns the current post-market price of the input ticker
-       (returns value if pre-market price is available.'''
-    
-    quote_data = get_quote_data(ticker)
-    
-    if "postMarketPrice" in quote_data:
-        return quote_data["postMarketPrice"]
-    
-    raise AssertionError("Postmarket price not currently available.")
