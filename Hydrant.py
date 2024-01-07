@@ -24,8 +24,13 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dtParse
 from openai import OpenAI
 import string
+import ticker_loader as Ticker
 
-client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
+NOSQL = True # If true, does not try anything with MySQL
+NOLLM = True # If true, does not try to use LLM
+
+if NOLLM:
+    client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
 
 
 class Hydrant():
@@ -35,47 +40,65 @@ class Hydrant():
     errored_parsing = 0
     already_done = 0
     LLMFilter = 0
+    NotablePeopleHits = 0
 
     # Sources is a set to prevent dupe issues
     sources = set([])
     blacklist = set([])
     seen_URLs = set([])
 
-    db = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="Mavik",
-        database="Oven"
-    )
+    # Names of companies and their executives
+    Execs = dict([])
+    CompanyNames = set([])
+
+    if not NOSQL:
+        db = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="Mavik",
+            database="Oven"
+        )
 
     def __init__(self):
-        self.parse_sources("Data/FirehoseSources.txt")
-        self.parse_blacklist("Data/Blacklist.txt")
+        self.parse_sources("HydrantData/FirehoseSources.txt")
+        self.parse_blacklist("HydrantData/Blacklist.txt")
         self.LoadURLBlacklist()
+        self.LoadExecData()
+
+
+    def LoadExecData(self):
+        dat = Ticker.get_exec_data()
+        print(len(dat))
+        for key in dat.keys():
+            for exec in dat[key]:
+                self.Execs.update({exec["name"]: key})
 
     def LoadURLBlacklist(self):
-        try:
-            # Initialize the cursor
-            cursor = self.db.cursor()
+        if NOSQL:
+            self.seen_URLs = set()
+        else:
+            try:
+                # Initialize the cursor
+                cursor = self.db.cursor()
 
-            # Execute the SQL command to select URLs
-            cursor.execute("SELECT URL FROM URL_BLACKLIST;")
+                # Execute the SQL command to select URLs
+                cursor.execute("SELECT URL FROM URL_BLACKLIST;")
 
-            # Fetch all the results
-            results = cursor.fetchall()
+                # Fetch all the results
+                results = cursor.fetchall()
 
-            # Convert the results (a list of tuples) into a set of URLs
-            self.seen_URLs = set(url[0] for url in results)
+                # Convert the results (a list of tuples) into a set of URLs
+                self.seen_URLs = set(url[0] for url in results)
 
-            # Print the number of loaded URLs
-            print(f"Loaded {len(self.seen_URLs)} blacklisted URLs")
+                # Print the number of loaded URLs
+                print(f"Loaded {len(self.seen_URLs)} blacklisted URLs")
 
-        except mysql.connector.Error as err:
-            # Handle any errors that occur
-            print(f"Error: {err}")
-        finally:
-            # Ensure the cursor is closed after operation
-            cursor.close()
+            except mysql.connector.Error as err:
+                # Handle any errors that occur
+                print(f"Error: {err}")
+            finally:
+                # Ensure the cursor is closed after operation
+                cursor.close()
 
     def parse_blacklist(self, path):
         # Read the entire content of the file
@@ -128,7 +151,7 @@ class Hydrant():
                                     verdict = self.summary_filter(entry_data["Title"], entry_data["Summary"])
                                 if verdict == "True" or verdict == "Unknown":
                                     entry_data['Content'] = self.get_article_text(entry_data["URL"])  # Get Article
-
+                                    self.Find_People_Of_interest(entry_data["Content"])
                                     # Display information
                                     print(f"Found Story from {feed.feed.title} ({round(age.total_seconds() / 60 / 60, 2)} hrs ago) - {entry_data['Title']}")
                                     print(f"\t\t\t\t Article Text - {entry_data['Summary']}")
@@ -147,6 +170,13 @@ class Hydrant():
 
 
         return entries_list
+
+    def Find_People_Of_interest(self, Article_Text):
+        for exec in self.Execs.keys():
+            if exec in Article_Text:
+                self.NotablePeopleHits += 1
+                self.CompanyNames.add(self.Execs[exec])
+                print("Found " + exec + " in article")
 
     def get_article_text(self, url):
         response = requests.get(url,  headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'})
@@ -172,6 +202,9 @@ class Hydrant():
         return text
 
     def summary_filter(self, Title, RSSSummary):
+        if NOLLM:
+            return "UNKNOWN"
+
         Messages = [
             {"role": "system", "content": """You are given story headlines and summaries.
 Your task is to determine if they are related to companies or not.
@@ -187,22 +220,11 @@ You should return your answers with either a Yes or No."""},
         else:
             return "Unknown"
 
-    def Affected_Companies(self, Title, Article_Text):
-        msgs = [
-            {"role": "system", "content":
-            """You identify companies in news articles.
-            List companies affected line by line
-            Only output a list of company names.
-            Do not give any summary or context"""},
-            {"role": "user", "content": f"Title:{Title}\nSSummary:{Article_Text}"}]
-
-        completion = client.chat.completions.create(model="local-model", messages=msgs, temperature=0.1,max_tokens=10).choices[0].message
-        print(completion)
-        return completion
-
-
 
     def UpdateBlacklist(self):
+        if NOSQL:
+            print("Not updating blacklist since NOSQL is true.")
+            return
         try:
             # Prepare a list of tuples from the set of URLs
             url_tuples = [(url,) for url in self.seen_URLs]
@@ -219,11 +241,13 @@ You should return your answers with either a Yes or No."""},
             self.db.rollback()
 
 
-if __name__== "__main__":
+if __name__ == "__main__":
     input("""You are running Hydrant as the main file NOT firehose\nPress ENTER to test the feeds.""")
     start = time.time()
     H = Hydrant()
     URLSet = H.get_stories(H.sources)
+    print("comp names" + len(H.CompanyNames))
+    print("execs" + len(H.Execs))
     print(f"""Stats
             Took {round((time.time() - start),2)}s
             Ready: {len(URLSet)}
@@ -233,6 +257,8 @@ if __name__== "__main__":
             URL Blacklist size: {len(H.seen_URLs)}
             Blacklisted URL hits: {H.already_done} 
             Irrelevant: {H.LLMFilter}
+            Notable People: {H.NotablePeopleHits}
+
             
             Updating URL Blacklist...""")
     H.UpdateBlacklist()

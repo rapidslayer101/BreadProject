@@ -2,3 +2,4 @@
 - Function to get live price of ticker -- ticker.history or get_ticker_data() <-- prob last
 - Function to get earnings calls -- ticker.earnings_dates
 - Get extra links on ticker -- ticker.news -- feed to hydrant
+- Cache randomisation time

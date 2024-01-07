@@ -1,5 +1,7 @@
 from tickers_and_indexes import *
+from random import randint
 from datetime import datetime, timedelta
+from os import listdir
 import yfinance as yf
 
 # This file contains the TNS and other cache based functions
@@ -24,7 +26,6 @@ lse, lse_eq = refresh_lse_tickers()  # type tickers
 tickers = {'nasdaq': nasdaq, 'nasdaq_other': nasdaq_other, 'lse': lse, 'lse_eq': lse_eq}
 indexes = {'sp_500': sp_500, 'dow_jones': dow_jones, 'nifty50': nifty50, 'ftse100': ftse100, 'ftse250': ftse250}
 
-
 print("Loaded tickers and indexes successfully...\n-------------------------------------------")
 
 
@@ -46,11 +47,16 @@ def tns(name):  # ticker name system  # todo work in progress
 
 
 def _ticker_info_writer_(_ticker):
-    t_object = yf.Ticker(_ticker)
-    t_info = t_object.info
+    try:
+        t_object = yf.Ticker(_ticker)
+        t_info = t_object.info
+    except requests.exceptions.HTTPError:
+        print(f"Ticker {_ticker} profile failed to load: HTTPError")
+        return {}
     ticker_profile = {}
     with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
-        f.write(f"# reload+after+{datetime.now() + timedelta(days=14)}\n")
+        r_day_add, r_hour_add = randint(0, 3), randint(0, 23)
+        f.write(f"# reload+after+{datetime.now()+timedelta(days=12+r_day_add)+timedelta(hours=r_hour_add)}\n")
         # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
         ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
                    "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
@@ -70,6 +76,7 @@ def _ticker_info_writer_(_ticker):
 
         for _key in t_info.keys():
             if _key not in ex_keys:
+                t_info[_key] = str(t_info[_key]).replace("\n", "")
                 f.write(f"{_key}§{t_info[_key]}\n")
                 ticker_profile.update({_key: t_info[_key]})
     return ticker_profile
@@ -94,81 +101,101 @@ def load_ticker_info(_ticker):
     return ticker_profile
 
 
+# todo refresh profile caches out of date
+exec_dict = {}
+for folder in listdir("TickerData/Tickers"):
+    if exists(f"TickerData/Tickers/{folder}/profile.txt"):
+        with open(f"TickerData/Tickers/{folder}/profile.txt", "r", encoding="utf-8") as f:
+            ticker_profile = load_ticker_info(folder)
+            if "companyOfficers" in ticker_profile:
+                exec_dict.update({folder: eval(ticker_profile["companyOfficers"])})
+
+
+def get_exec_data():
+    return exec_dict
+
+
 # lse = ["SHRS", "ETFS", "DPRS", "OTHR"]
 # todo detect type of ticker loaded
 # todo improve TNS for ETF type finder, eg ISF.L working (basically checking 2nd index)
 # nasdaq = ??? a mess of like 400 different types, more research needed
 
-print(get_earnings_for_date(datetime.now()+timedelta(days=1)))
-input()
+# code to generate ticker profile cache
+#counter = 0
+#for ticker_name in nasdaq:
+#    counter += 1
+#    print(ticker_name[0], load_ticker_info(ticker_name[0]))
+#    print(counter)
+#input()
+
+
 
 
 # the below block of code is TNS logic
-while True:
-    c_name = input("Ticker name: ")
-    ticker, index = tns(c_name)
-    if not ticker:
-        print("Ticker not found: TNS failed to resolve ticker")
-    else:
-        break
+#while True:
+#    c_name = input("Ticker name: ")
+#    ticker, index = tns(c_name)
+#    if not ticker:
+#        print("Ticker not found: TNS failed to resolve ticker")
+#    else:
+#        break
 
-ticker_live = get_ticker_data(ticker[0][0])
+#ticker_live = get_ticker_data(ticker[0][0])
 # extra ticker name system code to try to detect if invalid ticker is returned from TNS
-try:
-    ticker_live['Open']
-except KeyError:
-    fixed = False
-    for key in ticker_live.keys():
-        if re.search(r"\b"+re.escape(c_name.lower())+r"\b", ticker_live[key].lower()):
-            print(f"TNS Fixed: {ticker[0][0]} --> {key}")
-            ticker = [[key, ticker_live[key]]]
-            ticker_live = get_ticker_data(ticker[0][0])
-            fixed = True
-            break
-    if not fixed:
-        print(ticker_live)
-        exit(f"Ticker error: TNS failed to resolve ticker")
+#try:
+#    ticker_live['Open']
+#except KeyError:
+#    fixed = False
+#    for key in ticker_live.keys():
+#        if re.search(r"\b"+re.escape(c_name.lower())+r"\b", ticker_live[key].lower()):
+#            print(f"TNS Fixed: {ticker[0][0]} --> {key}")
+#            ticker = [[key, ticker_live[key]]]
+#            ticker_live = get_ticker_data(ticker[0][0])
+#            fixed = True
+#            break
+#    if not fixed:
+#        print(ticker_live)
+#        exit(f"Ticker error: TNS failed to resolve ticker")
 # the above block of code is TNS logic
 
-print(ticker[0][0], index)
-print(ticker_live)
-ticker_stats = get_ticker_stats(ticker[0][0])
-if "Previous Close" in ticker_stats.keys():
-    print("Ticker doesnt have stats")
-    ticker_stats = {}
-else:
-    print(ticker_stats)
+#print(ticker[0][0], index)
+#print(ticker_live)
+#ticker_stats = get_ticker_stats(ticker[0][0])
+#if "Previous Close" in ticker_stats.keys():
+#    print("Ticker doesnt have stats")
+#    ticker_stats = {}
+#else:
+#    print(ticker_stats)
 
-ticker_data = load_ticker_info(ticker[0][0])  # loads from cache or generates cache
-print(ticker_data)
+#ticker_data = load_ticker_info(ticker[0][0])  # loads from cache or generates cache
+# todo if ticker_data = {} deal with error
+#print(ticker_data)
 
-input("Enter to fetch all data: ")
-t_object = yf.Ticker(ticker[0][0])
+#input("Enter to fetch all data: ")
+#t_object = yf.Ticker(ticker[0][0])
 
-print(t_object.news)  # << live
-print(t_object.earnings_dates)
-print(t_object.dividends.values)
-print(t_object.actions)
-print(t_object.balance_sheet)
-print(t_object.capital_gains)  # ???
-print(t_object.cash_flow)
-print(t_object.financials)
-print(t_object.history_metadata)
-print(t_object.income_stmt)
-print(t_object.institutional_holders)
-print(t_object.mutualfund_holders)
-print(t_object.quarterly_balance_sheet)
-print(t_object.quarterly_cash_flow)
-print(t_object.quarterly_financials)
-print(t_object.quarterly_income_stmt)
-print(t_object.splits)
+#print(t_object.news)  # << live
+#print(t_object.earnings_dates)
+#print(t_object.dividends.values)
+#print(t_object.actions)
+#print(t_object.balance_sheet)
+#print(t_object.capital_gains)  # ???
+#print(t_object.cash_flow)
+#print(t_object.financials)
+#print(t_object.history_metadata)
+#print(t_object.income_stmt)
+#print(t_object.institutional_holders)
+#print(t_object.mutualfund_holders)
+#print(t_object.quarterly_balance_sheet)
+#print(t_object.quarterly_cash_flow)
+#print(t_object.quarterly_financials)
+#print(t_object.quarterly_income_stmt)
+#print(t_object.splits)
 
-t_object.get_ear
+#print(ticker_data)
 
-print(ticker_data)
-
-input("FINISHED.")
-print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
+#input("FINISHED.")
+#print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
 
 
 
