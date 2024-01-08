@@ -176,6 +176,7 @@ if __name__ == "__main__":
 
     while True:
         c_name = input("Ticker name: ")
+        #c_name = "Tesla"
         c_ticker, c_index = tns(c_name)
         if not c_ticker:
             print("Ticker not found: TNS failed to resolve ticker")
@@ -198,48 +199,53 @@ if __name__ == "__main__":
     ticker_data = load_ticker_info(c_ticker[0][0])  # loads from cache or generates cache
     # todo if ticker_data = {} deal with error
     print(ticker_data)
+    print("\n")
 
     #input("Enter to fetch all data: ")
-    #t_object = yf.Ticker(ticker[0][0])
+    t_object = yf.Ticker(c_ticker[0][0])
 
-    #print(t_object.news)  # << live
-    #print(t_object.earnings_dates)
-    #print(t_object.dividends.values)
-    #print(t_object.actions)
-    #print(t_object.balance_sheet)
-    #print(t_object.capital_gains)  # ???
-    #print(t_object.cash_flow)
-    #print(t_object.financials)
-    #print(t_object.history_metadata)
-    #print(t_object.income_stmt)
-    #print(t_object.major_holders)
-    #print(t_object.institutional_holders)
-    #print(t_object.mutualfund_holders)
-    #print(t_object.quarterly_balance_sheet)
-    #print(t_object.quarterly_cash_flow)
-    #print(t_object.quarterly_financials)
-    #print(t_object.quarterly_income_stmt)
-    #print(t_object.splits)
-    #print(t_object.options)
+    # todo testing and ordering in alphabetical order
+    # Below are all the t_object functions
+    #print(t_object.actions)  # returns dividends and stock split dates
+    #print(get_analysts_info(c_ticker[0][0]))  # returns 5 tables of data
+    #print(t_object.balance_sheet)  # returns table 81 rows, 4 columns
+    #print(t_object.capital_gains)  # returns blank
+    #print(t_object.cash_flow)  # returns table 56 rows, 3 columns
+    #print(t_object.dividends.values)  # returns blank
+    #print(t_object.earnings_dates)  # returns table of earnings dates (EPS Estimate, EPS Actual, Surprise %)
+    #print(t_object.financials)  # returns table 45 rows, 3 columns
 
-    #print(t_object.option_chain('2021-10-15'))
+    #print(t_object.history(period="max"))  # returns table 3000+ rows, 7 columns
+    #print(t_object.history(start="2021-01-01", end="2021-01-10", interval="1d"))  # example of calling history
+
+    #print(t_object.history_metadata)  # returns list and table 5 rows, 6 columns
+    #print(t_object.income_stmt)  # returns table 45 rows, 3 columns
+
+    #print(t_object.institutional_holders)  # returns table 10 rows, 5 columns
+    #print(t_object.major_holders)  # returns basic table 4 deep
+    #print(t_object.mutualfund_holders)  # returns table of 10 rows, 5 columns
+    #print(get_holders(c_ticker[0][0])) # << this gives same output as the 3 above
+
+    #print(t_object.news)  # returns a few related news articles, title, publisher, link
+
+    # print(t_object.option_chain('2021-10-15'))
     # get option chain for specific expiration
     # opt = msft.option_chain('YYYY-MM-DD')
     # data available via: opt.calls, opt.puts
+    #print(t_object.options)  # returns list of dates to use in option_chain (19 dates for example)
+    #print(t_object.option_chain('2024-01-12'))  # returns table of 101x14, and table of 79x14 and metadata list
 
-    # list all t_object functions below in a list
+    #print(t_object.quarterly_balance_sheet)  # returns table 78 rows, 4 columns
+    #print(t_object.quarterly_cash_flow)  # returns table 53 rows, 4 columns
+    #print(t_object.quarterly_financials)  # returns table 46 rows, 4 columns
+    #print(t_object.quarterly_income_stmt)  # returns table 46 rows, 4 columns
+    #print(t_object.splits)  # returns table of splits
+    #print(t_object.get_shares_full(start="2022-01-01", end=None))  # returns table
 
-    #functions = [func for func in dir(t_object) if not func.startswith('_')]
-    #print(len(functions))
-
-    # todo find all get functions for ticker object
-    #print(t_object.get_shares_full(start="2022-01-01", end=None)
-
-    #print(ticker_data)
+    # todo get list of all ticker based functions in ticker_and_indexes.py << lewis job
 
     #input("FINISHED.")
     #print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
-
 
 
     #print(get_yf_rss('tsla'))
@@ -248,12 +254,8 @@ if __name__ == "__main__":
     #print(get_live_price('aapl'))
 
 
-    #print(tickers_sp500())
-
-
     #url = "https://www.google.com/finance/quote/TSLA:NASDAQ"
     #print(get(url).text)
-
 
     # live price sources:
     # https://www.google.com/finance/quote/TSLA:NASDAQ

@@ -84,64 +84,6 @@ def _convert_to_numeric(s):
     return force_float(s)
 
 
-# todo check if needed
-def get_ticker_history(ticker, start_date=None, end_date=None, index_as_date=True,
-                       interval="1d"):
-
-    '''Downloads historical stock price data into a pandas data frame.  Interval
-       must be "1d", "1wk", "1mo", or "1m" for daily, weekly, monthly, or minute data.
-       Intraday minute data is limited to 7 days.
-    
-       @param: ticker
-       @param: start_date = None
-       @param: end_date = None
-       @param: index_as_date = True
-       @param: interval = "1d"
-    '''
-    
-    if interval not in ("1d", "1wk", "1mo", "1m"):
-        raise AssertionError("interval must be of of '1d', '1wk', '1mo', or '1m'")
-
-    # build and connect to URL
-    site, params = build_url(ticker, start_date, end_date, interval)
-    print(site, params)
-    resp = requests.get(site, params=params, headers=default_headers)
-
-    if not resp.ok:
-        raise AssertionError(resp.json())
-
-    # get JSON response
-    data = resp.json()
-    print(data)
-    
-    # get open / high / low / close data
-    frame = pd.DataFrame(data["chart"]["result"][0]["indicators"]["quote"][0])
-    print(frame)
-
-    # get the date info
-    temp_time = data["chart"]["result"][0]["timestamp"]
-
-    if interval != "1m":
-    
-        # add in adjclose
-        frame["adjclose"] = data["chart"]["result"][0]["indicators"]["adjclose"][0]["adjclose"]   
-        frame.index = pd.to_datetime(temp_time, unit = "s")
-        frame.index = frame.index.map(lambda dt: dt.floor("d"))
-        frame = frame[["open", "high", "low", "close", "adjclose", "volume"]]
-    else:
-
-        frame.index = pd.to_datetime(temp_time, unit="s")
-        frame = frame[["open", "high", "low", "close", "volume"]]
-        
-    frame['ticker'] = ticker.upper()
-    
-    if not index_as_date:  
-        frame = frame.reset_index()
-        frame.rename(columns={"index": "date"}, inplace = True)
-        
-    return frame
-
-
 def tickers_sp500():  # Downloads list of tickers currently listed in the S&P 500
     sp500 = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     sp_tickers = []
@@ -365,25 +307,8 @@ def _parse_json(url, headers=default_headers):
         return json_info
 
 
-def _parse_table(json_info):
-
-    df = pd.DataFrame(json_info)
-    
-    if df.empty:
-        return df
-    
-    del df["maxAge"]
-
-    df.set_index("endDate", inplace=True)
-    df.index = pd.to_datetime(df.index, unit="s")
- 
-    df = df.transpose()
-    df.index.name = "Breakdown"
-
-    return df
-
-
-# todo check usefulness, it still works at least
+# todo this function does the same as t_object.institutional_holders,
+#  t_object.major_holders, t_object.mutualfund_holders
 def get_holders(ticker, headers=default_headers):
     # Scrapes the Holders page from Yahoo Finance for an input ticker
     holders_site = f"https://finance.yahoo.com/quote/{ticker}/holders?p={ticker}"
@@ -395,7 +320,7 @@ def get_holders(ticker, headers=default_headers):
     return table_mapper       
 
 
-# todo check usefulness, it still works at least
+# todo provides 5 tables of unique data, check usefulness
 def get_analysts_info(ticker, headers=default_headers):
     # Scrapes the Analysts page from Yahoo Finance for an input ticker
     analysts_site = f"https://finance.yahoo.com/quote/{ticker}/analysts?p={ticker}"
@@ -452,9 +377,7 @@ def get_top_crypto():
     df = tables[0].copy()
 
     
-    df["% Change"] = df["% Change"].map(lambda x: float(str(x).strip("%").\
-                                                               strip("+").\
-                                                               replace(",", "")))
+    df["% Change"] = df["% Change"].map(lambda x: float(str(x).strip("%").strip("+").replace(",", "")))
     del df["52 Week Range"]
     del df["1 Day Chart"]
     
