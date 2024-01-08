@@ -26,10 +26,10 @@ from openai import OpenAI
 import string
 import ticker_loader as Ticker
 
-NOSQL = True # If true, does not try anything with MySQL
-NOLLM = True # If true, does not try to use LLM
+NOSQL = False  # If true, does not try anything with MySQL
+NOLLM = False  # If true, does not try to use LLM
 
-if NOLLM:
+if not NOLLM:
     client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
 
 
@@ -147,7 +147,7 @@ class Hydrant():
                                 if (entry_data["Summary"] == "No summary available"):
                                     verdict = "Unknown"
                                 else:
-                                    # Filter based on phi-2 seeing if article is related to buisness.
+                                    # Filter based on phi-2 seeing if article is related to business.
                                     verdict = self.summary_filter(entry_data["Title"], entry_data["Summary"])
                                 if verdict == "True" or verdict == "Unknown":
                                     entry_data['Content'] = self.get_article_text(entry_data["URL"])  # Get Article
@@ -155,7 +155,8 @@ class Hydrant():
                                     # Display information
                                     print(f"Found Story from {feed.feed.title} ({round(age.total_seconds() / 60 / 60, 2)} hrs ago) - {entry_data['Title']}")
                                     print(f"\t\t\t\t Article Text - {entry_data['Summary']}")
-                                    self.Affected_Companies(entry_data["Title"], entry_data["Content"])
+
+                                    #self.Affected_Companies(entry_data["Title"], entry_data["Content"])
                                     entries_list.append(entry_data)
                                 else:
                                     print(f"Skipping {entry_data['Title']} due to being irrelevant")
@@ -203,7 +204,7 @@ class Hydrant():
 
     def summary_filter(self, Title, RSSSummary):
         if NOLLM:
-            return "UNKNOWN"
+            return "Unknown"
 
         Messages = [
             {"role": "system", "content": """You are given story headlines and summaries.
