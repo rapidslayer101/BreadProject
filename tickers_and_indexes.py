@@ -651,8 +651,7 @@ def get_earnings_for_date(date, offset=0, count=1):
     temp = pd.Timestamp(date)
     date = temp.strftime("%Y-%m-%d")
 
-    dated_url = '{0}?day={1}&offset={2}&size={3}'.format(
-        base_earnings_url, date, offset, 100)
+    dated_url = '{0}?day={1}&offset={2}&size={3}'.format(base_earnings_url, date, offset, 100)
     
     result = _parse_earnings_json(dated_url)
     

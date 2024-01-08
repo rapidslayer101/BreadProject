@@ -129,10 +129,10 @@ def load_ticker_info(_ticker):
 
 # code to generate ticker profile cache
 #counter = 0
-#for ticker_name in nasdaq:
+#for ticker_name in nasdaq_other:
 #    counter += 1
 #    print(ticker_name[0], load_ticker_info(ticker_name[0]))
-#    print(counter)
+#    print(f"{counter}/{len(nasdaq_other)}")
 #input()
 
 print("Loading profile data...")
@@ -181,7 +181,8 @@ if __name__ == "__main__":
             print("Ticker not found: TNS failed to resolve ticker")
         else:
             break
-    print(c_ticker[0][0], c_index)
+    #print(c_ticker[0][0], c_index)
+    print(c_ticker, c_index)
 
     ticker_data = tns_check(c_ticker[0][0], c_name)
 
@@ -211,6 +212,7 @@ if __name__ == "__main__":
     #print(t_object.financials)
     #print(t_object.history_metadata)
     #print(t_object.income_stmt)
+    #print(t_object.major_holders)
     #print(t_object.institutional_holders)
     #print(t_object.mutualfund_holders)
     #print(t_object.quarterly_balance_sheet)
@@ -218,6 +220,20 @@ if __name__ == "__main__":
     #print(t_object.quarterly_financials)
     #print(t_object.quarterly_income_stmt)
     #print(t_object.splits)
+    #print(t_object.options)
+
+    #print(t_object.option_chain('2021-10-15'))
+    # get option chain for specific expiration
+    # opt = msft.option_chain('YYYY-MM-DD')
+    # data available via: opt.calls, opt.puts
+
+    # list all t_object functions below in a list
+
+    #functions = [func for func in dir(t_object) if not func.startswith('_')]
+    #print(len(functions))
+
+    # todo find all get functions for ticker object
+    #print(t_object.get_shares_full(start="2022-01-01", end=None)
 
     #print(ticker_data)
 
