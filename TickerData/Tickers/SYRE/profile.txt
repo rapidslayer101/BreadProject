@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 02:47:28.429486
+address1§221 Crescent Street
+address2§Building 23 Suite 105
+city§Waltham
+state§MA
+zip§02453
+country§United States
+phone§617-651-5940
+website§https://www.spyre.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Spyre Therapeutics, Inc., a biotechnology company, focuses on advancing a pipeline of antibody therapeutics for the treatment of inflammatory bowel disease by combining antibody engineering, rational therapeutic combinations, and precision medicine approaches for patient selection. The company's pipeline includes extended half-life antibodies targeting a4ß7, TL1A, and IL-23. The company was formerly known as Aeglea BioTherapeutics, Inc. and changed its name to Spyre Therapeutics, Inc. in November 2023. Spyre Therapeutics, Inc. was founded in 2013 and is based in Waltham, Massachusetts.
+fullTimeEmployees§69
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Paul Kastenmayer J.D., Ph.D.', 'age': 51, 'title': 'Consultant', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 611837, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Cameron  Turtle DPHIL, Ph.D.', 'age': 33, 'title': 'CEO, Principal Executive Officer & Director', 'yearBorn': 1990, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott L. Burrows', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Connolly', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joey  Perrone', 'title': 'Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heidy Abreu King-Jones J.D., L.L.M.', 'age': 40, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kelly  Boothe Ph.D.', 'title': 'Senior Director of Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joshua  Friedman M.D., Ph.D.', 'title': 'Senior VP of of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deanna  Nguyen M.D.', 'title': 'Senior VP of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. MiRa  Huyghe', 'title': 'Senior VP of Development Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.85
+priceToSalesTrailing12Months§760.0636
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.95
+exchange§NCM
+quoteType§EQUITY
+shortName§Spyre Therapeutics, Inc.
+longName§Spyre Therapeutics, Inc.
+firstTradeDateEpochUtc§1460035800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4ccfdc4f-e28e-39a5-bf38-f0def48363db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§12.0
+targetMeanPrice§28.83
+targetMedianPrice§29.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§4.541
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

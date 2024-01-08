@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 08:44:01.842809
+address1§100 East Ridge Road
+city§Ridgefield
+state§CT
+zip§06877
+country§United States
+phone§203 894 1345
+website§https://www.chefswarehouse.com
+industry§Food Distribution
+sector§Consumer Defensive
+longBusinessSummary§The Chefs' Warehouse, Inc., together with its subsidiaries, engages in distribution of specialty food products in the United States and Canada. The company's product portfolio includes approximately 55,000 stock-keeping units, such as specialty food products, including artisan charcuterie, specialty cheeses, unique oils and vinegars, truffles, caviar, chocolate, and pastry products. It also offers a line of center-of-the-plate products, such as custom cut beef, seafood, and hormone-free poultry, as well as food products comprising cooking oils, butter, eggs, milk, and flour. The company serves menu-driven independent restaurants, fine dining establishments, country clubs, hotels, caterers, culinary schools, bakeries, patisseries, chocolatiers, cruise lines, casinos, and specialty food stores. It markets its center-of-the-plate products directly to consumers through a mail and e-commerce platform. The company was founded in 1985 and is headquartered in Ridgefield, Connecticut.
+fullTimeEmployees§4124
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher  Pappas', 'age': 63, 'title': 'Founder, Chairman, CEO & President', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2138462, 'exercisedValue': 0, 'unexercisedValue': 1251599}, {'maxAge': 1, 'name': 'Mr. John  Pappas', 'age': 59, 'title': 'Founder, Vice Chairman & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1193638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James F. Leddy', 'age': 60, 'title': 'CFO & Assistant Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 825075, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy  McCauley', 'age': 58, 'title': 'Chief Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 533631, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexandros  Aldous', 'age': 42, 'title': 'Gen. Counsel, Chief Government Relations Officer, Corporate Secretary & Chief Administrative Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 769255, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christina  Polychroni', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ed  Kauffeld', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Steckler', 'age': 54, 'title': 'Executive Vice President of Supply Chain & Business Intelligence', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.123
+priceToSalesTrailing12Months§0.36338684
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.37
+pegRatio§1.14
+exchange§NMS
+quoteType§EQUITY
+shortName§The Chefs' Warehouse, Inc.
+longName§The Chefs' Warehouse, Inc.
+firstTradeDateEpochUtc§1311859800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3a36b513-e63e-34a1-b558-96711a093623
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.0
+targetLowPrice§29.0
+targetMeanPrice§40.0
+targetMedianPrice§40.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.061
+earningsGrowth§-0.108
+grossMargins§0.23611
+ebitdaMargins§0.04547
+trailingPegRatio§None

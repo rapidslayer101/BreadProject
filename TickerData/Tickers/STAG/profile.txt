@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 14:33:28.331972
+address1§One Federal Street
+address2§23rd Floor
+city§Boston
+state§MA
+zip§02110-2320
+country§United States
+phone§617 574 4777
+fax§617 574 0052
+website§https://www.stagindustrial.com
+industry§REIT—Industrial
+sector§Real Estate
+longBusinessSummary§We are a REIT focused on the acquisition, ownership and operation of industrial properties throughout the United States. We seek to (i) identify properties for acquisition that offer relative value across all locations, industrial property types, and tenants through the principled application of our proprietary risk assessment model, (ii) operate our properties in an efficient, cost-effective manner, and (iii) capitalize our business appropriately given the characteristics of our assets. We are organized and conduct our operations to maintain our qualification as a REIT under Sections 856 through 860 of the Internal Revenue Code of 1986, as amended (the Code), and generally are not subject to federal income tax to the extent we currently distribute our income to our stockholders and maintain our qualification as a REIT. We remain subject to state and local taxes on our income and property and to U.S. federal income and excise taxes on our undistributed income. As of December 31, 2022, we owned 562 buildings in 41 states with approximately 111.7 million rentable square feet, consisting of 484 warehouse/distribution buildings, 74 light manufacturing buildings, one flex/office building, and three Value Add Portfolio buildings. While the majority of our portfolio consists of single-tenant properties, we also own multi-tenant properties and may re-lease originally single-tenant properties to multiple tenants. As of December 31, 2022, our buildings were approximately 98.5% leased, with no single tenant accounting for more than approximately 3.0% of our total annualized base rental revenue and no single industry accounting for more than approximately 10.9% of our total annualized base rental revenue. We intend to maintain a diversified mix of tenants to limit our exposure to any single tenant. As of December 31, 2022, our Operating Portfolio was approximately 99.0% leased and our SL Rent Change on new and renewal leases together grew approximately 24.3% and 17.6% during the years ended December 31, 2022 and 2021, respectively, and our Cash Rent Change on new and renewal leases together grew approximately 14.3% and 10.4% during the years ended December 31, 2022 and 2021, respectively. We have a fully-integrated acquisition, leasing and asset management platform, and our senior management team has a significant amount of industrial real estate experience. Our mission is to continue to be a disciplined, relative value investor and a leading owner and operator of industrial properties in the United States. We seek to deliver attractive stockholder returns in all market environments by providing a covered dividend combined with accretive growth.
+fullTimeEmployees§93
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William R. Crooker', 'age': 43, 'title': 'CEO, President & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1450888, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matts S. Pinard', 'age': 39, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 878149, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey M. Sullivan', 'age': 54, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 783748, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin S. Butcher', 'age': 70, 'title': 'Executive Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 1276230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Christopher Chase', 'age': 50, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jaclyn M. Paul', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Xiarhos', 'title': 'Associate Capital Markets & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea M. Gillespie', 'title': 'Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradford F. Sweeney', 'age': 52, 'title': 'Senior Vice President of Acquisitions', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan H. Simmons', 'title': 'Senior VP, Assistant General Counsel & Assistant Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.47
+dividendYield§0.0382
+exDividendDate§1703721600
+payoutRatio§1.4530001
+fiveYearAvgDividendYield§4.41
+beta§1.04
+priceToSalesTrailing12Months§10.293843
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.8
+pegRatio§5.46
+exchange§NYQ
+quoteType§EQUITY
+shortName§Stag Industrial, Inc.
+longName§STAG Industrial, Inc.
+firstTradeDateEpochUtc§1302874200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§375a8fd6-26fd-3f68-abb6-0f5b477e21d9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§34.0
+targetMeanPrice§38.1
+targetMedianPrice§37.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.636
+earningsGrowth§-0.21
+grossMargins§0.80147004
+ebitdaMargins§0.72252
+trailingPegRatio§None

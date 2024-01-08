@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 01:45:16.646853
+address1§135 Duryea Road
+city§Melville
+state§NY
+zip§11747
+country§United States
+phone§631 843 5500
+website§https://www.henryschein.com
+industry§Medical Distribution
+sector§Healthcare
+longBusinessSummary§Henry Schein, Inc. provides health care products and services to dental practitioners and laboratories, physician practices, ambulatory surgery centers, government, institutional health care clinics, and other alternate care clinics worldwide. It operates through two segments, Health Care Distribution, and Technology and Value-Added Services. The Health Care Distribution segment offers dental products, including infection-control products, handpieces, preventatives, impression materials, composites, anesthetics, teeth, dental implants, gypsum, acrylics, articulators, abrasives, dental chairs, delivery units and lights, X-ray supplies and equipment, personal protective equipment, and high-tech and digital restoration equipment, as well as equipment repair services. This segment also provides medical products comprising branded and generic pharmaceuticals, vaccines, surgical products, diagnostic tests, infection-control products, X-ray products, equipment, and vitamins. The Technology and Value-Added Services segment offers software, technology, and other value-added services that include practice management software systems for dental and medical practitioners. This segment also provides value-added practice solutions, which comprise financial services on a non-recourse basis, e-services, practice technology, network, and hardware services, as well as continuing education services for practitioners, and consulting and other services. Henry Schein, Inc. was founded in 1932 and is headquartered in Melville, New York.
+fullTimeEmployees§24000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stanley M. Bergman', 'age': 73, 'title': 'Executive Chairman & CEO', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 4284135, 'exercisedValue': 0, 'unexercisedValue': 511986}, {'maxAge': 1, 'name': 'Mr. James P. Breslawski', 'age': 69, 'title': 'Executive Vice Chairman & President', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1748853, 'exercisedValue': 0, 'unexercisedValue': 234097}, {'maxAge': 1, 'name': 'Mr. Ronald N. South', 'age': 61, 'title': 'Senior VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1097412, 'exercisedValue': 0, 'unexercisedValue': 21313}, {'maxAge': 1, 'name': 'Mr. Steven  Paladino', 'age': 66, 'title': 'Executive Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1067854, 'exercisedValue': 0, 'unexercisedValue': 219356}, {'maxAge': 1, 'name': 'Mr. Mark E. Mlotek', 'age': 67, 'title': 'Executive VP, Chief Strategic Officer & Executive Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1416767, 'exercisedValue': 0, 'unexercisedValue': 204753}, {'maxAge': 1, 'name': 'Mr. Bradford C. Connett', 'age': 64, 'title': 'Chief Executive Officer of North America Distribution Group', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2696969, 'exercisedValue': 0, 'unexercisedValue': 142136}, {'maxAge': 1, 'name': 'Mr. Michael Saul Ettinger', 'age': 62, 'title': 'Executive VP & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Olga  Timoshkina', 'title': 'VP of Corporate Finance, Chief Accounting Officer & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Pendergast', 'age': 59, 'title': 'Senior VP & CTO', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Graham  Stanley', 'title': 'VP of Investor Relations & Strategic Finance Project Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.819
+priceToSalesTrailing12Months§0.75651294
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.16
+pegRatio§1.93
+exchange§NMS
+quoteType§EQUITY
+shortName§Henry Schein, Inc.
+longName§Henry Schein, Inc.
+firstTradeDateEpochUtc§815409000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fb438f27-8a30-30bb-b14a-d6711f450eda
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§82.0
+targetLowPrice§65.0
+targetMeanPrice§74.64
+targetMedianPrice§75.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§0.831
+earningsGrowth§-0.037
+grossMargins§0.31001
+ebitdaMargins§0.08446
+trailingPegRatio§1.6875

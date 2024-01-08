@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 09:26:53.442617
+address1§790 Remington Boulevard
+city§Bolingbrook
+state§IL
+zip§60440
+country§United States
+phone§630 296 2223
+website§https://www.atipt.com
+industry§Medical Care Facilities
+industryKey§medical-care-facilities
+industryDisp§Medical Care Facilities
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§ATI Physical Therapy, Inc. operates as an outpatient physical therapy provider that specializes in outpatient rehabilitation and adjacent healthcare services in the United States. It offers a range of services to its patients, including physical therapy to treat spine, shoulder, knee, and neck injuries or pain; work conditioning and work hardening; and hand therapy, aquatic therapy, functional capacity assessment, and wellness programs. It also provides ATI worksite solutions comprising injury prevention programs, work-related injury assessment services, wellness offerings, and consultations for employers; proprietary electronic medical records (EMR) integration, caseload management, and continuing education in progressive therapies; and sports medicine, including onsite sports physical therapy, clinical evaluation and diagnosis, immediate and emergency care, nutrition programs, and concussion management services. The company offers outpatient physical therapy services under the ATI Physical Therapy name. ATI Physical Therapy, Inc. was founded in 1996 and is based in Bolingbrook, Illinois.
+fullTimeEmployees§5700
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Sharon  Vitti', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 936759, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Jordan', 'age': 41, 'title': 'Chief Financial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 698063, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Augustus  Oakes', 'age': 48, 'title': 'Chief Information Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 531918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Kantz', 'age': 51, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 362364, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eimile  Tansey', 'age': 47, 'title': 'Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 238370, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg F. Steil', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Cox', 'age': 40, 'title': 'Chief Operating Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent Michael Rhodes', 'age': 33, 'title': 'Chief Accounting Officer', 'yearBorn': 1990, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joanne  Fong', 'title': 'Senior VP, Treasurer & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Manker', 'title': 'Director of Customer Marketing & Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.199
+priceToSalesTrailing12Months§0.03936333
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-13.83
+pegRatio§-0.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§ATI Physical Therapy, Inc.
+longName§ATI Physical Therapy, Inc.
+firstTradeDateEpochUtc§1601645400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4fb63340-f768-3bbc-98a0-26fab8ea84cb
+messageBoardId§finmb_27817717
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§8.0
+targetMeanPrice§8.0
+targetMedianPrice§8.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.877
+grossMargins§0.43895
+ebitdaMargins§-0.0074
+trailingPegRatio§None

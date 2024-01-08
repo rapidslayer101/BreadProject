@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 17:44:34.180002
+address1§14 Einstein Street
+city§Ness Ziona
+zip§7403618
+country§Israel
+phone§972 8 662 3301
+fax§972 8 631 2981
+website§https://www.enlivex.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Enlivex Therapeutics Ltd. operates as a clinical-stage macrophage reprogramming immunotherapy company. It is developing Allocetra, a cell-based therapy to treat organ dysfunction and failure associated with sepsis that is in phase II clinical trial, as well as in preclinical trial to treat solid tumors. The company has a collaboration agreement with BeiGene to evaluate the safety and efficacy of Allocetra in combination with tislelizumab, an anti-PD-1 immune checkpoint inhibitor for the treatment of patients with advanced-stage solid tumors. Enlivex Therapeutics Ltd. is headquartered in Ness Ziona, Israel.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shai  Novik M.B.A.', 'age': 57, 'title': 'Executive Chairman', 'yearBorn': 1966, 'fiscalYear': 2019, 'totalPay': 528000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Oren  Hershkovitz Ph.D.', 'age': 46, 'title': 'Chief Executive Officer', 'yearBorn': 1977, 'fiscalYear': 2019, 'totalPay': 273600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Dror  Mevorach M.D.', 'age': 67, 'title': 'Founder and Chief Scientific & Medical Officer', 'yearBorn': 1956, 'fiscalYear': 2019, 'totalPay': 180000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shachar  Shlosberger CPA', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2019, 'totalPay': 126000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Veronique  Amor-Baroukh', 'title': 'Senior Director of Operations', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sigal  Arad', 'title': 'Director of HR', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1577750400
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.986
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.86
+exchange§NCM
+quoteType§EQUITY
+shortName§Enlivex Therapeutics Ltd.
+longName§Enlivex Therapeutics Ltd.
+firstTradeDateEpochUtc§1406813400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b74cb9f5-e16c-38f4-8a35-7f19c807ad7d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§7.029
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

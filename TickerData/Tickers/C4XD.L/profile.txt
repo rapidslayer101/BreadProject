@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 04:35:53.130861
+address1§Manchester One
+address2§53 Portland Street
+city§Manchester
+zip§M1 3LD
+country§United Kingdom
+phone§44 1612 355 085
+website§https://www.c4xdiscovery.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§C4X Discovery Holdings plc operates as drug discovery company in the United Kingdom. The company provides Taxonomy3, a novel in silico platform technology that utilizes proprietary mathematical algorithms to perform complex multivariate analysis of genetic data; Conformetrix, a technology platform which allows 3D-shapes of free drug molecules to be measured from experimental data, giving medicinal chemists new and unprecedented insights into the behavior and physical properties of drug molecules; and 4Sight for visualizing 4D molecules in virtual reality research scientists to view, understand and interrogate the complex, multidimensional molecular shape data of drug molecules. Its product pipeline includes Orexin-1, a receptor antagonist for the treatment of addictive disorders; NRF-2 activator to treat various inflammatory diseases; IL-17A inhibitor for inflammation diseases; a4ß7 integrin inhibitors for the treatment of inflammatory bowel disease; and MALT-1 inhibitors to treat hematological cancer. The company was formerly known as Schosween 24 plc and changed its name to C4X Discovery Holdings plc October 2014. C4X Discovery Holdings plc was incorporated in 2007 and is based in Manchester, the United Kingdom.
+fullTimeEmployees§49
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Clive James Dix B.Sc., Ph.D.', 'age': 68, 'title': 'Interim Executive Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 211000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley Richard Hoy', 'age': 60, 'title': 'CFO, Secretary & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 242000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bhavna  Hunjan', 'age': 37, 'title': 'Chief Business Officer & Executive Director', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 218000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma  Blaney Ph.D.', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nick  Ray Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Clare  Murray Ph.D.', 'title': 'Senior Vice President of Drug Discovery', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.269
+priceToSalesTrailing12Months§26.328959
+currency§GBp
+forwardEps§-2.76
+exchange§LSE
+quoteType§EQUITY
+shortName§C4X DISCOVERY HOLDINGS PLC ORD 
+longName§C4X Discovery Holdings plc
+firstTradeDateEpochUtc§1414047600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5289dca2-fe68-3a48-b929-0e75cd13bc45
+messageBoardId§finmb_79707758
+targetHighPrice§52.0
+targetLowPrice§48.0
+targetMeanPrice§50.0
+targetMedianPrice§50.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.093
+grossMargins§0.97778
+ebitdaMargins§0.0
+trailingPegRatio§None

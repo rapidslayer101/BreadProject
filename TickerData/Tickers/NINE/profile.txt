@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 16:31:42.091077
+address1§2001 Kirby Drive
+address2§Suite 200
+city§Houston
+state§TX
+zip§77019
+country§United States
+phone§281 730 5100
+fax§281 605 1318
+website§https://nineenergyservice.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Nine Energy Service, Inc. operates as an onshore completion services provider that targets unconventional oil and gas resource development in North American basins and internationally. It offers cementing services, which consist of blending high-grade cement and water with various solid and liquid additives to create a cement slurry that is pumped between the casing and the wellbore of the well. The company also provides open hole and cemented completion tool products, such as liner hangers and accessories, fracture isolation packers, frac sleeves, stage one prep tools, casing flotation tools, specialty open hole float equipment, disk subs, composite cement retainers, and centralizers that provide pinpoint frac sleeve system technologies. In addition, it offers wireline services consisting of plug-and-perf completions, which is a multistage well completion technique for cased-hole wells that consists of deploying perforating guns and isolation tools to a specified depth; and coiled tubing services, which perform wellbore intervention operations utilizing a continuous steel pipe that is transported to the wellsite wound on a large spool in lengths of up to 30,000 feet. The company was formerly known as NSC-Tripoint, Inc. and changed its name to Nine Energy Service, Inc. in October 2011. Nine Energy Service, Inc. was incorporated in 2011 and is headquartered in Houston, Texas.
+fullTimeEmployees§1212
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Ann G. Fox', 'age': 46, 'title': 'President, CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1661059, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Sirkes', 'age': 37, 'title': 'Senior VP & CFO', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 858774, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Crombie', 'age': 49, 'title': 'Executive VP & COO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1132767, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Moore', 'age': 45, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 858774, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. S. Brett Luz', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Clair Holley', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Schmidt', 'title': 'Vice President of Strategic Development, Investor Relations & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Pottmeyer', 'title': 'President of Completion Tools', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward Bruce Morgan', 'age': 55, 'title': 'President of Wireline', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 402384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Huwel', 'title': 'President of Cementing & Coiled Tubing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§3.402
+priceToSalesTrailing12Months§0.14976656
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.77
+pegRatio§0.06
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nine Energy Service, Inc.
+longName§Nine Energy Service, Inc.
+firstTradeDateEpochUtc§1516372200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§73995fb9-0f0e-3efe-b8b9-0731e67789cd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§3.0
+targetMeanPrice§4.5
+targetMedianPrice§4.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.688
+grossMargins§0.21083
+ebitdaMargins§0.1145
+trailingPegRatio§None

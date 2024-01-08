@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 15:46:53.525673
+address1§8000 Jarvis Avenue
+address2§Suite 204
+city§Newark
+state§CA
+zip§94560
+country§United States
+phone§510 953 5559
+website§https://www.rainoncology.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Rain Oncology Inc., a late-stage precision oncology company, engages in developing therapies that target oncogenic drivers to genetically select patients in the United States. The company's lead product candidate is milademetan, a small molecule oral inhibitor of MDM2-p53 complex that reactivates p53. The company was formerly known as Rain Therapeutics Inc. and changed its name to Rain Oncology Inc. in December 2022. Rain Oncology Inc. was incorporated in 2017 and is headquartered in Newark, California.
+fullTimeEmployees§63
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Avanish  Vellanki M.B.A.', 'age': 48, 'title': 'Co-Founder, CEO & Chairman', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 959746, 'exercisedValue': 0, 'unexercisedValue': 38584}, {'maxAge': 1, 'name': 'Dr. Robert C. Doebele M.D., Ph.D.', 'age': 52, 'title': 'Co-Founder, Chairman of Scientific Advisory Board, President & CSO and Chief Medical Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 700564, 'exercisedValue': 0, 'unexercisedValue': 359736}, {'maxAge': 1, 'name': 'Ms. Josephine  Bruce', 'age': 44, 'title': 'Principal Financial & Accounting officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Theresa  O'Connell M.S.", 'title': 'Director of Corporate Development & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Atkisson', 'age': 51, 'title': 'General Counsel & Chief Compliance Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charmi  Turner', 'title': 'Vice President of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vijaya  Tirunagaru Ph.D.', 'title': 'Senior VP & Head of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nora  Ku M.D.', 'title': 'MD & VP of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.273
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.45
+exchange§NMS
+quoteType§EQUITY
+shortName§Rain Oncology Inc.
+longName§Rain Oncology Inc.
+firstTradeDateEpochUtc§1619184600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d7e2f2aa-12a4-355b-95da-c50965e7eac4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§1.0
+targetMeanPrice§1.58
+targetMedianPrice§1.75
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§5.379
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

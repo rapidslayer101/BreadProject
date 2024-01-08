@@ -1,0 +1,33 @@
+# reload+after+2024-01-23 03:40:40.055395
+address1§6 Caledonia Place
+address2§1st Floor
+city§Saint Helier
+zip§JE2 3NG
+country§Jersey
+phone§44 1534 281700
+website§https://teamplc.co.uk
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§TEAM plc provides investment and fund management, financial advice treasury services in Jersey and Channel Islands. It engages in discretionary and advisory investment management activities. The company offers portfolio management services to private clients, individuals, trusts, and charities. TEAM plc is based in Saint Helier, Jersey.
+fullTimeEmployees§33
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan Mark Gordon Clubb', 'age': 61, 'title': 'Executive Chairman', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 151572, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Charles Moore', 'age': 51, 'title': 'CFO, COO, Company Secretary & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 221260, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.092
+priceToSalesTrailing12Months§3.5282695
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§TEAM PLC ORD NPV
+longName§TEAM plc
+firstTradeDateEpochUtc§1615190400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5917054f-d13c-3ec7-9a09-6e689ffff15f
+recommendationKey§none
+quickRatio§0.907
+grossMargins§0.86353
+ebitdaMargins§-0.33056998
+trailingPegRatio§None

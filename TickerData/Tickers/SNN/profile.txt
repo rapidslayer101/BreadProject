@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 00:33:17.778634
+address1§Building 5
+address2§Croxley Park Hatters Lane
+city§Watford
+zip§WD18 8YE
+country§United Kingdom
+phone§44 1923 477 100
+website§https://www.smith-nephew.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Smith & Nephew plc, together with its subsidiaries, develops, manufactures, markets, and sells medical devices and services in the United Kingdom and internationally. The company operates through three segments: Orthopaedics, Sports Medicine & ENT, and Advanced Wound Management. The company offers knee implant products for knee replacement procedures; hip implants for revision procedures; and trauma and extremities products that include internal and external devices used in the stabilization of severe fractures and deformity correction procedures. It also provides sports medicine joint repair products, including instruments, technologies, and implants to perform minimally invasive surgery of the joints, such as the repair of soft tissue injuries and degenerative conditions of the shoulder, knee, hip, and small joints. In addition, the company offers arthroscopic enabling technologies comprising fluid management equipment for surgical access, high-definition cameras, digital image capture, scopes, light sources, and monitors to assist with visualization inside the joints, radio frequency, electromechanical and mechanical tissue resection devices, and hand instruments for removing damaged tissue; and ear, nose, and throat solutions. Further, it provides advanced wound care products for the treatment and prevention of acute and chronic wounds, which comprise leg wounds, diabetic and pressure ulcers, burns, and post-operative wounds; advanced wound bioactives, such as biologics and other bioactive technologies for debridement and dermal repair/regeneration, as well as regenerative medicine products, including skin, bone graft, and articular cartilage substitutes; and advanced wound devices, such as traditional and single-use negative pressure wound therapy, and hydrosurgery systems. It primarily serves the healthcare providers. Smith & Nephew plc was founded in 1856 and is headquartered in Watford, the United Kingdom.
+fullTimeEmployees§19000
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Deepak S. Nath Ph.D.', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 5955246, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne-Francoise  Nesmes', 'age': 51, 'title': 'CFO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1354526, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Connolly', 'age': 55, 'title': 'President of Global Operations', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Swift', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen  Barraclough', 'age': 43, 'title': 'Group General Counsel & Company Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Parkes', 'age': 50, 'title': 'Chief Compliance Officer & Compliance APAC', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Metzger', 'title': 'Senior Vice President of Marketing Services & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip G. Cowdy', 'age': 56, 'title': 'Chief Corporate Development & Corporate Affairs Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elga  Lohler', 'age': 55, 'title': 'Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley  Cannon', 'age': 55, 'title': 'President of Global Orthopaedics', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.75
+dividendYield§0.028299998
+exDividendDate§1696464000
+payoutRatio§1.5
+fiveYearAvgDividendYield§2.18
+beta§0.499
+priceToSalesTrailing12Months§2.1766944
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.89
+exchange§NYQ
+quoteType§EQUITY
+shortName§Smith & Nephew SNATS, Inc.
+longName§Smith & Nephew plc
+firstTradeDateEpochUtc§942762600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ee7d113e-3865-354a-a75e-6a2279780b9b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§27.0
+targetMeanPrice§29.33
+targetMedianPrice§28.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.83
+earningsGrowth§-0.025
+grossMargins§0.70405996
+ebitdaMargins§0.21219
+trailingPegRatio§0.4599

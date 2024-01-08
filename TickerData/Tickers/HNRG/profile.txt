@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 23:45:14.219075
+address1§1183 East Canvasback Drive
+city§Terre Haute
+state§IN
+zip§47802
+country§United States
+phone§812 299 2800
+website§https://halladorenergy.com
+industry§Thermal Coal
+sector§Energy
+longBusinessSummary§Hallador Energy Company, through its subsidiaries, engages in the production of steam coal in the State of Indiana for the electric power generation industry. The company owns the Oaktown Mine 1 and Oaktown Mine 2 underground mines in Oaktown; Freelandville Center Pit surface mine in Freelandville; and Prosperity Surface mine in Petersburg, Indiana. It is also involved in gas exploration activities in Indiana. Hallador Energy Company was founded in 1949 and is headquartered in Terre Haute, Indiana.
+fullTimeEmployees§980
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brent K. Bilsland', 'age': 49, 'title': 'President, CEO & Chairman', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1567099, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence D. Martin CPA', 'age': 58, 'title': 'CFO, EVP, President of Sunrise Coal & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1044245, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Perry', 'title': 'Director of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Palumbo', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elliott  Batson', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather L. Tryon CPA', 'title': 'SVP of Hallador Energy Company and CFO of Hallador Power Company & CFO of Sunrise Coal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Heath A. Lovell', 'title': 'President of Hallador Power Company', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Anderson Bishop CPA', 'age': 70, 'title': 'Consultant', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 270261, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1580342400
+payoutRatio§0.0
+fiveYearAvgDividendYield§5.06
+beta§0.518
+priceToSalesTrailing12Months§0.4608581
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.78
+exchange§NCM
+quoteType§EQUITY
+shortName§Hallador Energy Company
+longName§Hallador Energy Company
+firstTradeDateEpochUtc§765639000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6a838169-de08-3080-a5a0-46f765ad7421
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§11.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.136
+earningsGrowth§8.094
+grossMargins§0.30466998
+ebitdaMargins§0.26644
+trailingPegRatio§None

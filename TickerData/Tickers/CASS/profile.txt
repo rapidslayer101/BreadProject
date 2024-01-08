@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 03:43:54.824676
+address1§12444 Powerscourt Drive
+address2§Suite 550
+city§Saint Louis
+state§MO
+zip§63131
+country§United States
+phone§314 506 5500
+website§https://www.cassinfo.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§Cass Information Systems, Inc. provides payment and information processing services to manufacturing, distribution, and retail enterprises in the United States. The company operates through two segments, Information Services and Banking Services. Its services include freight invoice rating, payment processing, auditing, and the generation of accounting and transportation information. The company also processes and pays facility-related invoices, such as electricity, gas, waste, and telecommunications expenses; and provides telecom expense management solutions. In addition, the company, through its banking subsidiary, Cass Commercial Bank, provides a range of banking products and services, such as demand, savings, time, and money market deposits; commercial, industrial, commercial real estate, and construction and land development loans; and cash management services to privately held businesses, restaurant franchises, and faith-related ministries. Further, it provides B2B payment platform for clients that require an agile fintech partner. It operates through its banking facility near downtown St. Louis, Missouri; operating branch in the Bridgeton, Missouri; and leased facilities in Fenton, Missouri and Colorado Springs, Colorado. The company was formerly known as Cass Commercial Corporation and changed its name to Cass Information Systems, Inc. in January 2001. Cass Information Systems, Inc. was founded in 1906 and is headquartered in St. Louis, Missouri.
+fullTimeEmployees§940
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric H. Brunngraber', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1258250, 'exercisedValue': 311149, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin H. Resch', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 719265, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael James Normile', 'age': 72, 'title': 'Executive VP & CFO', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 490417, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Cavellier Jr.', 'age': 54, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 443193, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dwight D. Erdbruegger', 'age': 64, 'title': 'President of Cass Commercial Bank', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 465206, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Steven Schuckman', 'age': 49, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christi A. Reiter', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Campbell', 'age': 60, 'title': 'President of Government Payables', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 338335, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeanne M. Scannell', 'title': 'Chief Credit Officer of Cass Commercial Bank', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Wills', 'title': 'President of Facilities Expense Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0269
+exDividendDate§1701648000
+payoutRatio§0.5202
+fiveYearAvgDividendYield§2.55
+beta§0.681
+priceToSalesTrailing12Months§2.8801334
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.65
+exchange§NMS
+quoteType§EQUITY
+shortName§Cass Information Systems, Inc
+longName§Cass Information Systems, Inc.
+firstTradeDateEpochUtc§836314200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§62c4fc96-badb-3bcf-96c8-fdfe3c5b2088
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§45.0
+targetMeanPrice§45.0
+targetMedianPrice§45.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.918
+earningsGrowth§-0.156
+grossMargins§0.43710998
+ebitdaMargins§0.27065
+trailingPegRatio§None

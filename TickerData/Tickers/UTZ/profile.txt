@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 07:34:04.635408
+address1§900 High Street
+city§Hanover
+state§PA
+zip§17331
+country§United States
+phone§717 637 6644
+website§https://www.utzsnacks.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Utz Brands, Inc. operates as a snack food manufacturing company. It offers a range of salty snacks, including potato chips, kettle chips, tortilla chips, pretzels, cheese snacks, pork skins, pub/party mixes, salsa and queso, ready-to-eat popcorn, veggies, and other snacks under the Utz, Zapp's, ON THE BORDER, Golden Flake, Good Health, Boulder Canyon, Hawaiian, TGI Fridays, TORTIYAHS!, and other brand names. The company distributes its products to grocery, mass merchandisers, club, convenience, drug, and other channels though distributors and direct stores. Utz Brands, Inc. was founded in 1921 and is headquartered in Hanover, Pennsylvania.
+fullTimeEmployees§3550
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Howard A. Friedman', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 472964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. Rice', 'age': 80, 'title': 'Chairman Emeritus, Special Advisor & Director', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 150000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ajay  Kataria', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1197666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cary D. Devore', 'age': 51, 'title': 'Executive VP and Chief Operating & Transformation Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1451631, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa Robbins Shea', 'age': 50, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1413146, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Schreiber', 'age': 59, 'title': 'Executive VP of Sales & Chief Customer Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1045955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric J. Aumen', 'age': 47, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Satyaki  Lodh', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. Powers', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Sponaugle', 'age': 46, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.23
+dividendYield§0.013300001
+exDividendDate§1702598400
+payoutRatio§1.0598999
+beta§0.953
+priceToSalesTrailing12Months§0.96695656
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.64
+pegRatio§2.26
+exchange§NYQ
+quoteType§EQUITY
+shortName§Utz Brands Inc
+longName§Utz Brands, Inc.
+firstTradeDateEpochUtc§1543242600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97f0fcc4-b259-3008-bf13-1a1a6680bfa8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§13.0
+targetMeanPrice§17.33
+targetMedianPrice§18.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.844
+grossMargins§0.31642
+ebitdaMargins§0.07659
+trailingPegRatio§None

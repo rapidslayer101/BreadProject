@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 04:37:57.878738
+address1§Blake House
+address2§3 Frayswater Place Cowley
+city§Uxbridge
+zip§UB8 2AD
+country§United Kingdom
+phone§44 189 5855001
+website§https://www.gallifordtry.co.uk
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Galliford Try Holdings plc, together with its subsidiaries, operates in the construction business in the United Kingdom. It operates through Building, Infrastructure, and PPP Investments segments. The company engages in the construction of buildings for private and public sector clients in health, education, custodial, and defense markets, as well as serves commercial clients. In addition, it builds, designs, and maintains highways and environment related construction. Further, the company operates building projects through public-private partnerships and co-development opportunities. Additionally, it provides various life cycle solutions in education and health sectors. Galliford Try Holdings plc was incorporated in 2019 and is based in Uxbridge, the United Kingdom.
+fullTimeEmployees§3922
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bill  Hocking', 'age': 58, 'title': 'Chairman of Executive Board, CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 922000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin S. Corbett CEng, MICE, MIStructE', 'age': 63, 'title': 'General Counsel, Company Secretary & Member of Executive Board', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Jubb', 'age': 58, 'title': 'MD of Building & Member of Executive Board', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Baxter', 'age': 51, 'title': 'MD of Specialist Services & Member of the Executive Board', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vikki  Skene', 'age': 35, 'title': 'Human Resources Director & Member of Executive Board', 'yearBorn': 1988, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Wallace', 'title': 'Head of Pre-Construction', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ruth  Stockdale', 'title': 'Head of Quality', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.0467
+exDividendDate§1699488000
+payoutRatio§1.0864
+fiveYearAvgDividendYield§13.41
+beta§1.009
+priceToSalesTrailing12Months§0.16573349
+currency§GBp
+forwardEps§23.54
+pegRatio§1.08
+exchange§LSE
+quoteType§EQUITY
+shortName§GALLIFORD TRY HOLDINGS PLC ORD 
+longName§Galliford Try Holdings plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c3449d29-ac2d-38f8-b755-ade556c27041
+targetHighPrice§400.0
+targetLowPrice§270.0
+targetMeanPrice§310.8
+targetMedianPrice§300.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§0.865
+earningsGrowth§-0.533
+grossMargins§0.07276
+ebitdaMargins§0.016
+trailingPegRatio§None

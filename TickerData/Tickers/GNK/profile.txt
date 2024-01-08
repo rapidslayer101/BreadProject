@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 18:29:55.465303
+address1§299 Park Avenue
+address2§12th Floor
+city§New York
+state§NY
+zip§10171
+country§United States
+phone§646 443 8550
+website§https://www.gencoshipping.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§Genco Shipping & Trading Limited, together with its subsidiaries, engages in the ocean transportation of dry bulk cargoes worldwide. The company owns and operates dry bulk carrier vessels to transports iron ore, grains, coal, steel products, and other dry-bulk cargoes. It charters its vessels primarily to trading houses, including commodities traders; producers; and government-owned entities. The company was incorporated in 2004 and is headquartered in New York, New York.
+fullTimeEmployees§1086
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Wobensmith', 'age': 53, 'title': 'CEO, President, Secretary & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1799538, 'exercisedValue': 4513908, 'unexercisedValue': 1184617}, {'maxAge': 1, 'name': 'Mr. Joseph  Adamo', 'age': 61, 'title': 'Chief Accounting Officer, Controller & Treasurer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 496768, 'exercisedValue': 53644, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Allen C.F.A.', 'age': 36, 'title': 'Chief Financial Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesper  Christensen', 'age': 37, 'title': 'Chief Commercial Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.95
+dividendYield§0.056199998
+exDividendDate§1700524800
+payoutRatio§6.32
+beta§1.094
+priceToSalesTrailing12Months§1.8187118
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.88
+pegRatio§0.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§Genco Shipping & Trading Limite
+longName§Genco Shipping & Trading Limited
+firstTradeDateEpochUtc§1405431000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b04ef78b-de00-32f2-ad3e-abc3236d5694
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§16.0
+targetMeanPrice§20.87
+targetMedianPrice§20.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.881
+grossMargins§0.36540002
+ebitdaMargins§0.26297
+trailingPegRatio§None

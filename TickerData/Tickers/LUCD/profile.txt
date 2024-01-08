@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 09:45:52.636793
+address1§360 Madison Avenue
+address2§25th Floor
+city§New York
+state§NY
+zip§10017
+country§United States
+phone§212 949 4319
+website§https://www.luciddx.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Lucid Diagnostics Inc. operates as a commercial-stage medical diagnostics technology company. The company focuses on patients with gastroesophageal reflux disease who are at risk of developing esophageal precancer and cancer, primarily highly lethal esophageal adenocarcinoma (EAC). It offers EsoCheck, a cell collection device to prevent EAC deaths; and EsoGuard, an Esophageal DNA Test. The company was incorporated in 2018 and is based in New York, New York. Lucid Diagnostics Inc. is a subsidiary of PAVmed Inc.
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Lishan  Aklog M.D.', 'age': 57, 'title': 'Chairman & CEO', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Shaun M. O'Neill M.B.A.", 'age': 41, 'title': 'President & COO', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sanford D. Markowitz M.D., Ph.D.', 'title': 'Cofounder & Strategic Advisor, Member of the Medical Advisor Board', 'fiscalYear': 2021, 'totalPay': 14535, 'exercisedValue': 0, 'unexercisedValue': 708322}, {'maxAge': 1, 'name': 'Dr. Joseph  Willis M.D.', 'title': 'Cofounder, Strategic Advisor & Member of Medical Advisory Board', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Amitabh  Chak M.D.', 'title': 'Cofounder, Strategic Advisor & Member of Medical Advisory Board', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard D. Yazbeck', 'title': 'Chief Technology Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Suman M. Verma M.D., Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Brian J. deGuzman M.D.', 'age': 58, 'title': 'Chief Compliance Officer', 'yearBorn': 1965, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Adam Gordon', 'age': 49, 'title': 'General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Parks', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.821
+priceToSalesTrailing12Months§40.02124
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.92
+exchange§NCM
+quoteType§EQUITY
+shortName§Lucid Diagnostics Inc.
+longName§Lucid Diagnostics Inc.
+firstTradeDateEpochUtc§1634218200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7080f4f7-4e2b-31a4-aea4-072f27668b0e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.5
+targetLowPrice§2.5
+targetMeanPrice§4.06
+targetMedianPrice§3.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.887
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

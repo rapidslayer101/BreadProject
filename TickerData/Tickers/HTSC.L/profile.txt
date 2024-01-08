@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 13:38:25.678972
+address1§Huatai Securities Plaza
+address2§No. 228 Jiangdong Middle Road
+city§Nanjing
+zip§210019
+country§China
+phone§86 25 8338 9999
+fax§86 25 8338 7337
+website§https://www.htsc.com.cn
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Huatai Securities Co., Ltd., a security company, provides financial services in Mainland China and internationally. The company buys and sells stocks, funds, bonds, futures, and options on behalf of clients; and provides various financial products and asset allocation, margin financing, securities lending, securities-backed lending, and margin securities lending services. It also offers institutional investment banking services, such as equity and bond underwriting, financial consultancy, and over-the-counter business services for enterprises, institutions, and governments; cross-border proprietary and credit derivative products and services; custodian and fund services, including settlement, liquidation, reporting, and valuation services, as well as margin trading and other value-added services to various asset management institutions; and professional research and consulting services. In addition, the company provides private equity fund and asset management services for securities and futures companies, funds, etc. Huatai Securities Co., Ltd. was founded in 1990 and is based in Nanjing, the People's Republic of China.
+fullTimeEmployees§16799
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Wei  Zhang', 'age': 58, 'title': 'Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 211178, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi  Zhou', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 522884, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xiaoning  Jiao', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kai  Jiao', 'age': 48, 'title': 'General Counsel & Chief Compliance Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yan  Sun', 'age': 50, 'title': 'Director of Human Resources', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chong  Wang', 'age': 50, 'title': 'Chief Risk Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lihong  Yin', 'age': 53, 'title': 'Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 63831, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui  Zhang', 'age': 48, 'title': 'Joint Company Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lei  Fei', 'title': 'Head of Accounting Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhencong  Han', 'age': 55, 'title': 'Chief Information Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.63
+dividendYield§0.031400003
+exDividendDate§1691539200
+payoutRatio§0.3411
+beta§0.687
+priceToSalesTrailing12Months§0.5225249
+currency§USD
+exchange§LSE
+quoteType§EQUITY
+longName§Huatai Securities Co., Ltd.
+firstTradeDateEpochUtc§1560754800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c5805877-19da-35bb-b98e-dfc59831793a
+recommendationKey§none
+quickRatio§1.278
+earningsGrowth§0.24
+grossMargins§0.84573
+ebitdaMargins§0.0
+trailingPegRatio§None

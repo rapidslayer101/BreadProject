@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 00:33:16.912758
+address1§6650 SW Redwood Lane
+address2§Suite 210
+city§Portland
+state§OR
+zip§97224
+country§United States
+phone§971 371 1592
+website§https://www.nuscalepower.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§NuScale Power Corporation engages in the development and sale of modular light water reactor nuclear power plants to supply energy for electrical generation, district heating, desalination, hydrogen production, and other process heat applications. It offers NuScale Power Module (NPM), a water reactor that can generate 77 megawatts of electricity (MWe); and VOYGR power plant designs for three facility sizes that are capable of housing from one to four and six or twelve NPMs. NuScale Power Corporation was founded in 2007 and is headquartered in Portland, Oregon. NuScale Power Corporation operates as a subsidiary of Fluor Enterprises, Inc.
+fullTimeEmployees§556
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John L. Hopkins', 'age': 69, 'title': 'President, CEO & Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1634155, 'exercisedValue': 0, 'unexercisedValue': 9792242}, {'maxAge': 1, 'name': 'Dr. José N. Reyes Ph.D.', 'age': 67, 'title': 'CTO & Co-founder', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Ramsey Hamady', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl  Fisher', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Kozak', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Temple', 'age': 66, 'title': 'General Counsel & Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diane  Hughes', 'age': 47, 'title': 'Vice President of Marketing & Communications', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Goodnight', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl  Britsch', 'age': 59, 'title': 'Vice President of Human Resources', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Mundy', 'age': 62, 'title': 'President of VOYGR Services and Delivery', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.889
+priceToSalesTrailing12Months§9.274797
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§NuScale Power Corporation
+longName§NuScale Power Corporation
+firstTradeDateEpochUtc§1646145000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1c491c53-1d42-38de-8cfd-e1708abcbb31
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.5
+targetLowPrice§2.0
+targetMeanPrice§10.0
+targetMedianPrice§12.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.689
+grossMargins§0.18180999
+ebitdaMargins§0.0
+trailingPegRatio§None

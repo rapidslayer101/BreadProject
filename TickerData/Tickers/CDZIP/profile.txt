@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 15:43:58.410851
+address1§550 South Hope Street
+address2§Suite 2850
+city§Los Angeles
+state§CA
+zip§90071
+country§United States
+phone§213 271 1600
+fax§213 271 1614
+website§https://www.cadizinc.com
+industry§Utilities—Regulated Water
+sector§Utilities
+longBusinessSummary§Cadiz Inc., together with its subsidiaries, provides water solutions in the United States. The company operates through Land and Water Resources; and Water Treatment Business segments. It offers clean water solutions, such as water supply, including for agriculture and off-property uses; and water storage, conveyance, and treatment solutions. The company also involved in the cultivation of lemons and alfalfa; and provides water filtration solutions for impaired or contaminated groundwater sources. Cadiz Inc. was founded in 1983 and is based in Los Angeles, California.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Susan P. Kennedy', 'age': 61, 'title': 'CEO & Executive Chair', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 317411, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stanley E. Speer', 'age': 62, 'title': 'CFO & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 370600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott S. Slater', 'age': 65, 'title': 'Senior Advisor', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 300000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lesley  Thornburg', 'title': 'Operations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Courtney  Degener', 'title': 'Vice President of Investor Relations, Communications & External Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teffiny  Bagnara', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.22
+dividendYield§0.153
+exDividendDate§1704240000
+beta§0.673
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§Cadiz, Inc. - Depositary Shares
+longName§Cadiz Inc.
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea87d6aa-1b29-3fc2-9c73-19d8d82e49ad
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.313
+grossMargins§-0.26847
+ebitdaMargins§0.0
+trailingPegRatio§None

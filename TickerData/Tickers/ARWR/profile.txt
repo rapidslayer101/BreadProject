@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 15:43:27.263605
+address1§177 East Colorado Boulevard
+address2§Suite 700
+city§Pasadena
+state§CA
+zip§91105
+country§United States
+phone§626 304 3400
+fax§626 304 3401
+website§https://arrowheadpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Arrowhead Pharmaceuticals, Inc. develops medicines for the treatment of intractable diseases in the United States. The company's products in pipeline includes Plozasiran, which is in Phase 2b and one Phase 3 clinical trial to treat hypertriglyceridemia, mixed dyslipidemia, and chylomicronemia syndrome; Zodasiran that is in Phase 2b clinical trial for the treatment of dyslipidemia and hypertriglyceridemia; ARO-PNPLA3, which is in Phase 1 clinical trial to treat patients with non-alcoholic steatohepatitis; ARO-RAGE that is in Phase 1/2a clinical trial to treat inflammatory pulmonary conditions; and ARO-MUC5AC, which is in Phase 1/2a clinical trial to treat muco-obstructive pulmonary diseases. It also develops ARO-MMP7 that is in Phase 1/2a clinical trial for treatment of idiopathic pulmonary fibrosis; ARO-DUX4 for the treatment of facioscapulohumeral muscular dystrophy; ARO-SOD1 for the potential treatment of amyotrophic lateral sclerosis; and ARO-C3, which is in Phase 1/2a clinical trial for the treatment of patients with various complement mediated or complement associated renal diseases. In addition, the company is involved in the development of JNJ-3989, which is in Phase 2 clinical trial to treat chronic hepatitis B virus infection; Olpasiran that is in Phase 3 clinical trial to reduce the production of apolipoprotein A; GSK-4532990 that is in phase 2 clinical trial to treat liver diseases; HZN-457, which is in phase 1 clinical trial to treat uncontrolled gout; and Fazirsiran that is in Phase 3 clinical trial for the treatment for liver disease associated with alpha-1 antitrypsin deficiency. Arrowhead Pharmaceuticals, Inc. has license and research collaboration agreements with Janssen Pharmaceuticals, Inc.; Takeda Pharmaceutical Company Limited; Horizon Therapeutics Ireland DAC; Amgen Inc.; and Glaxosmithkline Intellectual Property (No. 3) Limited. The company was founded in 2003 and is headquartered in Pasadena, California.
+fullTimeEmployees§525
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Christopher R. Anzalone Ph.D.', 'age': 54, 'title': 'CEO, President & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1649420, 'exercisedValue': 996462, 'unexercisedValue': 14937168}, {'maxAge': 1, 'name': 'Mr. Kenneth A. Myszkowski', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 761552, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Patrick  O'Brien J.D., PharmD", 'age': 59, 'title': 'COO, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 749863, 'exercisedValue': 172200, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. James C. Hamilton M.D., MBA', 'age': 45, 'title': 'Chief of Discovery & Translational Medicine', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 676814, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracie  Oliver', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'totalPay': 449579, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark M. Davis Ph.D.', 'title': 'Founder and Founder & Director of Insert Therapeutics Inc & Calando', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Vincent  Anzalone CFA', 'title': 'Head of Investor Relations & VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Lovy', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark  Seefeld', 'age': 69, 'title': 'Head of Toxicology & VP', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Javier  San Martin M.D.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 658480, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.793
+priceToSalesTrailing12Months§15.887092
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.15
+pegRatio§-1.45
+exchange§NMS
+quoteType§EQUITY
+shortName§Arrowhead Pharmaceuticals, Inc.
+longName§Arrowhead Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§756052200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c1090240-5c7b-33ae-b362-c474642e552e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§24.0
+targetMeanPrice§54.21
+targetMedianPrice§54.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§3.753
+grossMargins§1.0
+ebitdaMargins§-0.79967004
+trailingPegRatio§None

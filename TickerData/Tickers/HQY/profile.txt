@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 04:45:15.794860
+address1§15 West Scenic Pointe Drive
+address2§Suite 100
+city§Draper
+state§UT
+zip§84020
+country§United States
+phone§801 727 1000
+website§https://www.healthequity.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§HealthEquity, Inc. provides technology-enabled services platforms to consumers and employers in the United States. The company offers cloud-based platforms for individuals to make health saving and spending decisions, pay healthcare bills, compare treatment options and prices, receive personalized benefit and clinical information, earn wellness incentives, grow their savings, and make investment choices; and health savings accounts. It also provides mutual fund investment platform; and online-only automated investment advisory services through Advisor, a Web-based tool. In addition, the company offers flexible spending accounts; health reimbursement arrangements; and Consolidated Omnibus Budget Reconciliation Act continuation services, as well as administers pre-tax commuter benefit programs. It serves clients through a direct sales force; benefits brokers and advisors; and a network of health plans, benefits administrators, benefits brokers and consultants, and retirement plan record-keepers. HealthEquity, Inc. was incorporated in 2002 and is headquartered in Draper, Utah.
+fullTimeEmployees§3170
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jon  Kessler', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1550675, 'exercisedValue': 0, 'unexercisedValue': 3833122}, {'maxAge': 1, 'name': 'Dr. Stephen D. Neeleman', 'age': 55, 'title': 'Founder & Vice Chairman', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 770675, 'exercisedValue': 0, 'unexercisedValue': 6948384}, {'maxAge': 1, 'name': 'Mr. Elimelech  Rosner', 'age': 66, 'title': 'Executive VP & CTO', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 1735428, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Lucania', 'age': 44, 'title': 'CFO & Executive VP', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angelique Christine Hill', 'age': 54, 'title': 'Executive Vice President of Operations', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Putnam', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Delano  Ladd', 'age': 42, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 319484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Lindsay', 'title': 'Executive Vice President of Sales & Relationship Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad  Bennion', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tia  Padia', 'title': 'Executive VP & Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.541
+priceToSalesTrailing12Months§6.0040565
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.83
+pegRatio§1.38
+exchange§NMS
+quoteType§EQUITY
+shortName§HealthEquity, Inc.
+longName§HealthEquity, Inc.
+firstTradeDateEpochUtc§1406813400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§351ecb58-8728-33c3-aaa7-6b2be09fe0cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§77.0
+targetMeanPrice§88.0
+targetMedianPrice§85.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§13
+quickRatio§4.471
+grossMargins§0.60905
+ebitdaMargins§0.26872
+trailingPegRatio§0.9795

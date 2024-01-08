@@ -1,0 +1,35 @@
+# reload+after+2024-01-20 04:45:48.484506
+address1§7800 Susquehanna St.
+address2§Suite 505
+city§Pittsburgh
+state§PA
+zip§15208
+country§United States
+phone§412 894 1853
+website§https://www.lipella.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Lipella Pharmaceuticals Inc., a clinical-stage biotechnology company, focuses on developing drugs by reformulating the active agents in existing generic drugs and optimizing these reformulations for various applications. It is developing LP-10, a formulation of tacrolimus that is in Phase IIa clinical trial for patients with radiation-induced hemorrhagic cystitis; and LP-310, a formulation of tacrolimus for the treatment of oral lichen planus. Lipella Pharmaceuticals Inc. was incorporated in 2005 and is based in Pittsburgh, Pennsylvania.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jonathan  Kaufman M.B.A., Ph.D.', 'age': 57, 'title': 'Co-Founder, Chairman, CEO, President, Secretary & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 183300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael B. Chancellor M.D.', 'age': 65, 'title': 'Co-Founder, Chief Medical Officer & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 175000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas  Johnston CPA', 'age': 38, 'title': 'Chief Financial Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 67500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michele  Gruber', 'title': 'Director of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katie  Johnston', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§12.338975
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Lipella Pharmaceuticals Inc.
+longName§Lipella Pharmaceuticals Inc.
+firstTradeDateEpochUtc§1671460200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d39a1b66-6fea-3b6c-8773-cda09b9e9d93
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§4.489
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

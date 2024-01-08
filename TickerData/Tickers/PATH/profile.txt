@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 03:32:06.447769
+address1§452 5th Avenue
+address2§22nd Floor
+city§New York
+state§NY
+zip§10018
+country§United States
+phone§844 432 0455
+website§https://www.uipath.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§UiPath Inc. provides an end-to-end automation platform that offers a range of robotic process automation (RPA) solutions primarily in the United States, Romania, and Japan. The company offers a suite of interrelated software to build, manage, run, engage, measure, and govern automation within the organization. Its platform combines artificial intelligence with desktop recording, back-end mining of both human activity and system logs, and intuitive visualization tools, which enables users to discover, analyze, and identify processes to automate in a centralized portal; offers low-code development environments that allows users in an organization to create attended and unattended automations without any prior knowledge of coding; deploys robots in highly immersive attended experiences or in standalone, unattended modes behind the scenes, and can leverage native connectors built for commonly used line-of-business applications; offers centralized tools designed to manage, test, and deploy automations and ML models across the enterprise; allows customers to manage long running processes that orchestrate work between robots and humans; and enable users to track, measure, and forecast the performance of automation in their enterprise and help businesses ensure compliance with business standards. In addition, the company provides maintenance and support for its software, as well as professional services, such as training and implementation services to facilitate the adoption of its platform. It serves banking, healthcare, financial services, and government entities. UiPath Inc. was founded in 2005 and is headquartered in New York, New York.
+fullTimeEmployees§3833
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Solomon Dines', 'age': 51, 'title': 'Co-Founder, Co-CEO & Chairman of the Board', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 771835, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Enslin', 'age': 60, 'title': 'Co-Chief Executive Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1291390, 'exercisedValue': 0, 'unexercisedValue': 367143}, {'maxAge': 1, 'name': 'Mr. Ashim  Gupta', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 799572, 'exercisedValue': 715825, 'unexercisedValue': 2162411}, {'maxAge': 1, 'name': 'Mr. Brad C. Brubaker', 'age': 59, 'title': 'General Counsel, Chief Legal Officer & Secretary', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 663854, 'exercisedValue': 0, 'unexercisedValue': 3387688}, {'maxAge': 1, 'name': 'Hitesh  Ramani', 'title': 'Chief Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelsey Doherty Turcotte', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert B. Patrick', 'age': 51, 'title': 'Chief Marketing Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vijay  Khanna', 'title': 'Chief Corporate Development Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brigette  McInnis-Day', 'title': 'Chief People Office', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Munil  Shah', 'title': 'Chief Technology Officer of Automation Cloud', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.972
+priceToSalesTrailing12Months§10.565761
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.53
+pegRatio§1.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§UiPath, Inc.
+longName§UiPath Inc.
+firstTradeDateEpochUtc§1619011800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ffb5f0d-0de7-3321-9f46-fc7c93ca64a3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§17.0
+targetMeanPrice§23.59
+targetMedianPrice§24.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§3.624
+grossMargins§0.84388
+ebitdaMargins§-0.15835
+trailingPegRatio§1.1434

@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 12:29:26.031892
+address1§1001 Liberty Avenue
+city§Pittsburgh
+state§PA
+zip§15222-3779
+country§United States
+phone§412 288 1900
+website§https://www.federatedinvestors.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Federated Hermes, Inc. is a publicly owned investment manager. Through its subsidiaries, the firm provides its services to individuals, including high net worth individuals, banking or thrift institutions, investment companies, pension and profit sharing plans, pooled investment vehicles, charitable organizations, state or municipal government entities, and registered investment advisors. Through its subsidiaries, it manages separate client-focused equity, fixed income, balanced and money market mutual funds along with separate client-focused equity, fixed income, money market, and balanced portfolios. Through its subsidiaries, the firm invests in the public equity and fixed income markets across the globe. It invests in growth and value stocks of small-cap, mid-cap, and large-cap companies. The firm makes its fixed income investments in ultra-short, short-term, and intermediate-term mortgage-backed, U.S. Government, U.S. corporate, high yield, and municipal securities. It employs both fundamental and quantitative analysis to make its equity investments. Federated Hermes, Inc. was founded in 1955 and is based in Pittsburgh, Pennsylvania with additional offices in New York City and London, United Kingdom.
+fullTimeEmployees§2000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Christopher Donahue', 'age': 74, 'title': 'President, CEO & Chairman', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 4030211, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Robert Donahue', 'age': 64, 'title': 'VP, Treasurer, CFO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 3641016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Basil Fisher', 'age': 67, 'title': 'VP & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 4564867, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gordon Joseph Ceresino', 'age': 65, 'title': 'Vice Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2620909, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Jo Ochson CFA', 'age': 70, 'title': 'Head of the Tax-Free Money Market Investment Area, Chief Investment Officer, SVP & Sr Portfolio Mngr', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Anthony Novak', 'age': 60, 'title': 'VP, Assistant Treasurer & Principal Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond J. Hanley', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Paul Van Meter', 'age': 48, 'title': 'VP & Chief Compliance Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Germain', 'age': 64, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. T. Tuskan', 'title': 'Senior VP and Director of Marketing & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.12
+dividendYield§0.0337
+exDividendDate§1699315200
+payoutRatio§0.35830003
+fiveYearAvgDividendYield§3.51
+beta§1.08
+priceToSalesTrailing12Months§1.8026009
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.49
+pegRatio§0.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§Federated Hermes, Inc.
+longName§Federated Hermes, Inc.
+firstTradeDateEpochUtc§895152600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5f0db761-ce60-36b5-a7a2-0a6f97ef0fba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§32.0
+targetMeanPrice§35.33
+targetMedianPrice§34.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.659
+earningsGrowth§0.099
+grossMargins§0.64831
+ebitdaMargins§0.24613
+trailingPegRatio§1.2281

@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 11:47:22.005478
+address1§Feldlistrasse 2
+city§Sankt Gallen
+zip§9000
+country§Switzerland
+phone§41 71 517 72 00
+fax§41 71 517 72 99
+website§https://www.sportradar.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Sportradar Group AG, together with its subsidiaries, provides sports data services for the sports betting and media industries in the United Kingdom, the United States, Malta, Switzerland, and internationally. Its sports data services to the bookmaking under the Betradar brand name, and to the international media industry under the Sportradar Media Services brand name. The company offers mission-critical software, data, and content to sports leagues and federations, betting operators, and media companies. It also provides sports entertainment, gaming, and sports solutions, as well as live streaming solution for online, mobile, and retail sports betting. In addition, its software solutions address the entire sports betting value chain from traffic generation and advertising technology to the collection, processing, and extrapolation of data and odds, as well as to visualization solutions, risk management, and platform services. Sportradar Group AG was founded in 2001 and is headquartered in St. Gallen, Switzerland.
+fullTimeEmployees§3977
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Carsten  Koerl', 'age': 58, 'title': 'Founder, CEO & Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerard  Griffin', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Bimson', 'title': 'COO & President of North America', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Bombassei', 'title': 'Senior Vice President of Investor Relations & Corporate Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aleksandr  Sokolovskii', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Poland', 'title': 'Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn S. McCreary', 'age': 63, 'title': 'Chief Administrative Officer, Legal Officer & Corporate Secretary', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rima  Hyder', 'age': 47, 'title': 'Senior VP & Head of Investor Relations', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Severine  Riviere-Gerstner', 'title': 'Chief People Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduard H. Blonk', 'age': 52, 'title': 'Chief Commercial Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.012
+priceToSalesTrailing12Months§3.9613402
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.29
+pegRatio§0.73
+exchange§NMS
+quoteType§EQUITY
+shortName§Sportradar Group AG
+longName§Sportradar Group AG
+firstTradeDateEpochUtc§1631626200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f4c9175b-e312-3336-bb4d-4af567d2e222
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.95
+targetLowPrice§10.04
+targetMeanPrice§13.62
+targetMedianPrice§12.04
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.445
+earningsGrowth§-0.653
+grossMargins§0.42189
+ebitdaMargins§0.28792998
+trailingPegRatio§None

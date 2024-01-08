@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 03:47:04.686599
+address1§Dublin Office
+address2§Airside Business Park
+city§Swords
+zip§K67 NY94
+country§Ireland
+phone§353 1 945 1212
+fax§353 1 945 1213
+website§https://www.ryanair.com
+industry§Airlines
+sector§Industrials
+longBusinessSummary§Ryanair Holdings plc, together with its subsidiaries, provides scheduled-passenger airline services in Ireland, the United Kingdom, Italy, Spain, and internationally. It is also involved in the provision of various ancillary services, such as non-flight scheduled and Internet-related services, as well as in-flight sale of beverages, food, duty-free, and merchandise; and markets car hire, travel insurance, and accommodation services through its website and mobile app. In addition, the company offers aircraft and passenger handling, ticketing, and maintenance and repair services; and markets car parking, fast-track, airport transfers, attractions, and activities on its website and mobile app, as well as sells gift vouchers. Ryanair Holdings plc was incorporated in 1996 and is headquartered in Swords, Ireland.
+fullTimeEmployees§22000
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Michael  O'Leary", 'age': 62, 'title': 'Group CEO & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1018908, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Sorahan', 'age': 52, 'title': 'Group Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Hurley', 'age': 48, 'title': 'Chief Technology Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Larkin', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juliusz  Komorek', 'age': 45, 'title': 'Group Chief Legal & Regulatory Officer and Company Secretary', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Captain Ray  Conway', 'age': 68, 'title': 'Chief Pilot', 'yearBorn': 1955, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dara  Brady', 'title': 'Head of Digital Experience', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Sharkey', 'age': 48, 'title': 'Chief Risk Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  McCann', 'age': 49, 'title': 'Chief Financial Officer of Ryanair DAC', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michal  Kaczmarzyk', 'age': 44, 'title': 'Chief Executive Officer of Buzz', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.97
+dividendYield§0.0077
+exDividendDate§1705536000
+payoutRatio§0.0
+beta§1.501
+priceToSalesTrailing12Months§2.2532513
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.74
+pegRatio§0.07
+exchange§NMS
+quoteType§EQUITY
+shortName§Ryanair Holdings plc
+longName§Ryanair Holdings plc
+firstTradeDateEpochUtc§864912600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§78ddf431-5c9a-31ff-a8d1-6a51bafa6421
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§162.0
+targetLowPrice§137.0
+targetMeanPrice§147.25
+targetMedianPrice§145.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.814
+earningsGrowth§0.4
+grossMargins§0.32349
+ebitdaMargins§0.25819
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 04:45:56.996238
+address1§310 Leonard Street NW
+city§Grand Rapids
+state§MI
+zip§49504
+country§United States
+phone§616 406 3000
+website§https://www.mercbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Mercantile Bank Corporation operates as the bank holding company for Mercantile Bank of Michigan that provides commercial and retail banking services to small- to medium-sized businesses and individuals in the United States. It accepts various deposit products, including checking, savings, and term certificate accounts; time deposits; and certificates of deposit. The company also provides commercial and industrial loans; vacant land, land development, and residential construction loans; owner and non-owner-occupied real estate loans; multi-family and residential rental property loans; single-family residential real estate loans; home equity line of credit programs; and consumer loans, such as new and used automobile and boat loans, and credit cards, as well as overdraft protection services; and residential mortgage and instalment loans. In addition, it offers courier services and safe deposit facilities; and insurance products, such as private passenger automobile, homeowners, personal inland marine, boat owners, recreational vehicle, dwelling fire, umbrella policies, small business, and life insurance products. The company was incorporated in 1997 and is headquartered in Grand Rapids, Michigan.
+fullTimeEmployees§643
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert B. Kaminski Jr.', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1063815, 'exercisedValue': 12552, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles E. Christmas', 'age': 57, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 589460, 'exercisedValue': 2280, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond E. Reitsma', 'age': 60, 'title': 'Executive VP, COO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 719896, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert T. Worthington', 'age': 48, 'title': 'Senior VP, Chief Risk Officer, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 339637, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett E. Hoover', 'age': 52, 'title': 'Senior VP & Human Resources Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark S. Augustyn', 'title': 'Senior VP & Chief Lending Officer of Mercantile Bank of Michigan', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Kaiser', 'title': 'Senior VP & Head of Risk Management Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.36
+dividendYield§0.0343
+exDividendDate§1701302400
+payoutRatio§0.25100002
+fiveYearAvgDividendYield§3.79
+beta§1.053
+priceToSalesTrailing12Months§2.9225562
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.29
+pegRatio§0.96
+exchange§NMS
+quoteType§EQUITY
+shortName§Mercantile Bank Corporation
+longName§Mercantile Bank Corporation
+firstTradeDateEpochUtc§932477400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d5cde023-ffcf-3e2d-9ba2-57184a51c4d4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§36.0
+targetMeanPrice§40.0
+targetMedianPrice§40.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§3
+earningsGrowth§0.287
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

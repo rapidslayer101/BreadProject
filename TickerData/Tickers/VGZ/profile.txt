@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 06:34:09.289326
+address1§7961 Shaffer Parkway
+address2§Suite 5
+city§Littleton
+state§CO
+zip§80127
+country§United States
+phone§720 981 1185
+fax§720 981 1186
+website§https://www.vistagold.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Vista Gold Corp., together with its subsidiaries, engages in the evaluation, acquisition, exploration, and advancement of gold exploration and development projects primarily in Australia. The company's flagship asset is the 100% owned Mt Todd gold project located in Northern Territory, Australia. Vista Gold Corp. was incorporated in 1983 and is headquartered in Littleton, Colorado.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Frederick H. Earnest B.Sc.', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 362200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas L. Tobler', 'age': 64, 'title': 'Chief Financial Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 287200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Rozelle', 'age': 68, 'title': 'Senior Vice President', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 252200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela  Solly', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.711
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.11
+exchange§ASE
+quoteType§EQUITY
+shortName§Vista Gold Corp
+longName§Vista Gold Corp.
+firstTradeDateEpochUtc§470586600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4a28d120-ad90-3f43-9acc-956e19799ff9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.5
+targetLowPrice§2.5
+targetMeanPrice§2.5
+targetMedianPrice§2.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§5.136
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

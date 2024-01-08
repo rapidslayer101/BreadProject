@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 22:47:58.196646
+address1§14507 Frontier Road
+address2§Post Office Box 45308
+city§Omaha
+state§NE
+zip§68145-0308
+country§United States
+phone§402 895 6640
+website§https://www.werner.com
+industry§Trucking
+sector§Industrials
+longBusinessSummary§Werner Enterprises, Inc., a transportation and logistics company, engages in transporting truckload shipments of general commodities in interstate and intrastate commerce in the United States, Mexico, and internationally. It operates through Truckload Transportation Services and Werner Logistics segments. The Truckload Transportation Services segment operates medium-to-long-haul van fleet that transports various consumer nondurable products and other commodities in truckload quantities using dry van trailers; the expedited fleet, which offers time-sensitive truckload services using driver teams; regional short-haul fleet that provides comparable truckload van service in the United States; and temperature controlled fleet, which offers truckload services for temperature sensitive products using temperature-controlled trailers. It transports retail store merchandise, consumer products, food and beverage products, and manufactured products. The Werner Logistics segment provides non-asset-based transportation and logistics services, including truck brokerage; logistics management services and solutions; rail transportation through alliances with rail and drayage providers; and residential and commercial deliveries of large or heavy items using liftgate straight truck. As of December 31, 2022, the company had a fleet of 8,600 trucks, which included 8,305 company-operated, as well as 295 owned and operated by independent contractors;29,965 company-owned trailers that comprised dry vans, flatbeds, temperature-controlled, and other trailers. Werner Enterprises, Inc. was founded in 1956 and is headquartered in Omaha, Nebraska.
+fullTimeEmployees§14000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Derek J. Leathers', 'age': 53, 'title': 'Chairman, President & CEO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2260198, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James L. Johnson', 'age': 59, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 830844, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim S. Schelble', 'age': 62, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 756590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. H. Marty Nordlund', 'age': 61, 'title': 'Executive Vice President of Strategic Partnerships', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 797691, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clarence L. Werner', 'age': 85, 'title': 'Founder & Chairman Emeritus', 'yearBorn': 1938, 'fiscalYear': 2022, 'totalPay': 346140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher D. Wikoff', 'age': 48, 'title': 'Executive VP, Treasurer & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric J. Downing', 'age': 50, 'title': 'Executive VP & COO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daragh P. Mahon', 'age': 54, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathan J. Meisgeier', 'age': 49, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fred  Thayer', 'title': 'Associate Vice President of Corporate Brand & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.56
+dividendYield§0.0137
+exDividendDate§1703808000
+payoutRatio§0.2308
+fiveYearAvgDividendYield§1.05
+beta§0.868
+priceToSalesTrailing12Months§0.7775928
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.45
+pegRatio§-7.15
+exchange§NMS
+quoteType§EQUITY
+shortName§Werner Enterprises, Inc.
+longName§Werner Enterprises, Inc.
+firstTradeDateEpochUtc§519658200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dd93d5da-9fe8-3e7b-ba8a-dd24ba5bbec6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§61.0
+targetLowPrice§36.0
+targetMeanPrice§42.63
+targetMedianPrice§40.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§1.558
+earningsGrowth§-0.57
+grossMargins§0.22332
+ebitdaMargins§0.13939999
+trailingPegRatio§None

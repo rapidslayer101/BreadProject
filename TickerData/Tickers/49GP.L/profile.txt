@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 17:36:02.952030
+address1§Cowick Hall
+address2§Snaith East Yorkshire
+city§Goole
+zip§DN14 9AA
+country§United Kingdom
+phone§44 1405 860551
+website§https://www.croda.com
+industry§Specialty Chemicals
+industryKey§specialty-chemicals
+industryDisp§Specialty Chemicals
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Croda International Plc engages in fragrances, flavours, and seed enhancement businesses in Europe, the Middle East, Africa, North America, Asia, and Latin America. It operates through Consumer Care, Life Sciences, and Industrial Specialties segments. The company offers fabric care, hard surface cleaning, air care and dishwashing, bio-based, beauty, and personal care related products. In addition, it provides fragrance and home care products. Further, the company offers biologics drug delivery, adjuvant systems, small molecule, protein, and nucleic acid delivery related products, as well as purity materials for pharmaceutical formulations. Additionally, it engages in crop quality, yield, shelf life, and biostimulant chemistry process. Furthermore, the company provides seed enhancement related solutions. The company was incorporated in 1925 and is headquartered in Goole, the United Kingdom.
+fullTimeEmployees§5825
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen Edward Foots', 'age': 54, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1956836, 'exercisedValue': 4237, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Louisa Sachiko Burdett ACA, BSc Hons', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Robinson', 'title': 'President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Ian Challoner', 'title': 'Group Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Bishop', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Michael Brophy', 'age': 49, 'title': 'Group General Counsel & Company Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony Damien Fitzpatrick', 'title': 'President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Lydon', 'age': 51, 'title': 'President of Human Resources', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra Elaine  Breene', 'title': 'President of Regional Delivery', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Cherry', 'title': 'Global Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.070199996
+exDividendDate§1700697600
+beta§0.702
+currency§GBp
+lastDividendValue§3.3
+lastDividendDate§1669248000
+exchange§LSE
+quoteType§EQUITY
+shortName§CRODA INTERNATIONAL PLC 6.6% CU
+longName§Croda International Plc
+firstTradeDateEpochUtc§950688000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d6dd2401-368e-3ab5-aea6-b4de511cba6c
+messageBoardId§finmb_529256
+recommendationKey§none
+quickRatio§2.214
+earningsGrowth§-0.838
+grossMargins§0.45152
+ebitdaMargins§0.21368
+trailingPegRatio§None

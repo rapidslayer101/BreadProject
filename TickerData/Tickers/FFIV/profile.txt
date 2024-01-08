@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 21:44:45.046553
+address1§801 5th Avenue
+city§Seattle
+state§WA
+zip§98104
+country§United States
+phone§206 272 5555
+fax§206 272 5556
+website§https://www.f5.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§F5, Inc. provides multi-cloud application security and delivery solutions in the United States, Europe, the Middle East, Africa, and the Asia Pacific region. The company's distributed cloud services enable its customers to deploy, secure, and operate applications in any architecture, from on-premises to the public cloud. It offers unified, security, networking, and application management solutions, such as web app and API protection; multi-cloud networking; application delivery and deployment; domain name system; content delivery network; and application deployment and orchestration. The company also provides application security and delivery products, including NGINX Plus; NGINX Management Suite; NGINX Ingress Controller; NGINX App Protect; BIG-IP Packaged Software; and BIG-IP Systems. In addition, it provides a range of professional services, including maintenance, consulting, training, and other technical support services. F5, Inc. sells its products to large enterprise businesses, public sector institutions, governments, and service providers through distributors, value-added resellers, managed service providers, systems integrators, and other indirect channel partners. It has partnerships with public cloud providers, such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. The company was formerly known as F5 Networks, Inc. and changed its name to F5, Inc. in November 2021. F5, Inc. was incorporated in 1996 and is headquartered in Seattle, Washington.
+fullTimeEmployees§6459
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Francois  Locoh-Donou', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1999582, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis J. Pelzer V', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 978190, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad Michael Whalen Esq.', 'age': 52, 'title': 'Executive Vice President of Worldwide Sales', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 912196, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thomas Dean Fountain Ph.D.', 'age': 47, 'title': 'Executive VP of Global Services & Chief Strategy Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1065650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kara Lynn Sprague', 'age': 43, 'title': 'Executive VP & Chief Product Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 905522, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yvette H. Smith', 'age': 55, 'title': 'Chief Information Officer & SVP of Customer Success and Business Transformation', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  DuLong', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scot Frazier Rogers', 'age': 56, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 780927, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Gruening', 'title': 'Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Kramer', 'title': 'Senior Vice President of Customer Support', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.08
+priceToSalesTrailing12Months§3.6388853
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.79
+pegRatio§1.47
+exchange§NMS
+quoteType§EQUITY
+shortName§F5, Inc.
+longName§F5, Inc.
+firstTradeDateEpochUtc§928503000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§74deeff5-ae06-3475-b60f-4586828ca65e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§186.0
+targetLowPrice§150.0
+targetMeanPrice§166.09
+targetMedianPrice§164.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§1.108
+earningsGrowth§0.719
+grossMargins§0.78910005
+ebitdaMargins§0.23129
+trailingPegRatio§2.0469

@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 20:46:58.264196
+address1§9804 Medical Center Drive
+city§Rockville
+state§MD
+zip§20850
+country§United States
+phone§240 552 8181
+website§https://www.regenxbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§REGENXBIO Inc., a clinical-stage biotechnology company, provides gene therapy product candidates to deliver genes to cells to address genetic defects or to enable cells in the body to produce therapeutic proteins or antibodies that are intended to impact disease. Its gene therapy product candidates are based on NAV Technology Platform, a proprietary adeno-associated virus gene delivery platform. The company's products in pipeline includes RGX-314 for the treatment of wet age-related macular degeneration, diabetic retinopathy, and other chronic retinal diseases; and RGX-202, which is in Phase I/II clinical trial for the treatment of Duchenne muscular dystrophy. In addition, it also develops RGX-121 for the treatment of mucopolysaccharidosis type II and is in Phase III clinical trial; RGX-111, which is in Phase I/II clinical trial for treating mucopolysaccharidosis type I; RGX-181 for the treatment of late infantile neuronal ceroid lipofuscinosis type II; and RGX-381 to treat the ocular manifestations of CLN2 disease. Further, the company also licenses its NAV Technology Platform to other biotechnology and pharmaceutical companies; and has a collaboration and license agreement with Neurimmune AG to develop novel gene therapies. REGENXBIO Inc. was founded in 2008 and is headquartered in Rockville, Maryland.
+fullTimeEmployees§401
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kenneth T. Mills', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1019707, 'exercisedValue': 0, 'unexercisedValue': 7745511}, {'maxAge': 1, 'name': 'Mr. Vittal K. Vasista', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 671408, 'exercisedValue': 734344, 'unexercisedValue': 1371340}, {'maxAge': 1, 'name': 'Mr. Curran M. Simpson M.S.', 'age': 61, 'title': 'Executive VP & COO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 677695, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Olivier  Danos Ph.D.', 'age': 65, 'title': 'Executive VP & Chief Scientific Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 728059, 'exercisedValue': 0, 'unexercisedValue': 166595}, {'maxAge': 1, 'name': 'Dr. Stephen  Pakola M.D.', 'age': 54, 'title': 'Executive VP & Chief Medical Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 673763, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick J. Christmas II, J.D.', 'age': 52, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1111209, 'exercisedValue': 1294231, 'unexercisedValue': 140919}, {'maxAge': 1, 'name': 'Ms. Shiva G. Fritsch', 'title': 'Chief Communications & People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Laura A. Coruzzi J.D., Ph.D.', 'age': 69, 'title': 'Executive Vice President of Intellectual Property', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ram  Palanki Pharm.D.', 'age': 47, 'title': 'Executive VP of Commercial Strategy & Operations', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen  Yoo M.D.', 'age': 45, 'title': 'Consultant', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 573713, 'exercisedValue': 6253664, 'unexercisedValue': 5976303}]
+auditRisk§2
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.196
+priceToSalesTrailing12Months§7.2822714
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.43
+pegRatio§-0.22
+exchange§NMS
+quoteType§EQUITY
+shortName§REGENXBIO Inc.
+longName§REGENXBIO Inc.
+firstTradeDateEpochUtc§1442496600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9b6dd483-8fa5-3249-9e04-c997936abce9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§52.0
+targetLowPrice§20.0
+targetMeanPrice§36.4
+targetMedianPrice§39.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§2.766
+grossMargins§-1.8322799
+ebitdaMargins§-2.53975
+trailingPegRatio§None

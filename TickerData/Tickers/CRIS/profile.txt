@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 21:44:13.772544
+address1§Building C
+address2§Suite 500 128 Spring Street
+city§Lexington
+state§MA
+zip§02421
+country§United States
+phone§617 503 6500
+website§https://www.curis.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Curis, Inc., a biotechnology company, engages in the discovery and development of drug candidates for the treatment of human cancers in the United States. Its clinical stage drug candidates include Emavusertib, an oral small molecule drug candidate, which is in a Phase 1/2 clinical trial for the treatment of non-hodgkin lymphomas, and acute myeloid leukemia and myelodysplastic syndromes; and CI-8993, a monoclonal antibody designed to antagonize the V-domain Ig suppressor of T cell activation. The company's pipeline also includes Fimepinostat, an oral dual inhibitor of HDAC and PI3K enzymes for the treatment of patients with relapsed or refractory diffuse large B-cell lymphoma; CA-170, an oral small molecule drug candidate for treating patients with solid tumors and lymphomas; and CA-327, a pre-clinical development candidate, which is a molecule antagonist of PD-L1 and TIM3. It has collaboration agreement with F. Hoffmann-La Roche Ltd. and Genentech Inc. for the development and commercialization of Erivedge, an orally-administered small molecule hedgehog signaling pathway antagonist for the treatment of advanced basal cell carcinoma; and Aurigene Discovery Technologies Limited for the discovery, development, and commercialization of small molecule compounds in the areas of immuno-oncology and precision oncology. Curis, Inc. was incorporated in 2000 and is headquartered in Lexington, Massachusetts.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James E. Dentzer', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 912295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diantha  Duvall CPA, M.B.A.', 'age': 51, 'title': 'CFO, Treasurer, Assistant Secretary, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 588946, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark W. Noel', 'age': 64, 'title': 'Vice President of Technology Management & Intellectual Property', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 279281, 'exercisedValue': 85705, 'unexercisedValue': 685114}, {'maxAge': 1, 'name': 'Ms. Elif  McDonald', 'title': 'VP of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Reinhard Wilhelm von Roemeling M.D.', 'title': 'Senior Vice President of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jonathan B. Zung Ph.D.', 'age': 58, 'title': 'Chief Development Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.931
+priceToSalesTrailing12Months§7.2709427
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-5.69
+exchange§NCM
+quoteType§EQUITY
+shortName§Curis, Inc.
+longName§Curis, Inc.
+firstTradeDateEpochUtc§965136600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2e0563d3-4016-3897-87fc-f6f611564bfe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§51.0
+targetLowPrice§15.0
+targetMeanPrice§28.0
+targetMedianPrice§23.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§5.205
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

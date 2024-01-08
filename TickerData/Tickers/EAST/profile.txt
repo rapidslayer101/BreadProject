@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 10:44:29.139024
+address1§2321 NE Argyle Street
+address2§Unit D
+city§Portland
+state§OR
+zip§97211
+country§United States
+phone§971 888 4264
+website§https://www.eastsidedistilling.com
+industry§Beverages—Wineries & Distilleries
+sector§Consumer Defensive
+longBusinessSummary§Eastside Distilling, Inc. manufactures, acquires, blends, bottles, imports, exports, markets, and sells various alcoholic beverages. It operates through two segments, Spirits and Craft Canning + Printing. The company provides whiskey under the Burnside Whiskey brand; vodka under the Portland Potato Vodka brand; rum under the Hue-Hue Coffee Rum brand; and tequila under the Azuñia Tequila brand. It also offers canning and printing services to the craft beer, cider, and kombucha beverage industries; and digital can printing and co-packing services. The company sells its products on a wholesale basis to distributors in the United States. Eastside Distilling, Inc. was incorporated in 2004 and is headquartered in Portland, Oregon.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Geoffrey C. Gwin CFA', 'title': 'CEO, CFO & Director', 'fiscalYear': 2022, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie  Kilkenny', 'age': 51, 'title': 'Company Secretary & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 19688, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joe  Ibrahim', 'title': 'Director of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Lancer', 'title': 'Chief Commercial Officer of Spirits', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.786
+priceToSalesTrailing12Months§0.17056265
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+exchange§NCM
+quoteType§EQUITY
+shortName§Eastside Distilling, Inc.
+longName§Eastside Distilling, Inc.
+firstTradeDateEpochUtc§1483453800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§45ac78bf-3d48-32ac-920f-4e7fb08d55c5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.36
+grossMargins§0.095410004
+ebitdaMargins§-0.36805
+trailingPegRatio§None

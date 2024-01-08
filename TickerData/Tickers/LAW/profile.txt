@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 12:31:01.301483
+address1§111 Congress Avenue
+address2§Suite 900
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§833 653 4726
+website§https://www.csdisco.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§CS Disco, Inc. provides cloud-native and artificial intelligence-powered legal solutions for ediscovery, legal document review, and case management for enterprises, law firms, legal services providers, and governments. The company offers DISCO Ediscovery, a solution that automates ediscovery process and saves legal departments from manual tasks associated with collecting, processing, enriching, searching, reviewing, analyzing, producing, and using enterprise data that is at issue in legal matters. It also provides DISCO Review, an AI-powered document review solution, which consistently delivers legal document reviews; and DISCO Case Builder, a solution that allows legal professionals to collaborate with teams to build a compelling case by offering a single place to search, organize, and review witness testimony and other legal data. In addition, the company offers DISCO Hold, a solution that automates manual work to preserve data, notify custodians, track holds with a defensible audit trail, and collect data when ready; and DISCO Request, a solution that process requests and subpoenas. The company's tools are used in various legal matters comprising litigation, investigation, compliance, and diligence. CS Disco, Inc. was founded in 2012 and is headquartered in Austin, Texas.
+fullTimeEmployees§661
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott Anthony Hill', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 54000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Lafair', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 424158, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aleksey  Lakchakov', 'title': 'Senior Director of Finance & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke  McNeal', 'age': 42, 'title': 'Senior Vice President of Global Sales', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Furr', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Herckis', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie  Antoon', 'age': 45, 'title': 'Senior Vice President of Professional Services', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Smith', 'age': 44, 'title': 'Executive VP & Chief Product Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.348
+priceToSalesTrailing12Months§3.3216186
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.19
+pegRatio§-0.54
+exchange§NYQ
+quoteType§EQUITY
+shortName§CS Disco, Inc.
+longName§CS Disco, Inc.
+firstTradeDateEpochUtc§1626874200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5c0b1ce0-a507-35fd-a58b-0ac528304903
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§5.5
+targetMeanPrice§7.94
+targetMedianPrice§6.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§8.763
+grossMargins§0.74552
+ebitdaMargins§-0.47604
+trailingPegRatio§None

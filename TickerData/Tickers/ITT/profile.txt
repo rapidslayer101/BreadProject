@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 03:30:36.519927
+address1§100 Washington Boulevard
+address2§6th Floor
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§914 641 2000
+website§https://www.itt.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§ITT Inc. manufactures and sells engineered critical components and customized technology solutions for the transportation, industrial, and energy markets worldwide. The company operates in three segments: Motion Technologies, Industrial Process, and Connect & Control Technologies. The Motion Technologies segment manufactures brake pads, shims, shock absorbers, and energy absorption components; and sealing technologies primarily for the transportation industry, including passenger cars, trucks, light- and heavy-duty commercial and military vehicles, buses, and trains. The Industrial Process segment designs and manufactures industrial pumps, valves, and plant optimization and remote monitoring systems and services; and aftermarket solutions, such as replacement parts and services. It serves various customers in industries, such as chemical, energy, mining, and other industrial process markets. The Connect & Control Technologies segment designs and manufactures a range of engineered connectors and specialized control components for critical applications supporting various markets, including aerospace and defense, industrial, transportation, medical, and energy. This segment provides connector products, including electrical connectors, such as circular, rectangular, radio frequency, fiber optic, D-sub miniature, micro-miniature, and cable assemblies; and control products consists of highly engineered actuation, flow control, energy absorption, environmental control, and composite component solutions for the aerospace, defense, and industrial markets. ITT Inc. was incorporated in 1920 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§10300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Luca  Savi', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2016, 'totalPay': 2312821, 'exercisedValue': 1762612, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Emmanuel  Caprais', 'age': 48, 'title': 'Senior VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2016, 'totalPay': 1005464, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Davide  Barbon', 'age': 53, 'title': 'Senior VP and President of Motion Technologies & Asia Pacific', 'yearBorn': 1970, 'fiscalYear': 2016, 'totalPay': 1382472, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bartek  Makowiecki', 'age': 44, 'title': 'Senior Vice President of Strategy & Business Development', 'yearBorn': 1979, 'fiscalYear': 2016, 'totalPay': 1073500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl  De Mesa Graziano', 'age': 50, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Macaluso', 'title': 'Vice President of Investor Relations & Global Communications', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori Beth Marino', 'age': 48, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maurine C. Lembesis', 'age': 56, 'title': 'Chief Human Resources Officer & Senior VP', 'yearBorn': 1967, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan F. Flynn', 'age': 52, 'title': 'Senior VP & President of Connect and Control Technologies', 'yearBorn': 1971, 'fiscalYear': 2016, 'totalPay': 910304, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando  Roland', 'title': 'Senior VP & President of Industrial Process (IP) Business', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1483142400
+maxAge§86400
+priceHint§2
+dividendRate§1.16
+dividendYield§0.01
+exDividendDate§1701302400
+payoutRatio§0.2164
+fiveYearAvgDividendYield§1.05
+beta§1.429
+priceToSalesTrailing12Months§2.9427328
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.89
+pegRatio§2.07
+exchange§NYQ
+quoteType§EQUITY
+shortName§ITT Inc.
+longName§ITT Inc.
+firstTradeDateEpochUtc§819037800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§85d4322d-5e49-3be1-829b-bb3256c024fc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§136.0
+targetLowPrice§116.0
+targetMeanPrice§127.89
+targetMedianPrice§125.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.064
+earningsGrowth§0.091
+grossMargins§0.33148998
+ebitdaMargins§0.20406
+trailingPegRatio§1.5066

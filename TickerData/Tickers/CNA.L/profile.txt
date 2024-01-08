@@ -1,0 +1,59 @@
+# reload+after+2024-01-21 17:35:56.547632
+address1§Millstream
+address2§Maidenhead Road
+city§Windsor
+zip§SL4 5GD
+country§United Kingdom
+phone§44 17 5349 4000
+fax§44 17 5349 4909
+website§https://www.centrica.com
+industry§Utilities - Independent Power Producers
+industryKey§utilities-independent-power-producers
+industryDisp§Utilities - Independent Power Producers
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§Centrica plc operates as an integrated energy company in the United Kingdom, Ireland, Scandinavia, North America, and internationally. The company operates through British Gas Services & Solutions, British Gas Energy, Centrica Business Solutions, Bord Gáis Energy, Energy Marketing & Trading, and Upstream segments. It supplies gas and electricity to residential, commercial, industrial customers, and small businesses, as well as offers energy-related services; and generates power from nuclear assets. The company also provides installation, repair, and maintenance services for domestic central heating, plumbing and drains, electrical appliances; and heating, ventilation, and air conditioning systems, as well as offers breakdown services. In addition, it is involved in the procurement, trading, and optimization of energy; procurement and sale of LNG; and supply of energy efficiency solutions and technologies. Further, the company produces and processes gas and oil; develops new fields to maintain reserves; constructs, owns, and exploits infrastructure; and engages in the social enterprise investment fund activities. Additionally, it provides vehicle leasing, commercial, and insurance services, as well as energy management products and services; constructs battery storage; builds solar farm and connects to grid; and operates a gas storage and franchise network. The company was formerly known as Yieldtop plc and changed its name to Centrica plc in December 1996. Centrica plc was founded in 1812 and is based in Windsor, the United Kingdom.
+fullTimeEmployees§20590
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Christopher  O'Shea", 'age': 50, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2228000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Russell Leslie O'Brien", 'age': 49, 'title': 'Group CFO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Martyn  Espley', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raj  Roy', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Shedden M.B.E.', 'age': 57, 'title': 'Group Chief People Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jim  Rushen', 'title': 'Group Head of Environment', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Simister', 'title': 'Head of Fleet - British Gas', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.022
+exDividendDate§1696464000
+payoutRatio§0.040900003
+fiveYearAvgDividendYield§8.77
+beta§1.068
+priceToSalesTrailing12Months§0.27419746
+currency§GBp
+forwardEps§18.05
+pegRatio§-0.23
+lastDividendValue§1.33
+lastDividendDate§1696464000
+exchange§LSE
+quoteType§EQUITY
+shortName§CENTRICA PLC ORD 6 14/81P
+longName§Centrica plc
+firstTradeDateEpochUtc§856166400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d4320d0e-7d78-305d-b7fe-ba7547e76855
+messageBoardId§finmb_882523
+targetHighPrice§215.0
+targetLowPrice§140.0
+targetMeanPrice§178.73
+targetMedianPrice§180.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§0.989
+grossMargins§0.66436994
+ebitdaMargins§0.61715
+trailingPegRatio§None

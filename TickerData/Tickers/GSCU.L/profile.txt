@@ -1,0 +1,32 @@
+# reload+after+2024-01-22 13:38:06.272813
+address1§Salisbury House
+address2§London Wall
+city§London
+zip§EC2M 5PS
+country§United Kingdom
+phone§44 20 7638 9271
+website§https://gscplc.com
+industry§Copper
+sector§Basic Materials
+longBusinessSummary§Great Southern Copper PLC, together with its subsidiaries, engages in the exploration and evaluation of copper and gold deposits in Chile. The company holds 100% interest in the San Lorenzo project that covers an area of 25,680 hectares located to the northeast of the coastal city of La Serena in northern Chile; and the Especularita project covering an area of 13,799 hectares located to the south of the San Lorenzo project. Great Southern Copper PLC was incorporated in 2020 and is based in London, the United Kingdom.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Samuel James Melville Garrett', 'age': 57, 'title': 'CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 119096, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin John Page', 'age': 47, 'title': 'CFO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.382
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§GREAT SOUTHERN COPPER PLC ORD G
+longName§Great Southern Copper PLC
+firstTradeDateEpochUtc§1639987200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d305ad94-087d-3a35-b218-7751cbce44f6
+recommendationKey§none
+quickRatio§1.538
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

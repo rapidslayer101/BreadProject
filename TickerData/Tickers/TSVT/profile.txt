@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 15:47:39.958377
+address1§60 Binney Street
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§339 499 9300
+website§https://www.2seventybio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§2seventy bio, Inc., a cell and gene therapy company, focuses on the research, development, and commercialization of treatments for cancer in the United States. The company's products pipeline includes idecabtagene vicleucel; ide-cel or Abecma and bb21217; and chimeric antigen receptor-T cell product candidates for the treatment of multiple myeloma. It has a collaboration arrangement with Bristol-Myers Squibb Company. The company was incorporated in 2021 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§425
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nick  Leschly', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1811892, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Philip D. Gregory D. Phil., DPHIL', 'age': 52, 'title': 'Chief Scientific Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1013261, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William D. Baird III, M.B.A.', 'age': 51, 'title': 'Principal Financial Officer, Principal Accounting Officer & Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 810828, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Abu-Absi Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa L. Jurgensen J.D.', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerri  Jensen', 'title': 'Head of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenn  Snyder', 'title': 'Senior Vice President of Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven  Bernstein M.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Certo', 'title': 'VP & Head of Genome Editing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.854
+priceToSalesTrailing12Months§1.3152401
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.27
+exchange§NMS
+quoteType§EQUITY
+shortName§2seventy bio, Inc.
+longName§2seventy bio, Inc.
+firstTradeDateEpochUtc§1635946200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f4b7e673-d101-3831-ada5-26d60bd8a06b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§2.0
+targetMeanPrice§8.0
+targetMedianPrice§6.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.972
+grossMargins§-0.76822996
+ebitdaMargins§-1.19552
+trailingPegRatio§None

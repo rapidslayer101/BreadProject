@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 08:32:23.395498
+address1§Two North Ninth Street
+city§Allentown
+state§PA
+zip§18101-1179
+country§United States
+phone§610 774 5151
+website§https://www.pplweb.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§PPL Corporation, an energy company, focuses on providing electricity and natural gas to approximately 3.5 million customers in the United States. It operates through three segments: Kentucky Regulated, Pennsylvania Regulated, and Rhode Island Regulated. The company delivers electricity to customers in Pennsylvania, Kentucky, Virginia, and Rhode Island; delivers natural gas to customers in Kentucky and Rhode Island; and generates electricity from power plants in Kentucky. PPL Corporation was founded in 1920 and is headquartered in Allentown, Pennsylvania.
+fullTimeEmployees§6527
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vincent  Sorgi', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 3219642, 'exercisedValue': 283162, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph P. Bergstein Jr.', 'age': 52, 'title': 'Executive VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1397027, 'exercisedValue': 78864, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy E. Stark', 'age': 51, 'title': 'Executive VP, Corporate Secretary & Chief Legal Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1241885, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John R. Crockett III', 'age': 58, 'title': 'President of LG&E and KU Energy LLC', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 915184, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis X. Sullivan', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew B. Green', 'title': 'VP & Chief Information and Digital Officer of PPL Services Corporation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Ludwig', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven D. Phillips', 'title': 'VP & Global Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Hill', 'title': 'Senior Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela K. Gosman', 'age': 54, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.96
+dividendYield§0.0346
+exDividendDate§1701907200
+payoutRatio§0.90870005
+fiveYearAvgDividendYield§5.01
+beta§0.853
+priceToSalesTrailing12Months§2.3865583
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.71
+pegRatio§1.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§PPL Corporation
+longName§PPL Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§050761d8-d320-3128-b499-0287d187f09a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§25.0
+targetMeanPrice§28.83
+targetMedianPrice§29.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.608
+earningsGrowth§0.312
+grossMargins§0.36646998
+ebitdaMargins§0.3352
+trailingPegRatio§1.484

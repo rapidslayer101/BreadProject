@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 02:43:14.971561
+address1§3611 Valley Centre Drive
+address2§Suite 150
+city§San Diego
+state§CA
+zip§92130
+country§United States
+phone§760 579 0200
+fax§760 579 0892
+website§https://www.airgain.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§Airgain, Inc. provides wireless connectivity solutions that creates and delivers embedded components, external antennas, and integrated systems worldwide. The company's products include MaxBeam embedded antennas; profile embedded antennas; profile contour embedded antennas; ultra-embedded antennas; SmartMax embedded antennas; and MaxBeam carrier class antennas, as well as automotive, fleet, public safety, and machine-to-machine antennas under the Antenna Plus brand. The company was formerly known as AM Group and changed its name to Airgain, Inc. in 2004. Airgain, Inc. was incorporated in 1995 and is headquartered in San Diego, California.
+fullTimeEmployees§141
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jacob  Suen', 'age': 49, 'title': 'President, CEO, Chief Revenue Officer & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 712360, 'exercisedValue': 0, 'unexercisedValue': 93764}, {'maxAge': 1, 'name': 'Mr. Michael  Elbaz', 'age': 58, 'title': 'CFO, Secretary and Principal Financial & Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 285640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Blair', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ali S. Sadri Ph.D.', 'age': 59, 'title': 'Chief Technology Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexis C. Waadt', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leonard  Johnson', 'age': 68, 'title': 'Advisor', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 425000, 'exercisedValue': 0, 'unexercisedValue': 454746}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.865
+priceToSalesTrailing12Months§0.5692902
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.14
+pegRatio§-0.28
+exchange§NCM
+quoteType§EQUITY
+shortName§Airgain, Inc.
+longName§Airgain, Inc.
+firstTradeDateEpochUtc§1471008600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§75c9c209-426b-38d2-b455-23d5d93ef2d6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§4.0
+targetMeanPrice§5.67
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.709
+grossMargins§0.35987
+ebitdaMargins§-0.099180005
+trailingPegRatio§None

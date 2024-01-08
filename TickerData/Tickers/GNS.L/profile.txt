@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 02:37:59.447944
+address1§Matrix House
+address2§Basing View
+city§Basingstoke
+zip§RG21 4DZ
+country§United Kingdom
+phone§44 1256 347 100
+fax§44 1256 477 385
+website§https://www.genusplc.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Genus plc operates as an animal genetics company in North America, Latin America, the United Kingdom, rest of Europe, the Middle East, Russia, Africa, and Asia. The company operates through three segments: Genus PIC, Genus ABS, and Genus Research and Development. It sells breeding pigs and semen to breed pigs with various characteristics for pork production under the PIC brand. The company also sells bull semen and embryos to breed calves with various characteristics for milk and beef production under the ABS, Genus, and Bovec brands. In addition, it offers technical services to farmers. The company was incorporated in 1994 and is based in Basingstoke, the United Kingdom.
+fullTimeEmployees§3500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jorgen  Kokke', 'age': 55, 'title': 'Chief Executive Officer & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 574505, 'exercisedValue': 0, 'unexercisedValue': 2745941}, {'maxAge': 1, 'name': 'Ms. Alison Jane Henriksen ACA', 'age': 56, 'title': 'CFO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 605000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Matt  Culbertson', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Elena  Rice', 'title': 'Head of R&D and Chief Scientific Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel William David Hartley', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angelle R. Rosata', 'title': 'Group Human Resources Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerry  Thompson', 'title': 'Chief Operating Officer of Genus ABS Beef', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nate  Zwald', 'title': 'Chief Operating Officer of Genus ABS Dairy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andrew  Thompson', 'title': 'Head of ABS EMEA', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet  Duane', 'title': 'Group Financial Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.015
+exDividendDate§1699488000
+payoutRatio§0.6337
+fiveYearAvgDividendYield§0.98
+beta§0.343
+priceToSalesTrailing12Months§2.0775135
+currency§GBp
+forwardEps§103.09
+pegRatio§2.18
+exchange§LSE
+quoteType§EQUITY
+shortName§GENUS PLC ORD 10P
+longName§Genus plc
+firstTradeDateEpochUtc§962866800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e8743fd4-3172-3074-8ee8-ba584a6c4e3d
+targetHighPrice§4500.0
+targetLowPrice§2317.0
+targetMeanPrice§3179.43
+targetMedianPrice§3200.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.119
+earningsGrowth§-0.056
+grossMargins§0.37785
+ebitdaMargins§0.126
+trailingPegRatio§None

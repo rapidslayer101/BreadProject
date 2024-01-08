@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 13:43:24.518533
+address1§30 Technology Drive
+city§Warren
+state§NJ
+zip§07059
+country§United States
+phone§908 941 1900
+website§https://www.aquestive.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Aquestive Therapeutics, Inc., a pharmaceutical company, focuses on identifying, developing, and commercializing various products to address unmet medical needs in the United States and internationally. The company markets Sympazan, an oral soluble film formulation of clobazam for the treatment of lennox-gastaut syndrome; Suboxone, a sublingual film formulation of buprenorphine and naloxone for the treatment of opioid dependence; Zuplenz, an oral soluble film formulation of ondansetron for the treatment of nausea and vomiting associated with chemotherapy and post-operative recovery; and Azstarys, a once-daily product for the treatment of attention deficit hyperactivity disorder. The company's proprietary product candidates comprise Libervant, a buccal soluble film formulation of diazepam for the treatment of seizures; and Exservan, an oral soluble film formulation of riluzole for the treatment of amyotrophic lateral sclerosis. Its proprietary pipeline of complex molecule products include AQST-108, a sublingual film formulation delivering systemic epinephrine for the treatment of conditions other than anaphylaxis; and AQST-109, an orally delivered epinephrine product candidate for the emergency treatment of allergic reactions, including anaphylaxis. Further, the company develops KYNMOBI, a sublingual film formulation of apomorphine for the treatment of episodic off-periods in Parkinson's disease. Aquestive Therapeutics, Inc. was incorporated in 2004 and is headquartered in Warren, New Jersey.
+fullTimeEmployees§130
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel  Barber', 'age': 47, 'title': 'CEO, President & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 925345, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander Mark Schobel', 'age': 64, 'title': 'Chief Innovation & Technology Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 672689, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori J. Braender BSBA, Esq., J.D.', 'age': 67, 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 678757, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. A. Ernest Toth Jr.', 'age': 64, 'title': 'Chief Financial Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 679896, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cassie  Jung', 'age': 44, 'title': 'Senior Vice President of Operations', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter E. Boyd', 'age': 57, 'title': 'Senior Vice President of IT, HR & Communications', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth W. Marshall', 'age': 64, 'title': 'Chief Commercial Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Gary H. Slatko M.D., MBA', 'age': 66, 'title': 'Chief Medical Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen  Wargacki', 'age': 45, 'title': 'Senior VP of Research & Development', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Carl N. Kraus M.D.', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.673
+priceToSalesTrailing12Months§3.2509098
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.25
+exchange§NGM
+quoteType§EQUITY
+shortName§Aquestive Therapeutics, Inc.
+longName§Aquestive Therapeutics, Inc.
+firstTradeDateEpochUtc§1532525400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§22956725-87cb-39ad-9e8b-1bc1480b8337
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§3.0
+targetMeanPrice§6.33
+targetMedianPrice§6.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.391
+grossMargins§0.55353
+ebitdaMargins§-0.42576998
+trailingPegRatio§None

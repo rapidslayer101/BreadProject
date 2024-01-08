@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 08:47:18.848320
+address1§306 South Henry Street, Suite 100
+city§Williamsburg
+state§VA
+zip§23185-4046
+country§United States
+phone§757 229 5648
+fax§757 564 8801
+website§https://www.sotherlyhotels.com
+industry§REIT—Hotel & Motel
+sector§Real Estate
+longBusinessSummary§Sotherly Hotels Inc. is a self-managed and self-administered lodging REIT focused on the acquisition, renovation, upbranding and repositioning of upscale to upper-upscale full-service hotels in the Southern United States. Sotherly may also opportunistically acquire hotels throughout the United States. Currently, the Company's portfolio consists of investments in ten hotel properties, comprising 2,786 rooms, as well as interests in two condominium hotels and their associated rental programs. The Company owns hotels that operate under the Hilton Worldwide and Hyatt Hotels Corporation brands, as well as independent hotels. Sotherly Hotels Inc. was organized in 2004 and is headquartered in Williamsburg, Virginia.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David R. Folsom', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 681864, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony E. Domalski CPA', 'age': 61, 'title': 'VP, Secretary & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 515956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott M. Kucinski', 'age': 41, 'title': 'Executive VP & COO', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Mack Sims Jr.', 'title': 'Vice President of Operations & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ashley Sims Kirkland', 'title': 'Corporate Counsel & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert E. Kirkland IV', 'age': 40, 'title': 'General Counsel', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David J. Surette CPA', 'age': 63, 'title': 'Corporate Controller', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1576108800
+payoutRatio§0.0
+fiveYearAvgDividendYield§7.88
+beta§1.666
+openInterest§0
+priceToSalesTrailing12Months§0.33788556
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.56
+exchange§NGM
+quoteType§EQUITY
+shortName§Sotherly Hotels Inc.
+longName§Sotherly Hotels Inc.
+firstTradeDateEpochUtc§1103293800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b266943e-510e-3d35-8071-3855f631f244
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§2.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.855
+grossMargins§0.26779
+ebitdaMargins§0.22690001
+trailingPegRatio§None

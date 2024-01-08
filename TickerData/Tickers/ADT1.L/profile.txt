@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 15:35:23.849482
+address1§Regent House
+address2§Ground Floor 65 Rodney Road
+city§Cheltenham
+zip§GL50 1HX
+country§United Kingdom
+phone§44 20 7993 0066
+fax§44 20 7993 4077
+website§https://www.adriaticmetals.com
+industry§Other Industrial Metals & Mining
+industryKey§other-industrial-metals-mining
+industryDisp§Other Industrial Metals & Mining
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Adriatic Metals PLC, through its subsidiaries, engages in the exploration and development of precious and base metals. It explores for silver, zinc, lead, copper, gold, and barite deposits. The company's flagship project is the Vares Silver Project located in the Bosnia and Herzegovina. It also operates Raska Project located in Serbia. Adriatic Metals PLC was incorporated in 2017 and is based in Cheltenham, the United Kingdom.
+fullTimeEmployees§267
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul David Cronin B.Com., M.B.A.', 'age': 49, 'title': 'Co-Founder, MD, CEO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 472574, 'exercisedValue': 4614340, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Michael Norris', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham  Hill', 'age': 65, 'title': 'Chief Operating Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Klara  Kaczmarek', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jelena  Viskovic', 'title': 'Group Human Resource Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip  Fox', 'title': 'Chief Geologist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominic  Roberts', 'title': 'Head of Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabriel Mario Chiappini B.Com, C.A., GAICD, ICAA, MAICD', 'title': 'Joint Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Neil Dickman', 'title': 'Joint Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.272
+currency§GBp
+forwardEps§0.27
+exchange§LSE
+quoteType§EQUITY
+shortName§ADRIATIC METALS PLC ORD 1.3355P
+longName§Adriatic Metals PLC
+firstTradeDateEpochUtc§1576137600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§251d1b31-e112-3782-8e76-f56d62a45b78
+messageBoardId§finmb_555400950
+targetHighPrice§2.99
+targetLowPrice§2.49
+targetMeanPrice§2.66
+targetMedianPrice§2.49
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.811
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

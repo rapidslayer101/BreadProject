@@ -1,0 +1,47 @@
+# reload+after+2024-01-21 01:28:23.956457
+address1§300 Carnegie Center
+address2§Suite 300
+city§Princeton
+state§NJ
+zip§08540
+country§United States
+phone§609 608 1525
+website§https://www.clearwayenergy.com
+industry§Utilities—Renewable
+sector§Utilities
+longBusinessSummary§Clearway Energy, Inc. operates in the renewable energy business in the United States. The company operates through Conventional, Renewables, and Thermal segments. It has approximately 5,500 net megawatts (MW) of installed wind and solar generation projects; and approximately 2,500 net MW of natural gas generation facilities. The company was formerly known as NRG Yield, Inc. and changed its name to Clearway Energy, Inc. in August 2018. Clearway Energy, Inc. was incorporated in 2012 and is based in Princeton, New Jersey. Clearway Energy, Inc. operates as a subsidiary of Clearway Energy Group LLC.
+fullTimeEmployees§58
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher S. Sotos', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1396951, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Rubenstein', 'age': 45, 'title': 'Executive VP, CFO & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 513522, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin P. Malcarney', 'age': 56, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 694711, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Murphy', 'title': 'Senior VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julie  Babcock', 'title': 'Senior Environmental Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aarty  Joshi', 'title': 'Director of Environmental Permitting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.59
+dividendYield§0.0591
+exDividendDate§1701302400
+payoutRatio§3.2882998
+fiveYearAvgDividendYield§4.69
+beta§0.923
+priceToSalesTrailing12Months§3.9659445
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Clearway Energy, Inc.
+longName§Clearway Energy, Inc.
+firstTradeDateEpochUtc§1431696600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3b238548-e485-33b2-bbfd-371cec674f9d
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.214
+earningsGrowth§-0.875
+grossMargins§0.65716004
+ebitdaMargins§0.77044
+trailingPegRatio§0.3009

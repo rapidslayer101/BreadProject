@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 02:40:43.671985
+address1§Thorpe Way
+address2§Grove Park Enderby
+city§Leicester
+zip§LE19 1SU
+country§United Kingdom
+phone§44 11 6282 8000
+fax§44 11 6282 8115
+website§https://www.toppsgroup.com
+industry§Home Improvement Retail
+sector§Consumer Cyclical
+longBusinessSummary§Topps Tiles Plc engages in the retail and wholesale distribution of ceramic and porcelain tiles, natural stone, and related products for residential and commercial markets in the United Kingdom. The company engages in the property management and investment activities; retail and wholesale of wood flooring products; provision of warehousing services; and sale and distribution of architectural ceramic. It also sells its products online. The company was founded in 1963 and is headquartered in Leicester, the United Kingdom.
+fullTimeEmployees§1744
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert  Parker ACMA', 'age': 51, 'title': 'Group CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 781000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Robert Hopson', 'age': 43, 'title': 'CFO & Director', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 435000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joanne Monica Steer', 'title': 'Head of Legal & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda  Sleath', 'title': 'HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Carter', 'title': 'Managing Director of Retail', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Little', 'title': 'Managing Director of Commercial', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0774
+exDividendDate§1703116800
+payoutRatio§2.3602
+fiveYearAvgDividendYield§4.6
+beta§1.358
+priceToSalesTrailing12Months§0.37432715
+currency§GBp
+forwardEps§5.26
+exchange§LSE
+quoteType§EQUITY
+shortName§TOPPS TILES PLC ORD 3 1/3P
+longName§Topps Tiles Plc
+firstTradeDateEpochUtc§865234800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§13c07418-5ac1-3bfd-a93f-7424e2a98361
+targetHighPrice§90.0
+targetLowPrice§70.0
+targetMeanPrice§80.0
+targetMedianPrice§80.0
+recommendationKey§none
+numberOfAnalystOpinions§2
+quickRatio§0.433
+earningsGrowth§-0.446
+grossMargins§0.53004
+ebitdaMargins§0.065120004
+trailingPegRatio§None

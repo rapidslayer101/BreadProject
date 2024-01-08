@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 05:44:18.355525
+address1§9201 West Broadway Avenue
+address2§Suite 650
+city§Minneapolis
+state§MN
+zip§55445
+country§United States
+phone§763 416 2840
+fax§763 416 2841
+website§https://www.cvrx.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§CVRx, Inc., a commercial-stage medical device company, focuses on developing, manufacturing, and commercializing neuromodulation solutions for patients with cardiovascular diseases. It offers Barostim, a neuromodulation device indicated to improve symptoms for patients with heart failure (HF) with reduced ejection fraction or systolic HF. The company sells its products through direct sales force, as well as sales agents and independent distributors in the United States, Germany, and internationally. CVRx, Inc. was incorporated in 2000 and is headquartered in Minneapolis, Minnesota.
+fullTimeEmployees§160
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nadim  Yared', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 764205, 'exercisedValue': 0, 'unexercisedValue': 8151686}, {'maxAge': 1, 'name': 'Mr. Jared  Oasheim', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 446102, 'exercisedValue': 0, 'unexercisedValue': 1006328}, {'maxAge': 1, 'name': 'Mr. Paul  Verrastro', 'age': 60, 'title': 'Chief Marketing & Strategy Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 529843, 'exercisedValue': 0, 'unexercisedValue': 631913}, {'maxAge': 1, 'name': 'Mr. Paul  Pignato', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jonelle R. Burnham', 'age': 52, 'title': 'Vice President & General Counsel', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Palmer', 'age': 46, 'title': 'Senior Vice President of US Sales', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.453
+priceToSalesTrailing12Months§17.52687
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.92
+exchange§NMS
+quoteType§EQUITY
+shortName§CVRx, Inc.
+longName§CVRx, Inc.
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§18e77560-d0bd-3e3c-99c4-c943c8d9d9cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§21.0
+targetMeanPrice§27.6
+targetMedianPrice§30.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§12.065
+grossMargins§0.82809997
+ebitdaMargins§-1.26258
+trailingPegRatio§None

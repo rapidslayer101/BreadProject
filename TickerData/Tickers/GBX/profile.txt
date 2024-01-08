@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 00:29:44.831911
+address1§One Centerpointe Drive
+address2§Suite 200
+city§Lake Oswego
+state§OR
+zip§97035
+country§United States
+phone§503 684 7000
+fax§503 684 7553
+website§https://www.gbrx.com
+industry§Railroads
+sector§Industrials
+longBusinessSummary§The Greenbrier Companies, Inc. designs, manufactures, and markets railroad freight car equipment in North America, Europe, and South America. It operates through three segments: Manufacturing; Maintenance Services; and Leasing & Management Services. The Manufacturing segment offers covered hopper cars, gondolas, open top hoppers, boxcars, center partition cars, tank cars, sustainable conversions, double-stack railcars, auto-max ii, multi-max, and multi-max plus products, intermodal cars, automobile transport, coil steel and metals, flat cars, sliding wall cars, pressurized tank cars, and non-pressurized tank cars. The Maintenance Services segment provides wheel services, including reconditioning of wheels and axles, new axle machining and finishing, and downsizing; operates a railcar repair, refurbishment, and maintenance network; and reconditions and manufactures railcar cushioning units, couplers, yokes, side frames, bolsters, and various other parts. The Leasing & Management Services segment offers operating leases and per diem leases for a fleet of approximately 13,400 railcars; and management services comprising railcar maintenance management, railcar accounting services, fleet management and logistics, administration, and railcar re-marketing. This segment provides management services for railroads, shippers, carriers, institutional investors, and other leasing and transportation companies. It serves railroads, leasing companies, financial institutions, shippers, carriers, and transportation companies. The company was founded in 1974 and is headquartered in Lake Oswego, Oregon.
+fullTimeEmployees§13800
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lorie L. Tekorius', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 2820291, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William A. Furman', 'age': 79, 'title': 'Co-Founder & Director', 'yearBorn': 1944, 'fiscalYear': 2023, 'totalPay': 80000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adrian J. Downes', 'age': 60, 'title': 'Senior VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1397779, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin R. Baker', 'age': 68, 'title': 'Senior VP, Chief Legal & Compliance Officer', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 1286525, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Comstock', 'age': 61, 'title': 'Executive VP and Chief Commercial & Leasing Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1680974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Krueger', 'age': 57, 'title': 'Senior VP &  President of Greenbrier Manufacturing Operations', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1597513, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Joseph Meyer', 'age': 41, 'title': 'Senior VP of Finance & Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin M. Roberts', 'title': 'VP of Corporate Finance & Treasurer and Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack  Isselmann', 'title': 'Senior Vice President of External Affairs & Communications and Media Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laurie  Dornan', 'age': 53, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.025799999
+exDividendDate§1706054400
+payoutRatio§0.3393
+fiveYearAvgDividendYield§3.23
+beta§1.587
+priceToSalesTrailing12Months§0.36343342
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.68
+pegRatio§1.76
+exchange§NYQ
+quoteType§EQUITY
+shortName§Greenbrier Companies, Inc. (The
+longName§The Greenbrier Companies, Inc.
+firstTradeDateEpochUtc§774192600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§18ff2b13-df86-38bd-8384-1ee23f5e8960
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§54.0
+targetLowPrice§34.0
+targetMeanPrice§44.4
+targetMedianPrice§46.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.897
+grossMargins§0.12365
+ebitdaMargins§0.09076
+trailingPegRatio§None

@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 14:36:07.316827
+address1§1 Thornbury
+address2§West Ashland
+city§Milton Keynes
+zip§MK6 4BB
+country§United Kingdom
+phone§44 19 0858 0000
+website§https://investors.dominos.co.uk
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Domino's Pizza Group plc owns, operates, and franchises Domino's Pizza stores. It operates stores in the United Kingdom and the Republic of Ireland, as well as leases its stores. The company was formerly known as Domino's Pizza UK & IRL plc and changed its name to Domino's Pizza Group plc in May 2012. Domino's Pizza Group plc was founded in 1960 and is based in Milton Keynes, the United Kingdom.
+fullTimeEmployees§1710
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward Robert Francis Jamieson', 'age': 46, 'title': 'CFO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 940979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Charles Rennie', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicola Julie Frampton', 'age': 57, 'title': 'Operations Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sody  Kahlon', 'title': 'Chief Information & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Will  MacLaren', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nina  Arnott', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Barron', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kirsty  Pitcher', 'title': 'Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Trier', 'title': 'Group Managing Director of Germany', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adrian John Bushnell', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.0273
+exDividendDate§1691625600
+payoutRatio§0.35209998
+fiveYearAvgDividendYield§3.09
+beta§1.056
+priceToSalesTrailing12Months§2.2807362
+currency§GBp
+forwardEps§20.54
+pegRatio§2.64
+lastDividendValue§3.3
+lastDividendDate§1691625600
+exchange§LSE
+quoteType§EQUITY
+shortName§DOMINO'S PIZZA GROUP PLC ORD  2
+longName§Domino's Pizza Group plc
+firstTradeDateEpochUtc§943430400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§60f0be3a-8116-3efa-a4af-eb856b0992d4
+messageBoardId§finmb_5460252
+targetHighPrice§480.0
+targetLowPrice§295.0
+targetMeanPrice§407.22
+targetMedianPrice§420.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.669
+earningsGrowth§1.021
+grossMargins§0.45808998
+ebitdaMargins§0.17972
+trailingPegRatio§None

@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 22:40:07.138777
+address1§London Road
+city§Stoke-On-Trent
+zip§ST4 7QQ
+country§United Kingdom
+phone§44 17 8274 4721
+website§https://www.portmeiriongroup.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Portmeirion Group PLC, together with its subsidiaries, manufactures, markets, and distributes ceramics, home fragrances, and associated homeware products in the United Kingdom, the United States, South Korea, and internationally. It offers tableware, cookware, giftware, glassware, and accessories under the Portmeirion, Spode, Wax Lyrical, Royal Worcester, Nambé, and Pimpernel brand names. The company provides placemats, coasters, bone china and porcelain tableware, wood, glass and metal alloy giftware, and other products. Portmeirion Group PLC was incorporated in 1912 and is headquartered in Stoke-on-Trent, the United Kingdom.
+fullTimeEmployees§868
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Trevor Raybould A.C.A., B.Sc.', 'age': 52, 'title': 'Chief Executive & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 487000, 'exercisedValue': 11244, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Sproston A.C.A., B.Sc.', 'age': 41, 'title': 'Group Finance Director & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 191000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Knapper', 'title': 'Group Operations Director & Executive Director', 'fiscalYear': 2022, 'totalPay': 258000, 'exercisedValue': 6747, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Robedee B.A., J.D.', 'title': 'Global Sales Director, President of North America & Director', 'fiscalYear': 2022, 'totalPay': 353000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha  Pearce Assoc CIPD', 'title': 'Manager of Human Resources and Benefits', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Moira  MacDonald ACIS, FCIS', 'title': 'Group Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.16
+dividendYield§0.0554
+exDividendDate§1700092800
+payoutRatio§0.4582
+fiveYearAvgDividendYield§3.67
+beta§1.345
+priceToSalesTrailing12Months§0.37069467
+currency§GBp
+forwardEps§36.16
+pegRatio§1.86
+exchange§LSE
+quoteType§EQUITY
+shortName§PORTMEIRION GROUP PLC ORD 5P
+longName§Portmeirion Group PLC
+firstTradeDateEpochUtc§594460800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f9345ef6-95f8-359c-a46d-5fde445a94ba
+targetHighPrice§355.0
+targetLowPrice§355.0
+targetMeanPrice§355.0
+targetMedianPrice§355.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.661
+grossMargins§0.55979997
+ebitdaMargins§0.08464
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 01:43:28.016558
+address1§331 Oyster Point Boulevard
+address2§Fourth Floor
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§833 509 4583
+website§https://www.assemblybio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Assembly Biosciences, Inc., a biopharmaceutical company, discovers and develops therapeutic candidates for the treatment of hepatitis B virus (HBV) infection in the United States. The company's next-generation HBV core inhibitors include ABI-4334, which is in Phase 1a studies for the treatment of HBV; and ABI-H3733, which is in Phase 1b clinical study. It is also involved in novel small molecule approaches for HBV and hepatitis delta virus (HDV) comprising an orally bioavailable HBV/HDV entry inhibitor and liver-focused interferon-a receptor agonist. In addition, the company develops Herpesvirus programs, such as ABI-5366 HSV-2, a long-acting helicase inhibitor; and pan-herpes non-nucleoside polymerase inhibitors for transplant-associated infections. Further, Assembly Biosciences, Inc. has collaboration agreement with BeiGene, Ltd. to develop and commercialize the novel core inhibitor product candidates for chronic HBV infection in the People's Republic of China, Hong Kong, Taiwan, and Macau; and clinical trial collaboration agreement with Arbutus Biopharma Corporation to conduct a randomized, multi-center, and open-label clinical trials, as well as agreement with Antios Therapeutics, Inc. for triple combination therapy. The company also has license agreement with Indiana University Research and Technology Corporation for HBV research, as well as a partnership with Gilead Sciences, Inc. to develop next-generation therapeutics for serious viral diseases. The company was formerly known as Ventrus Biosciences, Inc. and changed its name to Assembly Biosciences, Inc. in June 2014. Assembly Biosciences, Inc. was incorporated in 2005 and is headquartered in South San Francisco, California.
+fullTimeEmployees§68
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason A. Okazaki', 'age': 47, 'title': 'CEO, President & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 869283, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. William E. Delaney IV, Ph.D.', 'age': 51, 'title': 'Chief Scientific Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 664400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Uri A. Lopatin M.D.', 'age': 51, 'title': 'Co-Founder and Clinical & Scientific Advisor', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 608555, 'exercisedValue': 0, 'unexercisedValue': 2467200}, {'maxAge': 1, 'name': 'Dr. Adam  Zlotnick', 'title': 'Co-Founder, Chief Scientific Advisor and Chair of Hbv & Virology Science Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeanette M Bjorkquist', 'title': 'Executive Director of Accounting & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shannon  Ryan', 'title': 'Senior Vice President of Investor Relations, Corporate Affairs & Alliance Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer A. Troia MHROD, SHRM-SCP, SPHR', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nicole S. White Ph.D.', 'title': 'Chief Manufacturing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Anuj  Gaggar M.D., Ph.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas E. Rollins', 'age': 67, 'title': 'Executive Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 472550, 'exercisedValue': 0, 'unexercisedValue': 1202500}]
+auditRisk§2
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.525
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.23
+pegRatio§-0.04
+exchange§NMS
+quoteType§EQUITY
+shortName§Assembly Biosciences, Inc.
+longName§Assembly Biosciences, Inc.
+firstTradeDateEpochUtc§1292596200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ccb3150-4a3d-31e5-b37e-d19135911383
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§6.493
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

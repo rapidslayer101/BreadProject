@@ -1,0 +1,31 @@
+# reload+after+2024-01-23 11:35:46.304821
+address1§65 Gresham Street
+address2§6th Floor
+city§London
+zip§EC2V 7NQ
+country§United Kingdom
+website§https://www.bpcruk.com
+longBusinessSummary§BioPharma Credit PLC, an investment trust, primarily invests in interest-bearing debt assets. Its debt assets are secured by royalties or other cash flows derived from the sales of approved life sciences products. The company was incorporated in 2016 and is based in London, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pedro  Gonzalez de Cosio', 'title': 'Investment Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pablo Gerardo Legorreta', 'age': 58, 'title': 'Investment Manager', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin G. Friedman', 'age': 57, 'title': 'Investment Manager', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+beta§0.208
+priceToSalesTrailing12Months§4.4784226
+currency§GBp
+lastDividendValue§0.029788
+lastDividendDate§1701907200
+exchange§LSE
+quoteType§EQUITY
+shortName§BIOPHARMA CREDIT PLC ORD USD0.0
+longName§BioPharma Credit PLC
+firstTradeDateEpochUtc§1633417200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e744e8ac-946c-3cd7-ac99-ca7d7f1865e4
+messageBoardId§finmb_422050753
+recommendationKey§none
+quickRatio§21.748
+earningsGrowth§0.086
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

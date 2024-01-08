@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 07:30:30.915090
+address1§6330 South 3000 East
+address2§Suite 700
+city§Salt Lake City
+state§UT
+zip§84121
+country§United States
+phone§800 203 6755
+website§https://www.instructure.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Instructure Holdings, Inc. provides cloud-based learning, assessment, development, and engagement systems worldwide. It offers Canvas Learning Management System (LMS), for content creation, management, and delivery of face-to-face, blended, and online instruction; Canvas Studio, an online video platform, hosts, manages, edits, and delivers video learning experiences; Canvas Catalog, a course catalog and registration system for creating and maintaining a branded marketplace for online course offerings; Canvas Network, an invitation-only offering, to host and deliver large-scale online courses; Canvas Credentials, a digital badging solution, to provide learners with portable verification of skills in stackable pathways; and Canvas Student Pathways, a solution to guide students through customized learning paths culminating in digital certifications. The company also provides Mastery Assessment, a solution for assessment management and content that include Mastery Connect, a student Assessment Management System, and Mastery View Assessments and Mastery Item Banks, provides various assessment content solutions and analytics; and Impact, helps institutions to drive adoption of new technology tools and evaluate impact on student engagement and outcomes. In addition, it provides Elevate Data Sync, a solutions for synchronization of data, grades, and rosters between edtech applications and student information systems; Elevate K-12 Analytics, a data and analytics solution that delivers interactive visualizations and dashboards; Elevate Data Quality, a data-quality solution that ensures district data is accurate, complete, and up-to-date; Elevate Standards Alignment, to align standards-based educational content, improve discoverability, and reach new education markets; and LearnPlatform Tools offered to evaluate, select, and manage the ongoing usage and effectiveness of digital learning products. The company was founded in 2008 and is headquartered in Salt Lake City, Utah.
+fullTimeEmployees§1466
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen M. Daly', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 816687, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew A. Kaminer', 'age': 49, 'title': 'Chief Legal & People Officer and Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1170023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitch Lee Benson Jr.', 'age': 49, 'title': 'Chief Strategy Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 684205, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dale E. Bowen', 'age': 53, 'title': 'Executive Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 500482, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Ball', 'age': 53, 'title': 'COO & President', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Walker', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Lysaght', 'age': 49, 'title': 'Chief Technology Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roshan  Popal', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Banks', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cory  Edwards', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.57
+priceToSalesTrailing12Months§6.9039454
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.98
+exchange§NYQ
+quoteType§EQUITY
+shortName§Instructure Holdings, Inc.
+longName§Instructure Holdings, Inc.
+firstTradeDateEpochUtc§1626960600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f3f3ab32-d17f-34c8-acc1-12c80d59845b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§25.0
+targetMeanPrice§31.4
+targetMedianPrice§31.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.031
+grossMargins§0.6515
+ebitdaMargins§0.30611
+trailingPegRatio§None

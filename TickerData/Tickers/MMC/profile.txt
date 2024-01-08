@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 00:31:23.243598
+address1§1166 Avenue of the Americas
+city§New York
+state§NY
+zip§10036-2774
+country§United States
+phone§212 345 5000
+website§https://www.mmc.com
+industry§Insurance Brokers
+sector§Financial Services
+longBusinessSummary§Marsh & McLennan Companies, Inc., a professional services company, provides advice and solutions to clients in the areas of risk, strategy, and people worldwide. It operates in two segments, Risk and Insurance Services, and Consulting. The Risk and Insurance Services segment offers risk management services, such as risk advice, risk transfer, and risk control and mitigation solutions, as well as insurance and reinsurance broking, strategic advisory services, and analytics solutions; and insurance program management services. This segment serves businesses, public entities, insurance companies, associations, professional services organizations, and private clients. The Consulting segment provides health, wealth, and career consulting services and products; and specialized management, strategic, economic, and brand consulting services. Marsh & McLennan Companies, Inc. was founded in 1871 and is headquartered in New York, New York.
+fullTimeEmployees§85000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Quinlan Doyle', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 6603700, 'exercisedValue': 0, 'unexercisedValue': 27949340}, {'maxAge': 1, 'name': 'Mr. Mark Christopher McGivney', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3524277, 'exercisedValue': 5348541, 'unexercisedValue': 6283017}, {'maxAge': 1, 'name': 'Mr. Martin C. South', 'age': 58, 'title': 'Vice Chair', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4623287, 'exercisedValue': 0, 'unexercisedValue': 2485560}, {'maxAge': 1, 'name': 'Ms. Martine  Ferland', 'age': 61, 'title': 'CEO of Mercer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 4366625, 'exercisedValue': 0, 'unexercisedValue': 6243686}, {'maxAge': 1, 'name': 'Ms. Stacy M. Mills', 'age': 58, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Beswick', 'age': 47, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarah  Dewitt', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Jones', 'age': 51, 'title': 'Chief Marketing and Communications Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carmen  Fernandez', 'age': 49, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dina  Shapiro', 'title': 'Chief Tax Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§4
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.84
+dividendYield§0.0149
+exDividendDate§1696464000
+payoutRatio§0.3746
+fiveYearAvgDividendYield§1.49
+beta§0.907
+priceToSalesTrailing12Months§4.237879
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.67
+pegRatio§2.19
+exchange§NYQ
+quoteType§EQUITY
+shortName§Marsh & McLennan Companies, Inc
+longName§Marsh & McLennan Companies, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6f58e06b-a378-3dff-936c-9deb85250488
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§226.0
+targetLowPrice§192.0
+targetMeanPrice§206.24
+targetMedianPrice§205.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§17
+quickRatio§0.476
+earningsGrowth§0.361
+grossMargins§0.43326
+ebitdaMargins§0.26734
+trailingPegRatio§2.0997

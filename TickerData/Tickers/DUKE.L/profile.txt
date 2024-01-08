@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 15:36:08.237575
+address1§Trafalgar Court
+address2§Fourth Floor, West Wing Saint Peter Port
+city§Guernsey
+zip§GY1 2JA
+country§Guernsey
+phone§+44 01481 730 613
+website§https://www.dukeroyalty.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Duke Royalty Limited is a principal investment firm specializing in royalty financing. The firm It does not invest in start-ups or tight margin business models. It focuses on intellectual property assets and stable, cash flowing businesses with positive EBITDA, no debt or low levels of debt, and management desire to continue with the business. It seeks to provides capital to companies in exchange for rights to a small percentage of future revenues. The firm prefers government and/or regulatory licensed businesses. Duke Royalty Limited was founded in 2015 and is based in St. Peter Port, Guernsey.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Neil Alan Johnson', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 480000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Cannon-Brookes', 'age': 47, 'title': 'Chief Investment Officer & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 432000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hugo  Evans', 'title': 'CFO & Treasurer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross  Ainger', 'title': 'Manager of Operations & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0848
+exDividendDate§1703721600
+payoutRatio§0.9032
+fiveYearAvgDividendYield§7.24
+beta§1.276
+priceToSalesTrailing12Months§5.435812
+currency§GBp
+forwardEps§3.97
+exchange§LSE
+quoteType§EQUITY
+shortName§DUKE ROYALTY LIMITED ORDS NPV
+longName§Duke Royalty Limited
+firstTradeDateEpochUtc§1341817200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c8962a14-0fd9-3752-a13b-74857b14834a
+targetHighPrice§55.0
+targetLowPrice§43.0
+targetMeanPrice§47.67
+targetMedianPrice§45.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§30.017
+earningsGrowth§-0.688
+grossMargins§0.99913
+ebitdaMargins§0.0
+trailingPegRatio§None

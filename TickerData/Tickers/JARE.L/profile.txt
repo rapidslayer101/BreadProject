@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 18:39:22.957858
+address1§60 Victoria Embankment
+city§London
+zip§EC4Y 0JP
+country§United Kingdom
+phone§44 207 742 6000
+fax§44 20 7742 8162
+website§https://am.jpmorgan.com/gb/en/asset-management/gim/per/products/d/jpmorgan-global-core-real-assets-limited-ordinary-shares-gg00bjvkw831
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Alison  Vincent', 'title': 'Secretary of JPMorgan Funds Limited', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+beta§0.25
+currency§EUR
+exchange§LSE
+quoteType§EQUITY
+shortName§JPMORGAN GLOBAL CORE REAL ASSET
+longName§JPMorgan Global Core Real Assets Limited
+firstTradeDateEpochUtc§1584086400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6edfd0c6-effb-31ac-ab9d-7aa7b98338ef
+recommendationKey§none
+quickRatio§5.938
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

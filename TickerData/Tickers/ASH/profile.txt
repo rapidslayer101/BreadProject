@@ -1,0 +1,60 @@
+# reload+after+2024-01-21 23:26:46.790506
+address1§8145 Blazer Drive
+city§Wilmington
+state§DE
+zip§19808
+country§United States
+phone§302 995 3000
+website§https://www.ashland.com
+industry§Specialty Chemicals
+industryKey§specialty-chemicals
+industryDisp§Specialty Chemicals
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Ashland Inc. provides additives and specialty ingredients in the North and Latin America, Europe, Asia Pacific, and internationally. It operates through Life Sciences, Personal Care, Specialty Additives, and Intermediates segments. The Life Sciences segment offers pharmaceutical solutions, including controlled release polymers, disintegrants, tablet coatings, thickeners, solubilizers, and tablet binders; nutrition solutions, such as thickeners, stabilizers, emulsifiers, and additives; and nutraceutical solutions comprising products for weight management, joint comfort, stomach and intestinal health, sports nutrition, and general wellness, as well as custom formulation, toll processing, and particle engineering solutions. Its Personal Care segment provides a range of nature-based, biodegradable, and performance ingredients; solutions for toothpastes, mouth washes and rinses, denture cleaning, and care for teeth; and household supplies nature-derived rheology ingredients, biodegradable surface wetting agents, performance encapsulates, and specialty polymers. The Specialty Additives segment offers rheology modifiers, foam control agents, surfactants and wetting agents, pH neutralizers, advanced ceramics used in catalytic converters, environmental filters, ingredients for the manufacturing of ceramic capacitors, plasma display panels and solar cells, ingredients for textile printing, thermoplastic metals, and alloys for welding. Its Intermediates segment produces 1,4 butanediol and related derivatives, including n-methylpyrrolidone. It offers its products to customers in a range of consumer and industrial markets, such as architectural coatings, construction, energy, food and beverage, nutraceuticals, personal care, and pharmaceutical. The company was formerly known as Ashland Global Holdings Inc. and changed its name to Ashland Inc. in August 2022. Ashland Inc. was founded in 1924 and is headquartered in Wilmington, Delaware.
+fullTimeEmployees§3800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Guillermo  Novo', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1503019, 'exercisedValue': 0, 'unexercisedValue': 344631}, {'maxAge': 1, 'name': 'Mr. John Kevin Willis', 'age': 58, 'title': 'Senior VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 800818, 'exercisedValue': 1012209, 'unexercisedValue': 3344578}, {'maxAge': 1, 'name': 'Dr. Osama M. Musa Ph.D.', 'age': 55, 'title': 'Senior VP & CTO', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 630576, 'exercisedValue': 0, 'unexercisedValue': 714695}, {'maxAge': 1, 'name': 'Mr. Min S. Chong', 'age': 52, 'title': 'Senior VP and GM of Personal Care & Specialty Additives', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 546915, 'exercisedValue': 0, 'unexercisedValue': 23542}, {'maxAge': 1, 'name': 'Mr. Ashok S. Kalyana', 'age': 51, 'title': 'Senior VP and GM of Life Sciences & Intermediates', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 774629, 'exercisedValue': 0, 'unexercisedValue': 19838}, {'maxAge': 1, 'name': 'Mr. Karl R. Bostaph', 'age': 58, 'title': 'Senior Vice President of Operations', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric N. Boni', 'age': 54, 'title': 'VP of Finance & Principal Accounting Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 879758, 'exercisedValue': 441667, 'unexercisedValue': 805268}, {'maxAge': 1, 'name': 'Seth A. Mrozek', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin E. Lampkin', 'age': 60, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eileen M. Drury', 'age': 55, 'title': 'Senior VP & Chief HR Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.54
+dividendYield§0.019299999
+exDividendDate§1701302400
+payoutRatio§0.4601
+fiveYearAvgDividendYield§1.39
+beta§0.929
+priceToSalesTrailing12Months§1.8489649
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.47
+pegRatio§-38.2
+lastDividendValue§0.385
+lastDividendDate§1701302400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ashland Inc.
+longName§Ashland Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f2cdbcbd-b31d-303f-ac70-8955b4b32a98
+messageBoardId§finmb_252339
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§70.0
+targetMeanPrice§90.3
+targetMedianPrice§94.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.621
+grossMargins§0.30488002
+ebitdaMargins§0.18667
+trailingPegRatio§None

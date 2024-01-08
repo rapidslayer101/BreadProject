@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 12:46:31.394480
+address1§333 Clay Street
+address2§Suite 1600
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§713 646 4100
+website§https://www.plains.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Plains GP Holdings, L.P., through its subsidiary, Plains All American Pipeline, L.P., owns and operates midstream energy infrastructure in the United States and Canada. The company operates in two segments, Crude Oil and Natural Gas Liquids (NGLs). The company engages in the transportation of crude oil and NGLs on pipelines, gathering systems, and trucks. It engages in the provision of storage, terminalling, and throughput services primarily for crude oil, NGLs, and natural gas; NGL fractionation and isomerization services; and natural gas and condensate processing services. The company offers logistics services to producers, refiners, and other customers. PAA GP Holdings LLC operates as a general partner of the company. Plains GP Holdings, L.P. was incorporated in 2013 and is headquartered in Houston, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Wilfred C.W. Chiang', 'age': 62, 'title': 'Chairman & CEO of PAA GP Holdings LLC', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 4369140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry N. Pefanis', 'age': 66, 'title': 'President & Director of PAA GP Holdings LLC', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2674140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Al P. Swanson', 'age': 59, 'title': 'Executive VP & CFO of PAA GP Holdings LLC', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1981640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris R. Chandler', 'age': 51, 'title': 'Executive VP & COO of PAA GP Holdings LLC', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2299140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Kelly McGee', 'age': 62, 'title': 'Executive VP, General Counsel & Secretary of PAA GP Holdings LLC', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2046640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy L. Goebel', 'age': 45, 'title': 'Executive VP & Chief Commercial Officer of PAA GP Holdings LLC', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 2299140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Herbold', 'age': 51, 'title': 'Senior VP & Chief Accounting Officer of PAA GP Holdings LLC', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roy I. Lamoreaux', 'title': 'Vice President, Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad  Leone', 'title': 'Director of Communications for PAA GP Holdings LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dwayne  Koehn', 'age': 49, 'title': 'Senior Vice President of Operations of PAA GP Holdings LLC', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.07
+dividendYield§0.066199996
+exDividendDate§1698624000
+payoutRatio§1.2758
+fiveYearAvgDividendYield§8.12
+beta§1.522
+priceToSalesTrailing12Months§0.07887826
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.42
+exchange§NMS
+quoteType§EQUITY
+shortName§Plains GP Holdings, L.P.
+longName§Plains GP Holdings, L.P.
+firstTradeDateEpochUtc§1381930200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ee409b0e-5475-3e6e-8633-0d6014c192a5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§13.5
+targetMeanPrice§17.68
+targetMedianPrice§18.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.815
+earningsGrowth§-0.596
+grossMargins§0.05296
+ebitdaMargins§0.04579
+trailingPegRatio§0.4106

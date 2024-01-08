@@ -1,0 +1,60 @@
+# reload+after+2024-01-21 22:26:15.371495
+address1§6000 Westown Parkway
+city§West Des Moines
+state§IA
+zip§50266
+country§United States
+phone§515 221 0002
+fax§515 226 3129
+website§https://www.american-equity.com
+industry§Insurance - Life
+industryKey§insurance-life
+industryDisp§Insurance - Life
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§American Equity Investment Life Holding Company, through its subsidiaries, provides life insurance products in the United States. The company issues fixed index and rate annuities, as well as single premium immediate annuities. It markets its products through independent agents, including independent marketing organizations, broker/dealers, banks, and registered investment advisors. American Equity Investment Life Holding Company was incorporated in 1995 and is based in West Des Moines, Iowa.
+fullTimeEmployees§840
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anant  Bhalla', 'age': 45, 'title': 'President, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 4775042, 'exercisedValue': 0, 'unexercisedValue': 3676922}, {'maxAge': 1, 'name': 'Mr. Axel Philippe Alain Andre', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2280021, 'exercisedValue': 0, 'unexercisedValue': 194220}, {'maxAge': 1, 'name': 'Mr. James Louis Hamalainen', 'age': 58, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1870489, 'exercisedValue': 0, 'unexercisedValue': 1061682}, {'maxAge': 1, 'name': 'Mr. Jeffrey David Lorenzen CFA', 'age': 57, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1082873, 'exercisedValue': 0, 'unexercisedValue': 682783}, {'maxAge': 1, 'name': 'Mr. Nicholas P. Volpe', 'age': 47, 'title': 'Executive VP & CTO', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven D. Schwartz C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Etinger', 'age': 47, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aaron  Boushek', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1669334400
+payoutRatio§0.4045
+fiveYearAvgDividendYield§0.99
+beta§0.818
+priceToSalesTrailing12Months§1.7997556
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.17
+pegRatio§0.28
+lastDividendValue§0.36
+lastDividendDate§1669334400
+exchange§NYQ
+quoteType§EQUITY
+shortName§American Equity Investment Life
+longName§American Equity Investment Life Holding Company
+firstTradeDateEpochUtc§1070548200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§32bfedc5-4cae-3abc-a895-6d1448e6cac4
+messageBoardId§finmb_3635761
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§54.0
+targetMeanPrice§54.8
+targetMedianPrice§55.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.862
+earningsGrowth§0.188
+grossMargins§0.25654
+ebitdaMargins§-0.065019995
+trailingPegRatio§None

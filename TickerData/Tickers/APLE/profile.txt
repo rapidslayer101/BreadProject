@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 12:26:41.037578
+address1§814 East Main Street
+city§Richmond
+state§VA
+zip§23219-3306
+country§United States
+phone§804 344 8121
+fax§804 344 8129
+website§https://www.applehospitalityreit.com
+industry§REIT - Hotel & Motel
+industryKey§reit-hotel-motel
+industryDisp§REIT - Hotel & Motel
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Apple Hospitality REIT, Inc. (NYSE: APLE) is a publicly traded real estate investment trust (REIT) that owns one of the largest and most diverse portfolios of upscale, rooms-focused hotels in the United States. Apple Hospitality's portfolio consists of 223 hotels with more than 29,400 guest rooms located in 87 markets throughout 37 states as well as one property leased to third parties. Concentrated with industry-leading brands, the Company's hotel portfolio consists of 99 Marriott-branded hotels, 119 Hilton-branded hotels and five Hyatt-branded hotels.
+fullTimeEmployees§63
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Glade M. Knight', 'age': 79, 'title': 'Executive Chairman', 'yearBorn': 1944, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin G. Knight', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2602734, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth S. Perkins', 'age': 40, 'title': 'Senior VP & CFO', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1217788, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen Catherine Gallagher', 'age': 45, 'title': 'Senior VP & COO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1217999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nelson G. Knight', 'age': 41, 'title': 'President of Real Estate & Investments', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1274088, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel S. Labrecque', 'age': 44, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 933544, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristian M. Gathright CPA', 'age': 50, 'title': 'Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 69167, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly Campbell Clarke', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew P. Rash', 'age': 44, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 398445, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeanette A. Clarke', 'age': 41, 'title': 'Senior VP & Chief Capital Investment Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.01
+dividendYield§0.059899997
+exDividendDate§1703721600
+payoutRatio§1.3913001
+fiveYearAvgDividendYield§4.76
+beta§1.139
+priceToSalesTrailing12Months§2.8995023
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.83
+lastDividendValue§0.13
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Apple Hospitality REIT, Inc.
+longName§Apple Hospitality REIT, Inc.
+firstTradeDateEpochUtc§1431955800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2762e768-d9c0-35f2-9e9f-ac4770a3616a
+messageBoardId§finmb_38985277
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§17.0
+targetMeanPrice§18.29
+targetMedianPrice§18.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.273
+earningsGrowth§-0.01
+grossMargins§0.44955003
+ebitdaMargins§0.32764998
+trailingPegRatio§None

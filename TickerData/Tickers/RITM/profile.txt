@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 15:32:46.451739
+address1§799 Broadway
+address2§8th Floor
+city§New York
+state§NY
+zip§10003
+country§United States
+phone§212 850 7770
+website§https://www.rithmcap.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Rithm Capital Corp. operates as an investment manager that operates a vertically integrated mortgage platform and invests in real estate and related properties in the United States and Europe. The company provides capital and services to the real estate and financial services sectors. Its investment portfolio comprises mortgage servicing related assets, residential securities and loans, and single-family rental loans. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. The company was formerly known as New Residential Investment Corp. and changed its name to Rithm Capital Corp. in August 2022. Rithm Capital Corp. was incorporated in 2011 and is headquartered in New York, New York.
+fullTimeEmployees§6098
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Nierenberg', 'age': 60, 'title': 'Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4403697, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicola  Santoro Jr.', 'age': 55, 'title': 'CFO & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1218417, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Matthew Sivin C.F.A.', 'age': 51, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 849529, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin  Fitzgerald', 'title': 'Head of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth Matthew Bruce', 'title': 'Managing Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charles  Sorrentino', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Varun  Wadhawan', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sanjeev  Khanna', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Satish Motilal Mansukhani', 'title': 'Managing Director of Investment Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Migliara', 'title': 'Managing Director of Europe', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0962
+exDividendDate§1703721600
+payoutRatio§0.6897
+fiveYearAvgDividendYield§11.37
+beta§1.825
+priceToSalesTrailing12Months§2.2678413
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.61
+pegRatio§0.37
+exchange§NYQ
+quoteType§EQUITY
+shortName§Rithm Capital Corp.
+longName§Rithm Capital Corp.
+firstTradeDateEpochUtc§1367501400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5acc6fa4-37bd-332b-8740-9ddea0d90cb2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§10.5
+targetMeanPrice§11.73
+targetMedianPrice§12.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.428
+earningsGrowth§0.538
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

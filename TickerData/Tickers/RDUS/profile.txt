@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 23:46:55.485682
+address1§299 SW Clay Street
+address2§Suite 400
+city§Portland
+state§OR
+zip§97201
+country§United States
+phone§503 224 9900
+website§https://www.radiusrecycling.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Schnitzer Steel Industries, Inc., doing business as Radius Recycling, recycles ferrous and nonferrous metal, and manufactures finished steel products worldwide. The company acquires, processes, and recycles salvaged vehicles, rail cars, home appliances, industrial machinery, manufacturing scrap, and construction and demolition scrap. It offers recycled ferrous metal, a feedstock used in the production of finished steel products; and nonferrous products, including mixed metal joint products recovered from the shredding process, such as zorba, zurik, aluminum, copper, stainless steel, nickel, brass, titanium, lead, and high temperature alloys. The company also procures salvaged vehicles and sells serviceable used auto parts from these vehicles through its retail self-service auto parts stores. In addition, it produces various finished steel products using ferrous recycled metal and other raw materials, as well as semi-finished goods, which include billets; and finished goods consisting of rebar, coiled rebar, wire rods, merchant bars, and other specialty products. Further, the company sells catalytic converters to specialty processors that extract the nonferrous precious metals, including platinum, palladium, and rhodium; and ferrous and nonferrous recycled metal products to steel mills, foundries, refineries, smelters, wholesalers, and recycled metal processors, as well as finished steel customers, such as steel service centers, construction industry subcontractors, steel fabricators, wire drawers, and major farm and wood products suppliers. It also provides recycling and related services, including scrap brokerage, certified destruction, automotive parts recycling, railcar dismantling, and reverse logistics under 3PR brand name. Schnitzer Steel Industries, Inc. was founded in 1906 and is headquartered in Portland, Oregon.
+fullTimeEmployees§3353
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Tamara L. Lundgren J.D.', 'age': 65, 'title': 'Chairman, President & CEO', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 1625921, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stefano R. Gaggini', 'age': 52, 'title': 'Senior VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 643204, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Matthew Vaughn', 'age': 50, 'title': 'Senior VP, General Counsel, Corporate Secretary & Chief Compliance Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 903836, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard D. Peach', 'age': 59, 'title': 'Executive VP & Chief Strategy Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 906143, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael R. Henderson', 'age': 64, 'title': 'Consultant', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 773767, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven G. Heiskell', 'age': 54, 'title': 'Senior VP and President of Recycling Products & Services', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 689026, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Souza', 'age': 54, 'title': 'Senior VP, Chief Operations Management Officer and Chief of Ferrous Sales & Trading', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Schuessler', 'age': 44, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Bennett', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Stone', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.75
+dividendYield§0.0269
+exDividendDate§1706832000
+payoutRatio§1.9547
+fiveYearAvgDividendYield§2.74
+beta§1.673
+priceToSalesTrailing12Months§0.25906894
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.84
+pegRatio§22.69
+exchange§NMS
+quoteType§EQUITY
+shortName§Schnitzer Steel Industries, Inc
+longName§Schnitzer Steel Industries, Inc.
+firstTradeDateEpochUtc§753460200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0a187d65-b377-32b8-b60f-de5f68512366
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§35.0
+targetMeanPrice§35.0
+targetMedianPrice§35.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.671
+grossMargins§0.09182
+ebitdaMargins§0.033299997
+trailingPegRatio§None

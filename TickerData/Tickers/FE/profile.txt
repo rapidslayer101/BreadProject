@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 15:29:23.752214
+address1§76 South Main Street
+city§Akron
+state§OH
+zip§44308
+country§United States
+phone§800 736 3402
+website§https://www.firstenergycorp.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§FirstEnergy Corp., through its subsidiaries, generates, transmits, and distributes electricity in the United States. It operates through Regulated Distribution and Regulated Transmission segments. The company owns and operates coal-fired, nuclear, hydroelectric, wind, and solar power generating facilities. It operates 24,080 circuit miles of overhead and underground transmission lines; and electric distribution systems, including 274,518 miles of overhead pole line and underground conduit carrying primary, secondary, and street lighting circuits. The company serves approximately 6 million customers in Ohio, Pennsylvania, West Virginia, Maryland, New Jersey, and New York. FirstEnergy Corp. was incorporated in 1996 and is headquartered in Akron, Ohio.
+fullTimeEmployees§12335
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. K. Jon Taylor', 'age': 49, 'title': 'Senior VP of Strategy & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1483792, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hyun  Park', 'age': 62, 'title': 'Senior VP & Chief Legal Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1299211, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine L. Walker', 'age': 58, 'title': 'Senior VP of Corporate Services & Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 763484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian X. Tierney', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Toby L. Thomas', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason J. Lisowski', 'age': 42, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ernest N. Maley', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Irene M. Prezelj', 'age': 56, 'title': 'Vice President of Investor Relations & Communications', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antonio  Fernandez', 'title': 'VP and Chief Ethics & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gretchan  Sekulich', 'title': 'Vice President of Communications & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.64
+dividendYield§0.043
+exDividendDate§1707177600
+payoutRatio§1.6421001
+fiveYearAvgDividendYield§4.01
+beta§0.486
+priceToSalesTrailing12Months§1.7214451
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.66
+pegRatio§2.36
+exchange§NYQ
+quoteType§EQUITY
+shortName§FirstEnergy Corp.
+longName§FirstEnergy Corp.
+firstTradeDateEpochUtc§879172200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6515f660-56b8-3bca-a61c-a9e02efb3698
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§32.0
+targetMeanPrice§39.5
+targetMedianPrice§40.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.353
+earningsGrowth§0.196
+grossMargins§0.65986997
+ebitdaMargins§0.27978
+trailingPegRatio§2.493

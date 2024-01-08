@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 02:46:57.963914
+address1§519 Kimball Avenue, N.E.
+city§Roanoke
+state§VA
+zip§24016
+country§United States
+phone§540 777 4427
+website§https://www.rgcresources.com
+industry§Utilities—Regulated Gas
+sector§Utilities
+longBusinessSummary§RGC Resources, Inc., through its subsidiaries, operates as an energy services company. It sells and distributes natural gas to residential, commercial, and industrial customers in Roanoke, Virginia, and the surrounding localities. The company also provides various unregulated services. It operates approximately 1,179 miles of transmission and distribution pipeline; and a liquefied natural gas storage facility, as well as owns and operates six metering stations. In addition, it produces biogas. RGC Resources, Inc. was founded in 1883 and is based in Roanoke, Virginia.
+fullTimeEmployees§100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul W. Nester', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 722068, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence T. Oliver', 'age': 56, 'title': 'Senior Vice President of Regulatory & External Affairs', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 348980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy J. Mulvaney', 'age': 54, 'title': 'Interim CFO & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'C. Brooke Miles', 'title': 'Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0419
+exDividendDate§1705363200
+payoutRatio§0.6908
+fiveYearAvgDividendYield§3.16
+beta§0.176
+priceToSalesTrailing12Months§1.9581825
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.27
+exchange§NGM
+quoteType§EQUITY
+shortName§RGC Resources Inc.
+longName§RGC Resources, Inc.
+firstTradeDateEpochUtc§760113000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a0fd7f8e-8fcb-3ad5-88d1-d4d355430e16
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§27.0
+targetMeanPrice§27.0
+targetMedianPrice§27.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.22
+grossMargins§0.3055
+ebitdaMargins§0.2777
+trailingPegRatio§None

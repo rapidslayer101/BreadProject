@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 09:45:15.173561
+address1§3200 Wilshire Boulevard
+address2§Suite 1400
+city§Los Angeles
+state§CA
+zip§90010
+country§United States
+phone§213 639 1700
+website§https://www.bankofhope.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Hope Bancorp, Inc. operates as the bank holding company for Bank of Hope that provides banking services for small and medium-sized businesses, and individuals in the United States. It accepts personal and business checking, money market, savings, time deposit, and individual retirement accounts. Its loan products include commercial loans to businesses for various purposes, such as working capital, purchasing inventory, debt refinancing, business acquisitions, and other business-related financing needs; real estate loans; small business administration loans; and consumer loans, such as single-family mortgage, home equity, auto, credit card, and personal loans. The company also offers warehouse lines of credit to mortgage loan originators; and commercial equipment lease financing. In addition, it provides cash management services, such as remote deposit capture, lock box, and ACH origination services; investment and wealth management services; mobile banking services; debit card services; foreign exchanges services, safe deposit boxes, and other customary bank services; internet banking services; and automated teller machine services. The company was founded in 1986 and is headquartered in Los Angeles, California.
+fullTimeEmployees§1446
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin Sung Kim J.D.', 'age': 65, 'title': 'Chairman, President & CEO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2126256, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Koh', 'age': 46, 'title': 'Senior EVP & COO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 511888, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kyu S. Kim', 'age': 62, 'title': 'Senior EVP & Regional President of Eastern Region-Bank of Hope', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 541038, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas P. Stenger', 'age': 64, 'title': 'Senior Executive VP & Chief Risk Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 652167, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julianna  Balicka', 'age': 45, 'title': 'Executive VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel H. Kim', 'age': 55, 'title': 'Executive VP and Chief Strategy & Administrative Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angie  Yang', 'title': 'Senior VP and Director of IR & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angelee J. Harris', 'age': 53, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason K. Kim', 'age': 56, 'title': 'Senior EVP & President of Western Regional of Bank of Hope', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 343352, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Chan', 'title': 'Executive VP & Chief Internal Audit Executive', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.56
+dividendYield§0.0475
+exDividendDate§1698796800
+payoutRatio§0.42419997
+fiveYearAvgDividendYield§4.7
+beta§1.187
+priceToSalesTrailing12Months§2.5090656
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.15
+pegRatio§1.32
+exchange§NMS
+quoteType§EQUITY
+shortName§Hope Bancorp, Inc.
+longName§Hope Bancorp, Inc.
+firstTradeDateEpochUtc§886084200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§95d91371-c7b0-33a1-b15f-59d297084309
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§9.5
+targetMeanPrice§11.6
+targetMedianPrice§12.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§-0.444
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

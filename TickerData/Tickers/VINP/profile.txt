@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 18:47:50.631865
+address1§Avenida Bartolomeu Mitre, 336
+address2§Leblon
+city§Rio De Janeiro
+state§RJ
+zip§22431-002
+country§Brazil
+phone§55 21 2159 6240
+website§https://www.vincipartners.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Vinci Partners Investments Ltd. operates as an asset management platform in Brazil. Its portfolio covers private equity, infrastructure, real estate, credit, public equities, hedge funds, and investment products and solutions comprising portfolio and management services to institutional and HNWI clients, as well as special situations that employs financial and human capital. The company also offers financial and strategic advisory services, focusing primarily on IPO advisory and mergers and acquisition transactions to entrepreneurs, corporate senior management teams, and boards of directors. Vinci Partners Investments Ltd. was founded in 2009 and is headquartered in Rio de Janeiro, Brazil.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alessandro  Monteiro Morgado Horta CFA', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sergio  Passos Ribeiro', 'age': 47, 'title': 'COO & CFO', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruno Augusto Sacchi Zaremba', 'age': 46, 'title': 'Chairman of Private Equity Group & Head of Investor Relations', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anna Luiza de Castro Santos', 'title': 'Investor Relations Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.7
+dividendYield§0.0654
+exDividendDate§1700524800
+payoutRatio§0.9955
+beta§0.033
+priceToSalesTrailing12Months§1.3083767
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.22
+pegRatio§8.43
+exchange§NMS
+quoteType§EQUITY
+shortName§Vinci Partners Investments Ltd.
+longName§Vinci Partners Investments Ltd.
+firstTradeDateEpochUtc§1611844200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b145462-7ff4-3e5f-999f-4ad30cffd834
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.07
+targetLowPrice§12.55
+targetMeanPrice§14.39
+targetMedianPrice§14.06
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§6.815
+earningsGrowth§-0.542
+grossMargins§0.76093
+ebitdaMargins§0.48106
+trailingPegRatio§None

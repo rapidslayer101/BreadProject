@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 22:47:45.944467
+address1§1616 South Voss Road
+address2§Suite 725
+city§Houston
+state§TX
+zip§77057
+country§United States
+phone§346 509 8734
+website§https://www.usnrg.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§U.S. Energy Corp., an independent energy company, focuses on the acquisition, exploration, and development of oil and natural gas properties in the continental United States. It holds interests in various oil and gas properties located in the Rockies region, including Montana, Wyoming, and North Dakota; the Mid-Continent comprising Oklahoma, Kansas, and North and East Texas; West Texas; South Texas; and Gulf Coast regions. The company was incorporated in 1966 and is based in Houston, Texas.
+fullTimeEmployees§39
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan Lewis Smith', 'age': 40, 'title': 'President, CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 575500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark L. Zajac', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jakob  Hulcy', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mason  McGuire', 'title': 'Director of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.09
+dividendYield§0.0857
+exDividendDate§1684368000
+payoutRatio§1.8
+beta§0.659
+priceToSalesTrailing12Months§0.8185339
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.05
+pegRatio§-0.08
+exchange§NCM
+quoteType§EQUITY
+shortName§U.S. Energy Corp.
+longName§U.S. Energy Corp.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea3bff9b-9548-3e50-94ed-5571ed638454
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.75
+targetLowPrice§2.5
+targetMeanPrice§2.63
+targetMedianPrice§2.63
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.499
+grossMargins§0.48227
+ebitdaMargins§0.12325
+trailingPegRatio§None

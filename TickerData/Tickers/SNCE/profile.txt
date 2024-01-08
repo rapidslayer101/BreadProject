@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 23:47:17.319267
+address1§800 Park Offices Drive
+address2§Suite 3606
+city§Research Triangle Park
+state§NC
+zip§27709
+country§United States
+phone§984 377 3737
+website§https://www.science37.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§Science 37 Holdings, Inc. engages in patient-centric clinical trial activities in North Carolina. Its platform enables modern and digital approaches to clinical research, including the patient and trial investigators, nurses, coordinators, and sponsors, standardize evidence generation, and harmonize data. The company's platform also provides specialized networks of patient communities, telemedicine investigators, mobile nurses, remote coordinators, and connected devices for orchestrating clinical trials; and extensive configuration to support virtually any phase of clinical study and therapeutic area. In addition, the company licenses its proprietary hosted technology platform to various life science institutions. It serves large and mid-sized pharmaceutical companies, contract research organizations, academic institutions, and biotech companies. Science 37 Holdings, Inc. was founded in 2014 and is based in Research Triangle Park, North Carolina.
+fullTimeEmployees§460
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Coman', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 796128, 'exercisedValue': 0, 'unexercisedValue': 378585}, {'maxAge': 1, 'name': 'Ms. Christine A. Pellizzari J.D.', 'age': 55, 'title': 'Chief Legal & Human Resources Officer and Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 521576, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Darcy  Forman', 'age': 47, 'title': 'Chief Delivery Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 550580, 'exercisedValue': 0, 'unexercisedValue': 3163}, {'maxAge': 1, 'name': 'Mr. Mike  Zaranek', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Irena  Lambridis', 'title': 'VP and Head of Quality Assurance & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margie Gimbel Kooman', 'title': 'Vice President of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Drew  Bustos', 'title': 'Chief Strategy & Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Cotliar M.D.', 'age': 51, 'title': 'Chief Medical Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 486600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Shipton', 'age': 51, 'title': 'Chief Commercial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tyler  Van Horn', 'title': 'VP of Corporate Strategy & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.533
+priceToSalesTrailing12Months§0.6092604
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.72
+exchange§NCM
+quoteType§EQUITY
+shortName§Science 37 Holdings, Inc.
+longName§Science 37 Holdings, Inc.
+firstTradeDateEpochUtc§1606141800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§653dc5a7-d9d9-376b-a6f3-dcd4bbb22f8c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§15.0
+targetMeanPrice§28.33
+targetMedianPrice§30.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.811
+grossMargins§0.36707002
+ebitdaMargins§-0.99334997
+trailingPegRatio§None

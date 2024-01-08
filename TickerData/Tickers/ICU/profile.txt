@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 06:45:22.095804
+address1§3513 Brighton Boulevard
+address2§Suite 410
+city§Denver
+state§CO
+zip§80216
+country§United States
+phone§844 427 8100
+website§https://www.seastarmedical.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§SeaStar Medical Holding Corporation, a medical device company, develops a platform therapy to reduce the consequences of hyperinflammation on vital organs in the United States. The company offers inflammatory response to fend off infections and repair damaged tissue in the body. It is also developing products in various therapeutic areas, including pediatric and adult acute kidney injury on CRRT; cardiorenal syndrome in congestive heart failure; myocardial stunning in end stage renal disease; and hepatorenal syndrome. SeaStar Medical Holding Corporation is headquartered in Denver, Colorado.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric  Schlorff', 'age': 50, 'title': 'CEO, President & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 690000, 'exercisedValue': 0, 'unexercisedValue': 212372}, {'maxAge': 1, 'name': 'Dr. H. David Humes M.D.', 'title': 'Co-Founder and Managing Director', 'fiscalYear': 2022, 'totalPay': 135713, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caryl  Baron', 'age': 56, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 225000, 'exercisedValue': 0, 'unexercisedValue': 33487}, {'maxAge': 1, 'name': 'Colonel Kevin  Chung FACP, M.D.', 'age': 50, 'title': 'Chief Medical Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 375000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tom  Mullen', 'title': 'Vice President of Operations & Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.221
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.61
+exchange§NCM
+quoteType§EQUITY
+shortName§SeaStar Medical Holding Corpora
+longName§SeaStar Medical Holding Corporation
+firstTradeDateEpochUtc§1616074200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§26bf7a7e-68c0-3cc2-8819-ec1621630389
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§2.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.006
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

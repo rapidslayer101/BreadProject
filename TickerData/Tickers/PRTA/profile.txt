@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 19:46:44.588049
+address1§77 Sir John Rogerson’s Quay
+address2§Block C Grand Canal Docklands
+city§Dublin
+zip§2
+country§Ireland
+phone§353 1 236 2500
+fax§353 1 902 3510
+website§https://www.prothena.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Prothena Corporation plc, a late-stage clinical company, focuses on discovery and development of novel therapies to treat diseases caused by protein dysregulation in the United States. The company is involved in developing Birtamimab, an investigational humanized antibody that is in Phase III clinical trial for the treatment of AL amyloidosis; Prasinezumab, a humanized monoclonal antibody, which is in Phase IIb clinical trial for the treatment of Parkinson's disease and other related synucleinopathies; NNC6019 that completed Phase I clinical trial for the treatment of ATTR amyloidosis; and PRX005, which is in Phase I clinical trial for the treatment of Alzheimer's disease. Its discovery and preclinical programs include PRX012 for the treatment of Alzheimer's disease; and PRX123, a dual Aß-Tau vaccine for the treatment and prevention of Alzheimer's disease, as well as TDP-43 and PRX019 for the treatment of Alzheimer's disease and other neurodegenerative diseases. Prothena Corporation plc has a license, development, and commercialization agreement with F. Hoffmann-La Roche Ltd. and Hoffmann-La Roche Inc. to develop and commercialize antibodies that target alpha-synuclein, including prasinezumab; and a collaboration agreement with Bristol-Myers Squibb to develop antibodies. The company was founded in 2012 and is based in Dublin, Ireland.
+fullTimeEmployees§127
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Gene G. Kinney Ph.D.', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1030130, 'exercisedValue': 2913246, 'unexercisedValue': 66794400}, {'maxAge': 1, 'name': 'Mr. Tran B. Nguyen M.B.A.', 'age': 49, 'title': 'CFO & Chief Strategy Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 762855, 'exercisedValue': 3844286, 'unexercisedValue': 30658202}, {'maxAge': 1, 'name': 'Mr. Brandon S. Smith', 'age': 48, 'title': 'Chief Operating Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 756414, 'exercisedValue': 0, 'unexercisedValue': 9072775}, {'maxAge': 1, 'name': 'Ms. Carol D. Karp', 'age': 70, 'title': 'Chief Regulatory Officer', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 697512, 'exercisedValue': 0, 'unexercisedValue': 14620238}, {'maxAge': 1, 'name': 'Dr. Hideki  Garren M.D., Ph.D.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 809586, 'exercisedValue': 526095, 'unexercisedValue': 2692468}, {'maxAge': 1, 'name': 'Ms. Karin L. Walker CPA', 'age': 60, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Wagner M. Zago', 'age': 50, 'title': 'Chief Scientific Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 478789, 'exercisedValue': 0, 'unexercisedValue': 58739}, {'maxAge': 1, 'name': 'Ms. Jennifer  Zibuda', 'title': 'Director of Investor Relations & Communication', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Malecek', 'age': 57, 'title': 'Chief Legal Officer & Company Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 588250, 'exercisedValue': 0, 'unexercisedValue': 154061}]
+auditRisk§8
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.286
+priceToSalesTrailing12Months§15.477923
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.45
+pegRatio§24.75
+exchange§NMS
+quoteType§EQUITY
+shortName§Prothena Corporation plc
+longName§Prothena Corporation plc
+firstTradeDateEpochUtc§1355841000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2c74736f-3970-3936-8149-66656e11ad39
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§129.0
+targetLowPrice§43.0
+targetMeanPrice§83.63
+targetMedianPrice§81.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§12.667
+grossMargins§-0.36646998
+ebitdaMargins§-0.79265
+trailingPegRatio§None

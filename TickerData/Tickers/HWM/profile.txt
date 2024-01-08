@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 13:30:16.681065
+address1§201 Isabella Street
+address2§Suite 200
+city§Pittsburgh
+state§PA
+zip§15212-5872
+country§United States
+phone§412 553 1950
+website§https://www.howmet.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Howmet Aerospace Inc. provides advanced engineered solutions for the aerospace and transportation industries in the United States, Japan, France, Germany, the United Kingdom, Mexico, Italy, Canada, Poland, China, and internationally. It operates through four segments: Engine Products, Fastening Systems, Engineered Structures, and Forged Wheels. The Engine Products segment offers airfoils and seamless rolled rings primarily for aircraft engines and industrial gas turbines; and rotating and structural parts. The Fastening Systems segment produces aerospace fastening systems, as well as commercial transportation, industrial, and other fasteners; and latches, bearings, fluid fittings, and installation tools. The Engineered Structures segment provides titanium ingots and mill products, aluminum and nickel forgings, and machined components and assemblies for aerospace and defense applications; and titanium forgings, extrusions, and forming and machining services for airframe, wing, aero-engine, and landing gear components. The Forged Wheels segment offers forged aluminum wheels and related products for heavy-duty trucks and commercial transportation markets. The company was formerly known as Arconic Inc. Howmet Aerospace Inc. was founded in 1888 and is based in Pittsburgh, Pennsylvania.
+fullTimeEmployees§21400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Plant FCA', 'age': 69, 'title': 'Executive Chairman & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1748249, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth J. Giacobbe', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1050071, 'exercisedValue': 1053069, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lola Felice Lin', 'age': 48, 'title': 'Executive VP, Corporate Secretary, Chief Legal & Compliance Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 943191, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil E. Marchuk', 'age': 65, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1362010, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Niem Chanatry', 'age': 63, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1010935, 'exercisedValue': 0, 'unexercisedValue': 524506}, {'maxAge': 1, 'name': 'Mr. Paul Thomas Luther Jr.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randall  Scheps', 'age': 55, 'title': 'President of Forged Wheels', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret S. Lam Esq.', 'title': 'Assistant Secretary, Associate General Counsel and Chief Securities & Governance Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Merrick  Murphy', 'title': 'President of the Engine Products Segment', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ramiro  Gutierrez', 'title': 'President of the Engineered Structures Segment', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.0037
+exDividendDate§1699488000
+payoutRatio§0.1039
+beta§1.234
+priceToSalesTrailing12Months§3.4512894
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.15
+pegRatio§1.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§Howmet Aerospace Inc.
+longName§Howmet Aerospace Inc.
+firstTradeDateEpochUtc§1478007000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§749fa682-b1d3-3d99-89af-2f881239678e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§67.0
+targetLowPrice§47.0
+targetMeanPrice§57.94
+targetMedianPrice§56.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§0.792
+earningsGrowth§1.368
+grossMargins§0.27624
+ebitdaMargins§0.21768999
+trailingPegRatio§None

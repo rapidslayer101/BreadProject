@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 01:39:42.645471
+address1§Farrington Way
+address2§Eastwood
+city§Nottingham
+zip§NG16 3AG
+country§United Kingdom
+phone§44 1773 537 000
+website§https://www.microlise.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Microlise Group plc provides transport management technology solutions. The company offers SaaS platform that digitizes the business processes of enterprise organizations running logistics operations. Its technology solutions analyze real-time data events to allow fleet operators to enhance across a range of key performance indicators, including operating efficiency, greenhouse gas emissions, and safety standards. The company offers fleet telematics products, including fleet tracking, fleet utilization, driver performance, driver communications, trailer telematics, and temperature monitoring; fleet safety monitoring, multi-camera solutions, tachograph management, bridge strike warning, and vehicle health products; journey management products comprising schedule management, route management, planning and optimization, customer communications, and workforce and resource management; delivery management products, such as electronic proof of delivery and sub-contractor management. It serves fleet operators in the original equipment manufacturer, haulage, retail and grocery, food manufacturing and services, pharmaceuticals, post and parcel, construction, defense and services, and petrochemical markets. The company was founded in 1982 and is headquartered in Nottingham, the United Kingdom.
+fullTimeEmployees§690
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nadeem  Raza', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 316062, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas J. Wightman', 'title': 'Executive Director & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trevor  McGahan', 'title': 'Operations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duncan  McCreadie', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Dolby', 'title': 'Marketing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jackie  Mitchell', 'title': 'Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jemma  James', 'title': 'Managing Director of TruTac', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.332
+priceToSalesTrailing12Months§1.7892092
+currency§GBp
+forwardEps§4.02
+exchange§LSE
+quoteType§EQUITY
+shortName§MICROLISE GROUP PLC ORD GBP0.00
+longName§Microlise Group plc
+firstTradeDateEpochUtc§1626937200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§cc21501e-5af1-3244-8e8d-41864f4c378c
+targetHighPrice§280.0
+targetLowPrice§170.0
+targetMeanPrice§225.0
+targetMedianPrice§225.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.079
+earningsGrowth§0.129
+grossMargins§0.5991
+ebitdaMargins§0.08608
+trailingPegRatio§None

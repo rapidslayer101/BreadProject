@@ -1,0 +1,20 @@
+# reload+after+2024-01-23 16:37:58.543686
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§GCP INFRASTRUCTURE INVESTMENTS 
+longName§GCP Infrastructure Investment Ord
+firstTradeDateEpochUtc§1279782000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3e11e2ec-4701-3e94-be43-68bb603949fa
+targetHighPrice§70.0
+targetLowPrice§70.0
+targetMeanPrice§70.0
+targetMedianPrice§70.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+trailingPegRatio§None

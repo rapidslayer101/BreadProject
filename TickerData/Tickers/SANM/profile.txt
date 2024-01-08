@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 22:47:05.989776
+address1§2700 North First Street
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§408 964 3500
+fax§408 964 3440
+website§https://www.sanmina.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Sanmina Corporation provides integrated manufacturing solutions, components, products and repair, logistics, and after-market services worldwide. It operates in two businesses, Integrated Manufacturing Solutions; and Components, Products and Services. The company offers product design and engineering, including concept development, detailed design, prototyping, validation, preproduction, manufacturing design release, and product industrialization; assembly and test services; direct order fulfillment and logistics services; after-market product service and support; and supply chain management services, as well as engages in the manufacturing of components, subassemblies, and complete systems. In addition, the company provides components, such as printed circuit boards, backplane and backplane assemblies, cable assemblies, fabricated metal parts, precision machined parts, and plastic injected molded parts; memory solutions; storage platforms; optical, radio frequency, and microelectronic solutions; defense and aerospace product, design, manufacturing, repair, and refurbishment services; and cloud-based manufacturing execution software. It offers its products and services primarily to original equipment manufacturers in the industrial, medical, defense and aerospace, automotive, communications networks, and cloud solutions. Sanmina Corporation was incorporated in 1980 and is headquartered in San Jose, California.
+fullTimeEmployees§34000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jure  Sola', 'age': 72, 'title': 'Co-Founder, Executive Chairman & CEO', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 4893493, 'exercisedValue': 7489000, 'unexercisedValue': 10406000}, {'maxAge': 1, 'name': 'Mr. Alan McWilliams Reid', 'age': 60, 'title': 'Executive Vice President of Global Human Resources', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 762215, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt  Adzema', 'age': 54, 'title': 'Advisor', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1088878, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan P. Faust', 'age': 45, 'title': 'Executive VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent  Billinger', 'age': 59, 'title': 'Principal Accounting Officer, Senior VP & Corporate Controller', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paige  Melching', 'title': 'Senior Vice President of Investor Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher K. Sadeghian', 'title': 'VP of Legal, Corporate Secretary & Acting General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Clarke', 'age': 68, 'title': 'Advisor', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 2786992, 'exercisedValue': 0, 'unexercisedValue': 209124}, {'maxAge': 1, 'name': 'Mr. Ramakrishna  Pillai', 'age': 63, 'title': 'President of Components Technology', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 833531, 'exercisedValue': 444781, 'unexercisedValue': 160024}, {'maxAge': 1, 'name': 'Mr. Marco Gonzalez Hagelsieb', 'title': 'Chief Operating Officer of Americas IMS', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.118
+priceToSalesTrailing12Months§0.3187038
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.42
+pegRatio§-0.61
+exchange§NMS
+quoteType§EQUITY
+shortName§Sanmina Corporation
+longName§Sanmina Corporation
+firstTradeDateEpochUtc§734794200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§39532f6c-73a0-398e-abeb-bdc541a473d3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§62.0
+targetLowPrice§45.0
+targetMeanPrice§56.33
+targetMedianPrice§62.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.156
+earningsGrowth§0.062
+grossMargins§0.083179995
+ebitdaMargins§0.06491
+trailingPegRatio§None

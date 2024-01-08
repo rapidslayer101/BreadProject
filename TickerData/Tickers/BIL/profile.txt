@@ -1,0 +1,27 @@
+# reload+after+2024-01-20 15:27:18.041271
+longBusinessSummary§The fund invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to 1 month and less than 3 months.
+maxAge§86400
+priceHint§2
+yield§0.0493
+totalAssets§33377044480
+navPrice§91.45952
+currency§USD
+category§Ultrashort Bond
+ytdReturn§0.00087540003
+beta3Year§0.0
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1180051200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0209473
+fiveYearAverageReturn§0.0173203
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Bloomberg 1-3 Month T-Bill
+longName§SPDR Bloomberg 1-3 Month T-Bill ETF
+firstTradeDateEpochUtc§1180531800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§083177d9-d6f3-3d95-96de-3c8eac596f99
+messageBoardId§finmb_34697630
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

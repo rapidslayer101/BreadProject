@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 06:35:49.091148
+address1§News Building
+address2§3rd Floor 3 London Bridge Street
+city§London
+zip§SE1 9SG
+country§United Kingdom
+phone§44 20 3327 0150
+fax§44 13 1524 5690
+website§https://www.bowleven.com
+industry§Oil & Gas E&P
+industryKey§oil-gas-e-p
+industryDisp§Oil & Gas E&P
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Bowleven plc engages in the exploration and appraisal of oil and gas properties in West Africa. It holds a 25% interest in the shallow water offshore Etinde permit that covers an area of approximately 461 square kilometers located in Cameroon. The company was incorporated in 2001 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§4
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eli  Chahin', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 397674, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+exDividendDate§1547683200
+payoutRatio§0.0
+beta§0.487
+currency§GBp
+forwardEps§-0.58
+lastDividendValue§15.0
+lastDividendDate§1547683200
+exchange§LSE
+quoteType§EQUITY
+shortName§BOWLEVEN PLC ORD 10P
+longName§Bowleven plc
+firstTradeDateEpochUtc§1102406400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ed286c6e-5691-3868-9c75-31cb25aeae19
+messageBoardId§finmb_13209608
+recommendationKey§none
+quickRatio§4.593
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

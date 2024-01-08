@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 19:47:22.487865
+address1§301 Binney Street
+address2§3rd Floor
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§857 259 3860
+website§https://scholarrock.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Scholar Rock Holding Corporation, a biopharmaceutical company, focuses on the discovery and development of medicines for the treatment of serious diseases in which signaling by protein growth factors plays a fundamental role. The company develops Apitegromab, an inhibitor of the activation of latent myostatin that has completed the Phase 3 clinical trials for the treatment of spinal muscular atrophy; and SRK-181, which is in Phase 1 clinical trials for the treatment of cancers that are resistant to checkpoint inhibitor therapies, such as anti-PD-1 or anti-PD-L1 antibody therapies. It is also developing a pipeline of novel product candidates with potential to transform the lives of patients suffering from a range of serious diseases, including neuromuscular disorders, cancer, fibrosis, and iron-restricted anemia. The company has a collaboration agreement with Gilead Sciences, Inc. to discover and develop specific inhibitors of transforming growth factor beta activation for the treatment of fibrotic diseases. Scholar Rock Holding Corporation was founded in 2012 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§114
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jay T. Backstrom M.D., M.P.H.', 'age': 68, 'title': 'President, CEO & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 686492, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward H. Myles MBA', 'age': 51, 'title': 'CFO, COO & Treasurer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 668485, 'exercisedValue': 0, 'unexercisedValue': 52199}, {'maxAge': 1, 'name': 'Ms. Junlin  Ho J.D.', 'age': 44, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 563729, 'exercisedValue': 0, 'unexercisedValue': 112564}, {'maxAge': 1, 'name': 'Ms. Catherine  Hu', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caryn  Parlavecchio', 'age': 51, 'title': 'Chief Human Resources Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa Amaya Price', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Moore', 'age': 48, 'title': 'Senior Vice President of Finance', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Iarrobino', 'title': 'Senior Vice President of Clinical Development & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jing L. Marantz M.B.A., M.D., Ph.D.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey M. Sacco M.B.A.', 'age': 47, 'title': 'Chief Commercial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.736
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.91
+exchange§NMS
+quoteType§EQUITY
+shortName§Scholar Rock Holding Corporatio
+longName§Scholar Rock Holding Corporation
+firstTradeDateEpochUtc§1527255000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d4172360-ba22-3374-b294-8dd0e33412b6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§20.0
+targetMeanPrice§25.71
+targetMedianPrice§28.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§8.179
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

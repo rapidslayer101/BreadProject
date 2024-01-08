@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 06:33:06.552645
+address1§4714 Gettysburg Road
+address2§PO Box 2034
+city§Mechanicsburg
+state§PA
+zip§17055
+country§United States
+phone§717 972 1100
+website§https://www.selectmedical.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Select Medical Holdings Corporation, through its subsidiaries, operates critical illness recovery hospitals, rehabilitation hospitals, outpatient rehabilitation clinics, and occupational health centers in the United States. It operates through four segments: The Critical Illness Recovery Hospital, The Rehabilitation Hospital, The Outpatient Rehabilitation, and The Concentra. The company's Critical Illness Recovery Hospital segment consists of hospitals that provide services for heart failure, infectious disease, respiratory failure and pulmonary disease, surgery requiring prolonged recovery, renal disease, neurological events, and trauma. Its Rehabilitation Hospital segment offers therapy and rehabilitation treatments, including rehabilitative services for brain and spinal cord injuries, strokes, amputations, neurological disorders, orthopedic conditions, pediatric congenital or acquired disabilities, and cancer. The company's Outpatient Rehabilitation segment operates rehabilitation clinics that provide physical, occupational, and speech rehabilitation programs and services; and specialized programs, such as functional programs for work related injuries, hand therapy, post-concussion rehabilitation, pediatric and cancer rehabilitation, and athletic training services. Its Concentra segment operates and provides occupational health centers and contract services at employer worksites that deliver occupational medicine, consumer health, physical therapy, and wellness services. Select Medical Holdings Corporation was founded in 1996 and is headquartered in Mechanicsburg, Pennsylvania.
+fullTimeEmployees§37800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert A. Ortenzio', 'age': 65, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1410825, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David S. Chernow', 'age': 66, 'title': 'Chief Executive Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1352979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rocco A. Ortenzio', 'age': 90, 'title': 'Co-Founder & Vice Chairman', 'yearBorn': 1933, 'fiscalYear': 2022, 'totalPay': 1163130, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Tarvin', 'age': 62, 'title': 'Senior Executive VP, General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 668448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin F. Jackson', 'age': 68, 'title': 'Senior Executive Vice President of Strategic Finance & Operations', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 918891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John A. Saich', 'age': 54, 'title': 'Co-President', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas P. Mullin', 'age': 39, 'title': 'Co-President', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael F. Malatesta', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher S. Weigl', 'age': 39, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Breighner Jr.', 'age': 54, 'title': 'Senior Vice President of Compliance & Audit', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0186
+exDividendDate§1699920000
+payoutRatio§0.2825
+beta§1.317
+priceToSalesTrailing12Months§0.52304375
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.27
+pegRatio§0.41
+exchange§NYQ
+quoteType§EQUITY
+shortName§Select Medical Holdings Corpora
+longName§Select Medical Holdings Corporation
+firstTradeDateEpochUtc§1253885400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2278d5c8-7fcc-3f60-8e51-e11b8795e524
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§26.0
+targetMeanPrice§32.8
+targetMedianPrice§30.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.95
+earningsGrowth§0.758
+grossMargins§0.19323999
+ebitdaMargins§0.11062
+trailingPegRatio§None

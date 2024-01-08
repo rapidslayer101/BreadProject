@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 16:34:16.427430
+address1§353 North Clark Street
+address2§Suite 3300
+city§Chicago
+state§IL
+zip§60654-4708
+country§United States
+phone§877 483 6827
+fax§312 660 3800
+website§https://www.ventasreit.com
+industry§REIT—Healthcare Facilities
+sector§Real Estate
+longBusinessSummary§Ventas Inc., an S&P 500 company, operates at the intersection of two large and dynamic industries  healthcare and real estate. Fueled by powerful demographic demand from growth in the aging population, Ventas owns or has investments in a highly diversified portfolio of approximately 1,400 properties in the United States, Canada, and the United Kingdom. Ventas uses the power of its capital to unlock the value of senior housing communities, outpatient medical buildings, research centers, hospitals and other healthcare facilities. A globally-recognized real estate investment trust, Ventas follows a successful long-term strategy, proven over more than 20 years, built on diversification of property types, capital sources and industry leading partners, financial strength and flexibility, consistent and reliable growth and industry leading ESG achievements, managed by a collaborative and experienced team dedicated to its stakeholders.
+fullTimeEmployees§451
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Debra A. Cafaro', 'age': 65, 'title': 'Chairman & CEO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 4392191, 'exercisedValue': 736906, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert F. Probst', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2086423, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Justin Hutchens', 'age': 48, 'title': 'Executive VP of Senior Housing & Chief Investment Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1554894, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Bulgarelli', 'age': 63, 'title': 'Executive Vice President of Outpatient Medical & Research', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1569301, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory R. Liebbe', 'title': 'Senior VP, Chief Accounting Officer & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bhavana  Devulapally', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carey Shea Roberts J.D.', 'age': 52, 'title': 'Executive VP, General Counsel, Corporate Secretary and Ethics & Compliance Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2186702, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edmund M. Brady III', 'title': 'Chief Human Resources Officer & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. T. Richard Riney J.D.', 'age': 65, 'title': 'Senior Advisor', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1853496, 'exercisedValue': 494835, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian K. Wood', 'title': 'Chief Tax Officer & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.8
+dividendYield§0.037
+exDividendDate§1703808000
+payoutRatio§90.0
+fiveYearAvgDividendYield§4.62
+beta§1.309
+priceToSalesTrailing12Months§4.4937267
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.27
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ventas, Inc.
+longName§Ventas, Inc.
+firstTradeDateEpochUtc§862839000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b2590703-54d6-3892-bd98-c2800f8ad26c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§47.0
+targetMeanPrice§52.0
+targetMedianPrice§52.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§0.556
+grossMargins§0.43034
+ebitdaMargins§0.39418998
+trailingPegRatio§None

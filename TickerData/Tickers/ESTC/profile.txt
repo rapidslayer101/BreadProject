@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 21:29:10.232782
+address1§Keizersgracht 281
+city§Amsterdam
+zip§1016 ED
+country§Netherlands
+website§https://www.elastic.co
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Elastic N.V., a data analytics company, delivers solutions designed to run in public or private clouds in multi-cloud environments. It primarily offers Elastic Stack, a set of software products that ingest and store data from various sources and formats, as well as performs search, analysis, and visualization on that data. The company's Elastic Stack product portfolio comprises Elasticsearch, a distributed, real-time search and analytics engine, and data store for various types of data, including textual, numerical, geospatial, structured, and unstructured; Kibana, a user interface, management, and configuration interface for the Elastic Stack; Elastic Agent that offers integrated host protection and central management services; Beats, a single-purpose data shippers for sending data from edge machines to Elasticsearch or Logstash; and Logstash, a data processing pipeline for ingesting data into Elasticsearch or other storage systems from a multitude of sources simultaneously. It also provides software solutions on the Elastic Stack that address cases, including search applications, workplace search, logs, metrics, application performance monitoring, synthetic monitoring, security information and event management (SIEM), endpoint security, extended detection and response, and cloud security. The company was incorporated in 2012 and is based in Amsterdam, the Netherlands.
+fullTimeEmployees§3055
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ashutosh  Kulkarni', 'age': 47, 'title': 'CEO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 1140872, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Schuurman CBDO', 'age': 47, 'title': 'Co-Founder & Independent Non-Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 34584, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shay  Banon', 'age': 45, 'title': 'Co-Founder, CTO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 751579, 'exercisedValue': 0, 'unexercisedValue': 5634326}, {'maxAge': 1, 'name': 'Mr. Janesh  Moorjani', 'age': 50, 'title': 'CFO & COO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 779539, 'exercisedValue': 297777, 'unexercisedValue': 3388206}, {'maxAge': 1, 'name': 'Ms. Carolyn  Herzog', 'age': 56, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 672880, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Exner', 'age': 50, 'title': 'Chief Product Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 479570, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Uri  Boness', 'title': 'Founder', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Willnauer', 'title': 'Founder', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nikolay Ivanov Beliov C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mathew  Donoghue', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.994
+priceToSalesTrailing12Months§8.94968
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.51
+pegRatio§1.03
+exchange§NYQ
+quoteType§EQUITY
+shortName§Elastic N.V.
+longName§Elastic N.V.
+firstTradeDateEpochUtc§1538746200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ce177ef4-85e8-35eb-b112-29db2a39801d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§131.0
+targetLowPrice§90.0
+targetMeanPrice§109.33
+targetMedianPrice§107.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§1.744
+grossMargins§0.73629
+ebitdaMargins§-0.096920006
+trailingPegRatio§0.8537

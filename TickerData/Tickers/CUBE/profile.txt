@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 20:28:19.915591
+address1§5 Old Lancaster Road
+city§Malvern
+state§PA
+zip§19355-2132
+country§United States
+phone§(610) 535-5700
+fax§(610) 535-5729
+website§https://www.cubesmart.com
+industry§REIT—Industrial
+sector§Real Estate
+longBusinessSummary§CubeSmart is a self-administered and self-managed real estate investment trust. The Company's self-storage properties are designed to offer affordable, easily accessible and, in most locations, climate-controlled storage space for residential and commercial customers. According to the 2023 Self-Storage Almanac, CubeSmart is one of the top three owners and operators of self-storage properties in the United States.
+fullTimeEmployees§2804
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher P. Marr', 'age': 58, 'title': 'CEO, President & Trustee', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3188678, 'exercisedValue': 5497165, 'unexercisedValue': 10529382}, {'maxAge': 1, 'name': 'Mr. Timothy M. Martin', 'age': 52, 'title': 'CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1450502, 'exercisedValue': 1445799, 'unexercisedValue': 3866507}, {'maxAge': 1, 'name': 'Mr. Joel D. Keaton', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1228698, 'exercisedValue': 836236, 'unexercisedValue': 1477717}, {'maxAge': 1, 'name': 'Mr. Jeffrey P. Foster', 'age': 53, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1204242, 'exercisedValue': 810569, 'unexercisedValue': 1749215}, {'maxAge': 1, 'name': 'Mr. Matthew D. DeNarie', 'age': 39, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles W. Place', 'title': 'Director, Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Ruble C.F.A.', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Schulte', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carey  Parsons', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Middlebrooks', 'title': 'Vice President of Third-Party Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.04
+dividendYield§0.0442
+exDividendDate§1703808000
+payoutRatio§1.1667
+fiveYearAvgDividendYield§3.85
+beta§0.722
+priceToSalesTrailing12Months§9.944635
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.81
+pegRatio§4.33
+exchange§NYQ
+quoteType§EQUITY
+shortName§CubeSmart
+longName§CubeSmart
+firstTradeDateEpochUtc§1098451800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fbfd6568-f88d-340b-986c-9ddf8f68236d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§53.0
+targetLowPrice§40.0
+targetMeanPrice§46.09
+targetMedianPrice§45.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.109
+earningsGrowth§-0.1
+grossMargins§0.73958
+ebitdaMargins§0.66490996
+trailingPegRatio§None

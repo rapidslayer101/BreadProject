@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 18:47:07.116467
+address1§18500 Von Karman Avenue
+address2§Suite 550
+city§Irvine
+state§CA
+zip§92612-0539
+country§United States
+phone§888 393 8248
+fax§949 679 8868
+website§https://www.sabrahealth.com
+industry§REIT—Healthcare Facilities
+sector§Real Estate
+longBusinessSummary§As of September 30, 2023, Sabra's investment portfolio included 377 real estate properties held for investment (consisting of (i) 240 Skilled Nursing/Transitional Care facilities, (ii) 43 senior housing communities (Senior Housing - Leased), (iii) 61 senior housing communities operated by third-party property managers pursuant to property management agreements (Senior Housing - Managed), (iv) 18 Behavioral Health facilities and (v) 15 Specialty Hospitals and Other facilities), 12 investments in loans receivable (consisting of two mortgage loans and 10 other loans), five preferred equity investments and two investments in unconsolidated joint ventures. As of September 30, 2023, Sabra's real estate properties held for investment included 37,606 beds/units, spread across the United States and Canada.
+fullTimeEmployees§42
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard K. Matros', 'age': 69, 'title': 'Chairman, President & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 2523400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Lourenco Costa', 'age': 44, 'title': 'Executive VP, CFO, Principal Accounting Officer & Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 799160, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Talya  Nevo-Hacohen', 'age': 63, 'title': 'Executive VP, Chief Investment Officer & Treasurer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1324920, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter W. Nyland', 'title': 'Executive Vice President of Asset Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darrin L. Smith', 'title': 'Executive Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lukas Michael Hartwich C.F.A.', 'title': 'Senior Vice President of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eliza  Gozar', 'title': 'Senior Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Flores', 'title': 'Senior VP of Finance & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.088
+exDividendDate§1700092800
+payoutRatio§6.3158
+fiveYearAvgDividendYield§9.1
+beta§1.218
+priceToSalesTrailing12Months§5.570956
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.6
+pegRatio§16.0
+exchange§NMS
+quoteType§EQUITY
+shortName§Sabra Health Care REIT, Inc.
+longName§Sabra Health Care REIT, Inc.
+firstTradeDateEpochUtc§1017757800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eb4e7806-466d-3ed0-bd46-6b42423a106a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§14.0
+targetMeanPrice§15.55
+targetMedianPrice§16.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.565
+grossMargins§0.67098
+ebitdaMargins§0.58572
+trailingPegRatio§None

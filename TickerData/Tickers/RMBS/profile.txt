@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 21:46:59.854383
+address1§4453 North First Street
+address2§Suite 100
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§408 462 8000
+fax§408 462 8001
+website§https://www.rambus.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§Rambus Inc. provides semiconductor products in the United States, Taiwan, South Korea, Japan, Europe, Canada, Singapore, China, and internationally. The company offers DDR memory interface chips, including DDR5 and DDR4 memory interface chips to module manufacturers, and OEMs; silicon IP comprising, interface and security IP solutions that move and protect data in advanced data center, government, and automotive applications; and physical interface and digital controller IP to offer industry-leading, integrated memory, and interconnect subsystems. It also provides a portfolios of security IP solutions, including crypto cores, hardware roots of trust, high-speed protocol engines, and chip provisioning technologies; and portfolio of patents that covers memory architecture, high-speed serial links, and security products. The company markets its products and services through its direct sales force and distributors. Rambus Inc. was incorporated in 1990 and is headquartered in San Jose, California.
+fullTimeEmployees§765
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Luc  Seraphin', 'age': 59, 'title': 'CEO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1273271, 'exercisedValue': 131119, 'unexercisedValue': 102825}, {'maxAge': 1, 'name': 'Mr. Desmond  Lynch', 'age': 43, 'title': 'Senior VP of Finance & CFO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1123585, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xianzhi  Fan', 'age': 57, 'title': 'Senior VP & COO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1002421, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Shinn', 'age': 53, 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 552611, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Anthony Mitarotonda', 'age': 69, 'title': 'Consultant', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 20000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John K. Allen', 'age': 59, 'title': 'VP of Accounting & Chief Accounting Office', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kit  Rodgers', 'title': 'Senior Vice President of Technology Partnerships & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cliff  Burnette', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffry  Moore Ph.D.', 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tina  Faris', 'title': 'VP, Chief of Staff & Deputy General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.239
+priceToSalesTrailing12Months§14.777101
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.12
+pegRatio§2.54
+exchange§NMS
+quoteType§EQUITY
+shortName§Rambus, Inc.
+longName§Rambus Inc.
+firstTradeDateEpochUtc§863616600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4cfdf2ca-c4be-3b29-87d3-4776e71a39df
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§92.0
+targetLowPrice§65.0
+targetMeanPrice§77.17
+targetMedianPrice§77.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§5.997
+earningsGrowth§107.925
+grossMargins§0.78611
+ebitdaMargins§0.27763999
+trailingPegRatio§None

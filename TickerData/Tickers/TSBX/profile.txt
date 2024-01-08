@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 00:47:39.038527
+address1§9310 Athena Circle
+address2§Suite 300
+city§LA Jolla
+state§CA
+zip§92037
+country§United States
+phone§347-897-5988
+website§https://turnstonebio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Turnstone Biologics Corp., a clinical stage biotechnology company, focuses on developing medicines to treat and cure patients with solid tumors. The company's lead product includes TIDAL-01 that is in Phase 1 clinical trials for the treatment of breast cancer, colorectal cancer, and uveal melanoma, as well as an investigator sponsored trial to treat cutaneous and non-cutaneous melanomas. It is also developing TIDAL-02, which is in preclinical development for the treatment of solid tumors. The company was founded in 2014 and is based in LA Jolla, California.
+fullTimeEmployees§94
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Sammy J. Farah M.B.A., Ph.D.', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 678512, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Venkat  Ramanan Ph.D.', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 346132, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael F. Burgess M.D., MBChB, Ph.D.', 'age': 60, 'title': 'Interim Chief Medical Officer & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 212690, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Saryah  Azmat', 'age': 34, 'title': 'Chief Business Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 479729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Vijay  Chiruvolu M.B.A., Ph.D.', 'age': 61, 'title': 'Interim Chief Technology Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stewart  Abbot Ph.D.', 'age': 56, 'title': 'Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. P. Joseph Campisi Jr., Esq., J.D., M.B.A.', 'age': 62, 'title': 'Chief Legal Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§1.8395001
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.18
+exchange§NGM
+quoteType§EQUITY
+shortName§Turnstone Biologics Corp.
+longName§Turnstone Biologics Corp.
+firstTradeDateEpochUtc§1689946200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e04a4e6f-b2cf-301c-a72a-71f7773d1083
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§13.0
+targetMeanPrice§16.0
+targetMedianPrice§15.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§8.357
+grossMargins§-1.02427
+ebitdaMargins§-1.5108701
+trailingPegRatio§None

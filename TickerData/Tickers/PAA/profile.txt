@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 01:46:31.204837
+address1§333 Clay Street
+address2§Suite 160
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§713 646 4100
+website§https://www.plainsallamerican.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Plains All American Pipeline, L.P., through its subsidiaries, engages in the pipeline transportation, terminalling, storage, and gathering of crude oil and natural gas liquids (NGL) in the United States and Canada. The company operates in two segments, Crude Oil and Natural Gas Liquids (NGL). The Crude Oil segment offers gathering and transporting crude oil through pipelines, gathering systems, trucks, and at times on barges or railcars. This segment provides terminalling, storage, and other facilities-related services, as well as merchant activities. The Natural Gas Liquids segment provides gathering, fractionation, storage, transportation, and terminalling activities. This segment also involved in ethane, propane, normal butane, iso-butane, and natural gasoline, as well as crude oil refining processes. The company was founded in 1981 and is headquartered in Houston, Texas. Plains All American Pipeline, L.P. operates as a subsidiary of Plains GP Holdings, L.P.
+fullTimeEmployees§4100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Wilfred C.W. Chiang', 'age': 62, 'title': 'CEO & Chairman of Plains All American GP LLC', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 4369140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry N. Pefanis', 'age': 66, 'title': 'President & Director of Plains All American GP LLC', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2674140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Al P. Swanson', 'age': 59, 'title': 'Executive VP & CFO of Plains All American GP LLC', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1981640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher R. Chandler', 'age': 51, 'title': 'Executive VP & COO of Plains All American GP LLC', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2299140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Kelly McGee', 'age': 62, 'title': 'Executive VP, General Counsel & Secretary of Plains All American GP LLC', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2046640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory L. Armstrong', 'age': 65, 'title': 'Senior Advisor to the CEO & Director of Plains All American GP LLC', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 265840, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy L. Goebel', 'age': 45, 'title': 'Executive VP & Chief Commercial Officer of Plains All American GP LLC', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 2299140, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Herbold', 'age': 51, 'title': 'Senior VP of Finance & Chief Accounting Officer of Plains All American GP LLC', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alfred A. Lindseth', 'age': 53, 'title': 'Senior Vice President of Technology, Process & Risk Management', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Blake Michael Fernandez', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.07
+dividendYield§0.0695
+exDividendDate§1698624000
+payoutRatio§0.7612
+fiveYearAvgDividendYield§8.4
+beta§1.561
+priceToSalesTrailing12Months§0.22032192
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.35
+pegRatio§-8.48
+exchange§NMS
+quoteType§EQUITY
+shortName§Plains All American Pipeline, L
+longName§Plains All American Pipeline, L.P.
+firstTradeDateEpochUtc§911399400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8ff944a1-48b9-3f87-8bc3-4d9db06a0c0b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§13.5
+targetMeanPrice§17.5
+targetMedianPrice§17.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.815
+earningsGrowth§-0.581
+grossMargins§0.051220004
+ebitdaMargins§0.04417
+trailingPegRatio§None

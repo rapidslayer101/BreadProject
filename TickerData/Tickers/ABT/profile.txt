@@ -1,0 +1,62 @@
+# reload+after+2024-01-23 23:26:09.747784
+address1§100 Abbott Park Road
+address2§Abbott Park
+city§North Chicago
+state§IL
+zip§60064-6400
+country§United States
+phone§224 667 6100
+website§https://www.abbott.com
+industry§Medical Devices
+industryKey§medical-devices
+industryDisp§Medical Devices
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Abbott Laboratories, together with its subsidiaries, discovers, develops, manufactures, and sells health care products worldwide. It operates in four segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional Products, and Medical Devices. The Established Pharmaceutical Products segment provides generic pharmaceuticals for the treatment of pancreatic exocrine insufficiency, irritable bowel syndrome or biliary spasm, intrahepatic cholestasis or depressive symptoms, gynecological disorder, hormone replacement therapy, dyslipidemia, hypertension, hypothyroidism, Ménière's disease and vestibular vertigo, pain, fever, inflammation, and migraine, as well as provides anti-infective clarithromycin, influenza vaccine, and products to regulate physiological rhythm of the colon. The Diagnostic Products segment offers laboratory systems in the areas of immunoassay, clinical chemistry, hematology, and transfusion; molecular diagnostics systems that automate the extraction, purification, and preparation of DNA and RNA from patient samples, as well as detect and measure infectious agents; point of care systems; cartridges for testing blood; rapid diagnostics lateral flow testing products; molecular point-of-care testing for HIV, SARS-CoV-2, influenza A and B, RSV, and strep A; cardiometabolic test systems; drug and alcohol test, and remote patient monitoring and consumer self-test systems; and informatics and automation solutions for use in laboratories. The Nutritional Products segment provides pediatric and adult nutritional products. The Medical Devices segment offers rhythm management, electrophysiology, heart failure, vascular, and structural heart devices for the treatment of cardiovascular diseases; and diabetes care products, as well as neuromodulation devices for the management of chronic pain and movement disorders. Abbott Laboratories was founded in 1888 and is based in North Chicago, Illinois.
+fullTimeEmployees§115000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert B. Ford', 'age': 49, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 4052972, 'exercisedValue': 6643292, 'unexercisedValue': 65371608}, {'maxAge': 1, 'name': 'Mr. Hubert L. Allen', 'age': 57, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2011146, 'exercisedValue': 0, 'unexercisedValue': 53734448}, {'maxAge': 1, 'name': 'Mr. Robert E. Funck Jr.', 'age': 62, 'title': 'Executive Vice President of Finance', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2163872, 'exercisedValue': 0, 'unexercisedValue': 18556432}, {'maxAge': 1, 'name': 'Mr. Daniel Gesua Sive Salvadori', 'age': 44, 'title': 'Executive VP and Group President of Established Pharmaceuticals & Nutritional Products', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1487312, 'exercisedValue': 0, 'unexercisedValue': 26139322}, {'maxAge': 1, 'name': 'Ms. Andrea F. Wainer', 'age': 53, 'title': 'Executive Vice President of Rapid & Molecular Diagnostics', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1750962, 'exercisedValue': 0, 'unexercisedValue': 12517049}, {'maxAge': 1, 'name': 'Mr. Philip P. Boudreau', 'age': 50, 'title': 'CFO & Senior VP of Finance', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Erica L. Battaglia', 'title': 'VP and Chief Ethics & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Brotz', 'title': 'Vice President of Public Affairs & Corporate Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Scoggins', 'age': 53, 'title': 'Senior Vice President of Commercial Operations, Marketing & Diabetes Care', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary K. Moreland', 'age': 57, 'title': 'Executive Vice President of Human Resources', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.2
+dividendYield§0.0199
+exDividendDate§1704931200
+payoutRatio§0.6803
+fiveYearAvgDividendYield§1.57
+beta§0.725
+priceToSalesTrailing12Months§4.8138204
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.63
+pegRatio§-12.5
+lastDividendValue§0.51
+lastDividendDate§1697068800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Abbott Laboratories
+longName§Abbott Laboratories
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5f9c82b0-139d-3f8f-b30c-efd7ee9ccdcf
+messageBoardId§finmb_247483
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§135.0
+targetLowPrice§100.0
+targetMeanPrice§119.3
+targetMedianPrice§120.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§1.039
+earningsGrowth§0.012
+grossMargins§0.55172
+ebitdaMargins§0.24702999
+trailingPegRatio§26.5612

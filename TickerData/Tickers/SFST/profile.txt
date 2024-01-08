@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 07:47:10.366609
+address1§6 Verdae Boulevard
+city§Greenville
+state§SC
+zip§29607
+country§United States
+phone§864 679 9000
+website§https://www.southernfirst.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Southern First Bancshares, Inc. operates as the bank holding company for Southern First Bank that provides commercial, consumer, and mortgage loans to the general public in South Carolina, North Carolina, and Georgia. The company accepts various deposit products that include checking accounts, commercial checking accounts, and savings accounts, as well as other time deposits, including daily money market accounts and long-term certificates of deposit. Its loan portfolio comprises commercial real estate loans; construction real estate loans; commercial business loans for various lines of businesses, such as the manufacturing, service industry, and professional service areas; consumer real estate and home equity loans; and other consumer loans, including secured and unsecured installment loans and revolving lines of credit. In addition, the company provides other bank services, such as internet banking, cash management, safe deposit boxes, direct deposit, automatic drafts, bill payment, and mobile banking services. The company was incorporated in 1999 and is headquartered in Greenville, South Carolina.
+fullTimeEmployees§293
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. R. Arthur Seaver Jr.', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 757583, 'exercisedValue': 0, 'unexercisedValue': 1081325}, {'maxAge': 1, 'name': 'Mr. Calvin C. Hurst', 'age': 40, 'title': 'President', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 501683, 'exercisedValue': 0, 'unexercisedValue': 132460}, {'maxAge': 1, 'name': 'Ms. Silvia T. King', 'age': 45, 'title': 'Chief Human Resources Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 268634, 'exercisedValue': 20736, 'unexercisedValue': 5923}, {'maxAge': 1, 'name': 'Mr. William M. Aiken III', 'age': 49, 'title': 'Senior EVP & Chief Risk Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 370454, 'exercisedValue': 0, 'unexercisedValue': 34328}, {'maxAge': 1, 'name': 'Mr. David Andrew Borrmann', 'age': 52, 'title': 'Executive VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederick  Gilmer III', 'age': 58, 'title': 'Executive Vice President of Southern First Bank and Senior Lending Officer of Southern First Bank', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 21600, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.852
+priceToSalesTrailing12Months§3.4746258
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.83
+pegRatio§3.06
+exchange§NGM
+quoteType§EQUITY
+shortName§Southern First Bancshares, Inc.
+longName§Southern First Bancshares, Inc.
+firstTradeDateEpochUtc§941117400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d50503e5-b027-3f51-bf31-fec27e5968bb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§28.0
+targetMeanPrice§34.17
+targetMedianPrice§30.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+earningsGrowth§-0.511
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 09:39:27.788624
+address1§100 Victoria Street
+city§London
+zip§SW1E 5JL
+country§United Kingdom
+phone§44 20 74139000
+fax§44 20 79250202
+website§https://www.landsec.com
+industry§REIT—Diversified
+sector§Real Estate
+longBusinessSummary§At Landsec, we build and invest in buildings, spaces and partnerships to create sustainable places, connect communities and realise potential. We are one of the largest real estate companies in Europe, with a £12 billion portfolio of retail, leisure, workspace and residential hubs. Landsec is shaping a better future by leading our industry on environmental and social sustainability while delivering value for our shareholders, great experiences for our guests and positive change for our communities.
+fullTimeEmployees§577
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Christopher Allan', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1551000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vanessa Kate Simms FCCA', 'age': 48, 'title': 'CFO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1405000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Remco  Simon', 'title': 'Chief Strategy & Investment Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nisha  Manaktala', 'title': 'Chief Data & Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Thacker', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Peeke', 'title': 'Head of Legal', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Seller', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Reay Wood', 'age': 63, 'title': 'Group Head of Tax & Treasury', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Pennell', 'title': 'Head of Design Innovation & Property Solutions', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Knight', 'title': 'Head of Workplace', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.39
+dividendYield§0.056399997
+exDividendDate§1701907200
+payoutRatio§0.71089995
+fiveYearAvgDividendYield§5.09
+beta§1.449
+priceToSalesTrailing12Months§6.489196
+currency§GBp
+forwardEps§50.92
+pegRatio§4.06
+exchange§LSE
+quoteType§EQUITY
+shortName§LAND SECURITIES GROUP PLC ORD 1
+longName§Land Securities Group Plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a9967b83-97ab-3ad0-8bfc-e0535d7f06ee
+targetHighPrice§754.0
+targetLowPrice§465.0
+targetMeanPrice§667.13
+targetMedianPrice§700.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.377
+grossMargins§0.5241
+ebitdaMargins§0.53398997
+trailingPegRatio§None

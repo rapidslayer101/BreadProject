@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 19:29:47.965691
+address1§150 Helen Road
+address2§Sandown
+city§Sandton
+zip§2196
+country§South Africa
+phone§27 11 562 9700
+fax§27 11 562 9829
+website§https://www.goldfields.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Gold Fields Limited operates as a gold producer with reserves and resources in Chile, South Africa, Ghana, West Africa, Australia, and Peru. The company also explores for copper deposits. It holds interests in nine operating mines, as well as gold mineral reserves and mineral resources. The company was founded in 1887 and is based in Sandton, South Africa.
+fullTimeEmployees§6162
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul A. Schmidt B.Com., BCompt (Hons), C.A., CA(SA)', 'age': 56, 'title': 'Financial Director, CFO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1120200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Naseem A. Chohan B.E.', 'age': 62, 'title': 'Executive Vice President of Sustainable Development', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 610900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luis A. Rivera MBA', 'age': 58, 'title': 'Executive Vice President of Americas Region', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1215800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Preece', 'age': 58, 'title': 'Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 952000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart J. Mathews M.S., MSc (Hons)', 'age': 62, 'title': 'Executive Vice President of Australasia Region', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 847500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Mortoti', 'age': 51, 'title': 'Executive VP & Head of West Africa Region', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1209200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael John Fraser B.Com., MBL', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francois  Swanepoel', 'age': 50, 'title': 'Group Chief Technical Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jongisa  Magagula', 'age': 41, 'title': 'Executive Vice-President of Investor Relations & Corporate Affairs', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  Carter', 'title': 'Executive VP and Group Head of Legal & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.41
+dividendYield§0.0322
+exDividendDate§1694044800
+payoutRatio§0.5597
+fiveYearAvgDividendYield§2.32
+beta§0.753
+priceToSalesTrailing12Months§2.7530203
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.24
+exchange§NYQ
+quoteType§EQUITY
+shortName§Gold Fields Limited
+longName§Gold Fields Limited
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§08a074fc-5777-309f-b573-97d9a2ad89cd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§13.5
+targetMeanPrice§14.96
+targetMedianPrice§15.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.415
+earningsGrowth§-0.102
+grossMargins§0.36626
+ebitdaMargins§0.50181997
+trailingPegRatio§None

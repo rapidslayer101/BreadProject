@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 16:43:51.710673
+address1§258 Elm Street
+city§New Canaan
+state§CT
+zip§06840
+country§United States
+phone§203 652 0166
+website§https://www.mybankwell.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Bankwell Financial Group, Inc. operates as the bank holding company for Bankwell Bank that provides various banking services for individual and commercial customers. It offers various traditional depository products, including checking, savings, money market, and certificates of deposit. The company also provides first mortgage loans secured by one-to-four family owner occupied residential properties for personal use; home equity loans and home equity lines of credit secured by owner occupied one-to-four family residential properties; loans secured by commercial real estate, multi-family dwellings, and investor-owned one-to-four family dwellings; commercial construction loans for commercial development projects, including apartment buildings and condominiums, as well as office buildings, retail, and other income producing properties; land loans; commercial business loans secured by assignments of corporate assets and personal guarantees of the business owners; loans secured by savings or certificate accounts and automobiles; and unsecured personal loans and overdraft lines of credit. It operates branches in New Canaan, Stamford, Fairfield, Wilton, Westport, Darien, Norwalk, and Hamden, Connecticut. The company was formerly known as BNC Financial Group, Inc. and changed its name to Bankwell Financial Group, Inc. in September 2013. Bankwell Financial Group, Inc. was founded in 2002 and is headquartered in New Canaan, Connecticut.
+fullTimeEmployees§139
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Blake S. Drexler', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 129000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher R. Gruseke', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1154660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew J. McNeill', 'age': 48, 'title': 'Executive VP & Chief Banking Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 775453, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd H. Lampert', 'age': 60, 'title': 'Independent Director & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 74500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Courtney E. Sacchetti', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shawn T. Gelin', 'title': 'Senior VP & Director of Community Banking Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine A. Chivily', 'age': 64, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 444819, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert E. Mallozzi', 'title': 'Senior VP & Business Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel S. DiGirolamo', 'title': 'Senior VP & Director of Commercial Credit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan Jason Hildebrand', 'title': 'Executive VP &  Chief Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0273
+exDividendDate§1699488000
+payoutRatio§0.1732
+fiveYearAvgDividendYield§2.49
+beta§0.79
+priceToSalesTrailing12Months§2.3579328
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.15
+exchange§NGM
+quoteType§EQUITY
+shortName§Bankwell Financial Group, Inc.
+longName§Bankwell Financial Group, Inc.
+firstTradeDateEpochUtc§1270474200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bfb459ab-466e-30fd-b870-0e62765d9dc9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§29.0
+targetMeanPrice§29.5
+targetMedianPrice§29.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+earningsGrowth§0.059
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 02:32:01.361950
+address1§1100 Avenue des Canadiens-de-Montréal
+address2§Suite 300 PO Box 211
+city§Montreal
+state§QC
+zip§H3B 2S2
+country§Canada
+phone§514-940-0670
+fax§514-940-0669
+website§https://www.osiskogr.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Osisko Gold Royalties Ltd acquires and manages precious metal and other royalties, streams, and other interests in Canada and internationally. It also owns options on offtake; royalty/stream financings; and exclusive rights to participate in future royalty/stream financings on various projects. The company's primary asset is a 5% net smelter return royalty on the Canadian Malartic mine located in Canada. In addition, it is involved in the exploration, evaluation, and development of mining projects. It primarily explores for precious metals, including gold, silver, diamond, and others. The company was founded in 2014 and is based in Montreal, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sean E. O. Roosen Eng.', 'age': 60, 'title': 'Founder & Chair Emeritus', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 608553, 'exercisedValue': 78527, 'unexercisedValue': 917359}, {'maxAge': 1, 'name': 'Mr. Frederic  Ruel C.A., CPA', 'age': 46, 'title': 'CFO & VP of Finance', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 456415, 'exercisedValue': 0, 'unexercisedValue': 658587}, {'maxAge': 1, 'name': 'Mr. Andre  Le Bel B.Sc., B.Sc.A, L.L.B.', 'age': 55, 'title': 'VP of Legal Affairs & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 398158, 'exercisedValue': 0, 'unexercisedValue': 766811}, {'maxAge': 1, 'name': 'Mr. Michael David-Saynor Spencer', 'title': 'Chief Executive Officer of Osisko Bermuda Limited', 'fiscalYear': 2022, 'totalPay': 546965, 'exercisedValue': 0, 'unexercisedValue': 578074}, {'maxAge': 1, 'name': 'Mr. Jason Mark Attew B.Sc., M.B.A.', 'age': 52, 'title': 'CEO & President', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Taylor B.A.', 'title': 'Vice President of Sustainability & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iain W. Farmer B.Eng, C.F.A., M.B.A.', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grant  Moenting P.Eng.', 'title': 'Vice President of Capital Markets', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.18
+dividendYield§0.013300001
+exDividendDate§1703721600
+payoutRatio§1.0455
+fiveYearAvgDividendYield§1.39
+beta§0.813
+priceToSalesTrailing12Months§10.33238
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Osisko Gold Royalties Ltd
+longName§Osisko Gold Royalties Ltd
+firstTradeDateEpochUtc§1467811800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d00e7dc-e692-38dc-bf68-77f035e3a616
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.45
+targetLowPrice§14.97
+targetMeanPrice§15.71
+targetMedianPrice§15.71
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§4.27
+grossMargins§0.92883
+ebitdaMargins§0.75784
+trailingPegRatio§None

@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 09:35:35.755887
+address1§Windmill House
+address2§Innovation Way
+city§York
+zip§YO10 5BR
+country§United Kingdom
+phone§44 19 0421 7404
+website§https://aptamergroup.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Aptamer Group plc provides binders for research, diagnostics, and therapeutics in the United Kingdom, rest of Europe, and internationally. The company offers Optimer platform that enables the discovery and development of oligonucleotide binders; custom development services for oligonucleotide-based aptamer and Optimer binders; solutions to bioprocessing, diagnostic, and pharmaceutical scientists; and contract research services in the field of therapeutics. It serves pharma companies, diagnostic development companies, and research institutes. Aptamer Group plc was founded in 2008 and is headquartered in York, the United Kingdom.
+fullTimeEmployees§46
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Arron Craig Tolley', 'age': 45, 'title': 'Chief Technical Officer & Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 246000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David  Bunka', 'title': 'Chief Scientific Officer, Member of the Scientific Advisory Board & Executive Director', 'fiscalYear': 2023, 'totalPay': 202000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Hull', 'age': 69, 'title': 'Executive Chairman', 'yearBorn': 1954, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andrew  Rapson', 'title': 'CFO & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alastair  Fleming', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.376
+priceToSalesTrailing12Months§3.467735
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§APTAMER GROUP PLC ORD 0.1P
+longName§Aptamer Group plc
+firstTradeDateEpochUtc§1640160000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§eacd7c1e-bca6-33b0-b382-9204c71a431f
+messageBoardId§finmb_573020350
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§0.735
+grossMargins§0.20491
+ebitdaMargins§-2.94235
+trailingPegRatio§None

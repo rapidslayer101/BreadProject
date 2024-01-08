@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 04:27:06.578709
+address1§Cidade De Deus, S/N
+address2§Vila Yara
+city§Osasco
+state§SP
+zip§06029-900
+country§Brazil
+phone§55 80 0701 1616
+website§https://banco.bradesco
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Banco Bradesco S.A., together with its subsidiaries, provides various banking products and services to individuals, corporates, and businesses in Brazil and internationally. The company operates through two segments, Banking and Insurance. It provides current, savings, click, and salary accounts; real estate credit, vehicle financing, payroll loans, mortgage loans, microcredit, leasing, and personal and installment credit; debit and business cards; financial and security services; consortium products; auto, personal accident, dental, travel, and life insurance; investment products; pension products; real estate and vehicle auctions; cash management, and foreign trade and exchange services; capitalization bonds; and internet banking services. Banco Bradesco S.A. was founded in 1943 and is headquartered in Osasco, Brazil.
+fullTimeEmployees§86102
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marcelo  de Araujo Noronha', 'age': 58, 'title': 'CEO & Member of Executive Board', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oswaldo Tadeu Fernandes', 'age': 53, 'title': 'Deputy Executive Officer , CFO & Member of Executive Board', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cassiano Ricardo Scarpelli', 'age': 55, 'title': 'Executive VP of Director & Member of Executive Board', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Moacir  Nachbar Jr., Junior', 'age': 58, 'title': 'Executive VP of Director, Chief Risk Officer & Member of Executive Board', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antonio Jose da Barbara', 'age': 55, 'title': 'Managing Executive Officer &  Member of Executive Board', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose Ramos Rocha Neto', 'age': 55, 'title': 'Executive VP & Member of the Executive Board', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joao Carlos Gomes da Silva', 'age': 62, 'title': 'Executive Managing Officer & Member of Board of Executive Officers', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose Sergio Bordin', 'age': 54, 'title': 'Managing Executive Officer & Member of Executive Board', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eurico Ramos Fabri', 'age': 51, 'title': 'Executive VP of Director & Member of Executive Board', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guilherme Muller Leal', 'age': 56, 'title': 'Executive Managing Officers & Member of Executive Board', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§4
+dividendRate§0.22
+dividendYield§0.0718
+exDividendDate§1704240000
+payoutRatio§0.7693
+fiveYearAvgDividendYield§4.3
+beta§0.71
+priceToSalesTrailing12Months§0.5077509
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.003
+lastDividendDate§1704240000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Banco Bradesco Sa
+longName§Banco Bradesco S.A.
+firstTradeDateEpochUtc§1331645400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f3497660-26a9-32c1-996c-0b702ac44358
+messageBoardId§finmb_877263
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.364
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§0.539

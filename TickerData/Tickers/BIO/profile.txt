@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 18:27:18.441400
+address1§1000 Alfred Nobel Drive
+city§Hercules
+state§CA
+zip§94547
+country§United States
+phone§510 724 7000
+fax§510 741 5817
+website§https://www.bio-rad.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Bio-Rad Laboratories, Inc. manufactures, and distributes life science research and clinical diagnostic products in the United States, Europe, Asia, Canada, and Latin America. The company operates through Life Science and Clinical Diagnostics segments. The Life Science segment develops, manufactures, and markets reagents, apparatus, and laboratory instruments that are used in research techniques, biopharmaceutical production processes, and food testing regimes. It focuses on selected segments of the life sciences market in proteomics, genomics, biopharmaceutical production, cellular biology, and food safety. This segment serves universities and medical schools, industrial research organizations, government agencies, pharmaceutical manufacturers, biotechnology researchers, food producers, and food testing laboratories. The Clinical Diagnostics segment designs, manufactures, sells, and supports test systems, informatics systems, test kits, and specialized quality controls for clinical laboratories in the diagnostics market. This segment offers reagents, instruments, and software, which address specific niches within the in vitro diagnostics test market. It sells its products to reference laboratories, hospital laboratories, state newborn screening facilities, physicians' office laboratories, and transfusion laboratories. In addition, the company offers products and systems to separate complex chemical and biological materials, as well as to identify, analyze, and purify components. The company offers its products through its direct sales force, as well as through distributors, agents, brokers, and resellers. Bio-Rad Laboratories, Inc. was founded in 1952 and is headquartered in Hercules, California.
+fullTimeEmployees§8000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Norman D. Schwartz', 'age': 73, 'title': 'Chairman, CEO & President', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 2129637, 'exercisedValue': 15227430, 'unexercisedValue': 34999260}, {'maxAge': 1, 'name': 'Dr. Andrew J. Last Ph.D.', 'age': 63, 'title': 'Executive VP & COO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1116742, 'exercisedValue': 0, 'unexercisedValue': 121250}, {'maxAge': 1, 'name': 'Dr. Simon  May', 'title': 'Executive VP & President of the Life Science Group', 'fiscalYear': 2022, 'totalPay': 787764, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dara  Grantham Wright', 'age': 47, 'title': 'Executive VP & President of Clinical Diagnostics Group', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 849528, 'exercisedValue': 0, 'unexercisedValue': 80722}, {'maxAge': 1, 'name': 'Ms. Tania  DeVilliers', 'age': 50, 'title': 'Senior Director, Corporate Controller & Interim Principal Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yong  Chung', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy S. Ernst', 'age': 63, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matthew  Werner', 'title': 'Senior Vice President and Chief Compliance & Privacy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Colleen  Corey', 'title': 'Executive Vice President of Global Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Crowley', 'age': 61, 'title': 'Executive Vice President of Global Commercial Operations', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 974938, 'exercisedValue': 1846110, 'unexercisedValue': 4426804}]
+auditRisk§10
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.89
+priceToSalesTrailing12Months§3.3913233
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.57
+pegRatio§1.54
+exchange§NYQ
+quoteType§EQUITY
+shortName§Bio-Rad Laboratories, Inc.
+longName§Bio-Rad Laboratories, Inc.
+firstTradeDateEpochUtc§320509800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6cebea0a-fe88-3cb6-af78-b738eb7ab8a1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§484.0
+targetLowPrice§350.0
+targetMeanPrice§413.8
+targetMedianPrice§400.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§3.991
+grossMargins§0.53768003
+ebitdaMargins§0.19705
+trailingPegRatio§None

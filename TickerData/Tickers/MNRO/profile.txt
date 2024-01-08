@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 07:46:03.937938
+address1§200 Holleder Parkway
+city§Rochester
+state§NY
+zip§14615
+country§United States
+phone§585 647 6400
+website§https://www.monro.com
+industry§Auto Parts
+sector§Consumer Cyclical
+longBusinessSummary§Monro, Inc. provides automotive undercar repair, and tire sales and services in the United States. It offers replacement tires and tire related services, automotive undercar repair services, and routine maintenance services primarily to passenger cars, light trucks, and vans. The company also provides other products and services for brakes; mufflers and exhaust systems; and steering, drive train, suspension, and wheel alignment. In addition, it operates stores under the brand names of Monro Auto Service and Tire Centers, Tire Choice Auto Service Centers, Mr. Tire Auto Service Centers, Car-X Tire & Auto, Tire Warehouse Tires for Less, Ken Towery's Tire & Auto Care, Mountain View Tire & Auto Service, and Tire Barn Warehouse. The company was founded in 1957 and is headquartered in Rochester, New York.
+fullTimeEmployees§8600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael T. Broderick', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 759779, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Brian J. D'Ambrosia", 'age': 49, 'title': 'Executive VP of Finance, CFO, Treasurer & Assistant Secretary', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 442803, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maureen E. Mulholland', 'age': 52, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 377187, 'exercisedValue': 0, 'unexercisedValue': 20150}, {'maxAge': 1, 'name': 'Mr. Matt  Henson', 'age': 57, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 363588, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cindy L. Donovan', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Austin  Phillips', 'title': 'Vice President of Marketing, Merchandising & Commercial', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Brian D. O'Donnell", 'title': 'Senior Vice President of Retail Operations, South', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russ  Welsh', 'title': 'Sr. VP of Retail Operations, North', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.12
+dividendYield§0.0405
+exDividendDate§1701907200
+payoutRatio§1.0090001
+fiveYearAvgDividendYield§1.93
+beta§1.116
+priceToSalesTrailing12Months§0.6713626
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.69
+pegRatio§1.28
+exchange§NMS
+quoteType§EQUITY
+shortName§Monro, Inc.
+longName§Monro, Inc.
+firstTradeDateEpochUtc§680880600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c1ac51cf-3106-3a65-adea-32deee772afc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§26.0
+targetMeanPrice§28.0
+targetMedianPrice§28.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.049
+earningsGrowth§-0.005
+grossMargins§0.34486
+ebitdaMargins§0.11377
+trailingPegRatio§1.1704

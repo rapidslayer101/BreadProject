@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 13:32:24.584897
+address1§1 Primerica Parkway
+city§Duluth
+state§GA
+zip§30099
+country§United States
+phone§770 381 1000
+website§https://www.primerica.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§Primerica, Inc., together with its subsidiaries, provides financial products to middle-income households in the United States and Canada. The company operates in four segments: Term Life Insurance; Investment and Savings Products; Senior Health; and Corporate and Other Distributed Products. The Term Life Insurance segment underwrites individual term life insurance products. The Investment and Savings Products segment provides mutual funds and various retirement plans, managed investments, variable and fixed annuities, and fixed indexed annuities. The Senior Health segment offers segregated funds; and medicare advantage and supplement products. The Corporate and Other Distributed Products segment provides mortgage loans; prepaid legal services that assist subscribers with legal matters, such as drafting wills, living wills and powers of attorney, trial defense, and motor vehicle-related matters; ID theft defense services; auto and homeowners' insurance; home automation solutions; and insurance products, including supplemental health and accidental death. It distributes and sells its products through licensed sales representatives. Primerica, Inc. was founded in 1927 and is headquartered in Duluth, Georgia.
+fullTimeEmployees§2646
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Glenn Jackson Williams', 'age': 64, 'title': 'CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2043606, 'exercisedValue': 0, 'unexercisedValue': 1670497}, {'maxAge': 1, 'name': 'Mr. Peter Wayne Schneider', 'age': 67, 'title': 'President', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1504247, 'exercisedValue': 0, 'unexercisedValue': 521887}, {'maxAge': 1, 'name': 'Mr. Gregory Carl Pitts', 'age': 60, 'title': 'Executive VP & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1085381, 'exercisedValue': 0, 'unexercisedValue': 1532511}, {'maxAge': 1, 'name': 'Ms. Alison Sue Rand', 'age': 55, 'title': 'Executive Vice President', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1080096, 'exercisedValue': 0, 'unexercisedValue': 2099472}, {'maxAge': 1, 'name': 'Ms. Tracy  Tan', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Adam Jendusa', 'age': 42, 'title': 'Principal Accounting Officer, Executive VP & Controller', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Craig Adams', 'age': 66, 'title': 'Executive VP & Chief Business Technology Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa Abraham Brown', 'age': 53, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Russell', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Scott Fendler', 'age': 66, 'title': 'Executive VP and Chief Compliance & Risk Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.6
+dividendYield§0.0125
+exDividendDate§1700438400
+payoutRatio§0.1928
+fiveYearAvgDividendYield§1.25
+beta§1.097
+priceToSalesTrailing12Months§2.5632477
+currency§USD
+dateShortInterest§1702598400
+forwardEps§17.68
+pegRatio§1.23
+exchange§NYQ
+quoteType§EQUITY
+shortName§Primerica, Inc.
+longName§Primerica, Inc.
+firstTradeDateEpochUtc§1270128600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§def22f97-e799-3ac3-abc4-a1c2ee27027b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§260.0
+targetLowPrice§200.0
+targetMeanPrice§225.8
+targetMedianPrice§225.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.877
+earningsGrowth§1.004
+grossMargins§0.60547
+ebitdaMargins§0.26004
+trailingPegRatio§None

@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 23:41:09.019009
+address1§2 Hashlosha Street
+city§Tel Aviv-Yafo
+zip§6706054
+country§Israel
+phone§972 3 603 3956
+website§https://windward.ai
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Windward Ltd. operates as a predictive intelligence company in Israel and internationally. It fuses artificial intelligence (AI) and maritime expertise to digitalize the maritime industry. The company's AI-powered software solution provides real time, predictive intelligence-driven decisions, a 360° view of the maritime ecosystem, and its impact on safety, security, finance, and business. Its customers include various participants across the maritime industry covering banks, commodity traders, insurers, government agencies, and energy and shipping companies. Windward Ltd. was incorporated in 2010 and is headquartered in Tel Aviv-Yafo, Israel.
+fullTimeEmployees§150
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Amiad  Daniel', 'title': 'Co-Founder, CEO & Executive Director', 'fiscalYear': 2022, 'totalPay': 401603, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matan  Peled', 'title': 'Co-Founder & Head of U.S.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ofer  Segev', 'age': 64, 'title': 'CFO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 241276, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Irit  Singer', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benny  Keinan', 'title': 'Vice President of R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Issey  Ende', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hagit  Efrati', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.617
+priceToSalesTrailing12Months§3.2610886
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§WINDWARD LTD ORD NPV (DI)
+longName§Windward Ltd.
+firstTradeDateEpochUtc§1638777600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4e9c232f-8d80-30d7-8ab6-b2339484bad6
+targetHighPrice§1.23
+targetLowPrice§0.97
+targetMeanPrice§1.12
+targetMedianPrice§1.15
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.567
+grossMargins§0.74682
+ebitdaMargins§-0.60417
+trailingPegRatio§None

@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 01:32:14.086453
+address1§1691 Michigan Avenue
+city§Miami Beach
+state§FL
+zip§33139
+country§United States
+phone§212-905-1000
+fax§212-905-1075
+website§https://pflt.pennantpark.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§PennantPark Floating Rate Capital Ltd. is a business development company. It seeks to make secondary direct, debt, equity, and loan investments. The fund seeks to invest through floating rate loans in private or thinly traded or small market-cap, public middle market companies. It primarily invests in the United States and to a limited extent non-U.S. companies. The fund typically invests between $2 million and $20 million. The fund also invests in equity securities, such as preferred stock, common stock, warrants or options received in connection with debt investments or through direct investments. It primarily invests between $10 million and $50 million in investments in senior secured loans and mezzanine debt. It seeks to invest in companies not rated by national rating agencies. The companies if rated would be between BB and CCC under the Standard & Poor's system. The fund invests 30% is invested in non-qualifying assets like investments in public companies whose securities are not thinly traded or do not have a market capitalization of less than $250 million, securities of middle-market companies located outside of the United States, high-yield bonds, distressed debt, private equity, securities of public companies that are not thinly traded, and investment companies as defined in the 1940 Act. Under normal conditions, the fund expects atleast 80 percent of its net assets plus any borrowings for investment purposes to be invested in Floating Rate Loans and investments with similar economic characteristics, including cash equivalents invested in money market funds. It expects to represent 65 percent of its portfolio through senior secured loans. In case of floating rate loans, it holds investments for a period of three to ten years.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Arthur Howard Penn', 'age': 60, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Thomas Allorto Jr., CPA', 'age': 51, 'title': 'CFO & Treasurer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose A. Briones Jr.', 'age': 52, 'title': 'Partner & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Visgilio', 'title': 'Manager of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank  Galea C.F.A.', 'age': 55, 'title': 'Chief Compliance Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. P. Whitridge Williams Jr., J.D.', 'title': 'Partner', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Kendall', 'title': 'Senior Vice President', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Boaz  Magid', 'age': 45, 'title': 'MD, Head of Europe & CEO of PennantPark Europe, B.V.', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott C. McCabe', 'title': 'MD & Head of Private Wealth Distribution at Miami', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Friedmann Esq.', 'title': 'Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.23
+dividendYield§0.0987
+exDividendDate§1705017600
+payoutRatio§1.5389999
+fiveYearAvgDividendYield§10.25
+beta§1.684
+priceToSalesTrailing12Months§5.2522616
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§PennantPark Floating Rate Capit
+longName§PennantPark Floating Rate Capital Ltd.
+firstTradeDateEpochUtc§1302269400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dfa93020-30fe-3550-b350-89ce49c4247f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§11.0
+targetMeanPrice§11.5
+targetMedianPrice§11.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§3.876
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

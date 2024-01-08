@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 19:48:05.426834
+address1§500 Seneca Street
+address2§Suite 507
+city§Buffalo
+state§NY
+zip§14204
+country§United States
+phone§716 270 1523
+website§https://www.xxiicentury.com
+industry§Tobacco
+sector§Consumer Defensive
+longBusinessSummary§22nd Century Group, Inc., an agricultural biotechnology company, focuses on tobacco harm reduction, reduced nicotine tobacco, and enhancing health and wellness through plant science for the life science and consumer products industries. It develops very low nicotine content tobacco and cigarette products under the VLN King and VLN Menthol King names; and SPECTRUM research cigarettes for use in independent clinical studies. The company has collaboration with Keygene N.V. to develop hemp/cannabis plants for exceptional cannabinoid profiles and other superior agronomic traits for medical, therapeutic, and agricultural uses, as well as other applications. 22nd Century Group, Inc. was founded in 1998 and is headquartered in Buffalo, New York.
+fullTimeEmployees§198
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James A. Mish', 'age': 59, 'title': 'Corporate President, Member of Scientific Advisory Board & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 985105, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Hugh Kinsman', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 389202, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Miller', 'age': 58, 'title': 'COO & Executive Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 596379, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence D. Firestone', 'age': 65, 'title': 'Chairman & CEO', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sebastian  Ravitz', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matthew  Kreps', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James C. Morrison', 'title': 'Technical Advisor & Regulatory Affairs Consultant', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§9
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.54
+priceToSalesTrailing12Months§0.09392255
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.03
+exchange§NCM
+quoteType§EQUITY
+shortName§22nd Century Group, Inc
+longName§22nd Century Group, Inc.
+firstTradeDateEpochUtc§1296052200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fafee022-27e8-3092-92bf-2414eb79d33d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§3.33
+targetMeanPrice§41.11
+targetMedianPrice§45.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.31
+grossMargins§-0.05822
+ebitdaMargins§-0.73085
+trailingPegRatio§None

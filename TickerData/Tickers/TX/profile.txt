@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 08:33:55.681908
+address1§26 Boulevard Royal
+address2§4th Floor
+city§Luxembourg City
+zip§2449
+country§Luxembourg
+phone§352 26 68 31 52
+fax§352 26 53 83 49
+website§https://www.ternium.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Ternium S.A., together with its subsidiaries, manufactures, processes, and sells various steel products in Mexico, Argentina, Paraguay, Chile, Bolivia, Uruguay, Brazil, the United States, Colombia, Guatemala, Costa Rica, Honduras, El Salvador, and Nicaragua. It operates through two segments, Steel and Mining. The Steel segment offers slabs, billets and round bars, hot rolled flat products, merchant bars, reinforcing bars, stirrups and rods, tin plate and galvanized products, tubes, beams, insulated panels, roofing and cladding, roof tiles, steel decks, pre-engineered metal building systems, and pig iron products; and sells energy. The Mining segment sells iron ore and pellets. The company also provides medical and social; scrap; and engineering and other services, as well as operates as a distribution company. It serves various companies and small businesses in the construction, automotive, home appliances, packaging, transport, and energy industries. The company was founded in 1961 and is based in Luxembourg City, Luxembourg. Ternium S.A. operates as a subsidiary of Techint Holdings S.à r.l.
+fullTimeEmployees§20510
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Maximo  Vedoya', 'age': 52, 'title': 'Chief Executive Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pablo  Daniel Brizzio', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos  Polidori', 'age': 49, 'title': 'Chief Technology Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sebastián  Martí', 'title': 'Investor Relations Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando  Duelo', 'title': 'General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rodrigo  Pina', 'age': 50, 'title': 'Chief Human Resources Officer', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oscar Montero Martinez', 'age': 63, 'title': 'Chief Planning Officer', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pablo Hernán Bassi', 'age': 60, 'title': 'Chief Industrial & Engineering Officer', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marina Valeria Chiesa', 'title': 'Chief Environment, Health & Safety Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin A. Berardi', 'age': 65, 'title': 'Ternium Argentina President', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§9
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+dividendRate§2.9
+dividendYield§0.0713
+exDividendDate§1699574400
+payoutRatio§1.8
+fiveYearAvgDividendYield§4.82
+beta§1.63
+priceToSalesTrailing12Months§0.49228728
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.5
+pegRatio§6.49
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ternium S.A. Ternium S.A.
+longName§Ternium S.A.
+firstTradeDateEpochUtc§1138804200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§869036c9-d97c-3659-bc6f-1c2ccfd99a49
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§53.0
+targetLowPrice§45.0
+targetMeanPrice§48.77
+targetMedianPrice§49.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.94
+grossMargins§0.29594
+ebitdaMargins§0.24745001
+trailingPegRatio§None

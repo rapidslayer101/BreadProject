@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 16:47:14.565732
+address1§500 Rutherford Avenue
+address2§Third Floor
+city§Charlestown
+state§MA
+zip§02129
+country§United States
+phone§617 337 4680
+website§https://www.solidbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Solid Biosciences Inc., a life science company, engages in developing therapies for neuromuscular and cardiac diseases in the United States. The company's lead product candidate is SGT-003, a next-generation gene transfer candidate for the treatment of Duchenne muscular dystrophy (Duchenne); AVB-202-TT, a gene therapy program for the treatment of Friedreich's ataxia; AVB-401, a gene therapy program for the treatment of BAG3-mediated dilated cardiomyopathy; and other drugs for the treatment of undisclosed cardiac diseases. It also engages in developing platform technologies, including dual gene expression, a technology for packaging multiple transgenes into one vector, as well as novel capsids. The company has collaboration and license agreement with Ultragenyx Pharmaceutical Inc. to develop and commercialize new gene therapies for Duchenne. Solid Biosciences Inc. was incorporated in 2013 and is headquartered in Charlestown, Massachusetts.
+fullTimeEmployees§87
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian F. Smith A.C.A., C.P.A.', 'age': 57, 'title': 'Executive Chair', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 75000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander G. Cumbo', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1820760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ilan  Ganot', 'age': 49, 'title': 'Co-founder, Strategic Advisor to the CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1363292, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Tyronne Howton Jr., J.D.', 'age': 51, 'title': 'COO & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1401200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gilad David Hayeem', 'age': 55, 'title': 'Co-Founder', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Ganot', 'title': 'Co-Founder & Head of Patient Advocacy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrey Juan Zarur Ph.D.', 'age': 52, 'title': 'Co-Founder', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 90169, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Tan C.F.A.', 'age': 46, 'title': 'CFO & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen J. Di Palma M.B.A.', 'age': 64, 'title': 'Treasurer & Principal Accounting Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Herzich', 'age': 45, 'title': 'Chief Technology Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.673
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.64
+exchange§NMS
+quoteType§EQUITY
+shortName§Solid Biosciences Inc.
+longName§Solid Biosciences Inc.
+firstTradeDateEpochUtc§1516977000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§df2633a7-0b74-3fde-a30e-2e49f7e866ef
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§5.0
+targetMeanPrice§7.2
+targetMedianPrice§8.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§9.034
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

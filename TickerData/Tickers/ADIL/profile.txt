@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 06:43:09.824816
+address1§1180 Seminole Trail
+address2§Suite 495
+city§Charlottesville
+state§VA
+zip§22901
+country§United States
+phone§434 422 9800
+website§https://www.adialpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Adial Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on the development of therapeutics for the treatment or prevention of addiction and related disorders. Its lead product is AD04, a serotonin-3 antagonist, which is in Phase III clinical trial for the treatment of alcohol use disorder. The company also focuses on developing drug candidates for non-opioid pain reduction and other diseases and disorders. Adial Pharmaceuticals, Inc. was founded in 2010 and is based in Charlottesville, Virginia.
+fullTimeEmployees§16
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Cary John Claiborne MBA', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 415076, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph A. M. Truluck M.B.A., MBA', 'age': 45, 'title': 'CFO, Treasurer & Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 279700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bankole A. Johnson DSc, FRCPsych, M.D., M.Phil, Ph.D.', 'age': 63, 'title': 'Founder & Chief Medical Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 375000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John R. Martin J.D.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Lugovoy', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jack W. Reich Ph.D.', 'age': 74, 'title': 'Head of Regulatory', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 17006, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark H. Peikin', 'title': 'Chief Strategy Officer & Chief Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine  Fratila', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.315
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.45
+exchange§NCM
+quoteType§EQUITY
+shortName§Adial Pharmaceuticals, Inc
+longName§Adial Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1532698200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a144d6a7-1775-3bb1-b1ca-599a0edca1eb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§8.0
+targetMeanPrice§17.0
+targetMedianPrice§17.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.261
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 18:44:34.844523
+address1§520 Newport Center Drive
+address2§Suite 1200
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 284 4555
+website§https://www.evolus.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Evolus, Inc., a performance beauty company, provides medical aesthetic products for physicians and their patients in the United States. The company offers Jeuveau, a proprietary 900 kilodalton purified botulinum toxin type A formulation for the temporary improvement in the appearance of moderate to severe glabellar lines in adults. It serves self-pay aesthetic healthcare market. Evolus, Inc. was incorporated in 2012 and is headquartered in Newport Beach, California.
+fullTimeEmployees§246
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Moatazedi', 'age': 45, 'title': 'President, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1268066, 'exercisedValue': 0, 'unexercisedValue': 271864}, {'maxAge': 1, 'name': 'Ms. Sandra  Beaver', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 372231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rui  Avelar C.CFP, Dip.SportMed, M.D.', 'age': 61, 'title': 'Chief Medical Officer and Head of Research & Development', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 682033, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Plumer', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt  Knab', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tomoko  Yamagishi-Dressler', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Novak', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.594
+priceToSalesTrailing12Months§3.2674322
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.31
+pegRatio§-1.09
+exchange§NGM
+quoteType§EQUITY
+shortName§Evolus, Inc. Common Stock
+longName§Evolus, Inc.
+firstTradeDateEpochUtc§1518100200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§90cb1fd6-b636-380b-949e-bd8942fd419e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§10.0
+targetMeanPrice§20.71
+targetMedianPrice§22.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.425
+grossMargins§0.6987
+ebitdaMargins§-0.18982
+trailingPegRatio§None

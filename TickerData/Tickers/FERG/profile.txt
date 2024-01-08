@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 11:29:24.711689
+address1§1020 Eskdale Road
+address2§Winnersh Triangle
+city§Wokingham
+zip§RG41 5TS
+country§United Kingdom
+phone§44 11 8927 3800
+website§https://www.corporate.ferguson.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§Ferguson plc distributes plumbing and heating products in the United States and Canada. It offers plumbing and heating solutions to customers in the residential, commercial, civil/infrastructure, and industrial end markets. The company also provides expertise, solutions, and products, including infrastructure, plumbing, appliances, fire, fabrication, and others, as well as heating, ventilation, and air conditioning products under the Ferguson brand name. In addition, it supplies pipes, valves, fittings, plumbing supplies, water and wastewater treatment products, and refrigeration products under Wolseley brand name. Further, the company provides after-sales support comprising warranty, credit, project-based billing, returns, maintenance, repair, and operations support. It sells its products through wholesale distributors, supply houses, retail enterprises, and online. Ferguson plc was founded in 1953 and is headquartered in Wokingham, the United Kingdom.
+fullTimeEmployees§35000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin  Murphy', 'age': 53, 'title': 'Group CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2920041, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Brundage', 'age': 47, 'title': 'Group CFO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 1489160, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian Thomas Graham', 'age': 55, 'title': 'Chief Legal Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1313930, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Thees', 'age': 56, 'title': 'Senior Vice President of Business & Sales', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1308753, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha J. Long', 'age': 55, 'title': 'Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1317653, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard  Winckler', 'title': 'Chief Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Paisley', 'age': 55, 'title': 'Chief Digital & Information Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian C. Lantz', 'age': 60, 'title': 'Vice President IR & Communications', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Ward', 'title': 'Head of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria  Morrissey', 'age': 57, 'title': 'Chief Marketing Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§3.16
+dividendYield§0.016900001
+exDividendDate§1702512000
+payoutRatio§0.3401
+fiveYearAvgDividendYield§2.23
+beta§1.191
+priceToSalesTrailing12Months§1.2893189
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.76
+pegRatio§2.74
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ferguson plc
+longName§Ferguson plc
+firstTradeDateEpochUtc§1262701800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b0192ea-0f81-3d1f-afbe-f2993df643cf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§222.0
+targetLowPrice§106.5
+targetMeanPrice§180.42
+targetMedianPrice§187.65
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.784
+earningsGrowth§-0.106
+grossMargins§0.30277002
+ebitdaMargins§0.102060005
+trailingPegRatio§3.3637

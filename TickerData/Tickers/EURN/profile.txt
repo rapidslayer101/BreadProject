@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 14:29:14.015953
+address1§Belgica Building
+address2§De Gerlachekaai 20
+city§Antwerp
+zip§2000
+country§Belgium
+phone§32 3 247 44 11
+fax§32 3 247 44 09
+website§https://www.euronav.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Euronav NV, together with its subsidiaries, engages in the transportation and storage of crude oil worldwide. The company offers floating, storage, and offloading (FSO) services. It also owns and operates a fleet of vessels. The company was incorporated in 2003 and is headquartered in Antwerp, Belgium.
+fullTimeEmployees§2946
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hugo  De Stoop', 'age': 50, 'title': 'Senior Advisor', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1408819, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Saverys', 'age': 45, 'title': 'CEO & Member of Management Board', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ludovic  Saverys', 'age': 39, 'title': 'CFO & Member of Management Board', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 53867, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michaël  Saverys', 'title': 'Chief Chartering Officer & Member of Management Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maxime  Van Eecke', 'title': 'Chief Commercial Officer & Member of Management Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benoit Louis Marcel Timmermans', 'age': 62, 'title': 'Chief Strategy Officer & Member of Management Board', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Veronique  Raes', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rustin  Edwards', 'title': 'Head of Fuel Oil procurement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sofie  Lemlijn', 'age': 37, 'title': 'Senior Legal Counsel & Secretary General', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.17
+dividendYield§0.18010001
+exDividendDate§1702339200
+payoutRatio§0.7625
+fiveYearAvgDividendYield§6.16
+beta§-0.093
+priceToSalesTrailing12Months§2.6627977
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.15
+pegRatio§-0.51
+exchange§NYQ
+quoteType§EQUITY
+shortName§Euronav NV
+longName§Euronav NV
+firstTradeDateEpochUtc§1422282600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3bbee820-f6e5-3d5e-bb5f-0d655610d159
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§18.43
+targetMeanPrice§19.37
+targetMedianPrice§19.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§1.677
+earningsGrowth§5.962
+grossMargins§0.71211
+ebitdaMargins§0.6735
+trailingPegRatio§None

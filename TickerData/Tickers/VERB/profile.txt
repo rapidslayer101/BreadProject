@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 09:47:48.846997
+address1§3401 North Thanksgiving Way
+address2§Suite 240
+city§Lehi
+state§UT
+zip§84043
+country§United States
+phone§855 250 2300
+website§https://www.verb.tech
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Verb Technology Company, Inc. develops Software-as-a-Service applications platform. It offers verbLIVE, an interactive livestream eCommerce and shoppable video and webinar application; verbCRM, a white-labelled interactive video-based customer relationship management application; verbTEAMS, a self on-boarding version of verbCRM with built-in verbLIVE for small businesses and solo entrepreneurs; verbLEARN, an interactive video and gamified learning management system application; and verbMAIL, an interactive video mail solution integrated into Microsoft Outlook. The company provides non-digital services to enterprise clients, such as printing and fulfillment services. In addition, it offers subscription-based application services. The company serves large enterprises in the life sciences sector, professional sports franchises, and other business sectors. Verb Technology Company, Inc. was founded in 2012 and is based in Lehi, Utah.
+fullTimeEmployees§76
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rory J. Cutaia', 'age': 66, 'title': 'Founder, Chairman, President, CEO, Secretary & Treasurer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 480000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill John Rivard', 'title': 'Corporate Controller & Interim CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad J. Thomas', 'age': 51, 'title': 'Senior Managing Director of Technology Development & Engineering', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 160000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise  Kozlowski', 'title': 'Vp of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kym  Nelson', 'title': 'Chief Content Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Rizzo', 'title': 'Senior Vice President of Content & Brand Partnerships- Market', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.991
+priceToSalesTrailing12Months§0.3085337
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.5
+exchange§NCM
+quoteType§EQUITY
+shortName§Verb Technology Company, Inc.
+longName§Verb Technology Company, Inc.
+firstTradeDateEpochUtc§1416580200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9ab55524-458a-3237-8512-ccdf1e1e108f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§6.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.109
+grossMargins§0.64959
+ebitdaMargins§-2.16427
+trailingPegRatio§None

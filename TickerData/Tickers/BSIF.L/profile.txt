@@ -1,0 +1,21 @@
+# reload+after+2024-01-20 08:35:47.717330
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§BLUEFIELD SOLAR INCOME FUND LIM
+longName§Bluefield Solar Income Fund
+firstTradeDateEpochUtc§1373612400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3a082bc1-6e22-3db7-8fa4-da28ff8a4cf5
+messageBoardId§finmb_242824282
+targetHighPrice§145.0
+targetLowPrice§132.0
+targetMeanPrice§137.33
+targetMedianPrice§135.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+trailingPegRatio§None

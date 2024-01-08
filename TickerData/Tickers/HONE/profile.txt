@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 16:45:14.964581
+address1§770 Oak Street
+city§Brockton
+state§MA
+zip§02301
+country§United States
+phone§508 895 1000
+website§https://www.harborone.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§HarborOne Bancorp, Inc. operates as the holding company for HarborOne Bank that provides financial services to individuals, families, small and mid-size businesses, and municipalities. The company operates in two segments, HarborOne Bank and HarborOne Mortgage. Its primary deposit products include checking, money market, savings, and term certificate of deposit accounts; and lending products comprise commercial real estate, commercial, residential mortgages, and consumer loans. The company also originates, sells, and services residential mortgage loans. In addition, it provides a range of educational services, such as free digital content, webinars, and recordings for small business and personal financial education. The company operated through a network of full-service branches located in Massachusetts and Rhode Island, as well as commercial lending offices in each of Boston, Massachusetts, and Providence, Rhode Island. It also had administrative offices in Brockton, Massachusetts, as well as ATM locations in Massachusetts. The company was founded in 1917 and is based in Brockton, Massachusetts.
+fullTimeEmployees§529
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph F. Casey', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1252565, 'exercisedValue': 0, 'unexercisedValue': 1801440}, {'maxAge': 1, 'name': 'Ms. Brenda C. Diepold', 'age': 52, 'title': 'EVP & Chief Banking Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 477668, 'exercisedValue': 0, 'unexercisedValue': 77388}, {'maxAge': 1, 'name': 'Ms. Jean  Levesque', 'age': 55, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Roukey', 'age': 55, 'title': 'Interim Principal Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent W. Grable', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqueline  Mayo', 'title': 'Branch Administration Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea  Carinci', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Inez H. Friedman-Boyce Esq.', 'age': 57, 'title': 'Executive VP, Chief Legal Officer, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 457461, 'exercisedValue': 0, 'unexercisedValue': 29160}, {'maxAge': 1, 'name': 'Mr. David E. Tryder', 'age': 57, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Puga', 'title': 'Business Solutions and Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.0249
+exDividendDate§1704240000
+payoutRatio§0.39189997
+beta§0.734
+priceToSalesTrailing12Months§3.1922436
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.62
+exchange§NMS
+quoteType§EQUITY
+shortName§HarborOne Bancorp, Inc.
+longName§HarborOne Bancorp, Inc.
+firstTradeDateEpochUtc§1467293400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§32a8fd98-0273-3b65-a473-cb482951b0fe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+earningsGrowth§-0.346
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,33 @@
+# reload+after+2024-01-23 15:45:47.667612
+address1§One Park Place
+address2§Suite 200
+city§Dublin
+state§CA
+zip§94568
+country§United States
+phone§925 400 4366
+website§https://www.aeye.ai
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§AEye, Inc., together with its subsidiaries, provides lidar systems for vehicle autonomy, advanced driver-assistance systems, and robotic vision applications in the United States, Germany, Europe, and Asia. It offers 4Sight A, a software-configurable lidar solution for automotive markets, including 4Sight at Design, Triggered 4Sight, or Responsive 4Sight software levels; and 4Sight M, a software-configurable lidar solution for the mobility and industrial markets, including 4Sight at Design, Triggered 4Sight, Responsive 4Sight, and Predictive 4Sight software levels. The company was formerly known as US LADAR, Inc. and changed its name to AEye, Inc. in March 2016. AEye, Inc. was founded in 2013 and is headquartered in Dublin, California.
+fullTimeEmployees§160
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew S. Hughes', 'age': 57, 'title': 'General Counsel', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 385624, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Fisch', 'age': 56, 'title': 'CEO & Chairman', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Conor B. Tierney', 'age': 45, 'title': 'CFO, Principal Financial Officer & Treasurer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tirukkur R. Ramachandran', 'age': 52, 'title': 'COO & Principal Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erica  Allen', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brenda  Carrillo', 'title': 'Project Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jay  Hohauser', 'title': 'Vice President of ADAS at North America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Heath  Attia', 'title': 'Senior Field Application Engineer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§2.154
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+shortName§CF Finance Acquisition Corp. II
+longName§AEye, Inc.
+firstTradeDateEpochUtc§1610116200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d87b3674-e3b3-336e-983b-13e8bd04b938
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§3.853
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 07:44:14.135573
+address1§Building No. 2
+address2§10222 Barnes Canyon Road
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 450 6464
+website§https://www.crinetics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Crinetics Pharmaceuticals, Inc., a clinical stage pharmaceutical company, focuses on the discovery, development, and commercialization of therapeutics for endocrine diseases and endocrine-related tumors. The company's lead product candidate is Paltusotine, an oral selective nonpeptide somatostatin receptor type 2 agonist that has completed phase III clinical trial for the treatment of acromegaly, as well as completed phase II clinical trial to treat carcinoid syndrome and nonfunctional neuroendocrine tumors (NETs). It is also developing CRN04777, an oral selective nonpeptide somatostatin type 5 receptor agonist, which is in phase I clinical trial for the treatment of congenital hyperinsulinism; and CRN04894, an oral adrenocorticotrophic hormone antagonist that is in phase I clinical trial for the treatment of Cushing's and congenital adrenal hyperplasia diseases. The company was incorporated in 2008 and is headquartered in San Diego, California.
+fullTimeEmployees§210
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. R. Scott Struthers Ph.D.', 'age': 61, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 870691, 'exercisedValue': 176934, 'unexercisedValue': 6338777}, {'maxAge': 1, 'name': 'Dr. Stephen F. Betz Ph.D.', 'age': 57, 'title': 'Founder & Chief Scientific Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 618581, 'exercisedValue': 0, 'unexercisedValue': 3928797}, {'maxAge': 1, 'name': 'Mr. Marc J. C. Wilson', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 585542, 'exercisedValue': 0, 'unexercisedValue': 1920851}, {'maxAge': 1, 'name': 'Mr. James  Hassard', 'age': 57, 'title': 'Chief Commercial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 513339, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dana  Pizzuti M.D.', 'age': 67, 'title': 'Chief Development Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 493618, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff E. Knight', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 237638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Garlan  Adams', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adriana  Cabre M.B.A.', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Alan S. Krasner M.D.', 'age': 60, 'title': 'Chief Medical Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 571970, 'exercisedValue': 0, 'unexercisedValue': 819972}, {'maxAge': 1, 'name': 'Mr. Kevin  Capps', 'title': 'Head of Intellectual Property', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.515
+priceToSalesTrailing12Months§491.72882
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.45
+exchange§NMS
+quoteType§EQUITY
+shortName§Crinetics Pharmaceuticals, Inc.
+longName§Crinetics Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1531920600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8657b861-d8f0-3350-943c-fa486f0f26d0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§62.0
+targetLowPrice§35.0
+targetMeanPrice§47.67
+targetMedianPrice§48.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§13.949
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

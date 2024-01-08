@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 19:32:14.739149
+longBusinessSummary§The fund invests at least 80% of its total assets in the components that comprise the underlying index. The underlying index is composed of U.S. dollar denominated, below investment grade corporate debt that is publicly issued in the U.S. domestic and eurobond markets by non-U.S. issuers.
+maxAge§86400
+priceHint§2
+yield§0.0783
+totalAssets§132445544
+navPrice§19.52
+currency§USD
+category§High Yield Bond
+ytdReturn§-0.0030722
+beta3Year§0.38
+fundFamily§Invesco
+fundInceptionDate§1371686400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0165542
+fiveYearAverageReturn§0.026798999
+exchange§PCX
+quoteType§ETF
+shortName§Invesco Global ex-US High Yield
+longName§Invesco Global ex-US High Yield Corporate Bond ETF
+firstTradeDateEpochUtc§1371821400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§367b433d-b8b3-3df4-9fe7-f5a36b9886c5
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

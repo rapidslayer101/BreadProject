@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 06:47:56.472630
+address1§64 Sidney Street
+city§Cambridge
+state§MA
+zip§02139
+country§United States
+phone§857 259 5340
+website§https://www.voyagertherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Voyager Therapeutics, Inc., a biotechnology company, focuses on the treatment of gene therapy and neurology diseases. The company's lead clinical candidate is VY-TAU01, an anti-tau antibody program for the treatment of Alzheimer's disease. It also develops VY-FXN01 to treat Friedreich's ataxia; superoxide dismutase 1 gene silencing program for the treatment of amyotrophic lateral sclerosis; and GBA1 gene replacement program to treat Parkinson's disease. In addition, the company develops research program for the treatment of Huntington's disease. It has collaboration and license agreements with Neurocrine Biosciences, Inc.; Pfizer Inc.; and Novartis Pharma, A.G. for the research, development, and commercialization of adeno-associated virus gene therapy products. Voyager Therapeutics, Inc. was incorporated in 2013 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§125
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Alfred W. Sandrock Jr., M.D., Ph.D.', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 825414, 'exercisedValue': 0, 'unexercisedValue': 22935}, {'maxAge': 1, 'name': 'Mr. Peter P. Pfreundschuh CPA', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 172729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Krystof  Bankiewicz M.D., Ph.D.', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Guangping  Gao Ph.D.', 'title': 'Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark A. Kay M.D., Ph.D.', 'age': 64, 'title': 'Founder', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Phillip D. Zamore Ph.D.', 'title': 'Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin  Swartz', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Carter Ph.D.', 'age': 53, 'title': 'Chief Scientific Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacquelyn Fahey Sandell Esq., J.D.', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle Quinn Smith', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.997
+priceToSalesTrailing12Months§2.5783157
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.9
+exchange§NMS
+quoteType§EQUITY
+shortName§Voyager Therapeutics, Inc.
+longName§Voyager Therapeutics, Inc.
+firstTradeDateEpochUtc§1447252200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f7ecf33b-4e90-3ae3-af92-cfb97c2071f4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§11.0
+targetMeanPrice§15.5
+targetMedianPrice§16.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§4.153
+grossMargins§0.48883998
+ebitdaMargins§0.29879
+trailingPegRatio§None

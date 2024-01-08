@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 09:45:02.809985
+address1§Building 14
+address2§3992 Bluebonnet Drive
+city§Stafford
+state§TX
+zip§77477
+country§United States
+phone§832 819 3232
+website§https://greenwichlifesciences.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Greenwich LifeSciences, Inc., a clinical-stage biopharmaceutical company, focuses on the development of novel cancer immunotherapies for breast cancer and other HER2/neu-expressing cancers. Its lead product candidate is the GP2, an immunotherapy, which is in Phase III clinical trial to prevent breast cancer recurrences in patients who have previously undergone surgery. The company was formerly known as Norwell, Inc. and changed its name to Greenwich LifeSciences, Inc. in March 2018. Greenwich LifeSciences, Inc. was incorporated in 2006 and is headquartered in Stafford, Texas.
+fullTimeEmployees§3
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Snehal S. Patel', 'age': 60, 'title': 'CEO, CFO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1009375, 'exercisedValue': 0, 'unexercisedValue': 198478}, {'maxAge': 1, 'name': 'Mr. Eric  Rothe', 'age': 48, 'title': 'Founder & Independent Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Frank Joseph Daugherty M.D.', 'age': 73, 'title': 'Chief Medical Officer & Director', 'yearBorn': 1950, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jaye L. Thompson Ph.D.', 'age': 57, 'title': 'Vice President Clinical & Regulatory Affairs', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christine T. Fischette Ph.D.', 'age': 72, 'title': 'VP of Business Development', 'yearBorn': 1951, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.071
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.7
+exchange§NCM
+quoteType§EQUITY
+shortName§Greenwich LifeSciences, Inc.
+longName§Greenwich LifeSciences, Inc.
+firstTradeDateEpochUtc§1601040600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4e2e7791-071b-3035-8903-9649195950f2
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§30.757
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

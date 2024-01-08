@@ -1,0 +1,37 @@
+# reload+after+2024-01-23 15:46:37.859272
+address1§2370 Corporate Circle
+address2§Suite 300
+city§Henderson
+state§NV
+zip§89074
+country§United States
+phone§702 910 3950
+website§https://p3hp.org
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§P3 Health Partners Inc., a patient-centered and physician-led population health management company, provides superior care services in the United States. It operates clinics and wellness centers. The company is based in Henderson, Nevada.
+fullTimeEmployees§600
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Sherif  Abdou F.A.C.E.P., FACP, M.D.', 'age': 62, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 7100000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Amir  Bacchus M.B.A., M.D.', 'age': 58, 'title': 'Co-Founder, Chief Medical Officer & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4300000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Atul  Kavthekar', 'title': 'CFO & Chief Accounting Officer', 'fiscalYear': 2022, 'totalPay': 342391, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Bettermann', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Devery  Goodey', 'title': 'Senior Vice President of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Blomquist', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Puathasnanon', 'title': 'Chief Legal Officer, General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Roy  Youngblood', 'title': 'Director of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kassi  Belz APR', 'title': 'Executive Vice President of Communications, Culture & Engagement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Lefkowitz MHA', 'title': 'Chief Managed Care Officer', 'fiscalYear': 2022, 'totalPay': 499470, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§1.151
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+longName§P3 Health Partners Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b9b11a09-2ac0-3b83-ba83-583eaf04b5a9
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.643
+grossMargins§0.03523
+ebitdaMargins§-0.07614
+trailingPegRatio§None

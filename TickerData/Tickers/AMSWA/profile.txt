@@ -1,0 +1,54 @@
+# reload+after+2024-01-19 21:43:20.662883
+address1§470 East Paces Ferry Road, NE
+city§Atlanta
+state§GA
+zip§30305
+country§United States
+phone§404 261 4381
+website§https://www.amsoftware.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§American Software, Inc. develops, markets, and supports a range of computer business application software products in the United States and internationally. It operates through Supply Chain Management (SCM), Information Technology Consulting (IT Consulting), and Other segments. The SCM segment leverages a single platform spanning eight supply chain process areas including product, demand, inventory, network optimization supply, deploy aligned with integrated business planning and supply chain data management. The IT Consulting segment offers IT staffing and consulting services firm. Other segment provides purchasing and materials management, client order processing, financial, e-commerce, and traditional manufacturing software and services. In addition, it offers ongoing support and maintenance services; cloud hosting and managed services; and implementation and training services. The company markets its products through direct and indirect sales channels to the apparel and other soft goods, food and beverage, consumer packaged goods, consumer durable goods, wholesale distribution, specialty chemicals, and other process manufacturing industries. American Software, Inc. was incorporated in 1970 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§339
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Clyde Edenfield', 'age': 88, 'title': 'Co-Founder, Executive Chairman & Treasurer', 'yearBorn': 1935, 'fiscalYear': 2023, 'totalPay': 678528, 'exercisedValue': 140106, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. H. Allan Dow', 'age': 59, 'title': 'CEO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1162852, 'exercisedValue': 290028, 'unexercisedValue': 15698}, {'maxAge': 1, 'name': 'Mr. Vincent C. Klinges', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 502028, 'exercisedValue': 131964, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith  Charron', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan L. Sell', 'title': 'Controller & Principal Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn  Reynolds', 'title': 'Executive Vice President of Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  McInturff', 'title': 'Executive Vice President of Research & Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Price', 'title': 'Senior Vice President of Alliance Partners & Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James R. McGuone', 'age': 76, 'title': 'Corporate Secretary', 'yearBorn': 1947, 'fiscalYear': 2023, 'totalPay': 221331, 'exercisedValue': 0, 'unexercisedValue': 39764}]
+auditRisk§8
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.44
+dividendYield§0.0399
+exDividendDate§1706745600
+payoutRatio§1.4667
+fiveYearAvgDividendYield§2.86
+beta§0.714
+priceToSalesTrailing12Months§3.1068053
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.4
+pegRatio§2.02
+exchange§NMS
+quoteType§EQUITY
+shortName§American Software, Inc.
+longName§American Software, Inc.
+firstTradeDateEpochUtc§415290600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5bfd52e9-af83-3d5a-88c5-555889657fd2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§14.0
+targetMeanPrice§15.33
+targetMedianPrice§16.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§2.153
+earningsGrowth§0.111
+grossMargins§0.59149
+ebitdaMargins§0.09415
+trailingPegRatio§None

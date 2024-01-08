@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 09:31:46.118778
+address1§333 West Wacker Drive
+city§Chicago
+state§IL
+zip§60606-1220
+country§United States
+phone§312 917 7700
+website§https://www.nuveen.com/CEF/Product/Overview.aspx?fundcode=NPV
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Nuveen Virginia Quality Municipal Income Fund is a closed ended fixed income mutual fund launched by Nuveen Investments, Inc. The fund is co-managed by Nuveen Fund Advisors LLC and Nuveen Asset Management, LLC. It invests in the fixed income markets of Virginia. The fund invests primarily in municipal securities rated Baa/BBB or better. It invests in securities that provide income exempt from federal and Virginia income tax. The fund employs fundamental analysis with bottom-up stock picking approach to create its portfolio. It benchmarks the performance of its portfolio against the S&P National Municipal Bond Index and the S&P Virginia Municipal Bond Index. The fund was formerly known as Nuveen Virginia Premium Income Municipal Fund. Nuveen Virginia Quality Municipal Income Fund was formed on January 12, 1993 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Margaret Eileen Wilson', 'age': 67, 'title': 'Senior Vice President Finance of Nuveen Asset Management - Adviser', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Spalding Jr., C.F.A.', 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen J. Candido C.F.A., CFA', 'title': 'Fund Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.44
+dividendYield§0.040599998
+exDividendDate§1704931200
+payoutRatio§0.8687
+fiveYearAvgDividendYield§4.03
+beta§0.593
+priceToSalesTrailing12Months§12.919446
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nuveen Virginia Quality Municip
+longName§Nuveen Virginia Quality Municipal Income Fund
+firstTradeDateEpochUtc§732465000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bd620192-6845-30b3-aacd-91b8da96e23b
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.43
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,56 @@
+# reload+after+2024-01-21 13:30:11.701698
+address1§150 Fayetteville Street
+address2§Suite 1400
+city§Raleigh
+state§NC
+zip§27601
+country§United States
+phone§919 872 4924
+fax§919 431 1439
+website§https://www.highwoods.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Highwoods Properties, Inc., headquartered in Raleigh, is a publicly-traded (NYSE:HIW), fully-integrated office real estate investment trust ("REIT") that owns, develops, acquires, leases and manages properties primarily in the best business districts (BBDs) of Atlanta, Charlotte, Dallas, Nashville, Orlando, Raleigh, Richmond and Tampa. Highwoods is in the work-placemaking business. We believe that by creating environments and experiences where the best and brightest can achieve together what they cannot apart, we can deliver greater value to our customers, their teammates and, in turn, our stakeholders.
+fullTimeEmployees§345
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Theodore J. Klinck', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2358726, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan C. Maiorana', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1138472, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian M. Leary', 'age': 48, 'title': 'Executive VP  & COO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1147550, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Miller', 'age': 52, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 775168, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carman J. Liuzzo', 'age': 62, 'title': 'Senior Vice President of Investments', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 398614, 'exercisedValue': 0, 'unexercisedValue': 936729}, {'maxAge': 1, 'name': 'Mr. Daniel L. Clemmens CPA', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Hunt', 'age': 46, 'title': 'VP & Chief Information Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas S. Hill III', 'title': 'Senior VP & Raleigh Market Leader', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven J. Garrity', 'title': 'Senior VP & Orlando Market Leader', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Starchville', 'age': 62, 'title': 'Senior Vice President of Asset Management', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0868
+exDividendDate§1700179200
+payoutRatio§1.5503999
+fiveYearAvgDividendYield§5.65
+beta§1.243
+priceToSalesTrailing12Months§2.9592476
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.7
+pegRatio§2.28
+exchange§NYQ
+quoteType§EQUITY
+shortName§Highwoods Properties, Inc.
+longName§Highwoods Properties, Inc.
+firstTradeDateEpochUtc§771082200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2755f89b-da36-33fc-998a-bfdc7fef7cdf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§18.0
+targetMeanPrice§21.78
+targetMedianPrice§22.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§1.218
+earningsGrowth§-0.425
+grossMargins§0.68033
+ebitdaMargins§0.57857
+trailingPegRatio§None

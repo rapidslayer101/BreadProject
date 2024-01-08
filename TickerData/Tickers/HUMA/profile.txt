@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 20:45:18.582486
+address1§2525 East North Carolina Highway 54
+city§Durham
+state§NC
+zip§27713
+country§United States
+phone§919 313 9633
+website§https://www.humacyte.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Humacyte, Inc. engages in the development and manufacture of off-the-shelf, implantable, and bioengineered human tissues for the treatment of diseases and conditions across a range of anatomic locations in multiple therapeutic areas. The company using its proprietary and scientific technology platform to engineer and manufacture human acellular vessels (HAVs). Its investigational HAVs are designed to be easily implanted into any patient without inducing a foreign body response or leading to immune rejection. The company is developing a portfolio of HAVs, which would target the vascular repair, reconstruction, and replacement market, including vascular trauma; arteriovenous access for hemodialysis; peripheral arterial disease; and coronary artery bypass grafting, as well as developing its HAVs for pediatric heart surgery and cellular therapy delivery, including pancreatic islet cell transplantation to treat Type 1 diabetes. The company was founded in 2004 and is headquartered in Durham, North Carolina.
+fullTimeEmployees§164
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Laura E. Niklason M.D., Ph.D.', 'age': 60, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 717848, 'exercisedValue': 0, 'unexercisedValue': 241588}, {'maxAge': 1, 'name': 'Mr. Dale A. Sander', 'age': 63, 'title': 'CFO, Chief Corporate Development Officer & Treasurer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 667449, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shamik J. Parikh M.D.', 'age': 50, 'title': 'Chief Medical Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 514719, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Juliana L. Blum Ph.D.', 'title': 'Co-Founder & Executive Advisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Heather Ledbetter Prichard Ph.D.', 'age': 45, 'title': 'Chief Operating Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 576436, 'exercisedValue': 0, 'unexercisedValue': 998780}, {'maxAge': 1, 'name': 'Ms. Sabrina  Osborne', 'title': 'Executive Vice President of Business Strategy & People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William John Scheessele', 'age': 51, 'title': 'Chief Commercial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harold  Alterson', 'title': 'Senior Vice President of Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yang  Cao M.D., Ph.D.', 'age': 57, 'title': 'Chief Regulatory Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.389
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.95
+exchange§NMS
+quoteType§EQUITY
+shortName§Humacyte, Inc.
+longName§Humacyte, Inc.
+firstTradeDateEpochUtc§1606833000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bb940349-63c0-3d15-9ca4-a6ea35181ed8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§3.0
+targetMeanPrice§7.0
+targetMedianPrice§6.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§6.605
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

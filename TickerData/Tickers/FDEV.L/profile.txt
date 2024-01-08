@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 08:37:56.385890
+address1§26 Science Park
+address2§Milton Road
+city§Cambridge
+zip§CB4 0FP
+country§United Kingdom
+website§https://www.frontier.co.uk
+industry§Electronic Gaming & Multimedia
+sector§Communication Services
+longBusinessSummary§Frontier Developments plc develops and publishes video games for interactive entertainment sector. The company develops games using its cross-platform technology, Cobra. It also publishes games developed by selected partner studios under its Frontier Foundry games label. The company was incorporated in 1994 and is headquartered in Cambridge, the United Kingdom.
+fullTimeEmployees§915
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan Francis Watts', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 380000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David John Braben O.B.E.', 'age': 59, 'title': 'Founder, President & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 305000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander Peter Bevis', 'age': 47, 'title': 'CFO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 304000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Dixon', 'title': 'COO & Executive Director', 'fiscalYear': 2023, 'totalPay': 302880, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica Elizabeth Bourne', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yvonne  Dawes', 'title': 'Head of HR', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.051
+priceToSalesTrailing12Months§0.49535945
+currency§GBp
+forwardEps§-7.76
+pegRatio§0.08
+exchange§LSE
+quoteType§EQUITY
+shortName§FRONTIER DEVELOPMENTS PLC ORD 0
+longName§Frontier Developments plc
+firstTradeDateEpochUtc§1373871600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8dc26ac6-022a-391a-89c3-e9564290af44
+targetHighPrice§875.0
+targetLowPrice§120.0
+targetMeanPrice§257.5
+targetMedianPrice§170.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§2.196
+grossMargins§0.64399004
+ebitdaMargins§-0.04625
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 02:47:43.964162
+address1§1000 Remington Boulevard
+address2§Suite 120
+city§Bolingbrook
+state§IL
+zip§60440
+country§United States
+phone§630 410 4800
+website§https://www.ulta.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Ulta Beauty, Inc. operate specialty retail stores selling cosmetics, fragrance, haircare and skincare products, and related accessories and services in the United States. It offers broad assortment of branded and private label beauty products including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and salon styling tools; and salon services, including hair, skin, makeup, and brow services, as well as nail services. The company's private label products comprises Ulta Beauty Collection branded cosmetics, skincare, and bath products, as well as Ulta Beauty branded products; and the Ulta Beauty branded gifts. It also distributes its products through its stores, website, and mobile applications. The company was incorporated in 1990 and is based in Bolingbrook, Illinois.
+fullTimeEmployees§18500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David C. Kimbell', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 5689091, 'exercisedValue': 7022836, 'unexercisedValue': 12781934}, {'maxAge': 1, 'name': 'Ms. Kecia L. Steelman', 'age': 52, 'title': 'President & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 3361391, 'exercisedValue': 3912192, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott M. Settersten', 'age': 63, 'title': 'CFO, Treasurer & Assistant Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2364969, 'exercisedValue': 6064246, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodi J. Caro', 'age': 57, 'title': 'General Counsel, Chief Risk & Compliance Officer, Chief Privacy Officer and Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1475995, 'exercisedValue': 1835395, 'unexercisedValue': 527466}, {'maxAge': 1, 'name': 'Ms. Anita J. Ryan', 'age': 59, 'title': 'Chief Human Resources Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1381253, 'exercisedValue': 158052, 'unexercisedValue': 679571}, {'maxAge': 1, 'name': 'Mr. Mike  Maresca', 'title': 'Chief Technology & Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kiley F. Rawlins', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eileen  Ziesemer', 'title': 'Vice President of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Crossan', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Prama  Bhatt', 'age': 53, 'title': 'Chief Digital Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1331856000
+payoutRatio§0.0
+beta§1.344
+priceToSalesTrailing12Months§2.1028273
+currency§USD
+dateShortInterest§1702598400
+forwardEps§26.91
+pegRatio§2.8
+exchange§NMS
+quoteType§EQUITY
+shortName§Ulta Beauty, Inc.
+longName§Ulta Beauty, Inc.
+firstTradeDateEpochUtc§1193319000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bb6011bf-c32c-3377-b48d-d3d3affbbc53
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§635.0
+targetLowPrice§400.0
+targetMeanPrice§538.09
+targetMedianPrice§535.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§0.177
+earningsGrowth§-0.051
+grossMargins§0.4282
+ebitdaMargins§0.16986
+trailingPegRatio§1.8434

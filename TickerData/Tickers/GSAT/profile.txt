@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 19:30:01.635557
+address1§1351 Holiday Square Boulevard
+city§Covington
+state§LA
+zip§70433
+country§United States
+phone§985 335 1500
+website§https://www.globalstar.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Globalstar, Inc. provides mobile satellite services worldwide. The company offers duplex two-way voice and data products, including mobile voice and data satellite communications services and equipment for remote business continuity, recreational usage, safety, emergency preparedness and response, and other applications. It also provides one-way or two-way communications and data transmissions using mobile devices, including the SPOT family of products, such as SPOT X, SPOT Gen4, and SPOT Trace that transmit messages and the location of the device; commercial Internet of Things transmission products to track cargo containers and rail cars, as well as to monitor utility meters, and oil and gas assets; small satellite transmitter modules, such as the STX-3, ST-150 and ST100, and chips that enable an integrator's products to access company's network; and engineering and other communication services using MSS and terrestrial spectrum licenses, as well as undertakes installation of gateways and antennas. The company distributes its products through retailers, sales force, and e-commerce website. Globalstar, Inc. serves recreation and personal, government, public safety and disaster relief, oil and gas, maritime and fishing, construction, utilities, and transportation, as well as natural resources, mining, and forestry markets. The company was founded in 1993 and is headquartered in Covington, Louisiana.
+fullTimeEmployees§332
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James  Monroe III', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca S. Clary', 'age': 44, 'title': 'VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 345661, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L. Barbee Ponder IV', 'age': 56, 'title': 'General Counsel & VP of Regulatory Affairs', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 353614, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Evan Taylor', 'age': 40, 'title': 'VP of Finance, Business Operations & Strategy and Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul E. Jacobs Ph.D.', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen  Doong', 'title': 'Senior Vice President of Engineering & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew S. Grob', 'age': 57, 'title': 'Chief Technology Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Black', 'title': 'Chief Scientist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Seese II', 'title': 'Vice President of Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle  Pickens CFA', 'title': 'Vice President of Strategy & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.812
+priceToSalesTrailing12Months§18.133095
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.0
+pegRatio§-12.73
+exchange§ASE
+quoteType§EQUITY
+shortName§Globalstar, Inc.
+longName§Globalstar, Inc.
+firstTradeDateEpochUtc§1162477800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7e2b86b7-617d-3bf0-817f-8ca5531e97a4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.77
+targetLowPrice§0.99
+targetMeanPrice§4.13
+targetMedianPrice§3.88
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.581
+grossMargins§0.69018996
+ebitdaMargins§0.41548002
+trailingPegRatio§None

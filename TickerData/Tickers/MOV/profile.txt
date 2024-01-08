@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 01:31:26.045085
+address1§650 From Road
+address2§Suite 375
+city§Paramus
+state§NJ
+zip§07652-3556
+country§United States
+phone§201 267 8000
+website§https://www.movadogroup.com
+industry§Luxury Goods
+sector§Consumer Cyclical
+longBusinessSummary§Movado Group, Inc. designs, sources, markets, and distributes watches worldwide. The company operates in two segments, Watch and Accessory Brands, and Company Stores. It offers its watches under the Movado, Concord, Ebel, Olivia Burton, and MVMT brands, as well as licensed brands, such as Coach, Tommy Hilfiger, HUGO BOSS, Lacoste, and Calvin Klein. The company also provides after-sales and shipping services. Its customers include jewelry store chains, department stores, independent regional jewelers, network of independent distributors, online marketplaces, licensors' retail stores, and third-party e-commerce retailers. The company also sells directly to consumers through its e-commerce platforms. Movado Group, Inc. was formerly known as North American Watch Corporation and changed its name to Movado Group, Inc. in 1996. The company was founded in 1961 and is based in Paramus, New Jersey.
+fullTimeEmployees§992
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Efraim  Grinberg', 'age': 65, 'title': 'Chairman & CEO', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 3187877, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sallie A. DeMarsilis', 'age': 58, 'title': 'Executive VP, COO & CFO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1157608, 'exercisedValue': 0, 'unexercisedValue': 293576}, {'maxAge': 1, 'name': 'Mr. Behzad  Soltani', 'age': 51, 'title': 'Executive VP, Commercial President & Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1032754, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell C. Sussis', 'age': 58, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 598185, 'exercisedValue': 0, 'unexercisedValue': 120003}, {'maxAge': 1, 'name': 'Linda  Feeney', 'title': 'Senior VP & Principal Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephane  Gerschel', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Kennedy', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Grinberg', 'age': 60, 'title': 'Senior VP of Customer Experience & Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margot  Grinberg', 'title': 'President of the Movado Brand & Senior VP of E-Commerce', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis Anthony Morelli', 'age': 72, 'title': 'Senior Vice President of Global Information Technology & Operations', 'yearBorn': 1951, 'fiscalYear': 2023, 'totalPay': 553231, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.0476
+exDividendDate§1702252800
+payoutRatio§0.5534
+fiveYearAvgDividendYield§3.38
+beta§1.136
+priceToSalesTrailing12Months§0.9458442
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.06
+pegRatio§1.01
+exchange§NYQ
+quoteType§EQUITY
+shortName§Movado Group Inc.
+longName§Movado Group, Inc.
+firstTradeDateEpochUtc§749395800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§17b32100-aef1-3c19-a70b-e7fd58bc85df
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§41.0
+targetMeanPrice§41.0
+targetMedianPrice§41.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§2.753
+earningsGrowth§-0.398
+grossMargins§0.55711
+ebitdaMargins§0.110810004
+trailingPegRatio§None

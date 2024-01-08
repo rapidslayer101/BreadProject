@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 07:30:54.568140
+longBusinessSummary§In seeking to track the performance of the S&P Insurance Select Industry Index (the "index"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the insurance segment of the S&P Total Market Index ("S&P TMI").
+maxAge§86400
+priceHint§2
+yield§0.0145000005
+totalAssets§709476480
+navPrice§45.78567
+currency§USD
+category§Financial
+ytdReturn§0.0121628
+beta3Year§0.72
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1131408000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.1390128
+fiveYearAverageReturn§0.119763605
+exchange§PCX
+quoteType§ETF
+shortName§SPDR S&P Insurance ETF
+longName§SPDR S&P Insurance ETF
+firstTradeDateEpochUtc§1132065000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d650310a-006e-39fd-9149-93206379aff7
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

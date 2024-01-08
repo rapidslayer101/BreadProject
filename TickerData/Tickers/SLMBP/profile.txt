@@ -1,0 +1,45 @@
+# reload+after+2024-01-21 11:47:15.051540
+address1§300 Continental Drive
+city§Newark
+state§DE
+zip§19713
+country§United States
+phone§302 451 0200
+website§https://www.salliemae.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§SLM Corporation, through its subsidiaries, originates and services private education loans to students and their families to finance the cost of their education in the United States. It also offers retail deposit accounts, including certificates of deposit, money market deposit accounts, and high-yield savings accounts; and interest-bearing omnibus accounts. The company was formerly known as New BLC Corporation and changed its name to SLM Corporation in December 2013. SLM Corporation was founded in 1972 and is headquartered in Newark, Delaware.
+fullTimeEmployees§1700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan W. Witter', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2435482, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerri A. Palmer', 'age': 52, 'title': 'Executive VP & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1513975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Donna F. Vieira', 'age': 58, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1184777, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter M. Graham', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Bronaugh CPA', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas  Jafarieh', 'age': 48, 'title': 'Executive VP and Chief Legal, Government Affairs & Communications Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 856300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Wolf', 'age': 57, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Munish  Pahwa', 'title': 'Executive VP, Chief Risk Officer & Chief Credit Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan R. Boyles', 'age': 56, 'title': 'Senior VP & Controller', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard M. Nelson', 'title': 'Senior VP, Chief Regulatory Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§7.01
+dividendYield§0.1038
+exDividendDate§1701388800
+fiveYearAvgDividendYield§6.41
+beta§1.248
+priceToSalesTrailing12Months§4.08278
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§SLM Corporation - Floating Rate
+longName§SLM Corporation
+firstTradeDateEpochUtc§1121088600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3c933454-d51b-3405-91fe-125538fd0f8b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.224
+earningsGrowth§-0.622
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

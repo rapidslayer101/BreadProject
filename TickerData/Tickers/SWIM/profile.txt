@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 22:47:27.161801
+address1§787 Watervliet Shaker Road
+city§Latham
+state§NY
+zip§12110
+country§United States
+phone§800 833 3800
+website§https://www.lathampool.com
+industry§Building Products & Equipment
+sector§Industrials
+longBusinessSummary§Latham Group, Inc. designs, manufactures, and markets in-ground residential swimming pools in North America, Australia, and New Zealand. It offers a portfolio of pools and related products, including in-ground swimming pools that include fiber glass and packaged pools; and pool covers and liners under the Latham, Narellan, CoverStar, and GLI brand names. The company was formerly known as Latham Topco, Inc. and changed its name to Latham Group, Inc. in March 2021. Latham Group, Inc. was founded in 1956 and is headquartered in Latham, New York.
+fullTimeEmployees§2000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott M. Rajeski', 'age': 56, 'title': 'CEO, President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 537700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanjeev  Bahl', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 364808, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver Carsten Gloe', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kaushal B. Dhruv', 'age': 47, 'title': 'Chief Information Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick M. Sheller', 'age': 61, 'title': 'General Counsel & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa C. Feck', 'age': 51, 'title': 'Chief Human Resources Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua D. Cowley', 'age': 46, 'title': 'Chief Commercial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Suraj  Kunchala', 'age': 47, 'title': 'VP & Controller', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.363
+priceToSalesTrailing12Months§0.47786406
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.15
+pegRatio§-5.18
+exchange§NMS
+quoteType§EQUITY
+shortName§Latham Group, Inc.
+longName§Latham Group, Inc.
+firstTradeDateEpochUtc§1619184600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§03b8271f-eadf-3d6d-8669-b00982853848
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§2.25
+targetMeanPrice§3.63
+targetMedianPrice§3.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.776
+earningsGrowth§-0.5
+grossMargins§0.2589
+ebitdaMargins§0.07517
+trailingPegRatio§None

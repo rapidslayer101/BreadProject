@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 03:33:38.989747
+address1§45 Glover Avenue
+address2§4th Floor
+city§Norwalk
+state§CT
+zip§06850
+country§United States
+phone§203 222 7170
+website§https://www.terex.com
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§Terex Corporation manufactures and sells aerial work platforms and materials processing machinery worldwide. It operates in two segments, Aerial Work Platforms (AWP) and Materials Processing (MP). The AWP segment designs, manufactures, services, and markets aerial work platform equipment, utility equipment, and telehandlers under the Terex and Genie brands. Its products comprise portable material lifts, portable aerial work platforms, trailer-mounted articulating booms, self-propelled articulating and telescopic booms, and scissor lifts, as well as related components and replacement parts for construction and maintenance of industrial, commercial, institutional, and residential buildings and facilities, utility and telecommunication lines, construction and foundation drilling applications, and other commercial operations, as well as in tree trimming and various infrastructure projects. The MP segment's materials processing and specialty equipment includes crushers, washing systems, screens, trommels, apron feeders, material handlers, pick and carry cranes, rough terrain cranes, tower cranes, wood processing, biomass and recycling equipment, concrete mixer trucks and concrete pavers, conveyors, and related components and replacement parts under the Terex, Powerscreen, Fuchs, EvoQuip, Canica, Cedarapids, CBI, Simplicity, Franna, Terex Ecotec, Finlay, ProAll, ZenRobotics, Terex Washing Systems, Terex MPS, Terex Jaques, Terex Advance, ProStack, Terex Bid-Well, MDS, and Terex Recycling Systems brand names and business lines. Its products are used in construction, infrastructure, and recycling projects; quarrying and mining, and material handling applications; maintenance applications to lift equipment or material; and landscaping and biomass production industries. The company offers financing solutions to assist customers in the rental, leasing, and acquisition of its products.Terex Corporation is based in Norwalk, Connecticut.
+fullTimeEmployees§9300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Simon A. Meester', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1051900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie A. Beck CPA', 'age': 61, 'title': 'Senior VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1298497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott J. Posner', 'age': 48, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1062107, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kieran  Hegarty', 'age': 56, 'title': 'President of Terex Materials Processing', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1115671, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John L. Garrison Jr.', 'age': 62, 'title': 'Consultant', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 3821685, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen A. Johnston', 'age': 43, 'title': 'Chief Accounting Officer, VP & Controller', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paretosh  Misra C.F.A., Ph.D.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey  Babson Kaplan', 'title': 'Senior VP, Chief Sustainability, Ethics & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Randy S. Williamson', 'title': 'Senior VP of Corporate Development & Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy J. George', 'age': 61, 'title': 'Senior VP of Human Resources & Chief Human Resources Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1059049, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0111
+exDividendDate§1699401600
+payoutRatio§0.0855
+fiveYearAvgDividendYield§1.27
+beta§1.663
+priceToSalesTrailing12Months§0.75061107
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.12
+pegRatio§0.79
+exchange§NYQ
+quoteType§EQUITY
+shortName§Terex Corporation
+longName§Terex Corporation
+firstTradeDateEpochUtc§322324200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9ed6f50f-63c3-3f10-af03-6468321d142b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§50.0
+targetMeanPrice§59.42
+targetMedianPrice§59.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.939
+earningsGrowth§0.458
+grossMargins§0.22336
+ebitdaMargins§0.13357
+trailingPegRatio§0.9158

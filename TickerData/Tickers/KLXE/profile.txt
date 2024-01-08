@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 11:45:39.393870
+address1§3040 Post Oak Boulevard
+address2§15th Floor
+city§Houston
+state§TX
+zip§77056
+country§United States
+phone§832 844 1015
+website§https://www.klxenergy.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§KLX Energy Services Holdings, Inc. provides drilling, completions, production, and well intervention services and products to the onshore oil and gas producing regions of the United States. The company operates through three segments: Southwest, Rocky Mountains, and Northeast/Mid-Con. It provides directional drilling services; and downhole navigational and rental tools businesses and support services, including well planning, site supervision, accommodation rentals, and other drilling rentals. The company also offers coiled tubing and nitrogen services; pressure control products and services; wellhead and hydraulic fracturing rental products and services; flowback and testing services; and wireline services. In addition, it offers toe sleeves; wet shoe cementing bypass subs; composite plugs; dissolvable plugs; liner hangers; stage cementing tools, inflatables, float and casing equipment; retrievable completion tools; cementing products and services; thru-tubing technologies and services; rig assist snubbing services; and acidizing and pressure pumping services. Further, the company provides production services comprising maintenance-related intervention services; production blow out preventers; mechanical wireline services; slick line services; hydro-testing services; premium tubulars; and other specialized production tools. It also provides intervention services consisting of technicians and equipment that are focused on providing customers engineered solutions to downhole complications. KLX Energy Services Holdings, Inc. was incorporated in 2018 and is headquartered in Houston, Texas.
+fullTimeEmployees§1779
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher J. Baker', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 4073503, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keefer M. Lehner', 'age': 37, 'title': 'Executive VP & CFO', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 2087912, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max L. Bouthillette', 'age': 54, 'title': 'Executive VP, General Counsel, Chief Compliance Officer & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1851617, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey C. Stanford', 'age': 55, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.208
+priceToSalesTrailing12Months§0.20171712
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.62
+exchange§NMS
+quoteType§EQUITY
+shortName§KLX Energy Services Holdings, I
+longName§KLX Energy Services Holdings, Inc.
+firstTradeDateEpochUtc§1535549400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§924890c7-8dc5-30b8-b564-4f50ffc16fbd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§13.0
+targetMeanPrice§18.33
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.61
+earningsGrowth§-0.51
+grossMargins§0.25123
+ebitdaMargins§0.15597
+trailingPegRatio§0.4343

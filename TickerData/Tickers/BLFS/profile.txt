@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 23:43:42.641876
+address1§3303 Monte Villa Parkway
+address2§Suite 310
+city§Bothell
+state§WA
+zip§98021
+country§United States
+phone§425 402 1400
+fax§425 402 1433
+website§https://www.biolifesolutions.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§BioLife Solutions, Inc. develops, manufactures, and supplies bioproduction tools and services for the cell and gene therapy industry in the United States, Canada, Europe, the Middle East, Africa, and internationally. The company's products are used in the basic and applied research, and commercial manufacturing of biologic-based therapies. It offers proprietary biopreservation media products, including HypoThermosol FRS and CryoStor that are formulated to mitigate preservation-induced, delayed-onset cell damage and death; and the ThawSTAR line that includes automated vial and cryobag thawing products that control the heat and timing of the thawing process of biologic materials. The company also provides evo shipping containers that are cloud-connected passive storage and transport containers for temperature-sensitive biologics and pharmaceuticals; ultra-low temperature mechanical freezers; liquid nitrogen laboratory freezers, cryogenic equipment, and accessories; and biological and pharmaceutical storage services. It markets and sells its products directly, as well as through third party distributors. BioLife Solutions, Inc. was incorporated in 1987 and is headquartered in Bothell, Washington.
+fullTimeEmployees§466
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Roderick  de Greef', 'age': 63, 'title': 'CEO & Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 635850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Troy  Wichterman', 'age': 38, 'title': 'Chief Financial Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 508888, 'exercisedValue': 0, 'unexercisedValue': 15139}, {'maxAge': 1, 'name': 'Dr. Aby J. Mathew Ph.D.', 'age': 51, 'title': 'Chairman of Scientific Advisory Board, Executive VP & Chief Scientific Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 543460, 'exercisedValue': 1102618, 'unexercisedValue': 3066600}, {'maxAge': 1, 'name': 'Mr. Michael P. Rice', 'age': 60, 'title': 'Consultant', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1025550, 'exercisedValue': 2679661, 'unexercisedValue': 978000}, {'maxAge': 1, 'name': 'Ms. Karen  Foster', 'age': 63, 'title': 'Chief Quality Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 452952, 'exercisedValue': 0, 'unexercisedValue': 1630000}, {'maxAge': 1, 'name': 'Mr. Geraint  Phillips', 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Berard', 'age': 54, 'title': 'Chief Marketing Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 286490, 'exercisedValue': 0, 'unexercisedValue': 6976944}, {'maxAge': 1, 'name': 'Ms. Sarah  Aebersold J.D.', 'age': 46, 'title': 'Chief Human Resources Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garrie  Richardson B.Sc., M.B.A.', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.741
+priceToSalesTrailing12Months§4.554309
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.0
+pegRatio§-1.0
+exchange§NCM
+quoteType§EQUITY
+shortName§BioLife Solutions, Inc.
+longName§BioLife Solutions, Inc.
+firstTradeDateEpochUtc§627748200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§58d7872b-3526-33db-9a35-a3add74a3117
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§15.0
+targetMeanPrice§22.57
+targetMedianPrice§21.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.539
+grossMargins§0.33414
+ebitdaMargins§-0.26367
+trailingPegRatio§None

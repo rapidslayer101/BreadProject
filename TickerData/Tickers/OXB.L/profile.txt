@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 23:40:01.662753
+address1§Windrush Court
+address2§Transport Way
+city§Oxford
+zip§OX4 6LT
+country§United Kingdom
+phone§44 1865 783 000
+website§https://www.oxb.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Oxford Biomedica plc, a contract development and manufacturing organization, focuses on delivering therapies to patients worldwide. Its s LentiVector platform technology is an advanced lentiviral vector based gene delivery system which is designed to overcome the safety and delivery problems associated with earlier generations of vector systems. The company operates in two segments, Platform and Product. The Platform segment engages in bioprocessing and process development activities for third parties. The Product segment is involved in the research and development of new gene therapeutic product candidates. The company collaborates with pharmaceutical and biotechnology companies providing viral vector development and manufacturing services in lentivirus, adeno-associated virus, and adenoviral vectors. The company was formerly known as Pinco 838 Limited and changed its name to Oxford Biomedica plc in October 1996. Oxford Biomedica plc was incorporated in 1996 and is headquartered in Oxford, the United Kingdom.
+fullTimeEmployees§891
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stuart  Paynter', 'age': 50, 'title': 'CFO, Company Secretary & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 832000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Frank  Mathias', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thierry  Cournez', 'title': 'COO & Site Head of UK Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. James  Miskin Ph.D.', 'title': 'Chief Quality & Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Treagus', 'title': 'Chief Information Officer & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sophia  Bolhassan', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natalie Louise Walter', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  James', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kyriacos  Mitrophanous Ph.D.', 'title': 'Chief Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kati  Hudson', 'title': 'Head of Intellectual Property and Contracts', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.972
+priceToSalesTrailing12Months§1.7893082
+currency§GBp
+forwardEps§-37.63
+exchange§LSE
+quoteType§EQUITY
+shortName§OXFORD BIOMEDICA PLC ORD 50P
+longName§Oxford Biomedica plc
+firstTradeDateEpochUtc§850464000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§522c425b-428d-3122-8f6a-69ceb7ddedd3
+targetHighPrice§720.0
+targetLowPrice§224.0
+targetMeanPrice§425.25
+targetMedianPrice§392.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§2.97
+grossMargins§0.46203
+ebitdaMargins§-0.54483
+trailingPegRatio§None

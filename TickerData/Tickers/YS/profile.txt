@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 05:48:06.376493
+address1§Building No. 2
+address2§38 Yongda Road Daxing Biomedical Industry Park Daxing District
+city§Beijing
+zip§102629
+country§China
+phone§86 10 8920 2086
+website§https://www.ysbiopharm.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§YS Biopharma Co., Ltd., a biopharmaceutical company, engages in discovering, developing, manufacturing, and commercializing of vaccines and therapeutic biologics for infectious diseases and cancer. The company develops a proprietary PIKA immunomodulating technology platform and a series of product targeting PIKA rabies vaccine, PIKA recombinant COVID-19 vaccine, and PIKA YS-ON-001. It operates in China, the United States, Singapore, the United Arab Emirates, and the Philippines. The company was founded in 2002 and is based in Beijing, China.
+fullTimeEmployees§773
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gang  Li', 'age': 41, 'title': 'Head of Marketing & Sales', 'yearBorn': 1982, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yuan  Liu', 'age': 36, 'title': 'Head of Vaccine Research', 'yearBorn': 1987, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hui  Shao Ph.D.', 'age': 55, 'title': 'President, CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chunyuan  Wu', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Zenaida Reynoso  Mojares', 'age': 64, 'title': 'Chief Medical Officer', 'yearBorn': 1959, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.308
+priceToSalesTrailing12Months§0.07071302
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.38
+exchange§NCM
+quoteType§EQUITY
+shortName§YS Biopharma Co., Ltd.
+longName§YS Biopharma Co., Ltd.
+firstTradeDateEpochUtc§1628170200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d067546-6c14-3971-a193-0ad229662aa8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.25
+targetLowPrice§5.1
+targetMeanPrice§5.17
+targetMedianPrice§5.17
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.906
+grossMargins§0.79194
+ebitdaMargins§-0.24228
+trailingPegRatio§None

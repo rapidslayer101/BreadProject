@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 23:44:07.729975
+address1§309 Pierce Street
+city§Somerset
+state§NJ
+zip§08873
+country§United States
+phone§908 518 0500
+website§https://www.composecure.com
+industry§Metal Fabrication
+sector§Industrials
+longBusinessSummary§CompoSecure, Inc. manufactures and designs metal, plastic, composite, and proprietary financial transaction cards in the United States and internationally. Its primary metal form factors include embedded, metal veneer lite, metal veneer, and full metal products. The company also offers Arculus Cold Storage Wallet, a three-factor authentication solution, which supports specific digital assets, including Bitcoin, Ethereum, non-fungible tokens and others. In addition, it offers Payments + Arculus Secure Authentication, white-labeled cold storage wallet, Payments + Arculus Cold Storage, and Payments + Arculus Secure Authentication + Arculus Cold Storage. The company serves financial institutions, plastic card manufacturers, government agencies, system integrators, and security specialists. CompoSecure, Inc. was founded in 1910 and is based in Somerset, New Jersey.
+fullTimeEmployees§850
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan C. Wilk', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1736050, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy W. Fitzsimmons', 'age': 59, 'title': 'Chief Financial & Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 809815, 'exercisedValue': 0, 'unexercisedValue': 3261273}, {'maxAge': 1, 'name': 'Mr. Gregoire  Maes', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 817583, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Adam  Lowe Ph.D.', 'age': 37, 'title': 'Chief Product & Innovation Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 911532, 'exercisedValue': 0, 'unexercisedValue': 1319794}, {'maxAge': 1, 'name': 'Ms. Amanda  Gourbault', 'age': 57, 'title': 'Chief Revenue Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1610890, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven J. Feder Esq.', 'age': 59, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Luft', 'age': 70, 'title': 'VP of Technical Sales & Global Head of Sales', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lewis  Rubovitz', 'age': 48, 'title': 'Chief Strategy Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey  Gutman', 'age': 44, 'title': 'Chief Transformation Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.651
+priceToSalesTrailing12Months§1.1014911
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.08
+exchange§NGM
+quoteType§EQUITY
+shortName§CompoSecure, Inc.
+longName§CompoSecure, Inc.
+firstTradeDateEpochUtc§1605796200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a9e0453d-266c-3382-a67c-2a40faae6b5a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§6.0
+targetMeanPrice§11.63
+targetMedianPrice§12.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.368
+earningsGrowth§0.902
+grossMargins§0.53694
+ebitdaMargins§0.3735
+trailingPegRatio§None

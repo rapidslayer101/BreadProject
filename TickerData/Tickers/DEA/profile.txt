@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 02:28:30.203591
+address1§2001 K Street NW
+address2§Suite 775 North
+city§Washington
+state§DC
+zip§20006
+country§United States
+phone§202 595 9500
+website§https://www.easterlyreit.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Easterly Government Properties, Inc. (NYSE: DEA) is based in Washington, D.C., and focuses primarily on the acquisition, development and management of Class A commercial properties that are leased to the U.S. Government. Easterly's experienced management team brings specialized insight into the strategy and needs of mission-critical U.S. Government agencies for properties leased to such agencies either directly or through the U.S. General Services Administration (GSA).
+fullTimeEmployees§54
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Darrell William Crate', 'age': 56, 'title': 'Chief Executive Officer & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1357500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Ibe', 'age': 76, 'title': 'Vice Chairman of the Board and Executive VP of Development & Acquisitions', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 1369714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meghan G. Baivier', 'age': 43, 'title': 'Executive VP, President & COO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1450219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison E. Marino', 'age': 39, 'title': 'Senior VP, CFO & Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 460296, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Powers', 'title': 'Vice President of Corporate Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsay  Winterhalter', 'title': 'Supervisory Vice President of Investor Relations & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Franklin V. Logan', 'age': 53, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew G. Pulliam CPA', 'age': 52, 'title': 'Executive Vice President of Acquisitions & Portfolio Management', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark W. Bauer', 'title': 'Executive Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick A. Nimerala', 'title': 'Senior VP & Head of Asset Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.06
+dividendYield§0.079
+exDividendDate§1699401600
+payoutRatio§3.2121
+fiveYearAvgDividendYield§5.66
+beta§0.702
+priceToSalesTrailing12Months§4.3516955
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.28
+exchange§NYQ
+quoteType§EQUITY
+shortName§Easterly Government Properties,
+longName§Easterly Government Properties, Inc.
+firstTradeDateEpochUtc§1423233000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§995b29ee-26f4-33d2-8f35-0a0f9ed3c362
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§11.0
+targetMeanPrice§13.5
+targetMedianPrice§13.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.502
+earningsGrowth§9.037
+grossMargins§0.64605004
+ebitdaMargins§0.54319
+trailingPegRatio§None

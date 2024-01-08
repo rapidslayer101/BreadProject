@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 16:40:09.964879
+address1§Sheraton House
+address2§Castle Park
+city§Cambridge
+zip§CB3 0AX
+country§United Kingdom
+phone§44 1686 806 663
+website§https://www.quartix.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§Quartix Technologies plc engages in the design, development, marketing, and delivery of vehicle telematics services in the United Kingdom, France, the United States, and the European Territories. The company offers vehicle tracking system for businesses; real-time vehicle tracking; driver timesheets; driver behavior report; vehicle tracking reports and dashboards; vehicle tracking alerts; customized tracking; fleet management tools; driver ID; vehicle cameras; and vehicle temperature monitoring devices, as well as integrated services for GPS vehicle tracking. It provides its products primarily to building and construction, site and field services, transportation, security, and distribution industries. The company was formerly known as Quartix Holdings plc and changed its name to Quartix Technologies plc in June 2021. Quartix Technologies plc was founded in 2001 and is based in Cambridge, the United Kingdom.
+fullTimeEmployees§189
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Walters', 'age': 67, 'title': 'Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily Catherine Rees', 'age': 33, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 174051, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura Andrea Seffino', 'age': 51, 'title': 'Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 151193, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Christian Mendis', 'age': 41, 'title': 'Director of Commercial & Operations', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 104026, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Maher', 'title': 'Sales Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0538
+exDividendDate§1691625600
+payoutRatio§0.7871
+fiveYearAvgDividendYield§1.76
+beta§0.842
+priceToSalesTrailing12Months§2.4778152
+currency§GBp
+forwardEps§8.2
+exchange§LSE
+quoteType§EQUITY
+shortName§QUARTIX TECHNOLOGIES PLC ORD 1P
+longName§Quartix Technologies plc
+firstTradeDateEpochUtc§1415260800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2ceb5c3d-fd82-3de7-95ae-1dda4138fb8c
+targetHighPrice§340.0
+targetLowPrice§340.0
+targetMeanPrice§340.0
+targetMedianPrice§340.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.856
+earningsGrowth§-0.101
+grossMargins§0.70087
+ebitdaMargins§0.18985
+trailingPegRatio§None

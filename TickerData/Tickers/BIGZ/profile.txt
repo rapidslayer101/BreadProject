@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 15:27:17.985469
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§BlackRock Innovation and Growth Term Trust is a mutual fund launched by BlackRock, Inc. and managed by BlackRock Advisors, LLC. BlackRock Innovation and Growth Term Trust is based in United States.
+maxAge§86400
+priceHint§2
+dividendRate§0.55
+dividendYield§0.0806
+exDividendDate§1697155200
+currency§USD
+dateShortInterest§1695945600
+lastDividendValue§0.045
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+longName§BlackRock Innovation and Growth Term Trust
+firstTradeDateEpochUtc§1616765400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5d87c2e2-482e-3139-97ba-cb38c8cc72f6
+messageBoardId§finmb_699353795
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

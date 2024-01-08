@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 09:46:23.856152
+address1§263 Great Valley Parkway
+address2§Suite 160
+city§Malvern
+state§PA
+zip§19355
+country§United States
+phone§484 328 4701
+website§https://www.ocugen.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Ocugen, Inc., a clinical-stage biopharmaceutical company, focuses on the developing gene therapies to cure blindness diseases. The company's pipeline product includes OCU400, a novel gene therapy product candidate restoring retinal integrity and function across a range of genetically diverse inherited retinal diseases, such as retinitis pigmentosa and leber congenital amaurosis; OCU410 and OCU410ST for the treatment of dry age-related macular degeneration (AMD); and OCU200, a novel fusion protein that is in preclinical development stage for the treatment of diabetic macular edema, diabetic retinopathy, and wet AMD. It has a strategic partnership with CanSino Biologics Inc. for gene therapy co-development and manufacturing; and Bharat Biotech for the commercialization of COVAXIN in the United States market. The company is headquartered in Malvern, Pennsylvania.
+fullTimeEmployees§84
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Shankar  Musunuri M.B.A., Ph.D.', 'age': 59, 'title': 'Co-Founder, CEO & Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1201460, 'exercisedValue': 1257295, 'unexercisedValue': 263200}, {'maxAge': 1, 'name': 'Dr. Uday B. Kompella Ph.D.', 'age': 56, 'title': 'Co-founder & Independent Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 56724, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Breininger CPA, M.B.A.', 'age': 41, 'title': 'Interim Chief Accounting Officer & Principal Financial Officer and Corporate Controller', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Arun  Upadhyay Ph.D.', 'age': 41, 'title': 'Chief Scientific Officer and Head of Research, Development & Medical', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tiffany J. Hamilton M.B.A.', 'title': 'Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Shine M.B.A.', 'title': 'Senior Vice President of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jyothy  Pillai M.S.', 'title': 'Head of Regulatory & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§3.568
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.27
+exchange§NCM
+quoteType§EQUITY
+shortName§Ocugen, Inc.
+longName§Ocugen, Inc.
+firstTradeDateEpochUtc§1417617000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§169c2c50-f570-39a4-b709-68c305b79bbd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§2.0
+targetMeanPrice§4.0
+targetMedianPrice§4.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§4.802
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

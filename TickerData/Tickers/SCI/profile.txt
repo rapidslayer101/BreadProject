@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 13:33:03.482307
+address1§1929 Allen Parkway
+city§Houston
+state§TX
+zip§77019
+country§United States
+phone§713 522 5141
+website§https://www.sci-corp.com
+industry§Personal Services
+sector§Consumer Cyclical
+longBusinessSummary§Service Corporation International provides deathcare products and services in the United States and Canada. The company operates through Funeral and Cemetery segments. Its funeral service and cemetery operations comprise funeral service locations, cemeteries, funeral service/cemetery combination locations, crematoria, and other businesses. The company also provides professional services related to funerals and cremations, including the use of funeral facilities and motor vehicles; arranging and directing services; and removal, preparation, embalming, cremation, memorialization, and travel protection, as well as catering services. In addition, it offers funeral merchandise, including burial caskets and related accessories, urns and other cremation receptacles, outer burial containers, flowers, online and video tributes, stationery products, casket and cremation memorialization products, and other ancillary merchandise. Further, the company's cemeteries provide cemetery property interment rights, such as developed lots, lawn crypts, mausoleum spaces, niches, and other cremation memorialization and interment options; and sells cemetery merchandise and services, including memorial markers and bases, outer burial containers, flowers and floral placements, graveside services, merchandise installations, and interments, as well as offers preneed cemetery merchandise and services. Service Corporation International offers its products and services under the Dignity Memorial, Dignity Planning, National Cremation Society, Advantage Funeral and Cremation Services, Funeraria del Angel, Making Everlasting Memories, Neptune Society, and Trident Society brands. It owns and operates funeral service locations and cemeteries in 44 states, eight Canadian provinces, the District of Columbia, and Puerto Rico. The company was incorporated in 1962 and is headquartered in Houston, Texas.
+fullTimeEmployees§17589
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Luke Ryan', 'age': 58, 'title': 'Chairman, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 6049976, 'exercisedValue': 15350813, 'unexercisedValue': 68520800}, {'maxAge': 1, 'name': 'Mr. Eric  Tanzberger', 'age': 54, 'title': 'Senior VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2562506, 'exercisedValue': 2758756, 'unexercisedValue': 3098887}, {'maxAge': 1, 'name': 'Mr. Sumner J. Waring III', 'age': 54, 'title': 'Senior VP & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2567640, 'exercisedValue': 808189, 'unexercisedValue': 1983664}, {'maxAge': 1, 'name': 'Mr. Steven A. Tidwell', 'age': 61, 'title': 'Senior Vice President of Sales & Marketing', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1950628, 'exercisedValue': 2860864, 'unexercisedValue': 3531730}, {'maxAge': 1, 'name': 'Ms. Debbie  Young', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori E. Spilde', 'age': 52, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jay  Andrew', 'title': 'Assistant Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jamie L. Pierce', 'age': 38, 'title': 'VP & Chief Marketing Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mansi  Patel', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elisabeth G. Nash', 'age': 61, 'title': 'Senior Vice President of Operations Services', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.16
+dividendYield§0.0172
+exDividendDate§1702512000
+payoutRatio§0.3438
+fiveYearAvgDividendYield§1.56
+beta§0.795
+priceToSalesTrailing12Months§2.4529428
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.61
+pegRatio§1.64
+exchange§NYQ
+quoteType§EQUITY
+shortName§Service Corporation Internation
+longName§Service Corporation International
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f4975d0e-d246-35af-bf5d-742da9bd9c11
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§80.0
+targetLowPrice§70.0
+targetMeanPrice§73.33
+targetMedianPrice§71.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§6
+quickRatio§0.544
+earningsGrowth§0.053
+grossMargins§0.26631
+ebitdaMargins§0.287
+trailingPegRatio§1.5408

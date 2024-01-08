@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 00:27:41.489052
+address1§2100 McKinney Avenue
+address2§Suite 1250
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§214 979 6100
+website§https://www.cbre.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§CBRE Group, Inc. operates as a commercial real estate services and investment company worldwide. It operates through three segments: Advisory Services, Global Workplace Solutions, and Real Estate Investments segments. The Advisory Services segment provides strategic advice and execution to owners, investors, and occupiers of real estate in connection with leasing of offices; industrial and retail space; property sales and mortgage services under the CBRE Capital Markets brand; property and project management services, including construction management, marketing, building engineering, lease administration, accounting, and financial services for owners of and investors in office, industrial, and retail properties; and valuation services that include market value appraisals, litigation support, discounted cash flow analyses, and feasibility studies, as well as consulting services, such as property condition reports, hotel advisory, and environmental consulting. The Global Workplace Solutions segment offers facilities management, project management, and transaction management services. The Real Estate Investments segment provides investment management services under the CBRE Investment Management brand to pension funds, insurance companies, sovereign wealth funds, foundations, endowments, and other institutional investors; development services under the Trammell Crow Company brand primarily to users of and investors in commercial real estate; and flexible-space solutions under the CBRE Hana brand CBRE Group, Inc. was founded in 1906 and is headquartered in Dallas, Texas.
+fullTimeEmployees§115000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert E. Sulentic', 'age': 67, 'title': 'CEO & Chairman of Board', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 3650850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma E. Giamartino', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1651940, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel G. Queenan J.D.', 'age': 51, 'title': 'Chief Executive Officer of Real Estate Investments', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1839405, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John E. Durburg', 'age': 58, 'title': 'Chief Executive Officer of Advisory Services', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1834639, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chandra  Dhandapani', 'age': 55, 'title': 'Chief Executive Officer of Global Workplace Solutions', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1910431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vikramaditya  Kohli', 'age': 43, 'title': 'Chief Operating Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Croft  Young', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lindsey  Caplan', 'age': 49, 'title': 'Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley Kenneth Burke C.F.A., CPA', 'age': 40, 'title': 'Head of Investor Relations', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Atlee', 'title': 'Senior VP and Chief Ethics & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.442
+priceToSalesTrailing12Months§0.85056883
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.43
+pegRatio§2.13
+exchange§NYQ
+quoteType§EQUITY
+shortName§CBRE Group Inc
+longName§CBRE Group, Inc.
+firstTradeDateEpochUtc§1086874200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0d5e0220-0b35-3f33-95ee-5a09890d063e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§96.0
+targetLowPrice§85.0
+targetMeanPrice§91.71
+targetMedianPrice§93.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.959
+earningsGrowth§-0.558
+grossMargins§0.19701
+ebitdaMargins§0.05574
+trailingPegRatio§2.2218

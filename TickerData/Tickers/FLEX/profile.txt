@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 12:44:47.699758
+address1§2 Changi South Lane
+city§Singapore
+zip§486123
+country§Singapore
+phone§65 6876 9899
+website§https://www.flex.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Flex Ltd. provides technology, supply chain, and manufacturing solutions in Asia, the Americas, and Europe. It operates through three segments: Flex Agility Solutions (FAS), Flex Reliability Solutions (FRS), and Nextracker. The FAS segment offers flexible supply and manufacturing system comprising communications, enterprise and cloud solution, which includes data, edge, and communications infrastructure; lifestyle solution including appliances, consumer packaging, floorcare, micro mobility, and audio; and consumer devices, such as mobile and high velocity consumer devices. Its FRS segment provides complex ramps with specialized production models and critical environments, which comprise automotive including next generation mobility, autonomous, connectivity, electrification, and smart technologies; health solutions, such as medical devices, medical equipment, and drug delivery; and industrial solutions including capital equipment, industrial devices, and renewables and grid edge. The Nextracker segment offers solar tracker and software solutions, which are used in utility-scale and ground-mounted distributed generation solar projects. In addition, it provides a broad array of services including design and engineering, component services, rapid prototyping, fulfillment, and circular economy solutions. The company was formerly known as Flextronics International Ltd. and changed its name to Flex Ltd. in September 2016. Flex Ltd. was founded in 1969 and is headquartered in Singapore.
+fullTimeEmployees§172108
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Revathi  Advaithi', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 4550585, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul R. Lundstrom', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 2001999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hooi Tan  Kwang', 'title': 'President of Global Operations & Supply Chain', 'fiscalYear': 2023, 'totalPay': 1860927, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Offer', 'age': 58, 'title': 'Executive VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1720166, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Hartung', 'age': 54, 'title': 'President of Flex Agility Solutions', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 2112723, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Wendler', 'age': 56, 'title': 'Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gus  Shahin', 'title': 'Chief Information & Digital Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Rubin', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Silvia  Gianelli', 'title': 'Senior Director of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xavier F.  Boza', 'age': 58, 'title': 'Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.238
+priceToSalesTrailing12Months§0.33601332
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.95
+pegRatio§0.58
+exchange§NMS
+quoteType§EQUITY
+shortName§Flex Ltd.
+longName§Flex Ltd.
+firstTradeDateEpochUtc§764001000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f7109ecb-a027-3167-8bb0-302d0da6496b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§32.0
+targetMeanPrice§33.81
+targetMedianPrice§34.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.72
+earningsGrowth§0.02
+grossMargins§0.08103
+ebitdaMargins§0.06062
+trailingPegRatio§None

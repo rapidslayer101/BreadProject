@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 14:33:31.528562
+address1§1066 West Hastings Street
+address2§Suite 1750
+city§Vancouver
+state§BC
+zip§V6E 3X1
+country§Canada
+phone§604 669 9397
+fax§604 669 9387
+website§https://silvercorpmetals.com
+industry§Silver
+sector§Basic Materials
+longBusinessSummary§Silvercorp Metals Inc., together with its subsidiaries, engages in the acquisition, exploration, development, and mining of mineral properties in China. The company primarily explores for silver, gold, lead, and zinc metals. It holds a 100% interest in the Kuanping silver-lead-zinc-gold project located in located in Shanzhou District, Sanmenxia City, Henan Province, China; Ying project located in the Ying Mining District in Henan Province, China; Gaocheng (GC) mine located in Guangdong Province, China; and Baiyunpu (BYP) mine located in Hunan Province, China. The company was formerly known as SKN Resources Ltd. and changed its name to Silvercorp Metals Inc. in May 2005. Silvercorp Metals Inc. is headquartered in Vancouver, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Rui  Feng Ph.D.', 'age': 60, 'title': 'Chairman & CEO', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1991000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lon Eric Shaver C.F.A.', 'age': 53, 'title': 'President', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 283447, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhihua  Liu C.P.A., CGA, M.Econ, USCPA', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 372638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lichang  Peng', 'title': 'General Manager of China Operations', 'fiscalYear': 2023, 'totalPay': 199649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yongming  Zhang M.Eng, M.Sc., M.Sci, P.Geo.', 'title': 'Vice President of Exploration', 'fiscalYear': 2023, 'totalPay': 113525, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Y  Wang', 'title': 'Chief Environment Engineer of Ying Mines', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leon  Ma', 'title': 'Senior Resources Geologist', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Luke  Sun', 'title': 'Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+dividendRate§0.03
+dividendYield§0.01
+exDividendDate§1700611200
+payoutRatio§0.1389
+fiveYearAvgDividendYield§0.72
+beta§0.915
+priceToSalesTrailing12Months§2.1574402
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.27
+pegRatio§2.54
+exchange§ASE
+quoteType§EQUITY
+shortName§Silvercorp Metals Inc.
+longName§Silvercorp Metals Inc.
+firstTradeDateEpochUtc§1494855000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0b7e67b6-cdcf-3432-b624-d53588d520fb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.5
+targetLowPrice§4.49
+targetMeanPrice§5.5
+targetMedianPrice§5.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.826
+grossMargins§0.58292
+ebitdaMargins§0.42178002
+trailingPegRatio§None

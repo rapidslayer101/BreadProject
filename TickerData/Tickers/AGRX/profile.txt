@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 09:43:13.759439
+address1§500 College Road East
+address2§Suite 310
+city§Princeton
+state§NJ
+zip§08540
+country§United States
+phone§609 683 1880
+website§https://www.agiletherapeutics.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Agile Therapeutics, Inc., a women's healthcare company, researches, develops, and commercializes prescription contraceptive products for women in the United States. Its lead product is Twirla, also known as AG200-15, a once-weekly prescription combination hormonal contraceptive patch. The company is also developing a pipeline of Twirla line extensions and other products, including AG200-15 Extended Regimen (ER), a regimen that allows a woman to have four episodes of withdrawal bleeding per year; AG200-15 smaller patch (SmP), which is a regimen designed to provide shorter and lighter withdrawal bleeds, and enhance contraceptive efficacy; AG200-15 ER SmP, a regimen to allow a woman to extend the length of her contraceptive cycle, as well as have shorter and lighter withdrawal bleeding episodes per year; and P-Patch, a progestin-only contraceptive patch intended for use by women who are unable or unwilling to take estrogen. The company was incorporated in 1997 and is headquartered in Princeton, New Jersey.
+fullTimeEmployees§22
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alfred F. Altomari', 'age': 64, 'title': 'Chairman, President & CEO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 644396, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey P. Gilmore', 'age': 57, 'title': 'Senior VP & Chief Administrative Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 478920, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul  Korner M.B.A., M.D.', 'age': 57, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 480402, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott M. Coiante', 'age': 56, 'title': 'CFO, Senior VP & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 520453, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matthew  Riley', 'title': 'Head of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Conway M.E.', 'age': 65, 'title': 'Senior VP and Chief Corporate Planning & Supply Chain Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 444112, 'exercisedValue': 0, 'unexercisedValue': 153722}, {'maxAge': 1, 'name': 'Ms. Amy  Welsh', 'age': 52, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.78
+priceToSalesTrailing12Months§0.19615464
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.66
+exchange§NCM
+quoteType§EQUITY
+shortName§Agile Therapeutics, Inc.
+longName§Agile Therapeutics, Inc.
+firstTradeDateEpochUtc§1400851800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b2c438d-132e-372c-9ee5-2d843d08809d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.365
+grossMargins§0.57747
+ebitdaMargins§-1.11805
+trailingPegRatio§None

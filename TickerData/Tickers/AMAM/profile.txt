@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 13:43:19.213706
+address1§10975 North Torrey Pines Road
+city§La Jolla
+state§CA
+zip§92037
+country§United States
+phone§858 875 2400
+website§https://ambrx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Ambrx Biopharma Inc., a clinical stage biopharmaceutical company, focuses on discovering and developing antibody drug conjugates (ADCs) and other engineered therapies to modulate the immune system. It focuses on portfolio of clinical and preclinical programs designed to optimize efficacy and safety in multiple cancer indications, including ARX517, its proprietary antibody-drug conjugate (ADC) targeting the prostate-specific membrane antigen (PSMA) and ARX788, its proprietary ADC targeting HER2. The company also has preclinical and clinical collaborations with multiple partners on drug candidates using Ambrx technology. The company was incorporated in 2003 and is headquartered in La Jolla, California.
+fullTimeEmployees§87
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Daniel J. O'Connor J.D.", 'age': 58, 'title': 'CEO, President & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 509939, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonja  Nelson CPA', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1178420, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew P. Aromando', 'age': 54, 'title': 'Chief Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ying J. Buechler Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shawn Shao-Hui Zhang Ph.D.', 'title': 'Chief Scientific Officer & GM of  China', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jared  Kelly', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Azzara', 'title': 'Vice President of Human Capital', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sandra  Aung Ph.D.', 'title': 'Chief Clinical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Renu  Vaish M.Sc.', 'age': 56, 'title': 'Chief Regulatory Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§210.29495
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.64
+pegRatio§-0.45
+exchange§NMS
+quoteType§EQUITY
+shortName§Ambrx Biopharma, Inc.
+longName§Ambrx Biopharma Inc.
+firstTradeDateEpochUtc§1692019800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f7df5346-135d-374e-859b-9e56317c52de
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§9.0
+targetMeanPrice§22.86
+targetMedianPrice§26.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§12.46
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

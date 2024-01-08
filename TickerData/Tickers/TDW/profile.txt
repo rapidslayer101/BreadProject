@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 09:33:37.889256
+address1§842 West Sam Houston Parkway North
+address2§Suite 400
+city§Houston
+state§TX
+zip§77024
+country§United States
+phone§713 470 5300
+website§https://www.tdw.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Tidewater Inc., together with its subsidiaries, provides offshore support vessels and marine support services to the offshore energy industry through the operation of a fleet of marine service vessels worldwide. It provides services in support of offshore crude oil and natural gas exploration, field development, and production, as well as windfarm development and maintenance, including towing of and anchor handling for mobile offshore drilling units; transporting supplies and personnel necessary to sustain drilling, workover, and production activities; offshore construction, and seismic and subsea support; geotechnical survey support for windfarm construction; and various specialized services, such as pipe and cable laying. The company operates anchor handling towing supply vessels, platform supply vessels, crew boats, utility vessels, and offshore tugs. The company serves oil and natural gas exploration, field development, and production companies; mid-sized and smaller independent exploration and production companies; foreign government-owned or government-controlled organizations, and other related companies; drilling contractors; and other companies, such as offshore construction, windfarm development, diving, and well stimulation companies. Tidewater Inc. was incorporated in 1956 and is headquartered in Houston, Texas.
+fullTimeEmployees§6300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Quintin V. Kneen', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1155099, 'exercisedValue': 0, 'unexercisedValue': 8647862}, {'maxAge': 1, 'name': 'Mr. Samuel R. Rubio', 'age': 63, 'title': 'Executive VP & CFO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 678675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David E. Darling', 'age': 68, 'title': 'Executive VP & COO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 715800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel A. Hudson', 'age': 51, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 625706, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee R. Johnson', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'West  Gotcher', 'title': 'Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Piers  Middleton', 'title': 'Vice President Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren J. Vorst', 'age': 58, 'title': 'VP & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.19
+priceToSalesTrailing12Months§4.1034746
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.63
+pegRatio§6.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Tidewater Inc.
+longName§Tidewater Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a2ee18ea-8a21-3733-be1e-8f9b302a93b3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§55.0
+targetMeanPrice§79.6
+targetMedianPrice§85.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.581
+earningsGrowth§3.9
+grossMargins§0.41429
+ebitdaMargins§0.23952
+trailingPegRatio§None

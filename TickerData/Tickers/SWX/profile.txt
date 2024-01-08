@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 11:33:32.033985
+address1§8360 South Durango Drive
+address2§Post Office Box 98510
+city§Las Vegas
+state§NV
+zip§89193-8510
+country§United States
+phone§702 876 7237
+website§https://www.swgasholdings.com
+industry§Utilities—Regulated Gas
+sector§Utilities
+longBusinessSummary§Southwest Gas Holdings, Inc., through its subsidiaries, distributes and transports natural gas in Arizona, Nevada, and California. It operates through Natural Gas Distribution, Utility Infrastructure Services, and Pipeline and Storage segments. The company also provides trenching, installation, and replacement of underground pipes, as well as maintenance services for energy distribution systems. As of December 31, 2022, it had 2,197,000 residential, commercial, industrial, and other natural gas customers. The company was incorporated in 1931 and is headquartered in Las Vegas, Nevada.
+fullTimeEmployees§13359
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Karen S. Haller', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1288414, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Stefani', 'age': 49, 'title': 'Senior VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 689531, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin L. Brown', 'age': 50, 'title': 'Senior Vice President & General Counsel of Southwest Gas Corporation', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 841374, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul M. Daily', 'age': 66, 'title': 'President & CEO of Centuri Group, Inc.', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 953093, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori L. Colvin', 'age': 55, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Justin S. Forsberg', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas E. Moran', 'age': 58, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth J. Kenny', 'age': 60, 'title': 'VP of Finance & Treasurer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.48
+dividendYield§0.038900003
+exDividendDate§1707868800
+payoutRatio§1.034
+fiveYearAvgDividendYield§3.29
+beta§0.318
+priceToSalesTrailing12Months§0.830778
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.07
+pegRatio§4.85
+exchange§NYQ
+quoteType§EQUITY
+shortName§Southwest Gas Holdings, Inc.
+longName§Southwest Gas Holdings, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§18a9ff00-b335-3f5f-bba1-a1aa78bd206a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§89.0
+targetLowPrice§63.0
+targetMeanPrice§69.6
+targetMedianPrice§64.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.004
+grossMargins§0.19327
+ebitdaMargins§0.17969999
+trailingPegRatio§3.2902

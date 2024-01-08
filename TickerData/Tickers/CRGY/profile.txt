@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 07:28:11.541401
+address1§600 Travis Street
+address2§Suite 7200
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§713 337 4600
+website§https://www.crescentenergyco.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Crescent Energy Company, an energy company, acquires, develops, and produces crude oil, natural gas, and natural gas liquids (NGLs) reserves. The company holds a portfolio of oil and natural gas assets in key proven basins, including the Eagle Ford, Rockies, Barnett, Permian, and Mid-Con in the United States. The company is based in Houston, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David C. Rockecharlie', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brandi  Kendall', 'age': 38, 'title': 'CFO & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd N. Falk', 'age': 41, 'title': 'Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bo  Shi', 'age': 34, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 659182, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Clayton Rynd', 'age': 32, 'title': 'Executive Vice President of Investments', 'yearBorn': 1991, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily L. Newport', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0396
+exDividendDate§1700179200
+payoutRatio§0.2384
+beta§1.149
+priceToSalesTrailing12Months§0.9028934
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.55
+pegRatio§-3.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Crescent Energy Company
+longName§Crescent Energy Company
+firstTradeDateEpochUtc§1638973800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e776c2ab-3496-3564-aff0-95635be02a86
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§12.5
+targetMeanPrice§16.19
+targetMedianPrice§16.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.917
+grossMargins§0.5754
+ebitdaMargins§0.48151
+trailingPegRatio§None

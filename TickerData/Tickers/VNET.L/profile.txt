@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 06:41:05.906006
+address1§One Surtees Way
+address2§Surtees Business Park
+city§Stockton-on-Tees
+zip§TS18 3HR
+country§United Kingdom
+phone§44 16 4235 8800
+website§https://www.vianetplc.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§Vianet Group plc provides data services, actionable management information, and business insights in the United Kingdom, rest of Europe, the United States, and Canada. It operates through two segments: Smart Zones and Smart Machines. The company offers SmartContact, a contactless payment solution; SmartVend, a vending management system; iDraught, a draught beer quality and waste management system; SmartInsight, which provides actionable data and insights through interactive reporting; SmartAcademy which offers a range of e-learning videos and face to face training courses to support the business; and SmartMetrics, a telemetry solution that offers data capture and machine management services. It also rents fluid monitoring, machine monitoring, and contactless payment equipment. The company was founded in 1995 and is based in Stockton-on-Tees, the United Kingdom.
+fullTimeEmployees§141
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James William Dickson BSc, MBA', 'age': 60, 'title': 'Chairman & CEO', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 247000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Hardwick Foster FCA', 'age': 59, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 280000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Brocklehurst', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Robbins', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Staniforth', 'title': 'Head of People & Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0057
+exDividendDate§1694649600
+payoutRatio§2.0
+fiveYearAvgDividendYield§4.84
+beta§1.299
+priceToSalesTrailing12Months§1.8270705
+currency§GBp
+forwardEps§6.2
+pegRatio§2.94
+exchange§LSE
+quoteType§EQUITY
+shortName§VIANET GROUP PLC ORD 10P
+longName§Vianet Group plc
+firstTradeDateEpochUtc§1087542000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6707a281-3fa4-340f-9482-6bc85551dae9
+targetHighPrice§210.0
+targetLowPrice§210.0
+targetMeanPrice§210.0
+targetMedianPrice§210.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.467
+grossMargins§0.69097
+ebitdaMargins§0.11198
+trailingPegRatio§None

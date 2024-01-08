@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 04:43:21.533608
+address1§210 Main Street West
+city§Baudette
+state§MN
+zip§56623
+country§United States
+phone§218 634 3500
+fax§218 634 3540
+website§https://www.anipharmaceuticals.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§ANI Pharmaceuticals, Inc., a biopharmaceutical company, develops, manufactures, and markets branded and generic prescription pharmaceuticals in the United States and Canada. It focuses on producing controlled substances, oncology products, hormones and steroids, injectables, and other formulations, including extended release and combination products. The company manufactures oral solid dose products; semi-solids, liquids, and topicals; and potent products, as well as performs contract development and manufacturing of pharmaceutical products. It markets its products through retail pharmacy chains, wholesalers, distributors and mail order pharmacies, and group purchasing organizations. ANI Pharmaceuticals, Inc. was incorporated in 2001 and is headquartered in Baudette, Minnesota.
+fullTimeEmployees§600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nikhil  Lalwani', 'age': 45, 'title': 'President, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1305985, 'exercisedValue': 0, 'unexercisedValue': 1008690}, {'maxAge': 1, 'name': 'Mr. Stephen P. Carey', 'age': 52, 'title': 'Senior VP of Finance & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 750999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James G. Marken', 'age': 60, 'title': 'Senior Vice President of Operations & Product Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 673225, 'exercisedValue': 0, 'unexercisedValue': 12052}, {'maxAge': 1, 'name': 'Mr. Christopher K. Mutz', 'age': 51, 'title': 'Head of Rare Disease', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 565172, 'exercisedValue': 0, 'unexercisedValue': 73757}, {'maxAge': 1, 'name': 'Mr. Ori  Gutwerg', 'age': 49, 'title': 'Senior Vice President of Generics', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 623887, 'exercisedValue': 0, 'unexercisedValue': 59004}, {'maxAge': 1, 'name': 'Mr. Muthusamy  Shanmugam MS R.Ph.', 'age': 55, 'title': 'Head of R&D, COO of Novitium Operations & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meredith W. Cook', 'age': 49, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad  Gassert', 'age': 47, 'title': 'Senior Vice President of Corporate Development & Strategy', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Krista L. Davis', 'age': 50, 'title': 'Chief Human Resources Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Powell J.D.', 'title': 'Chief Compliance Officer & Head of Legal of Rare Disease', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.833
+priceToSalesTrailing12Months§2.580417
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.21
+pegRatio§5.72
+exchange§NGM
+quoteType§EQUITY
+shortName§ANI Pharmaceuticals, Inc.
+longName§ANI Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§957533400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§75f2f385-f89c-3bd7-b1e1-58bda9a0aedf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§73.0
+targetLowPrice§66.0
+targetMeanPrice§69.75
+targetMedianPrice§70.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.768
+grossMargins§0.62234
+ebitdaMargins§0.22408001
+trailingPegRatio§None

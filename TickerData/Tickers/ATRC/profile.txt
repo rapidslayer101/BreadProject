@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 09:43:31.161107
+address1§7555 Innovation Way
+city§Mason
+state§OH
+zip§45040
+country§United States
+phone§513 755 4100
+fax§513 755 4567
+website§https://www.atricure.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§AtriCure, Inc. develops, manufactures, and sells devices for the surgical ablation of cardiac tissue and systems, and intercostal nerves to medical centers in the United States, Europe, Asia, and internationally. The company offers Isolator Synergy Clamps, a single-use disposable radio frequency products; multifunctional pens and linear ablation devices, such as the MAX Pen device that enables surgeons to evaluate cardiac arrhythmias, perform temporary cardiac pacing, sensing, and stimulation and ablate cardiac tissue with the same device; and the Coolrail device, which enable users to make longer linear lines of ablation. It also provides cryoICE Cryoablation System that enables the user to make linear ablations of varied lengths; EPi-Sense Guided Coagulation System, a single-use disposable device used for the treatment of symptomatic, drug-refractory, and long-standing persistent atrial fibrillation; AtriClip System, an implantable device coupled to a single-use disposable applier; and LARIAT System, a suture-based solution for soft-tissue closure compatible with a range of anatomical shapes. In addition, the company sells Lumitip Dissectors to separate tissues to provide access to key anatomical structures that are targeted for ablation; Glidepath guides for placement of clamps; Subtle Cannula's to support access for EPi-Sense catheters; and various reusable cardiac surgery instruments, which are used during surgical procedures for repair or replacement of certain heart valves. It markets and sells its products through independent distributors and direct sales personnel. The company was incorporated in 2000 and is headquartered in Mason, Ohio.
+fullTimeEmployees§1050
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael H. Carrel', 'age': 52, 'title': 'CEO, President & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1624052, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela L. Wirick CPA', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 668625, 'exercisedValue': 0, 'unexercisedValue': 137150}, {'maxAge': 1, 'name': 'Mr. Douglas J. Seith', 'age': 57, 'title': 'Chief Operating Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 989171, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin J. Noznesky', 'age': 45, 'title': 'Chief Marketing & Strategy Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 644729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah  Yount', 'age': 57, 'title': 'Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 498361, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Salvatore  Privitera J.D.', 'age': 56, 'title': 'Chief Technical Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 471148, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Vinayak  Doraiswamy Ph.D.', 'age': 51, 'title': 'Chief Scientific Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 777660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Karl S. Dahlquist CCEP, J.D.', 'age': 53, 'title': 'Chief Legal Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Valerie  Storch-Willhaus', 'title': 'Vice President of Corporate Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.364
+priceToSalesTrailing12Months§4.111733
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.68
+pegRatio§-2.22
+exchange§NGM
+quoteType§EQUITY
+shortName§AtriCure, Inc.
+longName§AtriCure, Inc.
+firstTradeDateEpochUtc§1123248600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§03c18d5f-d166-3e68-a33f-118b1b088dc1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§44.0
+targetMeanPrice§55.0
+targetMedianPrice§53.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§2.236
+grossMargins§0.75031996
+ebitdaMargins§-0.02258
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 09:29:13.175673
+address1§9600 Great Hills Trail
+address2§Suite 300E
+city§Austin
+state§TX
+zip§78759
+country§United States
+phone§866 432 6736
+fax§215 425 3595
+website§https://www.e2open.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§E2open Parent Holdings, Inc. provides cloud-based and end-to-end supply chain management and orchestration SaaS platform in the Americas, Europe, and the Asia Pacific. Its software solutions orchestrate supply chains and realize value and return on investment for its blue-chip customers. The company's software combines networks, data, and applications to provide a platform that allows customers to optimize their channel and supply chain across channel shaping, demand sensing, business planning, global trade management, transportation and logistics, collaborative manufacturing, and supply management. It serves technology, consumer, industrial, transportation, and other industries. The company was incorporated in 2020 and is headquartered in Austin, Texas.
+fullTimeEmployees§4017
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Marje  Armstrong', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 665209, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pawan  Joshi', 'age': 51, 'title': 'Executive Vice President of Product Management & Strategy', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1187904, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew M. Appel', 'age': 59, 'title': 'Interim CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deepa L. Kurian', 'title': 'Chief Accounting Officer & Treasurer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dusty  Buell', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer S. Grafton', 'age': 47, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kristin  Seigworth', 'title': 'Vice President of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas B. Newton', 'age': 44, 'title': 'Executive Vice President of Corporate Development', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kari Vedder Janavitz', 'age': 51, 'title': 'Chief Marketing Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald P. Kubera', 'age': 58, 'title': 'Sector President of Distribution', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.341
+priceToSalesTrailing12Months§3.9121501
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.2
+pegRatio§2.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§E2open Parent Holdings, Inc.
+longName§E2open Parent Holdings, Inc.
+firstTradeDateEpochUtc§1592227800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§263d2b10-eb8c-3af9-91a1-c361c77bf434
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§3.0
+targetMeanPrice§3.92
+targetMedianPrice§4.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.551
+grossMargins§0.65182
+ebitdaMargins§0.11327
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 09:31:11.575990
+address1§800 West Pender Street
+address2§Suite 770
+city§Vancouver
+state§BC
+zip§V6C 2V6
+country§Canada
+phone§604 630 1399
+fax§604 681 0894
+website§https://www.magsilver.com
+industry§Silver
+sector§Basic Materials
+longBusinessSummary§MAG Silver Corp. engages in the exploration and development of precious metal mining properties. The company explores for silver, gold, lead, copper, and zinc deposits. It primarily holds 44% interest in the Juanicipio project located in the Fresnillo District, Zacatecas State, Mexico. MAG Silver Corp. is headquartered in Vancouver, Canada.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. George N. Paspalas Acc.Dir, B.E. (Chem.)', 'age': 60, 'title': 'President, CEO & Non-Independent Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 893541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fausto Di Trapani', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 413876, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael John Curlook', 'title': 'Vice President of Investor Relations & Communications', 'fiscalYear': 2022, 'totalPay': 230728, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter Kenneth McNeill Megaw CPG, Ph.D.', 'age': 70, 'title': 'Chief Exploration Officer', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 445644, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. J. Mallory', 'title': 'Chief Sustainability Officer', 'fiscalYear': 2022, 'totalPay': 407519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rubi  Lapiz', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Neff', 'age': 45, 'title': 'VP of Governance & Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.069
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.71
+exchange§ASE
+quoteType§EQUITY
+shortName§MAG Silver Corporation
+longName§MAG Silver Corp.
+firstTradeDateEpochUtc§1173879000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9f289f3d-4248-3a59-9abb-5f08766165a9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.5
+targetLowPrice§16.0
+targetMeanPrice§18.06
+targetMedianPrice§17.6
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§10.3
+earningsGrowth§0.076
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

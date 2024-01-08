@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 06:30:02.100516
+longBusinessSummary§The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI™.
+maxAge§86400
+priceHint§2
+yield§0.0
+totalAssets§968085696
+navPrice§20.32835
+currency§USD
+category§Commodities Broad Basket
+ytdReturn§0.0134596005
+beta3Year§1.12
+fundFamily§iShares
+fundInceptionDate§1152489600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.17072149
+fiveYearAverageReturn§0.070665695
+exchange§PCX
+quoteType§ETF
+shortName§iShares GSCI Commodity-Indexed 
+longName§iShares S&P GSCI Commodity-Indexed Trust
+firstTradeDateEpochUtc§1153488600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e16fd1f3-2044-32f6-a817-b946066a3fdb
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

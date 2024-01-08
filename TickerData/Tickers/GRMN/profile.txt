@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 05:29:59.459379
+address1§MUehlentalstrasse 2
+city§Schaffhausen
+zip§8200
+country§Switzerland
+phone§41 52 630 1600
+website§https://www.garmin.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§Garmin Ltd. designs, develops, manufactures, markets, and distributes a range of wireless devices in the Americas, the Asia Pacific, Australian Continent, Europe, the Middle East, and Africa. Its Fitness segment offers running and multi-sport watches; cycling products; activity tracking and smartwatch devices; fitness and cycling accessories. This segment also provides Garmin Connect and Garmin Connect Mobile, which are web and mobile platforms; and Connect IQ, an application development platform. The company's Outdoor segment offers adventure watches, outdoor handhelds, golf devices and mobile apps, and dog tracking and training devices. Its Aviation segment designs, manufactures, and markets various aircraft avionics solutions comprising integrated flight decks, electronic flight displays and instrumentation, navigation and communication products, automatic flight control systems and safety-enhancing technologies, audio control systems, engine indication systems, traffic awareness and avoidance solutions, ADS-B and transponder solutions, weather information and avoidance solutions, datalink and connectivity solutions, portable GPS navigators and wearables, and various services products. The company's Marine segment provides chartplotters and multi-function displays, cartography products, fishfinders, sonar products, autopilot systems, radars, compliant instrument displays and sensors, VHF communication radios, handhelds and wearable devices, sailing products, entertainment, digital switching products, and trolling motors. Its Auto segment offers embedded domain controllers and infotainment systems; personal navigation devices; and cameras. The company sells its products through independent retailers, dealers, distributors, installation and repair shops, and original equipment manufacturers, as well as an online webshop, garmin.com. Garmin Ltd. was founded in 1989 and is based in Schaffhausen, Switzerland.
+fullTimeEmployees§19700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Clifton  Albert Pemble', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1262143, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Gerard Boessen', 'age': 60, 'title': 'CFO & Treasurer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 730604, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew R. Etkind', 'age': 67, 'title': 'VP, General Counsel & Secretary', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1131728, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip I. Straub', 'title': 'Executive VP & MD of Aviation - Garmin International, Inc', 'fiscalYear': 2022, 'totalPay': 775604, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick G. Desbois', 'title': 'Executive Vice President of Operations - Garmin International, Inc.', 'fiscalYear': 2022, 'totalPay': 776566, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Min-Hwan  Kao Ph.D.', 'age': 74, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 384430, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teri  Seck', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ted  Gartner', 'title': 'Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.92
+dividendYield§0.0238
+exDividendDate§1710374400
+payoutRatio§0.5387
+fiveYearAvgDividendYield§2.46
+beta§0.988
+priceToSalesTrailing12Months§4.652518
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.67
+pegRatio§4.19
+exchange§NYQ
+quoteType§EQUITY
+shortName§Garmin Ltd.
+longName§Garmin Ltd.
+firstTradeDateEpochUtc§976285800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c68259b0-048b-3945-b0cc-9e170f73cc39
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§135.0
+targetLowPrice§100.0
+targetMeanPrice§120.11
+targetMedianPrice§119.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.829
+earningsGrowth§0.229
+grossMargins§0.5712
+ebitdaMargins§0.23606001
+trailingPegRatio§1.9697

@@ -1,0 +1,49 @@
+# reload+after+2024-01-19 21:45:42.416882
+address1§4000 Shoreline Court
+address2§Suite 300
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§(650) 822-5600
+website§https://www.kezarlifesciences.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kezar Life Sciences, Inc., a clinical-stage biotechnology company, engages in the discovery and development of novel small molecule therapeutics to treat unmet needs in immune-mediated diseases and cancer in the United States. The company's lead product candidate is zetomipzomib (KZR-616), a selective immunoproteasome inhibitor that is in Phase 2b clinical trials for various indications, including lupus nephritis, dermatomyositis, and polymyositis; Phase 1b clinical trials in systemic lupus erythematosus; and completed Phase 2a clinical trials in lupus nephritis. Its preclinical products include KZR-261, a novel first-in-class protein secretion inhibitor for the treatment of tumors resistant to traditional chemotherapeutics; and KZR-TBD for the treatment of oncology and immunology. The company was incorporated in 2015 and is headquartered in South San Francisco, California.
+fullTimeEmployees§84
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Christopher J. Kirk Ph.D.', 'age': 51, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 677408, 'exercisedValue': 0, 'unexercisedValue': 2874618}, {'maxAge': 1, 'name': 'Mr. John Franklin Fowler', 'age': 51, 'title': 'Co-Founder & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 919911, 'exercisedValue': 0, 'unexercisedValue': 3576503}, {'maxAge': 1, 'name': 'Dr. Jack  Taunton Ph.D.', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc L. Belsky', 'age': 68, 'title': 'CFO & Secretary', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 491794, 'exercisedValue': 0, 'unexercisedValue': 3150}, {'maxAge': 1, 'name': 'Ms. Gitanjali  Jain', 'title': 'Vice President of Investor Relations & External Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Schiller', 'title': 'Senior Vice President of Legal Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Neel K. Anand Ph.D.', 'title': 'Senior Vice President of Research & Drug Discovery', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nick  Mordwinkin Ph.D., Pharm.D.', 'age': 42, 'title': 'Chief Business Officer & Head of Strategy', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zung  To', 'title': 'Senior Vice President of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pattie  Chiang', 'title': 'VP & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.379
+priceToSalesTrailing12Months§9.557053
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.14
+exchange§NMS
+quoteType§EQUITY
+shortName§Kezar Life Sciences, Inc.
+longName§Kezar Life Sciences, Inc.
+firstTradeDateEpochUtc§1529587800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a58d540c-0082-3b09-9235-096cecf4e362
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§2.0
+targetMeanPrice§11.67
+targetMedianPrice§13.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§13.508
+grossMargins§-2.46257
+ebitdaMargins§0.0
+trailingPegRatio§None

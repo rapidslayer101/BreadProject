@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 12:45:18.707073
+address1§One Technology Way
+city§Indianapolis
+state§IN
+zip§46268
+country§United States
+phone§(317) 293 5309
+website§https://www.hurco.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Hurco Companies, Inc., an industrial technology company, designs, manufactures, and sells computerized machine tools to companies in the metal cutting industry worldwide. Its principal products include general-purpose computerized machine tools, including vertical and horizontal machining centers, turning centers, and toolroom machines. The company also provides computer control systems and related software for press brake applications. In addition, it offers machine tool components, automation integration equipment, and solutions for job shops; and software options, control upgrades, and accessories and replacement parts for its products, as well as customer service, training, and applications support services. Further, the company provides Autobend computer control systems for press brake machines. It serves independent job shops and specialized short-run production applications within large manufacturing operations, as well as precision tool, die, and mold manufacturers in aerospace, defense, medical equipment, energy, automotive/transportation, electronics, and computer industries. The company sells its products under the Hurco, Milltronics, and Takumi brands through independent agents and distributors, as well as through its direct sales and service organizations. Hurco Companies, Inc. was incorporated in 1968 and is headquartered in Indianapolis, Indiana.
+fullTimeEmployees§716
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Doar', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 926268, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory S. Volovic', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1140062, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonja K. McClelland', 'age': 51, 'title': 'Executive VP, Treasurer & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 673028, 'exercisedValue': 158760, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Haiquynh  Jamison', 'age': 43, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 269448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathon D. Wright', 'age': 39, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 331269, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.028099999
+exDividendDate§1703808000
+payoutRatio§1.1923001
+fiveYearAvgDividendYield§1.9
+beta§0.463
+priceToSalesTrailing12Months§0.6453431
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Hurco Companies, Inc.
+longName§Hurco Companies, Inc.
+firstTradeDateEpochUtc§336231000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e2e9e26b-ea21-36fa-b017-ca050d77f708
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.487
+earningsGrowth§0.686
+grossMargins§0.24656
+ebitdaMargins§0.03823
+trailingPegRatio§None

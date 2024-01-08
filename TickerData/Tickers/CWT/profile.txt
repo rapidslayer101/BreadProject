@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 08:28:24.609337
+address1§1720 North First Street
+city§San Jose
+state§CA
+zip§95112-4598
+country§United States
+phone§408 367 8200
+website§https://www.calwatergroup.com
+industry§Utilities—Regulated Water
+sector§Utilities
+longBusinessSummary§California Water Service Group, through its subsidiaries, provides water utility and other related services in California, Washington, New Mexico, Hawaii, and Texas. The company is involved in the production, purchase, storage, treatment, testing, distribution, and sale of water for domestic, industrial, public, and irrigation uses, as well as for fire protection services. It offers its services to approximately 496,400 customer connections in 100 California communities; approximately 6,200 water and wastewater customer connections on the islands of Maui, Oahu, and Hawaii; approximately 37,500 customer connections in the Tacoma, Olympia, Graham, Spanaway, Puyallup, Rainier, Yelm, and Gig Harbor areas; and approximately 10,700 water and wastewater customer connections in the Belen, Los Lunas, Indian Hills, and Elephant Butte areas in New Mexico. The company also engages in the provision of non-regulated water-related services, including operating of municipally owned water systems, privately owned water, and recycled water distribution systems; water system operation, meter reading, and billing services to private companies and municipalities; leasing of communication antenna sites on its properties to telecommunication companies; and billing of optional third-party insurance programs to its residential customers. In addition, it provides lab, wastewater collection, and treatment services. California Water Service Group was founded in 1926 and is headquartered in San Jose, California.
+fullTimeEmployees§1225
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin A. Kropelnicki', 'age': 56, 'title': 'Chairman, President & CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2371006, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael B. Luu', 'age': 43, 'title': 'Senior VP of Corporate Services & Chief Risk Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 563755, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David B. Healey', 'age': 67, 'title': 'VP, CFO & Treasurer', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Mares Jr.', 'age': 56, 'title': 'Vice President of Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Scanlon', 'age': 60, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn C. Bunting', 'title': 'VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald D. Webb', 'age': 66, 'title': 'VP & Chief Human Resource Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle R. Mortensen', 'age': 48, 'title': 'VP, Corporate Secretary & Chief of Staff', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon C. Dean', 'age': 55, 'title': 'VP of Customer Service & Chief Citizenship Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophie M. James', 'title': 'Chief Water Quality Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.04
+dividendYield§0.0212
+exDividendDate§1698969600
+payoutRatio§1.3919001
+fiveYearAvgDividendYield§1.65
+beta§0.496
+priceToSalesTrailing12Months§3.633089
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.2
+pegRatio§2.55
+exchange§NYQ
+quoteType§EQUITY
+shortName§California Water Service Group
+longName§California Water Service Group
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§785d9a2f-80ad-3931-9af7-d7aa8d6f5ff5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§57.0
+targetLowPrice§46.0
+targetMeanPrice§51.5
+targetMedianPrice§51.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.524
+earningsGrowth§-0.421
+grossMargins§0.47974
+ebitdaMargins§0.2584
+trailingPegRatio§None

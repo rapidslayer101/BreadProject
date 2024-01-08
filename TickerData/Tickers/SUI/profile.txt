@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 18:33:30.777235
+address1§27777 Franklin Road
+address2§Suite 300
+city§Southfield
+state§MI
+zip§48034-8205
+country§United States
+phone§248 208 2500
+fax§248 208 2645
+website§https://www.suncommunities.com
+industry§REIT—Residential
+sector§Real Estate
+longBusinessSummary§Established in 1975, Sun Communities, Inc. became a publicly owned corporation in December 1993. The Company is a fully integrated REIT listed on the New York Stock Exchange under the symbol: SUI. As of September 30, 2023, the Company owned, operated, or had an interest in a portfolio of 670 developed MH, RV and Marina properties comprising approximately 180,170 developed sites and approximately 48,030 wet slips and dry storage spaces in the U.S., the UK and Canada.
+fullTimeEmployees§7199
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary A. Shiffman', 'age': 69, 'title': 'Chairman, President & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 2571132, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando  Castro-Caratini', 'age': 39, 'title': 'Executive VP, CFO, Treasurer & Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1151698, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce D. Thelen', 'age': 37, 'title': 'Executive VP & COO', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 1034705, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Weiss', 'age': 46, 'title': 'Executive Vice President of Corporate Strategy & Business Development', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1350126, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Bandini McLaren', 'age': 52, 'title': 'Strategic Advisor of Residential Communities', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1889824, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Farrugia', 'age': 38, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Baxter R. Underwood', 'age': 44, 'title': 'Chief Executive Officer of Safe Harbor Marinas, LLC', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 345100, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.72
+dividendYield§0.028199999
+exDividendDate§1703721600
+payoutRatio§2.0276
+fiveYearAvgDividendYield§2.22
+beta§0.818
+priceToSalesTrailing12Months§5.493425
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.26
+pegRatio§23.5
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sun Communities, Inc.
+longName§Sun Communities, Inc.
+firstTradeDateEpochUtc§755447400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f7c0d3e4-514b-3503-b8be-2355a27b18fd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§160.0
+targetLowPrice§116.0
+targetMeanPrice§141.92
+targetMedianPrice§143.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.787
+earningsGrowth§-0.007
+grossMargins§0.46662
+ebitdaMargins§0.39125
+trailingPegRatio§14.9347

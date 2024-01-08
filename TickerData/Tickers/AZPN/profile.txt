@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 07:43:34.585885
+address1§20 Crosby Drive
+city§Bedford
+state§MA
+zip§01730
+country§United States
+phone§781 221 6400
+fax§781 221 6410
+website§https://www.aspentech.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Aspen Technology, Inc. provides industrial software that focuses on helping customers in asset-intensive industries worldwide. The company's solutions address complex environments where it is critical to optimize the asset design, operation, and maintenance lifecycle. Its software is used in performance engineering, modeling and design, supply chain management, predictive and prescriptive maintenance, digital grid management, and industrial data management. The company serves a range of asset-intensive industries, including oil and gas exploration and production; oil and gas processing and distribution; and oil and gas refining and marketing, as well as bulk and specialty chemicals, engineering and construction, power and utilities, metals and mining, and pharmaceuticals. Aspen Technology, Inc. was founded in 1981 and is headquartered in Bedford, Massachusetts. Aspen Technology, Inc. operates as a subsidiary of EMR Worldwide Inc.
+fullTimeEmployees§3900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Antonio J. Pietri', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1402317, 'exercisedValue': 22763508, 'unexercisedValue': 11939931}, {'maxAge': 1, 'name': 'Mr. Mark  Mouritsen', 'age': 55, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 474840, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manish  Chawla', 'age': 50, 'title': 'Senior VP & Chief Customer Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 614264, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Harris', 'title': 'Senior VP and Chief Marketing & Strategy Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophia  Xu', 'title': 'Chief Corporate Development Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Filipe  Soares-Pinto', 'title': 'Senior Vice President of Global Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Vinci', 'title': 'Chief Human Resource Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Santy M.Sc.', 'title': 'Chief Integration Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rasha  Hasaneen', 'title': 'Chief Product & Sustainability Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Antoun', 'title': 'Senior VP and Chief Research & Software Development Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.818
+priceToSalesTrailing12Months§12.721344
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.35
+pegRatio§1.81
+exchange§NMS
+quoteType§EQUITY
+shortName§Aspen Technology, Inc.
+longName§Aspen Technology, Inc.
+firstTradeDateEpochUtc§783178200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3d354907-0c9d-3a86-beda-8f582bcf66a9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§255.0
+targetLowPrice§180.0
+targetMeanPrice§213.33
+targetMedianPrice§215.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.913
+grossMargins§0.63505
+ebitdaMargins§0.28771
+trailingPegRatio§2.394

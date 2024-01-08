@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 08:35:45.201149
+address1§15 Fetter Lane
+address2§Holbom
+city§London
+zip§EC4A 1BW
+country§United Kingdom
+website§https://www.belluscura.com
+industry§Medical Devices
+industryKey§medical-devices
+industryDisp§Medical Devices
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Belluscura plc develops and commercialize oxygen related medical device products. The company offers X-PLOR, a modular portable oxygen concentrator. Belluscura plc was incorporated in 2015 and is based in London, the United Kingdom.
+fullTimeEmployees§24
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert  Rauker', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 448853, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Neicheril', 'title': 'CFO & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith  Cook', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Fary', 'title': 'Senior Vice President of Global Sales & Executive Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Clement', 'title': 'Head of Commercial Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.692
+priceToSalesTrailing12Months§29.163593
+currency§GBp
+forwardEps§-0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§BELLUSCURA PLC ORD 1P
+longName§Belluscura plc
+firstTradeDateEpochUtc§1622185200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bfb1bcf9-9730-3af2-b3fb-c2c3beb1d35a
+messageBoardId§finmb_330986267
+targetHighPrice§1.24
+targetLowPrice§1.24
+targetMeanPrice§1.24
+targetMedianPrice§1.24
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§4.17
+grossMargins§0.73847
+ebitdaMargins§0.0
+trailingPegRatio§None

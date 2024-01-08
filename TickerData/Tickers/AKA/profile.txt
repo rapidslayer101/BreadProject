@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 02:26:28.836464
+address1§100 Montgomery Street
+address2§Suite 1600
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§415 295 6085
+website§https://www.aka-brands.com
+industry§Internet Retail
+industryKey§internet-retail
+industryDisp§Internet Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§a.k.a. Brands Holding Corp. operates a portfolio of online fashion brands in the United States, Australia, and internationally. It offers apparel, footwear, and accessories through its online stores under the Princess Polly, Culture Kings, Petal & Pup, and mnml brands, as well as operates physical stores under the Culture Kings brand name. The company was founded in 2018 and is headquartered in San Francisco, California.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ciaran Joseph Long', 'age': 50, 'title': 'Interim CEO & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 535811, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Frank Trembley', 'age': 44, 'title': 'Chief Information Officer & Senior VP of Operations', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 448237, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill Elizabeth Ramsey', 'age': 51, 'title': 'Advisor & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 849945, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Beard', 'age': 38, 'title': 'CEO & Co-Founder of Culture Kings', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth C. White', 'title': 'VP and Head of Legal & Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily  Schwartz', 'title': 'Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria  Perry', 'title': 'President of Petal & Pup', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Robert Gonneville', 'age': 32, 'title': 'Vice President of Strategy and M&A', 'yearBorn': 1991, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Yuska', 'title': 'President of Culture Kings U.S.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nick  Bowersox', 'title': 'President of MNML', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.485
+priceToSalesTrailing12Months§0.18571813
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.34
+pegRatio§0.03
+exchange§NYQ
+quoteType§EQUITY
+shortName§a.k.a. Brands Holding Corp.
+longName§a.k.a. Brands Holding Corp.
+firstTradeDateEpochUtc§1632317400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§22624e3e-e8c4-3dda-a8f7-494a8a098ed6
+messageBoardId§finmb_1679126434
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§8.0
+targetMeanPrice§9.0
+targetMedianPrice§8.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.273
+grossMargins§0.55497
+ebitdaMargins§0.01905
+trailingPegRatio§None

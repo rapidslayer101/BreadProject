@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 02:39:54.047676
+address1§13 Charles II Street
+address2§St James’s
+city§London
+zip§SW1Y 4QU
+country§United Kingdom
+phone§44 20 7355 0205
+website§https://www.winkworthplc.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§M Winkworth PLC operates as a franchisor to the Winkworth estate agencies in the United Kingdom. It provides estate agency sales franchising, residential lettings, and letting and property management services under the Winkworth brand. The company was founded in 1835 and is based in London, the United Kingdom.
+fullTimeEmployees§56
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dominic Charles Mackay Agace', 'age': 44, 'title': 'CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 254000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew John Diarmid Nicol', 'age': 60, 'title': 'CFO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 164000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret Ogunbunmi Doregos', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.073699996
+exDividendDate§1697673600
+payoutRatio§0.8478
+fiveYearAvgDividendYield§5.85
+beta§0.799
+priceToSalesTrailing12Months§2.1878145
+currency§GBp
+forwardEps§12.6
+exchange§LSE
+quoteType§EQUITY
+shortName§M WINKWORTH PLC ORD 0.5P
+longName§M Winkworth PLC
+firstTradeDateEpochUtc§1258012800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8d8e729a-ec80-3b6f-a191-384ddaa20631
+recommendationKey§none
+quickRatio§4.382
+earningsGrowth§-0.317
+grossMargins§0.82772005
+ebitdaMargins§0.24449
+trailingPegRatio§None

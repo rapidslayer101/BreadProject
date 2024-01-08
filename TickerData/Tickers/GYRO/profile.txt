@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 11:45:09.462918
+address1§One Flowerfield
+address2§Suite 24
+city§Saint James
+state§NY
+zip§11780-1503
+country§United States
+phone§(631) 584-5400
+fax§(631) 584-7075
+website§https://www.gyrodyne.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Gyrodyne, LLC owns and manages a diversified portfolio of real estate properties comprising office, industrial and service-oriented properties in the New York metropolitan area. Gyrodyne owns a 63 acre site approximately 50 miles east of New York City on the north shore of Long Island, which includes industrial and office buildings and undeveloped property which is the subject of plans to seek value-enhancing entitlements. Gyrodyne also owns a medical office park in Cortlandt Manor, New York which is also the subject of a subdivision application. Gyrodyne's common shares are traded on the NASDAQ Stock Market under the symbol GYRO.
+fullTimeEmployees§6
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary Jay Fitlin', 'age': 58, 'title': 'President, CEO, CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 260000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Pitsiokos', 'age': 63, 'title': 'Chief Compliance Officer, COO, Executive VP & Corporate Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 210000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dawn  Ibraham', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1498176000
+payoutRatio§0.0
+beta§0.572
+priceToSalesTrailing12Months§5.6060686
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Gyrodyne , LLC
+longName§Gyrodyne, LLC
+firstTradeDateEpochUtc§808752600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c18602f4-98e4-3a0a-868f-afd4b735938e
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.41651002
+ebitdaMargins§-1.12521
+trailingPegRatio§None

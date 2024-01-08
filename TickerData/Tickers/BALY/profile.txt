@@ -1,0 +1,57 @@
+# reload+after+2024-01-20 04:27:03.653620
+address1§100 Westminster Street
+city§Providence
+state§RI
+zip§02903
+country§United States
+phone§401 475 8474
+fax§401 727 4770
+website§https://www.ballys.com
+industry§Resorts & Casinos
+industryKey§resorts-casinos
+industryDisp§Resorts & Casinos
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Bally's Corporation, a gaming, hospitality, and entertainment company, engages in casinos and resorts, and online gaming businesses in the United States. The company operates through three segments: Casinos & Resorts, North America Interactive, and International Interactive. It offers physical and interactive entertainment and gaming experiences, including traditional casino offerings, iCasino, online bingo games, sportsbook, daily fantasy sports, and free-to-play games. The company owns and manages Twin River Hotel in Lincoln, Rhode Island; Hard Rock Hotel & Casino in Biloxi, Mississippi; Tiverton Casino & Hotel in Tiverton, Rhode Island; Dover Casino Resort in Dover, Delaware; Black Hawk hotel in Black Hawk, Colorado; Kansas City Casino in Kansas City, Missouri; Vicksburg Casino in Vicksburg, Mississippi; Atlantic City Casino Resort in Atlantic City, New Jersey; Shreveport Casino & Hotel in Shreveport, Louisiana; Lake Tahoe Casino Resort in Lake Tahoe, Nevada; Evansville Casino & Hotel in Evansville, Indiana; Quad Cities Casino & Hotel in Rock Island, Illinois; and Arapahoe Park in Aurora, Colorado. The company was formerly known as Twin River Worldwide Holdings, Inc. and changed its name to Bally's Corporation in November 2020. Bally's Corporation was incorporated in 2004 and is headquartered in Providence, Rhode Island.
+fullTimeEmployees§10500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robeson Mandela Reeves', 'age': 39, 'title': 'CEO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1564205, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George T. Papanier', 'age': 65, 'title': 'President & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1802111, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee Daniel Fenton', 'age': 52, 'title': 'Consultant', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1419156, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig L. Eaton', 'age': 58, 'title': 'Senior VP, Head of Rhode Island Operations & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 677289, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcus  Glover', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly Marie Barker Lee', 'age': 55, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeff  Chalson', 'title': 'Vice President of Corporate Development & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1583366400
+payoutRatio§0.0
+beta§2.084
+priceToSalesTrailing12Months§0.22526905
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.5
+lastDividendValue§0.1
+lastDividendDate§1583366400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Bally's Corporation
+longName§Bally's Corporation
+firstTradeDateEpochUtc§1553866200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ddf09ba-a8cd-350f-89c9-269529455481
+messageBoardId§finmb_100849045
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§8.5
+targetMeanPrice§12.25
+targetMedianPrice§11.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.391
+grossMargins§0.55401003
+ebitdaMargins§0.21199
+trailingPegRatio§None

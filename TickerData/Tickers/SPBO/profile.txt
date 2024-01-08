@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 13:33:20.156844
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the investment grade corporate bond market.
+maxAge§86400
+priceHint§2
+yield§0.0473
+totalAssets§1216180736
+navPrice§28.99506
+currency§USD
+category§Corporate Bond
+ytdReturn§-0.012920801
+beta3Year§1.27
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1302048000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0348417
+fiveYearAverageReturn§0.0243011
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Portfolio Corporate Bond E
+longName§SPDR Portfolio Corporate Bond ETF
+firstTradeDateEpochUtc§1302183000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§375a8b51-a574-342d-8faa-eb42b708f49b
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

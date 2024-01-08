@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 21:34:30.679449
+address1§321 North Clark Street
+address2§Suite 2430
+city§Chicago
+state§IL
+zip§60654
+country§United States
+phone§312 374 6930
+fax§708 575 3945
+website§https://www.xainvestments.com/funds
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Benjamin David Mcculloch', 'title': 'Chief Legal Officer & Sec.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lauren Michelle Basmadjian', 'title': 'Portfolio Mang.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gretchen Mae Mohr Lam CFA', 'title': 'Portfolio Mang.', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.02
+dividendYield§0.15720001
+exDividendDate§1697155200
+fiveYearAvgDividendYield§11.47
+currency§USD
+dateShortInterest§1695945600
+exchange§NYQ
+quoteType§EQUITY
+shortName§XAI Octagon Floating Rate & Alt
+longName§XAI Octagon Floating Rate & Alternative Income Term Trust
+firstTradeDateEpochUtc§1507555800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c523933e-937e-31e2-bb80-979536ff6f5a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§8.0
+targetMeanPrice§8.0
+targetMedianPrice§8.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

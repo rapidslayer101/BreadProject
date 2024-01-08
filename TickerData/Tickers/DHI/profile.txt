@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 07:28:34.409280
+address1§1341 Horton Circle
+city§Arlington
+state§TX
+zip§76011
+country§United States
+phone§817 390 8200
+website§https://www.drhorton.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§D.R. Horton, Inc. operates as a homebuilding company in East, North, Southeast, South Central, Southwest, and Northwest regions in the United States. It engages in the acquisition and development of land; and construction and sale of residential homes in 118 markets across 33 states under the names of D.R. Horton, America's Builder, Express Homes, Emerald Homes, and Freedom Homes. The company constructs and sells single-family detached homes; and attached homes, such as townhomes, duplexes, and triplexes. It also provides mortgage financing services; and title insurance policies, and examination and closing services, as well as engages in the residential lot development business. In addition, the company develops, constructs, owns, leases, and sells multi-family and single-family rental properties; and owns non-residential real estate, including ranch land and improvements. It primarily serves homebuyers. D.R. Horton, Inc. was founded in 1978 and is headquartered in Arlington, Texas.
+fullTimeEmployees§13450
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald R. Horton', 'age': 73, 'title': 'Chairman of the Board', 'yearBorn': 1950, 'fiscalYear': 2023, 'totalPay': 7428095, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul J. Romanowski', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 6874579, 'exercisedValue': 5508554, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David V. Auld', 'age': 67, 'title': 'Executive Vice Chair', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 7094609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill W. Wheat', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 3559900, 'exercisedValue': 5651354, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Murray', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 6874579, 'exercisedValue': 5177752, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aron M. Odom', 'age': 49, 'title': 'Senior VP & Corporate Controller', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Collin  Dawson', 'title': 'Vice President of Corporate Finance & Treasurer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Hansen', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas B. Montano', 'title': 'Senior VP, Corporate Compliance Officer & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  Farris', 'title': 'President of West Region', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0081
+exDividendDate§1700438400
+payoutRatio§0.072399996
+fiveYearAvgDividendYield§1.06
+beta§1.635
+priceToSalesTrailing12Months§1.3957483
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.38
+pegRatio§1.97
+exchange§NYQ
+quoteType§EQUITY
+shortName§D.R. Horton, Inc.
+longName§D.R. Horton, Inc.
+firstTradeDateEpochUtc§707751000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d254dc65-0e21-369d-a470-c3be95306320
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§175.0
+targetLowPrice§107.0
+targetMeanPrice§151.05
+targetMedianPrice§152.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.824
+earningsGrowth§-0.049
+grossMargins§0.25134
+ebitdaMargins§0.17908001
+trailingPegRatio§0.6365

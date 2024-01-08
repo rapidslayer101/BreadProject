@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 11:30:07.073498
+address1§16243 Highway 216
+city§Brookwood
+state§AL
+zip§35444
+country§United States
+phone§205 554 6150
+website§https://warriormetcoal.com
+industry§Coking Coal
+sector§Basic Materials
+longBusinessSummary§Warrior Met Coal, Inc. produces and exports non-thermal metallurgical coal for the steel industry. It operates two underground mines located in Alabama. The company sells its metallurgical coal to a customer base of blast furnace steel producers located primarily in Europe, South America, and Asia. It also sells natural gas, which is extracted as a byproduct from coal production. Warrior Met Coal, Inc. was incorporated in 2015 and is headquartered in Brookwood, Alabama.
+fullTimeEmployees§854
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Walter J. Scheller III', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 3055293, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dale W. Boyles', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1562768, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack K. Richardson', 'age': 61, 'title': 'Chief Operating Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1610465, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelli K. Gant', 'age': 51, 'title': 'Chief Administrative Officer & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1173279, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Lussier', 'age': 48, 'title': 'Chief Commercial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1017617, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian M. Chopin', 'age': 40, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip C. Monroe', 'age': 52, 'title': 'Vice President of Legal', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 829437, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.28
+dividendYield§0.0043
+exDividendDate§1698883200
+payoutRatio§0.0313
+fiveYearAvgDividendYield§0.88
+beta§1.248
+priceToSalesTrailing12Months§2.0433216
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.8
+pegRatio§-0.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Warrior Met Coal, Inc.
+longName§Warrior Met Coal, Inc.
+firstTradeDateEpochUtc§1492090200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§28041402-822c-3351-a193-161273bfd82c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§67.0
+targetLowPrice§48.0
+targetMeanPrice§58.0
+targetMedianPrice§60.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§6.695
+earningsGrowth§-0.137
+grossMargins§0.43416
+ebitdaMargins§0.40464002
+trailingPegRatio§None

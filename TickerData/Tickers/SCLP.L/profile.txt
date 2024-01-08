@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 07:40:19.764999
+address1§Bellhouse Building
+address2§Unit 202 Sanders Road Oxford Science Park
+city§Oxford
+zip§OX4 4GD
+country§United Kingdom
+phone§44 18 6558 2066
+website§https://www.scancell.co.uk
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Scancell Holdings plc, a clinical stage biopharmaceutical company, engages in the discovery and development of novel immunotherapies and vaccines for the treatment of cancer and infectious disease. Its product candidates include SCIB1, an ImmunoBody cancer vaccine that is in Phase II for the treatment of metastatic melanoma; and SCIB2/iSCIB2 vaccine, which is under evaluation for the treatment of patients with solid tumors, including non-small cell lung cancer. It also develops Modi-1, a citrullinated peptides vaccine that is in phase I/II clinical trials for the treatment of solid tumors including triple negative breast, ovarian, renal, and head and neck cancers; and Modi-2, which targets homocitrullinated cancer antigens. In addition, the company focuses to develop SCOV1 and SCOV2 COVIDITY, a DNA vaccine against the SARS-CoV-2 virus. Scancell Holdings plc was founded in 1997 and is based in Oxford, the United Kingdom.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Prof. Lindy Gillian Durrant Ph.D.', 'age': 66, 'title': 'Founder, CEO, Chief Scientific Officer & Director', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 369125, 'exercisedValue': 0, 'unexercisedValue': 967275}, {'maxAge': 1, 'name': 'Dr. Sally Elizabeth Adams', 'age': 62, 'title': 'Chief Development Officer & Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 253506, 'exercisedValue': 0, 'unexercisedValue': 203250}, {'maxAge': 1, 'name': 'Mr. Sathijeevan  Nirmalananthan', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Samantha  Paston Ph.D.', 'title': 'Head of Translational Research', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Adrian  Parry Ph.D.', 'title': 'Head of Manufacturing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Akua  Asare', 'title': 'Head of Quality', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mandeep  Sehmi', 'title': 'Head of Business Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith Charles Green', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.247
+priceToSalesTrailing12Months§18.92253
+currency§GBp
+forwardEps§-1.6
+exchange§LSE
+quoteType§EQUITY
+shortName§SCANCELL HOLDINGS PLC ORD 0.1P
+longName§Scancell Holdings plc
+firstTradeDateEpochUtc§1265961600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b3f00a54-f9bd-361a-9f8b-726d669d3dd9
+targetHighPrice§30.0
+targetLowPrice§23.0
+targetMeanPrice§26.5
+targetMedianPrice§26.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§7.386
+grossMargins§0.9004
+ebitdaMargins§-2.15974
+trailingPegRatio§None

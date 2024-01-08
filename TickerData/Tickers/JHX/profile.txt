@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 08:30:43.861747
+address1§One Park Place
+address2§Block A 1st Floor Upper Hatch Street
+city§Dublin
+zip§2
+country§Ireland
+phone§353 1 411 9929
+fax§353 1 479 1128
+website§https://www.jameshardie.com.au
+industry§Building Materials
+sector§Basic Materials
+longBusinessSummary§James Hardie Industries plc manufactures and sells fiber cement, fiber gypsum, and cement bonded building products for interior and exterior building construction applications primarily in the United States, Australia, Europe, New Zealand, and the Philippines. The company operates through North America Fiber Cement, Asia Pacific Fiber Cement, and Europe Building Products segments. It offers fiber cement interior linings, exterior siding products, and related accessories; and various fiber cement products for a range of applications, including external cladding, internal walls, ceilings, floors, soffits, fences, and facades. The company also provides fiber gypsum and cement-bonded boards for use in the timber frame construction, dry lining, DIY, and structural fire protection applications. Its products are used in residential repair and remodel, and commercial and residential new construction markets James Hardie Industries plc was founded in 1888 and is based in Dublin, Ireland.
+fullTimeEmployees§5473
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Aaron M. Erter', 'age': 49, 'title': 'CEO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 2710178, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Kilcullen B.Sc., M.Sc., MS', 'age': 42, 'title': 'Executive Vice President of Global Operations', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 621373, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Joe  Liu', 'age': 60, 'title': 'Chief Technology Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 591020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Gadd B.E., BEng, M.B.A.', 'age': 50, 'title': 'President of North America', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 912633, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Wilson', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Johnson II', 'age': 51, 'title': 'Chief Information Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Brennan-Chong', 'title': 'Director of Investor Relations & Market Intelligence', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy A. Beastrom B.A., J.D.', 'age': 56, 'title': 'Chief Legal Counsel & Chief Compliance Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Wasserman', 'age': 61, 'title': 'Vice President of Corporate Communications & Global Brand Management', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Farhaj  Majeed', 'age': 45, 'title': 'Chief Human Resources Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1653523200
+payoutRatio§0.0
+fiveYearAvgDividendYield§2.27
+beta§1.06
+priceToSalesTrailing12Months§4.2889247
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.64
+exchange§NYQ
+quoteType§EQUITY
+shortName§James Hardie Industries plc
+longName§James Hardie Industries plc
+firstTradeDateEpochUtc§1003757400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f389b158-7f8f-3f43-a77e-625aa465069b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.3
+targetLowPrice§34.3
+targetMeanPrice§34.3
+targetMedianPrice§34.3
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.764
+earningsGrowth§-0.095
+grossMargins§0.37425
+ebitdaMargins§0.26948
+trailingPegRatio§2.0594

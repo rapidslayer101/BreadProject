@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 21:31:26.176700
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240269/blackrock-muniyield-pennsylvania-quality-fund-inc-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock MuniYield Pennsylvania Quality Fund is a closed ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets. It invests primarily in long-term investment grade municipal obligations exempt from federal income taxes and Pennsylvania income taxes. The fund also invests in short-term investments and other bonds. BlackRock MuniYield Pennsylvania Quality Fund was formed in November 4, 1992 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Managing Director, Head Portfolio Manager, Member of Municipal Bond Operating Committee', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip  Soccio C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.58
+dividendYield§0.0496
+exDividendDate§1704931200
+payoutRatio§0.5455
+fiveYearAvgDividendYield§4.5
+beta§0.457
+priceToSalesTrailing12Months§14.421427
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock MuniYield Pennsylvani
+longName§BlackRock MuniYield Pennsylvania Quality Fund
+firstTradeDateEpochUtc§720887400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6cb4dc08-31ed-3f9d-9704-5c66b0d22a08
+gmtOffSetMilliseconds§-18000000
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§0.157
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

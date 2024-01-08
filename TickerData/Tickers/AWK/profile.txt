@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 00:26:57.657542
+address1§1 Water Street
+city§Camden
+state§NJ
+zip§08102-1658
+country§United States
+phone§856 955 4001
+website§https://www.amwater.com
+industry§Utilities - Regulated Water
+industryKey§utilities-regulated-water
+industryDisp§Utilities - Regulated Water
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§American Water Works Company, Inc., through its subsidiaries, provides water and wastewater services in the United States. It offers water and wastewater services to approximately 1,600 communities in 14 states serving approximately 3.4 million active customers. The company serves residential customers; commercial customers, including food and beverage providers, commercial property developers and proprietors, and energy suppliers; fire service and private fire customers; industrial customers, such as large-scale manufacturers, mining, and production operations; public authorities comprising government buildings and other public sector facilities, such as schools and universities; and other utilities and community water and wastewater systems. It also provides water and wastewater services on various military installations; and undertakes contracts with municipal customers, primarily to operate and manage water and wastewater facilities, as well as offers other related services. In addition, the company operates approximately 80 surface water treatment plants; 490 groundwater treatment plants; 175 wastewater treatment plants; 53,500 miles of transmission, distribution, and collection mains and pipes; 1,100 groundwater wells; 1,700 water and wastewater pumping stations; 1,100 treated water storage facilities; and 73 dams. It serves approximately 14 million people with drinking water, wastewater, and other related services in 24 states. The company was founded in 1886 and is headquartered in Camden, New Jersey.
+fullTimeEmployees§6500
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. M. Susan Hardwick', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2653676, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John C. Griffith', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2199319, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl D. Norton', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1209611, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James H. Gallegos', 'age': 62, 'title': 'Executive VP & General Counsel', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1606994, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie M. Kennedy', 'age': 48, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 880590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa K. Wikle', 'age': 57, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas  Santillo Jr., C.P.P.', 'title': 'Vice President of Digital Infrastructure & Security and Interim Head of Innovation & Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Musgrave CPA', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maureen  Duffy', 'age': 53, 'title': 'Senior Vice President of Communications & External Affairs', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah A. Degillio', 'age': 51, 'title': 'Chief Customer Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.83
+dividendYield§0.0215
+exDividendDate§1707264000
+payoutRatio§0.56299996
+fiveYearAvgDividendYield§1.62
+beta§0.652
+priceToSalesTrailing12Months§6.2133174
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.15
+pegRatio§3.52
+lastDividendValue§0.708
+lastDividendDate§1699833600
+exchange§NYQ
+quoteType§EQUITY
+shortName§American Water Works Company, I
+longName§American Water Works Company, Inc.
+firstTradeDateEpochUtc§1208957400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§00dbc48a-a9a9-3544-b52e-fb89b6ae601a
+messageBoardId§finmb_250885
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§169.0
+targetLowPrice§126.0
+targetMeanPrice§147.79
+targetMedianPrice§146.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.834
+earningsGrowth§0.016
+grossMargins§0.59327
+ebitdaMargins§0.53182
+trailingPegRatio§3.2998

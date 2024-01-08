@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 08:45:59.994573
+address1§1800 Waterfront Centre
+address2§200 Burrard Street
+city§Vancouver
+state§BC
+zip§V6C 3M1
+country§Canada
+phone§604-661-2600
+fax§604-661-2676
+website§https://www.methanex.com
+industry§Chemicals
+sector§Basic Materials
+longBusinessSummary§Methanex Corporation produces and supplies methanol in North America, the Asia Pacific, Europe, and South America. The company also purchases methanol produced by others under methanol offtake contracts and on the spot market. In addition, it owns and leases storage and terminal facilities. The company owns and manages a fleet of approximately 30 ocean-going vessels. It serves chemical and petrochemical producers. Methanex Corporation was incorporated in 1968 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§1410
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard W. Sumner', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1018339, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dean  Richardson', 'title': 'Senior VP of Finance & Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarah  Herriott', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Price', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin M. Maloney', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karine  Delbarre', 'title': 'Senior Vice President of Marketing & Logistics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley W. Boyd', 'title': 'Senior Vice President of Corporate Resources', 'fiscalYear': 2022, 'totalPay': 1154174, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Allard', 'title': 'Senior Vice President of Low Carbon Solutions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gustavo  Parra', 'title': 'Senior Vice President of Manufacturing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rawle  Ramlochan', 'title': 'Plant Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.74
+dividendYield§0.0159
+exDividendDate§1702512000
+payoutRatio§0.2687
+fiveYearAvgDividendYield§2.4
+beta§1.896
+priceToSalesTrailing12Months§0.8299999
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.28
+pegRatio§1.7
+exchange§NMS
+quoteType§EQUITY
+shortName§Methanex Corporation
+longName§Methanex Corporation
+firstTradeDateEpochUtc§706282200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§050146ab-fdd4-3a40-b8bf-0fc9f49aa9bc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§45.0
+targetMeanPrice§52.64
+targetMedianPrice§53.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.126
+earningsGrowth§-0.588
+grossMargins§0.19351
+ebitdaMargins§0.14092
+trailingPegRatio§None

@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 01:44:14.946987
+address1§One University Plaza
+address2§Suite 307
+city§Hackensack
+state§NJ
+zip§07601
+country§United States
+phone§201 808 8400
+website§https://www.championsoncology.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Champions Oncology, Inc., a technology-enabled research company, provides transformative technology solutions for drug discovery and development in the United States. The company, through its Tumorgraft Technology Platform, provides personalized cancer care based upon the implantation of human tumors in immune-deficient mice. It also offers Translational Oncology Solutions that utilizes its technology platform to assist pharmaceutical and biotechnology companies with their drug development process. In addition, it offers Lumin Bioinformatics, a dynamic analytic and visualization software that empowers cancer biologists to harness the power of computational science in a convenient and sophisticated tool. The company markets its products through internet, word of mouth, and sales force to patients and physicians. Champions Oncology, Inc. was formerly known as Champions Biotechnology, Inc. and changed its name to Champions Oncology, Inc. in April 2011. The company was incorporated in 1985 and is headquartered in Hackensack, New Jersey.
+fullTimeEmployees§230
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ronnie  Morris M.D.', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 600000, 'exercisedValue': 0, 'unexercisedValue': 1246349}, {'maxAge': 1, 'name': 'Mr. David Barry Miller M.B.A.', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 285000, 'exercisedValue': 0, 'unexercisedValue': 158130}, {'maxAge': 1, 'name': 'Mr. Brady  Davis', 'title': 'President', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Maria  Mancini Ph.D.', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arthur  Hanson', 'title': 'Vice President of Technology', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel A. Bunting M.B.A., M.S., MBA, MS', 'title': 'VP of Global Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  DeOrnellis BS, CMAR, CPIA, RLATG', 'title': 'Executive Vice President of Global Laboratory Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Ritchie M.B.A., Ph.D.', 'title': 'Chief Commercial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Karin Abarca Heidemann Ph.D.', 'title': 'Executive Vice President of Global Scientific Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marianna  Zipeto Ph.D.', 'title': 'Executive Vice President of Commercial, Research Services & Partnering', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.606
+priceToSalesTrailing12Months§1.6482937
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.05
+pegRatio§-0.69
+exchange§NCM
+quoteType§EQUITY
+shortName§Champions Oncology, Inc.
+longName§Champions Oncology, Inc.
+firstTradeDateEpochUtc§1170426600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e627bf72-f175-3648-90e3-812092d24641
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§9.0
+targetMeanPrice§9.0
+targetMedianPrice§9.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.632
+grossMargins§0.41296002
+ebitdaMargins§-0.12562001
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 06:32:57.119839
+address1§One Design Center Place
+address2§Suite 850
+city§Boston
+state§MA
+zip§02210
+country§United States
+phone§617 368 5000
+website§https://www.bostonbeer.com
+industry§Beverages—Brewers
+sector§Consumer Defensive
+longBusinessSummary§The Boston Beer Company, Inc. engages in the production and sale of alcohol beverages primarily in the United States. The company's flagship beer is Samuel Adams Boston Lager. It offers various beers, hard ciders, flavored malt beverages, and hard seltzers under the Samuel Adams, Twisted Tea, Truly Hard Seltzer, Angry Orchard, Dogfish Head, Angel City, Coney Island, and Havana Lager brand names. The company markets and sells its products to a network of approximately 400 wholesalers in the United States, as well as international wholesalers, importers, or other agencies that in turn sell to retailers, such as grocery stores, club stores, convenience stores, liquor stores, bars, restaurants, stadiums, and other retail outlets. The Boston Beer Company, Inc. also sells its products in Canada, Europe, Israel, Australia, New Zealand, the Caribbean, the Pacific Rim, Mexico, and Central and South America. The Boston Beer Company, Inc. was founded in 1984 and is based in Boston, Massachusetts.
+fullTimeEmployees§2679
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Burwick', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 848576, 'exercisedValue': 539613, 'unexercisedValue': 2155068}, {'maxAge': 1, 'name': 'Ms. Lesya  Lysyj', 'age': 60, 'title': 'Chief Marketing Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 627674, 'exercisedValue': 0, 'unexercisedValue': 147588}, {'maxAge': 1, 'name': "Ms. Carolyn L. O'Boyle", 'age': 44, 'title': 'Chief People Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 637368, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. James Koch', 'age': 73, 'title': 'Founder & Chairman of the Board', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 463332, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel A. Calagione III', 'age': 53, 'title': 'Founder, Brewer of Dogfish Head & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 463332, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Diego  Reynoso', 'title': 'CFO & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Donal Murphy', 'age': 54, 'title': 'Chief Accounting Officer & VP of Finance', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tara L. Heath', 'age': 48, 'title': 'Chief Legal Officer & General Counsel', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Weaver', 'title': 'Director & Head of Cannabis', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip A. Hodges', 'age': 57, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.067
+priceToSalesTrailing12Months§1.9343888
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.17
+pegRatio§1.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§Boston Beer Company, Inc. (The)
+longName§The Boston Beer Company, Inc.
+firstTradeDateEpochUtc§816964200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9f1b3be4-a82b-31d1-84e4-ef7f7ccb1c19
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§406.0
+targetLowPrice§257.0
+targetMeanPrice§337.5
+targetMedianPrice§345.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§1.506
+earningsGrowth§0.675
+grossMargins§0.42183
+ebitdaMargins§0.105790004
+trailingPegRatio§1.1055

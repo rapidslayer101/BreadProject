@@ -1,0 +1,43 @@
+# reload+after+2024-01-19 23:46:24.200272
+address1§37000 Grand River Avenue
+address2§Suite 120
+city§Farmington Hills
+state§MI
+zip§48335
+country§United States
+phone§248 681 9815
+website§https://www.ocuphire.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Ocuphire Pharma, Inc., a clinical-stage ophthalmic biopharmaceutical company, focuses on developing and commercializing therapies for the treatment of refractive and retinal eye disorders. Its lead product candidate is Nyxol eye drops, a once-daily preservative-free eye drop formulation of phentolamine mesylate for dim light or night vision disturbances; and for pharmacologically induced mydriasis and presbyopia. The company also develops APX3330, a twice-a-day oral tablet to target pathways relevant to retinal and choroidal vascular diseases, such as diabetic retinopathy and diabetic macular edema; and APX2009 and APX2014 second generation preclinical product candidates and analogs of APX3330. The company is headquartered in Farmington Hills, Michigan.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard J. Rodgers M.B.A.', 'age': 56, 'title': 'Interim President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 62000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Zaremba Rabourn C.P.A., MAcc', 'age': 42, 'title': 'Senior Vice President of Finance', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 384516, 'exercisedValue': 0, 'unexercisedValue': 39724}, {'maxAge': 1, 'name': 'Mr. Bernhard  Hoffmann M.B.A.', 'age': 67, 'title': 'Senior Vice President of Corporate Development & Operations and Secretary', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 348958, 'exercisedValue': 0, 'unexercisedValue': 190540}, {'maxAge': 1, 'name': 'Mr. George  Magrath M.B.A., M.D., M.S.', 'title': 'CEO & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph K. Schachle MBA', 'age': 58, 'title': 'Chief Operating Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Daniela C. Oniciu Ph.D.', 'title': 'Global Head of R&D, Chemistry and Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mitchell  Brigell Ph.D.', 'title': 'Head of Clinical Development & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Ernst', 'title': 'Global Head of QA & Manufacturing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bindu  Manne', 'title': 'Head of Market Development & Commercialization', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronil A. Patel M.S.', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.319
+priceToSalesTrailing12Months§1.1950349
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.23
+exchange§NCM
+quoteType§EQUITY
+shortName§Ocuphire Pharma, Inc.
+longName§Ocuphire Pharma, Inc.
+firstTradeDateEpochUtc§1131633000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3d2d5c91-208d-3786-9fd3-beade703606f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§16.0
+targetMeanPrice§20.0
+targetMedianPrice§20.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§13.739
+grossMargins§0.69588
+ebitdaMargins§0.50832003
+trailingPegRatio§None

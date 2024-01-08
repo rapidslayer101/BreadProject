@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 16:34:17.433096
+address1§864 Spring Street Northwest
+city§Atlanta
+state§GA
+zip§30308
+country§United States
+phone§937 445 1936
+website§https://www.ncr.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§NCR Corporation provides various software and services in the United States, Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company operates through Retail, Hospitality, Digital Banking, Payments & Network, and Self-Service Banking segments. It offers managed services, including ATM-as-a-Service solutions that allow banks to run their end-to-end ATM channels; software, services, and hardware; and digital banking solutions for financial institution's consumer and business customers. The company also provides solutions for banking channel services, transaction processing, imaging, and branch services. In addition, it offers solutions for retail industry comprising comprehensive API-point of sale (POS) retail software platforms and applications, hardware terminals and peripherals, payment processing solutions, and consumer engagement solutions, as well as self-service kiosks, which consists of self-checkout (SCO). Further, the company provides technology solutions to customers in the hospitality industry comprising table-service, quick-service, and fast casual restaurants. It also offers cloud-based and cloud-enabled software applications for point-of-sale, back office, payment processing, kitchen production, restaurant management, eCommerce, and consumer marketing and loyalty; and hospitality-oriented hardware products, such as POS terminals, kitchen display systems, handheld devices, printers, and peripherals. Additionally, the company provides managed network and infrastructure services to enterprise clients, as well as professional, field, and remote services for network technologies. It also offers solutions for customer account opening and onboarding across digital, branch, and call center channels. NCR Corporation was founded in 1881 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§16000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Wilkinson', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Webb-Walsh', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George  Sloan', 'title': 'Executive VP of Operations & Chief Procurement Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  Moyer', 'age': 49, 'title': 'Corporate VP & Chief Accounting Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Fernandez', 'title': 'Executive VP & Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Gary Nelson', 'title': 'VP of Investor Relations & Treasurer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelli E. Sterrett', 'age': 43, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Trish  Nettleship', 'title': 'Executive VP & Chief Marketing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane Marie Elliott', 'age': 57, 'title': 'Executive VP & CHRO', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank M. Hauck', 'age': 63, 'title': 'Executive VP & President of Digital Banking', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.7
+priceToSalesTrailing12Months§0.29622877
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.8
+pegRatio§2.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§NCR Voyix Corporation
+longName§NCR Voyix Corporation
+firstTradeDateEpochUtc§850314600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1280bca4-6e63-338e-bef6-e16ea3036cd2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§19.0
+targetMeanPrice§22.5
+targetMedianPrice§22.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.614
+grossMargins§0.26876
+ebitdaMargins§0.15614
+trailingPegRatio§None

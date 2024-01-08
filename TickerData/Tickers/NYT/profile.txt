@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 13:31:54.980069
+address1§620 Eighth Avenue
+city§New York
+state§NY
+zip§10018
+country§United States
+phone§212 556 1234
+website§https://www.nytco.com
+industry§Publishing
+sector§Communication Services
+longBusinessSummary§The New York Times Company, together with its subsidiaries, provides news and information for readers and viewers across various platforms worldwide. It offers The New York Times (The Times), a daily and Sunday newspaper in the United States, as well as international edition of The Times; and operates the NYTimes.com website. The company also licenses articles, graphics, and photographs to newspapers, magazines and websites; and licenses content to digital aggregators in the business, professional, academic and library markets; third-party digital platforms; and for use in television, films and books. In addition, it engages in the live events business, which hosts events to connect audiences with journalists and outside thought leaders; and digital advertising business that includes direct-sold website, mobile application, podcast, email, and video advertisements. Further, the company offers The Athletic, a sports media product; Cooking, a recipe product; Games, a puzzle games product; and Audm, a read-aloud audio service that are available on mobile applications and websites, as well as Wirecutter, a product review and recommendation product. It also prints and distributes products for third parties; and offers other products and services. The company was founded in 1851 and is headquartered in New York, New York.
+fullTimeEmployees§5800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Arthur Gregg Sulzberger', 'age': 43, 'title': 'Chairman of the Board & Publisher', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1997852, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meredith A. Kopit Levien', 'age': 52, 'title': 'CEO, President & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 3495977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diane  Brayton', 'age': 54, 'title': 'Executive VP & General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1386563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqueline M. Welch', 'age': 53, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 855432, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Bardeen', 'age': 48, 'title': 'Executive VP & Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Anthony Benten', 'age': 60, 'title': 'Senior VP, Treasurer & Chief Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 766192, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Sobel', 'age': 42, 'title': 'Chief Technology Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony Joseph DiClemente Jr., C.F.A., Jr.', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Rubin', 'title': 'Chief Marketing & Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Tommasini', 'title': 'Chief Classical Music Critic', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.44
+dividendYield§0.0095
+exDividendDate§1704153600
+payoutRatio§0.3621
+fiveYearAvgDividendYield§0.7
+beta§1.1
+priceToSalesTrailing12Months§3.197355
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.61
+pegRatio§2.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§New York Times Company (The)
+longName§The New York Times Company
+firstTradeDateEpochUtc§105283800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a7491d0a-5938-31ac-90ed-59612bfad212
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§53.0
+targetLowPrice§40.0
+targetMeanPrice§46.29
+targetMedianPrice§47.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§1.015
+earningsGrowth§0.455
+grossMargins§0.47267
+ebitdaMargins§0.15416999
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 01:43:43.382715
+address1§900 Middlefield Road
+address2§4th Floor
+city§Redwood City
+state§CA
+zip§94063
+country§United States
+phone§650 980 9099
+website§https://biomeafusion.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Biomea Fusion, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery and development of covalent small molecule drugs to treat patients with genetically defined cancers and metabolic diseases. Its lead product candidate is BMF-219, an orally bioavailable, potent, and selective covalent inhibitor of menin for treating patients with liquid and solid tumors and type 2 diabetes. Biomea Fusion, Inc. was incorporated in 2017 and is headquartered in Redwood City, California.
+fullTimeEmployees§103
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Andrew Butler', 'age': 42, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 921140, 'exercisedValue': 0, 'unexercisedValue': 669170}, {'maxAge': 1, 'name': 'Mr. Ramses M. Erdtmann', 'age': 60, 'title': 'Co-Founder, President, COO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 659532, 'exercisedValue': 0, 'unexercisedValue': 153315}, {'maxAge': 1, 'name': 'Mr. Franco  Valle', 'age': 42, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 651773, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Heow  Tan', 'age': 64, 'title': 'Chief Technology & Quality Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Naomi  Cretcher', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thorsten  Kirschberg Ph.D.', 'age': 53, 'title': 'Executive Vice President of Chemistry', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephan  Morris M.D.', 'title': 'Chief Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ravi  Upasani', 'title': 'Executive Vice President of Intellectual Property', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Juan Pablo Frias M.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.48
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.6
+exchange§NMS
+quoteType§EQUITY
+shortName§Biomea Fusion, Inc.
+longName§Biomea Fusion, Inc.
+firstTradeDateEpochUtc§1618579800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bc0a49f6-c4ed-3d62-b67c-2f5f0de07165
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§10.0
+targetMeanPrice§48.0
+targetMedianPrice§45.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§12.282
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

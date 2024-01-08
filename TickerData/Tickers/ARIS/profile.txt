@@ -1,0 +1,60 @@
+# reload+after+2024-01-22 09:26:43.674275
+address1§9811 Katy Freeway
+address2§Suite 700
+city§Houston
+state§TX
+zip§77024
+country§United States
+phone§281 501 3070
+website§https://www.ariswater.com
+industry§Utilities - Regulated Water
+industryKey§utilities-regulated-water
+industryDisp§Utilities - Regulated Water
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§Aris Water Solutions, Inc., an environmental infrastructure and solutions company, provides water handling and recycling solutions. Its produced water handling business gathers, transports, unless recycled, and handles produced water generated from oil and natural gas production. The company's water solutions business develops and operates recycling facilities to treat, store, and recycle produced water. Aris Water Solutions, Inc. was founded in 2015 and is headquartered in Houston, Texas.
+fullTimeEmployees§196
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William A. Zartler', 'age': 58, 'title': 'Founder & Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 642208, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda M. Brock', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1106300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephan E. Tompsett', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 467520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dylan  Van Brunt', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey K. Hunt', 'age': 45, 'title': 'Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Henthorne P.E.', 'title': 'Chief Scientist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Tuerff', 'title': 'Senior Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Ricker', 'title': 'Senior Vice President of Operations & Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Drew  Dixon', 'title': 'Senior Vice President of Land, Legal & Regulatory', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas A. Patterson', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0432
+exDividendDate§1701820800
+payoutRatio§0.7347
+beta§1.451
+priceToSalesTrailing12Months§1.2958384
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.06
+lastDividendValue§0.09
+lastDividendDate§1701820800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Aris Water Solutions, Inc.
+longName§Aris Water Solutions, Inc.
+firstTradeDateEpochUtc§1634909400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§950a3d97-e5f4-3593-950d-bea6a7f77582
+messageBoardId§finmb_328317559
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§9.0
+targetMeanPrice§14.0
+targetMedianPrice§14.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.089
+earningsGrowth§7.434
+grossMargins§0.54183996
+ebitdaMargins§0.39486998
+trailingPegRatio§None

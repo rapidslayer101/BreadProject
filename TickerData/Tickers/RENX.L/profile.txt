@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 12:40:13.053153
+address1§1460 Broadway
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§646 397 3970
+website§https://renalytix.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§Renalytix Plc develops artificial intelligence-enabled in vitro diagnostic solutions for kidney diseases. The company offers KidneyIntelX, a diagnostic platform that employs an artificial intelligence-enabled algorithm that combines various data inputs, including validated blood-based biomarkers, inherited genetics, and personalized patient data from electronic health record systems to generate a unique patient risk score. Its products are used in kidney disease diagnosis and prognosis, clinical care, patient stratification for drug clinical trials, and drug target discovery. Renalytix Plc has a license agreement with Mount Sinai Health System to develop and commercialize licensed products in connection with the application of artificial intelligence for the diagnosis of kidney disease; and Joslin Diabetes Center, Inc. for developing and commercializing products for diagnosing and predicting kidney disease using biomarkers. The company also has a partnership agreement with Atrium Health, Wake Forest Baptist Health, and Wake Forest School of Medicine to implement an advanced clinical care model designed to improve kidney health and reduce kidney disease progression and kidney failure. The company was formerly known as Renalytix AI plc and changed its name to Renalytix Plc in June 2021. Renalytix Plc was incorporated in 2018 and is based in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James R. McCullough M.B.A.', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 814462, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas H. McLain CPA, M.B.A', 'age': 64, 'title': 'President', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 520828, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver James Sterling III', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 490158, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fergus  Fleming', 'age': 56, 'title': 'CTO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael J. Donovan M.D., Ph.D.', 'age': 69, 'title': 'Chief Medical Officer', 'yearBorn': 1954, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard B. Doran Jr.', 'age': 62, 'title': 'Chief Business Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Salim Gulamabbas Hamir F.C.A.', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.717
+priceToSalesTrailing12Months§5.699441
+currency§GBp
+forwardEps§-0.18
+exchange§LSE
+quoteType§EQUITY
+shortName§RENALYTIX PLC ORD 0.25P
+longName§Renalytix Plc
+firstTradeDateEpochUtc§1541491200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2dd207bc-2c9e-331b-96da-81925cfc67cd
+targetHighPrice§3.93
+targetLowPrice§0.86
+targetMeanPrice§2.03
+targetMedianPrice§1.66
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.982
+grossMargins§0.13965
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 20:45:31.366565
+address1§450 Bedford Street
+city§Lexington
+state§MA
+zip§02420
+country§United States
+phone§781 301 6700
+website§https://ispecimen.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§iSpecimen Inc. provides technology that connects life science researchers who need human biofluids, tissues, and living cells for their research with biospecimens available in healthcare provider organizations worldwide. Its cloud-based technology enables scientists to search for specimens and patients across a network of hospitals, labs, biobanks, blood centers, and other healthcare organizations. The company develops and operates iSpecimen Marketplace, a proprietary online marketplace platform that connects medical researchers who need access to subjects, samples, and data with hospitals, laboratories, and other organizations who have access to them. It serves biopharmaceutical companies, in vitro diagnostic companies, and government/academic institutions. The company was incorporated in 2009 and is headquartered in Lexington, Massachusetts.
+fullTimeEmployees§75
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Tracy Wilson Curley', 'age': 61, 'title': 'CEO, CFO, Treasurer & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 313385, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Bielak', 'age': 53, 'title': 'Chief Information Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 307938, 'exercisedValue': 0, 'unexercisedValue': 2044}, {'maxAge': 1, 'name': 'Ms. Dawn  Michelle', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carly  Lejnieks', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annette  Arnold', 'title': 'Vice President of Sales & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Wages M.D., Ph.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Langlois', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.883
+priceToSalesTrailing12Months§0.52793795
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.92
+pegRatio§-0.03
+exchange§NCM
+quoteType§EQUITY
+shortName§iSpecimen Inc.
+longName§iSpecimen Inc.
+firstTradeDateEpochUtc§1623936600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bed7271d-726f-38b1-a100-708c7909c37e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§2.504
+grossMargins§0.53438
+ebitdaMargins§-1.00106
+trailingPegRatio§None

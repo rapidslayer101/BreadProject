@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 04:46:42.953564
+address1§900 Island Drive
+city§Redwood City
+state§CA
+zip§94065
+country§United States
+phone§650 232 7200
+fax§888 285 3777
+website§https://www.procept-biorobotics.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§PROCEPT BioRobotics Corporation, a surgical robotics company, develops transformative solutions in urology. It develops, manufactures, and sells AquaBeam Robotic System, an image-guided, surgical robotic system for use in minimally invasive urologic surgery with a focus on treating benign prostatic hyperplasia (BPH). The company also designs Aquablation therapy for males suffering from lower urinary tract symptoms due to BPH. PROCEPT BioRobotics Corporation was incorporated in 2007 and is headquartered in Redwood City, California.
+fullTimeEmployees§428
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Reza  Zadno Ph.D.', 'age': 68, 'title': 'President, CEO & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 1258960, 'exercisedValue': 0, 'unexercisedValue': 41723456}, {'maxAge': 1, 'name': 'Mr. Kevin  Waters', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 744100, 'exercisedValue': 0, 'unexercisedValue': 12277080}, {'maxAge': 1, 'name': 'Ms. Alaleh  Nouri', 'age': 44, 'title': 'EVP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 713610, 'exercisedValue': 0, 'unexercisedValue': 6603555}, {'maxAge': 1, 'name': 'Mr. Hisham  Shiblaq', 'age': 47, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 757200, 'exercisedValue': 0, 'unexercisedValue': 7495555}, {'maxAge': 1, 'name': 'Mr. Mohan F. Sancheti', 'age': 59, 'title': 'Senior Vice President of Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry  Templin', 'title': 'Executive VP of Technology & Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew James Bacso C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Minni  Vittal', 'title': 'Senior VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bijesh  Chandran', 'title': 'Senior Vice President of Regulatory Affairs & Quality Assurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thomas J. Yorkey Ph.D.', 'age': 61, 'title': 'Senior VP of Research & Development', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.019
+priceToSalesTrailing12Months§17.719873
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.84
+pegRatio§-0.97
+exchange§NGM
+quoteType§EQUITY
+shortName§PROCEPT BioRobotics Corporation
+longName§PROCEPT BioRobotics Corporation
+firstTradeDateEpochUtc§1631712600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§49ad0be0-4fb2-3415-afa6-5f2d529da9da
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§38.0
+targetMeanPrice§45.57
+targetMedianPrice§45.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§7.779
+grossMargins§0.51956004
+ebitdaMargins§-0.8721
+trailingPegRatio§None

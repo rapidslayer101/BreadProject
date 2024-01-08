@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 22:31:15.162744
+address1§100 International Drive
+address2§18th Floor
+city§Baltimore
+state§MD
+zip§21202
+country§United States
+phone§410 581 8042
+website§https://medifastinc.com
+industry§Personal Services
+sector§Consumer Cyclical
+longBusinessSummary§Medifast, Inc., through its subsidiaries, manufactures and distributes weight loss, weight management, healthy living products, and other consumable health and nutritional products in the United States and the Asia-Pacific. The company offers bars, bites, pretzels, puffs, cereal crunch, drinks, hearty choices, oatmeal, pancakes, pudding, soft serves, shakes, smoothies, soft bakes, and soups under the OPTAVIA, Optimal Health by Take Shape for Life, and Flavors of Home brands. It markets its products through point-of-sale transactions over ecommerce platform. The company was founded in 1980 and is based in Baltimore, Maryland.
+fullTimeEmployees§874
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel R. Chard', 'age': 58, 'title': 'Executive Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1938227, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James P. Maloney CPA', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 823911, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony E. Tyree', 'age': 58, 'title': 'Chief Business Operations Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 655862, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason L. Groves Esq.', 'age': 52, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 669515, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas M. Johnson', 'age': 43, 'title': 'Chief Field Operations Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 696400, 'exercisedValue': 0, 'unexercisedValue': 845009}, {'maxAge': 1, 'name': 'Mr. Jonathan Barrett MacKenzie', 'age': 51, 'title': 'VP of Finance & Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Zenker', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claudia C. Greninger', 'age': 50, 'title': 'Chief Human Resources Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§6.6
+dividendYield§0.102299996
+exDividendDate§1694995200
+payoutRatio§0.6002
+fiveYearAvgDividendYield§3.97
+beta§1.228
+priceToSalesTrailing12Months§0.5766904
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.36
+pegRatio§0.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§MEDIFAST INC
+longName§Medifast, Inc.
+firstTradeDateEpochUtc§757261800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2ad6d597-5c45-3a2e-b11c-796f3a1b029c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§72.0
+targetLowPrice§67.0
+targetMeanPrice§69.5
+targetMedianPrice§69.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.433
+earningsGrowth§-0.352
+grossMargins§0.71254
+ebitdaMargins§0.13382
+trailingPegRatio§None

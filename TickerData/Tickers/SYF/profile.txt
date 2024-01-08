@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 10:33:32.483981
+address1§777 Long Ridge Road
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§203 585 2400
+website§https://www.synchrony.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Synchrony Financial, together with its subsidiaries, operates as a consumer financial services company in the United States. It provides credit products, such as credit cards, commercial credit products, and consumer installment loans. The company also offers private label credit cards, dual cards, co-brand and general purpose credit cards, short- and long-term installment loans, and consumer banking products; and deposit products, including certificates of deposit, individual retirement accounts, money market accounts, and savings accounts to retail and commercial customers, as well as accepts deposits through third-party securities brokerage firms. In addition, it provides debt cancellation products to its credit card customers through online, mobile, and direct mail; and healthcare payments and financing solutions under the CareCredit, Pets Best, and Walgreens brands; payments and financing solutions in the apparel, specialty retail, outdoor, music, and luxury industries. The company offers its credit products through programs established with a group of national and regional retailers, local merchants, manufacturers, buying groups, industry associations, and healthcare service providers; and deposit products through various channels, such as digital and print. It serves digital, health and wellness, retail, home, auto, powersports, jewelry, pets, and other industries. The company was founded in 1932 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§18500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian D. Doubles', 'age': 47, 'title': 'President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 5501930, 'exercisedValue': 0, 'unexercisedValue': 1081272}, {'maxAge': 1, 'name': 'Mr. Brian J. Wenzel Sr.', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2160691, 'exercisedValue': 0, 'unexercisedValue': 45358}, {'maxAge': 1, 'name': 'Ms. Carol D. Juel', 'age': 50, 'title': 'Executive VP and Chief Technology & Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2146300, 'exercisedValue': 0, 'unexercisedValue': 88653}, {'maxAge': 1, 'name': 'Mr. David P. Melito', 'age': 57, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn Harmon Miller', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan S. Mothner Esq.', 'age': 59, 'title': 'Executive VP & Chief Risk and Legal Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1559629, 'exercisedValue': 0, 'unexercisedValue': 111856}, {'maxAge': 1, 'name': 'Ms. Trish  Mosconi', 'title': 'Executive VP, Chief Strategy Officer & Corporate Development Leader', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. DJ  Casto', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart  Schaller', 'age': 54, 'title': 'Executive VP & CEO of Digital', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alberto  Casellas', 'age': 56, 'title': 'Executive VP and CEO of Health & Wellness', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1649018, 'exercisedValue': 0, 'unexercisedValue': 538123}]
+auditRisk§7
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.96
+dividendYield§0.0247
+exDividendDate§1698710400
+payoutRatio§0.1731
+fiveYearAvgDividendYield§2.7
+beta§1.683
+priceToSalesTrailing12Months§2.086488
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.35
+pegRatio§-2.03
+exchange§NYQ
+quoteType§EQUITY
+shortName§Synchrony Financial
+longName§Synchrony Financial
+firstTradeDateEpochUtc§1406813400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9d8744fb-a186-3d5c-997b-e6eb37ad99bb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§54.0
+targetLowPrice§29.0
+targetMeanPrice§37.84
+targetMedianPrice§38.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§19
+earningsGrowth§0.007
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

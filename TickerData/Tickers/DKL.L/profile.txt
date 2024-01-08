@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 11:36:04.830964
+address1§Nicolas Court
+address2§Office 101, First Floor 38 Agias Fylaxeos
+city§Limassol
+zip§3025
+country§Cyprus
+website§https://www.dekelagrivision.com
+industry§Farm Products
+industryKey§farm-products
+industryDisp§Farm Products
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Dekel Agri-Vision plc, through its subsidiaries, operates palm oil plantations in the Republic of Côte d'Ivoire. The company produces and sells crude palm oil, palm kernel, palm kernel oil, and palm kernel cakes. It also produces and sells cashew nuts. The company was formerly known as DekelOil Public Limited and changed its name to Dekel Agri-Vision plc in November 2019. Dekel Agri-Vision plc was incorporated in 2007 and is based in Limassol, Cyprus.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yuval  Rasin', 'title': 'CEO & Executive Director', 'fiscalYear': 2022, 'totalPay': 185126, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yehoshua Shai Kol', 'title': 'CFO, Deputy CEO & Executive Director', 'fiscalYear': 2022, 'totalPay': 186848, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lincoln John Moore', 'age': 45, 'title': 'Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 84383, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1499904000
+payoutRatio§0.0
+beta§0.94
+priceToSalesTrailing12Months§0.3403115
+currency§GBp
+forwardEps§0.0
+lastDividendValue§0.17
+lastDividendDate§1499904000
+exchange§LSE
+quoteType§EQUITY
+shortName§DEKEL AGRI-VISION PLC ORD EUR0.
+longName§Dekel Agri-Vision plc
+firstTradeDateEpochUtc§1363593600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c206c645-f678-3a1f-bbd8-8eb2d92b9cee
+messageBoardId§finmb_231023764
+recommendationKey§none
+quickRatio§0.254
+grossMargins§0.10059
+ebitdaMargins§0.03531
+trailingPegRatio§None

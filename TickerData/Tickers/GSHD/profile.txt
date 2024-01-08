@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 14:45:07.846787
+address1§Building 4
+address2§Suite 4500 1500 Solana Boulevard
+city§Westlake
+state§TX
+zip§76262
+country§United States
+phone§214 838 5500
+website§https://www.goosehead.com
+industry§Insurance—Diversified
+sector§Financial Services
+longBusinessSummary§Goosehead Insurance, Inc. operates as a holding company for Goosehead Financial, LLC that provides personal lines insurance agency services in the United States. It offers homeowner's, automotive, dwelling property, flood, wind, earthquake, excess liability or umbrella, motorcycle, recreational vehicle, general liability, property, and life insurance products and services. The company has 2,125 franchise locations. Goosehead Insurance, Inc. was founded in 2003 and is headquartered in Westlake, Texas.
+fullTimeEmployees§1426
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark E. Jones', 'age': 61, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1915174, 'exercisedValue': 0, 'unexercisedValue': 3224368}, {'maxAge': 1, 'name': 'Ms. Robyn Mary Elizabeth Jones', 'age': 60, 'title': 'Co-Founder & Vice Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark K. Miller', 'age': 57, 'title': 'President, COO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 574682, 'exercisedValue': 0, 'unexercisedValue': 1499879}, {'maxAge': 1, 'name': 'Mr. Mark E. Jones Jr.', 'age': 31, 'title': 'Chief Financial Officer', 'yearBorn': 1992, 'fiscalYear': 2022, 'totalPay': 334399, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Ricketts', 'title': 'Executive VP of Technology & Partnerships', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Walker', 'title': 'Managing Director of  IT Security & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "John  O'Connor", 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Challis', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dericka  Marshall-Dillon', 'title': 'Managing Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Delavan', 'title': 'Managing Director of Carrier Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1628208000
+payoutRatio§0.0
+beta§1.31
+priceToSalesTrailing12Months§10.490953
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.74
+pegRatio§1.69
+exchange§NMS
+quoteType§EQUITY
+shortName§Goosehead Insurance, Inc.
+longName§Goosehead Insurance, Inc
+firstTradeDateEpochUtc§1524835800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4a03e350-a2b3-3a7f-bf23-760749f904db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§100.0
+targetLowPrice§41.0
+targetMeanPrice§79.56
+targetMedianPrice§84.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.454
+earningsGrowth§2.111
+grossMargins§0.41911998
+ebitdaMargins§0.17011999
+trailingPegRatio§None

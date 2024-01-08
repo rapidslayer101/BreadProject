@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 09:47:55.406597
+address1§1331 Gemini Street
+address2§Suite 250
+city§Houston
+state§TX
+zip§77058
+country§United States
+phone§866 660 8156
+website§https://www.vertexenergy.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§Vertex Energy, Inc., an energy transition company that focuses on the production and distribution of conventional and alternative fuels. It engages in refining and distributing petroleum products comprising the mobile refinery and related operations. The company also sells ferrous and non-ferrous recyclable metal products, and markets Group III base oils and other petroleum-based products, as well as provides transportation and marine salvage services. Vertex Energy, Inc. was founded in 2001 and is headquartered in Houston, Texas.
+fullTimeEmployees§497
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Benjamin P. Cowart', 'age': 54, 'title': 'Founder, Chairman, CEO & President', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1305927, 'exercisedValue': 0, 'unexercisedValue': 2199482}, {'maxAge': 1, 'name': 'Mr. Christopher  Carlson', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 809461, 'exercisedValue': 0, 'unexercisedValue': 2652016}, {'maxAge': 1, 'name': 'Mr. James Gary Rhame', 'age': 63, 'title': 'Chief Operating Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 818110, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Paul Gregory Esq.', 'age': 73, 'title': 'General Counsel & Secretary', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 128125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alvaro  Ruiz', 'age': 54, 'title': 'Chief Strategy Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1608192, 'exercisedValue': 491937, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart  Rice', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas S. Haugh', 'age': 52, 'title': 'Chief Commercial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Ragozzino Jr., C.F.A.', 'title': 'Investor Relations Contact', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.652
+priceToSalesTrailing12Months§0.06318302
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.4
+pegRatio§-0.93
+exchange§NCM
+quoteType§EQUITY
+shortName§Vertex Energy, Inc
+longName§Vertex Energy, Inc.
+firstTradeDateEpochUtc§719674200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f84e375d-78c9-32b9-98a3-8000d34b9981
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.5
+targetLowPrice§4.0
+targetMeanPrice§6.5
+targetMedianPrice§6.75
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.311
+earningsGrowth§0.139
+grossMargins§0.08056
+ebitdaMargins§0.030769998
+trailingPegRatio§None

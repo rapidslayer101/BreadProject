@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 04:44:59.969020
+address1§919 East Hillsdale Boulevard
+address2§Suite 250
+city§Foster City
+state§CA
+zip§94404
+country§United States
+phone§650 473 7700
+website§https://www.geron.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Geron Corporation, a late-stage clinical biopharmaceutical company, focuses on the development and commercialization of therapeutics for myeloid hematologic malignancies. It develops imetelstat, a telomerase inhibitor that is in Phase 3 clinical trials, which inhibits the uncontrolled proliferation of malignant stem and progenitor cells in myeloid hematologic malignancies for the treatment of low or intermediate-1 risk myelodysplastic syndromes and intermediate-2 or high-risk myelofibrosis. Geron Corporation was incorporated in 1990 and is headquartered in Foster City, California.
+fullTimeEmployees§107
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. John A. Scarlett M.D.', 'age': 72, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 1528462, 'exercisedValue': 0, 'unexercisedValue': 4105147}, {'maxAge': 1, 'name': 'Dr. Andrew J. Grethlein', 'age': 59, 'title': 'Executive VP & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 847199, 'exercisedValue': 0, 'unexercisedValue': 995146}, {'maxAge': 1, 'name': 'Ms. Michelle J. Robertson', 'age': 56, 'title': 'Executive VP, CFO, Treasurer and Principal Financial & Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aron  Feingold', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Samuels', 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon  Odam', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa A. Kelly Behrs', 'age': 59, 'title': 'Executive VP of Business Operations & Chief Alliance Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 753220, 'exercisedValue': 0, 'unexercisedValue': 41563}, {'maxAge': 1, 'name': 'Mr. Anil  Kapur', 'age': 53, 'title': 'Executive VP of Corporate Strategy & Chief Commercial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 654892, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward E. Koval', 'age': 61, 'title': 'Executive VP & Chief Business Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Faye  Feller M.D.', 'age': 41, 'title': 'Executive VP & Chief Medical Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.605
+priceToSalesTrailing12Months§3443.4026
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.36
+pegRatio§-1.23
+exchange§NMS
+quoteType§EQUITY
+shortName§Geron Corporation
+longName§Geron Corporation
+firstTradeDateEpochUtc§838819800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c31a9eb1-93e6-345d-be75-d9dfbe5121ea
+gmtOffSetMilliseconds§-18000000
+recommendationMean§1.5
+recommendationKey§strong_buy
+quickRatio§3.673
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

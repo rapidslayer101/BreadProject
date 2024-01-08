@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 10:44:30.257833
+address1§11 Hurley Street
+city§Cambridge
+state§MA
+zip§02141
+country§United States
+phone§617 401 9000
+website§https://www.editasmedicine.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Editas Medicine, Inc., a clinical stage genome editing company, focuses on developing transformative genomic medicines to treat a range of serious diseases. It develops a proprietary gene editing platform based on CRISPR technology. The company develops EDIT-101, which is in Phase 1/2 BRILLIANCE trial for Leber Congenital Amaurosis 10; autosomal dominant retinitis pigmentosa; and EDIT-301, a clinical development gene-edited medicine to treat sickle cell disease and transfusion-dependent beta-thalassemia. In addition, the company is developing gene-edited Natural Killer cell medicines to treat solid tumor cancers; alpha-beta T cells for multiple cancers; and gamma delta T cell therapies to treat cancer. It has a research collaboration with Juno Therapeutics, Inc. to develop engineered T cells for cancer; strategic alliance and option agreement with Allergan Pharmaceuticals International Limited to discover, develop, and commercialize new gene editing medicines for a range of ocular disorders. The company was formerly known as Gengine, Inc. and changed its name to Editas Medicine, Inc. in November 2013. Editas Medicine, Inc. was incorporated in 2013 and is based in Cambridge, Massachusetts.
+fullTimeEmployees§226
+companyOfficers§[{'maxAge': 1, 'name': "Dr. Gilmore  O'Neill", 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 815371, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Baisong  Mei M.D., Ph.D.', 'title': 'Senior VP & Chief Medical Officer', 'fiscalYear': 2022, 'totalPay': 386989, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Feng  Zhang Ph.D.', 'title': 'Co-Founder & Scientific Advisory Board Member', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. George McDonald Church Ph.D.', 'age': 69, 'title': 'Co-Founder & Scientific Advisory Board Member', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. J. Keith Joung M.D., Ph.D.', 'title': 'Co-Founder & Scientific Advisory Board Member', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David R. Liu Ph.D.', 'title': 'Co-Founder & Scientific Advisory Board Member', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry R. Gill III', 'age': 62, 'title': 'Senior Vice President of Operations', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Linda C. Burkly Ph.D.', 'title': 'Executive VP & Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cristi  Barnett', 'title': 'Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charlene  Stern J.D., Ph.D.', 'title': 'Executive VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.891
+priceToSalesTrailing12Months§30.167164
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.38
+pegRatio§-2.4
+exchange§NMS
+quoteType§EQUITY
+shortName§Editas Medicine, Inc.
+longName§Editas Medicine, Inc.
+firstTradeDateEpochUtc§1454509800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§93762d80-2eed-34b3-a1c5-9d1d46b35248
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§7.0
+targetMeanPrice§14.67
+targetMedianPrice§15.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§6.007
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

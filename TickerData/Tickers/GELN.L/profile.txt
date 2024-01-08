@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 19:37:58.723658
+address1§3 Noble Street
+address2§Level 4 LDN:W
+city§London
+zip§EC2V 7EE
+country§United Kingdom
+phone§44 2077 492 640
+website§https://www.gelion.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§Gelion plc, together with its subsidiary, engages in the research and development, design, manufacture, and sale of battery systems in the United Kingdom and internationally. The company offers storage batteries, which include lithium-sulfur and zinc hybrid cell batteries. Its products are used in various applications, including drones/unmanned aerial vehicles, commercial e-aviation, passenger and heavy vehicles, and heavy electric vehicles; and stand-alone power systems, commercial and industry systems, pole-top batteries, uninterruptible power supplies, utility-scale stationary ESS, and reserve power applications. The company was incorporated in 2015 and is based in London, the United Kingdom.
+fullTimeEmployees§47
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John William Wood', 'age': 60, 'title': 'CEO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 217463, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Thomas  Maschmeyer Ph.D.', 'age': 57, 'title': 'Founder, Principal Technology Advisor & Non-Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amit  Gupta B.Com., C.A.', 'age': 47, 'title': 'CFO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 189000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicholas  Batt', 'title': 'Engineering & Operations Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Lanfranconi Ph.D.', 'title': 'Head of Technology', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma  Dyer', 'title': 'General Manager People & Culture', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Billy Anthony French', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.127
+priceToSalesTrailing12Months§16.123993
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§GELION PLC ORD 0.1P
+longName§Gelion plc
+firstTradeDateEpochUtc§1638259200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9f7b45bb-9828-3c08-881e-69287070f89b
+targetHighPrice§88.0
+targetLowPrice§88.0
+targetMeanPrice§88.0
+targetMedianPrice§88.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§8.713
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

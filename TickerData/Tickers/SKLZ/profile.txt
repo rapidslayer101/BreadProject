@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 20:33:13.565512
+address1§PO Box 445
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§415 762 0511
+website§https://www.skillz.com
+industry§Electronic Gaming & Multimedia
+sector§Communication Services
+longBusinessSummary§Skillz Inc. operates a mobile game platform in the United States and internationally. The company primarily develops and supports a proprietary online-hosted technology platform that enables independent game developers to host tournaments and provide competitive gaming activity to end-users. The company distributes games through direct app download from its website, as well as through third-party platforms. Skillz Inc. was founded in 2012 and is based in San Francisco, California.
+fullTimeEmployees§240
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew C. Paradise', 'age': 40, 'title': 'Co-Founder, CEO & Chairman of the Board', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 548093, 'exercisedValue': 10144344, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Roswig', 'age': 46, 'title': 'President, CFO & Global Head of Accounting', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 401923, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Casey  Chafkin', 'age': 38, 'title': 'Co-founder, Chief Strategy Officer, Treasurer & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 680917, 'exercisedValue': 0, 'unexercisedValue': 919544}, {'maxAge': 1, 'name': 'Mr. Andrew  Dahlinghaus', 'age': 48, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Susan  Swanson', 'title': 'Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott D. Henry', 'age': 58, 'title': 'Executive Advisor', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 926029, 'exercisedValue': 5430120, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy David Napoleon', 'age': 48, 'title': 'Head of Strategic Partnerships', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Vanous', 'title': 'Head of Developer Success', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Salvatore  Lento Jr.', 'age': 52, 'title': 'Controller', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.78
+priceToSalesTrailing12Months§0.72963095
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.66
+exchange§NYQ
+quoteType§EQUITY
+shortName§Skillz Inc.
+longName§Skillz Inc.
+firstTradeDateEpochUtc§1587994200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3708ee1e-2bae-342e-bd3b-ea0fdd9c727f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§6.0
+targetMeanPrice§9.5
+targetMedianPrice§8.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§5.312
+grossMargins§0.89968
+ebitdaMargins§-0.54245996
+trailingPegRatio§None

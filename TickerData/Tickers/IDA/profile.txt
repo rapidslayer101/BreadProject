@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 07:30:23.157333
+address1§1221 West Idaho Street
+city§Boise
+state§ID
+zip§83702-5627
+country§United States
+phone§208 388 2200
+website§https://www.idacorpinc.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§IDACORP, Inc., together with its subsidiaries, engages in the generation, transmission, distribution, purchase, and sale of electric energy in the United States. The company operates 17 hydropower generating plants located in southern Idaho and eastern Oregon; three natural gas-fired plants in southern Idaho; and interests in two coal-fired steam electric generating plants located in Wyoming and Nevada. As of December 31, 2022, it had approximately 4,832 pole-miles of high-voltage transmission lines; 23 step-up transmission substations located at power plants; 21 transmission substations; 11 switching stations; 30 mixed-use transmission and distribution substations; 189 energized distribution substations; and 29,384 pole-miles of distribution lines, as well as provides electric utility services to approximately 618,000 retail customers in southern Idaho and eastern Oregon. The company serves commercial and industrial customers, which involved in food processing, electronics and general manufacturing, agriculture, health care, government, and education. It also invests in housing and other real estate tax credit investments. IDACORP, Inc. was founded in 1915 and is headquartered in Boise, Idaho.
+fullTimeEmployees§2070
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lisa A. Grow', 'age': 58, 'title': 'CEO, President & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2348414, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian R. Buckham', 'age': 44, 'title': 'Senior VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 959891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey L. Malmen', 'age': 55, 'title': 'Senior Vice President of Public Affairs', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 774558, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam J. Richins', 'age': 44, 'title': 'Senior VP & COO of Idaho Power', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1005548, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason C. Huszar', 'title': 'VP of Information Technology & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Justin S. Forsberg', 'title': 'Director of Investor Relations & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julia A. Hilton', 'title': 'VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah E. Griffin', 'age': 53, 'title': 'Vice President of Human Resources for Idaho Power.', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Bo D. Hanchey', 'age': 47, 'title': 'VP of Customer Operations & Chief Safety Officer for Idaho Power', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick A. Harrington', 'age': 62, 'title': 'Corporate Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.32
+dividendYield§0.0336
+exDividendDate§1698710400
+payoutRatio§0.58959997
+fiveYearAvgDividendYield§2.79
+beta§0.578
+priceToSalesTrailing12Months§2.8170166
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.46
+pegRatio§5.19
+exchange§NYQ
+quoteType§EQUITY
+shortName§IDACORP, Inc.
+longName§IDACORP, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§109c333d-5ae8-3b7b-b828-3b47a0beb735
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§120.0
+targetLowPrice§97.0
+targetMeanPrice§106.0
+targetMedianPrice§102.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.428
+earningsGrowth§-0.014
+grossMargins§0.31456
+ebitdaMargins§0.28983
+trailingPegRatio§2.5764

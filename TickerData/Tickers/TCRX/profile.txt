@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 21:47:31.412190
+address1§830 Winter Street
+city§Waltham
+state§MA
+zip§02451
+country§United States
+phone§857 399 9500
+website§https://www.tscan.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§TScan Therapeutics, Inc., a clinical-stage biopharmaceutical company, develops T cell receptor-engineered T cell therapies for the treatment of patients with cancer. It is developing TSC-100 and TSC-101 that is in Phase I of clinical trial for the treatment of patients with hematologic malignancies to eliminate residual leukemia and prevent relapse after hematopoietic stem cell transplantation; and TSC-204 that is in Phase I for the treatment of solid tumors. The company also developing TSC-200, TSC-201, TSC-202, TSC-203, and TSC-205 for the treatment of solid tumors. In addition, it engages in the developing vaccines for infectious diseases, such as SARS-CoV-2. The company has a collaboration and license agreement with Novartis Institutes for BioMedical Research, Inc., to identify novel cancer antigens from the T cells of patients with a certain specific type of cancer; and a collaboration agreement with Amgen to identify novel targets in Crohn's disease. TScan Therapeutics, Inc. was incorporated in 2018 and is headquartered in Waltham, Massachusetts.
+fullTimeEmployees§145
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Gavin  MacBeath Ph.D.', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 650173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen J. Elledge Ph.D.', 'title': 'Co-Founder & Chairman of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tomasz  Kula Ph.D.', 'title': 'Co-Founder & Member of Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leiden  Dworak M.B.A.', 'title': 'VP of Finance & Principal Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Justin  McCue Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Savelle', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Zoran  Zdraveski J.D., Ph.D.', 'age': 53, 'title': 'Chief Legal Officer & Company Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Hargraves', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shrikanta  Chattopadhyay M.D.', 'title': 'Senior Vice President of Medical & Translational Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Debora  Barton M.D.', 'age': 47, 'title': 'Chief Medical Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.74
+priceToSalesTrailing12Months§16.522442
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.19
+exchange§NGM
+quoteType§EQUITY
+shortName§TScan Therapeutics, Inc.
+longName§TScan Therapeutics, Inc.
+firstTradeDateEpochUtc§1626442200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§78cfed2a-5d5f-3a28-9bf2-d5f7bc0c36ba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§7.0
+targetMeanPrice§10.8
+targetMedianPrice§9.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§6.498
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

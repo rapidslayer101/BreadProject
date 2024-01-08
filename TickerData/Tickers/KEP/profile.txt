@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 00:30:52.810752
+address1§55 Jeollyeok-ro
+city§Naju-Si
+zip§58322
+country§South Korea
+phone§82 6 1345 4213
+website§https://home.kepco.co.kr
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Korea Electric Power Corporation, an integrated electric utility company, engages in the generation, transmission, and distribution of electricity in South Korea and internationally. The company operates through Transmission and Distribution, Nuclear Power Generation, Thermal Power Generation, and Others segments. It generates power from nuclear, coal, oil, liquefied natural gas, internal combustion, combined-cycle, integrated gasification combined cycle, hydro, wind, solar, fuel cell, biogas, and other sources. As of December 31, 2022, the company had a total of 770 generation units, including nuclear, thermal, hydroelectric, and internal combustion units with an installed generation capacity of 82,723 megawatts; transmission system consisted of 35,451 circuit kilometers of lines of 765 kilovolts and others, including high-voltage direct current lines, as well as 895 substations with an installed transformer capacity of 347,426 megavolt-amperes; and distribution system included 139,265 megavolt-amperes of transformer capacity and 10,084,051 units of support with a total line length of 535,241 circuit kilometers. The company provides electricity to residential, commercial, educational, industrial, agricultural, street lighting, and overnight power usage. It also provides engineering and construction services for utility plant and others; utility plant maintenance, electric power information technology, resources development, facility maintenance, electric meter reading, and security services; and engages in nuclear fuel, fly ashes recycling, utility plants construction and operation, and wood pellet utilization businesses. Korea Electric Power Corporation was founded in 1898 and is headquartered in Naju-si, South Korea.
+fullTimeEmployees§22481
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dong-Cheol  Kim', 'age': 68, 'title': 'President, CEO & Director', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guen-Bae  Seo', 'age': 59, 'title': 'Corporate Senior VP, Chief Financial & Strategic Planning and Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Woo-ki  Baek', 'title': 'Head of Finance & Investor Relations Team', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tae-Ok  Kim', 'age': 61, 'title': 'Corporate Senior EVP, Chief Power Grid Officer & Standing Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Heung-Joo  Lee', 'age': 61, 'title': 'Corporate Senior EVP, Chief Global & Nuclear Business Officer and Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung  Bok Lee', 'age': 60, 'title': 'Corporate Senior VP, Chief Business Management Officer & Director', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-Ho  Lee', 'age': 60, 'title': 'Corporate Senior VP, Chief Safety Officer, Chief Business Operations Officer & Director', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun  Young-Sang', 'age': 59, 'title': 'Comptroller, Auditor General & Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Changyoung  Ji', 'title': 'Senior Investor Relations Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yoonhye  Cho', 'title': 'Senior Manager of Finance & IR Team', 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+exDividendDate§1609286400
+payoutRatio§0.0
+fiveYearAvgDividendYield§2.91
+beta§0.745
+priceToSalesTrailing12Months§0.000108828965
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.64
+exchange§NYQ
+quoteType§EQUITY
+shortName§Korea Electric Power Corporatio
+longName§Korea Electric Power Corporation
+firstTradeDateEpochUtc§783264600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5855b759-177f-3b8d-b0fa-86236264964f
+gmtOffSetMilliseconds§-18000000
+recommendationMean§4.0
+recommendationKey§underperform
+quickRatio§0.354
+grossMargins§-0.16921
+ebitdaMargins§-0.05178
+trailingPegRatio§None

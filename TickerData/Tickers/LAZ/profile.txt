@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 17:31:01.359396
+address1§30 Rockefeller Plaza
+city§New York
+state§NY
+zip§10112
+country§United States
+phone§212-632-6000
+website§https://www.lazard.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Lazard, Inc., together with its subsidiaries, operates as a financial advisory and asset management firm in North and South America, Europe, the Middle East, Asia, and Australia. It operates in two segments, Financial Advisory and Asset Management. The Financial Advisory segment offers various financial advisory services regarding mergers and acquisitions, restructurings, capital advisory, shareholder advisory, capital raising, sovereign advisory, and other strategic advisory matters. This segment serves corporate, partnership, institutional, government, sovereign, and individual clients across various industry areas, including consumers, financial institutions, healthcare and life sciences, industrials, power and energy/infrastructure, and real estate, as well as technology, telecommunication, and media and entertainment. The Asset Management segment offers a range of investment solutions, and investment and wealth management services in equity and fixed income strategies; asset allocation strategies; and alternative investments and private equity funds to corporations, public funds, sovereign entities, endowments and foundations, labor funds, financial intermediaries, and private clients. Lazard, Inc. was founded in 1848 and is based in New York, New York.
+fullTimeEmployees§3319
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kenneth Marc Jacobs', 'age': 64, 'title': 'Executive Chairman', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1137563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter R. Orszag', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2075574, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Evan Lawrence Russo J.D.', 'age': 48, 'title': 'Chief Executive Officer of Asset Management', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 868161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond J. McGuire', 'age': 66, 'title': 'President', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Ann Betsch', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexandra  Soto', 'age': 55, 'title': 'Chief Operating Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Gathy', 'title': 'MD & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pierre  Tattevin', 'age': 66, 'title': 'Managing Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott D. Hoffman Esq.', 'age': 60, 'title': 'Chief Administrative Officer, General Counsel & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1520022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexandra M. Deignan', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.052699998
+exDividendDate§1698969600
+payoutRatio§0.89949995
+fiveYearAvgDividendYield§5.3
+beta§1.45
+priceToSalesTrailing12Months§1.3647556
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.15
+pegRatio§9.89
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lazard LTD. Lazard, LTD.
+longName§Lazard, Inc.
+firstTradeDateEpochUtc§1115299800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§db323753-425d-3793-928f-603b7dbac2c3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§31.0
+targetMeanPrice§41.0
+targetMedianPrice§42.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.473
+earningsGrowth§-0.943
+grossMargins§0.87765
+ebitdaMargins§0.0
+trailingPegRatio§0.9735

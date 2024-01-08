@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 13:27:15.660677
+address1§345 Park Avenue
+address2§31st Floor
+city§New York
+state§NY
+zip§10154
+country§United States
+phone§212 503 2100
+fax§212 503 6930
+website§https://www.blackstone-gso.com/bgb-index.php
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Blackstone Strategic Credit 2027 Term Fund is a close ended fixed income mutual fund launched and managed by GSO / Blackstone Debt Funds Management LLC. It invests in the fixed income markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in the loans and other fixed income instruments including first- and second-lien secured loans and high-yield corporate bonds of different maturities. The fund employs fundamental analysis using a research-driven credit analysis approach while focusing on factors like companies which offer attractive risk / return characteristics to create its portfolio. It benchmarks the performance of its portfolio against a composite index comprised of 75% S&P/LSTA Leveraged Loan Index and 25% Barclays US High Yield Index. Blackstone Strategic Credit 2027 Term Fund was formed on September 26, 2012 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert D. Zable', 'age': 50, 'title': 'Managing Director and Portfolio Mang.', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gordon  McKemie C.F.A.', 'age': 38, 'title': 'Portfolio Mang.', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.22
+dividendYield§0.1148
+exDividendDate§1698019200
+payoutRatio§1.1241001
+fiveYearAvgDividendYield§8.45
+currency§USD
+dateShortInterest§1695945600
+lastDividendValue§0.094
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackstone / GSO Strategic Cred
+longName§Blackstone Strategic Credit 2027 Term Fund
+firstTradeDateEpochUtc§1348666200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f6dd3784-eff3-3a64-9407-875be9562e29
+messageBoardId§finmb_183920569
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

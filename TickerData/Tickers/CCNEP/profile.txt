@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 02:43:56.708816
+address1§1 South Second Street
+address2§PO Box 42
+city§Clearfield
+state§PA
+zip§16830
+country§United States
+phone§814 765 9621
+website§https://www.cnbbank.bank
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§CNB Financial Corporation operates as the bank holding company for CNB Bank that provides a range of banking products and services for individual, business, governmental, and institutional customers. The company accepts checking, savings, and time deposit accounts; and offers real estate, commercial, industrial, residential, and consumer loans, as well as various other specialized financial services. It also provides wealth and asset management services, including the administration of trusts and estates, retirement plans, and other employee benefit plans, as well as a range of wealth management services. In addition, the company invests in debt and equity securities; sells nonproprietary annuities and other insurance products; and small balance unsecured loans and secured loans primarily collateralized by automobiles and equipment. The company was founded in 1865 and is headquartered in Clearfield, Pennsylvania.
+fullTimeEmployees§722
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael D. Peduzzi CPA', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 782283, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tito L. Lima', 'age': 58, 'title': 'Senior EVP, CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 554811, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard L. Greslick Jr.', 'age': 46, 'title': 'Senior Executive VP, COO, Secretary & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 558961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leanne D. Kassab', 'age': 55, 'title': 'Senior Executive VP, Chief Experience Officer & Assistant Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 493608, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin T. Griffith', 'age': 60, 'title': 'Senior EVP & Chief Banking Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 517977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven R. Shaffner Shilling', 'age': 52, 'title': 'Executive VP & Chief Wealth Management Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory M. Dixon CPA', 'age': 45, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela D. Wilcoxson', 'age': 52, 'title': 'Executive VP & Chief Commercial Banking Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather J. Koptchak', 'title': 'Senior VP & Chief Employee Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darryl P. Koch', 'title': 'Senior VP, Chief Information Technology & Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.78
+dividendYield§0.08189999
+exDividendDate§1700092800
+beta§0.821
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§CNB Financial Corporation - Dep
+longName§CNB Financial Corporation
+firstTradeDateEpochUtc§1598016600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c4cdcce7-6ac7-3772-bc04-0d773363c6bf
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.331
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

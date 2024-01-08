@@ -1,15 +1,14 @@
-import requests
-import pandas as pd
-import ftplib
-import io
-import re
-import json
-import datetime
-import warnings
+import requests as req
+from ftplib import FTP
+from io import BytesIO
+from random import randint
+from json import loads as json_loads
+from warnings import simplefilter as warning_filter
 from os import rename, mkdir
 from os.path import exists
 from datetime import datetime, timedelta
-from pandas import read_excel
+from pandas import read_excel, read_html, Timestamp
+from yfinance import Ticker
 
 
 # file of functions to pull tickers and indexes from various sources
@@ -24,7 +23,8 @@ else:
 if not exists("TickerData/Tickers"):
     mkdir("TickerData/Tickers")
 
-warnings.simplefilter(action='ignore', category=FutureWarning)
+warning_filter(action='ignore', category=FutureWarning)
+warning_filter(action='ignore', category=UserWarning)
 default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                                  'Chrome/120.0.0.0 Safari/537.3'}
 
@@ -35,33 +35,10 @@ except Exception:
     print("""Warning - Certain functionality 
              requires requests_html, which is not installed.
              
-             Install using: 
-             pip install requests_html
-             
-             After installation, you may have to restart your Python session.""")
+             Install using: pip install requests_html""")
 
     
 base_url = "https://query1.finance.yahoo.com/v8/finance/chart/"
-
-
-def build_url(ticker, start_date=None, end_date=None, interval="1d"):
-    
-    if end_date is None:  
-        end_seconds = int(pd.Timestamp("now").timestamp())
-    else:
-        end_seconds = int(pd.Timestamp(end_date).timestamp())
-        
-    if start_date is None:
-        start_seconds = 7223400
-    else:
-        start_seconds = int(pd.Timestamp(start_date).timestamp())
-    
-    site = base_url + ticker
-    
-    params = {"period1": start_seconds, "period2": end_seconds,
-              "interval": interval.lower(), "events": "div,splits"}
-
-    return site, params
 
 
 def force_float(elt):
@@ -87,7 +64,7 @@ def _convert_to_numeric(s):
 
 
 def tickers_sp500():  # Downloads list of tickers currently listed in the S&P 500
-    sp500 = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
+    sp500 = read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     sp_tickers = []
     for i in range(len(sp500)):
         sp_tickers.append(f"{sp500.values[i][0]}§{sp500.values[i][1]}§{sp500.values[i][2]}§"
@@ -97,11 +74,11 @@ def tickers_sp500():  # Downloads list of tickers currently listed in the S&P 50
 
 
 def _nasdaq_trader(search_param):  # Downloads list of nasdaq tickers
-    ftp = ftplib.FTP("ftp.nasdaqtrader.com")
+    ftp = FTP("ftp.nasdaqtrader.com")
     ftp.login()
     ftp.cwd("SymbolDirectory")
 
-    r = io.BytesIO()
+    r = BytesIO()
     ftp.retrbinary(f'RETR {search_param}.txt', r.write)
 
     info = r.getvalue().decode()
@@ -132,7 +109,7 @@ def tickers_us_other():  # Nasdaq other, funds, etfs, etc.
 
 def tickers_dow():  # Dow_Jones_Industrial_Average
     site = "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
-    table = pd.read_html(site, attrs={"id": "constituents"})[0]
+    table = read_html(site, attrs={"id": "constituents"})[0]
     dow_tickers = []
     for i in range(len(table)):
         dow_tickers.append(f"{table.values[i][2]}§{table.values[i][0]}§{table.values[i][6]}§{table.values[i][1]}§"
@@ -143,7 +120,7 @@ def tickers_dow():  # Dow_Jones_Industrial_Average
 
 def tickers_nifty50():  # NIFTY 50, India
     site = "https://en.wikipedia.org/wiki/NIFTY_50"
-    table = pd.read_html(site, attrs={"id": "constituents"})[0]
+    table = read_html(site, attrs={"id": "constituents"})[0]
     nifty50 = []
     for i in range(len(table)):
         nifty50.append(f"{table.values[i][1]}§{table.values[i][0]}§{table.values[i][2]}")
@@ -152,7 +129,7 @@ def tickers_nifty50():  # NIFTY 50, India
 
 
 def tickers_ftse100():  # UK 100
-    table = pd.read_html("https://en.wikipedia.org/wiki/FTSE_100_Index", attrs={"id": "constituents"})[0]
+    table = read_html("https://en.wikipedia.org/wiki/FTSE_100_Index", attrs={"id": "constituents"})[0]
     ftse100 = []
     for i in range(len(table)):
         ftse100.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
@@ -161,7 +138,7 @@ def tickers_ftse100():  # UK 100
     
 
 def tickers_ftse250():  # UK 250
-    table = pd.read_html("https://en.wikipedia.org/wiki/FTSE_250_Index", attrs={"id": "constituents"})[0]
+    table = read_html("https://en.wikipedia.org/wiki/FTSE_250_Index", attrs={"id": "constituents"})[0]
     ftse250 = []
     for i in range(len(table)):
         ftse250.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
@@ -264,7 +241,7 @@ def refresh_lse_tickers():
 
 def _site_scraper(site):
     # load website so all contents can be scraped
-    tables = pd.read_html(requests.get(site, headers=default_headers).text)
+    tables = read_html(req.get(site, headers=default_headers).text)
     data = {}
     for table in tables:
         for value in table.values:
@@ -285,33 +262,68 @@ def get_ticker_stats(ticker):
     return _site_scraper(stats_site)
 
 
-# todo check which of below functions are useful
-def _parse_json(url, headers=default_headers):
-    html = requests.get(url=url, headers=headers).text
-    json_str = html.split('root.App.main =')[1].split(
-        '(this)')[0].split(';\n}')[0].strip()
-    
+def _ticker_info_writer_(_ticker):
     try:
-        data = json.loads(json_str)[
-            'context']['dispatcher']['stores']['QuoteSummaryStore']
-    except:
-        return '{}'
+        t_object = Ticker(_ticker)
+        t_info = t_object.info
+    except req.exceptions.HTTPError:
+        print(f"Ticker {_ticker} profile failed to load: HTTPError")
+        return {}
+    ticker_profile = {}
+    with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
+        r_day_add, r_hour_add = randint(0, 3), randint(0, 23)
+        f.write(f"# reload+after+{datetime.now()+timedelta(days=12+r_day_add)+timedelta(hours=r_hour_add)}\n")
+        # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
+        ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
+                   "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
+                   "regularMarketVolume", "averageVolume", "averageVolume10days", "averageDailyVolume10Day", "bid",
+                   "ask", "bidSize", "askSize", "marketCap", "fiftyTwoWeekLow", "fiftyTwoWeekHigh", "fiftyDayAverage",
+                   "twoHundredDayAverage", "trailingAnnualDividendRate", "trailingAnnualDividendYield",
+                   "enterpriseValue", "profitMargins", "floatShares", "sharesOutstanding", "sharesShort",
+                   "sharesShortPriorMonth", "sharesShortPreviousMonthDate", "sharesPercentSharesOut",
+                   "heldPercentInsiders", "heldPercentInstitutions", "shortRatio", "shortPercentOfFloat",
+                   "impliedSharesOutstanding", "bookValue", "priceToBook", "lastFiscalYearEnd", "nextFiscalYearEnd",
+                   "mostRecentQuarter", "earningsQuarterlyGrowth", "netIncomeToCommon", "trailingEps",
+                   "lastSplitFactor", "lastSplitDate", "enterpriseToRevenue", "enterpriseToEbitda", "52WeekChange",
+                   "SandP52WeekChange", "symbol", "underlyingSymbol", "currentPrice", "totalCash", "totalCashPerShare",
+                   "ebitda", "totalDebt", "currentRatio", "totalRevenue", "debtToEquity", "revenuePerShare",
+                   "returnOnAssets", "returnOnEquity", "grossProfits", "freeCashflow", "operatingCashflow",
+                   "revenueGrowth", "operatingMargins", "financialCurrency"]
+
+        for _key in t_info.keys():
+            if _key not in ex_keys:
+                t_info[_key] = str(t_info[_key]).replace("\n", "")
+                f.write(f"{_key}§{t_info[_key]}\n")
+                ticker_profile.update({_key: t_info[_key]})
+    return ticker_profile
+
+
+# loads company profile from cache or downloads it, returns profile data
+def load_ticker_info(_ticker):
+    if exists(f"TickerData/Tickers/{_ticker}/profile.txt"):
+        with open(f"TickerData/Tickers/{_ticker}/profile.txt", "r", encoding="utf-8") as f:
+            file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
+            if file_time < datetime.now():
+                ticker_profile = _ticker_info_writer_(_ticker)
+                print(f"Reloaded ticker profile for {_ticker}")
+            else:
+                ticker_profile = {}
+                for line in f.readlines():
+                    key, value = line.replace("\n", "").split("§")
+                    ticker_profile.update({key: value})
     else:
-        # return data
-        new_data = json.dumps(data).replace('{}', 'null')
-        new_data = re.sub(r'\{[\'|\"]raw[\'|\"]:(.*?),(.*?)}', r'\1', new_data)
-
-        json_info = json.loads(new_data)
-
-        return json_info
+        if not exists(f"TickerData/Tickers/{_ticker}"):
+            mkdir(f"TickerData/Tickers/{_ticker}")
+        ticker_profile = _ticker_info_writer_(_ticker)
+    return ticker_profile
 
 
 # todo this function does the same as t_object.institutional_holders,
 #  t_object.major_holders, t_object.mutualfund_holders
-def get_holders(ticker, headers=default_headers):
+def get_holders(ticker):
     # Scrapes the Holders page from Yahoo Finance for an input ticker
     holders_site = f"https://finance.yahoo.com/quote/{ticker}/holders?p={ticker}"
-    tables = pd.read_html(requests.get(holders_site, headers=headers).text)
+    tables = read_html(req.get(holders_site, headers=default_headers).text)
     table_names = ["Major Holders", "Direct Holders (Forms 3 and 4)",
                    "Top Institutional Holders", "Top Mutual Fund Holders"]
     table_mapper = {key: val for key, val in zip(table_names, tables)}
@@ -320,21 +332,20 @@ def get_holders(ticker, headers=default_headers):
 
 
 # todo provides 5 tables of unique data, check usefulness
-def get_analysts_info(ticker, headers=default_headers):
+def get_analysts_info(ticker):
     # Scrapes the Analysts page from Yahoo Finance for an input ticker
     analysts_site = f"https://finance.yahoo.com/quote/{ticker}/analysts?p={ticker}"
-    tables = pd.read_html(requests.get(analysts_site, headers=headers).text)
+    tables = read_html(req.get(analysts_site, headers=default_headers).text)
     table_names = [table.columns[0] for table in tables]
     table_mapper = {key: val for key, val in zip(table_names, tables)}
 
     return table_mapper
 
 
-# todo check usefulness, it still works at least
 def _raw_get_daily_info(site):
     session = HTMLSession()
     resp = session.get(site)
-    tables = pd.read_html(resp.html.raw_html)
+    tables = read_html(resp.html.raw_html)
     df = tables[0].copy()
     df.columns = tables[0].columns
     del df["52 Week Range"]
@@ -351,15 +362,15 @@ def _raw_get_daily_info(site):
     return df
     
 
-def get_day_most_active(count: int=100):
-    return _raw_get_daily_info(f"https://finance.yahoo.com/most-active?offset=0&count={count}")
+def get_day_most_active(offset: int = 0, count: int = 100):
+    return _raw_get_daily_info(f"https://finance.yahoo.com/most-active?offset={offset}&count={count}")
 
 
-def get_day_gainers(count: int=100):
+def get_day_gainers(count: int = 100):
     return _raw_get_daily_info(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
 
 
-def get_day_losers(count: int=100):
+def get_day_losers(count: int = 100):
     return _raw_get_daily_info(f"https://finance.yahoo.com/losers?offset=0&count={count}")
 
 
@@ -367,27 +378,29 @@ def get_day_trending_tickers():
     return _raw_get_daily_info(f"https://finance.yahoo.com/trending-tickers")
 
 
-def get_day_top_etfs(count: int=100):
+def get_day_top_etfs(count: int = 100):
     return _raw_get_daily_info(f"https://finance.yahoo.com/etfs?offset=0&count={count}")
 
 
-def get_day_top_mutual(count: int=100):
+def get_day_top_mutual(count: int = 100):
     return _raw_get_daily_info(f"https://finance.yahoo.com/mutualfunds?offset=0&count={count}")
 
 
-def get_day_top_futures(headers=default_headers):
+def get_day_top_futures():
     # why is there a unnamed column???
-    return pd.read_html(requests.get("https://finance.yahoo.com/commodities", headers=headers).text)[0]
+    return read_html(req.get("https://finance.yahoo.com/commodities", headers=default_headers).text)[0]
 
 
-def get_day_highest_open_interest(count: int=100, headers=default_headers):
+def get_day_highest_open_interest(count: int = 100):
     # uses a different table format than other daily infos
-    return pd.read_html(requests.get(f"https://finance.yahoo.com/options/highest-open-interest?offset=0&count={count}", headers=headers).text)[0]
+    return read_html(req.get(f"https://finance.yahoo.com/options/highest-open-interest?"
+                                     f"offset=0&count={count}", headers=default_headers).text)[0]
 
 
-def get_day_highest_implied_volatility(count: int=100, headers=default_headers):
+def get_day_highest_implied_volatility(count: int = 100):
     # uses a different table format than other daily infos
-    return pd.read_html(requests.get(f"https://finance.yahoo.com/options/highest-implied-volatility?offset=0&count={count}", headers=headers).text)[0]
+    return read_html(req.get(f"https://finance.yahoo.com/options/highest-implied-volatility?"
+                                     f"offset=0&count={count}", headers=default_headers).text)[0]
 
 
 def get_day_top_world_indices():
@@ -402,11 +415,11 @@ def get_day_top_us_bonds():
     return _raw_get_daily_info(f"https://finance.yahoo.com/bonds")
 
 
-def get_day_top_crypto():
+def get_day_top_crypto(offset: int = 0, count: int = 100):
     # Gets the top 100 Cryptocurrencies by Market Cap
     session = HTMLSession()
-    resp = session.get("https://finance.yahoo.com/cryptocurrencies?offset=0&count=100")
-    df = pd.read_html(resp.html.raw_html)[0].copy()
+    resp = session.get(f"https://finance.yahoo.com/cryptocurrencies?offset={offset}&count={count}")
+    df = read_html(resp.html.raw_html)[0].copy()
     df["% Change"] = df["% Change"].map(lambda x: float(str(x).strip("%").strip("+").replace(",", "")))
     del df["52 Week Range"]
     del df["Day Chart"]
@@ -421,12 +434,11 @@ def get_day_top_crypto():
     session.close()        
                 
     return df
-        
 
 
 ### Earnings functions
-def _parse_earnings_json(url, headers=default_headers):
-        resp = requests.get(url, headers=headers)
+def _parse_earnings_json(url):
+        resp = req.get(url, headers=default_headers)
         
         content = resp.content.decode(encoding='utf-8', errors='strict')
         
@@ -435,48 +447,26 @@ def _parse_earnings_json(url, headers=default_headers):
         
         page_data = page_data.split('root.App.main = ', 1)[1]
         
-        return json.loads(page_data)
+        return json_loads(page_data)
 
 
 def get_earnings_history(ticker):
     # Returns the earnings calendar history of the input ticker with EPS actual vs. expected data.'''
     url = f"https://finance.yahoo.com/calendar/earnings?symbol={ticker}"
-    return pd.read_html(requests.get(url, headers=default_headers).text)[0]
+    return read_html(req.get(url, headers=default_headers).text)[0]
 
 
 # todo does not scrap LSE, check against yf.Ticker(ticker).get_earnings()
-def get_earnings_for_date(date, offset=0, count=1):
+def get_earnings_for_date(date, offset=0, count=100):
+    # TODO LIMITATION ONLY SHOWS REGION US
+    # Returns a dictionary of stock tickers with earnings expected on the input date.
+    # The dictionary contains the expected EPS values for each stock if available.
+    date = Timestamp(date).strftime("%Y-%m-%d")
+    url = f"https://finance.yahoo.com/calendar/earnings?day={date}&offset={offset}&size={count}"
+    # https://query2.finance.yahoo.com/v1/finance/trending/US?count=50&useQuotes=true&fields=logoUrl%2CregularMarketChangePercent
+    print(req.get(url).headers)
 
-    '''Inputs: @date
-       Returns a dictionary of stock tickers with earnings expected on the
-       input date.  The dictionary contains the expected EPS values for each
-       stock if available.'''
-    
-    base_earnings_url = 'https://finance.yahoo.com/calendar/earnings'
-    
-    if offset >= count:
-        return []
-    
-    temp = pd.Timestamp(date)
-    date = temp.strftime("%Y-%m-%d")
-
-    dated_url = '{0}?day={1}&offset={2}&size={3}'.format(base_earnings_url, date, offset, 100)
-    
-    result = _parse_earnings_json(dated_url)
-    
-    stores = result['context']['dispatcher']['stores']
-    
-    earnings_count = stores['ScreenerCriteriaStore']['meta']['total']
-
-    new_offset = offset + 100
-    
-    more_earnings = get_earnings_for_date(date, new_offset, earnings_count)
-    
-    current_earnings = stores['ScreenerResultsStore']['results']['rows']
-
-    total_earnings = current_earnings + more_earnings
-
-    return total_earnings
+    return read_html(req.get(url, headers=default_headers).text)[0]
 
 
 def get_earnings_in_date_range(start_date, end_date):
@@ -489,10 +479,10 @@ def get_earnings_in_date_range(start_date, end_date):
     
         earnings_data = []
 
-        days_diff = pd.Timestamp(end_date) - pd.Timestamp(start_date)
+        days_diff = Timestamp(end_date) - Timestamp(start_date)
         days_diff = days_diff.days
 
-        current_date = pd.Timestamp(start_date)
+        current_date = Timestamp(start_date)
         
         dates = [current_date + datetime.timedelta(diff) for diff in range(days_diff + 1)]
         dates = [d.strftime("%Y-%m-%d") for d in dates]
@@ -509,21 +499,21 @@ def get_earnings_in_date_range(start_date, end_date):
         return earnings_data
 
 
-def get_currencies(headers=default_headers):
+def get_currencies():
     # Returns the currencies table from Yahoo Finance
     site = "https://finance.yahoo.com/currencies"
-    return pd.read_html(requests.get(site, headers=headers).text)[0]
+    return read_html(req.get(site, headers=default_headers).text)[0]
 
 
-def get_futures(headers=default_headers):
+def get_futures():
     # Returns the futures table from Yahoo Finance
     site = "https://finance.yahoo.com/commodities"
-    return pd.read_html(requests.get(site, headers=headers).text)[0]
+    return read_html(req.get(site, headers=default_headers).text)[0]
 
 
-def get_undervalued_large_caps(headers=default_headers):
+def get_undervalued_large_caps():
     # Returns the undervalued large caps table from Yahoo Finance
     site = "https://finance.yahoo.com/screener/predefined/undervalued_large_caps?offset=0&count=100"
-    return pd.read_html(requests.get(site, headers=headers).text)[0]
+    return read_html(req.get(site, headers=default_headers).text)[0]
 
 

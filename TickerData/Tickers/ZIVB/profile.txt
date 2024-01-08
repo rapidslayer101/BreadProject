@@ -1,0 +1,23 @@
+# reload+after+2024-01-23 15:34:39.768695
+longBusinessSummary§The fund is an actively-managed exchange-traded fund (“ETF”) that seeks to achieve its investment objective by investing its assets in futures contracts based on the Chicago Board Options Exchange, Incorporated Volatility Index, that comprise the index and other “Financial Instruments”. The index is designed to measure the performance of the inverse of the underlying index. The fund is non-diversified.
+maxAge§86400
+priceHint§2
+totalAssets§4079780
+navPrice§22.997
+currency§USD
+category§Trading--Inverse Equity
+ytdReturn§0.023018999
+beta3Year§0.0
+fundFamily§VS TRUST
+fundInceptionDate§1681689600
+legalType§Exchange Traded Fund
+exchange§BTS
+quoteType§ETF
+shortName§-1x Short VIX Mid-Term Futures 
+longName§-1x Short VIX Mid-Term Futures Strategy ETF
+firstTradeDateEpochUtc§1681911000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7cc0407a-be67-3b37-b337-5cb7c26b581e
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

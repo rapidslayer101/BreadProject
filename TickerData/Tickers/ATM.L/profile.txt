@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 11:35:34.120658
+address1§Oak House
+address2§Hirzel Street PO Box 282
+city§Saint Peter Port
+zip§GY1 3RH
+country§Guernsey
+phone§27 11 268 6555
+website§https://andradamining.com
+industry§Other Industrial Metals & Mining
+industryKey§other-industrial-metals-mining
+industryDisp§Other Industrial Metals & Mining
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Andrada Mining Limited, together with its subsidiaries, is involved in the exploration and development of projects in Namibia and South Africa. Its flagship asset is the Uis brownfield tin mine located in the Erongo region, Namibia. The company was formerly known as AfriTin Mining Limited and changed its name to Andrada Mining Limited in January 2023. Andrada Mining Limited was incorporated in 2017 and is based in Saint Peter Port, Guernsey.
+fullTimeEmployees§219
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony Richard Viljoen BA Mgt, Dip FBI, PG', 'age': 47, 'title': 'CEO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 360780, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hiten Mohanlal Ooka', 'age': 42, 'title': 'CFO & Director', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 198042, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frans  van Daalen', 'title': 'Chief Strategy Officer', 'fiscalYear': 2023, 'totalPay': 265894, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy  Marais', 'title': 'Exploration Manager & Member of Management Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan  Rabe', 'title': 'Member of Management Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Machiel  Odendaal', 'title': 'Member of Management Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chris  Smith', 'title': 'Chief Operations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.805
+priceToSalesTrailing12Months§6.0500565
+currency§GBp
+forwardEps§-0.3
+exchange§LSE
+quoteType§EQUITY
+shortName§ANDRADA MINING LIMITED ORD NPV
+longName§Andrada Mining Limited
+firstTradeDateEpochUtc§1510214400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ff27f64f-07e3-394b-af22-1b04de9b6dae
+messageBoardId§finmb_127601188
+targetHighPrice§33.0
+targetLowPrice§15.0
+targetMeanPrice§24.0
+targetMedianPrice§24.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.027
+grossMargins§0.13176
+ebitdaMargins§-0.32792
+trailingPegRatio§None

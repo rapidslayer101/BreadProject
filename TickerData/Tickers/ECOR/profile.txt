@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 17:44:29.749879
+address1§200 Forge Way
+address2§Suite 205
+city§Rockaway
+state§NJ
+zip§07866
+country§United States
+phone§973 290 0097
+fax§973 290 9171
+website§https://www.electrocore.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§electroCore, Inc., a commercial-stage bioelectronic medicine and wellness company, engages in the development and commercialization of a range of non-invasive vagus nerve stimulation (nVNS) therapies. The company is developing gammaCore, a prescription-only nVNS therapy for the acute treatment of pain associated with migraine and episodic cluster headache in adults; Truvaga for the support of general health and wellbeing; and TAC-STIM, a form of nVNS for human performance. Its lead product is gammaCore Sapphire, a rechargeable and reloadable handheld device for regular or intermittent use over many years. The company was incorporated in 2005 and is headquartered in Rockaway, New Jersey.
+fullTimeEmployees§62
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel S. Goldberger', 'age': 64, 'title': 'CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 860693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thomas J. Errico M.D.', 'age': 71, 'title': 'Founder, Independent Director & Principal Investor', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 55000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian M. Posner CPA, MBA.', 'age': 61, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 560060, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Romaniw', 'age': 66, 'title': 'Executive Vice President of Systems & Operations', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitch  Deshon', 'title': 'Vice President of Global Sales & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie  Kochek', 'title': 'Senior Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter S. Staats M.B.A., M.D.', 'age': 59, 'title': 'Chief Medical Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 238415, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua S. Lev', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manuel A. Marques', 'age': 50, 'title': 'Senior Vice President of Operations', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda  Yanuklis', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.974
+priceToSalesTrailing12Months§2.6684988
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.07
+exchange§NCM
+quoteType§EQUITY
+shortName§electroCore, Inc.
+longName§electroCore, Inc.
+firstTradeDateEpochUtc§1529674200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§98524049-b959-3d01-83c5-0f18bbcf620d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§11.0
+targetMeanPrice§21.5
+targetMedianPrice§25.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.651
+grossMargins§0.84290004
+ebitdaMargins§-1.46735
+trailingPegRatio§None

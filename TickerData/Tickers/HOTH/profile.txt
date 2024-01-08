@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 10:45:15.236850
+address1§1 Rockefeller Plaza
+address2§Suite 1039
+city§New York
+state§NY
+zip§10020
+country§United States
+phone§646 756 2997
+website§https://www.hoththerapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Hoth Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing therapies for unmet medical needs. It is involved in the development of HT-001, a topical formulation, which is in Phase II clinical trial for the treatment of patients with rash and skin disorders associated with initial and repeat courses of tyrosine kinase epidermal growth factor receptor inhibitor therapy; HT-KIT to treat mast-cell derived cancers and anaphylaxis; HT-TBI to treat traumatic brain injury and ischemic stroke; HT-ALZ for the treatment and/or prevention of Alzheimer's or other neuroinflammatory diseases; HT-004 for treatment of asthma and allergies using inhalational administration; HT-003 for the treatment of acne and psoriasis, as well as inflammatory bowel diseases; and HT-002, a novel peptide for treating COVID-19. The company is also developing BioLexa Platform, a proprietary, patented, drug compound platform which is in Phase I clinical trial for the treatment of eczema; and HT-005 for treating patients with lupus, as well as a diagnostic device through a mobile device. The company has license agreements with the George Washington University; Isoprene Pharmaceuticals, Inc.; Virginia Commonwealth University; the North Carolina State University; Chelexa BioSciences, Inc. and the University of Cincinnati; Zylö Therapeutics, Inc.; and Voltron Therapeutics, Inc. It also has a research collaboration agreement with Weill Cornell Medicine to develop HT-003. Hoth Therapeutics, Inc. was incorporated in 2017 and is based in New York, New York.
+fullTimeEmployees§2
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robb  Knie', 'age': 54, 'title': 'President, CEO & Chairman', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 844009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David S. Briones', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hayley  Springer', 'title': 'Executive Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.605
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.45
+exchange§NCM
+quoteType§EQUITY
+shortName§Hoth Therapeutics, Inc.
+longName§Hoth Therapeutics, Inc.
+firstTradeDateEpochUtc§1550241000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff6dafe1-fa0d-3a83-9121-424872ea93bf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.5
+targetLowPrice§3.0
+targetMeanPrice§4.75
+targetMedianPrice§4.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§7.507
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

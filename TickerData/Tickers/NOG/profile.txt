@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 00:31:45.044420
+address1§4350 Baker Road
+address2§Suite 400
+city§Minnetonka
+state§MN
+zip§55343
+country§United States
+phone§952 476 9800
+website§https://www.northernoil.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Northern Oil and Gas, Inc., an independent energy company, engages in the acquisition, exploration, exploitation, development, and production of crude oil and natural gas properties in the United States. It primarily holds interests in the Williston Basin, the Appalachian Basin, and the Permian Basin in the United States. The company is based in Minnetonka, Minnesota.
+fullTimeEmployees§33
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Nicholas L. O'Grady", 'age': 43, 'title': 'Chief Executive Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2137213, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Dirlam', 'age': 38, 'title': 'President', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 1237235, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad  Allen', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 855793, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James B. Evans', 'age': 39, 'title': 'Chief Technical Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 786924, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik J. Romslo', 'age': 45, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 869918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Evelyn Leon Infurna', 'age': 59, 'title': 'Vice President of Investor Relations', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0444
+exDividendDate§1703635200
+payoutRatio§0.18270001
+beta§1.849
+priceToSalesTrailing12Months§2.188322
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.29
+pegRatio§-4.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§Northern Oil and Gas, Inc.
+longName§Northern Oil and Gas, Inc.
+firstTradeDateEpochUtc§1176471000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4d19bf1b-f547-362d-82fb-ca2f5770fea3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§56.0
+targetLowPrice§44.0
+targetMeanPrice§50.5
+targetMedianPrice§51.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.625
+earningsGrowth§-0.959
+grossMargins§0.80786
+ebitdaMargins§0.74061996
+trailingPegRatio§0.9751

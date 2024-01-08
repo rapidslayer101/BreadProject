@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 14:47:30.386646
+address1§Ugland House
+address2§South Church Street PO Box 309
+city§George Town
+zip§KY1-1104
+country§Cayman Islands
+website§https://www.theravance.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Theravance Biopharma, Inc., a biopharmaceutical company, discovers, develops, and commercializes respiratory medicines in the United States and Europe. The company offers YUPELRI, a once-daily, nebulized long-acting muscarinic antagonist for the treatment of chronic obstructive pulmonary disease (COPD). The company's product includes Ampreloxetine, an investigational norepinephrine reuptake inhibitor that has completed Phase III study for neurogenic orthostatic hypotension; and TRELEGY for the treatment of COPD and asthma. It has licensing and collaboration agreements with Pfizer Inc. for its preclinical skin-selective pan-JAK inhibitor program, as well as Viatris Inc. Theravance Biopharma, Inc. was incorporated in 2013 and is based in George Town, the Cayman Islands.
+fullTimeEmployees§111
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rick E. Winningham M.B.A.', 'age': 63, 'title': 'Chairman & CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1775260, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rhonda F. Farnum', 'age': 58, 'title': 'Chief Business Officer and Senior VP of Commercial & Medical Affairs', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 942806, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Richard A. Graham Ph.D.', 'age': 49, 'title': 'Strategic Advisor', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1066599, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aziz  Sawaf C.F.A.', 'age': 41, 'title': 'Senior VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stuart  Knight', 'title': 'VP of IT&I & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gail B. Cohen', 'title': 'Vice President of Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett A. Grimaud Esq.', 'age': 49, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacy L. Pryce', 'title': 'Senior VP & Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Aine  Miller Ph.D.', 'title': 'SVP of Dev., VP of Regu., Quality, Clinical Safety & Pharmacovigilance and Head of Ireland Office', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§5
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.363
+priceToSalesTrailing12Months§9.473916
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.61
+pegRatio§-0.22
+exchange§NGM
+quoteType§EQUITY
+shortName§Theravance Biopharma, Inc.
+longName§Theravance Biopharma, Inc.
+firstTradeDateEpochUtc§1400247000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f44e86c3-1b7b-3131-b6a5-9cdef50528ba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§10.0
+targetMeanPrice§13.6
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§5.955
+grossMargins§0.12571
+ebitdaMargins§-1.17502
+trailingPegRatio§None

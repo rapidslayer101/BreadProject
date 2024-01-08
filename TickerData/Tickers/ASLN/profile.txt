@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 16:43:27.959114
+address1§3 Temasek Avenue
+address2§Level 18 Centennial Tower
+city§Singapore
+zip§039190
+country§Singapore
+phone§65 6817 9598
+website§https://aslanpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§ASLAN Pharmaceuticals Limited, a clinical-stage immunology focused biopharmaceutical company, engages in developing various treatments to transform the lives of patients. The company's clinical portfolio comprises ASLAN004, a monoclonal antibody that targets the IL-13 receptor a1 subunit which is being developed for the treatment of atopic dermatitis and other immunology indications; and ASLAN003, a small-molecule inhibitor of dihydroorotate dehydrogenase for the treatment of autoimmune diseases. It has a joint venture with JAGUAHR Therapeutics Pte. Ltd. and Bukwang Pharmaceutical Co., Ltd. to develop immuno-oncology therapeutics for markets targeting the AhR pathway. Its partners include Almirall, Array BioPharma, and CSL Limited. The company was founded in 2010 and is headquartered in Singapore.
+fullTimeEmployees§34
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Carl Alan Jason Morton Firth EMBA, Ph.D.', 'age': 50, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kiran Kumar  Asarpota', 'age': 44, 'title': 'COO & Head of Finance', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Goodger', 'age': 60, 'title': 'General Counsel', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Doyle', 'age': 50, 'title': 'Chief Business Officer', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Alexandre  Kaoukhov M.D.', 'age': 49, 'title': 'Chief Medical Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charlie  Hsu', 'title': 'Investor Relations Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Chin  Wang', 'title': 'IR & Corporate Development Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.369
+priceToSalesTrailing12Months§0.6612035
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.25
+exchange§NCM
+quoteType§EQUITY
+shortName§ASLAN Pharmaceuticals Limited
+longName§ASLAN Pharmaceuticals Limited
+firstTradeDateEpochUtc§1525440600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§64d5d950-3f7f-30f1-9c3d-4a28bad97a03
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§15.0
+targetMeanPrice§16.0
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.946
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

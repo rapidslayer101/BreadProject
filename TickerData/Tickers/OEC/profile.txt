@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 16:31:57.257961
+address1§1700 City Plaza Drive
+address2§Suite 300 Spring
+city§Houston
+state§TX
+zip§77389
+country§United States
+phone§281-318-2959
+website§https://www.orioncarbons.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Orion S.A., together with its subsidiaries, manufactures and sells carbon black products. It operates in two segments, Specialty Carbon Black and Rubber Carbon Black. The company offers post-treated specialty carbon black grades for coatings and printing applications; high purity carbon black grades for the fiber industry; and conductive carbon black grades for polymers, coatings, and battery electrodes. It also provides rubber carbon black products for applications in mechanical rubber goods under the PUREX brand, as well as in tires under the ECORAX brand name. It operates in Germany, the United States, South Korea, Brazil, China, South Africa, Rest of Europe, and internationally. The company was formerly known as Orion Engineered Carbons S.A. and changed its name to Orion S.A. in June 2023. Orion S.A. was founded in 1862 and is based in Houston, Texas.
+fullTimeEmployees§1600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Corning F. Painter', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1945506, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey F. Glajch', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 761392, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos J. Quinones', 'age': 58, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 541404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Hrivnak CPA', 'age': 63, 'title': 'Chief Accounting Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 460347, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pedro  Riveros', 'age': 52, 'title': 'Senior Vice President of Global Rubber Carbon Black & Americas Region', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 619008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sandra  Niewiem', 'age': 46, 'title': 'Senior Vice President of Global Specialty Carbon Black & EMEA Region', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 542241, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Wilson', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christian  Eggert', 'age': 49, 'title': 'Secretary of the Company', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0034
+exDividendDate§1702512000
+payoutRatio§0.0448
+fiveYearAvgDividendYield§4.01
+beta§1.643
+priceToSalesTrailing12Months§0.75545263
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.62
+pegRatio§0.64
+exchange§NYQ
+quoteType§EQUITY
+shortName§Orion S.A.
+longName§Orion S.A.
+firstTradeDateEpochUtc§1406295000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§af17a16f-1fee-397b-b6cb-1de898d8bbd3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§21.0
+targetMeanPrice§32.6
+targetMedianPrice§34.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.746
+earningsGrowth§-0.154
+grossMargins§0.24388
+ebitdaMargins§0.17301
+trailingPegRatio§None

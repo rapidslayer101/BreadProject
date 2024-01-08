@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 06:34:01.369421
+address1§111 Congress Avenue
+address2§Suite 2400
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§512 473 2662
+website§https://usacompression.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§USA Compression Partners, LP provides natural gas compression services. The company offers compression services to oil companies and independent producers, processors, gatherers, and transporters of natural gas and crude oil, as well as operates stations. It primarily focuses on providing natural gas compression services to infrastructure applications, including centralized natural gas gathering systems and processing facilities, as well as gas lift applications for crude oil wells. As of December 31, 2022, the company had 3,716,854 horsepower in its fleet. USA Compression Partners, LP was founded in 1998 and is headquartered in Austin, Texas.
+fullTimeEmployees§730
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric D. Long P.E.', 'age': 64, 'title': 'President, CEO & Director of USA Compression GP, LLC', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 3095705, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric A. Scheller', 'age': 59, 'title': 'VP & COO of USA Compression GP, LLC', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 983337, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher W. Porter', 'age': 39, 'title': 'VP, General Counsel & Secretary of USA Compression GP LLC', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 991310, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean T. Kimble', 'age': 58, 'title': 'Vice President of Human Resources of USA Compression GP, LLC', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 926158, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Tracy Owens', 'age': 60, 'title': 'Principal Financial Officer, Chief Accounting Officer & VP of Finance - USA Compression GP LLC', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.1
+dividendYield§0.0855
+exDividendDate§1697760000
+payoutRatio§14.0
+fiveYearAvgDividendYield§13.6
+beta§1.237
+priceToSalesTrailing12Months§2.977181
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.54
+pegRatio§-84.24
+exchange§NYQ
+quoteType§EQUITY
+shortName§USA Compression Partners, LP
+longName§USA Compression Partners, LP
+firstTradeDateEpochUtc§1358260200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a8d2508-9578-3f5f-863d-6eb09e671513
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§22.0
+targetMeanPrice§23.5
+targetMedianPrice§23.0
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.608
+grossMargins§0.66240996
+ebitdaMargins§0.56873
+trailingPegRatio§None

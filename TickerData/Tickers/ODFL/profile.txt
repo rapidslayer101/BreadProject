@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 01:46:24.431526
+address1§500 Old Dominion Way
+city§Thomasville
+state§NC
+zip§27360
+country§United States
+phone§336 889 5000
+website§https://www.odfl.com
+industry§Trucking
+sector§Industrials
+longBusinessSummary§Old Dominion Freight Line, Inc. operates as a less-than-truckload (LTL) motor carrier in the United States and North America. It provides regional, inter-regional, and national LTL services, including expedited transportation. The company also offers various value-added services, such as container drayage, truckload brokerage, and supply chain consulting. As of December 31, 2022, it owned and operated 11,274 tractors, 31,252 linehaul trailers, and 14,315 pickup and delivery trailers; 44 fleet maintenance centers; and 255 service centers. Old Dominion Freight Line, Inc. was founded in 1934 and is headquartered in Thomasville, North Carolina.
+fullTimeEmployees§22587
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David S. Congdon', 'age': 66, 'title': 'Executive Chairman of the Board', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 5509211, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin M. Freeman', 'age': 64, 'title': 'President & CEO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 6149609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam N. Satterfield', 'age': 48, 'title': 'Executive VP of Finance, CFO & Assistant Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 5149578, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory B. Plemmons', 'age': 58, 'title': 'Executive VP & COO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3836726, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Earl E. Congdon', 'age': 92, 'title': 'Chairman Emeritus & Senior Advisor', 'yearBorn': 1931, 'fiscalYear': 2022, 'totalPay': 3800695, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly S. Maready', 'age': 52, 'title': 'Principal Accounting Officer and VP of Accounting & Finance', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross H. Parr', 'age': 51, 'title': 'Senior VP of Legal Affairs, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sam  Faucette', 'title': 'Vice President of Safety & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven W. Hartsell', 'age': 55, 'title': 'Senior Vice President of Sales', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Thomas Brooks', 'age': 52, 'title': 'Senior Vice President of Human Resources & Safety', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§2
+shareHolderRightsRisk§9
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0042
+exDividendDate§1701734400
+payoutRatio§0.13350001
+fiveYearAvgDividendYield§0.33
+beta§1.024
+priceToSalesTrailing12Months§7.143093
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.35
+pegRatio§4.22
+exchange§NMS
+quoteType§EQUITY
+shortName§Old Dominion Freight Line, Inc.
+longName§Old Dominion Freight Line, Inc.
+firstTradeDateEpochUtc§688311000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§96b3f25e-c573-3211-bae3-cc80d536e517
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§490.0
+targetLowPrice§330.0
+targetMeanPrice§406.89
+targetMedianPrice§404.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§18
+quickRatio§1.576
+earningsGrowth§-0.08
+grossMargins§0.39905
+ebitdaMargins§0.33464
+trailingPegRatio§3.3302

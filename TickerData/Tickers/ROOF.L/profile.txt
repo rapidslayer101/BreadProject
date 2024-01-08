@@ -1,0 +1,21 @@
+# reload+after+2024-01-22 01:35:38.579799
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§ATRATO ONSITE ENERGY PLC ORD GB
+longName§Atrato Onsite Energy Ord
+firstTradeDateEpochUtc§1637654400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1243936b-712c-3ff4-8b24-5586f593c155
+messageBoardId§finmb_1684525139
+targetHighPrice§100.0
+targetLowPrice§77.0
+targetMeanPrice§92.33
+targetMedianPrice§100.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+trailingPegRatio§None

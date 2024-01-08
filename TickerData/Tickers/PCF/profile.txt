@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 02:32:08.495332
+address1§100 Federal Street
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617-292-1000
+fax§617-292-1625
+website§https://www.putnam.com/individual/mutual-funds/closed-end-funds/funds/40-high-income-securities
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§High Income Securities Fund is a closed-ended balanced income mutual fund launched and managed by Putnam Investment Management, LLC. The fund is co-managed by Putnam Investments Limited. It invests in the fixed income markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It invests in both convertible bonds and convertible preferred stocks. The fund benchmarks the performance of its portfolio against a composite index comprising of 50% JPMorgan Developed High Yield Index and 50% BofA Merrill Lynch AllConvertibles Speculative Quality Index. The fund was formerly known as Putnam High Income Securities Fund High Income Securities Fund was formed on July 9, 1987 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Lloyd Reynolds', 'age': 71, 'title': 'President and Interested Trustee', 'yearBorn': 1952, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander J. C. Smith', 'age': 89, 'title': 'Principal Accounting Officer, Vice President and Assistant Treasurer', 'yearBorn': 1934, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Salvin', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric N. Harthun C.F.A., CPA, CFA, CPA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.73
+dividendYield§0.1137
+exDividendDate§1705622400
+payoutRatio§2.2429
+fiveYearAvgDividendYield§9.18
+beta§0.867
+priceToSalesTrailing12Months§14.780489
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§High Income Securities Fund
+longName§High Income Securities Fund
+firstTradeDateEpochUtc§552835800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0a4faf97-0138-34ce-b7f7-afe1205a516b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.943
+earningsGrowth§0.61
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

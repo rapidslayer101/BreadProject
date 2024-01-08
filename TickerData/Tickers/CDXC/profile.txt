@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 16:43:58.233815
+address1§10900 Wilshire Blvd
+address2§Suite 600
+city§Los Angeles
+state§CA
+zip§90024
+country§United States
+phone§310 388 6706
+website§https://www.chromadex.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§ChromaDex Corporation operates as a bioscience company focusing on developing healthy aging products. The company operates through three segments: Consumer products; Ingredients; and Analytical Reference Standards and Services. It researches on nicotinamide adenine dinucleotide (NAD+); provides finished dietary supplement products that contain its proprietary ingredients directly to consumers and distributors; and develops and commercializes proprietary-based ingredient technologies and supplies these ingredients as raw materials to the manufacturers of consumer products. The company also commercializes NAD+ precursor nicotinamide riboside as the flagship ingredient NIAGEN; NIAGEN as an active ingredient in its consumer products under the TRU NIAGEN name; and Immulina, a spirulina extract with predominant active compounds of Braun-type lipoproteins for supporting human immune function. In addition, it offers phytochemical reference standards, and other research and development services. The company distributes TRU NIAGEN products direct to consumers through its propriety e-commerce platform TRUNIAGEN.com, Amazon, ShopHQ, and other internet marketplaces, as well as specialty retailers and direct healthcare practitioners in the United States. ChromaDex Corporation was founded in 1999 and is headquartered in Los Angeles, California.
+fullTimeEmployees§113
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Frank Louis Jaksch Jr.', 'age': 55, 'title': 'Co-Founder & Chairman', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 292273, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert N. Fried', 'age': 63, 'title': 'CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 735544, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brianna  Gerber', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 509816, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrew  Shao Ph.D.', 'title': 'Senior Vice President of Global Regulatory & Scientific Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Heather  Van Blarcom', 'title': 'Senior VP of Legal & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Worsham', 'title': 'Vice President of Global Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Kroes', 'title': 'Senior Vice President of People Matters', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chu  Yan', 'title': 'Managing Director of Asia Pacific', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Campbell', 'title': 'Senior Vice President of Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.793
+priceToSalesTrailing12Months§1.3156006
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.0
+exchange§NCM
+quoteType§EQUITY
+shortName§ChromaDex Corporation
+longName§ChromaDex Corporation
+firstTradeDateEpochUtc§1214400600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§77342014-e7f0-3894-9d34-bbc3f6ead2f8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§2.0
+targetMeanPrice§4.85
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.657
+grossMargins§0.59804
+ebitdaMargins§-0.06956
+trailingPegRatio§None

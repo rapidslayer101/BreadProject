@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 08:45:38.839052
+address1§One PPG Place
+city§Pittsburgh
+state§PA
+zip§15222
+country§United States
+phone§412 456 5700
+website§https://www.kraftheinzcompany.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§The Kraft Heinz Company, together with its subsidiaries, manufactures and markets food and beverage products in the United States, Canada, the United Kingdom, and internationally. Its products include condiments and sauces, cheese and dairy products, meals, meats, refreshment beverages, coffee, and other grocery products. The company also offers spices and other seasonings. It sells its products through its own sales organizations, as well as through independent brokers, agents, and distributors to chain, wholesale, cooperative, and independent grocery accounts; convenience, value, and club stores; pharmacies and drug stores; mass merchants; foodservice distributors; institutions, including hotels, restaurants, bakeries, hospitals, health care facilities, and government agencies; and online through various e-commerce platforms and retailers. The company was formerly known as H.J. Heinz Holding Corporation and changed its name to The Kraft Heinz Company in July 2015. The Kraft Heinz Company was founded in 1869 and is based in Pittsburgh, Pennsylvania.
+fullTimeEmployees§37000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Carlos A. Abrams-Rivera', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3008161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andre  Maciel', 'title': 'Executive VP & Global CFO', 'fiscalYear': 2022, 'totalPay': 2015751, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rashida K. La Lande', 'age': 49, 'title': 'Executive VP, Global General Counsel and Chief Sustainability & Corporate Affairs Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2016836, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rafael  de Oliveira', 'age': 48, 'title': 'Executive VP & Zone President of International Markets', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 2643514, 'exercisedValue': 0, 'unexercisedValue': 2225957}, {'maxAge': 1, 'name': 'Mr. Vince  Garlati', 'age': 46, 'title': 'VP, Principal Accounting Officer & Global Controller', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne-Marie  Megela', 'title': 'VP & Global Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathy  Krenger', 'age': 55, 'title': 'Senior VP & Chief Communications Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Hall', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yang  Xu', 'age': 44, 'title': 'Senior VP & Global Head of Corporate Development', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa Alves Werneck', 'age': 50, 'title': 'Executive VP & Global Chief People Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0422
+exDividendDate§1701302400
+payoutRatio§0.66120005
+fiveYearAvgDividendYield§4.91
+beta§0.678
+priceToSalesTrailing12Months§1.7132994
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.04
+pegRatio§2.47
+exchange§NMS
+quoteType§EQUITY
+shortName§The Kraft Heinz Company
+longName§The Kraft Heinz Company
+firstTradeDateEpochUtc§1436189400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aa94f7c2-b9a7-3327-84d9-2c52fccdd6df
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.0
+targetLowPrice§29.0
+targetMeanPrice§37.9
+targetMedianPrice§38.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.404
+earningsGrowth§-0.4
+grossMargins§0.33243
+ebitdaMargins§0.23884001
+trailingPegRatio§0.797

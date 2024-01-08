@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 19:27:48.394511
+address1§255 East Fifth Street
+address2§Suite 2600
+city§Cincinnati
+state§OH
+zip§45202-4726
+country§United States
+phone§513 762 6690
+website§https://www.chemed.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Chemed Corporation provides hospice and palliative care services to patients through a network of physicians, registered nurses, home health aides, social workers, clergy, and volunteers primarily in the United States. The company operates in two segments, VITAS and Roto-Rooter. It offers plumbing, drain cleaning, excavation, water restoration, and other related services to residential and commercial customers through company-owned branches, independent contractors, and franchisees. The company was incorporated in 1970 and is headquartered in Cincinnati, Ohio.
+fullTimeEmployees§14167
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin J. McNamara', 'age': 69, 'title': 'CEO, President & Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 5662641, 'exercisedValue': 5271350, 'unexercisedValue': 6111003}, {'maxAge': 1, 'name': 'Mr. Michael D. Witzeman CPA, MBA', 'age': 52, 'title': 'VP, Controller and principal accounting officer and CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 985013, 'exercisedValue': 1190733, 'unexercisedValue': 1076474}, {'maxAge': 1, 'name': 'Mr. Spencer S. Lee', 'age': 67, 'title': 'Executive Vice President', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1862590, 'exercisedValue': 1497120, 'unexercisedValue': 6645919}, {'maxAge': 1, 'name': 'Mr. Thomas C. Hutton', 'age': 72, 'title': 'VP & Director', 'yearBorn': 1951, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Michael Westfall', 'age': 44, 'title': 'Executive Vice President', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 2045729, 'exercisedValue': 2329695, 'unexercisedValue': 2106784}, {'maxAge': 1, 'name': 'Ms. Lisa A. Reinhard', 'title': 'VP, Chief Administrative Officer & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sherri  Warner', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian C. Judkins', 'age': 42, 'title': 'VP, Secretary & Chief Legal Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0028
+exDividendDate§1699574400
+payoutRatio§0.0954
+fiveYearAvgDividendYield§0.29
+beta§0.427
+priceToSalesTrailing12Months§3.8185794
+currency§USD
+dateShortInterest§1702598400
+forwardEps§23.01
+pegRatio§2.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§Chemed Corp
+longName§Chemed Corporation
+firstTradeDateEpochUtc§105283800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cf308f14-df4c-3f86-9149-e77fbc5202e8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§680.0
+targetLowPrice§590.0
+targetMeanPrice§624.67
+targetMedianPrice§604.0
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§1.148
+earningsGrowth§0.304
+grossMargins§0.34529
+ebitdaMargins§0.16566
+trailingPegRatio§2.4378

@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 01:35:48.372003
+address1§3, rue Gabriel Lippmann
+city§Munsbach
+zip§5365
+country§Luxembourg
+website§https://www.bandmretail.com
+industry§Discount Stores
+industryKey§discount-stores
+industryDisp§Discount Stores
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§B&M European Value Retail S.A. operates general merchandise and grocery stores. The company operates a chain of stores under the B&M, Heron Foods, and B&M Express in the United Kingdom; and stores under the B&M brand in France. It also provides property management services. The company was founded in 1978 and is based in Munsbach, Luxembourg.
+fullTimeEmployees§39484
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alejandro  Russo', 'title': 'CEO & Executive Director', 'fiscalYear': 2023, 'totalPay': 1609673, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Schmidt', 'title': 'CFO & Executive Director', 'fiscalYear': 2023, 'totalPay': 1409777, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonny  Armstrong', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alexander  Simpson', 'title': 'General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cedric  Mahieu', 'title': 'Chief Executive Officer of France', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Dobbs', 'title': 'Managing Director of Heron Foods', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Giron', 'title': 'Managing Director of France', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Kew', 'title': 'Head of Retail Operations for UK', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jon  Parry', 'title': 'UK Supply Chain Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.027
+exDividendDate§1700092800
+payoutRatio§0.4755
+fiveYearAvgDividendYield§2.69
+beta§1.038
+priceToSalesTrailing12Months§1.0755614
+currency§GBp
+forwardEps§14.86
+lastDividendValue§5.1
+lastDividendDate§1700092800
+exchange§LSE
+quoteType§EQUITY
+shortName§B&M EUROPEAN VALUE RETAIL S.A. 
+longName§B&M European Value Retail S.A.
+firstTradeDateEpochUtc§1402556400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1e980572-96d0-3877-9760-1a34c10875ac
+messageBoardId§finmb_264420908
+targetHighPrice§710.0
+targetLowPrice§360.0
+targetMeanPrice§613.68
+targetMedianPrice§640.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.386
+earningsGrowth§0.04
+grossMargins§0.37028998
+ebitdaMargins§0.12292
+trailingPegRatio§None

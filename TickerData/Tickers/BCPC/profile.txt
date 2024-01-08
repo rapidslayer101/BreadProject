@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 15:43:36.988008
+address1§5 Paragon Drive
+city§Montvale
+state§NJ
+zip§07645
+country§United States
+phone§845 326 5600
+website§https://www.balchem.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Balchem Corporation develops, manufactures, and markets specialty performance ingredients and products for the nutritional, food, pharmaceutical, animal health, medical device sterilization, plant nutrition, and industrial markets in the United States and internationally. It operates through three segments: Human Nutrition and Health, Animal Nutrition and Health, and Specialty Products. The Human Nutrition & Health segment supplies ingredients in the food and beverage industry. Its products include spray dried and emulsified powders, extrusion and agglomeration, blended lipid systems, liquid flavor delivery systems, juice and dairy bases, chocolate systems, and cereal systems, as well as ice cream bases and variegates. This segment also offers microencapsulation solutions for various applications; and human grade choline nutrients and mineral amino acid chelated products for nutrition and health applications. The Animal Nutrition & Health segment provides microencapsulated products to enhance health and milk production, and delivering nutrient supplements in ruminant animals; chelation technology, which offers enhanced nutrient absorption for various species of production and companion animals; and choline chloride, a nutrient for monogastric animal health. The Specialty Products segment offers ethylene oxide primarily for use in the health care industry; single use canisters for sterilizing re-usable devices; and ammonia. This segment also markets and sells propylene oxide, a fumigant to aid in the control of insects and microbiological spoilage, as well as to reduce bacterial and mold contamination in shell and processed nut meats, processed spices, cacao beans, cocoa powder, raisins, figs, and prunes; and chelated minerals for high value crops. The company sells its products through sales force, independent distributors, and sales agents. Balchem Corporation was incorporated in 1967 and is headquartered in Montvale, New Jersey.
+fullTimeEmployees§1297
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Theodore L. Harris', 'age': 58, 'title': 'Chairman, CEO & President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2334265, 'exercisedValue': 0, 'unexercisedValue': 5248241}, {'maxAge': 1, 'name': 'Mr. Carl Martin Bengtsson', 'age': 45, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 864129, 'exercisedValue': 0, 'unexercisedValue': 812268}, {'maxAge': 1, 'name': 'Ms. Hatsuki  Miyata', 'age': 47, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 618206, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan H. Griffin', 'age': 47, 'title': 'Senior VP and GM of Animal Nutrition & Health', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 624015, 'exercisedValue': 0, 'unexercisedValue': 1718165}, {'maxAge': 1, 'name': 'Mr. Martin Luther Reid', 'age': 55, 'title': 'Senior VP & Chief Supply Chain Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 672259, 'exercisedValue': 0, 'unexercisedValue': 3542}, {'maxAge': 1, 'name': 'Mr. William A. Backus CPA', 'age': 57, 'title': 'VP & CAO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 560792, 'exercisedValue': 1056278, 'unexercisedValue': 2654113}, {'maxAge': 1, 'name': 'Mr. Michael R. Sestrick Ph.D.', 'age': 59, 'title': 'Senior VP & CTO', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent  Tignor', 'age': 45, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederic  Boned', 'age': 45, 'title': 'Senior VP and GM of Human Nutrition & Health', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Job L. van Gunsteren', 'age': 47, 'title': 'Senior VP & GM of Specialty Products', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.79
+dividendYield§0.0056
+exDividendDate§1703548800
+payoutRatio§0.2233
+fiveYearAvgDividendYield§0.5
+beta§0.699
+priceToSalesTrailing12Months§4.878956
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.05
+pegRatio§1.47
+exchange§NMS
+quoteType§EQUITY
+shortName§Balchem Corporation
+longName§Balchem Corporation
+firstTradeDateEpochUtc§518189400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f343bc05-479c-3911-96d6-a4ee5d2a787c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§150.0
+targetLowPrice§135.0
+targetMeanPrice§145.0
+targetMedianPrice§150.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.906
+earningsGrowth§0.154
+grossMargins§0.31924
+ebitdaMargins§0.22636999
+trailingPegRatio§4.6475

@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 23:32:01.593698
+address1§2300 Oracle Way
+city§Austin
+state§TX
+zip§78741
+country§United States
+phone§737-867-1000
+website§https://www.oracle.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning (ERP), Oracle Fusion cloud enterprise performance management, Oracle Fusion cloud supply chain and manufacturing management, Oracle Fusion cloud human capital management, Oracle Cerner healthcare, Oracle Advertising, and NetSuite applications suite, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle application licenses; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, MySQL HeatWave, Internet-of-Things, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware services; and consulting and customer services. The company markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. The company has a collaboration with Amdocs Limited to empower customers on their journey towards cloud and digital adoption. Oracle Corporation was founded in 1977 and is headquartered in Austin, Texas.
+fullTimeEmployees§164000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lawrence J. Ellison', 'age': 79, 'title': 'Co-Founder, Chairman & CTO', 'yearBorn': 1944, 'fiscalYear': 2023, 'totalPay': 7301933, 'exercisedValue': 266000000, 'unexercisedValue': 815142528}, {'maxAge': 1, 'name': 'Ms. Safra Ada Catz', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 5250680, 'exercisedValue': 511241792, 'unexercisedValue': 317857504}, {'maxAge': 1, 'name': 'Mr. Jeffrey O. Henley', 'age': 78, 'title': 'Vice Chairman of the Board', 'yearBorn': 1945, 'fiscalYear': 2023, 'totalPay': 1074571, 'exercisedValue': 20756160, 'unexercisedValue': 125948000}, {'maxAge': 1, 'name': 'Mr. Stuart A. Levey', 'age': 59, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1611910, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Screven', 'age': 58, 'title': 'Executive VP & Chief Corporate Architect', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 2990657, 'exercisedValue': 36649192, 'unexercisedValue': 98910000}, {'maxAge': 1, 'name': 'Mr. Douglas A. Kehring', 'age': 50, 'title': 'Executive Vice President of Corporate Operations', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria  Smith', 'age': 56, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jae  Evans', 'title': 'Global Chief Information Officer & Executive VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Bond', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Morawski', 'title': 'Executive VP & GM of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§5
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0156
+exDividendDate§1704844800
+payoutRatio§0.41990003
+fiveYearAvgDividendYield§1.54
+beta§1.018
+priceToSalesTrailing12Months§5.4698334
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.21
+pegRatio§1.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§Oracle Corporation
+longName§Oracle Corporation
+firstTradeDateEpochUtc§511021800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§238bd614-c63c-3123-8e2f-66b49fcfafed
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§150.0
+targetLowPrice§100.0
+targetMeanPrice§126.51
+targetMedianPrice§129.83
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§25
+quickRatio§0.635
+earningsGrowth§0.413
+grossMargins§0.71879995
+ebitdaMargins§0.39331
+trailingPegRatio§1.9648

@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 06:27:16.557315
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240176/blackrock-core-bond-trust-usd-fund
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§BlackRock Core Bond Trust is a closed-ended fixed income mutual fund launched by BlackRock, Inc. The fund is managed by BlackRock Advisors, LLC. It invests in the fixed income markets of the United States. The fund primarily invests in investment grade quality bonds, including corporate bonds, government and agency securities, and mortgage-related securities. BlackRock Core Bond Trust was formed on November 30, 2001 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Edward Keenan C.F.A.', 'age': 47, 'title': 'Portfolio Manager', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.9
+dividendYield§0.082200006
+exDividendDate§1704931200
+payoutRatio§12.7886
+fiveYearAvgDividendYield§6.45
+beta§0.702
+priceToSalesTrailing12Months§12.316562
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.075
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Core Bond Trust Black
+longName§BlackRock Core Bond Trust
+firstTradeDateEpochUtc§1006957800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a8fa1762-b90c-30f3-a54c-f9f161403520
+messageBoardId§finmb_3197341
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.048
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

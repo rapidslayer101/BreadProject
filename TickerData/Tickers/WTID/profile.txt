@@ -1,0 +1,23 @@
+# reload+after+2024-01-22 04:34:28.103739
+longBusinessSummary§The notes are designed to reflect a 3x leveraged inverse exposure to the inverse performance of the index on a daily basis, before taking into account the negative effect of the Daily Investor Fee, any negative Daily Interest, and the Redemption Fee Amount, if applicable. However, due to daily resetting leverage, the returns on the notes over different periods of time can, and most likely will, differ significantly from three times the return on a direct short investment in the index.
+maxAge§86400
+priceHint§2
+totalAssets§3631140
+navPrice§21.95653
+currency§USD
+category§Trading--Inverse Equity
+ytdReturn§-0.032815002
+beta3Year§0.0
+fundFamily§BMO Capital Markets
+fundInceptionDate§1676505600
+legalType§Exchange Traded Fund
+exchange§PCX
+quoteType§ETF
+shortName§Bank Of Montreal MicroSectors E
+longName§MicroSectors Energy -3X Inverse Leveraged ETN
+firstTradeDateEpochUtc§1676471400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0aea5a01-48dc-3757-ba93-15e73227f0a1
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

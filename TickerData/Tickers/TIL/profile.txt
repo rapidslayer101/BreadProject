@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 16:47:34.605177
+address1§3963 Maple Avenue
+address2§Suite 350
+city§Dallas
+state§TX
+zip§75219
+country§United States
+phone§972 499 3350
+website§https://instilbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Instil Bio, Inc., a clinical-stage biopharmaceutical company, develops therapies for the treatment of patients with cancer. The company develops cell therapy of autologous tumor infiltrating lymphocyte (TIL). Its lead product is ITIL-306, a Co-Stimulatory Antigen Receptor molecule to recognize folate receptor alpha, a tumor-associated antigen that is expressed on various solid tumors, including ovarian cancer, uterine cancer, NSCLC, and renal cancer. The company was incorporated in 2018 and is headquartered in Dallas, Texas.
+fullTimeEmployees§192
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bronson  Crouch', 'age': 50, 'title': 'Chairman & CEO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 672367, 'exercisedValue': 0, 'unexercisedValue': 250017}, {'maxAge': 1, 'name': 'Dr. Sandeep  Laumas M.D.', 'age': 54, 'title': 'CFO & Chief Business Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 489139, 'exercisedValue': 0, 'unexercisedValue': 437900}, {'maxAge': 1, 'name': 'Dr. Mark E. Dudley Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert  Hawkins MBBS, Ph.D.', 'title': 'Head of Research & Development', 'fiscalYear': 2022, 'totalPay': 218720, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.186
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-12.9
+exchange§NCM
+quoteType§EQUITY
+shortName§Instil Bio, Inc.
+longName§Instil Bio, Inc.
+firstTradeDateEpochUtc§1616160600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f6e98ce3-ca96-34e6-a1c6-796bed2d60df
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§100.0
+targetLowPrice§40.0
+targetMeanPrice§70.0
+targetMedianPrice§70.0
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§13.622
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

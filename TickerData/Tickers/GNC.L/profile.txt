@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 11:38:06.503622
+address1§No. 2 Northwood Avenue
+address2§Northwood Business Park Santry
+city§Dublin
+zip§D09 X5N9
+country§Ireland
+phone§353 1 605 1000
+website§https://www.greencore.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Greencore Group plc, together with its subsidiaries, manufactures and sells convenience food products in the United Kingdom and Ireland. The company offers sandwiches, salads, sushi, chilled snacking, chilled ready meals, chilled soups and sauces, chilled quiche, ambient sauces and pickles, and frozen Yorkshire Puddings. It is also involved in the finance activities; pension funding; and property business. The company supplies its products to supermarkets, convenience and travel retail outlets, discounters, coffee shops, foodservice, and other retailers. Greencore Group plc was incorporated in 1991 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§13602
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dalton T. Philips B.A., M.B.A.', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 807990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Frederick Solesbury', 'age': 58, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee  Finney', 'age': 53, 'title': 'Chief Operating Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Damien  Moynagh BCL', 'age': 47, 'title': 'Group General Counsel & Company Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Evans', 'title': 'Group Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Dullage', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Parton', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Holmes', 'title': 'Group IT Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Smith', 'title': 'Chief Strategy & Transformation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Wright', 'title': 'Head of Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1577923200
+payoutRatio§0.0
+fiveYearAvgDividendYield§2.73
+beta§1.17
+priceToSalesTrailing12Months§0.24408227
+currency§GBp
+forwardEps§10.99
+pegRatio§0.16
+exchange§LSE
+quoteType§EQUITY
+shortName§GREENCORE GROUP PLC ORD 1P (CDI
+longName§Greencore Group plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§617f0b99-4d43-381f-8956-de8e59d7bf01
+targetHighPrice§130.0
+targetLowPrice§85.0
+targetMeanPrice§98.89
+targetMedianPrice§95.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.547
+earningsGrowth§0.41
+grossMargins§0.29723
+ebitdaMargins§0.06046
+trailingPegRatio§None

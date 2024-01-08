@@ -1,0 +1,36 @@
+# reload+after+2024-01-23 09:46:26.744912
+address1§6385 Old Shady Oak Road
+address2§Suite 250
+city§Eden Prairie
+state§MN
+zip§55344
+country§United States
+phone§800-918-7189
+website§https://www.onemednet.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§OneMedNet Corporation develops technology that focuses on accessing and sharing health data. It offers BEAM Medical Image Exchange & Management Suite, a solution that manages, exchanges, and shares medical images with patients, care providers, and hospitals. The company was founded in 2009 and is based in Eden Prairie, Minnesota with a development office in Vancouver, Canada.
+fullTimeEmployees§18
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul J. Casey', 'age': 77, 'title': 'CEO & Director', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 612092, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Embree', 'age': 51, 'title': 'CFO & VP of Finance', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 177256, 'exercisedValue': 0, 'unexercisedValue': 283200}, {'maxAge': 1, 'name': 'Mr. Doug  Arent', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'totalPay': 207673, 'exercisedValue': 0, 'unexercisedValue': 1132800}, {'maxAge': 1, 'name': 'Mr. Joe  Walsh', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'totalPay': 299475, 'exercisedValue': 0, 'unexercisedValue': 2124000}, {'maxAge': 1, 'name': 'Dr. Jeffrey  Yu M.D.', 'age': 55, 'title': 'Founder, Chairman, VP & Chief Medical Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Green', 'age': 50, 'title': 'President', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad  Overby', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Delwin T. Coufal', 'age': 61, 'title': 'Director of Marketing', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Chartier', 'title': 'Director of Product Management & Head of Data', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.415
+priceToSalesTrailing12Months§24.456497
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§OneMedNet Corp
+longName§OneMedNet Corporation
+firstTradeDateEpochUtc§1624541400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§51410c36-f9ce-3522-acbb-10f2f0fd3b5b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.155
+grossMargins§-0.40818
+ebitdaMargins§0.0
+trailingPegRatio§None

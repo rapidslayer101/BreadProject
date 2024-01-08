@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 00:27:51.356623
+address1§11 Madison Avenue
+city§New York
+state§NY
+zip§10010
+country§United States
+phone§212 325 2000
+website§https://us-fund.credit-suisse.com/index.cfm?nav=funds&fundid=4&tab=1
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Credit Suisse Asset Management Income Fund, Inc. is a closed-ended fixed income mutual fund launched and managed by Credit Suisse Asset Management, LLC. The fund invests in the fixed income markets of the United States. It primarily invests in high yield corporate debt such as bonds and debentures that are rated Baa or lower by Moody's or BBB or lower by S&P. The fund benchmarks the performance of its portfolio against the BofA Merrill Lynch US High Yield Master II Constrained Index. Credit Suisse Asset Management Income Fund, Inc. was formed on February 11, 1987 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas J. Flannery', 'age': 49, 'title': 'Portfolio Manager', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+dividendRate§0.27
+dividendYield§0.090299994
+exDividendDate§1705449600
+payoutRatio§0.84379995
+fiveYearAvgDividendYield§9.08
+beta§0.73
+priceToSalesTrailing12Months§9.321303
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§106937
+longName§Credit Suisse Asset Management Income Fund, Inc.
+firstTradeDateEpochUtc§544887000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9c0e9261-4817-3ea7-90f4-374e00e5b837
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.065
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

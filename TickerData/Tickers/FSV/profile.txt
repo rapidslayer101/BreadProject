@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 10:44:52.947950
+address1§1255 Bay Street
+address2§Suite 600
+city§Toronto
+state§ON
+zip§M5R 2A9
+country§Canada
+phone§416-960-9566
+fax§647-258-0008
+website§https://www.firstservice.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§FirstService Corporation, together with its subsidiaries, provides residential property management and other essential property services to residential and commercial customers in the United States and Canada. The company operates in two segments, FirstService Residential and FirstService Brands. The FirstService Residential segment offers property management services for private residential communities, such as condominiums, co-operatives, homeowner associations, master-planned communities, active adult and lifestyle communities, and various other residential developments. This segment also provides a range of ancillary services, including on-site staffing for building engineering and maintenance, full-service swimming pool and amenity management, and security and concierge/front desk; and financial services comprising cash management, other banking transaction-related, and specialized property insurance brokerage. In addition, this segment offers energy management solutions and advisory services, and resale processing services. The FirstService Brands segment operates and provides essential property services to residential and commercial customers through five franchise networks; and company-owned operations, including 21 California Closets, 14 Paul Davis Restoration, and 1 CertaPro Painters operations. It provides residential and commercial restoration, painting, and floor coverings design and installation services; custom-designed and installed closet, and home storage solutions; home inspection services; and fire protection and related services. This segment offers its services primarily under the Paul Davis Restoration, First Onsite Restoration, Century Fire Protection, CertaPro Painters, California Closets, Pillar to Post Home Inspectors, and Floor Coverings International brand names. FirstService Corporation was founded in 1989 and is headquartered in Toronto, Canada.
+fullTimeEmployees§27000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jay Stewart Hennick CM', 'age': 66, 'title': 'Founder & Independent Chairman of the Board', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 309250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. D. Scott Patterson', 'age': 62, 'title': 'CEO & Non-Independent Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1086700, 'exercisedValue': 10378750, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy Alan Rakusin', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 529200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Carpenter', 'age': 47, 'title': 'Senior Vice President of Technology, Sustainability & Information Services', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 316900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Nguyen', 'age': 40, 'title': 'Senior Vice President of Strategy & Corporate Development', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 271600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas G. Cooke', 'age': 63, 'title': 'Senior VP, Corporate Controller & Corporate Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 281600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Alberts', 'title': 'Director of Marketing & Communications of FirstService Residential Ontario', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Patrick  Tran', 'title': 'Senior Vice President of Tax', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charlie E. Chase', 'age': 62, 'title': 'CEO & President of FirstService Brands', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Diestel', 'age': 53, 'title': 'Chief Executive Officer of FirstService Residential', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.9
+dividendYield§0.0057
+exDividendDate§1703721600
+payoutRatio§0.2965
+fiveYearAvgDividendYield§0.55
+beta§0.939
+priceToSalesTrailing12Months§1.6617018
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.09
+pegRatio§2.26
+exchange§NMS
+quoteType§EQUITY
+shortName§FirstService Corporation
+longName§FirstService Corporation
+firstTradeDateEpochUtc§1433251800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8891dcbc-56e5-37b7-81ec-2eebc90d8921
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§196.0
+targetLowPrice§142.0
+targetMeanPrice§167.14
+targetMedianPrice§173.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.331
+earningsGrowth§-0.052
+grossMargins§0.32137
+ebitdaMargins§0.092250004
+trailingPegRatio§None

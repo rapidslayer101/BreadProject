@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 04:34:04.404706
+address1§4225 East Windrose Drive
+address2§Suite 200
+city§Phoenix
+state§AZ
+zip§85032
+country§United States
+phone§623 445 9500
+website§https://www.uti.edu
+industry§Education & Training Services
+sector§Consumer Defensive
+longBusinessSummary§Universal Technical Institute, Inc. provides transportation, skilled trades, and healthcare education programs in the United States. The company operates in two segments, UTI and Concorde. It offers certificate, diploma, or degree programs under various brands, such as Universal Technical Institute, Motorcycle Mechanics Institute, Marine Mechanics Institute, NASCAR Technical Institute, and MIAT College of Technology. The company also provides manufacturer specific advanced training programs, including student paid electives at its campuses; and manufacturer or dealer sponsored training at various campuses and dedicated training centers. It serves students, partners, and communities by providing education and support services in various fields. Universal Technical Institute, Inc. was founded in 1965 and is headquartered in Phoenix, Arizona.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jerome A. Grant', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 931283, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Troy R. Anderson', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 670903, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher E. Kevane', 'age': 49, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 576856, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sherrell E. Smith', 'age': 60, 'title': 'Executive Vice President of Campus Operations & Services', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 684148, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart H. Fesperman', 'age': 54, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 570340, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Kline', 'age': 45, 'title': 'Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Kempton', 'title': 'Vice President of Corporate Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori B. Smith', 'age': 56, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 568851, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jody  Kent', 'title': 'Vice President of Communications & Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonia Claire Mason', 'age': 44, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1458172800
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.72
+beta§1.123
+priceToSalesTrailing12Months§1.1299756
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.75
+pegRatio§1.5
+exchange§NYQ
+quoteType§EQUITY
+shortName§Universal Technical Institute I
+longName§Universal Technical Institute, Inc.
+firstTradeDateEpochUtc§1071757800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§da27879e-3055-3b04-b126-a78b69684334
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§12.0
+targetMeanPrice§13.75
+targetMedianPrice§14.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.962
+earningsGrowth§2.319
+grossMargins§0.53827
+ebitdaMargins§0.08053
+trailingPegRatio§1.2248

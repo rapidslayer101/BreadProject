@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 18:45:15.026187
+address1§85 Willow Road
+city§Menlo Park
+state§CA
+zip§94025
+country§United States
+phone§844 428 5411
+website§https://robinhood.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Robinhood Markets, Inc. operates financial services platform in the United States. Its platform allows users to invest in stocks, exchange-traded funds (ETFs), options, gold, and cryptocurrencies. The company provides various learning and education solutions comprise Snacks, a digest of business news stories; Learn, which is an online collection of beginners' guides, feature tutorials, and financial dictionary; Newsfeeds that offer access to free premium news from various sites, such as Barron's, Reuters, and Dow Jones; Snacks, an accessible digest of business news stories for new generation of investors. It also offers In-App Education, a resource that covers investing fundamentals, including why people invest, a stock market overview, and tips on how to define investing goals, as well as allows customers to understand the basics of investing before their first trade; and Crypto Learn and Earn, an educational module available to various crypto customers through Robinhood Learn to teach customers the basics related to cryptocurrency. Robinhood Markets, Inc. was incorporated in 2013 and is headquartered in Menlo Park, California.
+fullTimeEmployees§2300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vladimir  Tenev', 'age': 36, 'title': 'Co-Founder, President, CEO & Chairman of the Board', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 1297529, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Warnick', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 588445, 'exercisedValue': 0, 'unexercisedValue': 1547000}, {'maxAge': 1, 'name': 'Mr. Daniel M. Gallagher Jr.', 'age': 50, 'title': 'Chief Legal, Compliance, and Corporate Affairs Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 555850, 'exercisedValue': 19800, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Quirk', 'age': 58, 'title': 'Chief Brokerage Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 682156, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Baiju Prafulkumar Bhatt', 'age': 38, 'title': 'Co-Founder, Chief Creative Officer & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 1321894, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Irvin  Sha', 'title': 'Head of Investor Relations & Capital Markets', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Elizabeth Taylor', 'title': 'VP & Head of External Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Surabhi  Gupta', 'title': 'Head of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christina Y. Lai Esq.', 'title': 'VP, Deputy General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Koegel', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.406
+priceToSalesTrailing12Months§5.7960873
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.09
+pegRatio§-0.09
+exchange§NMS
+quoteType§EQUITY
+shortName§Robinhood Markets, Inc.
+longName§Robinhood Markets, Inc.
+firstTradeDateEpochUtc§1627565400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§251e95ed-fb6a-3383-ba40-f0b20e4bc7dd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§9.0
+targetMeanPrice§11.72
+targetMedianPrice§10.41
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§0.678
+grossMargins§0.79651
+ebitdaMargins§0.0
+trailingPegRatio§None

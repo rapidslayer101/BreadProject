@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 10:37:56.742542
+address1§Pier House
+address2§86-93 Strand-on-the-Green
+city§London
+zip§W4 3NN
+country§United Kingdom
+phone§44 20 8996 2000
+fax§44 20 8995 0230
+website§https://www.fullers.co.uk
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Fuller, Smith & Turner P.L.C. operates pubs and hotels in the United Kingdom. It operates through Managed Pubs and Hotels, and Tenanted Inns segments. The company also operates pubs operated by third parties under tenancy or lease agreements; Bel & The Dragon and Cotswold Inns & Hotels; and as a managed houses service company. It also offers its beers under the London Pride, Frontier, ESB, Organic Honey Dew, Wild River, Session IPA, Seafarers, Swing low, Oliver's Island, Unfiltered Lager, Juicy IPA, Table Beer, Vintage Ale, HSB, London Porter, 1845, and Golden Pride brand names. Fuller, Smith & Turner P.L.C. was founded in 1845 and is based in London, the United Kingdom.
+fullTimeEmployees§5400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. J. Simon Emeny', 'age': 57, 'title': 'CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 639000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil Reynolds Smith', 'age': 58, 'title': 'Finance Director & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 402000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fred  Turner A.C.A.', 'age': 37, 'title': 'Retail Director & Executive Director', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 269000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony G. F. Fuller CBE', 'age': 83, 'title': 'President', 'yearBorn': 1940, 'fiscalYear': 2023, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Georgina  Wald', 'title': 'Corporate Communications Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn  Browne', 'title': 'People & Talent Director and Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iain  Rippon', 'title': 'Director of Tenanted Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Rosevear', 'title': 'Sustainability Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel Louise Spencer', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.17
+dividendYield§0.0249
+exDividendDate§1702512000
+payoutRatio§0.83889997
+fiveYearAvgDividendYield§1.73
+beta§0.807
+priceToSalesTrailing12Months§1.0896157
+currency§GBp
+forwardEps§29.34
+pegRatio§6.65
+exchange§LSE
+quoteType§EQUITY
+shortName§FULLER, SMITH & TURNER PLC 'A' 
+longName§Fuller, Smith & Turner P.L.C.
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9d43793d-9100-3b6c-b70b-67e7b1641b34
+targetHighPrice§1250.0
+targetLowPrice§450.0
+targetMeanPrice§744.0
+targetMedianPrice§650.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.336
+earningsGrowth§0.349
+grossMargins§0.35091
+ebitdaMargins§0.14783
+trailingPegRatio§None

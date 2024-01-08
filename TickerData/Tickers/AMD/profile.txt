@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 12:43:19.491049
+address1§2485 Augustine Drive
+city§Santa Clara
+state§CA
+zip§95054
+country§United States
+phone§408 749 4000
+website§https://www.amd.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§Advanced Micro Devices, Inc. operates as a semiconductor company worldwide. It operates in four segments: Data Center, Client, Gaming, and Embedded segments. The company offers x86 microprocessors and graphics processing units (GPUs) as an accelerated processing unit, chipsets, data center, and professional GPUs; and embedded processors, and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing unites, field programmable gate arrays (FPGA), and adaptive SoC products. It also provides processors under the AMD Ryzen, AMD Ryzen PRO, Ryzen Threadripper, Ryzen Threadripper PRO, AMD Athlon, AMD Athlon PRO, and AMD PRO A-Series brand names; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; and professional graphics under the AMD Radeon Pro graphics brand name. In addition, the company offers data center graphics under the Radeon Instinct and Radeon PRO V-series brands, as well as servers under the AMD Instinct accelerators brand; server microprocessors under the AMD EPYC brands; embedded processor solutions under the AMD Athlon, AMD Geode, AMD Ryzen, AMD EPYC, AMD R-Series, and G-Series brands; FPGA products under the Virtex-6, Virtex-7, Virtex UltraScale+, Kintex-7, Kintex UltraScale, Kintex UltraScale+, Artix-7, Artix UltraScale+, Spartan-6, and Spartan-7 brands; adaptive SOCs under the Zynq-7000, Zynq UltraScale+ MPSoC, Zynq UltraScale+ RFSoCs, Versal HBM, Versal Premium, Versal Prime, Versal AI Core, Versal AI Edge, Vitis, and Vivado brands; and compute and network acceleration board products under the Alveo brand. It serves original equipment and design manufacturers, public cloud service providers, system integrators, independent distributors, online and brick and mortar retailers, and add-in-board manufacturers through its direct sales force, independent distributors, and sales representatives. The company was incorporated in 1969 and is headquartered in Santa Clara, California.
+fullTimeEmployees§25000
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Lisa T. Su Ph.D.', 'age': 53, 'title': 'Chair & CEO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2120679, 'exercisedValue': 61926388, 'unexercisedValue': 84294872}, {'maxAge': 1, 'name': 'Mr. Victor  Peng', 'age': 63, 'title': 'President', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 6091409, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark D. Papermaster', 'age': 61, 'title': 'CTO and Executive VP of Technology & Engineering', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1140933, 'exercisedValue': 4836541, 'unexercisedValue': 22460436}, {'maxAge': 1, 'name': 'Mr. Paul Darren Grasby', 'age': 53, 'title': 'Executive Vice President of Strategic Partnerships & President EMEA', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 921473, 'exercisedValue': 1077205, 'unexercisedValue': 432646}, {'maxAge': 1, 'name': 'Ms. Jean X. Hu', 'age': 60, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keivan  Keshvari', 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Darla M. Smith', 'age': 57, 'title': 'Corporate VP & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hasmukh  Ranjan', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry A. Wolin', 'age': 60, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 961942, 'exercisedValue': 9188269, 'unexercisedValue': 9460937}, {'maxAge': 1, 'name': 'Ms. Ruth  Cotter', 'title': 'Senior Vice President of Marketing, Communications & Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§798940800
+payoutRatio§0.0
+beta§1.695
+priceToSalesTrailing12Months§10.125095
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.74
+pegRatio§3.99
+exchange§NMS
+quoteType§EQUITY
+shortName§Advanced Micro Devices, Inc.
+longName§Advanced Micro Devices, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§48af4341-f745-363f-945f-a838eeabb062
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§200.0
+targetLowPrice§60.0
+targetMeanPrice§138.0
+targetMedianPrice§136.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§39
+quickRatio§1.421
+earningsGrowth§3.5
+grossMargins§0.50319
+ebitdaMargins§0.13776
+trailingPegRatio§1.9329

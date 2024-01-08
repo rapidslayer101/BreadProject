@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 19:31:10.616119
+address1§25 Gresham Street
+city§London
+zip§EC2V 7HN
+country§United Kingdom
+phone§44 20 7626 1500
+website§https://www.lloydsbankinggroup.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Lloyds Banking Group plc, together with its subsidiaries, provides a range of banking and financial services in the United Kingdom. It operates through three segments: Retail; Commercial Banking; and Insurance, Pensions, and Investments. The Retail segment offers a range of financial service products, including current accounts, savings, mortgages, motor finance, unsecured loans, leasing solutions, and credit cards to personal and small business customers. The Commercial Banking segment provides lending, transactional banking, working capital management, risk management, and debt financing services to small and medium-sized entities, corporates, and institutions. The Insurance, Pensions, and Investments segment offers insurance, investment, and pension management products and services. It also provides digital banking services. The company offers its products and services under the Lloyds Bank, Halifax, Bank of Scotland, and Scottish Widows brands. Lloyds Banking Group plc was founded in 1695 and is based in London, the United Kingdom.
+fullTimeEmployees§59354
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Alan Nunn', 'age': 52, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 3457111, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Leon David Chalmers', 'age': 55, 'title': 'Group CFO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2152901, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Chambers', 'title': 'Group Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carla A. S. Antunes Da Silva', 'age': 49, 'title': 'Director of Group Strategy, Corporate Development & Investor Relations', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine Lucy Cheetham', 'age': 60, 'title': 'Company Secretary & Group General Counsel', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Letitia Mary Smith', 'age': 57, 'title': 'Group Director of Conduct, Compliance & Operational Risk', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  Smith', 'title': 'Head of Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo José Stock da Cunha', 'age': 60, 'title': 'Head of Corporate Development & Head of Commercial Banking Market', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Suresh  Balaji', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Doherty', 'title': 'Chief People & Places Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.12
+dividendYield§0.0519
+exDividendDate§1691107200
+payoutRatio§0.2592
+fiveYearAvgDividendYield§4.67
+beta§1.24
+priceToSalesTrailing12Months§1.9261824
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lloyds Banking Group Plc
+longName§Lloyds Banking Group plc
+firstTradeDateEpochUtc§1006957800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8f657419-472c-31e5-82c5-be2d5fe93e7a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.83
+targetLowPrice§2.83
+targetMeanPrice§2.83
+targetMedianPrice§2.83
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+earningsGrowth§1.9
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§1.4958

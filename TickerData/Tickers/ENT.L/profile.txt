@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 15:36:11.735960
+address1§One New Change
+address2§3rd Floor
+city§London
+zip§EC4M 9AF
+country§United Kingdom
+phone§44 350 2007 8700
+website§https://entaingroup.com
+industry§Gambling
+sector§Consumer Cyclical
+longBusinessSummary§Entain PLC operates as a sports-betting and gaming company. The company provides online betting, casino, poker, and bingo services through mobile and web under the bwin; online and multi-channel betting under the Ladbrokes; street and online betting under the Coral; sports betting, casino, game, and poker under the Sportingbet; and sports betting, poker, and casino games under the Crystalbet brands, as well as Gamebookers, a full-service sportsbook. It also offers software and technology for race book and sportsbook under the Stadium; online sports betting, casino, and gaming under the Eurobet; sports action and horse racing under the Neds; online bingo under the Gala Bingo; casino and live casino under the Gala Casino; virtual sports under the AGT brands, as well as partypoker, which provides online poker; PartyCasino that provides online casino; and Gala Spins, a gaming application. In addition, the company provides Foxy Bingo that provides online bingo; Foxy Games, which offers slot games, jackpots, and various table games; Ladbrokes.be, a shop and newsagent outlet; Ladbrokes.com.au, an online betting site; online betting and gaming under the Optibet; online casino and betting under the NinjaCasino brand; Gioco Digitale, a gaming site; Cheeky Bingo, a bingo platform; gender-neutral mobile-first casino and bingo under the Laimz brand; online sports, casino, and poker under the BetMGM brand; online sports and gaming under the Borgata brand; and Danske Spil that provides online gaming. Further, it offers PMU that offers online poker; betting in the shop estates; and telephone betting services. Entain PLC was founded in 2004 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§19186
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Stella Julie David M.A.', 'age': 61, 'title': 'Interim CEO & Non-Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 155000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob M. Wood', 'age': 43, 'title': 'Deputy CEO, CFO & Executive Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1103000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert Eugene Willis', 'age': 53, 'title': 'Co-Founder', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sandeep  Tiku', 'age': 46, 'title': 'Group Chief Operating Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Davina  Hobbs', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Zinger', 'age': 53, 'title': 'General Counsel', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Attenborough', 'title': 'Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Per  Gustafsson', 'title': 'Vice President of Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adele  Lawton', 'title': 'Head of Bingo', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Lloyd-Seed', 'age': 56, 'title': 'Chief IR & Communications Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.18
+dividendYield§0.0182
+exDividendDate§1692230400
+payoutRatio§1.3492
+fiveYearAvgDividendYield§8.16
+beta§1.252
+priceToSalesTrailing12Months§1.3867594
+currency§GBp
+forwardEps§46.65
+pegRatio§2.21
+exchange§LSE
+quoteType§EQUITY
+shortName§ENTAIN PLC ORD EUR0.01
+longName§Entain Plc
+firstTradeDateEpochUtc§1103616000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3b279ecc-7add-3ebf-ba4b-c06f10cc2569
+targetHighPrice§1510.0
+targetLowPrice§820.0
+targetMeanPrice§1174.29
+targetMedianPrice§1120.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§0.708
+grossMargins§0.80234003
+ebitdaMargins§0.16625999
+trailingPegRatio§None

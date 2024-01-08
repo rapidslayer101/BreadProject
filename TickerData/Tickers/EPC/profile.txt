@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 02:29:04.075425
+address1§6 Research Drive
+city§Shelton
+state§CT
+zip§06484
+country§United States
+phone§203 944 5500
+website§https://edgewell.com
+industry§Household & Personal Products
+sector§Consumer Defensive
+longBusinessSummary§Edgewell Personal Care Company, together with its subsidiaries, manufactures and markets personal care products worldwide. It operates through three segments: Wet Shave, Sun and Skin Care, and Feminine Care. The Wet Shave segment provides razor systems, such as razor handles and refillable blades, and disposable shave products for men and women under the Schick and Wilkinson Sword brands; and shave preparation products, including shaving gels and shaving creams under the Edge, Skintimate, Billie, Shave Guard brands. The Sun and Skin Care segment provides general protection, sport, kids, baby, tanning, and after sun products under the Banana Boat and Hawaiian Tropic brands; antibacterial hand wipes and other related products under the Wet Ones brand; skin care products for men under the Bulldog and Jack Black brands; and beard, hair, and skin care products under the Cremo brand. The Feminine Care segment provides tampons under the Playtex Gentle Glide 360°, Playtex Sport, Playtex, and o.b. brands; and markets pads and liners under the Stayfree and Carefree brands. The company distributes its products through direct sales force, exclusive and non-exclusive distributors, and wholesalers. The company was formerly known as Energizer Holdings, Inc. and changed its name to Edgewell Personal Care Company in June 2015. Edgewell Personal Care Company was founded in 1772 and is headquartered in Shelton, Connecticut.
+fullTimeEmployees§6800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rod R. Little', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 2956354, 'exercisedValue': 0, 'unexercisedValue': 573875}, {'maxAge': 1, 'name': 'Mr. Daniel J. Sullivan', 'age': 54, 'title': 'CFO, Chief Accounting Officer and President of Europe & Latin America', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1474799, 'exercisedValue': 0, 'unexercisedValue': 139551}, {'maxAge': 1, 'name': "Mr. Eric F. O'Toole", 'age': 55, 'title': 'President of North America', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1209367, 'exercisedValue': 0, 'unexercisedValue': 5975}, {'maxAge': 1, 'name': 'Mr. Paul R. Hibbert', 'age': 54, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 889121, 'exercisedValue': 0, 'unexercisedValue': 57519}, {'maxAge': 1, 'name': 'Mr. Chris  Gough', 'title': 'VP of Investor Relations, Corporate Development & Treasury', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. LaTanya  Langley', 'age': 48, 'title': 'Chief People Officer, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lauren  Medina', 'title': 'Vice President of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ricardo  de Oliveira', 'title': 'Senior Vice President of Research & Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Knight', 'title': 'Vice President of Global Sustainability', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.016900001
+exDividendDate§1701734400
+payoutRatio§0.2715
+beta§0.956
+priceToSalesTrailing12Months§0.7939877
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.02
+pegRatio§2.62
+exchange§NYQ
+quoteType§EQUITY
+shortName§Edgewell Personal Care Company
+longName§Edgewell Personal Care Company
+firstTradeDateEpochUtc§954167400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4ed30fb3-271f-3d6f-88a2-b9045a628e1c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§53.0
+targetLowPrice§32.0
+targetMeanPrice§42.56
+targetMedianPrice§41.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§0.736
+earningsGrowth§-0.076
+grossMargins§0.41654998
+ebitdaMargins§0.14212
+trailingPegRatio§None

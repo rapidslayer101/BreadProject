@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 07:40:06.843251
+address1§16 Palace Street
+city§London
+zip§SW1E 5JD
+country§United Kingdom
+phone§+44 20 72272700
+fax§+44 20 72272799
+website§https://www.polarcapital.co.uk
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Polar Capital Holdings plc is a publicly owned investment manager. The firm provides its services to professional and institutional investors. It launches and manages equity and balanced mutual funds. The firm also launches and manages hedge funds for its clients. The firm invests in public equity markets across the globe. The firm typically invests in companies in technology, healthcare and financial sectors. Polar Capital Holdings plc was founded in December 2000 and is based in London, United Kingdom with an additional office in Tokyo, Japan.
+fullTimeEmployees§191
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gavin Mark Rochussen BAcc, BCom, CA (SA)', 'age': 63, 'title': 'CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 831000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samir  Ayub', 'age': 44, 'title': 'Group Finance Director & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 537000, 'exercisedValue': 0, 'unexercisedValue': 15300}, {'maxAge': 1, 'name': 'Mr. Nick  Farren', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander Thomas Black', 'age': 60, 'title': 'Chief Investment Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Catlin', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Boura Kym Tomlinson Cann', 'title': 'Chief Legal & Compliance Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Edward James Brandt', 'title': 'Director of Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gareth  Powell', 'title': 'Head of Healthcare & Fund Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jorry Rask Nøddekær', 'title': 'Fund Manager and Head of the EM & Asian Team', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Chen', 'title': 'Head of China Research', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.46
+dividendYield§0.1013
+exDividendDate§1702512000
+payoutRatio§1.3256
+fiveYearAvgDividendYield§7.19
+beta§1.201
+priceToSalesTrailing12Months§2.6246986
+currency§GBp
+forwardEps§36.53
+pegRatio§0.89
+exchange§LSE
+quoteType§EQUITY
+shortName§POLAR CAPITAL HOLDINGS PLC ORD 
+longName§Polar Capital Holdings Plc
+firstTradeDateEpochUtc§1170748800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1c7584aa-2cde-3de1-b19e-704f822171c8
+targetHighPrice§550.0
+targetLowPrice§410.0
+targetMeanPrice§494.0
+targetMedianPrice§535.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.533
+earningsGrowth§-0.08
+grossMargins§0.88388
+ebitdaMargins§0.25729
+trailingPegRatio§None

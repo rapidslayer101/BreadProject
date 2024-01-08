@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 17:47:36.685901
+address1§18000 Studebaker Road
+address2§Suite 800
+city§Cerritos
+state§CA
+zip§90703
+country§United States
+phone§562 735 3226
+website§https://www.theoncologyinstitute.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§The Oncology Institute, Inc., an oncology company, provides various medical oncology services in the United States. The company operates in three segments: Dispensary, Patient Services, and Clinical Trials & Other. It offers physician services, in-house infusion and dispensary, clinical trial services, radiation, outpatient blood product transfusions, and patient support services. The company also offers and manages clinical trial services, such as managing clinical trials, palliative care programs, and stem cell transplants services. It serves adult and senior cancer patients. The Oncology Institute, Inc. was founded in 2007 and is headquartered in Cerritos, California.
+fullTimeEmployees§750
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard Alan Barasch', 'age': 69, 'title': 'Executive Chairman of the Board', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Daniel  Virnich FACHE, M.D., MBA', 'age': 44, 'title': 'Chief Executive Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 606078, 'exercisedValue': 0, 'unexercisedValue': 396574}, {'maxAge': 1, 'name': 'Mr. Mihir Arunkumar Shah CPA', 'age': 45, 'title': 'Chief Financial Officer & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 393652, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hilda  Agajanian M.B.A.', 'title': 'Founder & Chief Growth Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Richy  Agajanian M.D.', 'title': 'Founder & Chief Clinical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy N. Castle M.B.A.', 'age': 40, 'title': 'Chief Operations Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rakesh  Singh M.B.A.', 'title': 'Director of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Hueppelsheuser Esq.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Khurrum  Shah J.D., M.B.A.', 'title': 'Senior Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Korinke', 'title': 'Director of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.763
+priceToSalesTrailing12Months§0.47361198
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.41
+exchange§NCM
+quoteType§EQUITY
+shortName§The Oncology Institute, Inc.
+longName§The Oncology Institute, Inc.
+firstTradeDateEpochUtc§1591277400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§50f4e41b-d240-3030-8d48-ed0199bdd0cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.5
+targetLowPrice§2.5
+targetMeanPrice§2.5
+targetMedianPrice§2.5
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§4.209
+grossMargins§0.19628
+ebitdaMargins§-0.16802
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 20:43:57.612833
+address1§675 Ponce de Leon Avenue NE
+address2§Suite 6000
+city§Atlanta
+state§GA
+zip§30308
+country§United States
+phone§888 798 5802
+website§https://www.cardlytics.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§Cardlytics, Inc. operates an advertising platform in the United States and the United Kingdom. It offers Cardlytics platform, a proprietary native bank advertising channel that enables marketers to reach customers through their network of financial institution partners through digital channels, such as online, mobile applications, email, and various real-time notifications; and Bridg platform, a customer data platform which utilizes point-of-sale data and enables marketers to perform analytics and targeted loyalty marketing, as well as measure the impact of their marketing. The company was incorporated in 2008 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§473
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Karim  Temsamani', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 424024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Lynton', 'title': 'Chief Legal & Privacy Officer and Secretary', 'fiscalYear': 2022, 'totalPay': 270127, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexis  DeSieno', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amit  Gupta', 'title': 'COO & GM of Bridg', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Chan', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Davies', 'title': 'Head of Sales Strategy & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carson  Napps', 'title': 'Head of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose  Singer', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Evelyne  Forester', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.553
+priceToSalesTrailing12Months§0.91213167
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.14
+pegRatio§-0.43
+exchange§NGM
+quoteType§EQUITY
+shortName§Cardlytics, Inc. Common Stock
+longName§Cardlytics, Inc.
+firstTradeDateEpochUtc§1518186600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§535dfedb-cd7d-3acf-a8e6-5d299f2dcc17
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§12.0
+targetMeanPrice§12.33
+targetMedianPrice§12.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.105
+grossMargins§0.41342998
+ebitdaMargins§-0.17906
+trailingPegRatio§None

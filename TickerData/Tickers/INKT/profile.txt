@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 10:45:27.473856
+address1§149 Fifth Avenue
+address2§Suite 500
+city§New York
+state§NY
+zip§10010
+country§United States
+phone§212 994 8250
+website§https://minktherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§MiNK Therapeutics, Inc., a clinical stage biopharmaceutical company, engages in the discovery, development, and commercialization of allogeneic, off-the-shelf, invariant natural killer T (iNKT) cell therapies to treat cancer and other immune-mediated diseases. It's product candidate is AGENT-797, an off-the-shelf, allogeneic for iNKT cell therapy and treatment of various myeloma diseases and solid tumours, which is in Phase 1 clinical trials. The company was formerly known as AgenTus Therapeutics, Inc. MiNK Therapeutics, Inc. was incorporated in 2017 and is based in New York, New York. MiNK Therapeutics, Inc. operates as a subsidiary of Agenus Inc.
+fullTimeEmployees§37
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Garo H. Armen Ph.D.', 'age': 70, 'title': 'Executive Chairman', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jennifer S. Buell Ph.D.', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 812780, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marcus Antonius van Dijk Ph.D.', 'age': 61, 'title': 'Chief Scientific Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 369924, 'exercisedValue': 0, 'unexercisedValue': 325608}, {'maxAge': 1, 'name': 'Ms. Christine M. Klaskin', 'age': 57, 'title': 'Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 27244, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Boussios', 'title': 'General Counsel & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joy  Zhou Ph.D.', 'title': 'Vice President & Head of CMC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.047
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.63
+exchange§NCM
+quoteType§EQUITY
+shortName§MiNK Therapeutics, Inc.
+longName§MiNK Therapeutics, Inc.
+firstTradeDateEpochUtc§1634304600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8e937e64-1037-36f6-8809-414881fb7391
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§7.0
+targetMeanPrice§8.33
+targetMedianPrice§8.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§0.616
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

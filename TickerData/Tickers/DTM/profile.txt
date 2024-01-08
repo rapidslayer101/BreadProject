@@ -1,0 +1,54 @@
+# reload+after+2024-01-24 00:28:46.410447
+address1§500 Woodward Avenue
+address2§Suite 2900
+city§Detroit
+state§MI
+zip§48226-1279
+country§United States
+phone§313 402 8532
+website§https://www.dtmidstream.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§DT Midstream, Inc. provides integrated natural gas services in the United States. The company operates through two segments, Pipeline and Gathering. It develops, owns, and operates an integrated portfolio of interstate pipelines, intrastate pipelines, storage systems, lateral pipelines, gathering systems, related treatment plants, and compression and surface facilities. The company engages in the transportation and storage of natural gas for intermediate and end user customers; and collecting natural gas from points at or near customers' wells for delivery to plants for processing, to gathering pipelines for gathering, or to pipelines for transportation, as well as offers compression, dehydration, gas treatment, water impoundment, water storage, water transportation, and sand mining services. It serves natural gas producers, local distribution companies, electric power generators, industrials, and national marketers. The company was incorporated in 2021 and is headquartered in Detroit, Michigan.
+fullTimeEmployees§362
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David J. Slater', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2544472, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey A. Jewell', 'age': 56, 'title': 'Executive VP, CFO & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1396776, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Zona', 'age': 50, 'title': 'Executive VP & COO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1354018, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Cox', 'age': 53, 'title': 'Senior Vice President of Administration', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 605966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy A.T. Ellis', 'age': 57, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 952899, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert C. Skaggs Jr.', 'age': 69, 'title': 'Chairman', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Todd  Lohrmann', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.76
+dividendYield§0.0509
+exDividendDate§1702598400
+payoutRatio§0.7591
+beta§0.751
+priceToSalesTrailing12Months§5.714024
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.8
+pegRatio§3.83
+exchange§NYQ
+quoteType§EQUITY
+shortName§DT Midstream, Inc.
+longName§DT Midstream, Inc.
+firstTradeDateEpochUtc§1625146200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§70918bf1-5886-3113-bcdf-15e28290e3e1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§63.0
+targetLowPrice§48.0
+targetMeanPrice§58.1
+targetMedianPrice§58.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§0.415
+earningsGrowth§-0.191
+grossMargins§0.75679
+ebitdaMargins§0.70575
+trailingPegRatio§None

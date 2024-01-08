@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 07:33:25.821960
+address1§2727 North Harwood Street
+address2§Suite 300
+city§Dallas
+state§TX
+zip§75201-2407
+country§United States
+phone§972 476 1900
+fax§800 973 0850
+website§https://www.spiritrealty.com
+industry§REIT—Diversified
+sector§Real Estate
+longBusinessSummary§Spirit Realty Capital, Inc. (NYSE: SRC) is a premier net-lease REIT that primarily invests in single-tenant, operationally essential real estate assets, subject to long-term leases. As of September 30, 2023, our diverse portfolio consisted of 2,037 retail, industrial and other properties across 49 states, which were leased to 338 tenants operating in 37 industries. As of September 30, 2023, our properties were approximately 99.6% occupied.
+fullTimeEmployees§89
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jackson  Hsieh', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 3748990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael C. Hughes', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1383144, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth  Heimlich', 'age': 57, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1390955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay A. Young', 'age': 53, 'title': 'Executive VP, Chief Administrative Officer & Chief Legal Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1097864, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rochelle  Thomas', 'age': 39, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 901908, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Prakash J. Parag', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pierre  Revol', 'title': 'Senior Vice President of Corporate Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Gilles', 'title': 'Director of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Rosenberg', 'age': 45, 'title': 'Senior VP & Deputy Head of Asset Management', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Travis  Carter', 'title': 'Senior Vice President of Credit & Underwriting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.68
+dividendYield§0.0608
+exDividendDate§1703635200
+payoutRatio§1.5106
+fiveYearAvgDividendYield§6.31
+beta§1.375
+priceToSalesTrailing12Months§8.271489
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.38
+pegRatio§0.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§Spirit Realty Capital, Inc.
+longName§Spirit Realty Capital, Inc.
+firstTradeDateEpochUtc§1348147800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§038bf1c4-9882-33b7-992d-b3c9df766327
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§58.0
+targetLowPrice§35.0
+targetMeanPrice§43.15
+targetMedianPrice§43.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§1.475
+earningsGrowth§-0.537
+grossMargins§0.93057
+ebitdaMargins§0.84940004
+trailingPegRatio§None

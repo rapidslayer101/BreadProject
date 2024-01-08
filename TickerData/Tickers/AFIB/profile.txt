@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 06:43:12.383819
+address1§2210 Faraday Avenue
+address2§Suite 100
+city§Carlsbad
+state§CA
+zip§92008
+country§United States
+phone§442 232 6080
+fax§442 232 6081
+website§https://www.acutusmedical.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Acutus Medical, Inc., an arrhythmia management company, designs, manufactures, and markets various tools for catheter-based ablation procedures to treat various arrhythmias in the United States and internationally. Its product portfolio includes novel access sheaths, transseptal crossing tools, diagnostic and mapping catheters, conventional and contact force ablation catheters, and mapping and imaging consoles and accessories, as well as supporting algorithms and software programs. The company was incorporated in 2011 and is headquartered in Carlsbad, California.
+fullTimeEmployees§225
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. R. Scott Huennekens CPA, M.B.A.', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 163750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Harrison Roman', 'age': 41, 'title': 'CEO, President & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 604892, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Sohn', 'age': 48, 'title': 'Senior VP, Chief Administrative Officer, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 491225, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Takeo  Mukai', 'age': 43, 'title': 'Senior VP, CFO & VP of Accounting', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Derrick  Chou Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shibaji  Shome Ph.D.', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary W. Doherty', 'age': 57, 'title': 'Senior Vice President of Finance', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 434324, 'exercisedValue': 0, 'unexercisedValue': 1739027}, {'maxAge': 1, 'name': 'Mr. Kevin  Mathews', 'age': 57, 'title': 'Senior Vice President of Commercial', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.158
+priceToSalesTrailing12Months§0.28173864
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.19
+exchange§NCM
+quoteType§EQUITY
+shortName§Acutus Medical, Inc.
+longName§Acutus Medical, Inc.
+firstTradeDateEpochUtc§1596720600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6fdf3ea7-22b8-380d-aa1f-3ee928833649
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§0.5
+targetLowPrice§0.5
+targetMeanPrice§0.5
+targetMedianPrice§0.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§3.252
+grossMargins§-0.61603
+ebitdaMargins§0.0
+trailingPegRatio§None

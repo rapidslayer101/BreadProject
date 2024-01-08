@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 11:27:41.984738
+address1§8020 Katy Freeway
+city§Houston
+state§TX
+zip§77024-1908
+country§United States
+phone§713 570 3000
+fax§713 570 3100
+website§https://www.crowncastle.com
+industry§REIT—Specialty
+sector§Real Estate
+longBusinessSummary§Crown Castle owns, operates and leases more than 40,000 cell towers and approximately 85,000 route miles of fiber supporting small cells and fiber solutions across every major U.S. market. This nationwide portfolio of communications infrastructure connects cities and communities to essential data, technology and wireless service - bringing information, ideas and innovations to the people and businesses that need them.
+fullTimeEmployees§5000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jay A. Brown', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 3710801, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel K. Schlanger', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1543815, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Joseph Kavanagh', 'age': 55, 'title': 'Executive VP of Sales & Chief Commercial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1601097, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher D. Levendos', 'age': 55, 'title': 'Executive VP and COO of Towers & Fibers', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1313441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Sean Collins', 'age': 56, 'title': 'Principal Accounting Officer, Vice President & Controller', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kris  Hinson', 'title': 'VP of Corporate Finance & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward B. Adams Jr.', 'age': 54, 'title': 'Executive VP & General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fiona  McKone', 'title': 'Vice President of Communications & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip M. Kelley', 'age': 50, 'title': 'Executive Vice President of Corporate Development & Strategy', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1081376, 'exercisedValue': 691543, 'unexercisedValue': 444000}, {'maxAge': 1, 'name': 'Ms. Laura B. Nichol', 'title': 'Executive Vice President of Business Support', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§6.26
+dividendYield§0.055
+exDividendDate§1702512000
+payoutRatio§1.7486
+fiveYearAvgDividendYield§3.62
+beta§0.766
+priceToSalesTrailing12Months§6.977909
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.94
+pegRatio§-3.47
+exchange§NYQ
+quoteType§EQUITY
+shortName§Crown Castle Inc.
+longName§Crown Castle Inc.
+firstTradeDateEpochUtc§903447000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9a57ae65-7908-3165-b69c-57474f0c4bfe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§133.0
+targetLowPrice§91.0
+targetMeanPrice§113.71
+targetMedianPrice§113.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§0.292
+earningsGrowth§-0.37
+grossMargins§0.71051
+ebitdaMargins§0.59426
+trailingPegRatio§3.7474

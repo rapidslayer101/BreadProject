@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 23:35:45.030850
+address1§Riverside Building
+address2§2 Kings Inch Way Braehead
+city§Renfrew
+zip§PA4 8YU
+country§United Kingdom
+website§https://www.beeksgroup.com
+industry§Software - Infrastructure
+industryKey§software-infrastructure
+industryDisp§Software - Infrastructure
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Beeks Financial Cloud Group plc, together with its subsidiaries, provides managed cloud computing, connectivity, and analytics services for capital markets and financial services sectors in the United Kingdom, Europe, the United States, and internationally. The company offers on-demand computing solutions, including dedicated and virtual private servers, as well as private portals; managed cloud solutions comprising private, proximity, exchange, hybrid, and public cloud solutions; and analytics solutions, such as MDPlay, analytics as a service, and analytics enterprise. It also provides trading infrastructure solutions, including colocation, exchange and execution, and microwave and PTP solutions; and connectivity solutions, such as wide area networks, private networks, and cross connects. In addition, the company manages open banking and security solutions. Further, its cloud-based Infrastructure-as-a-Service model allows organizations to deploy and connect to exchanges, trading venues, and cloud service providers. Additionally, the company offers software monitoring products, maintenance services, and consultancy services; and supplies hardware products. Beeks Financial Cloud Group plc was founded in 2011 and is based in Renfrew, the United Kingdom.
+fullTimeEmployees§103
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gordon  McArthur', 'age': 47, 'title': 'CEO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 69000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fraser  McDonald', 'age': 48, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 135000, 'exercisedValue': 0, 'unexercisedValue': 608443}, {'maxAge': 1, 'name': 'Mr. Paul  Donohoe', 'title': 'Chief Operations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Doleman', 'title': 'Technical Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Rams', 'title': 'Global Sales Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1616025600
+payoutRatio§0.0
+beta§0.148
+priceToSalesTrailing12Months§3.0566514
+currency§GBp
+forwardEps§6.93
+lastDividendValue§0.2
+lastDividendDate§1616025600
+exchange§LSE
+quoteType§EQUITY
+shortName§BEEKS FINANCIAL CLOUD GROUP PLC
+longName§Beeks Financial Cloud Group plc
+firstTradeDateEpochUtc§1511769600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ee63c923-3dd6-34b3-bf17-b10fa5980032
+messageBoardId§finmb_311682283
+targetHighPrice§200.0
+targetLowPrice§200.0
+targetMeanPrice§200.0
+targetMedianPrice§200.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.51
+earningsGrowth§-0.628
+grossMargins§0.3916
+ebitdaMargins§0.14403
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 10:34:37.476726
+address1§7601 Southwest Parkway
+city§Austin
+state§TX
+zip§78735
+country§United States
+phone§512 394 9384
+website§https://www.yeti.com
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§YETI Holdings, Inc. designs, markets, retails, and distributes products for the outdoor and recreation market under the YETI brand. It offers coolers and equipment, including hard and soft coolers, cargo, bags, outdoor living, and associated accessories. The company also provides drinkware products, such as colsters, lowballs, wine tumblers, stackable pints, mugs, tumblers, straw mugs and cups, bottles, jugs, and water bottles, as well as accessories comprising bottle straw and chug caps, lids, straw lids, color packs, tumbler handles, and jug mounts under the Rambler brand. In addition, it offers YETI-branded gear products, such as hats, shirts, bottle openers, and ice substitutes. The company sells its products through independent retailers, including outdoor specialty, hardware, sporting goods, and farm and ranch supply stores, as well as through Website. It operates in the United States, Canada, Australia, New Zealand, Europe, Hong Kong, China, Singapore, and Japan. YETI Holdings, Inc. was founded in 2006 and is headquartered in Austin, Texas.
+fullTimeEmployees§922
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew J. Reintjes', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1025390, 'exercisedValue': 0, 'unexercisedValue': 10805837}, {'maxAge': 1, 'name': 'Mr. Michael James McMullen', 'age': 50, 'title': 'Senior VP, Principal Accounting Officer, Treasurer & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 320153, 'exercisedValue': 0, 'unexercisedValue': 253183}, {'maxAge': 1, 'name': 'Mr. Bryan C. Barksdale', 'age': 52, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 409639, 'exercisedValue': 0, 'unexercisedValue': 1012589}, {'maxAge': 1, 'name': 'Mr. S. Faiz Ahmad', 'age': 51, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 546255, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin H. Duff', 'age': 47, 'title': 'Senior Vice President of Supply Chain & Operations', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas D. Shaw', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paulie  Dery', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Evonne  Delaney', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.383
+priceToSalesTrailing12Months§2.4940743
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.7
+pegRatio§2.31
+exchange§NYQ
+quoteType§EQUITY
+shortName§YETI Holdings, Inc.
+longName§YETI Holdings, Inc.
+firstTradeDateEpochUtc§1540474200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§be584f9f-a5fb-325c-b5a3-72db7144f66b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§33.0
+targetMeanPrice§47.69
+targetMedianPrice§48.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§1.134
+earningsGrowth§-0.058
+grossMargins§0.50097
+ebitdaMargins§0.08148
+trailingPegRatio§None

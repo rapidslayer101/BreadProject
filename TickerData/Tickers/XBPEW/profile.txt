@@ -1,0 +1,27 @@
+# reload+after+2024-01-20 23:48:03.319599
+address1§110 East 59th Street
+city§New York
+state§NY
+zip§10022
+country§United States
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§XBP Europe Holdings, Inc. provides bills, payments, and related solutions and services in France, Germany, the United Kingdom, Sweden, and internationally. It offers XBP platform that provides secure messaging services; request to pay solutions; enterprise information management solutions; digital mailroom and records digitization solutions; business process management and intelligent workflow automation solutions; integrated communications solution; banking and financial industry solutions and services; cross-border payments; digitization of checks; confirmation of payee; and mortgage and loan management solutions. The company is based in New York, New York. XBP Europe Holdings, Inc operates as a subsidiary of Exela Technologies, Inc.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vitalie  Robu', 'age': 51, 'title': 'President', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 529095, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Parvinder S. Chadha', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrej  Jonovic', 'age': 42, 'title': 'CEO & Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dejan  Avramovic', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§-0.554
+currency§USD
+exchange§NGM
+quoteType§EQUITY
+longName§XBP Europe Holdings, Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§80cb2f50-e1e8-3a26-8d93-8b1c8d65d011
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.357
+grossMargins§0.23923
+ebitdaMargins§0.00253
+trailingPegRatio§None

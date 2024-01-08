@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 06:41:06.093955
+address1§Victrex Technology Centre
+address2§Hillhouse International
+city§Thornton-Cleveleys
+zip§FY5 4QD
+country§United Kingdom
+phone§44 12 5389 7700
+fax§44 12 5389 7701
+website§https://www.victrexplc.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Victrex plc, through its subsidiaries, engages in the manufacture and sale of polymer solutions worldwide. The company operates through two segments, Industrial and Medical. It develops PEEK and PAEK based polymer solutions, and semi-finished and finished parts. The company also offers specialist solutions for medical device manufacturers; sells thermoplastic polymer components; and engages in trading activities. It serves automotive, aerospace, energy and industrial, manufacturing and engineering, electronics, and medical markets. Victrex plc was incorporated in 1993 and is headquartered in Thornton-Cleveleys, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jakob O. Sigurdsson BA, MBA', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1393494, 'exercisedValue': 0, 'unexercisedValue': 155310}, {'maxAge': 1, 'name': 'Mr. Ian Clifford Melling F.C.A.', 'age': 45, 'title': 'CFO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 164107, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Versterre', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Hanson', 'title': 'Director of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Brisley', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jilly  Atherton', 'title': 'Group Human Resource Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John  Devine Bsc Ph.D.', 'title': 'Managing Director for Medical', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0397
+exDividendDate§1706140800
+payoutRatio§0.84480006
+fiveYearAvgDividendYield§3.03
+beta§0.765
+priceToSalesTrailing12Months§4.314073
+currency§GBp
+forwardEps§93.71
+pegRatio§2.18
+exchange§LSE
+quoteType§EQUITY
+shortName§VICTREX PLC ORD 1P
+longName§Victrex plc
+firstTradeDateEpochUtc§819532800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§132385d6-fcb0-330d-8d35-417cd972bd2f
+targetHighPrice§2100.0
+targetLowPrice§1250.0
+targetMeanPrice§1656.92
+targetMedianPrice§1650.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§1.794
+earningsGrowth§-0.273
+grossMargins§0.55439997
+ebitdaMargins§0.35764998
+trailingPegRatio§2.4395

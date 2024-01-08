@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 08:28:03.774631
+address1§11825 North Pennsylvania Street
+city§Carmel
+state§IN
+zip§46032
+country§United States
+phone§317 817 6100
+website§https://www.cnoinc.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§CNO Financial Group, Inc., through its subsidiaries, develops, markets, and administers health insurance, annuity, individual life insurance, insurance products, and financial services for senior and middle-income markets in the United States. It offers Medicare supplement, supplemental health, and long-term care insurance policies; life insurance; and annuities, as well as Medicare advantage plans to individuals through phone, online, mail, and face-to-face. The company also focuses on worksite and group sales for businesses, associations, and other membership groups by interacting with customers at their place of employment. In addition, it provides fixed index annuities; fixed interest annuities, including fixed rate single and flexible premium deferred annuities; single premium immediate annuities; supplemental health products, such as specified disease, accident, and hospital indemnity products; and long-term care plans primarily to retirees and older self-employed individuals in the middle-income market. Further, the company offers universal life and other interest-sensitive life products; and traditional life policies that include whole life, graded benefit life, term life, and single premium whole life products, as well as graded benefit life insurance products. CNO Financial Group, Inc. markets its products under the Bankers Life, Washington National, and Colonial Penn brand names. The company was founded in 1979 and is headquartered in Carmel, Indiana.
+fullTimeEmployees§3400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary Chandru Bhojwani', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3237175, 'exercisedValue': 0, 'unexercisedValue': 963110}, {'maxAge': 1, 'name': 'Mr. Paul Harrington McDonough', 'age': 58, 'title': 'CFO & Executive VP', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1474050, 'exercisedValue': 0, 'unexercisedValue': 201930}, {'maxAge': 1, 'name': 'Mr. Eric Ronald Johnson', 'age': 63, 'title': 'Chief Investment Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1399256, 'exercisedValue': 0, 'unexercisedValue': 957295}, {'maxAge': 1, 'name': 'Mr. Scott Louis Goldberg CPA', 'age': 53, 'title': 'President of Consumer Division', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1421534, 'exercisedValue': 0, 'unexercisedValue': 500071}, {'maxAge': 1, 'name': 'Ms. Jeanne L. Linnenbringer', 'age': 60, 'title': 'Chief Operations Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michellen  Wildin', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Mead', 'age': 56, 'title': 'Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Williams', 'title': 'Vice President of Finance & Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Joseph Zimpfer', 'age': 56, 'title': 'Executive VP & General Counsel', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1583485, 'exercisedValue': 433616, 'unexercisedValue': 732737}, {'maxAge': 1, 'name': 'Ms. Nancy  Sweet', 'title': 'Chief Compliance Officer and Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0221
+exDividendDate§1701907200
+payoutRatio§1.3488001
+fiveYearAvgDividendYield§2.42
+beta§1.098
+priceToSalesTrailing12Months§0.77215356
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.1
+pegRatio§0.96
+exchange§NYQ
+quoteType§EQUITY
+shortName§CNO Financial Group, Inc.
+longName§CNO Financial Group, Inc.
+firstTradeDateEpochUtc§1063200600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§532c25a4-fa55-3135-afd2-88c96db81aa3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§29.0
+targetLowPrice§26.0
+targetMeanPrice§27.2
+targetMedianPrice§27.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.411
+earningsGrowth§-0.039
+grossMargins§0.41806
+ebitdaMargins§0.16249001
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 15:46:14.411230
+address1§455 Mission Bay Boulevard South
+city§San Francisco
+state§CA
+zip§94158
+country§United States
+phone§415 482 5300
+fax§415 339 5300
+website§https://www.nektar.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Nektar Therapeutics, a biopharmaceutical company, focuses on discovering and developing medicines in the field of immunotherapy in the United States and internationally. The company is developing rezpegaldesleukin, a cytokine Treg stimulant that is in phase 2 clinical trial for the treatment of systemic lupus erythematosus and ulcerative colitis, as well as phase 1B clinical trial to treat atopic dermatitis and psoriasis; and NKTR-255, an IL-15 receptor agonist, which is in phase 1/2 clinical trial for the treatment of non-Hodgkin's lymphoma and multiple myeloma, and head and neck cancer squamous cell carcinoma and colorectal cancer. It has collaboration agreements with Takeda Pharmaceutical Company Ltd.; AstraZeneca AB; UCB Pharma S.A.; F. Hoffmann-La Roche Ltd; Bausch Health Companies Inc.; Pfizer Inc.; Amgen Inc.; UCB Pharma (Biogen); Bristol-Myers Squibb Company; Baxalta Incorporated; Eli Lilly and Company; Merck KGaA; and SFJ Pharmaceuticals, Inc.  The company was incorporated in 1990 and is headquartered in San Francisco, California.
+fullTimeEmployees§216
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Howard W. Robin', 'age': 70, 'title': 'CEO, President & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 1834165, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Wilson', 'age': 51, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 749993, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jonathan  Zalevsky Ph.D.', 'age': 48, 'title': 'Senior VP & Chief Research and Development Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1246371, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra A. Gardiner', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vivian  Wu', 'title': 'Director of Investor Relations & Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Bacci', 'title': 'Senior Vice President of Human Resources & Facilities Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Ruddock', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mary  Tagliaferri L.Ac., M.D.', 'age': 57, 'title': 'Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Loui  T. Madakamutil', 'title': 'VP and Head of Discovery & Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§2
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.894
+priceToSalesTrailing12Months§1.1570328
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.69
+pegRatio§0.05
+exchange§NCM
+quoteType§EQUITY
+shortName§Nektar Therapeutics
+longName§Nektar Therapeutics
+firstTradeDateEpochUtc§767971800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§416283a3-1f17-365e-abc6-f451db95daa1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§0.5
+targetMeanPrice§2.83
+targetMedianPrice§3.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§7.217
+grossMargins§0.6293
+ebitdaMargins§-1.54214
+trailingPegRatio§None

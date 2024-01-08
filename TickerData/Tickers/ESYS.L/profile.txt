@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 20:36:12.277203
+address1§Aldgate Tower
+address2§7th Floor 2 Leman Street
+city§London
+zip§E1 8FA
+country§United Kingdom
+website§https://www.essensys.tech
+industry§Software—Application
+sector§Technology
+longBusinessSummary§essensys plc, together with its subsidiaries, engages in the provision of mission-critical software-as-a-service platforms and on-demand cloud services to the flexible workspace segment of the commercial real estate industry in the United Kingdom, Europe, North America, and the Asia-Pacific region. The company offers essensys platform, a software that automates and simplifies the management of occupiers, spaces, and services; essensys Cloud, a smart building connectivity delivered across secure and private network; and Operate, a contract management, billing, and invoicing software. It offers its products to multi-site landlords and flexible workspace providers. The company was founded in 2006 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§152
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Furness', 'age': 49, 'title': 'Founder, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 282000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah Lesley Harvey', 'age': 47, 'title': 'CFO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 247000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry John Clark', 'title': 'Co-founder & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian Bryn Sadler', 'title': 'Co-founder & SVP essensys Labs', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Shannon', 'age': 51, 'title': 'Chief Product & Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Meyer  Prinsloo', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kally  Kang-Kersey', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Lowery', 'title': 'Chief Customer Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dan  Suozzi', 'title': 'Chief Revenue Officer of North America', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Brown', 'title': 'Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.558
+priceToSalesTrailing12Months§0.93478096
+currency§GBp
+forwardEps§-2.24
+exchange§LSE
+quoteType§EQUITY
+shortName§ESSENSYS PLC ORD 0.25P
+longName§essensys plc
+firstTradeDateEpochUtc§1559113200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§60df32ce-7c1a-39a1-8cf7-f4833c5bcd5d
+targetHighPrice§60.0
+targetLowPrice§60.0
+targetMeanPrice§60.0
+targetMedianPrice§60.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.758
+grossMargins§0.59028
+ebitdaMargins§-0.46915
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 17:41:05.036055
+address1§No. 1 Godwin Street
+city§Bradford
+zip§BD1 2SU
+country§United Kingdom
+phone§44 1274 351351
+fax§44 1274 730 606
+website§https://www.vanquisbankinggroup.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Vanquis Banking Group plc provides personal credit products to the non-standard lending market in the United Kingdom and the Republic of Ireland. It offers credit cards products, and unsecured personal loans products. The company also provides vehicle finance for cars, motorbikes, and light commercial vehicles. The company was formerly known as Provident Financial plc and changed its name to Vanquis Banking Group plc in March 2023. Vanquis Banking Group plc was founded in 1880 and is headquartered in Bradford, the United Kingdom.
+fullTimeEmployees§2005
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian Michael Brian McLaughlin', 'age': 57, 'title': 'CEO & Executive Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Michael Watts', 'age': 57, 'title': 'CFO & Executive Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Cant', 'title': 'Director of Corporate Finance & Development', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Clive  Whincup', 'title': 'Group Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Miriam  McKay', 'title': 'Interim Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie  Barnett', 'title': 'Group General Counsel & Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard  King', 'title': 'Group Corporate Communication Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl  Ball', 'title': 'Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gareth  Cronin', 'title': 'Group Chief Risk Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Shrimpton', 'title': 'Managing Director of Moneybarn', 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.1267
+exDividendDate§1691625600
+payoutRatio§0.97449994
+fiveYearAvgDividendYield§5.54
+beta§1.409
+priceToSalesTrailing12Months§0.90589434
+currency§GBp
+forwardEps§19.64
+pegRatio§1.23
+exchange§LSE
+quoteType§EQUITY
+shortName§VANQUIS BANKING GROUP PLC ORD  
+longName§Vanquis Banking Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b63e9d4d-dd96-3252-b854-71cc0ccd6a44
+targetHighPrice§438.0
+targetLowPrice§103.0
+targetMeanPrice§184.63
+targetMedianPrice§156.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§28.562
+grossMargins§0.15774
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 00:47:57.126782
+address1§3590 North First Street
+address2§Suite 210
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§408 963 0200
+website§https://www.energous.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§Energous Corporation develops wireless charging applications. The company develops WattUp wireless power technology that consists of semiconductor chipsets, software controls, hardware designs, and antennas that enables radio frequency-based charging for electronic devices. Its products are used in building and home automation, electronic shelf labels, industrial IoT sensors, surface and implanted medical devices, tracking devices, hearables, wearables, consumer electronics, and public safety applications. Energous Corporation was formerly known as DvineWave Inc. and changed its name to Energous Corporation in January 2014. Energous Corporation was incorporated in 2012 and is headquartered in San Jose, California.
+fullTimeEmployees§43
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Cesar  Johnston', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 880000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Kim-van Dongen', 'age': 58, 'title': 'Interim CFO & Principal Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giampaolo  Marino', 'title': 'Vice President of Business Development & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.573
+priceToSalesTrailing12Months§15.119835
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.05
+exchange§NCM
+quoteType§EQUITY
+shortName§Energous Corporation
+longName§Energous Corporation
+firstTradeDateEpochUtc§1396013400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b3f66ef2-5023-3846-a5e3-801ada2c0061
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§3.5
+targetMeanPrice§11.75
+targetMedianPrice§11.75
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§4.376
+grossMargins§-0.16235
+ebitdaMargins§0.0
+trailingPegRatio§None

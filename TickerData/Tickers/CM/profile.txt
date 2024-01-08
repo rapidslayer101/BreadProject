@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 08:27:57.127223
+address1§CIBC Square
+address2§12th Floor 81 Bay Street
+city§Toronto
+state§ON
+zip§M5J 0E7
+country§Canada
+phone§416 552 9190
+fax§855 251 6076
+website§https://www.cibc.com
+industry§Banks—Diversified
+sector§Financial Services
+longBusinessSummary§Canadian Imperial Bank of Commerce, a diversified financial institution, provides various financial products and services to personal, business, public sector, and institutional clients in Canada, the United States, and internationally. The company operates through Canadian Personal and Business Banking; Canadian Commercial Banking and Wealth Management; U.S. Commercial Banking and Wealth Management; Capital Markets and Direct Financial Services; and Corporate and Other segments. It offers checking, savings, and business accounts; mortgages; business, car, and other loans; lines of credit, student lines of credit, and agriculture loans; and small business financing and overdraft protection services. The company also provides investment and insurance services; credit cards; and ATMs, as well as mobile, online, and global money and wire transfer services. Canadian Imperial Bank of Commerce was founded in 1867 and is headquartered in Toronto, Canada.
+fullTimeEmployees§48074
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Victor G. Dodig', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2149216, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hratch  Panossian', 'title': 'Senior EVP, CFO and Head of Enterprise Strategy', 'fiscalYear': 2022, 'totalPay': 1044192, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael G. Capatides', 'title': 'Vice-Chair of CIBC Bank USA', 'fiscalYear': 2022, 'totalPay': 2179092, 'exercisedValue': 940592, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry K. Culham', 'title': 'Senior EVP and Group Head of Capital Markets & Direct Financial Services', 'fiscalYear': 2022, 'totalPay': 2105575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christina C. Kramer', 'title': 'Senior EVP and Group Head of Technology, Infrastructure & Innovation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kikelomo  Lawal', 'title': 'Executive VP & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra R. Sharman', 'age': 60, 'title': 'Senior EVP and Group Head of People, Culture & Brand', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Ferren', 'title': 'Senior Vice President of Deposit Products & Analytics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Boluch', 'title': 'Executive Vice President of Technology & Enterprise Innovation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen J. Forbes', 'title': 'Chief Commercial Officer & Executive VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.73
+dividendYield§0.0572
+exDividendDate§1703635200
+payoutRatio§0.6667
+fiveYearAvgDividendYield§5.26
+beta§1.095
+priceToSalesTrailing12Months§2.0845644
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.1
+pegRatio§4.68
+exchange§NYQ
+quoteType§EQUITY
+shortName§Canadian Imperial Bank of Comme
+longName§Canadian Imperial Bank of Commerce
+firstTradeDateEpochUtc§879431400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§70735487-2d4e-3210-a2a5-73b99721b1fb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.91
+targetLowPrice§35.07
+targetMeanPrice§42.49
+targetMedianPrice§42.49
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§2
+earningsGrowth§0.212
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

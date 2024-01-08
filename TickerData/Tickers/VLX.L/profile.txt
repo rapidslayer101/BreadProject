@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 10:41:06.642783
+address1§Unit C1 Antura
+address2§Bond Close
+city§Basingstoke
+zip§RG24 8PZ
+country§United Kingdom
+phone§44 1256 442570
+website§https://www.volex.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§Volex plc manufactures and supplies power products and cable assemblies in North America, Europe, and Asia. It provides integrated manufacturing services, such as PCB assembly, box build, and complex cable assemblies; electric vehicle charging solutions; cable harness and power products; copper interconnect cable and data transfer cable; and data center power cables and power cords. It also offers plugs, connectors, and receptacles. Its products are used in complex industrial technology, consumer electronics, electric vehicle, and medical markets. The company sells its products through distributors to original equipment manufacturers and electronic manufacturing services companies. Volex plc was founded in 1892 and is headquartered in Basingstoke, the United Kingdom.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Hon. Nathaniel Philip Victor James Rothschild', 'age': 52, 'title': 'Executive Chairman', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 717161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan William Boaden', 'age': 43, 'title': 'CFO & Executive Director', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 508714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dom John Molloy', 'age': 77, 'title': 'Chief Operating  Officer', 'yearBorn': 1946, 'fiscalYear': 2023, 'totalPay': 33974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christian  Bedford', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Taylor', 'title': 'Group HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Yu', 'title': 'COO of China & VP of Global Procurement', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Bullock', 'title': 'Chief Operating Officer of Europe', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Girish  Gopinath', 'title': 'COO of APAC & VP of Power Products', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Kray', 'title': 'Chief Operating Officer of North America', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fatih  Koymen', 'title': 'Chief Operating Officer of Turkiye', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0134000005
+exDividendDate§1701302400
+payoutRatio§0.2365
+fiveYearAvgDividendYield§6.01
+beta§0.976
+priceToSalesTrailing12Months§0.7586248
+currency§GBp
+forwardEps§0.29
+exchange§LSE
+quoteType§EQUITY
+shortName§VOLEX PLC ORD 25P
+longName§Volex plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§81dbe48e-636a-3a3c-a09b-b3a837dbd885
+targetHighPrice§5.27
+targetLowPrice§3.98
+targetMeanPrice§4.43
+targetMedianPrice§4.19
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.841
+earningsGrowth§-0.143
+grossMargins§0.22889
+ebitdaMargins§0.10252
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 05:43:51.770230
+address1§12355 Sunrise Valley Drive
+address2§Suite 520
+city§Reston
+state§VA
+zip§20191
+country§United States
+phone§703 464 1000
+website§https://www.bowman.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Bowman Consulting Group Ltd. provides a range of real estate, energy, infrastructure, and environmental management solutions in the United States. It offers civil and site engineering services, such as conceptual land planning, environmental consulting and permitting, planning/zoning and entitlements, roadway and highway designs, erosion and sediment designs, stormwater management designs, construction administration, traffic studies, floodplain studies, and utility relocation designs; and commissioning and energy efficiency services comprise construction observation, direct systems functional performance testing, system development readiness checklist, post occupancy review, review of construction documents, deferred/seasonal functional testing, final commissioning report, and commissioning review of submittals. The company also provides construction management services, including constructability review, value engineering, budgeting and cost estimating, interagency and utility coordination, onsite observation and report evaluation, public communication and outreach, and resident engineer services, as well as bid solicitation, documentation, and preparation services; and environmental consulting services consisting of wetlands and waters of the U.S. delineations, natural resources inventories, wildlife and vegetation surveys, threatened and endangered species surveys, endangered species conservation and management, wetland creation and enhancement design, NEPA documentation, section 404/401 permitting and compliance, NPDES permitting, and phase I environmental site assessment. In addition, it offers landscape architecture, land procurement and right-of-way acquisition, structural engineering, surveying and geospatial engineering, and transportation and water resources engineering services, as well as mechanical, electrical, and plumbing engineering services. The company was incorporated in 1995 and is headquartered in Reston, Virginia.
+fullTimeEmployees§1600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary P. Bowman', 'age': 67, 'title': 'President, CEO & Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1163814, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce J. Labovitz', 'age': 55, 'title': 'Executive VP & Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 757137, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael G. Bruen', 'age': 57, 'title': 'Executive VP, COO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 744784, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Mullenix', 'title': 'EVP, Chief Information Officer & Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Alan Hickey', 'age': 64, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 913200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clay  Worley', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald M Robison', 'title': 'Principal and Director of Environmental Sciences Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy M. Vaughn', 'title': 'Executive VP of Mergers & Acquisitions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Swayze', 'title': 'Executive Vice President of Energy Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Belyea', 'title': 'Chief Digital Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.231
+priceToSalesTrailing12Months§1.4158723
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.68
+exchange§NGM
+quoteType§EQUITY
+shortName§Bowman Consulting Group Ltd.
+longName§Bowman Consulting Group Ltd.
+firstTradeDateEpochUtc§1620394200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cfb19ad1-5f91-38c1-81a4-49ad898d16cf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§36.0
+targetMeanPrice§43.25
+targetMedianPrice§44.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.302
+earningsGrowth§-0.68
+grossMargins§0.51278
+ebitdaMargins§0.060560003
+trailingPegRatio§None

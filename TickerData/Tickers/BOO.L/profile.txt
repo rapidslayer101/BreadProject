@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 05:35:48.566948
+address1§49-51 Dale Street
+city§Manchester
+zip§M1 2HF
+country§United Kingdom
+website§https://www.boohooplc.com
+industry§Internet Retail
+industryKey§internet-retail
+industryDisp§Internet Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§boohoo group plc, through its subsidiaries, operates as an online clothing retailer in the United Kingdom, rest of Europe, the United States, and internationally. The company designs, sources, markets, and sells clothing, shoes, accessories, and beauty products for 16-to-45-year age customers. It provides its products under the boohoo, boohooMAN, PrettyLittleThing, Nasty Gal, MissPap, Karen Millen, Coast, Oasis, Warehouse, Dorothy Perkins, Wallis, Burton, and Debenhams brands. The company was founded in 2006 and is headquartered in Manchester, the United Kingdom.
+fullTimeEmployees§5567
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mahmud Abdullah Kamani', 'age': 58, 'title': 'Co-Founder & Group Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1031600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John William Lyttle', 'age': 55, 'title': 'Group CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1348498, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol Mary Kane', 'age': 56, 'title': 'Group Co-Founder & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 986984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shaun  McCabe', 'age': 54, 'title': 'CFO & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 691712, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jo  Graham', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alistair  Davies', 'title': 'Head of Investor Relations, Strategy & Projects', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Kershaw', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl  Chung', 'title': 'Group Head of Corporate Affairs', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.802
+priceToSalesTrailing12Months§0.3220167
+currency§GBp
+forwardEps§3.96
+exchange§LSE
+quoteType§EQUITY
+shortName§BOOHOO GROUP PLC ORD 1P
+longName§boohoo group plc
+firstTradeDateEpochUtc§1394784000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8ebe8bf6-1df5-3392-ad4b-a86dbb504831
+messageBoardId§finmb_252132831
+targetHighPrice§75.0
+targetLowPrice§18.5
+targetMeanPrice§35.31
+targetMedianPrice§30.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§18
+quickRatio§0.93
+grossMargins§0.50817
+ebitdaMargins§-0.00365
+trailingPegRatio§None

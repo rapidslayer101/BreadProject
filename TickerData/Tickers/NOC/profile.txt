@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 04:31:44.924645
+address1§2980 Fairview Park Drive
+city§Falls Church
+state§VA
+zip§22042
+country§United States
+phone§703 280 2900
+website§https://www.northropgrumman.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Northrop Grumman Corporation operates as an aerospace and defense company worldwide. The company's Aeronautics Systems segment designs, develops, manufactures, integrates, and sustains aircraft systems in the United States and internationally. This segment also offers unmanned autonomous aircraft systems, including high-altitude long-endurance strategic ISR systems and vertical take-off and landing tactical ISR systems; and strategic long-range strike aircraft, tactical fighter and air dominance aircraft, and airborne battle management and command and control systems. Its Defense Systems segment designs, develops, and produces weapons and mission systems. It offers products and services, such as integrated battle management systems, weapons systems and aircraft, and mission systems. This segment also provides command and control and weapons systems, including munitions and missiles; precision strike weapons; propulsion, such as air-breathing and hypersonic systems; gun systems and precision munitions; life cycle service and support for software, weapons systems, and aircraft; and logistics support, sustainment, operation, and modernization for air, sea, and ground systems. The company's Mission Systems segment offers cyber, command, control, communications and computers, intelligence, surveillance, and reconnaissance systems; radar, electro-optical/infrared and acoustic sensors; electronic warfare systems; advanced communications and network systems; cyber solutions; intelligence processing systems; navigation; and maritime power, propulsion, and payload launch systems. This segment also provides airborne multifunction sensors; maritime/land systems and sensors; navigation, targeting, and survivability solutions; and networked information solutions. Its Space Systems segment offers satellites and payloads; ground systems; missile defense systems and interceptors; launch vehicles and related propulsion systems; and strategic missiles. The company was founded in 1939 and is based in Falls Church, Virginia.
+fullTimeEmployees§95000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Kathy J. Warden', 'age': 51, 'title': 'Chair, CEO & President', 'yearBorn': 1972, 'fiscalYear': 2015, 'totalPay': 6422051, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David F. Keffer', 'age': 45, 'title': 'Corporate VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2015, 'totalPay': 2134590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew F. Bromberg', 'age': 53, 'title': 'Corporate Vice President of Global Operations', 'yearBorn': 1970, 'fiscalYear': 2015, 'totalPay': 1606257, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy H. Jones', 'age': 56, 'title': 'Corporate VP & President of Aeronautics Systems', 'yearBorn': 1967, 'fiscalYear': 2015, 'totalPay': 2069414, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Caylor', 'age': 58, 'title': 'Corporate VP & President of Mission Systems Sector', 'yearBorn': 1965, 'fiscalYear': 2015, 'totalPay': 2129356, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajender K. Chandhok', 'age': 73, 'title': 'Vice President of Trust Administration and Investments', 'yearBorn': 1950, 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brig.Gen. Richard  Stapp', 'title': 'Chief Technology Officer', 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Russell', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd B. Ernst', 'title': 'Corporate VP and Treasurer & VP of Investor Relations', 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn G. Simpson', 'title': 'Corporate VP & General Counsel', 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1451520000
+maxAge§86400
+priceHint§2
+dividendRate§7.48
+dividendYield§0.0159
+exDividendDate§1700784000
+payoutRatio§0.2368
+fiveYearAvgDividendYield§1.58
+beta§0.382
+priceToSalesTrailing12Months§1.8316175
+currency§USD
+dateShortInterest§1702598400
+forwardEps§24.19
+pegRatio§10.88
+exchange§NYQ
+quoteType§EQUITY
+shortName§Northrop Grumman Corporation
+longName§Northrop Grumman Corporation
+firstTradeDateEpochUtc§378657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8d64cf5f-27e7-341e-a824-a0162177be4e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§615.0
+targetLowPrice§382.0
+targetMeanPrice§502.35
+targetMedianPrice§492.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§20
+quickRatio§1.06
+earningsGrowth§0.049
+grossMargins§0.20396
+ebitdaMargins§0.18511
+trailingPegRatio§12.9309

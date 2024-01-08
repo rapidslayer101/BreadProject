@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 00:45:11.844764
+address1§399 Thornall Street
+address2§First Floor
+city§Edison
+state§NJ
+zip§08837
+country§United States
+phone§732-902-4000
+fax§732-902-4100
+website§https://www.hepionpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Hepion Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the development of drug therapy treatment for chronic liver diseases in the United States. It develops Rencofilstat, a cyclophilin inhibitor that has completed Phase 2a clinical trials to target multiple pathologic pathways involved in the progression of liver disease; and is in phase 2 clinical development for the treatment of non-alcoholic steatohepatitis (NASH), as well as preclinical studies of Rencofilstat shows reduction in liver fibrosis, liver inflammation, liver tumor burden, and titers of HBV, HCV, HDV, and HIV-1, and has demonstrated antiviral activities for hepatitis B, C, and D viruses through several mechanisms. The company was formerly known as ContraVir Pharmaceuticals, Inc. and changed its name to Hepion Pharmaceuticals, Inc. in July 2019. Hepion Pharmaceuticals, Inc. was incorporated in 2013 and is headquartered in Edison, New Jersey.
+fullTimeEmployees§25
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John T. Cavan', 'age': 65, 'title': 'Interim CEO & CFO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 495333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Launa J. Aspeslet Ph.D.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sharen  Pyatetskaya', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Daniel J. Trepanier Ph.D.', 'title': 'Senior Vice President of Drug Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Patrick R. Mayo Ph.D.', 'title': 'Senior Vice President of Clinical Pharmacology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John Z. Sullivan-Bolyai', 'age': 75, 'title': 'Part-Time Consultant', 'yearBorn': 1948, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen A.  Harrison FACP, M.D.', 'title': 'Scientific Advisory Board Chair & Consultant Medical Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.428
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-11.43
+exchange§NCM
+quoteType§EQUITY
+shortName§Hepion Pharmaceuticals, Inc.
+longName§Hepion Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1392042600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bec39233-f713-3fce-8d16-915e909efc3e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§22.0
+targetMeanPrice§26.0
+targetMedianPrice§26.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.012
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

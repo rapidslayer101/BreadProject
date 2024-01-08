@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 01:46:42.763358
+address1§120 Corporate Boulevard
+city§Norfolk
+state§VA
+zip§23502
+country§United States
+phone§888 772 7326
+website§https://www.pragroup.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§PRA Group, Inc., a financial and business services company, engages in the purchase, collection, and management of portfolios of nonperforming loans in the Americas, Europe, and Australia. It is involved in the purchase of accounts that are primarily the unpaid obligations of individuals owed to credit originators, which include banks and other types of consumer, retail, and auto finance companies. The company also acquires nonperforming loans, including Visa and MasterCard credit cards, private label and other credit cards, installment loans, lines of credit, deficiency balances of various types, legal judgments, and trade payables from banks, credit unions, consumer finance companies, retailers, utilities, automobile finance companies, and other credit originators. In addition, it provides fee-based services on class action claims recoveries and by servicing consumer bankruptcy accounts. The company was formerly known as Portfolio Recovery Associates, Inc. and changed its name to PRA Group, Inc. in October 2014. PRA Group, Inc. was incorporated in 1996 and is headquartered in Norfolk, Virginia.
+fullTimeEmployees§3134
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven D. Fredrickson', 'age': 63, 'title': 'Co-Founder & Non-Executive Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 195000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vikram A. Atal', 'age': 67, 'title': 'President, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 115000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rakesh  Sehgal', 'title': 'Executive VP, CFO & Head of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Owen  James', 'title': 'Executive VP & Global Investments Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chris  Burroughs', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan  Husby', 'age': 59, 'title': 'Global Chief Information Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lauren  Partin', 'title': 'Senior Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. LaTisha Owens Tarrant', 'age': 50, 'title': 'Executive VP, General Counsel, Chief Human Resources Officer & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Kersey', 'title': 'Senior Vice President of Communications & Public Policy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neal A. Petrovich', 'age': 61, 'title': 'Senior Vice President of Finance', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1178496000
+payoutRatio§0.0
+beta§1.491
+priceToSalesTrailing12Months§1.1880822
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.32
+pegRatio§-0.3
+exchange§NMS
+quoteType§EQUITY
+shortName§PRA Group, Inc.
+longName§PRA Group, Inc.
+firstTradeDateEpochUtc§1036765800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c02e46f0-baaa-3ea6-923a-3a0f5a0ccaaa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§18.0
+targetMeanPrice§28.67
+targetMedianPrice§26.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§15.042
+grossMargins§1.0
+ebitdaMargins§0.16606002
+trailingPegRatio§None

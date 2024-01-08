@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 20:36:11.262907
+address1§5 Young  Street
+city§London
+zip§W8 5EH
+country§United Kingdom
+phone§44 20 3011 2723
+website§https://www.endeavourmining.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Endeavour Mining plc, together with its subsidiaries, operates as a gold mining company in West Africa. It has six operating assets, including the Boungou, Houndé, Mana, and Wahgnion mines in Burkina Faso; the Ity mine in Côte d'Ivoire; the Lafigué project in Côte d'Ivoire; the Sabodala-Massawa mine in Senegal; the Kalana projects in Mali; and a portfolio of exploration assets on the Birimian Greenstone Belt across Burkina Faso, Côte d'Ivoire, Mali, and Senegal. Endeavour Mining plc was incorporated in 2021 and is based in London, the United Kingdom.
+fullTimeEmployees§5686
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sebastien  de Montessus', 'age': 48, 'title': 'President, CEO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 3861993, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy F. Young B.Comm, CA', 'age': 52, 'title': 'Executive VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Morcombe', 'age': 52, 'title': 'Executive VP & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 718314, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Morgan Denis Carroll', 'title': 'Executive VP of Corporate Finance, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 630164, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martino  De Ciccio C.F.A.', 'title': 'Deputy CFO, VP of Vice President of Strategy & Investor Relations and Head Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Dragone', 'age': 47, 'title': 'Executive Vice President of Human Resources & Communication', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peder  Olsen', 'title': 'Head of Projects', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Denis  Fleury P.Eng.', 'title': 'Chief Engineer of QP Underground', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jaco  Dercksen', 'title': 'Head of Internal Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  White', 'title': 'Executive Vice President of Projects', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.66
+dividendYield§0.041500002
+exDividendDate§1693440000
+payoutRatio§2.4286
+beta§0.752
+priceToSalesTrailing12Months§1.7363012
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§ENDEAVOUR MINING PLC ORD USD0.0
+longName§Endeavour Mining plc
+firstTradeDateEpochUtc§1517299200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bf66293e-659f-353d-9007-da83e785667e
+targetHighPrice§27.8
+targetLowPrice§23.33
+targetMeanPrice§25.56
+targetMedianPrice§25.56
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.704
+earningsGrowth§0.07
+grossMargins§0.52563
+ebitdaMargins§0.44186002
+trailingPegRatio§None

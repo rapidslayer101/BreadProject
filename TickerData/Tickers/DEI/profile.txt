@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 22:28:30.822278
+address1§1299 Ocean Avenue
+address2§Suite 1000
+city§Santa Monica
+state§CA
+zip§90401-1889
+country§United States
+phone§310 255 7700
+fax§310 255 7702
+website§https://www.douglasemmett.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Douglas Emmett, Inc. (DEI) is a fully integrated, self-administered and self-managed real estate investment trust (REIT), and one of the largest owners and operators of high-quality office and multifamily properties located in the premier coastal submarkets of Los Angeles and Honolulu. Douglas Emmett focuses on owning and acquiring a substantial share of top-tier office properties and premier multifamily communities in neighborhoods that possess significant supply constraints, high-end executive housing and key lifestyle amenities.
+fullTimeEmployees§750
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jordan L. Kaplan', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 815934, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter D. Seymour', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 563000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth M. Panzer', 'age': 63, 'title': 'COO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 812215, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Andrew Crummy', 'age': 57, 'title': 'Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 813000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mona M. Gisler', 'age': 49, 'title': 'Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 363500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  McElhinney', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michele L. Aronson', 'title': 'Executive VP, General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Means', 'age': 62, 'title': 'Senior Vice President of Commercial Leasing', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allan B. Golad', 'age': 68, 'title': 'Senior Vice President of Property Management', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore E. Guth', 'age': 68, 'title': 'Senior Advisor', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 893000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.76
+dividendYield§0.0531
+exDividendDate§1703721600
+payoutRatio§6.3333
+fiveYearAvgDividendYield§4.24
+beta§1.115
+priceToSalesTrailing12Months§2.8147128
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.41
+pegRatio§-24.05
+exchange§NYQ
+quoteType§EQUITY
+shortName§Douglas Emmett, Inc.
+longName§Douglas Emmett, Inc.
+firstTradeDateEpochUtc§1161783000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fb254b84-7e81-3875-8d54-08d031fbccbb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§9.0
+targetMeanPrice§13.88
+targetMedianPrice§14.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§4.214
+grossMargins§0.64774
+ebitdaMargins§0.53708
+trailingPegRatio§None

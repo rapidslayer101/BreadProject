@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 23:29:12.939476
+address1§639 Loyola Avenue
+city§New Orleans
+state§LA
+zip§70113
+country§United States
+phone§504 576 4000
+website§https://www.entergy.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Entergy Corporation, together with its subsidiaries, engages in the production and retail distribution of electricity in the United States. The company operates in two segments, Utility and Entergy Wholesale Commodities. The Utility segment generates, transmits, distributes, and sells electric power in portions of Arkansas, Louisiana, Mississippi, and Texas, including the City of New Orleans; and distributes natural gas. The Entergy Wholesale Commodities segment engages in the ownership, operation, and decommissioning of nuclear power plants; and ownership of interests in non-nuclear power plants that sell electric power to wholesale customers, as well as provides services to other nuclear power plant owners. It generates electricity through gas, nuclear, coal, hydro, and solar power sources. The company sells energy to retail power providers, utilities, electric power co-operatives, power trading organizations, and other power generation companies. The company's power plants have approximately 24,000 megawatts (MW) of electric generating capacity, which include 5,000 MW of nuclear power. It delivers electricity to 3 million utility customers in Arkansas, Louisiana, Mississippi, and Texas. Entergy Corporation was founded in 1913 and is headquartered in New Orleans, Louisiana.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew S. Marsh', 'age': 51, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1848820, 'exercisedValue': 3979106, 'unexercisedValue': 7177996}, {'maxAge': 1, 'name': 'Ms. Kimberly A. Fontan', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 814217, 'exercisedValue': 0, 'unexercisedValue': 256093}, {'maxAge': 1, 'name': 'Mr. Marcus V. Brown', 'age': 61, 'title': 'Executive VP & General Counsel', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1581458, 'exercisedValue': 0, 'unexercisedValue': 1141183}, {'maxAge': 1, 'name': 'Mr. Roderick K. West', 'age': 54, 'title': 'Group President of Utility Operations', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1647973, 'exercisedValue': 0, 'unexercisedValue': 1231815}, {'maxAge': 1, 'name': 'Mr. Peter S. Norgeot Jr.', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Reginald T. Jackson', 'age': 56, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jason  Chapman', 'age': 52, 'title': 'Senior VP and Chief Technology & Business Services Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Rhymes', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Abler', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Hatley', 'title': 'Group Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.52
+dividendYield§0.0435
+exDividendDate§1699833600
+payoutRatio§0.6167
+fiveYearAvgDividendYield§3.71
+beta§0.703
+priceToSalesTrailing12Months§1.7314155
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.2
+pegRatio§1.39
+exchange§NYQ
+quoteType§EQUITY
+shortName§Entergy Corporation
+longName§Entergy Corporation
+firstTradeDateEpochUtc§76253400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§34672e59-5464-3650-805b-0d4655e5b335
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§121.0
+targetLowPrice§90.0
+targetMeanPrice§107.75
+targetMedianPrice§108.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§0.553
+earningsGrowth§0.146
+grossMargins§0.42705002
+ebitdaMargins§0.38633
+trailingPegRatio§1.7037

@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 07:45:50.328756
+address1§3535 Harbor Boulevard
+address2§Suite 100
+city§Costa Mesa
+state§CA
+zip§92626
+country§United States
+phone§714 599 5000
+website§https://www.elpolloloco.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§El Pollo Loco Holdings, Inc., through its subsidiary, El Pollo Loco, Inc., develops, franchises, licenses, and operates quick-service restaurants under the El Pollo Loco name. It operates franchised restaurants located in California, Nevada, Arizona, Texas, Utah, and Louisiana. It also licenses its brand to restaurants in the Philippines. The company was formerly known as Chicken Acquisition Corp. and changed its name to El Pollo Loco Holdings, Inc. in April 2014. El Pollo Loco Holdings, Inc. was founded in 1975 and is headquartered in Costa Mesa, California.
+fullTimeEmployees§4931
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Maria  Hollandsworth', 'age': 58, 'title': 'Interim President & CEO and COO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 344110, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ira M. Fils', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 573868, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas  Soller', 'title': 'Vice President of Accounting & Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anne E. Jollay', 'title': 'Senior VP, Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Adams', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rosanne  Setoguchi', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Carmichall', 'age': 59, 'title': 'Chief Development Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1666310400
+payoutRatio§0.0
+beta§1.338
+priceToSalesTrailing12Months§0.58333296
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.71
+pegRatio§0.81
+exchange§NMS
+quoteType§EQUITY
+shortName§El Pollo Loco Holdings, Inc.
+longName§El Pollo Loco Holdings, Inc.
+firstTradeDateEpochUtc§1406295000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b2f2644-665a-390d-9c7b-79d9475c99fb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§10.0
+targetMeanPrice§10.5
+targetMedianPrice§10.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.337
+earningsGrowth§1.007
+grossMargins§0.19657
+ebitdaMargins§0.11099
+trailingPegRatio§None

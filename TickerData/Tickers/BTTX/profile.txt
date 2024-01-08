@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 06:43:50.577995
+address1§548 Market Street
+address2§Suite 49404
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§415 887 2311
+website§https://www.bettertx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Better Therapeutics, Inc., a prescription digital therapeutics company, develops a form of cognitive behavioral therapy to address the causes of cardiometabolic diseases. The company's lead product candidate is BT-001, an investigational PDT platform to treat type 2 diabetes. It also develops software-based prescription digital therapeutics platform candidates for treating diabetes, heart disease, and other cardiometabolic conditions. In addition, the company's clinical development candidates are intended to treat cardiometabolic diseases, including type 2 diabetes, hypertension, hyperlipidemia, non-alcoholic fatty liver disease, non-alcoholic steatohepatitis, and chronic kidney disease. Its product pipeline also includes BT-002, which intends glycemic control for hypertension; BT-003 to reduce LDL cholesterol in patients with hyperlipidemia; and BT-004, which intends to explore the impact of treatment on liver health in patients with non-alcoholic steatohepatitis/non-alcoholic fatty liver disease. The company was founded in 2015 and is headquartered in San Francisco, California.
+fullTimeEmployees§54
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David P. Perry M.B.A.', 'age': 55, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 260000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank L. Karbe', 'age': 55, 'title': 'CEO, Interim CFO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 533369, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark A. Berman M.D.', 'age': 48, 'title': 'Chief Medical Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 573750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin  Wynholds', 'age': 51, 'title': 'Chief Product Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 519067, 'exercisedValue': 0, 'unexercisedValue': 12785}, {'maxAge': 1, 'name': 'Mr. Andres  Camacho', 'title': 'Senior VP of Technology & Head of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diane  Gomez-Thinnes', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela  Willis', 'title': 'Senior Vice President of Market Access', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Leslie  Miller', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.454
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.0
+exchange§NCM
+quoteType§EQUITY
+shortName§Better Therapeutics, Inc.
+longName§Better Therapeutics, Inc.
+firstTradeDateEpochUtc§1615987800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§306708d6-63a5-3214-8ea5-a711d789e7e2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§1.5
+targetMeanPrice§5.25
+targetMedianPrice§5.25
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.516
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,58 @@
+# reload+after+2024-01-22 18:36:02.603109
+address1§500 Dashwood Lang Road
+address2§Bourne Business Park
+city§Addlestone
+zip§KT15 2HJ
+country§United Kingdom
+phone§44 19 3258 0555
+website§https://www.crestnicholson.com
+industry§Residential Construction
+industryKey§residential-construction
+industryDisp§Residential Construction
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Crest Nicholson Holdings plc builds residential homes in the United Kingdom. The company develops and sells apartments, houses, and commercial properties. The company was founded in 1963 and is headquartered in Addlestone, the United Kingdom.
+fullTimeEmployees§797
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter  Truscott', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1757000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Floydd', 'age': 54, 'title': 'Group Finance Director & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Marchant', 'age': 58, 'title': 'Group Operations Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eleni  Psarompa-Rothwell', 'title': 'Group Technical & Quality Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenny  Matthews', 'title': 'Head of Investor Relations:', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Cookson', 'age': 50, 'title': 'Group HR Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren  Dancey', 'age': 49, 'title': 'Managing Director of Crest Nicholson South West', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Miller', 'title': 'Managing Director of Crest Nicholson Midlands', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Trevor  Selwyn', 'title': 'Managing Director of London', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Black', 'title': 'Managing Director of Crest Nicholson Regeneration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.17
+dividendYield§0.0787
+exDividendDate§1695254400
+payoutRatio§0.4871
+fiveYearAvgDividendYield§6.64
+beta§1.967
+priceToSalesTrailing12Months§0.67071116
+currency§GBp
+forwardEps§11.77
+pegRatio§-0.44
+lastDividendValue§5.5
+lastDividendDate§1695254400
+exchange§LSE
+quoteType§EQUITY
+shortName§CREST NICHOLSON HOLDINGS PLC OR
+longName§Crest Nicholson Holdings plc
+firstTradeDateEpochUtc§1360828800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0c282b5c-e252-354b-8546-a732be6bd86d
+messageBoardId§finmb_98644498
+targetHighPrice§331.0
+targetLowPrice§175.0
+targetMeanPrice§227.6
+targetMedianPrice§215.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.739
+grossMargins§0.20120001
+ebitdaMargins§0.13352999
+trailingPegRatio§None

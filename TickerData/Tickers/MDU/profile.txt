@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 15:31:14.429687
+address1§1200 West Century Avenue
+address2§PO Box 5650
+city§Bismarck
+state§ND
+zip§58506-5650
+country§United States
+phone§701 530 1000
+website§https://www.mdu.com
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§MDU Resources Group, Inc. engages in the regulated energy delivery, and construction materials and services businesses in the United States. It operates through five segments: Electric, Natural Gas Distribution, Pipeline, Construction Materials and Contracting, and Construction Services. The Electric segment generates, transmits, and distributes electricity for residential, commercial, industrial, and municipal customers in Montana, North Dakota, South Dakota, and Wyoming; and operates 3,400 miles of transmission lines, 4,800 miles of distribution lines, and 84 transmission and 294 distribution substations. The Natural Gas Distribution segment distributes natural gas for residential, commercial, and industrial customers in Idaho, Minnesota, Montana, North Dakota, Oregon, South Dakota, Washington, and Wyoming; and offers related value-added services. The Pipeline segment provides natural gas transportation and underground storage services through a regulated pipeline system primarily in the Rocky Mountain and northern Great Plains regions; and cathodic protection and other energy-related services. The Construction Materials and Contracting segment mines, processes, and sells construction aggregates; produces and sells asphalt; supplies ready-mixed concrete; and sells cement, finished concrete products, merchandise and other building materials, and related contracting services. The Construction Services segment constructs and maintains electrical and communication wiring and infrastructure, fire suppression systems, mechanical piping, and services; overhead and underground electrical, gas, and communication infrastructure construction and maintenance services; and manufactures and distributes transmission lines construction equipment and tools. It serves manufacturing, commercial, industrial, transportation, institutional, and renewable and government customers, as well as utilities. The company was founded in 1924 and is headquartered in Bismarck, North Dakota.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason L. Vollmer', 'age': 46, 'title': 'VP, CFO & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 906340, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole A. Kivisto', 'age': 50, 'title': 'CEO & President of Cascade Natural Gas Corp, Intermountain Gas Co & Montana-Dakota Utilities Co.', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 875518, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey S. Thiede', 'age': 61, 'title': 'President & CEO of MDU Construction Services Group, Inc', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1309813, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie A. Barth', 'age': 51, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret A Link', 'age': 56, 'title': 'VP & Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul R. Sanderson', 'title': 'VP, Chief Legal Officer & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Laura  Lueder', 'title': 'Manager of Communications & Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne M. Jones', 'age': 59, 'title': 'VP & Chief Human Resources Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob L. Johnson', 'title': 'President of WBI Energy, Inc.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0256
+exDividendDate§1702425600
+payoutRatio§0.3036
+fiveYearAvgDividendYield§3.18
+beta§0.669
+priceToSalesTrailing12Months§0.5388729
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.54
+pegRatio§-11.6
+exchange§NYQ
+quoteType§EQUITY
+shortName§MDU Resources Group, Inc.
+longName§MDU Resources Group, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ad036a4-6347-38aa-a7f6-863df1e714b1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.5
+targetLowPrice§21.0
+targetMeanPrice§23.88
+targetMedianPrice§24.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.003
+earningsGrowth§-0.5
+grossMargins§0.16496
+ebitdaMargins§0.1303
+trailingPegRatio§2.5667

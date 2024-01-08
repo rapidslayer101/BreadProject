@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 19:31:11.755633
+address1§444 West Lake Street
+address2§Suite 1700
+city§Chicago
+state§IL
+zip§60606
+country§United States
+phone§312 416 8592
+website§https://www.MAIABiotech.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§MAIA Biotechnology, Inc., a clinical stage biotechnology company, engages in the discovery, development, and commercialization of therapies targeting cancer. The company's lead product candidate is THIO, a telomere-targeting agent that is in Phase II clinical study to evaluate its activity in patients with non-small cell lung cancer. It is also developing second generation telomere targeting agents. MAIA Biotechnology, Inc. was incorporated in 2018 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§18
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Vlad  Vitoc M.B.A., M.D.', 'age': 52, 'title': 'Co-Founder, President, CEO & Chairman of the Board of Directors', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 715550, 'exercisedValue': 0, 'unexercisedValue': 3248211}, {'maxAge': 1, 'name': 'Dr. Sergei M. Gryaznov Ph.D.', 'age': 63, 'title': 'Chief Scientific Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 524769, 'exercisedValue': 0, 'unexercisedValue': 1457995}, {'maxAge': 1, 'name': 'Mr. Jeffrey C. Himmelreich', 'title': 'Head of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Linda  Moreira', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.58
+exchange§ASE
+quoteType§EQUITY
+shortName§MAIA Biotechnology, Inc.
+longName§MAIA Biotechnology, Inc.
+firstTradeDateEpochUtc§1659015000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0f42043f-a188-3808-9a57-e38f76c4260b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§14.0
+targetMeanPrice§14.0
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.499
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

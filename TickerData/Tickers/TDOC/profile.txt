@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 05:33:37.042546
+address1§2 Manhattanville Road
+address2§Suite 203
+city§Purchase
+state§NY
+zip§10577
+country§United States
+phone§203 635 2002
+website§https://www.teladochealth.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§Teladoc Health, Inc. provides virtual healthcare services in the United States and internationally. The company operates through two segments, Integrated Care and BetterHelp segments. The Integrated Care segment offers virtual medical services, including general medical, expert medical, specialty medical, chronic condition management, and mental health, as well as enabling technologies and enterprise telehealth solutions for hospitals and health systems. The BetterHelp segment operates a mental health platform that provides online counseling and therapy services through website, mobile applications, phones, and text-based interactions by its that licensed clinicians. The company offers its products and services under the Teladoc, Livongo, and BetterHelp brands. It serves employers, health plans, hospitals and health systems, and insurance and financial services companies, as well as individual members. The company was formerly known as Teladoc, Inc. and changed its name to Teladoc Health, Inc. in August 2018. Teladoc Health, Inc. was incorporated in 2002 and is headquartered in Purchase, New York.
+fullTimeEmployees§4816
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason Nathanial Gorevic', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 876033, 'exercisedValue': 0, 'unexercisedValue': 4929101}, {'maxAge': 1, 'name': 'Ms. Mala  Murthy', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 749333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Waters', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1333125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laizer D. Kornwasser', 'age': 52, 'title': 'President of Enterprise Growth & Global Markets', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1144697, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. George Byron Brooks', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Napolitano', 'age': 56, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nikolaos  Nanis', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick Thomas Feeley C.F.A., CPA', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam Christian Vandervoort', 'age': 48, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 650767, 'exercisedValue': 1541940, 'unexercisedValue': 562744}, {'maxAge': 1, 'name': 'Mr. Andrew  Turitz', 'age': 50, 'title': 'Executive Vice President of Corporate Development', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 573600, 'exercisedValue': 0, 'unexercisedValue': 824148}]
+auditRisk§5
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.095
+priceToSalesTrailing12Months§1.3734392
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.22
+pegRatio§0.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Teladoc Health, Inc.
+longName§Teladoc Health, Inc.
+firstTradeDateEpochUtc§1435671000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4c5d843f-0a8e-3507-96e8-80fcde9d9fd0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.0
+targetLowPrice§16.0
+targetMeanPrice§22.8
+targetMedianPrice§22.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§20
+quickRatio§3.103
+grossMargins§0.70712996
+ebitdaMargins§0.0089300005
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 10:43:40.684828
+address1§4330 La Jolla Village Drive
+address2§Suite 300
+city§San Diego
+state§CA
+zip§92122
+country§United States
+phone§833 727 2841
+website§https://www.bioratherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Biora Therapeutics, Inc., a biotechnology company, engages in developing oral biotherapeutics. The company's targeted therapeutics program uses an ingestible smart capsule for targeted delivery of therapeutics in the gastrointestinal (GI) tract to enhance the treatment of inflammatory bowel diseases; and Systemic oral delivery platform for oral delivery of large molecules for management of chronic diseases. The company was formerly known as Progenity, Inc. and changed its name to Biora Therapeutics, Inc. in April 2022 to reflect its focus on its therapeutics pipeline. Biora Therapeutics, Inc. was founded in 2010 and is headquartered in San Diego, California.
+fullTimeEmployees§54
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Aditya P. Mohanty M.B.A.', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 858820, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Eric  d'Esparbes", 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 651906, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clarke  Neumann J.D.', 'age': 59, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 624134, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eric  Fox', 'title': 'VP of Finance & Accounting & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Troy  Seelye', 'age': 59, 'title': 'Chief Information Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George  Gianakopoulos', 'age': 62, 'title': 'Senior Vice President of Sales', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robyn  Hatton', 'title': 'Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Howe Ph.D.', 'title': 'Senior VP of Strategic Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sharat  Singh Ph.D.', 'age': 64, 'title': 'Head of Research', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul  Shabram M.B.A.', 'title': 'Head of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.975
+priceToSalesTrailing12Months§2040.6975
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.05
+exchange§NGM
+quoteType§EQUITY
+shortName§Biora Therapeutics, Inc.
+longName§Biora Therapeutics, Inc.
+firstTradeDateEpochUtc§1592573400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c76a9347-144a-3b6a-82b2-fd6494eb6e41
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§5.6
+targetMeanPrice§27.8
+targetMedianPrice§27.8
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.192
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

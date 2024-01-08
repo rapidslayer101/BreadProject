@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 23:47:44.485038
+address1§64 Old Highway 22
+city§Clinton
+state§NJ
+zip§08809
+country§United States
+phone§908 730 7630
+fax§908 713 4388
+website§https://www.unitybank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Unity Bancorp, Inc. operates as a bank holding company for Unity Bank that provides commercial and retail banking services to individuals, small and medium sized businesses, and professional communities. The company offers personal and business checking accounts, time deposits, money market accounts, and savings accounts, as well as noninterest and interest-bearing demand deposits. It also provides small business administration loans; commercial loans; and residential mortgage and consumer loans, including residential real estate, home equity lines and loans, and residential construction lines, as well as personal loans. The company was incorporated in 1991 and is based in Clinton, New Jersey.
+fullTimeEmployees§232
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David D. Dallas', 'age': 68, 'title': 'Founder & Chairman of the Board', 'yearBorn': 1955, 'fiscalYear': 2003, 'totalPay': 61100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Hughes', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2003, 'totalPay': 1700017, 'exercisedValue': 10625, 'unexercisedValue': 1138901}, {'maxAge': 1, 'name': 'Mr. Robert H. Dallas II', 'age': 76, 'title': 'Founder & Director', 'yearBorn': 1947, 'fiscalYear': 2003, 'totalPay': 42000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Allen Boyan III, J.D.', 'age': 41, 'title': 'Executive VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2003, 'totalPay': 634120, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent  Geraci', 'title': 'First Senior VP & Director of Mortgage Lending', 'fiscalYear': 2003, 'totalPay': 772951, 'exercisedValue': 51221, 'unexercisedValue': 170940}, {'maxAge': 1, 'name': 'David  Bove', 'title': 'Senior VP & CTO', 'fiscalYear': 2003, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher  Fenimore', 'title': 'First VP & Chief Compliance Officer', 'fiscalYear': 2003, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michelle  Kirmser', 'title': 'First VP & General Counsel', 'fiscalYear': 2003, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Crystal  Rose', 'title': 'First VP & Marketing Director', 'fiscalYear': 2003, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bridget  Walsh', 'title': 'First VP & Human Resources Director', 'fiscalYear': 2003, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1072828800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0168
+exDividendDate§1702512000
+payoutRatio§0.1237
+fiveYearAvgDividendYield§1.65
+beta§1.045
+priceToSalesTrailing12Months§2.8693817
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.58
+exchange§NGM
+quoteType§EQUITY
+shortName§Unity Bancorp, Inc.
+longName§Unity Bancorp, Inc.
+firstTradeDateEpochUtc§853252200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3acf5352-363e-3aec-b2a3-685d2a86b850
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.0
+targetLowPrice§29.0
+targetMeanPrice§30.67
+targetMedianPrice§29.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+earningsGrowth§0.043
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

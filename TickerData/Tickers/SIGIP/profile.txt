@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 20:47:12.882956
+address1§40 Wantage Avenue
+city§Branchville
+state§NJ
+zip§07890
+country§United States
+phone§973 948 3000
+website§https://www.selective.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Selective Insurance Group, Inc., together with its subsidiaries, provides insurance products and services in the United States. The company operates through four segments: Standard Commercial Lines, Standard Personal Lines, E&S Lines, and Investments. It offers property insurance products, which covers the accidental loss of an insured's real property, personal property, and/or earnings due to the property's loss; casualty insurance products that covers the financial consequences of employee injuries in the course of employment, and bodily injury and/or property damage to a third party; and flood insurance products. The company also invests in fixed income investments and commercial mortgage loans, as well as equity securities, short-term investments, and alternative investments, and other investments. It offers its insurance products and services to businesses, non-profit organizations, local government agencies, and individuals through independent retail agents and wholesale general agents. The company was founded in 1926 and is headquartered in Branchville, New Jersey.
+fullTimeEmployees§2520
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Joseph Marchioni CPCU', 'age': 53, 'title': 'CEO, President & Chairman', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3182027, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Haran Lanza', 'age': 61, 'title': 'Executive VP, General Counsel & Chief Compliance Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1165631, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brenda Marie Hall', 'age': 52, 'title': 'Executive VP & COO of Standard Lines', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1147684, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent Matthew Senia', 'age': 59, 'title': 'Executive VP & Chief Actuary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 999136, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony David Harnett', 'age': 50, 'title': 'Senior VP & Chief Accounting Officer and Interim CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph Owen Eppers CFA', 'title': 'Executive VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Patrick Bresney', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad Bryant Wilson', 'title': 'Senior VP of Investor Relations & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rohit  Mull', 'title': 'Executive VP, Chief Marketing & Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucinda  Bennett', 'title': 'Executive VP & Chief HR Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.15
+dividendYield§0.0659
+exDividendDate§1701216000
+beta§0.541
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Selective Insurance Group, Inc.
+longName§Selective Insurance Group, Inc.
+firstTradeDateEpochUtc§1607005800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§147ca8cf-6c85-30d4-9c90-7b672f342ac9
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.212
+earningsGrowth§1.152
+grossMargins§0.22093001
+ebitdaMargins§0.11525
+trailingPegRatio§None

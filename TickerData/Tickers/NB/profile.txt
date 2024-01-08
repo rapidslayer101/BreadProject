@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 12:46:10.434007
+address1§7000 South Yosemite Street
+address2§Suite 115
+city§Centennial
+state§CO
+zip§80112
+country§United States
+phone§720 334 7066
+website§https://www.niocorp.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§NioCorp Developments Ltd. engages in the exploration and development of mineral deposits in North America. It owns and develops the Elk Creek niobium/scandium/titanium project that owns one 226.43-acre parcel of land and associated mineral rights, and an additional 40 acres of mineral rights, as well as an optioned land package that covers an area of 1,396 acres located in Johnson County, southeast Nebraska. The company was formerly known as Quantum Rare Earth Developments Corp. and changed its name to NioCorp Developments Ltd. in March 2013. NioCorp Developments Ltd. was incorporated in 1987 and is headquartered in Centennial, Colorado.
+fullTimeEmployees§7
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Allan Smith Esq., P.E.', 'age': 64, 'title': 'Executive Chairman, President & CEO', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 404000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neal S. Shah MBA', 'age': 49, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 277500, 'exercisedValue': 0, 'unexercisedValue': 33759}, {'maxAge': 1, 'name': 'Mr. Scott  Honan M.Sc.', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 315000, 'exercisedValue': 0, 'unexercisedValue': 33759}, {'maxAge': 1, 'name': 'Mr. Jim T. Sims', 'age': 62, 'title': 'Chief Communications Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 220000, 'exercisedValue': 0, 'unexercisedValue': 127059}, {'maxAge': 1, 'name': 'Mr. Jeff  Mason', 'title': 'Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.121
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§NioCorp Developments Ltd.
+longName§NioCorp Developments Ltd.
+firstTradeDateEpochUtc§1679405400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f0e83042-4544-3783-8107-3a09bf236472
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.087
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 12:34:27.286004
+address1§1000 Abernathy Road NE
+city§Atlanta
+state§GA
+zip§30328
+country§United States
+phone§770 448 2193
+website§https://www.westrock.com
+industry§Packaging & Containers
+sector§Consumer Cyclical
+longBusinessSummary§WestRock Company, together with its subsidiaries, provides fiber-based paper and packaging solutions in North America, South America, Europe, Asia, and Australia. It operates through four segments: Corrugated Packaging, Consumer Packaging, Global Paper, and Distribution. The Corrugated Packaging segment produces containerboards, corrugated sheets, corrugated packaging, and preprinted linerboards to consumer and industrial products manufacturers, and corrugated box manufacturers. It also provides structural and graphic design, engineering services and custom, and proprietary and standard automated packaging machines; turn-key installation, automation, line integration, and packaging solutions; machinery solution that creates pouches; and pack temporary displays, as well as lithographic laminated packaging products. The Consumer Packaging segment manufactures and sells folding cartons that are used to package food, paper, beverages, dairy products, confectionery, health and beauty, and other household consumer products, as well as express mail packages for the overnight courier industry. It also offers inserts and labels, as well as rigid packaging and other printed packaging products, such as transaction cards, brochures, product literature, marketing materials, and grower tags, and plant stakes; and paperboard packaging for over-the-counter and prescription drugs. In addition, this segment manufactures and sells solid fiber and corrugated partitions, and die-cut paperboard components. The Global Paper segment manufactures containerboard, paperboard, and specialty grades primarily to corrugated packaging, folding carton, food service, liquid packaging, tobacco, and commercial print markets. The Distribution segment distributes corrugated packaging materials and other specialty packaging products, including stretch films, void fills, carton sealing tapes, and other specialty tapes; and provides contract packing services. The company is based in Atlanta, Georgia.
+fullTimeEmployees§56100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David B. Sewell', 'age': 54, 'title': 'CEO, President & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 3071279, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander W. Pease', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1588528, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise Rene Perry Singleton', 'age': 61, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1611069, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas M. Stigers', 'age': 60, 'title': 'President of Mill Operations', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1311400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick M. Kivits', 'age': 55, 'title': 'President of Corrugated Packaging', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1324616, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julia Ann McConnell', 'age': 54, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Benny Purushota Patel', 'age': 55, 'title': 'Chief Innovation and Science Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Quartaro', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vicki L. Lostetter', 'age': 63, 'title': 'Chief Human Resources Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nina E. Butler', 'title': 'Chief Environmental Officer & Deputy General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.21
+dividendYield§0.028900001
+exDividendDate§1699574400
+payoutRatio§0.32959998
+fiveYearAvgDividendYield§3.39
+beta§1.068
+priceToSalesTrailing12Months§0.52930826
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.37
+pegRatio§-0.91
+exchange§NYQ
+quoteType§EQUITY
+shortName§Westrock Company
+longName§WestRock Company
+firstTradeDateEpochUtc§1435152600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bee2eb22-856c-345d-8380-3e0784b8b003
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§39.0
+targetMeanPrice§43.67
+targetMedianPrice§43.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.656
+earningsGrowth§-0.683
+grossMargins§0.17627001
+ebitdaMargins§0.13331
+trailingPegRatio§1.5679

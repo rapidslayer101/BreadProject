@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 00:45:18.914788
+address1§132 East High Street
+address2§Box 688
+city§Jefferson City
+state§MO
+zip§65102
+country§United States
+phone§573 761 6100
+website§https://www.hawthornbancshares.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Hawthorn Bancshares, Inc. operates as the bank holding company for Hawthorn Bank that provides commercial and personal banking services. It accepts checking, savings, money market, individual retirement, and other time deposit accounts; and certificates of deposit. The company also offers commercial and industrial, single payment personal, installment, commercial and residential real estate, and consumer loans, as well as equipment, operating, and small business administration loans; and debit and credit cards. In addition, it provides trust services that include estate planning, investment, and asset management services; and cash management, safety deposit box, brokerage, and Internet banking services. Hawthorn Bancshares, Inc. was founded in 1865 and is headquartered in Jefferson City, Missouri.
+fullTimeEmployees§312
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David T. Turner', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 847364, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen L. Bruegenhemke CPA', 'age': 57, 'title': 'Chief Risk Officer, Corporate Secretary & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 323220, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent M. Giles', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregg A. Bexten', 'title': 'President & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher E. Hafner', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason E. Schwartz', 'age': 54, 'title': 'Chief Credit Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cynthia  Glasscock', 'title': 'Assistant Secretary & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.68
+dividendYield§0.0273
+exDividendDate§1702512000
+payoutRatio§0.35810003
+fiveYearAvgDividendYield§2.45
+beta§0.539
+priceToSalesTrailing12Months§2.655924
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Hawthorn Bancshares, Inc.
+longName§Hawthorn Bancshares, Inc.
+firstTradeDateEpochUtc§932477400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5352ff37-8679-396c-990b-b941feb60df6
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.486
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

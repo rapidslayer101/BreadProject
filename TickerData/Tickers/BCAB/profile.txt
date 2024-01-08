@@ -1,0 +1,48 @@
+# reload+after+2024-01-19 21:43:36.306717
+address1§11085 Torreyana Road
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 558 0708
+fax§858 558 0701
+website§https://www.bioatla.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§BioAtla, Inc., a clinical stage biopharmaceutical company, develops specific and selective antibody-based therapeutics for the treatment of solid tumor cancer. Its lead product candidate is BA3011, a conditionally active biologic (CAB) antibody-drug conjugate (ADC) for soft tissue and bone sarcoma tumors, non-small cell lung cancer (NSCLC), and ovarian cancer. It also develops BA3021, a CAB ADC for multiple solid tumor types, including NSCLC, melanoma, and head and neck cancer; and BA3071, which is a CAB anti-cytotoxic T-lymphocyte-associated antigen 4 antibody for renal cell carcinoma, NSCLC, small cell lung cancer, hepatocellular carcinoma, melanoma, bladder cancer, gastric cancer, and cervical cancer. BioAtla, Inc. was founded in 2007 and is based in San Diego, California.
+fullTimeEmployees§66
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jay M. Short Ph.D.', 'age': 65, 'title': 'Co-Founder, CEO & Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1057809, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard A. Waldron', 'age': 69, 'title': 'Senior VP & CFO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 617616, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Eric L. Sievers M.D.', 'age': 59, 'title': 'Chief Medical Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 608178, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian J. Vasquez', 'age': 47, 'title': 'Senior VP of Finance, Corporate Controller & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 408745, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lisa M. Pelton', 'title': 'Accounting Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susie  Melody', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Cathy  Chang Ph.D.', 'title': 'Senior Vice President of Research & Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Gerhard  Frey Ph.D.', 'title': 'Senior Vice President of Technology Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monica  Sullivan', 'title': 'Senior Vice President of Intellectual Property & Contracts', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheri  Lydick', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.834
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.55
+exchange§NGM
+quoteType§EQUITY
+shortName§BioAtla, Inc.
+longName§BioAtla, Inc.
+firstTradeDateEpochUtc§1608129000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§35fd9bcd-d23c-3ada-beff-01d8b746a34b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§10.0
+targetMeanPrice§12.25
+targetMedianPrice§12.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§3.968
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

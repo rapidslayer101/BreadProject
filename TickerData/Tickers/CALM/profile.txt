@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 07:43:53.460110
+address1§1052 Highland Colony Parkway
+address2§Suite 200
+city§Ridgeland
+state§MS
+zip§39157
+country§United States
+phone§601 948 6813
+fax§601 969 0905
+website§https://www.calmainefoods.com
+industry§Farm Products
+sector§Consumer Defensive
+longBusinessSummary§Cal-Maine Foods, Inc., together with its subsidiaries, produces, grades, packages, markets, and distributes shell eggs. The company offers specialty shell eggs, such as nutritionally enhanced, cage free, organic, free-range, pasture-raised, and brown eggs under the Egg-Land's Best, Land O' Lakes, Farmhouse Eggs, Sunups, Sunny Meadow, and 4Grain brand names. It sells its products to various customers, including national and regional grocery store chains, club stores, independent supermarkets, foodservice distributors, and egg product consumers primarily in the southwestern, southeastern, mid-western, and mid-Atlantic regions of the United States. Cal-Maine Foods, Inc. was founded in 1957 and is headquartered in Ridgeland, Mississippi.
+fullTimeEmployees§2815
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adolphus B. Baker', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 882546, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sherman L. Miller', 'age': 48, 'title': 'CEO, President & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 984137, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max P. Bowman', 'age': 62, 'title': 'VP, CFO, Treasurer, Secretary & Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 812646, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael T. Walters', 'age': 52, 'title': 'VP & COO', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 534614, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Holladay Jr.', 'age': 47, 'title': 'VP & General Counsel', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 710063, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Jeff Hardin', 'age': 64, 'title': 'Senior Vice President of Sales', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 666892, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew S. Glover', 'title': 'Vice President of Accounting', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§3.08
+dividendYield§0.0557
+exDividendDate§1706572800
+payoutRatio§0.4661
+fiveYearAvgDividendYield§2.87
+beta§-0.082
+priceToSalesTrailing12Months§1.0151669
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.74
+pegRatio§0.07
+exchange§NMS
+quoteType§EQUITY
+shortName§Cal-Maine Foods, Inc.
+longName§Cal-Maine Foods, Inc.
+firstTradeDateEpochUtc§850401000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f0b8338e-91f9-3e1b-95ef-cbf33d0caa10
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§55.0
+targetMeanPrice§57.5
+targetMedianPrice§57.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§4.987
+earningsGrowth§-0.914
+grossMargins§0.2989
+ebitdaMargins§0.24159001
+trailingPegRatio§None

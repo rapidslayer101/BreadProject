@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 12:31:44.204183
+address1§7 Avenue de Grande Bretagne
+address2§Office 11B2 Monte Carlo
+city§Monaco
+zip§98000
+country§Monaco
+phone§377 9798 2140
+fax§377 9798 2141
+website§https://www.navios-mlp.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§Navios Maritime Partners L.P. owns and operates dry cargo vessels in Asia, Europe, North America, and Australia. The company offers seaborne transportation services for a range of liquid and dry cargo commodities, including crude oil, refined petroleum, chemicals, iron ore, coal, grain, fertilizer, and containers, as well as charters its vessels under short, medium, and longer-term charters. Olympos Maritime Ltd. serves as the general partner of Navios Maritime Partners L.P. The company was founded in 2007 and is based in Monaco.
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Angeliki  N. Frangou', 'age': 58, 'title': 'Chairwoman & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 150000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shunji  Sasada', 'age': 65, 'title': 'President & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erifili  Tsironi', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Efstratios  Desypris', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Georgios  Akhniotis', 'age': 58, 'title': 'Executive VP of Business Development & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vincent  Vandewalle', 'title': 'Chief Trading Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Kalathakis', 'age': 53, 'title': 'Executive Vice President of Risk Management', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joergen  Rosleff', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vasiliki  Papaefthymiou', 'age': 54, 'title': 'Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.0068
+exDividendDate§1699228800
+payoutRatio§0.0147
+fiveYearAvgDividendYield§4.96
+beta§1.936
+priceToSalesTrailing12Months§0.6609059
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.0
+pegRatio§0.08
+exchange§NYQ
+quoteType§EQUITY
+shortName§Navios Maritime Partners LP
+longName§Navios Maritime Partners L.P.
+firstTradeDateEpochUtc§1194964200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1a7603e9-8463-36d3-ad19-d1e76e9aaf18
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§25.0
+targetMeanPrice§36.67
+targetMedianPrice§40.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.65
+earningsGrowth§-0.651
+grossMargins§0.82141
+ebitdaMargins§0.47998002
+trailingPegRatio§None

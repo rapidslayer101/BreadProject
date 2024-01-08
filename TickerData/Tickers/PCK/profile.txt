@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 19:32:10.554451
+address1§650 Newport Center Drive
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 720 6000
+fax§949 720 6361
+website§https://investments.pimco.com/Products/pages/670.aspx
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§PIMCO California Municipal Income Fund II is a closed ended fixed income mutual fund launched and managed by Allianz Global Investors Fund Management LLC. It is co-managed by Pacific Investment Management Company LLC.  The fund invests in fixed income markets of United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in municipal fixed-income securities. Its portfolio of investments include investments in California municipal bonds and notes, other municipal bonds and notes, call and put options written, California variable rate notes, other variable rate notes, corporate notes, California variable rate demand note, and U.S. treasury bills. PIMCO California Municipal Income Fund II was formed in June 28, 2002 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Hammer', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.26
+dividendYield§0.0446
+exDividendDate§1704931200
+payoutRatio§3.45
+fiveYearAvgDividendYield§4.76
+beta§0.541
+priceToSalesTrailing12Months§11.107809
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Pimco California Municipal Inco
+longName§PIMCO California Municipal Income Fund II
+firstTradeDateEpochUtc§1025098200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bed028f1-9aa9-3adb-bf45-e064155e5278
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.357
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

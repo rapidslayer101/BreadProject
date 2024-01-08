@@ -1,0 +1,37 @@
+# reload+after+2024-01-23 16:28:34.873400
+address1§333 West Wacker Drive
+city§Chicago
+state§IL
+zip§60606-1220
+country§United States
+phone§312 917 7700
+website§https://www.nuveen.com/CEF/Product/Overview.aspx?FundCode=DIAX
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Nuveen Dow 30 Dynamic Overwrite Fund is a closed-ended equity mutual fund launched by Nuveen Investments, Inc. The fund is co-managed by Nuveen Fund Advisors LLC and Nuveen Asset Management, LLC. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in stocks of large cap companies. The fund also invests through call options. It seeks to replicate the performance of Dow Jones Industrial Average. The fund was formerly known as Dow 30 Premium & Dividend Income Fund Inc. Nuveen Dow 30 Dynamic Overwrite Fund was formed on April 29, 2005 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Friar', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith B. Hembre', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.15
+dividendYield§0.0809
+exDividendDate§1702512000
+payoutRatio§1.0239
+fiveYearAvgDividendYield§7.36
+beta§0.896
+priceToSalesTrailing12Months§40.04945
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nuveen Dow 30SM Dynamic Overwri
+longName§Nuveen Dow 30 Dynamic Overwrite Fund
+firstTradeDateEpochUtc§1417617000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4e546454-62a2-348e-80e7-ef1d54589583
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.011
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

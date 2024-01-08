@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 22:29:31.389303
+address1§1919 Flowers Circle
+city§Thomasville
+state§GA
+zip§31757
+country§United States
+phone§229 226 9110
+website§https://www.flowersfoods.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Flowers Foods, Inc. produces and markets packaged bakery food products in the United States. Its principal products include fresh breads, buns, rolls, snack cakes, and tortillas, as well as frozen breads and rolls under the Nature's Own, Dave's Killer Bread, Wonder, Canyon Bakehouse, Mrs. Freshley's, and Tastykake brand names. The company distributes its products through a direct-store-delivery distribution and a warehouse delivery system, as well as operates bakeries. Its customers include national and regional restaurants, institutions and foodservice distributors, and retail in-store bakeries; wholesale distributors; mass merchandisers, supermarkets and other retailers, vending outlets, and convenience stores; quick-serve chains, food wholesalers, dollar stores, and vending companies; and public health care, military commissaries, and prisons, and other governmental institutions. The company was formerly known as Flowers Industries and changed its name to Flowers Foods, Inc. in 2001. Flowers Foods, Inc. was founded in 1919 and is headquartered in Thomasville, Georgia.
+fullTimeEmployees§9200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. A. Ryals McMullian Jr.', 'age': 53, 'title': 'CEO & Chairman of Board', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1840990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Steve Kinsey', 'age': 62, 'title': 'CFO & Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1079384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie B. Tillman', 'age': 52, 'title': 'Chief Legal Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 658766, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terry S. Thomas', 'age': 54, 'title': 'Chief Growth Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 107500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Heeth  Varnedoe IV', 'age': 56, 'title': 'President & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Chaffin', 'age': 52, 'title': 'Chief Information Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. T. Rieck', 'title': 'Executive VP of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brenda  Smith', 'title': 'Compliance Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary A. Krier', 'title': 'Senior Vice President of Communications & Corporate Responsibility', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Gerrish', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.92
+dividendYield§0.0404
+exDividendDate§1701302400
+payoutRatio§1.4063001
+fiveYearAvgDividendYield§3.37
+beta§0.408
+priceToSalesTrailing12Months§0.95421976
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.29
+pegRatio§13.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§Flowers Foods, Inc.
+longName§Flowers Foods, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§82620caf-c044-31ad-ac35-02fd33aff6de
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§22.0
+targetMeanPrice§23.83
+targetMedianPrice§22.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.578
+grossMargins§0.4806
+ebitdaMargins§0.09836
+trailingPegRatio§None

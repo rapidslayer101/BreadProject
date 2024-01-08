@@ -1,0 +1,61 @@
+# reload+after+2024-01-23 14:26:16.398411
+address1§77 Hot Metal Street
+city§Pittsburgh
+state§PA
+zip§15203-2329
+country§United States
+phone§412 432 3300
+website§https://www.aeo-inc.com
+industry§Apparel Retail
+industryKey§apparel-retail
+industryDisp§Apparel Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§American Eagle Outfitters, Inc. operates as a specialty retailer that provides clothing, accessories, and personal care products under the American Eagle and Aerie brands in the United States and internationally. The company provides jeans, apparel and accessories, and personal care products for women and men; and intimates, apparel, activewear, and swim collections. It also offers menswear products under the Todd Snyder New York brand; and fashion clothing and accessories under the Unsubscribed brand. The company sells its products through retail stores; digital channels, such as www.ae.com, www.aerie.com, www.toddsnyder.com, and www.unsubscribed.com; and applications. American Eagle Outfitters, Inc. was founded in 1977 and is headquartered in Pittsburgh, Pennsylvania.
+fullTimeEmployees§8000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jay L. Schottenstein', 'age': 69, 'title': 'Executive Chairman of the Board & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1976544, 'exercisedValue': 0, 'unexercisedValue': 2445906}, {'maxAge': 1, 'name': 'Mr. Michael A. Mathias', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 789962, 'exercisedValue': 0, 'unexercisedValue': 89843}, {'maxAge': 1, 'name': 'Ms. Marisa A. Baldwin', 'age': 52, 'title': 'Executive VP & Chief HR Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 559840, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer M. Foyle', 'age': 56, 'title': 'President and Executive Creative Director of AE & Aerie', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1383522, 'exercisedValue': 0, 'unexercisedValue': 1111579}, {'maxAge': 1, 'name': 'Mr. James H. Keefer Jr.', 'age': 44, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judy  Meehan', 'title': 'Vice President of Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer B. Stoecklein', 'title': 'Senior Director of Governance & Compliance and Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis R. Parodi', 'age': 71, 'title': 'Head of Stores-US and Executive Vice President', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 626220, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sherry  Harris', 'title': 'Executive Vice President - Chief Talent and Culture Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kitty  Yung', 'age': 60, 'title': 'Executive Vice President and President of Asia Pacific', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 905727, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0252
+exDividendDate§1704326400
+payoutRatio§0.2703
+fiveYearAvgDividendYield§3.04
+beta§1.532
+priceToSalesTrailing12Months§0.771647
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.49
+pegRatio§0.79
+lastDividendValue§0.125
+lastDividendDate§1704326400
+exchange§NYQ
+quoteType§EQUITY
+shortName§American Eagle Outfitters, Inc.
+longName§American Eagle Outfitters, Inc.
+firstTradeDateEpochUtc§766330200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7bfb983b-75bb-35b8-8db4-cc3d614fb892
+messageBoardId§finmb_332273
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§13.0
+targetMeanPrice§18.64
+targetMedianPrice§19.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§0.578
+earningsGrowth§0.173
+grossMargins§0.37752
+ebitdaMargins§0.111669995
+trailingPegRatio§None

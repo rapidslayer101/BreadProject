@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 04:47:53.845544
+address1§1055 Westlakes Drive
+address2§Suite 300
+city§Berwyn
+state§PA
+zip§19312
+country§United States
+phone§610 727 4597
+website§https://www.virpaxpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Virpax Pharmaceuticals, Inc., a preclinical-stage pharmaceutical company, develops various drug-delivery systems and drug-releasing technologies focused on advancing non-opioid and non-addictive pain management treatments and treatments for central nervous system disorders. Its preclinical stage product candidates include Epoladerm, a topical spray film delivery technology for osteoarthritis pain; Probudur, an injectable local anesthetic liposomal gel technology for postoperative pain management; and Envelta, a nanotechnology-based intranasal spray drug product candidate that enables the delivery of a metabolically labile peptide drug into the brain. The company's preclinical stage product candidates also comprise PES200, which enables the delivery of a metabolically labile peptide drug into the brain; AnQlar, an anti-viral barrier to prevent or reduce the risk or the intensity of viral infections in humans, including influenza and SARS-CoV-2; and NobrXiol, an investigational formulation to be delivered via the nasal route to enhance cannabidiol transport to the brain. Virpax Pharmaceuticals, Inc. was founded in 2016 and is headquartered in Berwyn, Pennsylvania.
+fullTimeEmployees§7
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gerald W. Bruce', 'age': 66, 'title': 'CEO & Director', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeffrey A. Gudin M.D.', 'age': 57, 'title': 'Executive VP, Chief Medical Officer & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 204000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vinay  Shah A.C.A., M.B.A.', 'age': 61, 'title': 'CFO, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sheila A. Mathias J.D., M.B.A., Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shana  Panzarella', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.365
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.73
+exchange§NCM
+quoteType§EQUITY
+shortName§Virpax Pharmaceuticals, Inc.
+longName§Virpax Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1613572200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7fe20d3b-7166-3183-8377-b1f82b58285d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§2.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.86
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

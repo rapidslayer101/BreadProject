@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 00:29:39.387636
+address1§Hadrian House
+address2§Wincomblee Road
+city§Newcastle upon Tyne
+zip§NE6 3PL
+country§United Kingdom
+phone§44 191 295 0303
+website§https://www.technipfmc.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§TechnipFMC plc engages in the oil and gas projects, technologies, and systems and services businesses in Europe, Central Asia, North and Latin America, the Asia Pacific, Africa, and the Middle East. The Subsea segment engages in the design, engineering, procurement, manufacturing, fabrication, installation, and life of field services for subsea systems, subsea field infrastructure, and subsea pipe systems used in oil and gas production and transportation. It provides subsea production and flexible pipe; subsea umbilicals, risers, and flowlines; vessels; and Subsea Studio for optimizing the development, execution, and operation of current and future subsea fields. This segment also offers well and asset services. The Surface Technologies segment designs, manufactures, and services products and systems used in land and shallow water exploration and production of crude oil and natural gas. This segment offers surface wellheads and production trees systems; iComplete, a pressure control system; fracturing tree and manifold systems; pressure pumping; safety and integrity systems, multiphase meter modules, in-line separation and processing systems, and standard pumps; well control and integrity systems, flowback and well testing services; skid systems; digital systems; and flow measurement and automation solutions. It also offers planning, testing and installation, commissioning, operations, replacement and upgrade, maintenance, storage, preservation, intervention, integrity, decommissioning, and abandonment; and supplies flexible lines and flowline products and services. TechnipFMC plc has a strategic alliance with Talos Energy Inc. to develop carbon transportation and storage services. The company was founded in 1884 and is based in Newcastle Upon Tyne, the United Kingdom.
+fullTimeEmployees§20301
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Douglas J. Pferdehirt', 'age': 59, 'title': 'CEO & Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3583600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alf T. Melin', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1493655, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin J. Rounce', 'age': 56, 'title': 'Executive VP & CTO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1407462, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Landes', 'age': 50, 'title': 'President of Subsea', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1231292, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Light', 'age': 39, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  Seinsheimer', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cristina  Aalders', 'title': 'Executive VP, Secretary, Chief Compliance Officer & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicola  Cameron', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nisha P. Rai', 'age': 47, 'title': 'Executive Vice President of People & Culture', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tore H. Halvorsen', 'age': 68, 'title': 'Executive VP & Senior Advisor', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.0101
+exDividendDate§1700438400
+payoutRatio§0.0
+beta§1.642
+priceToSalesTrailing12Months§1.160501
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.15
+pegRatio§-14.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§TechnipFMC plc
+longName§TechnipFMC plc
+firstTradeDateEpochUtc§992611800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bd085b66-452a-38b1-9857-ffba9bf34194
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§20.0
+targetMeanPrice§25.31
+targetMedianPrice§25.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§22
+quickRatio§0.814
+grossMargins§0.152
+ebitdaMargins§0.10669
+trailingPegRatio§None

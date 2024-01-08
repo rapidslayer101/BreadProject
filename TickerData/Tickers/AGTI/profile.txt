@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 01:26:22.393404
+address1§11095 Viking Drive
+address2§Suite 300
+city§Eden Prairie
+state§MN
+zip§55344
+country§United States
+phone§952 893 3200
+website§https://www.agilitihealth.com
+industry§Health Information Services
+industryKey§health-information-services
+industryDisp§Health Information Services
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Agiliti, Inc., together with its subsidiaries, provides healthcare technology management and service solutions to the healthcare industry in the United States. The company offers onsite managed services that are comprehensive programs for the management, reprocessing, and logistics of medical equipment at individual facilities and integrated delivery networks to monitor and adjust equipment quantities and availability to address fluctuations in patient census and acuity. It also provides clinical engineering services comprising maintenance, repair, and remediation solutions for various types of medical equipment, including general biomedical equipment, diagnostic imaging equipment, and surgical equipment through supplemental and outsourced offerings. In addition, the company offers equipment solutions, which primarily provide supplemental, peak need, and per-case rental of general biomedical, specialty, and surgical equipment to acute care hospitals and alternate site providers, including premier healthcare institutions and integrated delivery networks. It serves acute care hospitals, health systems and integrated delivery networks and alternate site providers. The company was founded in 1939 and is headquartered in Eden Prairie, Minnesota.
+fullTimeEmployees§6000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas J. Leonard', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1255208, 'exercisedValue': 2327098, 'unexercisedValue': 24841876}, {'maxAge': 1, 'name': 'Mr. James B. Pekarek', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 642203, 'exercisedValue': 2475626, 'unexercisedValue': 4670235}, {'maxAge': 1, 'name': 'Mr. Robert L. Creviston', 'age': 56, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 461160, 'exercisedValue': 567324, 'unexercisedValue': 960222}, {'maxAge': 1, 'name': 'Mr. Derrick L. Johnson', 'age': 53, 'title': 'Senior VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Christensen B.S.', 'age': 58, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Neale', 'title': 'Senior VP of IT & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn  Kaiser', 'title': 'Senior Vice President of Corporate Communication & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lee M. Neumann', 'age': 47, 'title': 'Executive VP & General Counsel', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 608330, 'exercisedValue': 2087267, 'unexercisedValue': 790667}, {'maxAge': 1, 'name': 'Ms. Bettyann  Bird', 'age': 62, 'title': 'Executive VP & Chief Strategy Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 778908, 'exercisedValue': 194845, 'unexercisedValue': 5860955}, {'maxAge': 1, 'name': 'Heidi  Drafall', 'title': 'Senior Vice President of Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1573776000
+payoutRatio§0.0
+beta§1.449
+priceToSalesTrailing12Months§0.9323174
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.58
+pegRatio§0.11
+exchange§NYQ
+quoteType§EQUITY
+shortName§Agiliti, Inc.
+longName§Agiliti, Inc.
+firstTradeDateEpochUtc§1619184600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f070f10c-d6bc-3386-8098-888bdd08da24
+messageBoardId§finmb_434975550
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§6.25
+targetMeanPrice§10.88
+targetMedianPrice§9.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.173
+grossMargins§0.35483003
+ebitdaMargins§0.21815
+trailingPegRatio§None

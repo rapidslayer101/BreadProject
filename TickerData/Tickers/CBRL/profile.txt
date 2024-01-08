@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 21:43:55.604521
+address1§305 Hartmann Drive
+city§Lebanon
+state§TN
+zip§37087-4779
+country§United States
+phone§615 444 5533
+website§https://www.crackerbarrel.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Cracker Barrel Old Country Store, Inc. develops and operates the Cracker Barrel Old Country Store concept in the United States. Its Cracker Barrel stores consist of restaurants with a gift shop. The company's restaurants serve breakfast, lunch, and dinner daily, as well as dine-in, pick-up, and delivery services. Its gift shop offers various decorative and functional items, such as rocking chairs, seasonal gifts, apparel, toys, food, cookware, and various other gift items, as well as various candies, preserves, and other food items. The company was incorporated in 1969 and is headquartered in Lebanon, Tennessee.
+fullTimeEmployees§77000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Sandra Brophy Cochran', 'age': 65, 'title': 'Executive Chair', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 3286287, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig A. Pommells', 'age': 48, 'title': 'Senior VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 990286, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard M. Wolfson J.D.', 'age': 56, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 852333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura A. Daily', 'age': 60, 'title': 'Senior VP and Chief of Merchant & Retail Supply Chain', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 772801, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cammie  Spillyards-Schaefer', 'age': 46, 'title': 'Senior Vice President of Restaurant & Retail Operations', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 714605, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie Felss Masino', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian T. Vaclavik', 'age': 56, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce A. Hoffmeister', 'age': 62, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kaleb  Johannes', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sherri L. Moore', 'title': 'Vice President of Sales & Retail Services', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§5.2
+dividendYield§0.0701
+exDividendDate§1705536000
+payoutRatio§1.3232001
+fiveYearAvgDividendYield§3.75
+beta§1.455
+priceToSalesTrailing12Months§0.48026
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.33
+pegRatio§1.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Cracker Barrel Old Country Stor
+longName§Cracker Barrel Old Country Store, Inc.
+firstTradeDateEpochUtc§373818600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§67e75ce0-1574-3e98-8ec1-ac26e53bdb51
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§57.0
+targetMeanPrice§72.75
+targetMedianPrice§72.5
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.1
+earningsGrowth§-0.68
+grossMargins§0.32216
+ebitdaMargins§0.066750005
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 14:32:41.190458
+address1§333 Bloor Street East
+address2§10th Floor
+city§Toronto
+state§ON
+zip§M4W 1G9
+country§Canada
+phone§416 935 7777
+website§https://www.rogers.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Rogers Communications Inc. operates as a communications and media company in North America. It operates through three segments: Wireless, Cable, and Media. The company offers mobile Internet access, wireless voice and enhanced voice, device financing, device protection, global voice and data roaming, wireless home phone, bridging landline, machine-to-machine and Internet of Things solutions, and advanced wireless solutions for businesses, as well as device shipping services; and postpaid and prepaid services under the Rogers, Fido, and chatr brands. It also provides internet and WiFi services; and smart home monitoring services, such as monitoring, security, automation, energy efficiency, and smart control through a smartphone app. In addition, the company offers local and network TV; on-demand television; cloud-based digital video recorders; voice-activated remote controls, and integrated apps; personal video recorders; linear and time-shifted programming; digital specialty channels; 4K television programming; and seasonal games through television, smartphones, tablets, personal computers, and other streaming devices, as well as operates Ignite TV and Ignite TV app. Further, it provides residential and small business local telephony services; calling features, such as voicemail, call waiting, and long distance; voice, data networking, Internet protocol, and Ethernet services; private networking, Internet, IP voice, and cloud solutions; optical wave and multi-protocol label switching services; information technology (IT) and network technologies; cable access network services; and telecommunications technical consulting services. Additionally, the company owns Toronto Blue Jays and the Rogers Centre event venue; and operates Sportsnet ONE, Sportsnet 360, Sportsnet World, Citytv, OMNI, FX (Canada), FXX (Canada), and OLN television networks, as well as 54 AM and FM radio stations. Rogers Communications Inc. was founded in 1960 and is headquartered in Toronto, Canada.
+fullTimeEmployees§22000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony  Staffieri FCA, FCPA', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3344454, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glenn A. Brandt', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 1081227, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald E. McKenzie', 'title': 'Chief Technology & Information Officer', 'fiscalYear': 2022, 'totalPay': 1055085, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mahes S. Wickramasinghe', 'age': 65, 'title': 'Chief Commercial Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1176384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Carpino', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marisa L. Wyse', 'title': 'Chief Legal & Regulatory Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Terrie L. Tweddle', 'title': 'Chief Brand & Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bret D. Leech', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Depatie', 'age': 64, 'title': 'President & COO of Home and Business Division', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 826342, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip J. Hartling', 'title': 'President of Wireless', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.51
+dividendYield§0.0323
+exDividendDate§1701907200
+payoutRatio§0.995
+fiveYearAvgDividendYield§3.26
+beta§0.543
+priceToSalesTrailing12Months§1.3658352
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.39
+exchange§NYQ
+quoteType§EQUITY
+shortName§Rogers Communication, Inc.
+longName§Rogers Communications Inc.
+firstTradeDateEpochUtc§821370600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f0038892-8766-3bac-b931-cf5275b9d9b8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§62.8
+targetLowPrice§53.08
+targetMeanPrice§57.17
+targetMedianPrice§56.82
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.716
+grossMargins§0.43723
+ebitdaMargins§0.41926
+trailingPegRatio§None

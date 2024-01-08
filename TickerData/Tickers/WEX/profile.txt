@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 06:34:21.186494
+address1§1 Hancock Street
+city§Portland
+state§ME
+zip§04101
+country§United States
+phone§207 773 8171
+website§https://www.wexinc.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§WEX Inc. operates a commerce platform in the United States and internationally. The Fleet Solutions segment offers fleet vehicle payment solutions, transaction processing, and information management services. It also provides account and account retention services; authorization and billing inquiries, and account maintenance services; account management; credit and collections services; merchant services; analytics solutions; and ancillary services and tools to fleets to manage expenses and capital requirements. This segment markets its products directly and indirectly to businesses and government agencies with fleets of commercial vehicles; and indirectly through co-branded and private label relationships. The Travel and Corporate Solutions segment provides payment solutions, including embedded payments; and accounts payable automation and spend management solutions. Its products include virtual cards that are used for transactions where no physical card is presented. This segment markets its products directly and indirectly to customers in travel, fintech, insurance, consumer bill pay, and media verticals, as well as businesses and financial institutions. The Health and Employee Benefit Solutions segment offers software-as-a-service (SaaS) platform for consumer directed healthcare benefits and full-service benefit enrollment solutions. Its SaaS platform includes embedded payment solutions and plan administration services for consumer-directed health benefits; COBRA accounts; and benefit enrollment and administration services. This segment also provides custodial and depository services for health savings accounts; and payroll-related benefits. This segment markets its products through third-party administrators, financial institutions, payroll providers, and health plans. The company was formerly known as Wright Express Corporation and changed its name to WEX Inc. in October 2012. WEX Inc. was founded in 1983 and is based in Portland, Maine.
+fullTimeEmployees§6100
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Melissa D. Smith', 'age': 54, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 3032788, 'exercisedValue': 0, 'unexercisedValue': 9343349}, {'maxAge': 1, 'name': 'Mr. Jagtar  Narula', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 989405, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Kimball', 'age': 48, 'title': 'Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 883637, 'exercisedValue': 0, 'unexercisedValue': 30666}, {'maxAge': 1, 'name': 'Mr. Joel Alan Dearborn Jr.', 'age': 44, 'title': 'Chief Strategy Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1124251, 'exercisedValue': 0, 'unexercisedValue': 327227}, {'maxAge': 1, 'name': 'Mr. Robert Joseph Deshaies', 'age': 57, 'title': 'Chief Operating Officer of Americas', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1342463, 'exercisedValue': 0, 'unexercisedValue': 387526}, {'maxAge': 1, 'name': 'Ms. Karen B. Stroup', 'age': 47, 'title': 'Chief Digital Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1273946, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sachin  Dhawan', 'age': 48, 'title': 'Chief Technology Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Alan Elder', 'age': 54, 'title': 'Senior Vice President of Global Investor Relations', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 450393, 'exercisedValue': 423187, 'unexercisedValue': 3054}, {'maxAge': 1, 'name': 'Ms. Hilary Ann Rapkin Esq.', 'age': 56, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 530489, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann Elena Drew J.D.', 'age': 52, 'title': 'Chief Risk & Compliance Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.609
+priceToSalesTrailing12Months§3.3787806
+currency§USD
+dateShortInterest§1702598400
+forwardEps§16.31
+pegRatio§1.28
+exchange§NYQ
+quoteType§EQUITY
+shortName§WEX Inc.
+longName§WEX Inc.
+firstTradeDateEpochUtc§1108564200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f4eeba15-c196-3ea5-b55f-d6680ccd9e99
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§262.0
+targetLowPrice§180.0
+targetMeanPrice§216.86
+targetMedianPrice§215.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.888
+grossMargins§0.73355
+ebitdaMargins§0.33276
+trailingPegRatio§None

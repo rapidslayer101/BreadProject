@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 10:29:28.913240
+address1§675 Bering Drive
+address2§Suite 400
+city§Houston
+state§TX
+zip§77057
+country§United States
+phone§713 830 9600
+website§https://www.comfortsystemsusa.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Comfort Systems USA, Inc. provides mechanical and electrical installation, renovation, maintenance, repair, and replacement services for the mechanical and electrical services industry in the United States. It engages in the design, engineering, integration, installation, and start-up of mechanical, electrical, and plumbing (MEP) systems; and renovation, expansion, maintenance, monitoring, repair, and replacement of existing buildings. The company offers its services for heating, ventilation, and air conditioning (HVAC) systems, as well as plumbing, piping and controls, off-site construction, electrical, monitoring, and fire protection. It serves building owners and developers, general contractors, architects, consulting engineers, and property managers in the commercial, industrial, and institutional MEP markets. Comfort Systems USA, Inc. was incorporated in 1996 and is based in Houston, Texas.
+fullTimeEmployees§14100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian E. Lane', 'age': 66, 'title': 'CEO, President & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2773129, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  George III', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1563563, 'exercisedValue': 1208523, 'unexercisedValue': 2269142}, {'maxAge': 1, 'name': 'Mr. Trent T. McKenna', 'age': 50, 'title': 'Executive VP & COO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1249742, 'exercisedValue': 386722, 'unexercisedValue': 302820}, {'maxAge': 1, 'name': 'Ms. Julie S. Shaeff', 'age': 57, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 808233, 'exercisedValue': 898763, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura Finley Howell', 'age': 34, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 848149, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terrence M. Reed', 'age': 63, 'title': 'Senior Vice President of People & Leadership Development', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas N. Tanner', 'age': 74, 'title': 'Regional President', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 898879, 'exercisedValue': 382773, 'unexercisedValue': 5147}, {'maxAge': 1, 'name': 'Mr. R. Dean Tillison', 'title': 'Regional President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Eberhardt III', 'title': 'Senior Vice President of Service', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Evans', 'title': 'Regional President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0050999997
+exDividendDate§1700006400
+payoutRatio§0.0938
+fiveYearAvgDividendYield§0.65
+beta§1.115
+priceToSalesTrailing12Months§1.4087061
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.58
+pegRatio§2.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§Comfort Systems USA, Inc.
+longName§Comfort Systems USA, Inc.
+firstTradeDateEpochUtc§867418200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6aaac758-332a-3320-840a-c0e5f8fc28e2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§205.0
+targetLowPrice§190.0
+targetMeanPrice§198.75
+targetMedianPrice§200.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.053
+earningsGrowth§0.713
+grossMargins§0.18433
+ebitdaMargins§0.09037
+trailingPegRatio§None

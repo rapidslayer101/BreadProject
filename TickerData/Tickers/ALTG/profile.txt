@@ -1,0 +1,59 @@
+# reload+after+2024-01-23 17:26:32.885639
+address1§13211 Merriman Road
+city§Livonia
+state§MI
+zip§48150
+country§United States
+phone§248 449 6700
+website§https://www.altaequipment.com
+industry§Rental & Leasing Services
+industryKey§rental-leasing-services
+industryDisp§Rental & Leasing Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Alta Equipment Group Inc. owns and operates integrated equipment dealership platforms in the United States. It operates in two segments, Material Handling and Construction Equipment. The company operates a branch network that sells, rents, and provides parts and service support for various categories of specialized equipment, including lift trucks and aerial work platforms, earthmoving equipment, environmental processing equipment, and other material handling and construction equipment. It also offers repair and maintenance services for its equipment. In addition, the company designs and builds warehouses; and provides automated equipment installation and system integration solutions. It serves diversified manufacturing, food and beverage, wholesale/retail, construction, automotive, municipal/government, and medical sectors. Alta Equipment Group Inc. was founded in 1984 and is headquartered in Livonia, Michigan.
+fullTimeEmployees§2800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan  Greenawalt', 'age': 49, 'title': 'CEO & Chairman', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1746890, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony J. Colucci', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 946906, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Brubaker', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 620353, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Ivankovics', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert T. Chiles', 'title': 'President of Construction Equipment Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bob  Kohler', 'title': 'President of Industrial Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sinem  McDonald', 'title': 'Director Of External Reporting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Rundle', 'title': 'Director of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jason  Dammeyer', 'title': 'Director of SEC Reporting & Technical Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.23
+dividendYield§0.0194
+exDividendDate§1699920000
+payoutRatio§1.0364
+beta§1.647
+priceToSalesTrailing12Months§0.2128358
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.19
+lastDividendValue§0.057
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Alta Equipment Group Inc.
+longName§Alta Equipment Group Inc.
+firstTradeDateEpochUtc§1556199000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§66240c39-0bd0-3ee3-8a84-24c4016695c5
+messageBoardId§finmb_4320390
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§14.73
+targetMeanPrice§22.25
+targetMedianPrice§22.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.457
+earningsGrowth§0.454
+grossMargins§0.27188
+ebitdaMargins§0.094060004
+trailingPegRatio§None

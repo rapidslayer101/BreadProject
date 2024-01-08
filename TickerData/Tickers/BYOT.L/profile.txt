@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 10:35:53.010000
+address1§Building 303 (Ashton)
+address2§Thornton Science Park Pool Lane Ince
+city§Chester
+zip§CH2 4NU
+country§United Kingdom
+phone§44 19 2574 2000
+website§https://byotrolplc.com
+industry§Household & Personal Products
+industryKey§household-personal-products
+industryDisp§Household & Personal Products
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Byotrol plc develops and commercialize antimicrobial technologies and products in the United Kingdom, North America, and internationally. The company operates through Professional and Consumer segments. Its product portfolio includes Actizone, a antimicrobial technology which improves cleaning performance and long-lasting protection against bacteria; and Byotrol, a long-lasting antimicrobial protection for various applications including bathroom cleaners to multi-surface wipes. The company also offers HLD4, a broad-spectrum disinfectant designed for high soil environments of the animal health sector; and Invirtu for skin care. It serves human and animal health, facilities management, food and beverages, household, and skin and pet care markets. The company was incorporated in 2005 and is headquartered in Chester, the United Kingdom.
+fullTimeEmployees§36
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Thomas Traynor', 'age': 57, 'title': 'Interim CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 189000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher John Sedwell', 'age': 46, 'title': 'CFO & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 159000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chris  Plummer', 'title': 'Head of Technology', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise Yvonne Keenan ACA', 'title': 'Chief Commercial Officer & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.179
+priceToSalesTrailing12Months§0.8027492
+currency§GBp
+forwardEps§0.2
+exchange§LSE
+quoteType§EQUITY
+shortName§BYOTROL PLC ORDS 0.25P
+longName§Byotrol plc
+firstTradeDateEpochUtc§1120633200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4e74cbd1-e370-3877-9b52-f398bf027f72
+messageBoardId§finmb_22241644
+targetHighPrice§4.5
+targetLowPrice§4.5
+targetMeanPrice§4.5
+targetMedianPrice§4.5
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§1.683
+grossMargins§0.42515
+ebitdaMargins§-0.34162
+trailingPegRatio§None

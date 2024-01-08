@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 09:47:18.612908
+address1§46, avenue de la Grande Arm e
+city§Paris
+zip§75017
+country§France
+phone§33 1 53 77 40 00
+fax§33 1 53 77 43 03
+website§https://www.sanofi.com
+industry§Drug Manufacturers—General
+sector§Healthcare
+longBusinessSummary§Sanofi, a healthcare company, engages in the research, development, manufacture, and marketing of therapeutic solutions in the United States, Europe, and internationally. It operates through Pharmaceuticals, Vaccines, and Consumer Healthcare segments. The company provides specialty care, such as dupixent, neurology and immunology, rare diseases, oncology, and rare blood disorders; medicines for diabetes and cardiovascular diseases; and established prescription products. In addition, it offers poliomyelitis, pertussis, and hib pediatric vaccines; influenza, booster, meningitis, and travel and endemic vaccines, which includes hepatitis A, typhoid, cholera, yellow fever, and rabies vaccines. The company also provides cough, cold, and flu, allergy, and pain care products, as well as physical, mental, and digestive wellness products; and offers body lotions, anti-itch products, moisturizing and soothing lotions, body and foot creams, and eczema powders. Further, it has a collaboration and license agreement with Exscientia to develop up to 15 novel small-molecule for oncology and immunology; ABL Bio, Inc. to develop ABL301 for Parkinson's disease; Blackstone Life Sciences to develop pivotal studies and clinical development program; and Seagen Inc. to design, develop, and commercialize antibody-drug conjugates for cancer. Additionally, the company has a collaboration agreement with IGM Biosciences, Inc. to develop, manufacture, and commercialize IgM antibody; Skyhawk Therapeutics, Inc to discover and develop novel small molecules; and Amunix Pharmaceuticals, Inc for T-cell engagers and cytokine therapies. It also enters in a strategic collaboration with Scribe Therapeutics Inc. to develop genome editing technologies; and co-promotion service agreement with Provention Bio, Inc. for the commercialization of teplizumab. The company was formerly known as Sanofi-Aventis and changed its name to Sanofi in May 2011. Sanofi was founded in 1973 and is headquartered in Paris, France.
+fullTimeEmployees§91573
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul  Hudson', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 4109373, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Baptiste Chasseloup de Chatillon', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Madeleine  Roach', 'title': 'Executive VP & Head of Business Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laurent  Gilhodes', 'title': 'Principal Accounting Officer and Vice President of Corporate Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Josephine  Fubara', 'title': 'Chief Science Officer of Consumer Health Care', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eva  Schaefer-Jansen', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dante  Beccaria', 'title': 'Global Compliance Officer & VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roy  Papatheodorou', 'age': 45, 'title': 'Executive VP & General Counsel', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josep  Catlla', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pierre  Chancel', 'age': 66, 'title': 'Senior Vice President of Global Diabetes and Senior Vice President of Global Marketing', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.9
+dividendYield§0.037100002
+exDividendDate§1685404800
+payoutRatio§0.4905
+fiveYearAvgDividendYield§3.74
+beta§0.433
+priceToSalesTrailing12Months§2.8102803
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.88
+pegRatio§0.9
+exchange§NMS
+quoteType§EQUITY
+shortName§Sanofi
+longName§Sanofi
+firstTradeDateEpochUtc§1025530200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9bce3a62-a870-318f-b183-dd2320b9b6fd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§55.0
+targetMeanPrice§60.65
+targetMedianPrice§61.29
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§0.217
+grossMargins§0.69542
+ebitdaMargins§0.29159
+trailingPegRatio§2.5843

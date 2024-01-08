@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 11:47:24.396611
+address1§7575 West Jefferson Boulevard
+city§Fort Wayne
+state§IN
+zip§46804
+country§United States
+phone§260 969 3500
+website§https://stld.steeldynamics.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Steel Dynamics, Inc., together with its subsidiaries, operates as a steel producer and metal recycler in the United States. It operates through three segments: Steel Operations, Metals Recycling Operations, and Steel Fabrication Operations. The Steel Operations segment offers hot rolled, cold rolled, and coated steel products; parallel flange beams and channel sections, flat bars, large unequal leg angles, and reinforcing bars, as well as standard strength carbon, intermediate alloy hardness, and premium grade rail products; engineered special-bar-quality products, merchant-bar-quality products, and other engineered round steel bars; channels, angles, flats, merchant rounds, and reinforcing steel bars; and specialty shapes and light structural steel products. This segment also engages in turning, polishing, straightening, chamfering, threading, precision saw-cutting, and heat treating of bar products. Its products are used in construction, automotive, manufacturing, transportation, heavy and agriculture equipment, and pipe and tube markets. The Metals Recycling Operations segment is involved in the ferrous and nonferrous scrap metal processing, transportation, marketing, brokerage, and scrap management services. Its ferrous products include heavy melting steel, busheling, bundled scrap, shredded scrap, steel turnings, and cast-iron products; and nonferrous products comprise aluminum, brass, copper, stainless steel, and other nonferrous metals. The Steel Fabrication Operations segment produces steel non-residential building components, such as steel joists, girders, trusses, and steel deck products for non-residential steel fabricators, metal building companies, general construction contractors, developers, owners, brokers, governmental entities, and e-commerce data centers and warehouses. The company also exports its products. Steel Dynamics, Inc. was founded in 1993 and is headquartered in Fort Wayne, Indiana.
+fullTimeEmployees§12060
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark D. Millett', 'age': 63, 'title': 'Chairman, Co-Founder & CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 6587760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry T. Schneider', 'age': 54, 'title': 'President & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2588800, 'exercisedValue': 1528616, 'unexercisedValue': 160384}, {'maxAge': 1, 'name': 'Mr. Richard P. Teets Jr.', 'age': 68, 'title': 'Co-Founder & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 125000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa E. Wagler', 'age': 53, 'title': 'Executive VP, CFO & Company Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3433900, 'exercisedValue': 1965042, 'unexercisedValue': 160384}, {'maxAge': 1, 'name': 'Mr. Glenn A. Pushis', 'age': 57, 'title': 'Senior Vice President of Special Projects', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2588800, 'exercisedValue': 1721028, 'unexercisedValue': 160384}, {'maxAge': 1, 'name': 'Mr. Christopher A. Graham', 'age': 59, 'title': 'Senior Vice President of Flat Roll Steel Group', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2428800, 'exercisedValue': 1359457, 'unexercisedValue': 160384}, {'maxAge': 1, 'name': 'Marlene  Owen', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Hansen', 'title': 'Vice President of Human Resources & Safety', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James S. Anderson', 'age': 62, 'title': 'Senior Vice President of Steel Fabrication', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Miguel  Alvarez', 'age': 55, 'title': 'Senior Vice President of Metals Recycling', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.7
+dividendYield§0.0146
+exDividendDate§1703721600
+payoutRatio§0.1029
+fiveYearAvgDividendYield§2.18
+beta§1.447
+priceToSalesTrailing12Months§0.9699856
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.29
+pegRatio§-0.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Steel Dynamics, Inc.
+longName§Steel Dynamics, Inc.
+firstTradeDateEpochUtc§848673000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4ac4a191-7d77-3794-bd5d-1e7c3487c6e5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§130.0
+targetLowPrice§75.0
+targetMeanPrice§109.78
+targetMedianPrice§110.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§2.162
+earningsGrowth§-0.31
+grossMargins§0.22192
+ebitdaMargins§0.19703
+trailingPegRatio§None

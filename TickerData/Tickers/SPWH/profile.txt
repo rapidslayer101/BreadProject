@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 08:47:21.604079
+address1§1475 West 9000 South
+address2§Suite A
+city§West Jordan
+state§UT
+zip§84088
+country§United States
+phone§801 566 6681
+website§https://www.sportsmans.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Sportsman's Warehouse Holdings, Inc., together with its subsidiaries, operates as an outdoor sporting goods retailer in the United States. It offers camping products, such as backpacks, camp essentials, canoes and kayaks, coolers, outdoor cooking equipment, sleeping bags, tents, and tools; and apparel products, including camouflage, jackets, hats, outerwear, sportswear, technical gear, and work wear. The company also provides fishing products comprising bait, electronics, fishing rods, flotation items, fly fishing products, lines, lures, reels, tackles, and small boats; and foot wear products consisting of hiking and work boots, socks, sport sandals, technical footwear, trial and casual shoes, and waders. In addition, it offers hunting and shooting products, such as ammunition, archery items, ATV accessories, blinds and tree stands, decoys, firearms, firearms safety and storage products, reloading equipment, and shooting gear products; and optics, electronics, and accessories, including gift items, GPS devices, knives, lighting, optics, and two-way radios. Further, the company's stores provide archery technician services, fishing-reel line winding, scope mounting and bore sighting, and cleaning services, as well as issues hunting and fishing licenses. Additionally, it offers various private label and special make-up offerings under the Rustic Ridge, Killik, Vital Impact, Yukon Gold, Lost Creek, and Sportsman's Warehouse brands. Sportsman's Warehouse Holdings, Inc. was founded in 1986 and is headquartered in West Jordan, Utah.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey Justin White', 'age': 38, 'title': 'CFO & Company Secretary', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 426649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul E. Stone', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shane  Miller', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Riley  Timmer', 'title': 'Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew G. French', 'age': 52, 'title': 'Vice President of Compliance', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Stoner', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevan P. Talbot', 'age': 52, 'title': 'Executive Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 209513, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.863
+priceToSalesTrailing12Months§0.12924017
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.07
+pegRatio§-0.29
+exchange§NMS
+quoteType§EQUITY
+shortName§Sportsman's Warehouse Holdings,
+longName§Sportsman's Warehouse Holdings, Inc.
+firstTradeDateEpochUtc§1397741400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§96bb482d-80b9-37c6-8c84-6aaa738ff56b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§4.5
+targetMeanPrice§7.1
+targetMedianPrice§5.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.016
+grossMargins§0.31371
+ebitdaMargins§0.03051
+trailingPegRatio§None

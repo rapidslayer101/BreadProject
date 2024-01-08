@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 21:46:34.011159
+address1§25 Saint Stephens Green
+address2§First Floor, Dublin 2
+city§Dublin
+zip§D02 XF99
+country§Ireland
+website§https://www.pddholdings.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§PDD Holdings Inc., a multinational commerce group, owns and operates a portfolio of businesses. It operates Pinduoduo, an e-commerce platform that offers products in various categories, including agricultural produce, apparel, shoes, bags, mother and childcare products, food and beverage, electronic appliances, furniture and household goods, cosmetics and other personal care, sports and fitness items and auto accessories; and Temu, an online marketplace. It focuses on bringing businesses and people into the digital economy. The company was formerly known as Pinduoduo Inc. and changed its name to PDD Holdings Inc. in February 2023. PDD Holdings Inc. was incorporated in 2015 and is based in Dublin, Ireland.
+fullTimeEmployees§12992
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lei  Chen', 'age': 43, 'title': 'General Counsel, Co-CEO & Chairman', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jiazhen  Zhao', 'age': 39, 'title': 'Co-CEO & Executive Director', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jun  Liu', 'age': 39, 'title': 'Vice President of Finance', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Junyun  Xiao', 'age': 43, 'title': 'Senior Vice President of Operation', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xin Yi Lim', 'title': 'Investor Relations Officers', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Shu C.F.A.', 'title': 'Director of Corporate Development & IR', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhenwei  Zheng', 'age': 39, 'title': 'Senior Vice President of Product Development', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Liu', 'title': 'Vice President of Strategy', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Peng  Cheng', 'title': 'IR Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.768
+priceToSalesTrailing12Months§0.9803608
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.38
+pegRatio§61.1
+exchange§NMS
+quoteType§EQUITY
+shortName§PDD Holdings Inc.
+longName§PDD Holdings Inc.
+firstTradeDateEpochUtc§1532611800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§feece1ce-41c4-3db9-b5ba-eb6db2cd7cd7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§216.13
+targetLowPrice§114.6
+targetMeanPrice§164.49
+targetMedianPrice§166.27
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§36
+quickRatio§1.428
+earningsGrowth§0.44
+grossMargins§0.66978997
+ebitdaMargins§0.24267
+trailingPegRatio§0.7268

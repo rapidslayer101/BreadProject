@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 07:32:19.618973
+address1§Pier 1, Bay 1
+city§San Francisco
+state§CA
+zip§94111
+country§United States
+phone§415 394 9000
+fax§415 394 9001
+website§https://www.prologis.com
+industry§REIT—Industrial
+sector§Real Estate
+longBusinessSummary§Prologis, Inc. is the global leader in logistics real estate with a focus on high-barrier, high-growth markets. At September 30, 2023, the company owned or had investments in, on a wholly owned basis or through co-investment ventures, properties and development projects expected to total approximately 1.2 billion square feet (114 million square meters) in 19 countries. Prologis leases modern logistics facilities to a diverse base of approximately 6,700 customers principally across two major categories: business-to-business and retail/online fulfillment.
+fullTimeEmployees§2466
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hamid R. Moghadam', 'age': 66, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1835001, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy D. Arndt', 'age': 50, 'title': 'CFO, MD of Treasury & Financial Planning and Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2894734, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward S. Nekritz', 'age': 57, 'title': 'Chief Legal Officer, General Counsel, Secretary & Head of Global Strategic Risk Mgmt. and ESG Dept.', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 4623307, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary E. Anderson', 'age': 57, 'title': 'Advisor', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 4894601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas S. Olinger', 'age': 56, 'title': 'Advisor', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3133545, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eugene Frederick Reilly', 'age': 61, 'title': 'Senior Advisor', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 5975415, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Stephen Letter', 'title': 'President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carter  Andrus', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Ghazal', 'title': 'Global Head of Capital Deployment & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori A. Palazzolo CPA', 'age': 59, 'title': 'MD, Chief Accounting Officer & Senior VP', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.48
+dividendYield§0.026700001
+exDividendDate§1702598400
+payoutRatio§1.0828
+fiveYearAvgDividendYield§2.36
+beta§1.052
+priceToSalesTrailing12Months§14.760037
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.61
+pegRatio§-6.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§Prologis, Inc.
+longName§Prologis, Inc.
+firstTradeDateEpochUtc§880122600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0e7c4140-457e-3d58-b4f7-f8c4d460117e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§157.0
+targetLowPrice§119.0
+targetMeanPrice§138.76
+targetMedianPrice§141.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§0.422
+earningsGrowth§-0.409
+grossMargins§0.75992996
+ebitdaMargins§0.70838
+trailingPegRatio§None

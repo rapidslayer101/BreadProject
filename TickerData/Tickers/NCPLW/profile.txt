@@ -1,0 +1,32 @@
+# reload+after+2024-01-21 10:46:11.555777
+address1§State Street Financial Center
+address2§One Lincoln Street
+city§Boston
+state§MA
+zip§02111
+country§United States
+phone§781 925 1700
+website§https://www.netcapitalinc.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Netcapital Inc. operates as a fintech company. It offers Netcapital.com, an SEC-registered funding portal that enables private companies to raise capital online, as well as allows investors to invest from anywhere in the world. The company also provides various services, including automated onboarding process and filing of required regulatory documents; compliance review; custom-built offering page on its portal website; third party transfer agent and custodial services; and rolling closes which provides access to liquidity before final close date of offerings, as well as assistance with annual fillings and direct access to team for ongoing support. In addition, it offers advisor services, which includes incubation of technology start-ups; investors introduction; online marketing; website design and software development; message crafting including pitch decks, offering pages, and ad creation; strategic advice; and technology consulting services. Further, the company provides valuation services, such as business valuation, fairness and solvency opinions, ESOP feasibility and valuation, non-cash charitable contribution, economic analysis of damages, intellectual property appraisals, and compensation studies. Netcapital Inc. is based in Boston, Massachusetts.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin  Kay', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 291130, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Frishman', 'age': 30, 'title': 'Founder', 'yearBorn': 1993, 'fiscalYear': 2023, 'totalPay': 191173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Coreen S. Kraysler CFA', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 189135, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Avi  Liss', 'age': 44, 'title': 'Secretary & Independent Director', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+beta§0.197
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+shortName§NETCAPITAL INC C/WTS 05/07/2027
+longName§Netcapital Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§363465d0-0563-3c04-9361-e42b08dc7ff2
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.714
+earningsGrowth§-0.1
+grossMargins§0.99262
+ebitdaMargins§0.14378999
+trailingPegRatio§None

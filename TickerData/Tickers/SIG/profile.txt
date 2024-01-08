@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 00:33:11.480772
+address1§Clarendon House
+address2§2 Church Street
+city§Hamilton
+zip§HM11
+country§Bermuda
+website§https://www.signetjewelers.com
+industry§Luxury Goods
+sector§Consumer Cyclical
+longBusinessSummary§Signet Jewelers Limited operates as a diamond jewelry retailer. It operates through three segments: North America, International, and Other. The North America segment operates jewelry stores in jewelry stores in malls, mall-based kiosks, and off-mall locations in the United States and Canada primarily under the Kay Jewelers, Kay Jewelers Outlet, Jared The Galleria Of Jewelry, Jared Vault, Zales Jewelers, Zales Outlet, Diamonds Direct, James Allen, Banter by Piercing Pagoda, and Peoples Jewellers names, as well as operates online through its digital banners, James Allen and Blue Nile. This segment also engages in jewelry subscription business. The International segment operates stores in shopping malls and off-mall locations primarily under the H.Samuel and Ernest Jones brands in the United Kingdom, Republic of Ireland, and Channel Islands. The Other segment is involved in the purchase and conversion of rough diamonds to polished stones, as well as the provision of diamond polishing services. Signet Jewelers Limited is based in Hamilton, Bermuda.
+fullTimeEmployees§29660
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Virginia C. Drosos', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 2120224, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jamie L. Singleton', 'age': 62, 'title': 'Group President & Chief Consumer Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1068070, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joan M. Hilson', 'age': 64, 'title': 'Chief Financial, Strategy & Services Officer', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 1091861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oded  Edelman', 'age': 56, 'title': 'Chief Digital Innovation Officer & President of Digital Banners', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 784914, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca S. Wooters', 'age': 52, 'title': 'Chief Digital Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 808568, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent N. Ciccolini', 'age': 59, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard A. Melnick', 'age': 61, 'title': 'Chief Information Officer & Enterprise Analytics', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Ballew', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stash  Ptak', 'age': 44, 'title': 'General Counsel and Senior VP of Legal, Compliance & Risk', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Colleen  Rooney', 'title': 'Chief Communications & ESG Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.92
+dividendYield§0.0093
+exDividendDate§1706140800
+payoutRatio§0.1042
+fiveYearAvgDividendYield§4.36
+beta§2.016
+priceToSalesTrailing12Months§0.59764385
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.64
+pegRatio§1.42
+exchange§NYQ
+quoteType§EQUITY
+shortName§Signet Jewelers Limited
+longName§Signet Jewelers Limited
+firstTradeDateEpochUtc§584890200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8e409325-58a1-3aaf-9853-35ab7154d6dc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§120.0
+targetLowPrice§90.0
+targetMeanPrice§106.8
+targetMedianPrice§110.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.355
+earningsGrowth§-0.888
+grossMargins§0.38777
+ebitdaMargins§0.10791001
+trailingPegRatio§None

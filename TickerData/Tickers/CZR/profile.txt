@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 12:44:19.807084
+address1§100 West Liberty Street
+address2§12th Floor
+city§Reno
+state§NV
+zip§89501
+country§United States
+phone§775 328 0100
+website§https://www.caesars.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Caesars Entertainment, Inc. operates as a gaming and hospitality company in the United States. The company owns, leases, or manages domestic properties in 16 states with slot machines, video lottery terminals and e-tables, and hotel rooms, as well as table games, including poker. It also operates and conducts sports wagering across 28 jurisdictions in North America, including mobile for sports betting and regulated online real money gaming in six jurisdictions in North America; retail and online gaming and sports betting; and other games, such as keno. In addition, the company operates dining venues, bars, nightclubs, lounges, hotels, and entertainment venues; and provides staffing and management services. Caesars Entertainment, Inc. was founded in 1937 and is based in Reno, Nevada.
+fullTimeEmployees§49000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Robert Reeg CFA', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 6733296, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony L. Carano', 'age': 41, 'title': 'President & COO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 3532031, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bret  Yunker', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 3011254, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie D. Lepori', 'age': 52, 'title': 'Chief Administrative & Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1604158, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edmund L. Quatmann Jr.', 'age': 52, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1820201, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary L. Carano', 'age': 71, 'title': 'Executive Chairman of the Board', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 4956489, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Hendricks', 'title': 'Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katie Carano Miller', 'title': 'Senior Vice President of Communications & Government Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Jones', 'age': 39, 'title': 'Chief Marketing Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter H. Broughton', 'title': 'Senior Vice President of Information Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.872
+priceToSalesTrailing12Months§0.84064406
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.6
+pegRatio§0.05
+exchange§NMS
+quoteType§EQUITY
+shortName§Caesars Entertainment, Inc.
+longName§Caesars Entertainment, Inc.
+firstTradeDateEpochUtc§1411392600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a45af203-cc8f-3f51-b380-342685e333db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§78.0
+targetLowPrice§48.0
+targetMeanPrice§61.14
+targetMedianPrice§62.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.545
+earningsGrowth§0.417
+grossMargins§0.53888
+ebitdaMargins§0.3327
+trailingPegRatio§None

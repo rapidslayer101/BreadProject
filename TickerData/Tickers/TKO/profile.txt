@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 17:33:43.822612
+address1§200 Fifth Avenue
+address2§7th Floor
+city§New York
+state§NY
+zip§10010
+country§United States
+phone§(646) 558-8333
+website§https://tkogrp.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§TKO Group Holdings, Inc. operates as a sports and entertainment company. It operates through four segments: Media and Content, Live Events, Sponsorships, and Consumer Products Licensing. The company produces live events, television programs, and long-form and short-form video content across various platforms, including broadcast, pay television, and streaming, as well as digital and social media across approximately 170 countries. It is involved in the merchandising of video games, apparel, equipment, trading cards, memorabilia, digital goods, and toys, as well as sale of travel packages and tickets. The company engages in the corporate sponsorships and advertising business, which offers sale of in-venue and in-broadcast advertising assets, content product integration, and digital impressions. TKO Group Holdings, Inc. is based in New York, New York. TKO Group Holdings, Inc. is a subsidiary of Endeavor Group Holdings, Inc.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vincent K. McMahon', 'age': 77, 'title': 'Executive Chairman', 'yearBorn': 1946, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ariel Zev Emanuel', 'age': 63, 'title': 'CEO & Director', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark S. Shapiro', 'age': 53, 'title': 'COO, President & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew M. Schleimer', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shane R. Kapral', 'age': 38, 'title': 'Chief Accounting Officer', 'yearBorn': 1985, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Seth D. Krauss Esq.', 'age': 53, 'title': 'Chief Legal Officer', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert  Hilton', 'title': 'Senior VP, Deputy General Counsel & Corporate Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+exDividendDate§1695254400
+payoutRatio§0.0
+priceToSalesTrailing12Months§4.841659
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.14
+pegRatio§1.59
+exchange§NYQ
+quoteType§EQUITY
+shortName§TKO Group Holdings, Inc.
+longName§TKO Group Holdings, Inc.
+firstTradeDateEpochUtc§940339800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cea13e84-6a46-3d79-ac77-c5f5f3a02c68
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§125.0
+targetLowPrice§68.0
+targetMeanPrice§108.9
+targetMedianPrice§113.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.962
+grossMargins§0.71161
+ebitdaMargins§0.4382
+trailingPegRatio§None

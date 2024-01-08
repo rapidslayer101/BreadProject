@@ -1,0 +1,60 @@
+# reload+after+2024-01-22 00:26:09.930375
+address1§Four Corporate Drive
+city§Lake Zurich
+state§IL
+zip§60047
+country§United States
+phone§847 541 9500
+website§https://www.accobrands.com
+industry§Business Equipment & Supplies
+industryKey§business-equipment-supplies
+industryDisp§Business Equipment & Supplies
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§ACCO Brands Corporation designs, manufactures, and markets consumer, school, technology, and office products. It operates through three segments: ACCO Brands North America, ACCO Brands EMEA, and ACCO Brands International. The company provides computer and gaming accessories, planners, dry erase boards, school notebooks, and janitorial supplies; storage and organization products, such as lever-arch binders, sheet protectors, and indexes; sheet protectors and indexes; laminating, binding, and shredding machines; writing instruments and art products; stapling and punching products; and do-it-yourself tools. It offers its products under the AT-A-GLANCE, Barrilito, Derwent, Esselte, Five Star, Foroni, GBC, Hilroy, Kensington, Leitz, Marbig, Mead, NOBO, PowerA, Quartet, Rapid, Rexel, Swingline, Tilibra, Artline, and Spirax brand names. The company markets and sells its products through various channels, including mass retailers, e-tailers, discount, drug/grocery, and variety chains; warehouse clubs; hardware and specialty stores; independent office product dealers; office superstores; wholesalers; contract stationers; and technology specialty businesses, as well as sells products directly to commercial and consumer end-users through its e-commerce platform and direct sales organization. ACCO Brands Corporation was founded in 1893 and is headquartered in Lake Zurich, Illinois.
+fullTimeEmployees§6000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Boris Y. Elisman', 'age': 60, 'title': 'Executive Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1278486, 'exercisedValue': 234314, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas W. Tedford', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 797587, 'exercisedValue': 87732, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Deborah A. O'Connor", 'age': 60, 'title': 'Executive VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 606653, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick H. Buchenroth', 'age': 56, 'title': 'Executive VP & President of ACCO Brands International', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 881239, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cezary L. Monko', 'age': 61, 'title': 'Executive VP & President of ACCO Brands EMEA', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 634390, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory J. McCormack', 'age': 59, 'title': 'Senior Vice President of Global Products & Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Dudek Jr.', 'age': 51, 'title': 'Senior VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul P. Daniel', 'age': 57, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Paul McGinnis', 'title': 'Senior Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela Rolnick Schneider', 'age': 63, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 627765, 'exercisedValue': 63407, 'unexercisedValue': 147754}]
+auditRisk§1
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.0469
+exDividendDate§1699920000
+payoutRatio§0.5172
+fiveYearAvgDividendYield§3.93
+beta§1.744
+priceToSalesTrailing12Months§0.3295316
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.08
+pegRatio§0.6
+lastDividendValue§0.075
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Acco Brands Corporation
+longName§ACCO Brands Corporation
+firstTradeDateEpochUtc§1124285400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§082da5d4-8206-395d-87d5-2857a9a85cbc
+messageBoardId§finmb_4184604
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§6.0
+targetMeanPrice§9.63
+targetMedianPrice§9.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.82
+grossMargins§0.31113002
+ebitdaMargins§0.11434
+trailingPegRatio§0.4678

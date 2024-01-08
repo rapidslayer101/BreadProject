@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 04:36:01.907277
+address1§75 King William Street
+city§London
+zip§EC4N 7BE
+country§United Kingdom
+phone§44 20 3971 4750
+website§https://www.cornerstonefs.com
+industry§Information Technology Services
+industryKey§information-technology-services
+industryDisp§Information Technology Services
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Cornerstone FS plc provides international payment, currency risk management, and electronic account services using its proprietary cloud-based multicurrency payments platform. The company offers foreign currency exchange and payment services to individuals and businesses. It also offers various lending options, such as import and export, invoice, bridging, asset, property, equity, grant funding, as well as unsecured lending services. The company was founded in 2010 and is based in London, the United Kingdom.
+fullTimeEmployees§34
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James  Hickman', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 183031, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judy Amanda Happe A.C.A.', 'age': 42, 'title': 'CFO & Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 178406, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Timothy Milton Newton', 'age': 60, 'title': 'Chief Technology Officer, Chief Information Officer & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 117154, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chen  Xu', 'title': 'Head of Asia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Thi-Hanh  Jelf', 'age': 50, 'title': 'Company Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.726
+priceToSalesTrailing12Months§2.4276485
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CORNERSTONE FS PLC ORD 1P
+longName§Cornerstone FS plc
+firstTradeDateEpochUtc§1617692400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c65e6149-77ad-3506-a651-867465140d74
+messageBoardId§finmb_695553251
+targetHighPrice§50.0
+targetLowPrice§50.0
+targetMeanPrice§50.0
+targetMedianPrice§50.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.797
+grossMargins§0.60716
+ebitdaMargins§-0.40601003
+trailingPegRatio§None

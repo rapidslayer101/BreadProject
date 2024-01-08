@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 03:29:02.638747
+address1§533 Maryville University Drive
+city§Saint Louis
+state§MO
+zip§63141
+country§United States
+phone§314 985 2000
+website§https://www.energizerholdings.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§Energizer Holdings, Inc., together with its subsidiaries, manufactures, markets, and distributes household batteries, specialty batteries, and lighting products worldwide. It offers lithium, alkaline, carbon zinc, nickel metal hydride, zinc air, and silver oxide batteries under the Energizer, Eveready, and Rayovac brands; primary, rechargeable, specialty, and hearing aid batteries; and handheld, headlights, lanterns, and area lights, as well as flashlights under the Hard Case, Dolphin, and WeatherReady brands. The company licenses the Energizer, Rayovac, and Eveready brands to companies developing consumer solutions in solar, automotive batteries, portable power for critical devices, generators, power tools, household light bulbs, and other lighting products. In addition, it designs and markets automotive fragrance and appearance products, including protectants, wipes, tire and wheel care products, glass cleaners, leather care products, air fresheners, and washes to clean, shine, refresh, and protect interior and exterior automobile surfaces under the brand names of Armor All, Nu Finish, Refresh Your Car!, LEXOL, Eagle One, California Scents, Driven, Bahama & Co, Carnu, Grand Prix, Kit, and Tempo; STP branded fuel and oil additives, functional fluids, and other performance chemical products; and do-it-yourself automotive air conditioning recharge products under the A/C PRO brand name, as well as other refrigerant and recharge kits, sealants, and accessories. The company sells its products through direct sales force, distributors, and wholesalers; and various retail and business-to-business channels, including mass merchandisers, club, electronics, food, home improvement, dollar store, auto, drug, hardware, e-commerce, convenience, sporting goods, hobby/craft, office, industrial, medical, and catalog. Energizer Holdings, Inc. was incorporated in 2015 and is headquartered in Saint Louis, Missouri.
+fullTimeEmployees§5080
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark S. LaVigne', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 2334590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Drabik', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1146605, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan K. Drath', 'age': 53, 'title': 'Special Advisor', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 692538, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robin W. Vauth', 'age': 57, 'title': 'Executive Vice President of International', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 711058, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Lampman', 'age': 58, 'title': 'Executive Vice President of North America & Global Business Units', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 820362, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sara B. Hampton', 'age': 47, 'title': 'Chief Accounting Officer, VP & Global Controller', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terence  Calloway', 'title': 'Executive VP of Global Product Supply, CTO & VP of Research and Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  McCarthy', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin J. Angelette', 'title': 'Chief Administrative Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kathryn A. Dugan', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.039300002
+exDividendDate§1701129600
+payoutRatio§0.6186
+fiveYearAvgDividendYield§3.19
+beta§1.079
+priceToSalesTrailing12Months§0.7405742
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.44
+pegRatio§1.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§Energizer Holdings, Inc.
+longName§Energizer Holdings, Inc.
+firstTradeDateEpochUtc§1434115800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7d19d942-5d86-3233-8b3e-8602d17cd9f0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§31.0
+targetMeanPrice§36.0
+targetMedianPrice§36.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§1.071
+grossMargins§0.38987
+ebitdaMargins§0.19134001
+trailingPegRatio§None

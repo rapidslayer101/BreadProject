@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 06:44:35.268851
+address1§One Lagoon Drive
+address2§4th Floor
+city§Redwood City
+state§CA
+zip§94065-1562
+country§United States
+phone§650 598 6000
+fax§650 598 6900
+website§https://www.equinix.com
+industry§REIT—Specialty
+sector§Real Estate
+longBusinessSummary§Equinix (Nasdaq: EQIX) is the world's digital infrastructure company. Digital leaders harness Equinix's trusted platform to bring together and interconnect foundational infrastructure at software speed. Equinix enables organizations to access all the right places, partners and possibilities to scale with agility, speed the launch of digital services, deliver world-class experiences and multiply their value, while supporting their sustainability goals.
+fullTimeEmployees§13046
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter F. Van Camp', 'age': 67, 'title': 'Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles J. Meyers', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1136972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith D. Taylor', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 714518, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brandi Galvin Morandi', 'age': 50, 'title': 'Chief Legal & HR Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 637003, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Crenshaw', 'age': 58, 'title': 'Executive VP & GM of Digital Services', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 513447, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raouf F. Abdel', 'age': 55, 'title': 'Executive Vice President of Global Operations', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Miller', 'age': 51, 'title': 'Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Dustzadeh', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Milind  Wagle', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katrina  Rymill', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§17.04
+dividendYield§0.0216
+exDividendDate§1699920000
+payoutRatio§1.4349
+fiveYearAvgDividendYield§1.68
+beta§0.612
+priceToSalesTrailing12Months§9.882279
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.89
+pegRatio§3.27
+exchange§NMS
+quoteType§EQUITY
+shortName§Equinix, Inc.
+longName§Equinix, Inc.
+firstTradeDateEpochUtc§966000600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fe2fc2a9-fbf8-3b74-aa49-1c336ad07846
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§960.0
+targetLowPrice§720.0
+targetMeanPrice§866.52
+targetMedianPrice§871.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§1.789
+earningsGrowth§0.274
+grossMargins§0.45171002
+ebitdaMargins§0.36976
+trailingPegRatio§3.5278

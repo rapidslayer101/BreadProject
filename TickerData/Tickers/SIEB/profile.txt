@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 08:47:12.585097
+address1§653 Collins Avenue
+city§Miami Beach
+state§FL
+zip§33139
+country§United States
+phone§212 644 2400
+fax§212 486 2784
+website§https://www.siebert.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Siebert Financial Corp., through its subsidiaries, engages in the retail discount brokerage and investment advisory businesses in the United States and Internationally. It offers discount brokerage services, including self-directed trading, wealth management, financial advice, market making and fixed income investment, stock borrow, equity compensation plans, securities lending, equity stock plan, and market making services; independent retail execution services; and retail customer services. The company also offers self-directed retirement accounts, as well as lends customers a portion of the market value of marginable securities held in the customer's account. In addition, the company provides data technology platform that offers various services, such as email and messaging, market data systems and third party trading systems, business productivity tools, and customer relationship management systems. Further, it offers a Robo-Advisor platform that provides clients with an automated wealth management solution; and various insurance products, such as fixed annuities, personal insurance, property and casualty insurance, natural disaster insurance, and life and disability. The company has 12 branch offices in the United States. Siebert Financial Corp. was incorporated in 1934 and is headquartered in Miami Beach, Florida. Siebert Financial Corp. was formerly a subsidiary of Kennedy Cabot Acquisition, LLC.
+fullTimeEmployees§117
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John J. Gebbia', 'age': 84, 'title': 'CEO & Chairman', 'yearBorn': 1939, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Henry Reich', 'age': 67, 'title': 'Executive VP, COO, CFO, Secretary & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1476144000
+payoutRatio§0.0
+beta§0.222
+priceToSalesTrailing12Months§1.1166644
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Siebert Financial Corp.
+longName§Siebert Financial Corp.
+firstTradeDateEpochUtc§322237800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5a2988cd-de34-3d5b-abef-0e00aeb78941
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.081
+earningsGrowth§1.143
+grossMargins§0.91342
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 14:45:02.686883
+address1§845 Berkshire Boulevard
+address2§Suite 200
+city§Wyomissing
+state§PA
+zip§19610-1247
+country§United States
+phone§610 401 2900
+website§https://www.glpropinc.com
+industry§REIT—Specialty
+sector§Real Estate
+longBusinessSummary§GLPI is engaged in the business of acquiring, financing, and owning real estate property to be leased to gaming operators in triple-net lease arrangements, pursuant to which the tenant is responsible for all facility maintenance, insurance required in connection with the leased properties and the business conducted on the leased properties, taxes levied on or with respect to the leased properties and all utilities and other services necessary or appropriate for the leased properties and the business conducted on the leased properties.
+fullTimeEmployees§17
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter M. Carlino', 'age': 77, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 5827482, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Desiree A. Burke', 'age': 58, 'title': 'CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1107406, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon John Moore', 'age': 48, 'title': 'COO, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1283563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew J. Demchyk CFA', 'age': 41, 'title': 'Senior VP & Chief Investment Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1081063, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven L. Ladany', 'age': 42, 'title': 'Senior VP & Chief Development Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1002781, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.9
+dividendYield§0.0602
+exDividendDate§1701907200
+payoutRatio§1.0493
+fiveYearAvgDividendYield§6.23
+beta§0.98
+priceToSalesTrailing12Months§9.136672
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.83
+pegRatio§6.37
+exchange§NMS
+quoteType§EQUITY
+shortName§Gaming and Leisure Properties, 
+longName§Gaming and Leisure Properties, Inc.
+firstTradeDateEpochUtc§1381757400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d6d85810-e9a0-336c-8a72-9e64b455eee5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§59.0
+targetLowPrice§47.0
+targetMeanPrice§52.83
+targetMedianPrice§53.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§20.315
+earningsGrowth§-0.185
+grossMargins§0.96432
+ebitdaMargins§0.93948996
+trailingPegRatio§None

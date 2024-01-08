@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 03:35:34.981206
+address1§103 Mount Street
+city§London
+zip§W1K 2TJ
+country§United Kingdom
+phone§44 20 7808 0988
+fax§44 20 7930 7578
+website§https://www.antofagasta.co.uk
+industry§Copper
+industryKey§copper
+industryDisp§Copper
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Antofagasta plc operates as a mining company. It operates through Los Pelambres, Centinela, Antucoya, Zaldívar, Exploration and Evaluation, and Transport Division segments. The company holds a 60% interest in the Los Pelambres mine, a 70% interest in the Centinela mine, a 70% interest in the Antucoya mine, and a 50% interest in the Zaldívar mine located in Chile. Its mines produce copper cathodes and copper concentrates; and molybdenum, gold, and silver by-products. The company also has exploration projects in various countries. In addition, it provides rail and road cargo services to mining customers in northern Chile. The company was founded in 1888 and is headquartered in London, the United Kingdom. Antofagasta plc operates as a subsidiary of Metalinvest Anstalt.
+fullTimeEmployees§7494
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ivan  Arriagada Herrera', 'age': 59, 'title': 'Chief Executive Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2085036, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mauricio  Ortiz', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Octavio Araneda Oses', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patricio  Enei', 'title': 'Vice President of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gonzalo  Sanchez', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Georgeanne  Barcelo', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rene  Aguilar', 'title': 'Vice President of Corporate Affairs & Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nelson  Pizarro', 'age': 82, 'title': 'Chief Executive Officer of Corporation Nacional Del Cobre De Chile', 'yearBorn': 1941, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julian Thomas Roddan Anderson', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Diego Cristobal Hernandez Cabrera', 'age': 74, 'title': 'Adviser to the Board', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 271141, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0308
+exDividendDate§1693440000
+payoutRatio§0.3693
+fiveYearAvgDividendYield§3.97
+beta§1.133
+priceToSalesTrailing12Months§2.6603072
+currency§GBp
+forwardEps§0.59
+pegRatio§-3.4
+lastDividendValue§9.3645
+lastDividendDate§1693440000
+exchange§LSE
+quoteType§EQUITY
+shortName§ANTOFAGASTA PLC ORD 5P
+longName§Antofagasta plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4bcb2c55-94ae-3586-bd1a-d1dd80ae39ad
+messageBoardId§finmb_877330
+targetHighPrice§18.91
+targetLowPrice§9.95
+targetMeanPrice§14.43
+targetMedianPrice§13.93
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§17
+quickRatio§2.181
+earningsGrowth§0.269
+grossMargins§0.41848
+ebitdaMargins§0.46789002
+trailingPegRatio§None

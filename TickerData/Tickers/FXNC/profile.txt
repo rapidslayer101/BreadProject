@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 14:44:56.383719
+address1§112 West King Street
+city§Strasburg
+state§VA
+zip§22657
+country§United States
+phone§540 465 9121
+website§https://www.fbvirginia.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First National Corporation operates as the bank holding company for First Bank that provides various commercial banking services to small and medium-sized businesses, individuals, estates, local governmental entities, and non-profit organizations in Virginia. The company's deposit products include checking, savings, money market, and individual retirement accounts, as well as certificates of deposit and treasury management solutions. Its loan products comprise construction loans, including residential, land acquisition, and development loans; 1-4 family residential real estate loans; and commercial real estate loans that are secured by commercial real estate, including multi-family residential buildings, office and retail buildings, hotels, industrial buildings, and religious facilities. The company's loan products also include commercial and industrial loans that are secured by business assets, such as accounts receivable, equipment, and inventory; home equity loans; and secured and unsecured consumer loans, such as lines of credit, automobile loans, deposit account loans, and installment and demand loans. In addition, it provides wealth management services, including estate planning, investment management of assets, trustee under an agreement, trustee under a will, and estate settlement. Further, the company offers title insurance and investment services; and holds other real estate owned and office sites, as well as provides internet and mobile banking, remote deposit capture, and other traditional banking services. First National Corporation was founded in 1907 and is headquartered in Strasburg, Virginia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott C. Harvard', 'age': 68, 'title': 'CEO & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 649520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald F. Smith Jr.', 'age': 61, 'title': 'Independent Vice Chair of the Board & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 27800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis A. Dysart', 'age': 51, 'title': 'President & COO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 402029, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. M. Shane Bell', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 366095, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Todd Ross', 'title': 'Market President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul K. Martin', 'title': 'Senior VP and Market President of Staunton, Waynesboro, Augusta, Harrisonburg & Rockingham County', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Paciocco', 'title': 'Senior VP & Regional Executive for Richmond', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0297
+exDividendDate§1700611200
+payoutRatio§0.24280001
+fiveYearAvgDividendYield§2.51
+beta§0.562
+priceToSalesTrailing12Months§2.2602513
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.77
+exchange§NCM
+quoteType§EQUITY
+shortName§First National Corporation
+longName§First National Corporation
+firstTradeDateEpochUtc§916324200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d8766a83-0bb8-3b07-ae8a-ef6641c5fefc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§19.0
+targetMeanPrice§19.0
+targetMedianPrice§19.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+earningsGrowth§-0.297
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

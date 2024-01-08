@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 00:47:38.697878
+address1§6100 4th Avenue South
+address2§Suite 200
+city§Seattle
+state§WA
+zip§98108
+country§United States
+phone§855 727 9079
+fax§866 405 4536
+website§https://www.trupanion.com
+industry§Insurance—Specialty
+sector§Financial Services
+longBusinessSummary§Trupanion, Inc., together with its subsidiaries, provides medical insurance for cats and dogs on a monthly subscription basis in the United States, Canada, Puerto Rico, and Australia. The company operates in two segments, Subscription Business and Other Business. It serves pet owners and veterinarians. The company was formerly known as Vetinsurance International, Inc. changed its name to Trupanion, Inc. in 2013. The company was founded in 2000 and is headquartered in Seattle, Washington.
+fullTimeEmployees§1187
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Darryl Graham Andrew Rawlings', 'age': 54, 'title': 'Founder, CEO & Chair of the Board', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 300000, 'exercisedValue': 3105640, 'unexercisedValue': 758283}, {'maxAge': 1, 'name': 'Ms. Margaret Rosemary Maria Tooth', 'age': 44, 'title': 'President', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 300000, 'exercisedValue': 0, 'unexercisedValue': 2552498}, {'maxAge': 1, 'name': 'Ms. Emily  Dreyer', 'age': 35, 'title': 'Senior Vice President of Channel Growth', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 261868, 'exercisedValue': 0, 'unexercisedValue': 333513}, {'maxAge': 1, 'name': 'Mr. Fawwad  Qureshi', 'title': 'Chief Finance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brenna  McGibney', 'age': 54, 'title': 'Chief Administrative Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Bainbridge', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steve  Weinrauch BVMS, MRCVS', 'age': 48, 'title': 'Executive Vice President of North America & Veterinary Strategy', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bradley  Lamb', 'title': 'Head of Conversion', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Gallagher', 'age': 36, 'title': 'Executive Vice President of Global Support Services', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn  McWashington', 'title': 'Head of Corporate Group Benefits', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.716
+priceToSalesTrailing12Months§1.1042023
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.41
+pegRatio§0.68
+exchange§NGM
+quoteType§EQUITY
+shortName§Trupanion, Inc.
+longName§Trupanion, Inc.
+firstTradeDateEpochUtc§1405690200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c8510522-6963-3a68-ba3f-da9dc974cd51
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§25.0
+targetMeanPrice§35.86
+targetMedianPrice§35.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§1.565
+grossMargins§0.05049
+ebitdaMargins§-0.0315
+trailingPegRatio§None

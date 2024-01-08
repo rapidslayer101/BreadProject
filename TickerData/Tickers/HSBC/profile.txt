@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 11:30:15.075323
+address1§8 Canada Square
+city§London
+zip§E14 5HQ
+country§United Kingdom
+phone§44 20 7991 8888
+fax§44 20 7992 4880
+website§https://www.hsbc.com
+industry§Banks—Diversified
+sector§Financial Services
+longBusinessSummary§HSBC Holdings plc provides banking and financial services worldwide. The company operates through Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets segments. The Wealth and Personal Banking segment offers retail banking and wealth products, including current and savings accounts, mortgages and personal loans, credit and debit cards, and local and international payment services; and wealth management services comprising insurance and investment products, global asset management services, investment management, and private wealth solutions. This segment serves personal banking and high net worth individuals. The Commercial Banking segment provides credit and lending, treasury management, payment, cash management, commercial insurance, and investment services; commercial cards; international trade and receivables finance services; foreign exchange products; capital raising services on debt and equity markets; and advisory services. It serves small and medium sized enterprises, mid-market enterprises, and corporates. The Global Banking and Markets segment offers financing, advisory, and transaction services; and credit, rates, foreign exchange, equities, money markets, and securities services; and engages in principal investment activities. It serves government, corporate and institutional clients, and private investors. HSBC Holdings plc was founded in 1865 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§219199
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Noel Paul Quinn', 'age': 61, 'title': 'Group CEO, Member of the Group Management Board & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 7077089, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Georges Bahjat  Elhedery', 'age': 49, 'title': 'Group CFO, Member of the Group Management Board & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Manveen Pam Kaur', 'age': 59, 'title': 'Group Chief Risk & Compliance Officer and Member of the Group Management Board', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Colin Moss', 'age': 56, 'title': 'CEO of Middle East North Africa & Turkey (MENAT) Region and Member of Group Management Board', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colin William Bell', 'age': 55, 'title': 'CEO of HSBC Bank plc & HSBC Europe and Member of the Group Management Board', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John David Stuart', 'age': 60, 'title': 'CEO of HSBC UK Bank plc & Member of the Group Management Board', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elaine  Arden', 'age': 54, 'title': 'Group Chief Human Resources Officer & Member of the Group Management Board', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory L. Guyett', 'age': 59, 'title': 'Chief Executive of Global Banking & Markets and Member of the Group Management Board', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Barry  O'Byrne", 'age': 47, 'title': 'CEO of Global Commercial Banking & Member of the Group Management Board', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Calvert-Davies', 'age': 54, 'title': 'Group Head of Internal Audit & Member of the Group Management Board', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.65
+dividendYield§0.065
+exDividendDate§1699488000
+payoutRatio§0.3116
+fiveYearAvgDividendYield§6.08
+beta§0.569
+priceToSalesTrailing12Months§2.3280869
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§HSBC Holdings, plc.
+longName§HSBC Holdings plc
+firstTradeDateEpochUtc§932131800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8f8f7fc-ceff-3d4c-a6e2-e4f9670b27aa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§46.36
+targetLowPrice§46.36
+targetMeanPrice§46.36
+targetMedianPrice§46.36
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+earningsGrowth§1.896
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§0.6413

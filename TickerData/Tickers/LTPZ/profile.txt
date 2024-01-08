@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 05:31:09.009254
+longBusinessSummary§The fund invests at least 80% of its total assets (exclusive of collateral held from securities lending) in the component securities of the ICE BofA 15+ Year U.S. Inflation-Linked Treasury Index (the "underlying index"). The underlying index is an unmanaged index comprised of Treasury Inflation-Protected Securities ("TIPS") with a maturity of at least 15 years.
+maxAge§86400
+priceHint§2
+yield§0.0372
+totalAssets§763686464
+navPrice§55.57
+currency§USD
+category§Inflation-Protected Bond
+ytdReturn§-0.0187015
+beta3Year§2.07
+fundFamily§PIMCO
+fundInceptionDate§1251936000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.1016721
+fiveYearAverageReturn§0.0107625
+exchange§PCX
+quoteType§ETF
+shortName§Pimco 15  Year U.S. TIPS Index 
+longName§PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund
+firstTradeDateEpochUtc§1252416600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6c7379a6-7627-37ac-a8b4-5a65295265cd
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

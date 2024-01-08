@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 05:30:05.504544
+address1§100 Grainger Parkway
+city§Lake Forest
+state§IL
+zip§60045-5201
+country§United States
+phone§847 535 1000
+website§https://www.grainger.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§W.W. Grainger, Inc. distributes maintenance, repair, and operating products and services in the United States, Japan, Canada, the United Kingdom, and internationally. The company operates through two segments, High-Touch Solutions N.A. and Endless Assortment. The company provides safety and security supplies, material handling and storage equipment, pumps and plumbing equipment, cleaning and maintenance supplies, and metalworking and hand tools. It also offers technical support and inventory management services. The company serves businesses, corporations, government entities, and other institutions through sales and service representatives, and electronic and ecommerce channels. W.W. Grainger, Inc. was founded in 1927 and is headquartered in Lake Forest, Illinois.
+fullTimeEmployees§23000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald G. Macpherson', 'age': 55, 'title': 'Chairman & CEO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 4233368, 'exercisedValue': 8238141, 'unexercisedValue': 39897696}, {'maxAge': 1, 'name': 'Ms. Deidra Cheeks Merriwether', 'age': 54, 'title': 'CFO & Senior VP', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1833969, 'exercisedValue': 0, 'unexercisedValue': 4585075}, {'maxAge': 1, 'name': 'Ms. Paige K. Robbins', 'age': 54, 'title': 'Senior VP & President of Grainger Business Unit', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1838739, 'exercisedValue': 592224, 'unexercisedValue': 5601868}, {'maxAge': 1, 'name': 'Ms. Laurie R. Thomson', 'age': 48, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonny  LeRoy', 'title': 'Senior VP &  CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle  Bland', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nancy L. Berardinelli-Krantz', 'age': 45, 'title': 'Senior VP & Chief Legal Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Fortin', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Masaya  Suzuki', 'age': 48, 'title': 'Managing Director of Endless Assortment Business', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry  Greenhouse', 'age': 50, 'title': 'Senior Vice President of Merchandising & Supplier Management', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§14.88
+dividendYield§0.0182
+exDividendDate§1699574400
+payoutRatio§0.1997
+fiveYearAvgDividendYield§1.48
+beta§1.11
+priceToSalesTrailing12Months§2.49561
+currency§USD
+dateShortInterest§1702598400
+forwardEps§38.62
+pegRatio§0.8
+exchange§NYQ
+quoteType§EQUITY
+shortName§W.W. Grainger, Inc.
+longName§W.W. Grainger, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§db5dd440-4680-35e0-9cae-742b0bdd82ce
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§930.0
+targetLowPrice§740.0
+targetMeanPrice§805.0
+targetMedianPrice§800.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§1.604
+earningsGrowth§0.14
+grossMargins§0.39543998
+ebitdaMargins§0.17079
+trailingPegRatio§2.1739

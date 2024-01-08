@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 02:28:11.887714
+address1§Salesforce Tower
+address2§3rd Floor 415 Mission Street
+city§San Francisco
+state§CA
+zip§94105
+country§United States
+phone§415 901 7000
+fax§415 901 7040
+website§https://www.salesforce.com
+industry§Software—Application
+industrySymbol§h885
+sector§Technology
+longBusinessSummary§Salesforce, Inc. provides Customer Relationship Management (CRM) technology that brings companies and customers together worldwide. The company's service includes sales to store data, monitor leads and progress, forecast opportunities, gain insights through analytics and relationship intelligence, and deliver quotes, contracts, and invoices; and service that enables companies to deliver trusted and highly personalized customer service and support at scale. In addition, its platform offering comprise a flexible platform that enables companies of various sizes, locations, and industries to build business apps with drag-and-drop tools; online learning platform that allows anyone to learn in-demand Salesforce skills; and Slack, a system of engagement. The company's marketing services enables companies to plan, personalize, and optimize customer marketing journey and real time personalization and optimization; and commerce services, which empowers shopping experience across various points of commerce, such as mobile, web, social, and stores and provides click-to-code tools that offers customers to build and deploy solutions. Further, its analytics offering includes Tableau, an end-to-end analytics solution for range of enterprise use cases and intelligent analytics with advanced AI models, spot trends, predict outcomes, timely recommendations, and take action from any device; and integration service including MuleSoft, an easy to connect data from any system to deliver connected experiences. Additionally, the company provides genie customer data cloud, a hyperscale real-time data platform that powers the customer 360 platform; vertical services to meet the needs of customers in industries, such as financial services, healthcare and life sciences, manufacturing and others; and offers salesforce easy for small and medium-sized businesses. Salesforce, Inc. was incorporated in 1999 and is headquartered in San Francisco, California.
+fullTimeEmployees§70843
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc R. Benioff', 'age': 58, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 5268730, 'exercisedValue': 43678248, 'unexercisedValue': 31583970}, {'maxAge': 1, 'name': 'Mr. Brian  Millham', 'age': 53, 'title': 'President & COO', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 4066840, 'exercisedValue': 0, 'unexercisedValue': 1024332}, {'maxAge': 1, 'name': 'Ms. Amy E. Weaver', 'age': 55, 'title': 'President & CFO', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1707317, 'exercisedValue': 0, 'unexercisedValue': 1506672}, {'maxAge': 1, 'name': 'Mr. Srinivas  Tallapragada', 'age': 53, 'title': 'President & Chief Engineering Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1705000, 'exercisedValue': 6561837, 'unexercisedValue': 9159859}, {'maxAge': 1, 'name': 'Mr. Parker  Harris', 'age': 56, 'title': 'Co-Founder, CTO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1700000, 'exercisedValue': 16783948, 'unexercisedValue': 30553536}, {'maxAge': 1, 'name': 'Mr. Miguel  Milano', 'title': 'President & Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Schmaier', 'title': 'President & Chief Product Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ariel  Kelman', 'title': 'President & Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sabastian V. Niles', 'title': 'President & Chief Legal Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sundeep G. Reddy', 'age': 49, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.281
+priceToSalesTrailing12Months§7.1592197
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.56
+pegRatio§1.15
+exchange§NYQ
+quoteType§EQUITY
+shortName§Salesforce, Inc.
+longName§Salesforce, Inc.
+firstTradeDateEpochUtc§1087997400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§01d3fcca-fdd3-37b7-b601-1bfd3a695ce7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§369.0
+targetLowPrice§157.33
+targetMeanPrice§275.78
+targetMedianPrice§277.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§43
+quickRatio§0.862
+earningsGrowth§4.952
+grossMargins§0.74987
+ebitdaMargins§0.24962999
+trailingPegRatio§1.3245

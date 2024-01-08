@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 11:44:55.283506
+address1§26 Landsdowne Street
+city§Cambridge
+state§MA
+zip§02139
+country§United States
+phone§617 651 8851
+website§https://www.fulcrumtx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Fulcrum Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing products for improving the lives of patients with genetically defined diseases in the areas of high unmet medical need in the United States. Its product candidates are losmapimod, a small molecule for the treatment of facioscapulohumeral muscular dystrophy is under phase III clinical trial; and FTX-6058, an investigational oral fetal hemoglobin inducer for the treatment of sickle cell disease and other hemoglobinopathies, including beta-thalassemia is under phase I clinical trial. The company is also discovering drug targets for the treatments of rare neuromuscular, muscular, central nervous system, and hematologic disorders, as well as cardiomyopathies and pulmonary diseases. Fulcrum Therapeutics, Inc. has collaboration and license agreement with Acceleron Pharma Inc. to identify biological targets to modulate specific pathways associated with a targeted indication within the pulmonary disease space; and MyoKardia, Inc. to discover, develop, and commercialize novel targeted therapies for the treatment of genetic cardiomyopathies. Fulcrum Therapeutics, Inc. was Incorporated in 2015 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§89
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander C. Sapir', 'age': 56, 'title': 'CEO, President & Director', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bradley E. Bernstein M.D., Ph.D.', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael R. Green', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rudolf  Jaenisch M.D., Ph.D.', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Jeannie T. Lee M.D., Ph.D.', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Danny  Reinberg', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan A. Musso C.M.A., CPA', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  Tourangeau', 'title': 'Controller & Principal Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeffrey W. Jacobs Ph.D.', 'age': 60, 'title': 'Chief Scientific Officer', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis G. Oltmans J.D.', 'age': 60, 'title': 'Senior VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2020, 'totalPay': 83977, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1609372800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.24
+priceToSalesTrailing12Months§177.74883
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.8
+pegRatio§-0.71
+exchange§NGM
+quoteType§EQUITY
+shortName§Fulcrum Therapeutics, Inc.
+longName§Fulcrum Therapeutics, Inc.
+firstTradeDateEpochUtc§1563456600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8324037-ced6-3388-ab03-bdea45be2e3b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§4.5
+targetMeanPrice§10.21
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§18.385
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

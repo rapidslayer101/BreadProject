@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 13:43:54.706768
+address1§5501 South Broadband Lane
+city§Sioux Falls
+state§SD
+zip§57108
+country§United States
+phone§877 497 7497
+website§https://www.pathwardfinancial.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Pathward Financial, Inc. operates as the bank holding company for Pathward, National Association that provides various banking products and services in the United States. The company operates through three segments: Consumer, Commercial, and Corporate Services/Other. It offers demand deposit accounts, savings accounts, and money market savings accounts. The company also provides commercial finance product comprising term lending, asset-based lending, factoring, lease financing, insurance premium finance, government guaranteed lending, and other commercial finance products; consumer credit products; other consumer financing services; tax services, which includes short-term refund advance loans and short-term electronic return originator advance loans; and warehouse financing services. In addition, it issues prepaid cards; and offers payment solutions, such as acceptance, processing, and settlement of credit card and debit card payments. The company was formerly known as Meta Financial Group, Inc. and changed its name to Pathward Financial, Inc. in July 2022. Pathward Financial, Inc. was founded in 1954 and is based in Sioux Falls, South Dakota.
+fullTimeEmployees§1199
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brett L. Pharr', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1254452, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony M. Sharett', 'age': 45, 'title': 'President', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 919530, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles C. Ingram', 'age': 52, 'title': 'Executive VP and Chief Technology & Product Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 665775, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nadia A. Dombrowski', 'age': 60, 'title': 'Executive VP and Chief Legal & Administrative Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 629851, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer W. Warren', 'age': 40, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Darby  Schoenfeld CPA', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Lister', 'age': 69, 'title': 'Head of Tax Services Division', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.004
+exDividendDate§1702252800
+payoutRatio§0.0334
+fiveYearAvgDividendYield§0.57
+beta§0.781
+priceToSalesTrailing12Months§2.0422125
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.63
+exchange§NMS
+quoteType§EQUITY
+shortName§Pathward Financial, Inc.
+longName§Pathward Financial, Inc.
+firstTradeDateEpochUtc§748531800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§df657148-4472-3b82-b86d-dd749fc8c2c8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§69.0
+targetLowPrice§57.0
+targetMeanPrice§63.0
+targetMedianPrice§63.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+earningsGrowth§0.694
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

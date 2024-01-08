@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 01:46:06.717813
+address1§Uppsalalaan 17
+address2§3rd & 4th floor
+city§Utrecht
+zip§3584 CT
+country§Netherlands
+phone§31 30 253 8800
+website§https://www.merus.nl
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Merus N.V., a clinical-stage immuno-oncology company, engages in the development of antibody therapeutics in the Netherlands. Its bispecific antibody candidate pipeline includes Zenocutuzumab (MCLA-128), which is in a phase 2 clinical trials for the treatment of patients with metastatic breast cancer and castration-resistant prostate cancer, as well as in Phase 1/2 clinical trials for the treatment of solid tumors that harbor Neuregulin 1. The company is also developing MCLA-158, which is in a phase I clinical trial for the treatment of solid tumors; MCLA-145, which is in phase 1 clinical trials for the treatment of solid tumors; MCLA-129, which is in phase 1/2 clinical trials for the treatment of patients with advanced non-small cell lung cancer and other solid tumors; and ONO-4685 that is Phase 1 clinical trial to treat relapsed/refractory T cell lymphoma. In addition, it has collaboration agreement with Betta Pharmaceuticals Co. Ltd for the research and development of stage bispecific antibody candidates include MCLA-129; and collaboration with Incyte Corporation for the development of MCLA-145. The company was incorporated in 2003 and is headquartered in Utrecht, the Netherlands.
+fullTimeEmployees§164
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Sven Ante Lundberg M.D.', 'age': 60, 'title': 'CEO, President & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 953062, 'exercisedValue': 0, 'unexercisedValue': 453280}, {'maxAge': 1, 'name': 'Mr. Gregory D. Perry', 'age': 63, 'title': 'CFO & Principal Financial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 63760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter B. Silverman J.D.', 'age': 45, 'title': 'EVP, Company Secretary, COO, General Counsel, Chief Intellectual Property Officer & Head of US Legal', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 601187, 'exercisedValue': 947400, 'unexercisedValue': 129054}, {'maxAge': 1, 'name': 'Dr. Hui  Liu Ph.D.', 'age': 56, 'title': 'Chief Business Officer, Executive VP & Head of Merus U.S.', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 597700, 'exercisedValue': 0, 'unexercisedValue': 1032039}, {'maxAge': 1, 'name': 'Dr. Andrew  Joe M.D.', 'age': 57, 'title': 'Chief Medical Officer & Senior VP', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 692739, 'exercisedValue': 0, 'unexercisedValue': 109897}, {'maxAge': 1, 'name': 'Dr. Hennie  Hoogenboom', 'title': 'Co-Founder and Scientific Advisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Harry  Shuman', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cornelis Adriaan de Kruif Ph.D.', 'age': 58, 'title': 'CTO & Executive VP', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 354876, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Cecilia Anna Wilhelmina Geuijen Ph.D.', 'title': 'Chief Scientific Officer & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jillian  Connell', 'title': 'VP of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.947
+priceToSalesTrailing12Months§36.04982
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.06
+exchange§NGM
+quoteType§EQUITY
+shortName§Merus N.V.
+longName§Merus N.V.
+firstTradeDateEpochUtc§1463664600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§42321671-9233-3f73-a2ee-487472589127
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.0
+targetLowPrice§38.0
+targetMeanPrice§44.09
+targetMedianPrice§44.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§11
+quickRatio§6.113
+grossMargins§-2.26267
+ebitdaMargins§0.0
+trailingPegRatio§None

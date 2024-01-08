@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 14:35:49.146929
+address1§4 Matthew Parker Street
+address2§5th Floor
+city§London
+zip§SW1H 9NP
+country§United Kingdom
+phone§44 20 7233 3112
+website§https://www.bpmarsh.co.uk
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§B.P. Marsh & Partners PLC engages in the provision of consulting services, making and trading in investments, and financial services businesses in the United Kingdom and internationally. The company primarily invests in financial services intermediary businesses, including insurance intermediaries, financial advisors, wealth and fund managers, and specialist advisory and consultancy firms. The company was founded in 1990 and is based in London, the United Kingdom.
+fullTimeEmployees§16
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian P. Marsh O.B.E.', 'age': 82, 'title': 'Executive Chairman', 'yearBorn': 1941, 'fiscalYear': 2023, 'totalPay': 275675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alice Hannah Daisy Foulk B.A., BA (Hons)', 'age': 36, 'title': 'MD & Director', 'yearBorn': 1987, 'fiscalYear': 2023, 'totalPay': 376276, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan S. Newman A.C.M.A., ACMA, CGMA, MCSI', 'age': 48, 'title': 'Group Finance Director & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 453520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel John Topping A.C.I.S., ACIS, BAHONS, MCSI', 'age': 39, 'title': 'Chief Investment Officer & Director', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 484465, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Sinead C. O'Haire FCIS, L.L.B.", 'age': 38, 'title': 'Chief Legal Officer & Group Company Secretary', 'yearBorn': 1985, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophia  Gooddy B.A.', 'title': 'Investment Assistant & Associate', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0061000003
+exDividendDate§1698278400
+payoutRatio§0.041100003
+fiveYearAvgDividendYield§1.17
+beta§0.693
+priceToSalesTrailing12Months§5.2671657
+currency§GBp
+forwardEps§51.31
+lastDividendValue§2.78
+lastDividendDate§1698278400
+exchange§LSE
+quoteType§EQUITY
+shortName§B.P. MARSH & PARTNERS PLC ORD 1
+longName§B.P. Marsh & Partners PLC
+firstTradeDateEpochUtc§1138867200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§08999efc-1ce8-3e49-b495-b67f2cd3f6a8
+messageBoardId§finmb_10851401
+targetHighPrice§560.0
+targetLowPrice§558.0
+targetMeanPrice§559.0
+targetMedianPrice§559.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§44.863
+earningsGrowth§0.106
+grossMargins§0.8237
+ebitdaMargins§0.82451
+trailingPegRatio§None

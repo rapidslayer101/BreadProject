@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 19:40:02.323943
+address1§Page House
+address2§Bourne Business Park 200 Dashwood Lang Road
+city§Addlestone
+zip§KT15 2NX
+country§United Kingdom
+website§https://www.page.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§PageGroup plc, together with its subsidiaries, provides recruitment consultancy and other ancillary services in the United Kingdom, rest of Europe, the Middle East, Africa, the Asia Pacific, and the Americas. It offers executive search services, such as search, selection, and talent management solutions for organizations on a permanent and interim basis under the Page Executive brand; recruitment services for qualified professional on permanent, temporary, and contract or interim basis under the Michael Page brand; recruitment services to organizations requiring permanent employees and temporary or contract staff at technical and administrative support, professional clerical, and junior management levels under the Page Personnel brand; and flexible recruitment outsourcing services under the Page Outsourcing brand. The company also provides skills and talent assessment, and succession planning development services under the Page Assessment brand; temporary, contract, and interim IT resource services under the Page Consulting brand; and helps students to search for internships and apprenticeships under the Page Talent brand. In addition, it is involved in the provision of IT consultancy services. The company was formerly known as Michael Page International plc and changed its name to PageGroup plc in June 2016. PageGroup plc was founded in 1976 and is headquartered in Addlestone, the United Kingdom.
+fullTimeEmployees§8572
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kelvin John Stagg', 'age': 52, 'title': 'CFO, Member of Executive Board & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 778000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas  Kirk', 'age': 52, 'title': 'CEO, Member of the Executive Board & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Watson', 'age': 53, 'title': 'Chief Transformation Officer & Member of the Executive Board', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Hollard', 'age': 55, 'title': 'Chief Customer Officer & Member of the Executive Board', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Thompson', 'title': 'CEO of Page Executive & Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eamon  Collins', 'title': 'Chief Marketing & Data Officer and Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabelle  Bastide', 'title': 'COO of France, Southern Europe, N.A, Latin America, Middle East & Africa and Member of Exec. Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kaye  Maguire', 'title': 'General Counsel, Member of the Executive Board & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas  Bechu', 'title': 'COO of Northern & Central Europe, UK & Asia Pacific and Member of the Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Grattan', 'title': 'Chief People Officer & Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.16
+dividendYield§0.0341
+exDividendDate§1693440000
+payoutRatio§0.4959
+fiveYearAvgDividendYield§2.62
+beta§1.122
+priceToSalesTrailing12Months§0.7818452
+currency§GBp
+forwardEps§31.32
+pegRatio§-3.68
+exchange§LSE
+quoteType§EQUITY
+shortName§PAGEGROUP PLC ORD 1P
+longName§PageGroup plc
+firstTradeDateEpochUtc§985762800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3c05c16e-ed4b-37d8-87fb-717dcc020922
+targetHighPrice§600.0
+targetLowPrice§380.0
+targetMeanPrice§496.36
+targetMedianPrice§483.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.604
+earningsGrowth§-0.467
+grossMargins§0.5199
+ebitdaMargins§0.07545
+trailingPegRatio§None

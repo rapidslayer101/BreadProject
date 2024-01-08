@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 04:38:29.174503
+address1§26 Whitehall Road
+address2§Leeds
+city§Leeds
+zip§LS12 1BE
+country§United Kingdom
+phone§44 11 3539 5466
+website§https://www.ipfin.co.uk
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§International Personal Finance plc, together with its subsidiaries, provides consumer credit in Europe and Mexico. The company offers credit products, such as online payment transaction; revolving credit line; microbusiness loans; digital installment loans; credit card; hybrid loans; and home credit installment loans, as well as medical and life insurances. International Personal Finance plc was founded in 1997 and is headquartered in Leeds, the United Kingdom.
+fullTimeEmployees§8862
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gerard Jude Ryan', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1396000, 'exercisedValue': 0, 'unexercisedValue': 15279}, {'maxAge': 1, 'name': 'Mr. Gary  Thompson', 'age': 50, 'title': 'CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 943248, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Moran', 'title': 'Investor Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Crane MA', 'age': 50, 'title': 'Company Secretary & Chief Legal Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gergely  Mikola', 'title': 'Group Corporate Affairs Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lyndsey  Hamilton-Scott', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Botond  Szirmak', 'title': 'Head of European Home Credit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wojciech  Nesterenki', 'title': 'Head of People Communication & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Krzysztof  Adamski', 'title': 'Group Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.0793
+exDividendDate§1693440000
+payoutRatio§0.48169997
+fiveYearAvgDividendYield§7.12
+beta§1.265
+priceToSalesTrailing12Months§0.37250587
+currency§GBp
+forwardEps§20.62
+pegRatio§0.59
+exchange§LSE
+quoteType§EQUITY
+shortName§INTERNATIONAL PERSONAL FINANCE 
+longName§International Personal Finance plc
+firstTradeDateEpochUtc§1184569200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d5acee51-f36f-310a-a257-9fde1699d95c
+targetHighPrice§215.0
+targetLowPrice§170.0
+targetMeanPrice§198.33
+targetMedianPrice§210.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.237
+earningsGrowth§-0.394
+grossMargins§0.79041
+ebitdaMargins§0.22497
+trailingPegRatio§None

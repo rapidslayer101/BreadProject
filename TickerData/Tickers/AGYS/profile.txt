@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 06:43:13.820978
+address1§1000 Windward Concourse
+address2§Suite 250
+city§Alpharetta
+state§GA
+zip§30005
+country§United States
+phone§770 810 7800
+website§https://www.agilysys.com/en/
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Agilysys, Inc., together with its subsidiaries, operates as a developer and marketer of hardware and software products and services to the hospitality industry in North America, Europe, the Asia-Pacific, and India. It offers point of sale, property management systems, inventory and procurement, payments, activity scheduling, reservations management, and related solutions to enhance guest experience. The company also provides cloud applications, support, maintenance, and subscription services; and professional services. It offers its solutions for hotels, resorts and cruise lines, casinos, corporate food service management, restaurants, universities, stadiums, and healthcare applications. The company was formerly known as Pioneer-Standard Electronics, Inc. and changed its name to Agilysys, Inc. in 2003. Agilysys, Inc. was founded in 1932 and is headquartered in Alpharetta, Georgia.
+fullTimeEmployees§1600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ramesh  Srinivasan', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 976464, 'exercisedValue': 0, 'unexercisedValue': 27546000}, {'maxAge': 1, 'name': 'Mr. William David Wood III', 'age': 44, 'title': 'Senior VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 386825, 'exercisedValue': 3926397, 'unexercisedValue': 157975}, {'maxAge': 1, 'name': 'Mr. Kyle C. Badger', 'age': 55, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 383491, 'exercisedValue': 2210667, 'unexercisedValue': 4678446}, {'maxAge': 1, 'name': 'Mr. Donald Anthony Demarinis', 'age': 59, 'title': 'Senior Vice President of Sales - Americas & EMEA', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 496398, 'exercisedValue': 3654233, 'unexercisedValue': 164599}, {'maxAge': 1, 'name': 'Mr. Sethuram  Shivashankar', 'age': 53, 'title': 'Senior VP & CTO, Chief Information Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Hennessy', 'title': 'Senior Manager of Corporate Strategy & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Terrie  O'Hanlon", 'age': 60, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa  Putnal', 'title': 'Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Prakash  Bhat', 'age': 59, 'title': 'Senior VP & MD of India Development Center', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sridhar  Laveti', 'age': 56, 'title': 'Senior VP of Established, Emerging Products & Customer Support', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 300286, 'exercisedValue': 0, 'unexercisedValue': 8600}]
+auditRisk§6
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1247702400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.17
+beta§0.757
+priceToSalesTrailing12Months§9.074018
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.24
+pegRatio§1611.6
+exchange§NMS
+quoteType§EQUITY
+shortName§Agilysys, Inc.
+longName§Agilysys, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2ec0f273-8c88-3c03-a5bc-5703fa4090a3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§85.0
+targetMeanPrice§93.4
+targetMedianPrice§92.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.904
+earningsGrowth§0.333
+grossMargins§0.60284
+ebitdaMargins§0.076630004
+trailingPegRatio§None

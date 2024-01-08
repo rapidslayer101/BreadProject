@@ -1,0 +1,30 @@
+# reload+after+2024-01-22 13:45:16.954036
+address1§1412 Broadway
+address2§21st Floor Suite 21V
+city§New York
+state§NY
+zip§10018
+country§United States
+phone§646-257-5537
+industry§Shell Companies
+sector§Financial Services
+longBusinessSummary§Horizon Space Acquisition I Corp. focuses on effecting a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or related business combination with one or more businesses. The company was incorporated in 2022 and is based in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mingyu  Li', 'age': 39, 'title': 'Chairman, CEO, CFO & Secretary', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§Horizon Space Acquisition I Cor
+longName§Horizon Space Acquisition I Corp.
+firstTradeDateEpochUtc§1671719400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§34dfe46a-d05e-3e40-9817-d0e59a8b707c
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.325
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 02:45:05.647882
+address1§209 Carrall Street
+address2§Suite 240
+city§Vancouver
+state§BC
+zip§V6B 2J2
+country§Canada
+phone§604 563 4144
+website§https://www.greenpowermotor.com
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§GreenPower Motor Company Inc. designs, manufactures, and distributes electric vehicles for commercial markets in the United States and Canada. The company offers commercial vehicles for delivery, public transit, schools, vanpools, micro-transit, shuttles, and other; and passenger, student, low floor transit, and cargo transportation. It leases its vehicles to customers. GreenPower Motor Company Inc. was founded in 2010 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§112
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Fraser  Atkinson CPA, CA', 'age': 65, 'title': 'Executive Chairman & CEO', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 300750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Riley', 'age': 52, 'title': 'President & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 357500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Sieffert', 'age': 47, 'title': 'CFO & Secretary', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 209000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yanyan  Zhang', 'age': 51, 'title': 'Vice President of Program Management', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 149693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Claus  Tritt', 'age': 59, 'title': 'VP of Medium Duty & Commercial Vehicle Sales', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 49045, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Taylor  Freeland', 'title': 'Sr. Manager & Head of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank  Zhang', 'title': 'Corporate Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Perez', 'title': 'Vice President of School Bus, Contracts & Grants', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§4.035
+priceToSalesTrailing12Months§1.4581456
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.33
+exchange§NCM
+quoteType§EQUITY
+shortName§GreenPower Motor Company Inc.
+longName§GreenPower Motor Company Inc.
+firstTradeDateEpochUtc§1598621400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ad2d8ee7-d788-3cf4-9f39-9818f639cb64
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§5.0
+targetMeanPrice§6.25
+targetMedianPrice§6.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.453
+grossMargins§0.15878001
+ebitdaMargins§-0.20726
+trailingPegRatio§None

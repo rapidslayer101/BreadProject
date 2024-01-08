@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 04:46:19.817674
+address1§1100 René-Lévesque Boulevard West
+address2§9th Floor Suite 900
+city§Montreal
+state§QC
+zip§H3B 4N4
+country§Canada
+phone§514-313-1190
+website§https://www.nuvei.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Nuvei Corporation provides payment technology solutions to merchants and partners in North America, Europe, the Middle East and Africa, Latin America, and the Asia Pacific. Its platform enables customers to pay and/or accept payments worldwide regardless of their location, device, or preferred payment method. The company's solutions comprise a fully integrated payments engine with global processing capabilities, a turnkey solution for frictionless payment experiences, and a broad suite of data-driven business intelligence tools and risk management services. It sells and distributes its solutions through direct sales, indirect sales for small-and-medium sized businesses, and eCommerce resellers. Nuvei Corporation was founded in 2003 and is based in Montreal, Canada.
+fullTimeEmployees§1690
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Philip  Fayer', 'age': 45, 'title': 'Founder, Chair of the Board & CEO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1149448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuval  Ziv', 'age': 46, 'title': 'President', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1290424, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David S. Schwartz C.A., C.F.A., CPA', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 772122, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max  Attias', 'age': 47, 'title': 'Group Chief Technology Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 575309, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Erlick', 'age': 42, 'title': 'Chief Corporate Development Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 749628, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kanwarpal Singh Bindra', 'age': 58, 'title': 'Chief Product & Operations Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Gerstein', 'age': 54, 'title': 'VP & Head of Investor Relations', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsay  Matthews', 'age': 52, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guillaume  Conteville', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caitlin  Shetter', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.0162
+exDividendDate§1700179200
+payoutRatio§0.0
+beta§3.29
+priceToSalesTrailing12Months§3.1588585
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.18
+pegRatio§0.83
+exchange§NMS
+quoteType§EQUITY
+shortName§Nuvei Corporation - Subordinate
+longName§Nuvei Corporation
+firstTradeDateEpochUtc§1603805400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7968113e-628f-3f8c-83b9-f7eda6cc89c9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§93.0
+targetLowPrice§21.0
+targetMeanPrice§34.33
+targetMedianPrice§29.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.185
+grossMargins§0.80313003
+ebitdaMargins§0.22338
+trailingPegRatio§None

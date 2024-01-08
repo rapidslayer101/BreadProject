@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 09:46:24.490852
+address1§6600 North Military Trail
+city§Boca Raton
+state§FL
+zip§33496
+country§United States
+phone§561 438 4800
+website§https://www.theodpcorp.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§The ODP Corporation provides business services and supplies, products, and digital workplace technology solutions for small, medium, and enterprise businesses in the United States, Puerto Rico, and the U.S. Virgin Islands. The company operates through four divisions: ODP Business Solutions, Office Depot, Veyer, and Varis. The ODP Business Solutions division offers adjacency products, including cleaning, janitorial, and breakroom supplies, office furniture, technology products; and copy and print services through sales force, catalogs, telesales, and through Internet websites. This segment also engages in office supply distribution business. The Office Depot division sells office supplies, technology products and solutions, business machines and related supplies, cleaning, breakroom and facilities products, personal protective equipment, and office furniture; and offers business services, including copying, printing, digital imaging, mailing, shipping, and technology support services through a fully integrated omni-channel platform of 980 Office Depot and OfficeMax retail stores, and through www.officedepot.com. The Veyer division engages in supply chain, distribution, procurement and global sourcing operations. The Varis division operates tech-enabled B2B indirect procurement marketplace, where buyers and suppliers to transact through the platform's consumer-like buying experience, advanced spend management tools, network of suppliers, and technology capabilities. The company offers its products under various brands, including Office Depot, OfficeMax, and Grand&Toy, as well as others. The ODP Corporation was incorporated in 1986 and is headquartered in Boca Raton, Florida.
+fullTimeEmployees§25000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gerry P. Smith', 'age': 60, 'title': 'CEO & Director (Leave of Absence)', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 3023743, 'exercisedValue': 0, 'unexercisedValue': 142011}, {'maxAge': 1, 'name': 'Mr. Diego Anthony Scaglione', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1593026, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah E. Hlavinka', 'age': 58, 'title': 'Executive VP, Chief Legal & Administrative Officer and Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1132563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Gannfors', 'age': 57, 'title': 'Executive VP & President of Veyer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1254954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max W. Hood', 'age': 44, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy J. Perrott', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Zoe  Maloney', 'age': 50, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Moffitt', 'age': 49, 'title': 'Executive VP & President of Office Depot', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Centrella', 'age': 52, 'title': 'Executive VP & President of Business Solutions Division', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Prentis D. Wilson', 'title': 'President of Varis', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1582848000
+payoutRatio§0.0
+beta§1.664
+priceToSalesTrailing12Months§0.23899736
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.69
+pegRatio§0.79
+exchange§NMS
+quoteType§EQUITY
+shortName§The ODP Corporation
+longName§The ODP Corporation
+firstTradeDateEpochUtc§581175000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§949d00be-963a-3590-bb66-9b09e2f7ad6d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§86.0
+targetLowPrice§56.0
+targetMeanPrice§67.59
+targetMedianPrice§65.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.529
+earningsGrowth§0.316
+grossMargins§0.22333999
+ebitdaMargins§0.04231
+trailingPegRatio§0.7036

@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 18:41:06.581077
+address1§Vodafone House
+address2§The Connection
+city§Newbury
+zip§RG14 2FN
+country§United Kingdom
+phone§44 163 533251
+website§https://www.vodafone.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Vodafone Group Public Limited Company provides telecommunication services in Europe and internationally. It offers mobile connectivity services comprising end-to-end services for mobile voice and data, messaging, device management, BYOx, and telecoms management, as well as professional and consulting services; and fixed line connectivity, such as fixed voice and data, broadband, software-defined networks, managed WAN, LAN, ethernet, and satellite; and financial services, as well as business and merchant services. The company also provides consumer Internet of Things (IoT) propositions, as well as security and insurance products; mobile services; logistics, fleet management, and smart metering services; WiFi; digital services comprising mobile application development, multi-access edge computing, worker insights, AI assistant, drone detection, visual inspection, and mixed reality, as well as Vodafone Analytics platform; and traditional IT hosting services, including colocation, managed hosting, security, hosting infrastructure, and flexible computing for government. In addition, it offers integrated business communication services, as well as fixed mobile convergence services; and carrier services, as well as IoT devices comprising managed tablets and integrated terminals. Further, it offers M-Pesa, an African mobile money platform to make payments and provide financial services; Vodafone Business multi-cloud platform; and productivity solutions, as well as operates digital cloud-based television platforms. It serves private and public sector customers in the manufacturing, retail, automotive, banking finance, healthcare, smart cities and public, agriculture, transport and logistics, and energy and utilities management industries. It offers its products and services through digital and physical channels. Vodafone Group Public Limited Company has a strategic partnership with Open Fiber. The company was incorporated in 1984 and is based in Newbury, the United Kingdom.
+fullTimeEmployees§104000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Margherita  Della Valle', 'age': 57, 'title': 'Group CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 2119000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luka  Mucic', 'age': 52, 'title': 'Group CFO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Petty', 'title': 'Group Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stefanie  Reichel', 'title': 'Director of Legal & Compliance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maaike Helena De Bie', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leanne Susan Wood', 'age': 50, 'title': 'Chief Human Resources Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. António Rui de Lacerda Carrapatoso', 'title': 'Chief Executive Officer of Vodafone Portugal Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Serpil  Timuray', 'age': 54, 'title': 'Chief Executive Officer of Europe Cluster', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Mukherjee', 'title': 'Head of North West regional business', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Bailey', 'title': 'Head of Regional Business', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.1112
+exDividendDate§1700697600
+payoutRatio§0.237
+fiveYearAvgDividendYield§7.37
+beta§0.435
+priceToSalesTrailing12Months§0.42635038
+currency§GBp
+forwardEps§0.07
+pegRatio§-8.77
+exchange§LSE
+quoteType§EQUITY
+shortName§VODAFONE GROUP PLC ORD USD0.20 
+longName§Vodafone Group Public Limited Company
+firstTradeDateEpochUtc§593769600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9673b65a-c1b9-3875-a321-400545ea8a81
+targetHighPrice§1.64
+targetLowPrice§0.69
+targetMeanPrice§0.95
+targetMedianPrice§0.86
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§15
+quickRatio§0.843
+grossMargins§0.31682
+ebitdaMargins§0.2379
+trailingPegRatio§None

@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 18:26:33.458547
+address1§11 Huron Drive
+city§Natick
+state§MA
+zip§01760
+country§United States
+phone§508 647 4000
+website§https://www.allurion.com
+industry§Medical Devices
+industryKey§medical-devices
+industryDisp§Medical Devices
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Allurion Technologies Inc. focuses on ending obesity with a weight loss platform to treat people who are overweight. Its platform, the Allurion Program, features swallowable and procedure-less intragastric balloon for weight loss (the Allurion Balloon) and offers access to AI-powered remote patient monitoring tools, a proprietary behavior change program, secure messaging, and video telehealth that are delivered by the Allurion Virtual Care Suite. The company is headquartered in Natick, Massachusetts.
+fullTimeEmployees§268
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Shantanu K. Gaur M.D.', 'age': 37, 'title': 'Co-Founder, CEO, President, Secretary & Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 383861, 'exercisedValue': 0, 'unexercisedValue': 1235344}, {'maxAge': 1, 'name': 'Dr. Samuel G. Levy', 'age': 40, 'title': 'Co-Founder', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Geberth', 'age': 52, 'title': 'CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 408947, 'exercisedValue': 0, 'unexercisedValue': 392239}, {'maxAge': 1, 'name': 'Dr. Ram  Chuttani M.D.', 'age': 63, 'title': 'MD, Chief Medical Officer & Founding Partner', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emily  Pullen', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Feldgoise', 'title': 'Senior Vice President of Digital Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joyce  Johnson', 'title': 'Senior Vice President of RA & QA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.005
+priceToSalesTrailing12Months§2.5277507
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Allurion Technologies, Inc.
+longName§Allurion Technologies Inc.
+firstTradeDateEpochUtc§1617024600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7f28135a-258d-361a-a457-a90dd1042508
+messageBoardId§finmb_140620117
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.233
+grossMargins§0.78102994
+ebitdaMargins§-0.87691003
+trailingPegRatio§None

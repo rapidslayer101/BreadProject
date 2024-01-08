@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 08:41:06.522742
+address1§11 Tower View
+address2§Kings Hill
+city§West Malling
+zip§ME19 4UY
+country§United Kingdom
+phone§44 1732 280 400
+website§https://www.vistrygroup.co.uk
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Vistry Group PLC, together with its subsidiaries, operates as a housebuilder in the United Kingdom. It offers one-bedroom apartments and larger family homes. The company was formerly known as Bovis Homes Group PLC and changed its name to Vistry Group PLC in January 2020. Vistry Group PLC was founded in 1885 and is headquartered in West Malling, the United Kingdom.
+fullTimeEmployees§4826
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gregory Paul Fitzgerald', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1933000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Charles Lawlor', 'age': 53, 'title': 'CFO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 578953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Earl  Sibley A.C.A., B.A., BA (Hons) ACA', 'age': 51, 'title': 'COO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1136000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susie  Bell', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clare Jane Bates', 'title': 'General Counsel & Group Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Warrington', 'title': 'Regional Managing Director of Central & North of Vistry Partnerships', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Brodie', 'title': 'Regional Managing Director of London & South East of Vistry Partnerships', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Moran', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith Bryan Carnegie', 'age': 53, 'title': 'Chief Executive of Vistry Housebuilding Division', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.55
+dividendYield§0.0591
+exDividendDate§1681948800
+payoutRatio§0.76919997
+fiveYearAvgDividendYield§4.65
+beta§2.109
+priceToSalesTrailing12Months§1.016798
+currency§GBp
+forwardEps§88.14
+pegRatio§-1.07
+exchange§LSE
+quoteType§EQUITY
+shortName§VISTRY GROUP PLC ORD 50P
+longName§Vistry Group PLC
+firstTradeDateEpochUtc§881654400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8466c327-9427-316d-9135-c164a80ce1bb
+targetHighPrice§1300.0
+targetLowPrice§740.0
+targetMeanPrice§953.47
+targetMedianPrice§871.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§15
+quickRatio§0.478
+earningsGrowth§-0.38
+grossMargins§0.17152001
+ebitdaMargins§0.12691
+trailingPegRatio§None

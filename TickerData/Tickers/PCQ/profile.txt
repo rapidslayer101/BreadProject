@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 11:32:10.786514
+address1§650 Newport Center Drive
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 720 6000
+fax§949 720 6361
+website§https://www.pimco.com/en-us/investments/closed-end-funds/california-municipal-income-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§PIMCO California Municipal Income Fund is a closed ended fixed income mutual fund launched and managed by Allianz Global Investors Fund Management LLC. It is co-managed by Pacific Investment Management Company LLC.  The fund invests in fixed income markets of the United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in municipal bonds. PIMCO California Municipal Income Fund was formed on June 29, 2001 and is domiciled in New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lew Wallace Jacobs IV', 'age': 52, 'title': 'President and Managing Director', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Hammer', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.43
+dividendYield§0.0463
+exDividendDate§1704931200
+payoutRatio§3.3941
+fiveYearAvgDividendYield§5.06
+beta§0.415
+priceToSalesTrailing12Months§11.86125
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§PIMCO California Municipal Inco
+longName§PIMCO California Municipal Income Fund
+firstTradeDateEpochUtc§993648600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§03d05d04-a10d-3cb1-a203-04acc012c3c9
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.348
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

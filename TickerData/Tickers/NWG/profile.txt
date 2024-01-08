@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 06:31:53.361080
+address1§Gogarburn
+address2§PO Box 1000
+city§Edinburgh
+zip§EH12 1HQ
+country§United Kingdom
+phone§44 13 1556 8555
+website§https://www.natwestgroup.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§NatWest Group plc, together with its subsidiaries, provides banking and financial products and services to personal, commercial, corporate, and institutional customers in the United Kingdom and internationally. It operates through Retail Banking, Private Banking, and Commercial & Institutional segments. The Retail Banking segment offers a range of banking products and related financial services, such as current accounts, mortgages, personal unsecured lending, and personal deposits, as well as mobile and online banking services. The Private Banking segment provides private banking and wealth management products for high-net-worth individuals and their business interests. The Commercial & Institutional segment offers banking and financial solutions to large corporate organisations, multi-nationals, and financial institutions. The company was formerly known as The Royal Bank of Scotland Group plc and changed its name to NatWest Group plc in July 2020. NatWest Group plc was founded in 1727 and is headquartered in Edinburgh, the United Kingdom.
+fullTimeEmployees§61700
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Katie  Murray CA', 'age': 54, 'title': 'Group CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1632489, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John-Paul  Thwaite', 'age': 52, 'title': 'Group CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard John Fisher', 'title': 'Chief Accountant', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Marcar', 'title': 'Group Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Holcroft', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gideon  Moore', 'title': 'Group Chief Legal Officer & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Dawtrey', 'title': 'Group Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret  Jobling', 'title': 'Group Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  Austen', 'title': 'Group Director of Strategy, Corporate Development & Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jen  Tippin', 'title': 'Group Chief People & Transformation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.28
+dividendYield§0.049000002
+exDividendDate§1701388800
+payoutRatio§0.32169998
+beta§1.35
+priceToSalesTrailing12Months§1.736984
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§NatWest Group plc
+longName§NatWest Group plc
+firstTradeDateEpochUtc§1192714200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4077e1be-22a1-39f7-acb3-d4db2f8f4bed
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.07
+targetLowPrice§7.07
+targetMeanPrice§7.07
+targetMedianPrice§7.07
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+earningsGrowth§4.158
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

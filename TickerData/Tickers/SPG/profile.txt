@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 01:33:21.045324
+address1§225 West Washington Street
+city§Indianapolis
+state§IN
+zip§46204-3438
+country§United States
+phone§317 636 1600
+website§https://www.simon.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Simon is a real estate investment trust engaged in the ownership of premier shopping, dining, entertainment and mixed-use destinations and an S&P 100 company (Simon Property Group, NYSE: SPG). Our properties across North America, Europe and Asia provide community gathering places for millions of people every day and generate billions in annual sales.
+fullTimeEmployees§2500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David E. Simon', 'age': 61, 'title': 'Chairman, CEO & President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 29402916, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. McDade', 'age': 44, 'title': 'Executive VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 4343890, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam J. Reuille', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1894703, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Rulli', 'age': 67, 'title': 'Chief Administrative Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 2951997, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven E. Fivel', 'age': 62, 'title': 'General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 7449961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven K. Broadwater', 'age': 56, 'title': 'Senior Vice President of Financial Reporting & Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stanley  Shashoua', 'age': 52, 'title': 'Chief Investment Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joseph W. Chiappetta', 'title': 'Senior VP & Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Ward', 'age': 54, 'title': 'Senior Vice President of Investor Relations', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Susan  Massela', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§7.6
+dividendYield§0.054
+exDividendDate§1701907200
+payoutRatio§1.0905
+fiveYearAvgDividendYield§6.24
+beta§1.666
+priceToSalesTrailing12Months§9.5400915
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.31
+pegRatio§2.58
+exchange§NYQ
+quoteType§EQUITY
+shortName§Simon Property Group, Inc.
+longName§Simon Property Group, Inc.
+firstTradeDateEpochUtc§755879400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c481f9ec-0de4-363f-a710-ed57abf0c2e6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§180.0
+targetLowPrice§119.0
+targetMeanPrice§141.13
+targetMedianPrice§135.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§0.431
+earningsGrowth§0.103
+grossMargins§0.81211
+ebitdaMargins§0.72146004
+trailingPegRatio§14.0023

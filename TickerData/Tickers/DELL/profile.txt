@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 01:28:30.936274
+address1§One Dell Way
+city§Round Rock
+state§TX
+zip§78682
+country§United States
+phone§800 289 3355
+website§https://www.delltechnologies.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§Dell Technologies Inc. designs, develops, manufactures, markets, sells, and supports various comprehensive and integrated solutions, products, and services in the Americas, Europe, the Middle East, Asia, and internationally. The company operates through two segments, Infrastructure Solutions Group (ISG) and Client Solutions Group (CSG). The ISG segment provides traditional and next-generation storage solutions, including all-flash arrays, scale-out file, object platforms, hyper-converged infrastructure, and software-defined storage; and rack, blade, tower, and hyperscale servers. This segment also offers networking products and services that help its business customers to transform and modernize their infrastructure, mobilize and enrich end-user experiences, and accelerate business applications and processes; attached software and peripherals; and support and deployment, configuration, and extended warranty services. The CSG segment provides desktops, workstations, and notebooks; displays, docking stations, and other electronics; and third-party software and peripherals, as well as support and deployment, configuration, and extended warranty services. The company is also involved in the provision of cybersecurity technology-driven security solutions to prevent security breaches, detect malicious activity, respond rapidly when a security breach occurs, and identify emerging threats; originating, collecting, and servicing customer financing arrangements; and infrastructure-as-a-service solutions, as well as in the resale of VMware products and services. The company was formerly known as Denali Holding Inc. and changed its name to Dell Technologies Inc. in August 2016. Dell Technologies Inc. was founded in 1984 and is headquartered in Round Rock, Texas.
+fullTimeEmployees§133000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Saul Dell', 'age': 58, 'title': 'Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 2797308, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey W. Clarke', 'age': 60, 'title': 'COO & Vice Chairman', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 2853441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William F. Scannell', 'age': 61, 'title': 'President of Global Sales & Customer Operations', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1931384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yvonne  McGill', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brunilda  Rios', 'age': 57, 'title': 'Senior VP of Corporate Finance & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Rothberg Esq.', 'age': 59, 'title': 'General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1727358, 'exercisedValue': 24596768, 'unexercisedValue': 20991448}, {'maxAge': 1, 'name': 'Ms. Allison  Dew', 'age': 53, 'title': 'Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2273277, 'exercisedValue': 0, 'unexercisedValue': 7912755}, {'maxAge': 1, 'name': 'Mr. Michael  Zimmerman', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jennifer D. Saavedra Ph.D.', 'age': 53, 'title': 'Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard D. Elias', 'age': 65, 'title': 'Chief Customer Officer and President of Services & Digital', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 6171429, 'exercisedValue': 4068717, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.48
+dividendYield§0.0195
+exDividendDate§1705881600
+payoutRatio§0.3989
+beta§0.918
+priceToSalesTrailing12Months§0.59210294
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.08
+pegRatio§14.09
+exchange§NYQ
+quoteType§EQUITY
+shortName§Dell Technologies Inc.
+longName§Dell Technologies Inc.
+firstTradeDateEpochUtc§1471440600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§04c74ad6-2535-3f70-9335-6e441ef69610
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§53.0
+targetMeanPrice§80.8
+targetMedianPrice§82.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§0.469
+earningsGrowth§3.121
+grossMargins§0.23379
+ebitdaMargins§0.08676
+trailingPegRatio§3.6388

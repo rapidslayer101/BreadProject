@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 02:46:55.567775
+address1§2650 North Military Trail
+address2§Suite 300
+city§Boca Raton
+state§FL
+zip§33431
+country§United States
+phone§561 757 4000
+website§https://www.redviolet.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Red Violet, Inc., a software and services company, specializes in proprietary technologies and applying analytical capabilities to deliver identity intelligence in the United States. It offers idiCORE, an investigative solution used to address various organizational challenges, which include due diligence, risk mitigation, identity authentication, and regulatory compliance; and FOREWARN, an app-based solution that provides instant knowledge before face-to-face engagement with a consumer, as well as helps professionals to identify and mitigate risk. The company serves financial services, insurance, healthcare, retail, and telecommunication companies; law enforcement and government agencies; and collections, law, corporate security, and investigative firms, as well as solutions used for purposes, such as risk mitigation, due diligence, fraud detection and prevention, regulatory compliance, and customer acquisition. It markets its products and services through value-added distributors, resellers, and strategic partners; and trade shows and seminars, advertising, public relations, distribution of sales literature, and product specifications and ongoing communication with prospective customers, distributors, resellers, strategic partners, and installed base of current customers, as well as through direct sales. The company was incorporated in 2017 and is headquartered in Boca Raton, Florida.
+fullTimeEmployees§186
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Derek  Dubner', 'age': 51, 'title': 'Chairman & CEO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 782626, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Patrick Reilly', 'age': 49, 'title': 'President', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 753100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  MacLachlan', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 753100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Angus  Macnab', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Alan Dell', 'age': 51, 'title': 'Chief Information Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Camilo  Ramirez', 'title': 'Director of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Weingard', 'title': 'Corporate Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.161
+priceToSalesTrailing12Months§4.3359666
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Red Violet, Inc.
+longName§Red Violet, Inc.
+firstTradeDateEpochUtc§1522157400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ee38b2ed-e2fc-3d12-8da9-387b004c1c9c
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§11.937
+earningsGrowth§4.438
+grossMargins§0.78035
+ebitdaMargins§0.029460002
+trailingPegRatio§None

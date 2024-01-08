@@ -1,0 +1,59 @@
+# reload+after+2024-01-21 11:26:42.235698
+address1§5 Hanover Quay
+address2§Grand Canal Dock
+city§Dublin
+zip§D02 VY79
+country§Ireland
+phone§353 1 259 7013
+website§https://www.aptiv.com
+industry§Auto Parts
+industryKey§auto-parts
+industryDisp§Auto Parts
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Aptiv PLC engages in design, manufacture, and sale of vehicle components worldwide. The company provides electrical, electronic, and safety technology solutions to the automotive and commercial vehicle markets. It operates in two segments, Signal and Power Solutions, and Advanced Safety and User Experience. The Signal and Power Solutions segment designs, manufactures, and assembles vehicle's electrical architecture, including engineered component products, connectors, wiring assemblies and harnesses, cable management products, electrical centers, and hybrid high voltage and safety distribution systems. The Advanced Safety and User Experience segment provides critical technologies and services for vehicle safety, security, comfort, and convenience, such as sensing and perception systems, electronic control units, multi-domain controllers, vehicle connectivity systems, application software, autonomous driving technologies, and end-to-end DevOps tools. The company was formerly known as Delphi Automotive PLC and changed its name to Aptiv PLC in December 2017. Aptiv PLC was incorporated in 2011 and is based in Dublin, Ireland.
+fullTimeEmployees§22000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin P. Clark', 'age': 61, 'title': 'President, Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 3847942, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph R. Massaro', 'age': 53, 'title': 'Senior VP of Business Operations & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2753463, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William T. Presley', 'age': 53, 'title': 'Senior VP, COO, and President of Signal & Power Solutions', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1703653, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Lyon', 'age': 43, 'title': 'Senior VP & CTO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 4809091, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophia M. Velastegui', 'age': 47, 'title': 'Senior VP & Chief Product Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2921853, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allan J. Brazier', 'age': 56, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Peterson', 'age': 58, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Wu', 'title': 'VP of Investor Relations & Corporate Development and Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katherine Hargrove Ramundo', 'age': 55, 'title': 'Senior VP, Chief Legal Officer, Chief Compliance Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1343284, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Scalzo', 'title': 'Senior VP & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1580774400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.16
+beta§1.997
+priceToSalesTrailing12Months§1.1942809
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.88
+pegRatio§0.61
+lastDividendValue§0.22
+lastDividendDate§1580774400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Aptiv PLC
+longName§Aptiv PLC
+firstTradeDateEpochUtc§1321540200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aed566cb-3b02-3352-9d08-8fed8b11fea9
+messageBoardId§finmb_59502420
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§155.0
+targetLowPrice§69.0
+targetMeanPrice§112.96
+targetMedianPrice§113.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§1.242
+earningsGrowth§4.485
+grossMargins§0.16841999
+ebitdaMargins§0.13484
+trailingPegRatio§0.6893

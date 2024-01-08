@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 06:38:07.123798
+address1§Royal Trust House
+address2§8th Floor 54 Jermyn Street
+city§London
+zip§SW1Y 6LX
+country§United Kingdom
+phone§44 20 7629 7772
+fax§44 20 7629 7773
+website§https://www.griffinmining.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Griffin Mining Limited, a mining and investment company, engages in the mining, exploration, and development of mineral properties. The company primarily explores for gold, zinc, silver, lead, and base and precious metal deposits. Its principal property is the Caijiaying mine located in Hebei Province, the People's Republic of China. The company was formerly known as European Mining Finance Ltd. and changed its name to Griffin Mining Limited in January 1998. Griffin Mining Limited was founded in 1988 and is based in London, the United Kingdom.
+fullTimeEmployees§448
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Roger  Goodwin', 'age': 68, 'title': 'Finance Director, Company Secretary & Executive Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 638164, 'exercisedValue': 0, 'unexercisedValue': 808691}, {'maxAge': 1, 'name': 'Mr. John Paul Steel', 'age': 26, 'title': 'Chief Operating Officer', 'yearBorn': 1997, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Zhang', 'age': 49, 'title': 'Chief Financial Officer of Hebei Hua Ao', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glenn  Sheldon', 'title': 'Geologist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1210118400
+payoutRatio§0.0
+beta§0.906
+priceToSalesTrailing12Months§1.3508987
+currency§GBp
+forwardEps§0.06
+exchange§LSE
+quoteType§EQUITY
+shortName§GRIFFIN MINING LIMITED ORD $0.0
+longName§Griffin Mining Limited
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§531b9bab-9d9d-3802-95f2-50542f997cd7
+targetHighPrice§1.41
+targetLowPrice§1.3
+targetMeanPrice§1.35
+targetMedianPrice§1.35
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.442
+earningsGrowth§0.704
+grossMargins§0.34463
+ebitdaMargins§0.35965002
+trailingPegRatio§None

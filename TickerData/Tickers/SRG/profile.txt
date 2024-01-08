@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 10:33:26.326119
+address1§500 Fifth Avenue
+address2§Suite 1530
+city§New York
+state§NY
+zip§10110-1502
+country§United States
+phone§212 355 7800
+website§https://www.seritage.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Seritage is principally engaged in the ownership, development, redevelopment, management and leasing of retail and mixed-use properties throughout the United States. As of September 30, 2023, the Company's portfolio consisted of interests in 42 properties comprised of approximately 5.6 million square feet of gross leasable area ("GLA") or build-to-suit leased area, approximately 126 acres held for or under development and approximately 2.9 million square feet or approximately 259 acres to be disposed of. The portfolio consists of approximately 4.3 million square feet of GLA held by 33 wholly owned properties (such properties, the "Consolidated Properties") and 1.2 million square feet of GLA held by 9 unconsolidated entities (such properties, the "Unconsolidated Properties").
+fullTimeEmployees§32
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Andrea L. Olshan', 'age': 43, 'title': 'CEO, President & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2411269, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Andrew Garilli', 'age': 58, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Dinenberg', 'age': 40, 'title': 'Chief Operating Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1087200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew E. Fernand', 'age': 46, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1154388, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Mrozinski', 'title': 'Senior Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nino  Cammalleri', 'title': 'Senior VP & Real Estate Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1553731200
+payoutRatio§0.0
+beta§2.694
+priceToSalesTrailing12Months§18.595026
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.18
+exchange§NYQ
+quoteType§EQUITY
+shortName§Seritage Growth Properties
+longName§Seritage Growth Properties
+firstTradeDateEpochUtc§1436189400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b4967483-cf3f-384a-ba23-3208c129471e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§14.0
+targetMeanPrice§14.0
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§2.167
+grossMargins§-0.28194
+ebitdaMargins§-1.9492301
+trailingPegRatio§None

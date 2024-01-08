@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 11:47:19.137348
+address1§8057 North Fraser Way
+city§Burnaby
+state§BC
+zip§V5J 5M8
+country§Canada
+phone§604 428 7656
+website§https://www.emvauto.com
+industry§Auto Manufacturers
+sector§Consumer Cyclical
+longBusinessSummary§Electrameccanica Vehicles Corp. develops, manufactures, and sells electric vehicles in the United States and Canada. Its flagship product is the SOLO, a single seat vehicle. The company is also developing four-wheeled eRoadster and Tofino. In addition, it provides services, repairs, and support services, as well as sale of parts and custom built vehicles. The company sells its vehicles through direct-to-consumer online marketing, as well as through retail store operations in the States of California, Arizona, and Oregon. Electrameccanica Vehicles Corp. was incorporated in 2015 and is headquartered in Burnaby, Canada.
+fullTimeEmployees§104
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Susan E. Docherty', 'age': 60, 'title': 'CEO, Interim COO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 683898, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kim Anne Brink', 'age': 56, 'title': 'Chief Revenue Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 590601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Johnston', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ajay  Kumar', 'title': 'Vice President of IT & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Bridge', 'age': 59, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Conark  Shah', 'title': 'Vice President of Strategy & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.882
+priceToSalesTrailing12Months§11.144425
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.25
+exchange§NCM
+quoteType§EQUITY
+shortName§Electrameccanica Vehicles Corp.
+longName§Electrameccanica Vehicles Corp.
+firstTradeDateEpochUtc§1533821400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ca17c443-abc7-3bd2-819f-bc922fc0c32e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.5
+targetLowPrice§0.5
+targetMeanPrice§1.0
+targetMedianPrice§1.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§14.548
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

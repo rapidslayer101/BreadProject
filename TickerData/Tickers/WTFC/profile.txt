@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 19:48:02.070292
+address1§9700 West Higgins Road
+address2§Suite 800
+city§Rosemont
+state§IL
+zip§60018
+country§United States
+phone§847 939 9000
+website§https://www.wintrust.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Wintrust Financial Corporation operates as a financial holding company. It operates in three segments: Community Banking, Specialty Finance, and Wealth Management. The Community Banking segment offers non-interest bearing deposits, non-brokered interest-bearing transaction accounts, and savings and domestic time deposits; home equity, consumer, and real estate loans; safe deposit facilities; and automatic teller machine (ATM), online and mobile banking, and other services. It also engages in the retail origination and purchase of residential mortgages for sale into the secondary market; and provision of lending, deposits, and treasury management services to condominium, homeowner, and community associations, as well as asset-based lending for middle-market companies. In addition, this segment offers loan and deposit services to mortgage brokerage companies; lending to restaurant franchisees; direct leasing; small business administration loans; commercial mortgages and construction loans; and financial solutions. It provides personal and commercial banking services primarily to individuals, small to mid-sized businesses, local governmental units, and institutional clients. The Specialty Finance segment offers commercial and life insurance premiums financing for businesses and individuals; accounts receivable financing, value-added, and out-sourced administrative services; and other specialty finance services, as well as data processing of payrolls, billing, and cash management services to temporary staffing industry. The Wealth Management segment provides trust and investment, asset management, tax-deferred exchange, securities brokerage, and retirement plan services. Wintrust Financial Corporation was founded in 1991 and is headquartered in Rosemont, Illinois.
+fullTimeEmployees§5275
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward Joseph Wehmer', 'age': 69, 'title': 'Executive Chairman & Founder', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 4663339, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy S. Crane', 'age': 61, 'title': 'CEO, President & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1474034, 'exercisedValue': 461243, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Alan Dykstra', 'age': 62, 'title': 'Vice Chairman & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2073055, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard B. Murphy', 'age': 63, 'title': 'Vice Chairman & Chief Lending Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1575094, 'exercisedValue': 202066, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David L. Stoehr', 'age': 63, 'title': 'Executive VP & CFO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1191986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Hahnfeld', 'title': 'Executive VP, Controller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Buttrick', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen M. Boege', 'age': 56, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Morris', 'title': 'Executive VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Norah  Larke', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0174
+exDividendDate§1699401600
+payoutRatio§0.1548
+fiveYearAvgDividendYield§1.71
+beta§1.212
+priceToSalesTrailing12Months§2.6358685
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.72
+pegRatio§0.9
+exchange§NMS
+quoteType§EQUITY
+shortName§Wintrust Financial Corporation
+longName§Wintrust Financial Corporation
+firstTradeDateEpochUtc§892733400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§74d8c4a5-56ee-3624-8eb7-35eaa7614938
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§112.0
+targetLowPrice§84.0
+targetMeanPrice§101.25
+targetMedianPrice§101.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§12
+earningsGrowth§0.145
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

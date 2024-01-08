@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 00:47:42.890990
+address1§Scottsdale Quarter
+address2§Suite H300 15147 North Scottsdale Road
+city§Scottsdale
+state§AZ
+zip§85254-2494
+country§United States
+phone§480 530 3000
+website§https://www.uei.com
+industry§Consumer Electronics
+sector§Technology
+longBusinessSummary§Universal Electronics Inc. designs, develops, manufactures, and sells pre-programmed and universal control products, audio-video (AV) accessories, and intelligent wireless security and smart home products for video services, consumer electronics, security, home automation, climate control, and home appliance markets. The company offers universal radio frequency (RF) and infrared remote controls primarily for sale to video service providers, original equipment manufacturers (OEMs), retailers, and private label customers; integrated circuits on which its software and universal device control database is embedded for sale to OEMs, video service providers, and private label customers; and software, firmware, and technology solutions that enable devices, such as televisions, set-top boxes, audio systems, smart speakers, game consoles, and other consumer electronic and smart home devices to connect and interact with home networks and interactive services to control and deliver home entertainment, smart home services, and device or system information. It also provides cloud-services that support its embedded software and hardware solutions; intellectual property that the company licenses principally to OEMs and video service providers; RF sensors for residential security, safety, and home automation applications; wall-mount and handheld thermostat controllers and connected accessories for smart energy management systems, primarily to OEM customers, as well as hotels and hospitality system integrators; and AV accessories to consumers, including universal remote controls, television wall mounts, and stands and digital television antennas. The company also serves through a network of national and regional distributors and dealers. It sells its products in the United States, the People's Republic of China, Asia, Europe, Latin America, and internationally. The company was incorporated in 1986 and is headquartered in Scottsdale, Arizona.
+fullTimeEmployees§4658
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul D. Arling', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 857275, 'exercisedValue': 211259, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan M. Hackworth', 'age': 53, 'title': 'CFO & Senior VP', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 423795, 'exercisedValue': 80410, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard K. Carnifax', 'age': 36, 'title': 'Vice President of Manufacturing & Operations', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 266850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ramzi S. Ammari', 'age': 57, 'title': 'Senior Vice President of Corporate Planning & Strategy', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 418330, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard A. Firehammer Jr., Esq.', 'age': 65, 'title': 'Senior VP, General Counsel, Head of Global Compliance & Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 551295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheung Hyen Chong', 'age': 61, 'title': 'Executive Vice President of Global Sales', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 738300, 'exercisedValue': 0, 'unexercisedValue': 275128}, {'maxAge': 1, 'name': 'Dr. Norman G. Sheridan Ph.D.,  ', 'age': 61, 'title': 'Senior Vice President of Engineering', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen L. Gutman', 'title': 'Senior VP of Global Sales of Subscription Broadcast', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hrag G. Ohannessian', 'title': 'Senior Vice President of Global Sales for Home Automation, Security and Hospitality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tak Chung Chan', 'title': 'Senior Vice President of Manufacturing Asia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.176
+priceToSalesTrailing12Months§0.25490254
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+pegRatio§-2.27
+exchange§NMS
+quoteType§EQUITY
+shortName§Universal Electronics Inc.
+longName§Universal Electronics Inc.
+firstTradeDateEpochUtc§729527400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0ec6b618-fd41-3884-8947-82a69faaca91
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§9.0
+targetMeanPrice§12.67
+targetMedianPrice§14.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.003
+grossMargins§0.25228
+ebitdaMargins§0.00453
+trailingPegRatio§None

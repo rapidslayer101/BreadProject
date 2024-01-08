@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 07:31:44.264636
+address1§13-1, Nihonbashi 1-chome
+address2§Chuo-ku
+city§Tokyo
+zip§103-8645
+country§Japan
+phone§81 3 5255 1000
+website§https://www.nomuraholdings.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Nomura Holdings, Inc. provides various financial services to individuals, corporations, financial institutions, governments, and governmental agencies worldwide. It operates through three segments: Retail, Investment Management, and Wholesale. The Retail segment offers various financial products and investment consultation services. The Investment Management segment engages in the management of funds, investment trusts, and other investment solutions; and provision of investment advisory, custodial, and administrative services. The Wholesale segment is involved in the research, sale, trading, agency execution, and market-making of fixed income and equity-related products. This segment also engages in underwriting various securities and other financial instruments, such as various classes of shares, convertible and exchangeable securities, investment grade and high yield debts, sovereign and emerging market debts, structured securities, and other securities; arranging private placements, as well as other capital raising activities; and the provision of financial advisory services on business transactions comprising mergers and acquisitions, divestitures, spin-offs, capital structuring, corporate defense activities, leveraged buyouts, and risk solutions. The company was formerly known as The Nomura Securities Co., Ltd. and changed its name to Nomura Holdings, Inc. in October 2001. Nomura Holdings, Inc. was incorporated in 1925 and is headquartered in Tokyo, Japan.
+fullTimeEmployees§26775
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kentaro  Okuda', 'age': 60, 'title': 'President, Group CEO, Representative Executive Officer & Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 2663273, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Takumi  Kitamura', 'age': 57, 'title': 'Executive Officer, CFO & Investor Relations', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1057151, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yosuke  Inaida', 'age': 56, 'title': 'Executive Officer & Chief Compliance Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 899511, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sotaro  Kato', 'age': 54, 'title': 'Executive Officer & Chief Risk Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 899511, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Toshiyasu  Iiyama', 'age': 58, 'title': 'Chief of Staff, Executive Officer & Deputy President', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1282547, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Toru  Otsuka', 'age': 56, 'title': 'Executive Officer & Group Secretariat of Strategy and Regulatory Affairs', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 899511, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Paul  Willcox', 'age': 55, 'title': 'Executive Officer & Head of Wholesale', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 5534657, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gareth  Nicholson', 'title': 'Executive Director, Chief Investment Officer & Head of Discretionary Portfolio Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Masahiro  Goto', 'age': 71, 'title': 'Senior MD & Global Head of Investment Banking', 'yearBorn': 1952, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Eltridge', 'title': 'Senior MD, Chief Information Officer & Chief Information Security Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+exDividendDate§1632873600
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.69
+beta§0.67
+priceToSalesTrailing12Months§0.009893021
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nomura Holdings Inc
+longName§Nomura Holdings, Inc.
+firstTradeDateEpochUtc§1008599400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§164c7072-cdef-34e7-a9eb-27686b2cfe11
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.53
+targetLowPrice§4.53
+targetMeanPrice§4.53
+targetMedianPrice§4.53
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§1.218
+earningsGrowth§1.072
+grossMargins§0.76094
+ebitdaMargins§0.0
+trailingPegRatio§0.6195

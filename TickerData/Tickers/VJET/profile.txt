@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 13:47:51.257274
+address1§Paul-Lenz Strasse 1a
+city§Friedberg
+zip§86316
+country§Germany
+phone§49 821 7483 100
+website§https://www.voxeljet.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§voxeljet AG provides three-dimensional (3D) printers and on-demand parts services to industrial and commercial customers in Europe, the Middle East, Africa, the Asia Pacific, and the Americas. The company operates in two segments, Systems and Services. The Systems segment develops, manufactures, and sells 3D printers. This segment also offers consumables, including particulate materials, proprietary chemical binding agents, and spare parts, as well as maintenance contracts. The Services segment prints on-demand parts for its customers, as well as creates parts, molds, cores, and models based on designs produced using 3D computer-aided design software; and provides casting services. It serves automotive, aerospace, art and architecture, engineering, and consumer product end markets; foundries and suppliers; and universities and research institutes. The company was formerly known as Voxeljet Technology GmbH and changed its name to voxeljet AG in January 2004. voxeljet AG was founded in 1999 and is headquartered in Friedberg, Germany.
+fullTimeEmployees§253
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ingo  Ederer', 'age': 56, 'title': 'CEO & Member of Management Board', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rudolf P. Franz', 'age': 56, 'title': 'CFO, COO & Member of Management Board', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Höfer', 'age': 39, 'title': 'Director of Finance, Controlling & Accounting', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johannes  Pesch', 'age': 35, 'title': 'Director of Investor Relations', 'yearBorn': 1988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathrin  Ekert', 'age': 40, 'title': 'General Counsel', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian  Träger', 'age': 38, 'title': 'Director of Sales & Marketing', 'yearBorn': 1985, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thierry  Herrero', 'age': 57, 'title': 'Managing Director of Voxeljet West Europe', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Dougherty', 'age': 52, 'title': 'Managing Director of voxeljet America Inc.', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.203
+priceToSalesTrailing12Months§0.3894945
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.8
+exchange§NCM
+quoteType§EQUITY
+shortName§voxeljet AG
+longName§voxeljet AG
+firstTradeDateEpochUtc§1382103000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§948e1586-489f-3151-ab71-147b451497e2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.01
+targetLowPrice§3.01
+targetMeanPrice§3.01
+targetMedianPrice§3.01
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.929
+grossMargins§0.27798998
+ebitdaMargins§-0.15988
+trailingPegRatio§None

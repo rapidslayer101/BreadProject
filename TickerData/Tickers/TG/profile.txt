@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 18:33:40.682855
+address1§1100 Boulders Parkway
+city§Richmond
+state§VA
+zip§23225
+country§United States
+phone§804 330 1000
+website§https://www.tredegar.com
+industry§Metal Fabrication
+sector§Industrials
+longBusinessSummary§Tredegar Corporation, through its subsidiaries, manufactures and sells aluminum extrusions, polyethylene (PE) films, and plastic and polyester films in the United States and internationally. It operates through three segments: Aluminum Extrusions, PE Films, and Flexible Packaging Films. The Aluminum Extrusions segment produces soft and medium strength alloyed aluminum extrusions, custom fabricated and finished aluminum extrusions for the building and construction, automotive and transportation, consumer durables, machinery and equipment, electrical and renewable energy, and distribution markets; and manufactures mill, anodized, and painted and fabricated aluminum extrusions to fabricators and distributors. The PE Films segment offers single- and multi-layer surface protection films for protecting components of flat panel displays that are used in televisions, monitors, notebooks, smart phones, tablets, e-readers, and digital signage under the UltraMask, ForceField, ForceField PEARL, and Pearl A brands. This segment also provides thin-gauge films as overwrap for bathroom tissue and paper towels, as well as polyethylene overwrap films and films for other markets. The Flexible Packaging Films segment offers polyester-based films for food packaging and industrial applications under the Terphane, Ecophane, and Sealphane brands. Tredegar Corporation was incorporated in 1988 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§2000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John M. Steitz', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1281630, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. D. Andrew Edwards', 'age': 64, 'title': 'Executive VP & CFO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 627864, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Cyril Donnelly', 'age': 48, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 667575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Neill  Bellamy', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Arijit  DasGupta', 'title': 'President of Surface Protection', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose Bosco Silveira Jr.', 'title': 'President of Flexible Packaging Films', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frasier W. Brickhouse II', 'age': 86, 'title': 'Corporate Treasurer & Controller', 'yearBorn': 1937, 'fiscalYear': 2022, 'totalPay': 257177, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Brook Hamilton', 'title': 'President of Bonnell Aluminum', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.52
+dividendYield§0.0992
+exDividendDate§1686787200
+payoutRatio§1.5938001
+fiveYearAvgDividendYield§4.03
+beta§0.919
+priceToSalesTrailing12Months§0.2412206
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.11
+exchange§NYQ
+quoteType§EQUITY
+shortName§Tredegar Corporation
+longName§Tredegar Corporation
+firstTradeDateEpochUtc§615648600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2de960c6-ab3c-3f39-a9a2-298fb58e503d
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.012
+grossMargins§0.108950004
+ebitdaMargins§0.0161
+trailingPegRatio§None

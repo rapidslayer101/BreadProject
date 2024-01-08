@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 08:27:40.667527
+address1§Baerengasse 32
+city§Zurich
+zip§8001
+country§Switzerland
+phone§41 43 456 76 00
+website§https://www.chubb.com/us-en
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Chubb Limited provides insurance and reinsurance products worldwide. The company's North America Commercial P&C Insurance segment offers commercial property, casualty, workers' compensation, package policies, risk management, financial lines, marine, construction, environmental, medical, cyber risk, surety, and excess casualty; and group accident and health insurance to large, middle market, and small commercial businesses. Its North America Personal P&C Insurance segment provides affluent and high net worth individuals and families with homeowners, automobile and collector cars, valuable articles, personal and excess liability, travel insurance, and recreational marine insurance and services. The company's North America Agricultural Insurance segment offers multiple peril crop and crop-hail insurance; and coverage for farm and ranch property, and commercial agriculture products. Its Overseas General Insurance segment provides coverage for traditional commercial property and casualty; specialty categories, such as financial lines, marine, energy, aviation, political risk, and construction risk; and group accident and health, and traditional and specialty personal lines for corporations, middle markets, and small customers through retail brokers, agents, and other channels. The company's Global Reinsurance segment offers traditional and specialty reinsurance under the Chubb Tempest Re brand to property and casualty companies. Its Life Insurance segment provides protection and savings products comprising whole life, endowment plans, individual term life, group term life, medical and health, personal accident, credit life, universal life, and unit linked contracts. It markets its products primarily through insurance and reinsurance brokers. The company was formerly known as ACE Limited and changed its name to Chubb Limited in January 2016. Chubb Limited was incorporated in 1985 and is headquartered in Zurich, Switzerland.
+fullTimeEmployees§40000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Evan G. Greenberg', 'age': 68, 'title': 'Executive Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 10504637, 'exercisedValue': 14397320, 'unexercisedValue': 60250032}, {'maxAge': 1, 'name': 'Mr. John W. Keogh', 'age': 58, 'title': 'President & COO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4697498, 'exercisedValue': 3366280, 'unexercisedValue': 16979672}, {'maxAge': 1, 'name': 'Mr. Peter C. Enns', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2660138, 'exercisedValue': 0, 'unexercisedValue': 310022}, {'maxAge': 1, 'name': 'Mr. John Joseph Lupica', 'age': 57, 'title': 'Vice Chairman of Chubb Group & President of North America Insurance Operations', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 4304941, 'exercisedValue': 4847502, 'unexercisedValue': 12728651}, {'maxAge': 1, 'name': 'Ms. Annmarie T. Hagan', 'age': 62, 'title': 'Global Controller, VP & Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gordon  Mackechnie', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen L. Beyer', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph F. Wayland J.D.', 'age': 65, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl  Krauss', 'title': 'Senior VP of Chubb Group & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Alan Boroughs', 'age': 73, 'title': 'Executive VP & Chief Investment Officer of Chubb Group', 'yearBorn': 1950, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.44
+dividendYield§0.0150999995
+exDividendDate§1702512000
+payoutRatio§0.19790001
+fiveYearAvgDividendYield§1.88
+beta§0.618
+priceToSalesTrailing12Months§1.9251752
+currency§USD
+dateShortInterest§1702598400
+forwardEps§21.31
+pegRatio§0.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§Chubb Limited
+longName§Chubb Limited
+firstTradeDateEpochUtc§733069800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§834cb54b-61bb-3d9d-8296-c995e4c5d8b2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§275.0
+targetLowPrice§203.0
+targetMeanPrice§245.45
+targetMedianPrice§245.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.191
+earningsGrowth§1.619
+grossMargins§0.27344
+ebitdaMargins§0.19436
+trailingPegRatio§0.6774

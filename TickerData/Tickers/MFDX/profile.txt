@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 10:31:17.418623
+longBusinessSummary§The fund seeks to achieve its investment objective by investing at least 80% of its total assets (exclusive of collateral held from securities lending) in the component securities of the RAFI Dynamic Multi-Factor Developed Ex-U.S. Index. The underlying index is constructed by the index provider using a rules-based approach to construct factor portfolios within the underlying index. The underlying index consists of "factor portfolios," each of which emphasizes one of the following factors: value, low volatility, quality, momentum and size.
+maxAge§86400
+priceHint§2
+yield§0.0313
+totalAssets§209507056
+navPrice§28.82
+currency§USD
+category§Foreign Large Blend
+ytdReturn§-0.0094344
+beta3Year§0.95
+fundFamily§PIMCO
+fundInceptionDate§1504137600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0459506
+fiveYearAverageReturn§0.0778676
+exchange§PCX
+quoteType§ETF
+shortName§PIMCO Equitiy Series PIMCO RAFI
+longName§PIMCO RAFI Dynamic Multi-Factor International Equity ETF
+firstTradeDateEpochUtc§1504791000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§530aa7e1-8076-39ba-bdc1-370390abf6cb
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

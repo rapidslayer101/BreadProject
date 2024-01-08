@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 03:27:57.185944
+address1§Comerica Bank Tower
+address2§1717 Main Street
+city§Dallas
+state§TX
+zip§75201-6404
+country§United States
+phone§214 462 6831
+website§https://www.comerica.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Comerica Incorporated, through its subsidiaries, provides various financial products and services. The company operates through Commercial Bank, Retail Bank, Wealth Management, and Finance segments. The Commercial Bank segment offers various products and services, including commercial loans and lines of credit, deposits, cash management, capital market products, international trade finance, letters of credit, foreign exchange management services, and loan syndication services, as well as payment and card services for small and middle market businesses, multinational corporations, and governmental entities. The Retail Bank segment provides personal financial services, such as consumer lending, consumer deposit gathering, and mortgage loan origination; and various consumer products that include deposit accounts, installment loans, credit cards, student loans, home equity lines of credit, and residential mortgage loans, as well as commercial products and services to micro-businesses. The Wealth Management segment offers products and services comprising fiduciary, private banking, retirement, investment management and advisory, and investment banking and brokerage services; and sells annuity products, as well as life, disability, and long-term care insurance products. The Finance segment engages in the securities portfolio, and asset and liability management activities. It operates in Texas, California, Michigan, Arizona, Florida, Canada, and Mexico. The company was formerly known as DETROITBANK Corporation and changed its name to Comerica Incorporated in July 1982. Comerica Incorporated was founded in 1849 and is headquartered in Dallas, Texas.
+fullTimeEmployees§7667
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Curtis Chatman Farmer', 'age': 60, 'title': 'Chairman, CEO & President', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4265006, 'exercisedValue': 0, 'unexercisedValue': 316273}, {'maxAge': 1, 'name': 'Mr. James J. Herzog', 'age': 60, 'title': 'CFO & Senior EVP', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1758181, 'exercisedValue': 0, 'unexercisedValue': 54331}, {'maxAge': 1, 'name': 'Ms. Megan D. Crespi', 'age': 48, 'title': 'Senior EVP & COO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1465315, 'exercisedValue': 0, 'unexercisedValue': 182108}, {'maxAge': 1, 'name': 'Mr. Peter L. Sefzik', 'age': 47, 'title': 'Senior EVP & Chief Banking Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1584277, 'exercisedValue': 215954, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mauricio A. Ortiz', 'age': 43, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan D. Burkhart', 'age': 51, 'title': 'Senior Executive VP and Chief Administrative & Human Resources Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  Gage', 'title': 'Senior VP & Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Von E. Hays', 'age': 51, 'title': 'Executive VP, Chief Legal Officer & General Counsel', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristina  Janssens', 'title': 'Senior VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan R. Joseph', 'title': 'Executive VP & Financial Intelligence Corporate Compliance Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.84
+dividendYield§0.050300002
+exDividendDate§1702512000
+payoutRatio§0.3182
+fiveYearAvgDividendYield§4.57
+beta§1.332
+priceToSalesTrailing12Months§2.0032642
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.65
+pegRatio§-0.69
+exchange§NYQ
+quoteType§EQUITY
+shortName§Comerica Incorporated
+longName§Comerica Incorporated
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5be95348-6a32-3a5b-aaff-5a7b8f8833d1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§45.0
+targetMeanPrice§56.33
+targetMedianPrice§54.83
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§20
+earningsGrowth§-0.292
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 03:32:14.394715
+address1§3043 Townsgate Road
+city§Westlake Village
+state§CA
+zip§91361
+country§United States
+phone§818 224 7442
+website§https://ir.pennymacfinancial.com
+industry§Mortgage Finance
+sector§Financial Services
+longBusinessSummary§PennyMac Financial Services, Inc., through its subsidiaries, engages in the mortgage banking and investment management activities in the United States. It operates through three segments: Production, Servicing, and Investment Management. The Production segment is involved in the origination, acquisition, and sale of loans. It sources first-lien residential conventional and government-insured or guaranteed mortgage loans. The Servicing segment engages in the servicing of newly originated loans, and execution and management of early buyout transactions and servicing of loans. It performs loan administration, collection, and default management activities, including the collection and remittance of loan payments, response to customer inquiries, accounting for principal and interest, holding custodial funds for the payment of property taxes and insurance premiums, counseling delinquent borrowers, and supervising foreclosures and property dispositions, as well as administers loss mitigation activities, such as modification and forbearance programs. The Investment Management segment is involved in sourcing, performing diligence, bidding, and closing investment asset acquisitions; managing correspondent production activities for PennyMac Mortgage Investment Trust; and managing acquired assets. PennyMac Financial Services, Inc. was founded in 2008 and is headquartered in Westlake Village, California.
+fullTimeEmployees§4129
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Spector', 'age': 60, 'title': 'CEO & Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 5081959, 'exercisedValue': 1352810, 'unexercisedValue': 15581350}, {'maxAge': 1, 'name': 'Mr. Douglas Edward Jones', 'age': 66, 'title': 'President, Chief Mortgage Banking Officer & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 3417751, 'exercisedValue': 0, 'unexercisedValue': 7435197}, {'maxAge': 1, 'name': 'Mr. Daniel Stanley Perotti', 'age': 42, 'title': 'Senior MD & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1833878, 'exercisedValue': 0, 'unexercisedValue': 4521812}, {'maxAge': 1, 'name': 'Mr. James  Follette', 'age': 50, 'title': 'Senior MD & Chief Mortgage Operations Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1364605, 'exercisedValue': 0, 'unexercisedValue': 363602}, {'maxAge': 1, 'name': 'Mr. Gregory L. Hendry', 'age': 62, 'title': 'Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lior  Ofir', 'title': 'Senior MD & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Chamberlain', 'title': 'Executive Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek W. Stark J.D.', 'age': 55, 'title': 'Senior MD, Chief Legal Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Hallock Smith', 'title': 'Senior MD & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenny  Rhodes', 'title': 'Senior MD & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0095
+exDividendDate§1699574400
+payoutRatio§0.1882
+beta§1.632
+priceToSalesTrailing12Months§2.7786798
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.22
+pegRatio§1.14
+exchange§NYQ
+quoteType§EQUITY
+shortName§PennyMac Financial Services, In
+longName§PennyMac Financial Services, Inc.
+firstTradeDateEpochUtc§1368106200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c7591572-297d-3742-bc8e-7e4570a630be
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§82.0
+targetMeanPrice§94.13
+targetMedianPrice§94.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.547
+earningsGrowth§-0.28
+grossMargins§0.8742
+ebitdaMargins§0.0
+trailingPegRatio§None

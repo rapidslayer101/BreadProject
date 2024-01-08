@@ -1,0 +1,46 @@
+# reload+after+2024-01-19 22:35:38.637668
+address1§Harlequin Building
+address2§65 Southwark Street
+city§London
+zip§SE1 0HR
+country§United Kingdom
+phone§44 20 3725 5500
+website§https://www.auctiontechnologygroup.com
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Auction Technology Group plc operates online auction marketplaces primarily in the United Kingdom, North America, and Germany. The company operates through four segments: Arts and Antiques, Industrial and Commercial, Auction Services, and Content. It offers watches, jewelry, furniture, fine art, decorative art, vintage fashion and classic cars, and collectables; used equipment, commercial vehicles, and machineries from various industries, such as manufacturing, laboratories and pharmaceuticals, warehousing, construction, agriculture, and real estate; and consumer goods and other products. The company also operates marketplaces, such as thesaleroom.com, liveauctioneers.com, lot-tissimo.com, EstateSales.NET, BidSpotter.com, BidSpotter.co.uk, proxibid.com, and i-bidder.com. In addition, it offers Wavebid, a suite of products designed for auction house management; Auction Mobility, which provides digital auction technology for auctioneers, such as customized auction software, website design, and e-commerce solutions; Global Auction Platform, a digital marketplace for real-time audio and video broadcast; and Antiques Trade Gazette, a weekly industry trade magazine and guide to arts and antiques. Further, the company offers atgPay, an integrated payment solution; and atgShip, an integrated shipping solution, as well as provision of auction trading software. Auction Technology Group plc was founded in 1971 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§396
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John-Paul  Savant', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 610000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Eric Hargreaves', 'age': 53, 'title': 'CFO & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 472000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Lewis', 'age': 55, 'title': 'Chief Operating Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pratyush  Rai', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marika  Clemow', 'age': 38, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1985, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lesa Maoy Musatto', 'age': 56, 'title': 'Chief Marketing Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Darren  Ali', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Pennington', 'age': 37, 'title': 'Senior Vice President of Sales of North America', 'yearBorn': 1986, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathrin  Haase', 'title': 'Managing Director of Lot-Tissimo', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Cummings', 'title': 'Chief Product Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.284
+priceToSalesTrailing12Months§4.4932313
+currency§GBp
+forwardEps§42.02
+pegRatio§0.94
+exchange§LSE
+quoteType§EQUITY
+shortName§AUCTION TECHNOLOGY GROUP PLC OR
+longName§Auction Technology Group plc
+firstTradeDateEpochUtc§1614067200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5eeaae4c-26c9-39b6-8c60-18df7b24209e
+messageBoardId§finmb_700300413
+targetHighPrice§1020.0
+targetLowPrice§600.0
+targetMeanPrice§844.83
+targetMedianPrice§879.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.618
+grossMargins§0.67845
+ebitdaMargins§0.35202998
+trailingPegRatio§None

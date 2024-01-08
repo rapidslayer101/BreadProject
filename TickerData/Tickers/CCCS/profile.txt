@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 11:43:56.051467
+address1§167 N. Green Street
+address2§9th Floor
+city§Chicago
+state§IL
+zip§60607
+country§United States
+phone§800 621 8070
+website§https://www.cccis.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§CCC Intelligent Solutions Holdings Inc. provides cloud, mobile, AI, telematics, hyperscale technologies, and applications for the property and casualty insurance economy. The company's cloud-based software as a service platform connects trading partners, facilitates commerce, and supports mission-critical, artificial intelligence enabled digital workflow across the insurance economy, including insurance carriers, collision repairers, parts suppliers, automotive manufactures, financial institution, and others. It offers CCC Insurance solutions, including CCC Subrogation, CCC estimating, CCC total loss, CCC AI and analytics, and CCC casualty; CCC Repair solutions, such as CCC network management, CCC repair workflow, and CCC repair quality; CCC Other Ecosystem solutions, comprising CCC parts solutions, CCC automotive manufacturer solutions, CCC Diagnostics Service Provider Solutions; CCC lender solutions, and CCC payments; and CCC International solutions. The company has strategic partnership with Verisk Analytics, Inc. to bring new innovations to P&C insurance claims. The company was founded in 1980 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§2375
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Githesh  Ramamurthy', 'age': 62, 'title': 'Chairman & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 848775, 'exercisedValue': 0, 'unexercisedValue': 116180816}, {'maxAge': 1, 'name': 'Mr. Brian  Herb', 'age': 50, 'title': 'Executive VP, CFO & Chief Administrative Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 930368, 'exercisedValue': 0, 'unexercisedValue': 4117250}, {'maxAge': 1, 'name': 'Mr. John P. Goodson', 'age': 58, 'title': 'Executive VP, Chief Product & Technology Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 802781, 'exercisedValue': 202096, 'unexercisedValue': 1476733}, {'maxAge': 1, 'name': 'Ms. Mary Jo Prigge', 'age': 65, 'title': 'Executive VP & Chief Service Delivery Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 826417, 'exercisedValue': 3408536, 'unexercisedValue': 3239196}, {'maxAge': 1, 'name': 'Mr. Michael  Silva', 'age': 56, 'title': 'Executive VP and Chief Commercial & Customer Success Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 478616, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rodney  Christo', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Arthur Warmington Jr.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Kane', 'title': 'Senior VP & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy  Harris', 'title': 'Senior VP & Chief HR Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Ho', 'title': 'Senior VP & GM for China', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.601
+priceToSalesTrailing12Months§7.6774774
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.35
+pegRatio§-1.15
+exchange§NMS
+quoteType§EQUITY
+shortName§CCC Intelligent Solutions Holdi
+longName§CCC Intelligent Solutions Holdings Inc.
+firstTradeDateEpochUtc§1601904600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3a7b40ab-58f6-3e48-89b1-2c87e5806b7c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§11.0
+targetMeanPrice§13.08
+targetMedianPrice§13.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§3.816
+grossMargins§0.75557
+ebitdaMargins§0.18648
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 03:28:10.949663
+address1§100 First Stamford Place
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§203 363 7300
+website§https://www.craneco.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Crane Company, together with its subsidiaries, manufactures and sells engineered industrial products in the Americas, Europe, the Middle East, Asia, and Australia. The company has three segments: Aerospace & Electronics, Process Flow Technologies, and Engineered Materials. The Aerospace & Electronics segment supplies critical components and systems, including original equipment and aftermarket parts, primarily for the commercial aerospace, and the military aerospace, defense, and space markets. This segment also offers pressure sensors for aircraft engine control, aircraft braking systems for fighter jets, power conversion solutions for spacecraft, and lubrication systems. The Process Flow Technologies segment provides engineered fluid handling equipment for mission critical applications. It offers process valves and related products, commercial valves, and pumps and systems. The Engineered Materials segment manufactures fiberglass-reinforced plastic panels and coils, primarily for use in the manufacturing of recreational vehicles and in commercial and industrial buildings applications. It provides products and solutions to customers across end markets, including aerospace, defense, chemical and pharmaceutical, water and wastewater, payment automation, non-residential and municipal construction, energy, and banknote design and production, as well as for a range of general industrial and consumer applications. The company was formerly known as Crane Holdings, Co. Crane Company was founded in 1855 and is based in Stamford, Connecticut.
+fullTimeEmployees§7000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Max H. Mitchell', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3406984, 'exercisedValue': 3572040, 'unexercisedValue': 3777427}, {'maxAge': 1, 'name': 'Mr. Richard A. Maue CPA', 'age': 52, 'title': 'Executive VP, CFO & Principal Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1589319, 'exercisedValue': 1457826, 'unexercisedValue': 303707}, {'maxAge': 1, 'name': "Mr. Anthony M. D'Iorio", 'age': 59, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1082295, 'exercisedValue': 261848, 'unexercisedValue': 652468}, {'maxAge': 1, 'name': 'Ms. Marijane  Papanikolaou', 'title': 'VP, Controller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason D. Feldman', 'title': 'Vice President of Treasury & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tamara S. Polmanteer', 'age': 57, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alejandro  Alcala', 'age': 48, 'title': 'Executive Vice President', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1169397, 'exercisedValue': 0, 'unexercisedValue': 3023281}, {'maxAge': 1, 'name': 'Mr. Hari  Jinaga', 'title': 'President of Crane India', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Mitchell', 'title': 'President of Crane Valve Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Yan', 'title': 'President of Crane China', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0063
+exDividendDate§1701216000
+payoutRatio§0.1757
+fiveYearAvgDividendYield§1.97
+beta§1.447
+priceToSalesTrailing12Months§1.923697
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§Crane Company
+longName§Crane Company
+firstTradeDateEpochUtc§1680096600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d7b33fc-26ca-32c2-811a-aa97fecc43d8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§147.0
+targetLowPrice§97.0
+targetMeanPrice§122.57
+targetMedianPrice§125.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.614
+grossMargins§0.41799
+ebitdaMargins§0.20513001
+trailingPegRatio§1.7661

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 11:44:34.237880
+address1§47281 Bayside Parkway
+city§Fremont
+state§CA
+zip§94538
+country§United States
+phone§707-774-7000
+website§https://www.enphase.com
+industry§Solar
+sector§Technology
+longBusinessSummary§Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry in the United States and internationally. The company offers semiconductor-based microinverter, which converts energy at the individual solar module level, and combines with its proprietary networking and software technologies to provide energy monitoring and control services. It also provides microinverter units and related accessories, an IQ gateway; IQ batteries; the cloud-based Enlighten monitoring service; storage solutions; and electric vehicle charging solutions; and design, proposal, permitting, and lead generation services. The company sells its solutions to solar distributors; and directly to large installers, original equipment manufacturers, strategic partners, and homeowners, as well as through its legacy product upgrade program or online store. Enphase Energy, Inc. was incorporated in 2006 and is headquartered in Fremont, California.
+fullTimeEmployees§2821
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Badrinarayanan  Kothandaraman', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1016777, 'exercisedValue': 154239104, 'unexercisedValue': 246441808}, {'maxAge': 1, 'name': 'Ms. Mandy  Yang', 'age': 47, 'title': 'VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 745341, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. Ranhoff', 'age': 67, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 793895, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  McNeil', 'age': 61, 'title': 'Chief Advisor', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 808351, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Fornage', 'age': 59, 'title': 'Co-Founder', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 233256, 'exercisedValue': 0, 'unexercisedValue': 1544307}, {'maxAge': 1, 'name': 'Mr. Raghuveer R. Belur', 'age': 55, 'title': 'Co-Founder & Chief Products Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 164881, 'exercisedValue': 0, 'unexercisedValue': 1187596}, {'maxAge': 1, 'name': 'Mr. Ron  Swenson', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hans Van Antwerpen', 'title': 'VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen  Sagot', 'title': 'Head Of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisan  Hung', 'age': 54, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.617
+priceToSalesTrailing12Months§5.8081045
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.17
+pegRatio§1.55
+exchange§NGM
+quoteType§EQUITY
+shortName§Enphase Energy, Inc.
+longName§Enphase Energy, Inc.
+firstTradeDateEpochUtc§1333114200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5e94a4bb-e413-3d84-9d5f-c49df8281b53
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§255.0
+targetLowPrice§76.0
+targetMeanPrice§124.15
+targetMedianPrice§123.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§34
+quickRatio§3.078
+earningsGrowth§0.007
+grossMargins§0.45060003
+ebitdaMargins§0.25003
+trailingPegRatio§5.2613

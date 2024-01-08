@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 08:27:37.130328
+address1§2002 Summit Boulevard North-East
+address2§15th Floor
+city§Atlanta
+state§GA
+zip§30319
+country§United States
+phone§770 829 3700
+fax§770 481 2802
+website§https://www.beazer.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Beazer Homes USA, Inc. operates as a homebuilder in the United States. It designs, constructs, and sells single-family and multi-family homes under the Beazer Homes, Gatherings, and Choice Plans names. The company also sells its homes through commissioned new home sales counselors and independent brokers in Arizona, California, Nevada, Texas, Indiana, Delaware, Maryland, Tennessee, Virginia, Florida, Georgia, North Carolina, and South Carolina. Beazer Homes USA, Inc. was founded in 1985 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§1067
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Allan P. Merrill', 'age': 57, 'title': 'Chairman, President & CEO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 4706870, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David I. Goldberg', 'age': 44, 'title': 'Senior VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 1696100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith L. Belknap Jr.', 'age': 65, 'title': 'Executive VP, Corporate Secretary & General Counsel', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 1874054, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathi  James', 'title': 'Area President & Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steward  Sparks', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Craig', 'title': 'Area President', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy C. Little CPA', 'title': 'Phoenix Division President', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay  Thrower', 'title': 'President of Charleston & Myrtle Beach - South Carolina', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1189036800
+payoutRatio§0.0
+beta§2.32
+priceToSalesTrailing12Months§0.44510442
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.37
+pegRatio§1.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§Beazer Homes USA, Inc.
+longName§Beazer Homes USA, Inc.
+firstTradeDateEpochUtc§762013800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5c1df16b-d439-3da6-ad10-0a5c06ec5d11
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.0
+targetLowPrice§32.0
+targetMeanPrice§35.33
+targetMedianPrice§36.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.596
+earningsGrowth§-0.364
+grossMargins§0.2009
+ebitdaMargins§0.08614001
+trailingPegRatio§None

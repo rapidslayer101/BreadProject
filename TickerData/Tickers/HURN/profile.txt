@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 17:45:18.764760
+address1§550 West Van Buren Street
+city§Chicago
+state§IL
+zip§60607
+country§United States
+phone§312 583 8700
+fax§312 583 8701
+website§https://www.huronconsultinggroup.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§Huron Consulting Group Inc., a professional services firm, provides consultancy services in the United States and internationally. It operates through three segments: Healthcare, Education, and Commercial. The Healthcare segment provides advisory services in the areas of financial and operational improvement, care transformation, and revenue cycle managed services; organizational transformation; financial advisory; software products; and digital solutions, spanning technology and analytic-related services to national and regional health systems, academic and community health systems, public, children's and critical access hospitals, physician practices and medical groups, payors, and long-term care or post-acute providers. The Education segment provides research enterprise, and student and alumni lifecycle; digital solutions, spanning technology, and analytic-related services; Huron Research Suite, a software suite designed to facilitate and enhance research administration service delivery and compliance; and organizational transformation services to public and private colleges and universities, research institutes, and other education-related organizations. The Commercial segment delivers digital services and software products, and financial advisory services to financial, energy and utilities, professional and business services, life science, consumer products, and industrials and manufacturing industries, as well as public sector and nonprofit organizations. The company was incorporated in 2002 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§5341
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. C. Mark Hussey C.F.A., C.M.A., CPA, M.B.A.', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2372603, 'exercisedValue': 173745, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John D. Kelly CPA, M.S.', 'age': 46, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1411084, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Ronald Dail', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1405141, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ernest W. Torain Jr., Esq.', 'age': 57, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 787819, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cati  Cederoth', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle D. Featherstone', 'age': 42, 'title': 'Chief Accounting Officer & Corporate VP', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Freeburger', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Allie  Bovis', 'title': 'Public Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Elizabeth  Entinghe', 'title': 'Corporate VP of Corporate Development & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarah  McHugh', 'title': 'Corporate VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.556
+priceToSalesTrailing12Months§1.39458
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.56
+pegRatio§1.57
+exchange§NMS
+quoteType§EQUITY
+shortName§Huron Consulting Group Inc.
+longName§Huron Consulting Group Inc.
+firstTradeDateEpochUtc§1097674200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§166430d3-2c9f-3771-a846-c3bdbdfd129f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§140.0
+targetLowPrice§128.0
+targetMeanPrice§132.67
+targetMedianPrice§130.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§1.44
+earningsGrowth§0.279
+grossMargins§0.30837
+ebitdaMargins§0.11613
+trailingPegRatio§None

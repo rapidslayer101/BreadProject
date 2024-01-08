@@ -1,0 +1,35 @@
+# reload+after+2024-01-22 20:43:45.679145
+address1§Sorbonne University
+address2§BC 9, BAtiment A 4Eme Etage 4 place Jussieu Cedex 05
+city§Paris
+zip§75005
+country§France
+phone§33 1 44 27 23 00
+website§https://www.biophytis.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Biophytis S.A., a clinical-stage biotechnology company, focuses on the development of therapeutics that slow the degenerative processes and improve functional outcomes for patients suffering from age-related diseases. Its therapeutics focuses on targeting and activating key biological resilience pathways that could protect against and counteract the effects of the multiple biological and environmental stresses including inflammatory, oxidative, metabolic, and viral stresses that lead to age-related diseases. The company's lead drug candidate is Sarconeos (BIO101), an orally administered small molecule in development for the treatment of neuromuscular diseases, including sarcopenia and Duchenne muscular dystrophy (DMD), as well as in Phase 2/3 clinical study for the treatment of severe respiratory failure in patients suffering from COVID-19. It also develops Macuneos (BIO201), an orally administered small molecule for the treatment of retinal diseases, including dry age-related macular degeneration (AMD) and Stargardt disease. Biophytis SA has a collaboration agreement with AFM-Telethon for the development of its Sarconeos (BIO101) for the treatment of DMD. The company was incorporated in 2006 and is headquartered in Paris, France.
+fullTimeEmployees§26
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stanislas  Veillet Ph.D.', 'age': 58, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 468917, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas  Fellmann', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Waly  Dioh Ph.D.', 'age': 54, 'title': 'Chief Clinical Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Pierre J. Dilda', 'age': 53, 'title': 'Chief Scientific Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rene  Lafont', 'age': 77, 'title': 'Scientific Advisor & Member of Scientific Advisory Board', 'yearBorn': 1946, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rob  van Maanen FFPM, M.B.A., M.D.', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edouard  Bieth', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. _  Teylan', 'title': 'Financial Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.069
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Biophytis SA
+longName§Biophytis S.A.
+firstTradeDateEpochUtc§1612967400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§797b0f3d-db8a-3b48-a800-95e308493f07
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§0.784
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

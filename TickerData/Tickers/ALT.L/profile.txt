@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 02:35:26.394171
+address1§Sheffield City Centre
+address2§7th Floor 32 Eyre Street
+city§Sheffield
+zip§S1 4QZ
+country§United Kingdom
+phone§44 844 880 2751
+website§https://www.altitudeplc.com
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Altitude Group plc engages in the ownership and development of technology solutions and services in North America, the United Kingdom, and Europe. The company offers patented technology platform to its network with a built-in supply chain, as well as combines an e-commerce trading platform with a cloud-based CRM and order management system for business intelligence requirements; e-commerce web solutions with in-built patented online designer and pre-loaded product databases; patented online design solutions; and virtual sample services that allow personalized design on a product with imprint technique. It also provides various services, such as supplier relations, negotiated group discounts, events and exhibitions, catalogues, artwork services, and marketing programmes. In addition, the company's technology platforms provide product search engines, order management tools, design applications, and e-commerce sites. The company was incorporated in 2004 and is headquartered in Sheffield, the United Kingdom.
+fullTimeEmployees§78
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Nichole Yvonne Stella', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 414000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham Mark Thomas Feltham', 'age': 50, 'title': 'CFO, Company Secretary & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 181000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah  Wilkinson', 'title': 'COO & Executive Director', 'fiscalYear': 2023, 'totalPay': 162000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Hughes', 'title': 'Sales Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.158
+priceToSalesTrailing12Months§1.0578724
+currency§GBp
+forwardEps§2.4
+exchange§LSE
+quoteType§EQUITY
+shortName§ALTITUDE GROUP PLC ORD 0.4P
+longName§Altitude Group plc
+firstTradeDateEpochUtc§1131350400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bbf21329-9340-3216-b3be-7cfa63cc9703
+messageBoardId§finmb_24526913
+targetHighPrice§104.0
+targetLowPrice§104.0
+targetMeanPrice§104.0
+targetMedianPrice§104.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.691
+grossMargins§0.41919
+ebitdaMargins§0.06561
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 22:30:22.459331
+address1§5660 New Northside Drive
+address2§3rd Floor
+city§Atlanta
+state§GA
+zip§30328
+country§United States
+phone§770 857 4700
+website§https://www.ice.com
+industry§Financial Data & Stock Exchanges
+sector§Financial Services
+longBusinessSummary§Intercontinental Exchange, Inc., together with its subsidiaries, engages in the provision of market infrastructure, data services, and technology solutions for financial institutions, corporations, and government entities in the United States, the United Kingdom, the European Union, Singapore, India, Abu Dhabi, Israel, and Canada. It operates through three segments: Exchanges, Fixed Income and Data Services, and Mortgage Technology. The company operates regulated marketplaces for listing, trading, and clearing an array of derivatives contracts and financial securities, such as commodities, interest rates, foreign exchange, and equities, as well as corporate and exchange-traded funds; and trading venues, including regulated exchanges and clearing houses. It also offers energy, agricultural and metals, and financial futures and options; and cash equities and equity options, and over-the-counter and other markets, as well as listings and data and connectivity services. In addition, the company provides fixed income data and analytic, fixed income execution, CDS clearing, and other multi-asset class data and network services. Further, it offers proprietary and comprehensive mortgage origination platform, which serves residential mortgage loans; closing solutions that provides customers connectivity to the mortgage supply chain and facilitates the secure exchange of information; data and analytics services; and Data as a Service for lenders to access data and origination information. Intercontinental Exchange, Inc. was founded in 2000 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§13226
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey C. Sprecher', 'age': 68, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 4204183, 'exercisedValue': 12637001, 'unexercisedValue': 27848638}, {'maxAge': 1, 'name': 'Mr. Benjamin R. Jackson', 'age': 50, 'title': 'President', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2201226, 'exercisedValue': 0, 'unexercisedValue': 5702724}, {'maxAge': 1, 'name': 'Mr. A. Warren Gardiner', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1466300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Scott Edmonds', 'age': 54, 'title': 'Chief Development Officer and President of ICE Fixed Income & Data Services', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1938733, 'exercisedValue': 382763, 'unexercisedValue': 1436286}, {'maxAge': 1, 'name': 'Ms. Lynn C. Martin', 'age': 46, 'title': 'President of NYSE Group and Chair of ICE Fixed Income & Data Services', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 2076300, 'exercisedValue': 338129, 'unexercisedValue': 2494469}, {'maxAge': 1, 'name': 'Mr. Stuart G. Williams', 'age': 46, 'title': 'Chief Operating Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James W. Namkung', 'age': 47, 'title': 'Chief Accounting Officer & Corporate Controller', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mayur V. Kapani', 'age': 54, 'title': 'Chief Technology Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas A. Foley', 'age': 51, 'title': 'Senior Vice President of Human Resources & Administration', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mary Caroline O'Neal", 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.68
+dividendYield§0.0134000005
+exDividendDate§1702425600
+payoutRatio§0.3805
+fiveYearAvgDividendYield§1.24
+beta§0.996
+priceToSalesTrailing12Months§9.529804
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.81
+pegRatio§3.51
+exchange§NYQ
+quoteType§EQUITY
+shortName§Intercontinental Exchange Inc.
+longName§Intercontinental Exchange, Inc.
+firstTradeDateEpochUtc§1132151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§22fb77eb-a937-3612-9faa-55c581785893
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§154.0
+targetLowPrice§120.0
+targetMeanPrice§135.07
+targetMedianPrice§135.5
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.026
+grossMargins§1.0
+ebitdaMargins§0.62158
+trailingPegRatio§1.152

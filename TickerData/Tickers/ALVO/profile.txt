@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 04:43:18.761485
+address1§Saemundargata 15-19
+city§Reykjavik
+zip§102
+country§Iceland
+phone§354 422 4500
+website§https://www.alvotech.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Alvotech, through its subsidiaries, develops and manufactures biosimilar medicines for patients worldwide. It offers biosimilar products in the therapeutic areas of autoimmune, eye, and bone disorders, as well as cancer. The company's lead program is AVT02, a high concentration formulation biosimilar to Humira to treat various inflammatory conditions, including rheumatoid arthritis, psoriatic arthritis, Crohn's disease, ulcerative colitis, plaque psoriasis, and other indications; AVT04, a biosimilar to Stelara to treat various inflammatory conditions comprising psoriatic arthritis, Crohn's disease, ulcerative colitis, plaque psoriasis, and other indications; AVT06, a biosimilar to Eylea to treat various conditions, such as age-related macular degeneration, macular edema, and diabetic retinopathy; and AVT03, a biosimilar to Xgeva and Prolia, which is in the pre-clinical phase to treat prevent bone fracture, spinal cord compression, and the need for radiation or bone surgery in patients with certain types of cancer, as well as prevent bone loss and increase bone mass. It also offers AVT05, a biosimilar to Simponi and Simponi Aria, which is in early phase development to treat various inflammatory conditions, including rheumatoid arthritis, psoriatic arthritis, ulcerative colitis, and other indications; AVT16, a biosimilar to an immunology product; AVT23, a biosimilar to Xolair, which is in late-stage development to treat nasal polyps; and AVT33, a biosimilar to an oncology product. The company was founded in 2013 and is headquartered in Reykjavik, Iceland.
+fullTimeEmployees§917
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert  Wessman', 'age': 53, 'title': 'CEO, Founder & Executive Chairman', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Morales', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Faysal  Kalmoua', 'age': 47, 'title': 'COO & Director', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giedrius  Zunda', 'title': 'Chief Technical Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph E. McClellan', 'age': 49, 'title': 'Chief Scientific Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rose-Marie  Ohlsson', 'title': 'Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tanya  Zharov', 'age': 56, 'title': 'General Counsel', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eva Yr Gunnlaugsdottir', 'title': 'Vice President of People & Culture', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anil  Okay', 'age': 37, 'title': 'Chief Commercial Officer', 'yearBorn': 1986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming  Li', 'age': 46, 'title': 'Chief Strategy Officer', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.118
+priceToSalesTrailing12Months§51.16068
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.5
+exchange§NGM
+quoteType§EQUITY
+shortName§Alvotech
+longName§Alvotech
+firstTradeDateEpochUtc§1655386200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§abc02b5d-5044-3532-9d0d-b9db1659ed78
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§6.0
+targetMeanPrice§11.25
+targetMedianPrice§10.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.591
+grossMargins§-1.0889701
+ebitdaMargins§0.0
+trailingPegRatio§None

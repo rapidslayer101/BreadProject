@@ -1,0 +1,21 @@
+# reload+after+2024-01-22 03:35:36.028415
+maxAge§86400
+priceHint§4
+currency§EUR
+exchange§LSE
+quoteType§EQUITY
+shortName§AQUILA EUROPEAN RENEWABLES PLC 
+longName§Aquila European Renewables Ord
+firstTradeDateEpochUtc§1559718000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7b16b98f-f97a-3079-b8e2-d24810a20754
+messageBoardId§finmb_611913399
+targetHighPrice§0.9
+targetLowPrice§0.9
+targetMeanPrice§0.9
+targetMedianPrice§0.9
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§1
+trailingPegRatio§None

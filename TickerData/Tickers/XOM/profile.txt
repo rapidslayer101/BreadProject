@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 17:34:33.764340
+address1§22777 Springwoods Village Parkway
+city§Spring
+state§TX
+zip§77389-1425
+country§United States
+phone§972-940-6000
+website§https://corporate.exxonmobil.com
+industry§Oil & Gas Integrated
+sector§Energy
+longBusinessSummary§Exxon Mobil Corporation engages in the exploration and production of crude oil and natural gas in the United States and internationally. It operates through Upstream, Energy Products, Chemical Products, and Specialty Products segments. The Upstream segment explores for and produces crude oil and natural gas. The Energy Products segment offers fuels, aromatics, and catalysts, as well as licensing services. The Chemical Products segment manufactures and markets petrochemicals including olefins, polyolefins, and intermediates. The Specialty Products segment offers performance products, including lubricants, basestocks, waxes, synthetics, elastomers, and resins. The company is involved in the manufacturing, trade, transport, and sale of crude oil, natural gas, petroleum products, petrochemicals, and other specialty products; and pursuit lower-emission business opportunities including carbon capture and storage, hydrogen, and lower-emission fuels. Exxon Mobil Corporation was founded in 1870 and is headquartered in Spring, Texas.
+fullTimeEmployees§62000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Darren W. Woods', 'age': 58, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 8463868, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn A. Mikells', 'age': 57, 'title': 'Senior VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 5567842, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil A. Chapman', 'age': 61, 'title': 'Senior Vice President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 5248653, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack P. Williams Jr.', 'age': 59, 'title': 'Senior Vice President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 5400331, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen T. McKee', 'age': 55, 'title': 'VP & President of ExxonMobil Product Solutions Company', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 4605436, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leonard M. Fox', 'age': 59, 'title': 'VP, Principal Accounting Officer & Controller', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer K. Driscoll', 'age': 57, 'title': 'Vice President of Investor Relations', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig S. Morford', 'age': 64, 'title': 'VP, Secretary & General Counsel', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey C. Gunnlaugsson', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel L. Ammann', 'age': 51, 'title': 'President of Low Carbon Solutions', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.8
+dividendYield§0.037
+exDividendDate§1699920000
+payoutRatio§0.36150002
+fiveYearAvgDividendYield§5.23
+beta§0.96
+priceToSalesTrailing12Months§1.1706593
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.25
+pegRatio§-1.04
+exchange§NYQ
+quoteType§EQUITY
+shortName§Exxon Mobil Corporation
+longName§Exxon Mobil Corporation
+firstTradeDateEpochUtc§-252322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§623c29c3-4307-34c2-840f-d89284dd4857
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§150.0
+targetLowPrice§105.0
+targetMeanPrice§126.48
+targetMedianPrice§126.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§22
+quickRatio§1.05
+earningsGrowth§-0.519
+grossMargins§0.33866
+ebitdaMargins§0.17844999
+trailingPegRatio§None

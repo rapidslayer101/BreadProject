@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 21:36:08.995590
+address1§31 Chertsey Street
+city§Guildford
+zip§GU1 4HD
+country§United Kingdom
+phone§44 84 4824 3686
+website§https://www.eagleeye.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Eagle Eye Solutions Group plc, together with its subsidiaries, provides marketing technology software as a service (SaaS) solution in the United Kingdom, the United States, Canada, Australia, rest of Europe, and the Asia Pacific. The company offers Eagle Eye AIR platform, an API-based SaaS platform, which provides promotions, loyalty, and gifting solutions to its customers; Eagle Eye API Documentation; Eagle Eye Promote that provides businesses with a platform to manage the set-up and execution of digital and physical promotions across various customer touchpoints; Eagle Eye Reward to build and deploy loyalty or customer engagement proposition; and Eagle Eye Gift for retailers to create and control digital and physical gift cards through web-based stored value management systems, and consumer and B2B portals. It also provides Eagle Eye Subscribe for subscribers to access products, services, promotions, and partner incentives; and Eagle Eye App to drive engagement with customers and boost loyalty. It serves grocery, retail, and food and beverage sectors. Eagle Eye Solutions Group plc was founded in 2003 and is headquartered in Guildford, the United Kingdom.
+fullTimeEmployees§222
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy John Rollit Mason', 'age': 65, 'title': 'CEO & Executive Director', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 858000, 'exercisedValue': 0, 'unexercisedValue': 6965168}, {'maxAge': 1, 'name': 'Mr. Stephen  Rothwell', 'title': 'Founder, Chief Information Officer & Executive Director', 'fiscalYear': 2023, 'totalPay': 503000, 'exercisedValue': 0, 'unexercisedValue': 447735}, {'maxAge': 1, 'name': 'Ms. Lucinda  Sharman-Munday', 'age': 46, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 511000, 'exercisedValue': 0, 'unexercisedValue': 1945562}, {'maxAge': 1, 'name': 'Mr. David  Aylmer', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Dix', 'title': 'Head of Finance & Administration', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Al  Henderson', 'title': 'Chief Sales Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claire  Essex-Crosby', 'title': 'HR Director & Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Jarvis', 'title': 'Head of Solutions Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rich  Millington', 'title': 'Head of Product', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James George Esson', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.091
+priceToSalesTrailing12Months§3.3436127
+currency§GBp
+forwardEps§16.9
+pegRatio§9.21
+exchange§LSE
+quoteType§EQUITY
+shortName§EAGLE EYE SOLUTIONS GROUP PLC O
+longName§Eagle Eye Solutions Group plc
+firstTradeDateEpochUtc§1397631600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§61c48884-7e22-3c19-95ef-0f44181e30b9
+targetHighPrice§860.0
+targetLowPrice§860.0
+targetMeanPrice§860.0
+targetMedianPrice§860.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§1.139
+grossMargins§0.95146006
+ebitdaMargins§0.10266
+trailingPegRatio§None

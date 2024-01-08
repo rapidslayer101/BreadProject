@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 20:46:15.672816
+address1§1101 First Avenue North
+city§Fargo
+state§ND
+zip§58102
+country§United States
+phone§701 298 4200
+website§https://www.niholdingsinc.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§NI Holdings, Inc. underwrites property and casualty insurance products in the United States. The company's products include private passenger auto, non-standard automobile, homeowners, farm owners, crop hail and multi-peril crop, and liability insurance policies. The company was founded in 1946 and is headquartered in Fargo, North Dakota. NI Holdings, Inc. operates as a subsidiary of Nodak Mutual Group, Inc.
+fullTimeEmployees§230
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael James Alexander B.A., M.A.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1441285, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Seth Christopher Daggett CPA', 'age': 44, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 505003, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick W. Duncan', 'age': 56, 'title': 'Senior Vice President of Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 457615, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy John Milius CPA', 'age': 58, 'title': 'VP of Finance, Chief Accounting Officer & Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 369497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'William D. Thompson', 'title': 'Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.282
+priceToSalesTrailing12Months§0.7251427
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§NI Holdings, Inc.
+longName§NI Holdings, Inc.
+firstTradeDateEpochUtc§1489671000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4e1f181a-be62-33a5-919d-d49ca56f9fa7
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.378
+grossMargins§-0.041500002
+ebitdaMargins§-0.03816
+trailingPegRatio§None

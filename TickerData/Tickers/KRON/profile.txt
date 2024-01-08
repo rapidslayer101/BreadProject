@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 17:45:40.733548
+address1§1300 South El Camino Real
+address2§Suite 400
+city§San Mateo
+state§CA
+zip§94402
+country§United States
+phone§650 781 5200
+website§https://kronosbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kronos Bio, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery and development of novel cancer therapeutics. The company's product engine focuses on dysregulated transcription factors and the transcriptional regulatory networks that drive oncogenic activity. Its lead product candidates are KB-0742, an oral cyclin dependent kinase 9 inhibitor for the treatment of MYC-amplified solid tumors, which is in phase 1/2 clinical trial; and Lanraplenib, a next-generation SYK inhibitor to treat the patients with relapsed/refractory FLT3-mutated acute myeloid leukemia. The company was incorporated in 2017 and is headquartered in San Mateo, California.
+fullTimeEmployees§99
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Norbert W. Bischofberger Ph.D.', 'age': 67, 'title': 'President, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 809700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua A. Kazam', 'age': 46, 'title': 'Co-Founder & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 40000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jorge F. DiMartino M.D., Ph.D.', 'age': 59, 'title': 'Chief Medical Officer & Executive VP of Clinical Development', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 593685, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra A. Gardiner', 'age': 57, 'title': 'Interim CFO & Principal Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara A. Kosacz J.D.', 'age': 65, 'title': 'COO, Secretary & General Counsel', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 607994, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christopher  Dinsmore Ph.D.', 'age': 56, 'title': 'Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 595600, 'exercisedValue': 788416, 'unexercisedValue': 1021319}, {'maxAge': 1, 'name': 'Mr. Charles  Lin Ph.D.', 'title': 'Senior Vice President of TRN Mapping', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Elizabeth A. Olek D.O., M.P.H.', 'age': 58, 'title': 'Senior Vice President of Clinical Development', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison  Frisbee J.D.', 'title': 'Senior VP & Deputy General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wes  Trotter Ph.D.', 'title': 'Senior Vice President of Drug Discovery', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.816
+priceToSalesTrailing12Months§16.903332
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.9
+exchange§NMS
+quoteType§EQUITY
+shortName§Kronos Bio, Inc.
+longName§Kronos Bio, Inc.
+firstTradeDateEpochUtc§1602250200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6f8f728e-bb6c-3b57-873b-3a705e9ece7a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§2.5
+targetMeanPrice§5.5
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§7.292
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

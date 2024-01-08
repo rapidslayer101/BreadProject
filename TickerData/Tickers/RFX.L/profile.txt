@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 01:40:10.376800
+address1§Unit 16
+address2§The Parkway Centre Coulby Newham
+city§Middlesbrough
+zip§TS8 0TJ
+country§United Kingdom
+phone§44 16 4257 9957
+website§https://www.ramsdensplc.com
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§Ramsdens Holdings PLC engages in the provision of diversified financial services in the United Kingdom and internationally. It operates through four segments: Foreign Currency Exchange, Pawnbroking Loans, Precious Metals Buying and Selling, and Retailing of Second Hand and New Jewellery. The company engages in the sale and purchase of foreign currency notes to holidaymakers, as well as offers prepaid travel cards and international bank-to-bank payments; and provision of pawnbroking and related financial services. It also provides precious metals buying and selling services; and retails new and second-hand jewelry. The company operates through 158 stores, including two franchised stores, as well as through online channel. Ramsdens Holdings PLC was founded in 1987 and is headquartered in Middlesbrough, the United Kingdom.
+fullTimeEmployees§693
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter Edward Kenyon', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 438711, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Anthony Clyburn', 'age': 41, 'title': 'CFO & Executive Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 307297, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Nigel Brown F.C.A.', 'age': 67, 'title': 'Company Secretary', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.0452
+exDividendDate§1694044800
+payoutRatio§0.3782
+beta§1.098
+priceToSalesTrailing12Months§0.9306175
+currency§GBp
+forwardEps§24.01
+exchange§LSE
+quoteType§EQUITY
+shortName§RAMSDENS HOLDINGS PLC ORD GBP0.
+longName§Ramsdens Holdings PLC
+firstTradeDateEpochUtc§1487145600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b6d69d9c-e866-31ac-98fe-a6025baa6691
+targetHighPrice§290.0
+targetLowPrice§290.0
+targetMeanPrice§290.0
+targetMedianPrice§290.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.578
+earningsGrowth§0.564
+grossMargins§0.56684
+ebitdaMargins§0.15072
+trailingPegRatio§None

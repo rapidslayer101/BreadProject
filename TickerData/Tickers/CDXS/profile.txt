@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 18:43:58.295759
+address1§200 Penobscot Drive
+city§Redwood City
+state§CA
+zip§94063
+country§United States
+phone§650 421 8100
+website§https://www.codexis.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Codexis, Inc. discovers, develops, and sells enzymes and other proteins. The company operates through two segments, Performance Enzymes and Novel Biotherapeutics. It offers biocatalyst products and services; and Codex biocatalyst panels and kits that enable customers to perform chemistry screening. The company also provides biocatalyst screening and protein engineering services. In addition, it offers CodeEvolver protein engineering technology platform, which helps in developing and delivering biocatalysts that perform chemical transformations and enhance the efficiency and productivity of manufacturing processes. The company's platform is also used to discover novel biotherapeutic drug candidates for targeted human diseases, as well as for molecular biology and in vitro diagnostic enzymes. It has a collaboration agreement with Nestlé Health Science to develop CDX-7108 for the treatment of exocrine pancreatic insufficiency. The company sells its products to pharmaceutical manufacturers through its direct sales and business development force in the United States and Europe. The company was incorporated in 2002 and is headquartered in Redwood City, California.
+fullTimeEmployees§248
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Stephen George Dilly MBBS, Ph.D.', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 753609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Norrett M.B.A., M.S.', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 507278, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret  Fitzgerald J.D.', 'age': 52, 'title': 'Chief Legal and Compliance Officer, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 300027, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sriram  Ryali M.B.A.', 'age': 41, 'title': 'Chief Financial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Carrie  McKim', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Frechou-Armijo', 'title': 'Senior VP & Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stefan  Lutz Ph.D.', 'title': 'Senior Vice President of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Sato M.B.A., Ph.D.', 'title': 'Senior Vice President of Pharmaceutical Development, Quality & Regulatory', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.894
+priceToSalesTrailing12Months§2.634318
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.66
+pegRatio§-0.16
+exchange§NMS
+quoteType§EQUITY
+shortName§Codexis, Inc.
+longName§Codexis, Inc.
+firstTradeDateEpochUtc§1271943000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§72094994-0589-309f-a359-b1867502319a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§2.0
+targetMeanPrice§5.83
+targetMedianPrice§5.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.438
+grossMargins§-0.31658
+ebitdaMargins§-0.80322
+trailingPegRatio§None

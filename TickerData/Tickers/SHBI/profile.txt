@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 00:47:11.256267
+address1§18 East Dover Street
+city§Easton
+state§MD
+zip§21601
+country§United States
+phone§410 763 7800
+website§https://www.shorebancshares.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Shore Bancshares, Inc. operates as a bank holding company for the Shore United Bank that provides various commercial and consumer banking products and services to individuals, businesses, and other organizations. It offers checking, savings, overnight investment sweep, and money market accounts; and regular and IRA certificates of deposit, as well as CDARS programs and cash management services. The company also provides commercial loans, such as secured and unsecured loans, working capital loans, lines of credit, term loans, accounts receivable financing, real estate acquisition and development loans, construction loans, and letters of credit; residential real estate construction loans; residential mortgage loans; and loans to consumers, including home equity, automobile, installment, home improvement, and personal lines of credit, as well as other consumer financing products. In addition, it offers non-deposit products, such as mutual funds and annuities, and discount brokerage services; and trust, asset management, and financial planning services. Further, the company provides merchant credit card clearing, as well as telephone, mobile, and Internet banking services; safe deposit boxes; debit and credit cards; direct deposit of payroll; and automatic teller machine services. Shore Bancshares, Inc. was founded in 1876 and is headquartered in Easton, Maryland.
+fullTimeEmployees§660
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Donna J. Stevens', 'age': 60, 'title': 'Executive VP & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 480138, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Burke', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd L. Capitani', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charles F. Kade III', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea E. Colender', 'age': 59, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy M. Lombardi', 'age': 46, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Scot Ebron', 'age': 54, 'title': 'Executive VP & Chief Banking Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles E. Ruch Jr.', 'age': 64, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Talal  Tay', 'age': 45, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0352
+exDividendDate§1700092800
+payoutRatio§0.8136
+fiveYearAvgDividendYield§3.09
+beta§0.947
+priceToSalesTrailing12Months§4.0052743
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.57
+pegRatio§2.22
+exchange§NMS
+quoteType§EQUITY
+shortName§Shore Bancshares, Inc.
+longName§Shore Bancshares, Inc.
+firstTradeDateEpochUtc§986823000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§43793122-e040-38d7-ab92-4ce053d41b8d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§14.0
+targetMeanPrice§15.17
+targetMedianPrice§15.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

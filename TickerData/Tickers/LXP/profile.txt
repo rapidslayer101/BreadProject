@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 22:31:10.198051
+address1§One Penn Plaza
+address2§Suite 4015
+city§New York
+state§NY
+zip§10119-4015
+country§United States
+phone§212 692 7200
+fax§212 594 6600
+website§https://www.lxp.com
+industry§REIT—Industrial
+sector§Real Estate
+longBusinessSummary§LXP Industrial Trust (NYSE: LXP) is a publicly traded real estate investment trust (REIT) focused on single-tenant industrial real estate investments across the United States. LXP seeks to expand its industrial portfolio through acquisitions, build-to-suit transactions, sale-leaseback transactions, development projects and other transactions.
+fullTimeEmployees§66
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. T. Wilson Eglin', 'age': 58, 'title': 'Chairman, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2617988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Boulerice', 'age': 58, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1038758, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph S. Bonventre', 'age': 47, 'title': 'COO, Executive VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1236813, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan P. Mullinix', 'age': 48, 'title': 'Chief Investment Officer & Executive VP', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1063161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Dudley', 'age': 42, 'title': 'Executive VP & Director of Asset Management', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 855173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Cherone', 'age': 41, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather T. Gentry', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sara  Klein', 'title': 'Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Carroll', 'age': 59, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 818241, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natasha  Roberts', 'age': 56, 'title': 'Executive VP & Director of Institutional Fund Management', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.52
+dividendYield§0.0541
+exDividendDate§1703721600
+payoutRatio§2.9412
+fiveYearAvgDividendYield§4.49
+beta§0.874
+priceToSalesTrailing12Months§8.327629
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.03
+pegRatio§48.15
+exchange§NYQ
+quoteType§EQUITY
+shortName§LXP Industrial Trust
+longName§LXP Industrial Trust
+firstTradeDateEpochUtc§751296600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5246afca-d2be-3780-8298-581aa4df535b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.5
+targetLowPrice§8.0
+targetMeanPrice§10.1
+targetMedianPrice§10.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.642
+earningsGrowth§-0.515
+grossMargins§0.81558996
+ebitdaMargins§0.7001
+trailingPegRatio§None

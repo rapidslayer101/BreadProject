@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 18:44:14.708007
+address1§206 East 9th Street
+address2§Suite 1400
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§888 512 8906
+website§https://www.crowdstrike.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§CrowdStrike Holdings, Inc. provides cloud-delivered protection across endpoints and cloud workloads, identity, and data. It offers corporate workload security, security and vulnerability management, managed security services, IT operations management, threat intelligence services, identity protection, and log management. The company primarily sells subscriptions to its Falcon platform and cloud modules through its direct sales team that leverages its network of channel partners. It serves customers worldwide. The company was incorporated in 2011 and is headquartered in Austin, Texas.
+fullTimeEmployees§7745
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. George R. Kurtz', 'age': 52, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 3146344, 'exercisedValue': 0, 'unexercisedValue': 33357998}, {'maxAge': 1, 'name': 'Mr. Burt W. Podbere', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1183147, 'exercisedValue': 2139929, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn  Henry', 'age': 60, 'title': 'Chief Security Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1059755, 'exercisedValue': 4188672, 'unexercisedValue': 296156}, {'maxAge': 1, 'name': 'Mr. Michael  Sentonas', 'age': 49, 'title': 'President', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dmitri  Alperovitch', 'age': 42, 'title': 'Co-Founder', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anurag  Saha', 'age': 44, 'title': 'Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria  Riley', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cathleen Garrigan Anderson', 'title': 'Chief Legal Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Seidel', 'title': 'Chief Sales Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Johnson', 'age': 48, 'title': 'Chief Marketing Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.051
+priceToSalesTrailing12Months§20.868994
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.72
+pegRatio§2.0
+exchange§NMS
+quoteType§EQUITY
+shortName§CrowdStrike Holdings, Inc.
+longName§CrowdStrike Holdings, Inc.
+firstTradeDateEpochUtc§1560346200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§91e696a0-f87a-3aaf-b2cd-1bd49fbc1d92
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§330.0
+targetLowPrice§172.0
+targetMeanPrice§254.7
+targetMedianPrice§245.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§44
+quickRatio§1.586
+grossMargins§0.74619
+ebitdaMargins§0.0019200001
+trailingPegRatio§1.9868

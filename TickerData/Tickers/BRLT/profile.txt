@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 06:43:46.830966
+address1§300 Grant Avenue
+address2§Third Floor
+city§San Francisco
+state§CA
+zip§94108
+country§United States
+phone§800 691 0952
+website§https://www.brilliantearth.com
+industry§Luxury Goods
+sector§Consumer Cyclical
+longBusinessSummary§Brilliant Earth Group, Inc. designs, procures, and sells diamonds, gemstones, and jewelry in the United States and internationally. Its product assortment and merchandise include a collection of diamond engagement rings, wedding and anniversary rings, gemstone rings, and fine jewelry. The company sells directly to consumers through its omnichannel sales platform, including e-commerce and showrooms. The company was founded in 2005 and is headquartered in San Francisco, California.
+fullTimeEmployees§591
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric Scott Grossberg', 'age': 46, 'title': 'Executive Chairman', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 612200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth Tanara Gerstein', 'age': 47, 'title': 'CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 612200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chuenhong  Kuo', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1488763, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.71
+priceToSalesTrailing12Months§0.7122159
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.19
+exchange§NGM
+quoteType§EQUITY
+shortName§Brilliant Earth Group, Inc.
+longName§Brilliant Earth Group, Inc.
+firstTradeDateEpochUtc§1632403800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§36b6ebc9-11fb-32d7-9837-da687f4151ae
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§2.75
+targetMeanPrice§4.45
+targetMedianPrice§4.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.079
+earningsGrowth§-0.649
+grossMargins§0.56474
+ebitdaMargins§0.02871
+trailingPegRatio§None

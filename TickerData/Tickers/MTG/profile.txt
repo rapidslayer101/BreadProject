@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 04:31:32.242803
+address1§MGIC Plaza
+address2§250 East Kilbourn Avenue
+city§Milwaukee
+state§WI
+zip§53202
+country§United States
+phone§414 347 6480
+website§https://mtg.mgic.com
+industry§Insurance—Specialty
+sector§Financial Services
+longBusinessSummary§MGIC Investment Corporation, through its subsidiaries, provides private mortgage insurance, other mortgage credit risk management solutions, and ancillary services to lenders and government sponsored entities in the United States, the District of Columbia, Puerto Rico, and Guam. The company offers primary mortgage insurance that provides mortgage default protection on individual loans, as well as covers unpaid loan principal, delinquent interest, and various expenses associated with the default and subsequent foreclosure. It also provides pool insurance for secondary market mortgage transactions; and contract underwriting services, as well as reinsurance. The company serves originators of residential mortgage loans, including savings institutions, commercial banks, mortgage brokers, credit unions, mortgage bankers, and other lenders. MGIC Investment Corporation was founded in 1957 and is headquartered in Milwaukee, Wisconsin.
+fullTimeEmployees§683
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy James Mattke', 'age': 47, 'title': 'CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2886062, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Salvatore Antonino Miosi', 'age': 55, 'title': 'President & COO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2054930, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathaniel Howe Colson', 'age': 39, 'title': 'Executive VP & CFO', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1192623, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula Christine Maggio', 'age': 54, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1425306, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie Kay Sperber', 'age': 49, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dianna L. Higgins', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danny  Garcia-Velez', 'title': 'Senior Vice President of Sales & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annette M. Adams', 'title': 'Senior VP & Chief Human Resources Officer of MGIC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Mark Thompson', 'age': 60, 'title': 'Executive VP & Chief Risk Officer of MGIC', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Candelmo', 'age': 59, 'title': 'Senior VP & Chief Information Officer of MGIC', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.46
+dividendYield§0.0238
+exDividendDate§1699401600
+payoutRatio§0.168
+fiveYearAvgDividendYield§1.85
+beta§1.276
+priceToSalesTrailing12Months§4.5980177
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.36
+pegRatio§2.58
+exchange§NYQ
+quoteType§EQUITY
+shortName§MGIC Investment Corporation
+longName§MGIC Investment Corporation
+firstTradeDateEpochUtc§681571800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1ccc9120-c4aa-3043-88a8-d96a5cb9509b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§18.0
+targetMeanPrice§19.69
+targetMedianPrice§19.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§2.017
+earningsGrowth§-0.213
+grossMargins§0.84269
+ebitdaMargins§0.85156
+trailingPegRatio§None

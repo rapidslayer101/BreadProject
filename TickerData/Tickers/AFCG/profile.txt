@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 21:43:12.323942
+address1§525 Okeechobee Boulevard
+address2§Suite 1650
+city§West Palm Beach
+state§FL
+zip§33401
+country§United States
+phone§561 510 2390
+website§https://www.afcgamma.com
+industry§REIT—Specialty
+sector§Real Estate
+longBusinessSummary§AFC Gamma, Inc. originates, structures, underwrites, and invests in senior secured loans, and other types of loans and debt securities for established companies operating in the cannabis industry in states that have legalized medical and/or adult use cannabis. It primarily originates loans structured as senior loans secured by real estate, equipment, and licenses and/or other assets of the loan parties to the extent permitted by applicable laws and the regulations governing such loan parties. AFC Gamma, Inc. has elected and qualified to be taxed as a real estate investment trust for the United States federal income tax purposes under the Internal Revenue Code of 1986. AFC Gamma, Inc. was incorporated in 2020 and is based in West Palm Beach, Florida.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Leonard Mark Tannenbaum C.F.A.', 'age': 52, 'title': 'Co-Founder, Partner, Chief Investment Officer & Executive Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 731029}, {'maxAge': 1, 'name': 'Ms. Robyn  Tannenbaum', 'age': 37, 'title': 'Co-Founder, Partner & President', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 123126, 'exercisedValue': 0, 'unexercisedValue': 20563}, {'maxAge': 1, 'name': 'Mr. Daniel  Neville', 'age': 37, 'title': 'CEO & Partner', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Hetzel', 'age': 36, 'title': 'CFO & Treasurer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lana  Ping', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabriel A. Katz', 'age': 35, 'title': 'Chief Legal Officer', 'yearBorn': 1988, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James F. Velgot', 'age': 61, 'title': 'Chief Marketing Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Kirby', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.92
+dividendYield§0.16049999
+exDividendDate§1703721600
+payoutRatio§1.3
+beta§1.107
+priceToSalesTrailing12Months§4.1038074
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.08
+exchange§NGM
+quoteType§EQUITY
+shortName§AFC Gamma, Inc.
+longName§AFC Gamma, Inc.
+firstTradeDateEpochUtc§1616160600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§018cbff6-b53c-3ebf-af19-c550977b01ef
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§10.0
+targetMeanPrice§15.5
+targetMedianPrice§16.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§24.022
+earningsGrowth§-0.317
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

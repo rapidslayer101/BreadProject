@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 17:33:28.675207
+address1§100 California Street
+address2§14th Floor
+city§San Francisco
+state§CA
+zip§94111
+country§United States
+phone§877 374 7836
+website§https://www.stem.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Stem, Inc. operates as a digitally connected and intelligent energy storage network provider in the United States and internationally. The company offers energy storage systems sourced from original equipment manufacturers (OEMs). It also provides Athena, an artificial intelligence platform, which offers battery hardware and software-enabled services to operate the energy storage systems. In addition, the company offers system design and engineering services, supply chain management and procurement, energy storage value stream optimization, warranty and preventive maintenance plan management, operation and maintenance reporting, and program enrollment and incentive management services. It serves commercial and industrial enterprises, independent power producers, renewable project developers, and utilities and grid operators. The company was incorporated in 2009 and is headquartered in San Francisco, California.
+fullTimeEmployees§660
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John E. Carrington', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1161555, 'exercisedValue': 1274591, 'unexercisedValue': 16526452}, {'maxAge': 1, 'name': 'Mr. William J. Bush CPA', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 747802, 'exercisedValue': 1077387, 'unexercisedValue': 1846877}, {'maxAge': 1, 'name': 'Mr. Saul R. Laureles', 'age': 57, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 621148, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kim  Homenock', 'age': 49, 'title': 'Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 553281, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Schaefer', 'age': 61, 'title': 'President of Behind-The-Meter Division', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 636513, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Thompson', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Carlson', 'age': 59, 'title': 'Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rahul  Shukla', 'age': 40, 'title': 'Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larsh M. Johnson', 'age': 65, 'title': 'Chief Technical Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 601611, 'exercisedValue': 0, 'unexercisedValue': 11146645}, {'maxAge': 1, 'name': 'Mr. Theodore J. Durbin', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.006
+priceToSalesTrailing12Months§1.2172465
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§Stem, Inc.
+longName§Stem, Inc.
+firstTradeDateEpochUtc§1602163800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2295e075-0a84-3975-b2f2-a8197bb76b5e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§3.0
+targetMeanPrice§6.48
+targetMedianPrice§5.25
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§1.538
+grossMargins§0.01864
+ebitdaMargins§-0.28599
+trailingPegRatio§None

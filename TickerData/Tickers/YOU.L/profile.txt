@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 10:41:34.479816
+address1§50 Featherstone Street
+city§London
+zip§EC1Y 8RT
+country§United Kingdom
+phone§44 20 7012 6000
+website§https://www.yougov.co.uk
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§YouGov plc provides online market research services in the United Kingdom, the United States, the Middle East, Mainland Europe, and the Asia Pacific. It operates through three divisions: Data Products, Data Services, and Custom Research. The Data Products division offers syndicated data products, which are available to clients on a subscription basis. The Data Services division provides clients with fast-turnaround services. The Custom Research division offers a range of quantitative and qualitative research services. It is also involved in the software development. The company was incorporated in 1998 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1820
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephan  Shakespeare', 'title': 'Co-Founder & Non-Executive Chair', 'fiscalYear': 2023, 'totalPay': 504701, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander George McIntosh', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 438935, 'exercisedValue': 299970, 'unexercisedValue': 4192990}, {'maxAge': 1, 'name': 'Mr. Sundip Singh Chahal', 'age': 48, 'title': 'Chief Business Officer & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 537196, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Hatch', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynda  Vivian', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Richard Douglas Rivers', 'age': 67, 'title': 'Chief Scientist', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 388625, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tilly  Heald', 'title': 'Chief Governance & Compliance Officer and Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Woods', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mounia  Hajji', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Wells', 'title': 'Head of European Political & Social Research', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.09
+dividendYield§0.0076
+exDividendDate§1701302400
+payoutRatio§0.22729999
+fiveYearAvgDividendYield§0.58
+beta§0.812
+priceToSalesTrailing12Months§5.2740483
+currency§GBp
+forwardEps§56.32
+pegRatio§0.67
+exchange§LSE
+quoteType§EQUITY
+shortName§YOUGOV PLC ORD 0.2P
+longName§YouGov plc
+firstTradeDateEpochUtc§1114412400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8fb77066-2c10-37de-9f28-4157359bf4b4
+targetHighPrice§1360.0
+targetLowPrice§1200.0
+targetMeanPrice§1288.0
+targetMedianPrice§1300.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§1.742
+earningsGrowth§0.668
+grossMargins§0.85521007
+ebitdaMargins§0.21951
+trailingPegRatio§None

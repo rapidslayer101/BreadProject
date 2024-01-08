@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 01:40:14.146743
+address1§2 Caldecotte Lake Business Park
+address2§Caldecotte Lake Drive Caldecotte
+city§Milton Keynes
+zip§MK7 8LE
+country§United Kingdom
+website§https://plc.rightmove.co.uk
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§Rightmove plc, together with its subsidiaries, operates property portals in the United Kingdom and internationally. It operates through Agency, New Homes, and Other segments. The Agency segment provides property resale and letting advertising services on its platforms. It also offers tenant references and rent guarantee insurance services to landlords. The New Homes segment provides property advertising services to new home developers and housing associations on its platforms. The Other segment offers overseas and commercial property advertising services; non-property advertising services that include third party advertising and data services; and mortgage services. It serves estate agents, lettings agents, and new homes developers. Rightmove plc was founded in 2000 and is based in Milton Keynes, the United Kingdom.
+fullTimeEmployees§700
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Alison Ann Dolan', 'age': 54, 'title': 'CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 936882, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johan  Svanstrom', 'age': 52, 'title': 'CEO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tarah  Lourens', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Carolyn  Pollard', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.09
+dividendYield§0.016
+exDividendDate§1695859200
+payoutRatio§0.35709998
+fiveYearAvgDividendYield§1.11
+beta§0.966
+priceToSalesTrailing12Months§13.205486
+currency§GBp
+forwardEps§26.19
+pegRatio§3.04
+exchange§LSE
+quoteType§EQUITY
+shortName§RIGHTMOVE PLC ORD 0.1P
+longName§Rightmove plc
+firstTradeDateEpochUtc§1141977600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§170f375a-0edb-373b-a98a-2ac031f9006a
+targetHighPrice§710.0
+targetLowPrice§375.0
+targetMeanPrice§601.22
+targetMedianPrice§613.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§18
+quickRatio§2.371
+earningsGrowth§0.035
+grossMargins§1.0
+ebitdaMargins§0.71985
+trailingPegRatio§None

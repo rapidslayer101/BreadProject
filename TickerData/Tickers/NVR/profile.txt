@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 08:31:53.021847
+address1§Plaza America Tower I
+address2§Suite 500 11700 Plaza America Drive
+city§Reston
+state§VA
+zip§20190
+country§United States
+phone§703 956 4000
+website§https://www.nvrinc.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§NVR, Inc. operates as a homebuilder in the United States. The company operates through, Homebuilding and Mortgage Banking segments. It engages in the construction and sale of single-family detached homes, townhomes, and condominium buildings under the Ryan Homes, NVHomes, and Heartland Homes names. The company markets its Ryan Homes products to first-time and first-time move-up buyers; and NVHomes and Heartland Homes products to move-up and luxury buyers. It also provides various mortgage related services to its homebuilding customers, as well as brokers title insurance; performs title searches in connection with mortgage loan closings; and sells mortgage loans to investors in the secondary markets on a servicing released basis. The company primarily serves in Maryland, Virginia, West Virginia, Delaware, New Jersey, Eastern Pennsylvania, New York, Ohio, Western Pennsylvania, Indiana, Illinois, North Carolina, South Carolina, Florida, Tennessee, and Washington, D.C. NVR, Inc. was founded in 1980 and is headquartered in Reston, Virginia.
+fullTimeEmployees§6550
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul C. Saville', 'age': 67, 'title': 'Executive Chairman of the Board', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 3934350, 'exercisedValue': 0, 'unexercisedValue': 264730016}, {'maxAge': 1, 'name': 'Mr. Eugene James Bredow', 'age': 53, 'title': 'President & CEO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1299968, 'exercisedValue': 2178026, 'unexercisedValue': 57378632}, {'maxAge': 1, 'name': 'Mr. Daniel David Malzahn', 'age': 53, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1187100, 'exercisedValue': 46361344, 'unexercisedValue': 109270136}, {'maxAge': 1, 'name': 'Mr. Matthew B. Kelpy', 'age': 50, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 657450, 'exercisedValue': 0, 'unexercisedValue': 8548961}, {'maxAge': 1, 'name': 'Mr. Curt  McKay', 'title': 'Vice President of Business Planning & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Sack', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Brown', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.121
+priceToSalesTrailing12Months§2.2183976
+currency§USD
+dateShortInterest§1702598400
+forwardEps§422.87
+pegRatio§-2.43
+exchange§NYQ
+quoteType§EQUITY
+shortName§NVR, Inc.
+longName§NVR, Inc.
+firstTradeDateEpochUtc§490887000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1c44bc9b-2e18-3afe-b2b0-0f9355801bcd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7500.0
+targetLowPrice§5950.0
+targetMeanPrice§6826.0
+targetMedianPrice§6950.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§3.642
+earningsGrowth§0.057
+grossMargins§0.26371
+ebitdaMargins§0.20747
+trailingPegRatio§None

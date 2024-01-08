@@ -1,0 +1,27 @@
+# reload+after+2024-01-22 11:32:13.572716
+phone§+41 61 288 5050
+longBusinessSummary§The index is designed to track the price movements of an equally weighted portfolio of two exchange-traded funds (“ETFs”) that hold preferred securities of various issuers. The Securities are two times leveraged with respect to the index and, as a result, will benefit from two times any beneficial, but will be exposed to two times any adverse, compounded monthly performance of the index.
+maxAge§86400
+priceHint§2
+yield§0.1374
+totalAssets§9876600
+navPrice§9.8242
+currency§USD
+category§Trading--Miscellaneous
+ytdReturn§-0.0060737003
+beta3Year§42.22
+fundFamily§UBS
+fundInceptionDate§1537920000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.107409894
+fiveYearAverageReturn§-0.057137597
+exchange§PCX
+quoteType§ETF
+shortName§ETRACS 2xMonthly Pay Leveraged 
+longName§ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN
+firstTradeDateEpochUtc§1537968600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e33ec97e-5c14-325d-bfb8-6317e2b9b072
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

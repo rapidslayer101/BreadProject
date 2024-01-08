@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 15:43:23.572609
+address1§70 Castilian Drive
+city§Santa Barbara
+state§CA
+zip§93117
+country§United States
+phone§805 364 6093
+website§https://www.appfolioinc.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§AppFolio, Inc., together with its subsidiaries, provides cloud business management solutions for the real estate industry. The company offers AppFolio Property Manager, a platform to leverage process automation, easy to use interface, and the optimization of common workflows for property management companies, as well as completes and records critical transactions in the system and give its customers access to the data they need to run their business; AppFolio Property Manager Plus, which offers customizable workflows that allow customers to digitize their existing processes, performance insights, intelligent revenue management, and integrations through selected partners and dedicated strategic account managers; and AppFolio Investment Management, a solution that is designed to enable real estate investment management organizations to manage investor relationships through enhancing transparency and streamlining certain business processes. It also provides value added services that are designed to enhance, automate, and streamline processes and workflows for property management businesses, such as electronic payment, tenant screening, and insurance services. AppFolio, Inc. was incorporated in 2006 and is headquartered in Santa Barbara, California.
+fullTimeEmployees§1785
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shane  Trigg', 'age': 47, 'title': 'President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 941331, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fay Sien Goon', 'age': 45, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 3685491, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Mazza', 'age': 47, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 635143, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Horner', 'title': 'Senior Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. McLure  Foote', 'title': 'Senior Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Barat', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Baird', 'title': 'Senior Vice President of Software Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Womack', 'title': 'Senior Vice President of Payments, Screening & Insurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Moxley', 'title': 'Senior Vice President of Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.796
+priceToSalesTrailing12Months§10.263276
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.2
+pegRatio§4.22
+exchange§NGM
+quoteType§EQUITY
+shortName§AppFolio, Inc.
+longName§AppFolio, Inc.
+firstTradeDateEpochUtc§1435325400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e6ad1e0a-5e18-3a3e-a162-9f0328a1424b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§255.0
+targetLowPrice§185.0
+targetMeanPrice§231.6
+targetMedianPrice§240.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.858
+grossMargins§0.6075
+ebitdaMargins§-0.026989998
+trailingPegRatio§None

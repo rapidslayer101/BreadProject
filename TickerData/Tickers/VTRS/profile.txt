@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 04:47:55.461822
+address1§1000 Mylan Boulevard
+city§Canonsburg
+state§PA
+zip§15317
+country§United States
+phone§724 514 1800
+website§https://www.viatris.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Viatris Inc. operates as a healthcare company worldwide. The company operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. It offers prescription brand drugs, generic drugs, complex generic drugs, biosimilars, and active pharmaceutical ingredients (APIs). The company offers drugs in various therapeutic areas, including noncommunicable and infectious diseases; biosimilars in the areas of oncology, immunology, endocrinology, ophthalmology, and dermatology; and APIs for antibacterial, central nervous system agents, antihistamines/antiasthmatics, cardiovascular, antivirals, antidiabetics, antifungals, and proton pump inhibitor areas, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. It provides its medicines in the form of oral solid doses, injectables, complex dosage forms, and APIs to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. The company distributes its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies. It sells its products under the Lyrica, Lipitor, Creon, Influvac, Wixela Inhub, EpiPen auto-injector, Fraxiparine, and Yupelri; Norvasc and Viagra; AMITIZA, Lipacreon, and Effexor; and Celebrex and ARV names, as well as glargine and SEMGLEE names. The company has collaboration and licensing agreements with Revance Therapeutics, Inc.; Momenta Pharmaceuticals, Inc.; Theravance Biopharma, Inc.; and Fujifilm Kyowa Kirin Biologics Co. Ltd. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.
+fullTimeEmployees§38000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott Andrew Smith', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajiv  Malik', 'age': 62, 'title': 'President & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 15354884, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanjeev  Narula', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2708400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Mauro', 'age': 50, 'title': 'President of Developed Markets', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 9388764, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanjeev Kumar Sethi', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul B. Campbell', 'age': 55, 'title': 'Chief Accounting Officer, Senior VP & Corporate Controller', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian S. Roman', 'age': 53, 'title': 'Global General Counsel', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Bayles', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Mauer', 'title': 'Head of Global Communications & Corporate Brand', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Enrietti', 'title': 'Chief Human Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0401
+exDividendDate§1700611200
+payoutRatio§0.3179
+fiveYearAvgDividendYield§0.89
+beta§1.132
+priceToSalesTrailing12Months§0.9292912
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.8
+pegRatio§-1.57
+exchange§NMS
+quoteType§EQUITY
+shortName§Viatris Inc.
+longName§Viatris Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d5d1873c-6bd3-3e7a-85a5-4c85b774dfd9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§9.0
+targetMeanPrice§14.11
+targetMedianPrice§11.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§0.775
+earningsGrowth§-0.069
+grossMargins§0.42926
+ebitdaMargins§0.31892002
+trailingPegRatio§None

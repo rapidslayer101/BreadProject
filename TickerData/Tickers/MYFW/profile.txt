@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 19:46:09.178164
+address1§1900 16th Street
+address2§Suite 1200
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§303 531 8100
+website§https://www.myfw.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Western Financial, Inc., a financial holding company, provides wealth advisory, private baking, personal trust, investment management, mortgage lending, and institutional asset management services. The company operates through two segments: Wealth Management and Mortgage. The Wealth Management segment provides deposit, loan, life insurance, and trust and investment management advisory products and services. The Mortgage segment engages in soliciting, originating, and selling mortgage loans into the secondary market. It serves entrepreneurs, professionals, high-net worth individuals or families, and business and philanthropic organizations. First Western Financial, Inc. was incorporated in 2002 and is headquartered in Denver, Colorado.
+fullTimeEmployees§365
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott C. Wylie', 'age': 65, 'title': 'Chairman, CEO & President', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 935590, 'exercisedValue': 0, 'unexercisedValue': 174225}, {'maxAge': 1, 'name': 'Ms. Julie A. Courkamp', 'age': 43, 'title': 'COO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 585590, 'exercisedValue': 0, 'unexercisedValue': 54275}, {'maxAge': 1, 'name': 'Mr. John Emery Sawyer C.F.A.', 'age': 54, 'title': 'Chief Investment Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 454990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Weber', 'age': 36, 'title': 'CFO & Treasurer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jesica  Montgomery', 'age': 47, 'title': 'Principal Accounting Officer & Controller', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew C. Cassell', 'age': 47, 'title': 'Chief Banking Officer & President of Commercial Banking', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott J. Lawley C.F.A.', 'age': 59, 'title': 'Chief Credit Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James Allen Scott', 'title': 'Chief Client Experience Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.78
+priceToSalesTrailing12Months§1.8540249
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.46
+exchange§NMS
+quoteType§EQUITY
+shortName§First Western Financial, Inc.
+longName§First Western Financial, Inc.
+firstTradeDateEpochUtc§1532007000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8ddd437c-feb3-3291-b3c1-bc8e910ddd96
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§18.0
+targetMeanPrice§21.67
+targetMedianPrice§22.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+earningsGrowth§-0.5
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

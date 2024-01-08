@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 22:47:12.640172
+address1§3333 Michelson Drive
+address2§Suite 650
+city§Irvine
+state§CA
+zip§92612
+country§United States
+phone§805 562 3500
+website§https://sientra.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Sientra, Inc., a medical aesthetics company, develops and sells medical aesthetics products in the United States and internationally. It offers silicone gel breast implants for use in breast augmentation and breast reconstruction procedures; breast tissue expanders; and scar management products under the Sientra Round, Sientra Teardrop, AlloX2, Dermaspan, Softspan, and BIOCORNEUM brand names. The company also provides fat transfer systems; body contouring products; facial and nasal implants; saline filled sizers. It serves to hospitals, surgery centers, plastic surgeons, dermatologists, and other specialties. The company was formerly known as Juliet Medical, Inc. and changed its name to Sientra, Inc. in April 2007. Sientra, Inc. was incorporated in 2003 and is headquartered in Irvine, California.
+fullTimeEmployees§304
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ronald  Menezes', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 501176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew C. Schmidt', 'age': 62, 'title': 'Senior VP, Treasurer & CFO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 365396, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver Christian Bennett', 'age': 46, 'title': 'Senior VP, Chief Legal, Compliance, & Corporate Development Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 363370, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith J. Sullivan', 'age': 65, 'title': 'Director & Advisor to MiraDry Business', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 40000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline F. Van Hove', 'age': 42, 'title': 'Executive Chair of Board of Directors', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 197737, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Denise  Dajles', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark S. Saxton', 'age': 58, 'title': 'Senior Vice President Sales', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adelle  Walker', 'title': 'Senior Vice President of Corporate Strategy & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Hostetler', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.942
+priceToSalesTrailing12Months§0.086075194
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.86
+pegRatio§-0.01
+exchange§NMS
+quoteType§EQUITY
+shortName§Sientra, Inc.
+longName§Sientra, Inc.
+firstTradeDateEpochUtc§1414589400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0898149a-1b31-3610-9406-7451ff6aea18
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§1.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.293
+grossMargins§0.42106998
+ebitdaMargins§-0.47717997
+trailingPegRatio§None

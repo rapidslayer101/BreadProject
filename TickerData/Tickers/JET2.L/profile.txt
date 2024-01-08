@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 17:39:15.114787
+address1§Low Fare Finder House
+address2§Leeds Bradford Airport
+city§Leeds
+zip§LS19 7TU
+country§United Kingdom
+phone§44 113 2387444
+website§https://www.jet2plc.com
+industry§Travel Services
+sector§Consumer Cyclical
+longBusinessSummary§Jet2 plc, together with its subsidiaries, engages in the leisure travel business primarily in the United Kingdom. The company operates scheduled holiday flights to leisure destinations in the Mediterranean, the Canary Islands, and European Leisure Cities. It is also involved in the package holiday and non-ticket retail activities, as well as passenger and charter aircraft operations. In addition, it engages in the aircraft leasing and financing services. The company was formerly known as Dart Group PLC and changed its name to Jet2 plc in September 2020. Jet2 plc was founded in 1971 and is based in Leeds, the United Kingdom.
+fullTimeEmployees§11716
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen Paul Heapy', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1699000, 'exercisedValue': 167043, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Brown', 'age': 57, 'title': 'Group CFO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1298000, 'exercisedValue': 157475, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  West', 'title': 'Head of Development \x96 IT Systems Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian Bruce Day', 'title': 'Group Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.0095999995
+exDividendDate§1703721600
+payoutRatio§0.06
+fiveYearAvgDividendYield§0.87
+beta§2.207
+priceToSalesTrailing12Months§0.4565347
+currency§GBp
+forwardEps§171.35
+pegRatio§7.4
+exchange§LSE
+quoteType§EQUITY
+shortName§JET2 PLC ORD 1.25P
+longName§Jet2 plc
+firstTradeDateEpochUtc§597052800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2ffe41a3-4799-351e-accf-46ca7a1d1b2c
+targetHighPrice§2200.0
+targetLowPrice§1500.0
+targetMeanPrice§1836.92
+targetMedianPrice§1820.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.565
+earningsGrowth§0.376
+grossMargins§0.17896
+ebitdaMargins§0.105220005
+trailingPegRatio§None

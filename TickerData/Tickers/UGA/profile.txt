@@ -1,0 +1,25 @@
+# reload+after+2024-01-21 17:33:58.144758
+longBusinessSummary§The fund invests in futures contracts for gasoline, other types of gasoline, crude oil, diesel-heating oil, natural gas and other petroleum-based fuels. The Benchmark Futures Contract is the futures contract on gasoline as traded on the New York Mercantile Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration, in which case it will be measured by the futures contract that is the next month contract to expire.
+maxAge§86400
+priceHint§2
+yield§0.0
+totalAssets§84897664
+navPrice§60.653
+currency§USD
+ytdReturn§0.0016474
+beta3Year§1.2
+fundFamily§USCF Investments
+fundInceptionDate§1203984000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.34550813
+fiveYearAverageReturn§0.207344
+exchange§PCX
+quoteType§ETF
+shortName§United States Gasoline Fund LP
+longName§United States Gasoline Fund, LP
+firstTradeDateEpochUtc§1204209000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0f1aa565-e9bc-3541-9d77-90b3408efd4e
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

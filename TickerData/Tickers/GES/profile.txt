@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 21:29:47.627631
+address1§1444 South Alameda Street
+city§Los Angeles
+state§CA
+zip§90021
+country§United States
+phone§213 765 3100
+website§https://www.guess.com
+industry§Apparel Retail
+sector§Consumer Cyclical
+longBusinessSummary§Guess?, Inc. designs, markets, distributes, and licenses lifestyle collections of apparel and accessories for men, women, and children. It operates through five segments: Americas Retail, Americas Wholesale, Europe, Asia, and Licensing. The company's clothing collection includes jeans, pants, skirts, dresses, shorts, blouses, shirts, jackets, activewear, knitwear, and intimate apparel. It also grants licenses to design, manufacture, and distribute various products that complement its apparel lines, such as eyewear, watches, handbags, footwear, kids' and infants' apparel, outerwear, fragrance, jewelry, and other fashion accessories, as well as to wholesale partners to operate and sell products through licensed retail stores. The company markets its products under the GUESS, GUESS?, GUESS U.S.A., GUESS Jeans, GUESS? and Triangle Design, MARCIANO, Question Mark and Triangle Design, a stylized G and a stylized M, GUESS Kids, Baby GUESS, YES, G by GUESS, GUESS by MARCIANO, and Gc brand names. It sells its products through direct-to-consumer, wholesale, and licensing distribution channels. The company also offers its products through its retail websites. Guess?, Inc. was founded in 1981 and is headquartered in Los Angeles, California.
+fullTimeEmployees§12500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Carlos E. Alberini', 'age': 67, 'title': 'CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 1294130, 'exercisedValue': 0, 'unexercisedValue': 3891502}, {'maxAge': 1, 'name': 'Mr. Paul  Marciano', 'age': 71, 'title': 'Co-Founder, Chief Creative Officer & Director', 'yearBorn': 1952, 'fiscalYear': 2023, 'totalPay': 4586633, 'exercisedValue': 0, 'unexercisedValue': 3275002}, {'maxAge': 1, 'name': 'Mr. Markus  Neubrand', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fabrice  Benarouche', 'age': 47, 'title': 'Senior VP of Finance & Investor Relations and Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason T. Miller', 'title': 'General Counsel & Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0521
+exDividendDate§1701734400
+payoutRatio§0.39180002
+fiveYearAvgDividendYield§3.56
+beta§1.885
+priceToSalesTrailing12Months§0.4578879
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.92
+pegRatio§1.91
+exchange§NYQ
+quoteType§EQUITY
+shortName§Guess?, Inc.
+longName§Guess?, Inc.
+firstTradeDateEpochUtc§839511000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§84809c69-5116-3a9d-8c47-0e562022ec8c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.5
+targetLowPrice§22.0
+targetMeanPrice§26.5
+targetMedianPrice§24.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.699
+earningsGrowth§1.44
+grossMargins§0.43625998
+ebitdaMargins§0.10784
+trailingPegRatio§None

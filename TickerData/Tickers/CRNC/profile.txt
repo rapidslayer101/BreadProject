@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 00:44:14.020807
+address1§1 Burlington Woods Drive
+address2§Suite 301A
+city§Burlington
+state§MA
+zip§01803
+country§United States
+phone§857 362 7300
+website§https://www.cerence.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Cerence Inc. provides AI powered virtual assistants for the mobility/transportation market in United States, Other Americas, Germany, Europe, Middle East, Africa, Japan, and Other Asia-Pacific. The company offers edge software components, cloud-connected components, virtual assistant coexistence, and professional services. It also provides conversational artificial intelligence-based solutions, including speech recognition, natural language understanding, speech signal enhancement, text-to-speech, and acoustic modeling technology. Cerence Inc. is headquartered in Burlington, Massachusetts.
+fullTimeEmployees§1700
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Stefan  Ortmanns', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 987609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas L. Beaudoin', 'age': 70, 'title': 'Executive VP, CFO, Principal Financial Officer, Principal Accounting Officer & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 626182, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iqbal  Arshad', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Salinas', 'title': 'Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sachin  Sahney', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sujal  Shah', 'title': 'Head of Professional Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nils  Schanz', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian  Mentz', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dennis J. Close', 'title': 'VP & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nils  Lenke', 'title': 'VP & GM of Applications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.562
+priceToSalesTrailing12Months§2.6761138
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.01
+pegRatio§0.88
+exchange§NMS
+quoteType§EQUITY
+shortName§Cerence Inc.
+longName§Cerence Inc.
+firstTradeDateEpochUtc§1568640600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§32d3328b-bfe5-30d0-935e-7cd8abea2c1c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§19.0
+targetMeanPrice§21.75
+targetMedianPrice§21.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§1.159
+grossMargins§0.67824
+ebitdaMargins§-0.01102
+trailingPegRatio§None

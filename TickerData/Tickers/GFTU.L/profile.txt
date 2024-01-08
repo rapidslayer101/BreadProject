@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 01:38:05.714919
+address1§The Hive
+address2§Carmanhall Road Sandyford Business Park
+city§Dublin
+zip§D18 Y2C9
+country§Ireland
+phone§353 1 216 0600
+website§https://www.graftonplc.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§Grafton Group plc engages in the distribution, retailing, and manufacturing businesses in Ireland, the Netherlands, Finland, and the United Kingdom. Its Distribution segment distributes building and plumbing materials to professional trades people engaged in residential repair, maintenance, and improvement projects, as well as in residential and other new build construction. This segment operates branches primarily under the Selco, MacBlair, Leyland SDM, and TG Lynes brands in the United Kingdom; the Chadwicks brand in the Republic of Ireland; the Isero and Polvo brands in the Netherlands; and the IKH brand in Finland. The company's Retailing segment engages in DIY and home improvement business that supplies a range of products, including paints, lighting products, homestyle products, housewares, bathroom products, and kitchens, as well as gardening and Christmas products. This segment operates stores primarily under the Woodie's brand. Its Manufacturing segment manufactures dry mortars, plastics, and wooden staircases. Grafton Group plc was founded in 1902 and is based in Dublin, Ireland.
+fullTimeEmployees§8826
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric  Born B.A., M.B.A.', 'title': 'CEO & Director', 'fiscalYear': 2022, 'totalPay': 749330, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David L. Arnold B.Sc., F.C.M.A., FCT', 'age': 57, 'title': 'Group CFO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 755000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathon  Sowton', 'title': 'Group Strategic Development Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula  Harvey', 'title': 'Group HR Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Rinn FCCA, M.B.A.', 'title': 'Group Financial Controller & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eddie  Kelly', 'title': 'Chief Executive for Grafton Merchanting Republic of Ireland', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Declan  Ronayne', 'title': "Chief Executive of Woodie's DIY", 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bert  Bunschoten', 'title': 'Chief Executive of Isero', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Luft', 'title': 'Chief Executive Officer of Selco Branch', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Lannigan', 'title': 'Deputy Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.34
+dividendYield§0.0381
+exDividendDate§1695254400
+payoutRatio§0.36450002
+fiveYearAvgDividendYield§1.96
+beta§1.538
+priceToSalesTrailing12Months§0.7789596
+currency§GBp
+forwardEps§62.18
+pegRatio§2.24
+exchange§LSE
+quoteType§EQUITY
+shortName§GRAFTON GROUP PLC UT (1 ORD) (C
+longName§Grafton Group plc
+firstTradeDateEpochUtc§1028012400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ad21754e-94bc-3dc7-a1d5-a9d5e005671f
+targetHighPrice§1295.0
+targetLowPrice§815.0
+targetMeanPrice§1025.0
+targetMedianPrice§985.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.655
+earningsGrowth§-0.254
+grossMargins§0.35722
+ebitdaMargins§0.102060005
+trailingPegRatio§None

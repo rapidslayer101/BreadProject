@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 13:45:40.911903
+address1§One Kendall Square
+address2§Building 600-700 Suite 6-401
+city§Cambridge
+state§MA
+zip§02139-1562
+country§United States
+phone§781-315-4600
+website§https://www.korrobio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Korro Bio, Inc., a biopharmaceutical company, discovers, develops, and commercializes genetic medicines based on editing RNA for the treatment of rare and highly prevalent diseases. Korro Bio, Inc. is based in Cambridge, Massachusetts.
+fullTimeEmployees§95
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nessan  Bermingham Ph.D.', 'age': 50, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ram  Aiyar MBA, Ph.D.', 'title': 'CEO, President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Fraley Ph.D.', 'title': 'Co-Founder & CTO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jean-Francois  Formela M.D., MBA', 'age': 66, 'title': 'Co-Founder & Director', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Rosenthal Ph.D.', 'title': 'Co-Founder & Advisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vineet  Agarwal M.B.A.', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Chappell', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven L. Colletti Ph.D.', 'title': 'Chief Scientific Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelby  Walker J.D.', 'title': 'Senior VP & General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ravi  Ramadas Ph.D.', 'title': 'Vice President of Business & Corporate Development', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-9.7
+exchange§NCM
+quoteType§EQUITY
+shortName§Korro Bio, Inc.
+longName§Korro Bio, Inc.
+firstTradeDateEpochUtc§1570109400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2796a462-87ad-3357-959a-ace1e7e2b1d2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§180.0
+targetLowPrice§70.0
+targetMeanPrice§116.67
+targetMedianPrice§100.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§4.835
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

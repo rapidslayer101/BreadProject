@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 23:46:16.722521
+address1§3111 C Street
+city§Anchorage
+state§AK
+zip§99503
+country§United States
+phone§907 562 0062
+website§https://www.northrim.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Northrim BanCorp, Inc. operates as the bank holding company for Northrim Bank that provides commercial banking products and services to businesses and professional individuals. It operates in two segments, Community Banking and Home Mortgage Lending. The company offers noninterest-bearing checking accounts and interest-bearing time deposits, checking and savings accounts, individual retirement and money market deposit accounts, certificates of deposit, and business sweep accounts. It also provides short and medium-term commercial loans, commercial credit lines, construction and real estate loans, and consumer loans, as well as short-term working capital. In addition, the company offers other services comprising consumer and business online banking, mobile app, and mobile deposits; and debit and credit cards. Further, it provides mobile web and text banking, consumer online account opening, personal finance, online documents, consumer debit cards, business debit cards, my rewards for consumer debit cards, retail lockbox, card control, corporate purchase cards, integrated payables, home equity advantage access cards, telebanking, and automated teller services. Additionally, the company offers personalized checks at account opening, overdraft protection from a savings account, commercial drive-up banking, automatic transfer and payment, People Pay, external transfer, Bill Pay, wire transfer, direct payroll deposit, electronic tax payment, Automated Clearing House origination and receipt, remote deposit capture, account reconciliation and positive pay, merchant, cash management, annuity, and long term investment portfolio products and services. It also provides investment advisory, trust, wealth management, factoring, and mortgage brokerage services. The company was founded in 1990 and is headquartered in Anchorage, Alaska.
+fullTimeEmployees§469
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph M. Schierhorn', 'age': 65, 'title': 'Chairman, President, CEO & COO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 881068, 'exercisedValue': 108685, 'unexercisedValue': 1133718}, {'maxAge': 1, 'name': 'Mr. Jed W. Ballard CPA', 'age': 43, 'title': 'Executive VP & CFO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 470456, 'exercisedValue': 0, 'unexercisedValue': 125924}, {'maxAge': 1, 'name': 'Mr. Benjamin D. Craig', 'age': 48, 'title': 'Executive VP & Chief Information Officer of Northrim Bank', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 386053, 'exercisedValue': 42292, 'unexercisedValue': 22}, {'maxAge': 1, 'name': 'Mr. Michael G. Huston', 'age': 55, 'title': 'President of Northrim Bank', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 515598, 'exercisedValue': 0, 'unexercisedValue': 225959}, {'maxAge': 1, 'name': 'Mr. Michael C. Baldwin', 'age': 56, 'title': 'President & COO of Residential Mortgage, LLC', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 451510, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn A. Wolfe', 'title': 'Executive VP & Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Huntley', 'title': 'Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kari  Skinner', 'title': 'Senior VP & Marketing and Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Latosha M. Frye', 'age': 44, 'title': 'Senior VP & Corporate Accounting Manager', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 323873, 'exercisedValue': 0, 'unexercisedValue': 37341}, {'maxAge': 1, 'name': 'Mr. Mark D. Edwards', 'title': 'Executive VP, Chief Credit Officer & Bank Economist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.4
+dividendYield§0.0442
+exDividendDate§1702425600
+payoutRatio§0.48119998
+fiveYearAvgDividendYield§3.96
+beta§0.719
+priceToSalesTrailing12Months§2.3903375
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.64
+exchange§NMS
+quoteType§EQUITY
+shortName§Northrim BanCorp Inc
+longName§Northrim BanCorp, Inc.
+firstTradeDateEpochUtc§658679400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d6439bf6-261c-3cd1-a053-2d168b8a7f8d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§52.0
+targetLowPrice§52.0
+targetMeanPrice§52.0
+targetMedianPrice§52.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+earningsGrowth§-0.159
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

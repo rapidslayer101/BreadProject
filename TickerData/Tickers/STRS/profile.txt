@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 01:47:25.053192
+address1§212 Lavaca Street
+address2§Suite 300
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§512 478 5788
+fax§512 478 6340
+website§https://www.stratusproperties.com
+industry§Real Estate—Diversified
+sector§Real Estate
+longBusinessSummary§Stratus Properties Inc., a real estate company, engages in the acquisition, entitlement, development, management, and sale of commercial, and multi-and single-family residential real estate properties in Texas. The company operates through two segments, Real Estate Operations and Leasing Operations. Its leasing operations cover lease of space at retail and mixed-use, and multi-family properties. Stratus Properties Inc. was incorporated in 1992 and is headquartered in Austin, Texas.
+fullTimeEmployees§31
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William H. Armstrong III', 'age': 58, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3237054, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin Davis Pickens', 'age': 61, 'title': 'Senior VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 943045, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth N. Jones', 'age': 63, 'title': 'General Counsel & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1663286400
+payoutRatio§0.0
+beta§1.171
+priceToSalesTrailing12Months§8.286854
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Stratus Properties Inc.
+longName§Stratus Properties Inc.
+firstTradeDateEpochUtc§709997400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§10255c84-5736-3a54-ae4f-9d643b00a9b5
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.505
+grossMargins§0.07191
+ebitdaMargins§-0.66302
+trailingPegRatio§None

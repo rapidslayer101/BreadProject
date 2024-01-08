@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 18:45:48.085767
+address1§Building 335
+address2§Claude Dornier Strasse 1
+city§Weßling
+zip§82234
+country§Germany
+phone§49 160 9704 6857
+website§https://www.lilium.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Lilium N.V., a transportation company, engages in the research and development of electric vertical takeoff and landing aircrafts and jet for use in high-speed air transport system for people and goods. Lilium N.V. was incorporated in 2015 and is headquartered in Wessling, Germany.
+fullTimeEmployees§838
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Klaus  Roewe', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 939330, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Wiegand', 'age': 38, 'title': 'Co-Founder, Chief Engineer for Innovation & Future Programs and Executive Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 557315, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sebastian  Born', 'title': 'Co-Founder and Head of Structure & Interior', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthias  Meiner', 'title': 'Co-Founder & Chief Engineer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Vogelgesang', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yves  Yemsi', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alastair  McIntosh', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bjorn  Scheib', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger Mark Franks', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Karim  Jalbout', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.01
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.6
+exchange§NMS
+quoteType§EQUITY
+shortName§Lilium N.V.
+longName§Lilium N.V.
+firstTradeDateEpochUtc§1606141800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0597eecd-b690-30d8-b85a-433db423df6b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.01
+targetLowPrice§0.76
+targetMeanPrice§2.78
+targetMedianPrice§3.01
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.534
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

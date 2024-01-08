@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 13:29:35.905586
+address1§2202 North Irving Street
+city§Allentown
+state§PA
+zip§18109
+country§United States
+phone§888 276 2108
+website§https://www.shift4.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Shift4 Payments, Inc. provides software and payment processing solutions solutions in the United States. It provides omni-channel card acceptance and processing solutions, including credit, debit, contactless card, Europay, Mastercard and visa, QR Pay, and mobile wallets, as well as alternative payment methods; merchant acquiring; proprietary omni-channel gateway; complementary software integrations; integrated and mobile point-of-sale (POS) solutions; security and risk management solutions; reporting and analytical tools; and web-store design, hosting, shopping cart management, and fulfillment integration, as well as tokenization, payment device, and chargeback management, fraud prevention, and gift card solutions. The company also offers VenueNext that provides mobile ordering, countertop POS, and self-service kiosk services, as well as digital wallet to facilitate food and beverage, merchandise, and loyalty for stadium and entertainment venues; and Shift4Shop, which offers eCommerce platform that provides everything a merchant needs to build their business online. In addition, it provides Lighthouse, a cloud-based business intelligence tool that includes customer engagement, social media management, online reputation management, scheduling, and product pricing, as well as reporting and analytics; SkyTab POS, a POS workstations pre-loaded with software suites and integrated payment functionality; SkyTab Mobile, a mobile payment solution; and marketplace technology for integrations into third-party applications. Additionally, it provides merchant underwriting, onboarding and activation, training, risk management, and support services; and software integrations and compliance management, and partner support and services. The company was founded in 1999 and is headquartered in Allentown, Pennsylvania.
+fullTimeEmployees§2300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jared  Isaacman', 'age': 40, 'title': 'Founder, CEO & Chairman', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 445755, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Taylor Lauber', 'age': 39, 'title': 'President & Chief Strategy Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 607490, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nancy J. Disman', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2421256, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan R. Frankel', 'age': 40, 'title': 'Secretary, General Counsel and Executive VP of Legal, Human Resources & Compliance', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 588607, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Demko', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Paul Russo', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robb  Kulin', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Craig McCrohan', 'title': 'Executive Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Lauber', 'title': 'Vice Chairman', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Isaacman', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.588
+priceToSalesTrailing12Months§2.4213452
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.96
+pegRatio§0.5
+exchange§NYQ
+quoteType§EQUITY
+shortName§Shift4 Payments, Inc.
+longName§Shift4 Payments, Inc.
+firstTradeDateEpochUtc§1591363800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§341fee96-92a2-3d8f-8990-6d40d23fb1f9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§97.0
+targetLowPrice§48.68
+targetMeanPrice§79.52
+targetMedianPrice§81.14
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§2.953
+earningsGrowth§-0.061
+grossMargins§0.26561
+ebitdaMargins§0.13908
+trailingPegRatio§None

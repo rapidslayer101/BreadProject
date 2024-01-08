@@ -1,0 +1,24 @@
+# reload+after+2024-01-21 00:32:04.758891
+longBusinessSummary§The fund is an actively-managed ETF that seeks to achieve its objective by (i) investing in one or more other ETFs that seek to obtain exposure to the performance of short-term, investment grade, U.S. dollar-denominated, fixed-rate taxable bonds with a dollar-weighted average maturity of no more than three years with a maximum maturity of five years or directly in the securities held by such ETFs and (ii) selling and purchasing listed short-term put options to generate income to the fund.
+maxAge§86400
+priceHint§2
+yield§0.0512
+totalAssets§61278440
+navPrice§21.4482
+currency§USD
+category§Short-Term Bond
+ytdReturn§-0.015200401
+beta3Year§0.0
+fundFamily§Overlay Shares
+fundInceptionDate§1610582400
+legalType§Exchange Traded Fund
+exchange§PCX
+quoteType§ETF
+shortName§Overlay Shares Short Term Bond 
+longName§Overlay Shares Short Term Bond ETF
+firstTradeDateEpochUtc§1610721000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9b0e68fe-e629-3ae4-addc-f368f3ad3311
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

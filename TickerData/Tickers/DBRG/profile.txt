@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 05:28:27.344140
+address1§750 Park of Commerce Drive
+address2§Suite 210
+city§Boca Raton
+state§FL
+zip§33487-3650
+country§United States
+phone§561 570 4644
+website§https://www.digitalbridge.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§DigitalBridge is an infrastructure investment firm specializing in digital infrastructure assets. They provide services to institutional investors. They primarily invest in data centers, cell towers, fiber networks, small cells, and edge infrastructure. DigitalBridge Group, Inc. was founded in 1991 and is headquartered in Boca Raton, Florida with additional offices in Los Angles, California, and New York New York.
+fullTimeEmployees§300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc Christopher Ganzi', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 31075457, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin J. Jenkins', 'age': 52, 'title': 'President & Chief Investment Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 19446401, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacky  Wu', 'age': 40, 'title': 'EVP, CFO & Treasurer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 2117361, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Liam Edgar Stewart', 'age': 45, 'title': 'Chief Operating Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 2158603, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  Teh', 'title': 'MD & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Chung', 'title': 'MD and Head of Corporate Finance & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Stryker', 'title': 'MD & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey E. Ginsberg', 'title': 'Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Severin  White', 'title': 'MD & Head of Public Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey  Goldschein Esq.', 'title': 'Chief Legal Officer & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0023
+exDividendDate§1703721600
+payoutRatio§0.0
+fiveYearAvgDividendYield§9.92
+beta§2.007
+priceToSalesTrailing12Months§1.6740814
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.04
+exchange§NYQ
+quoteType§EQUITY
+shortName§DigitalBridge Group, Inc.
+longName§DigitalBridge Group, Inc.
+firstTradeDateEpochUtc§1403875800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f0364743-524c-3ba2-83af-baa5a6b42c49
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§19.5
+targetMeanPrice§22.39
+targetMedianPrice§21.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.371
+grossMargins§0.76501
+ebitdaMargins§0.42532003
+trailingPegRatio§None

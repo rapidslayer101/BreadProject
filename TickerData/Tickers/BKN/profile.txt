@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 16:27:22.755501
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240215/blackrock-investment-quality-municipal-trust-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Investment Quality Municipal Trust Inc. is a closed ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets. It invests primarily in investment grade municipal bonds municipal obligations exempt from federal income taxes. Blackrock Investment Quality Municipal Trust Inc. was formed on February 28, 1993 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'MD & Head Portfolio Mngr of Municipal Mutual Fund Desk', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.68
+dividendYield§0.0574
+exDividendDate§1704931200
+payoutRatio§0.85
+fiveYearAvgDividendYield§4.92
+beta§0.535
+priceToSalesTrailing12Months§12.337493
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§BlackRock Investment Quality Mu
+longName§BlackRock Investment Quality Municipal Trust Inc.
+firstTradeDateEpochUtc§730132200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cfdf07b5-f4ed-3080-9204-cce3892f5730
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.401
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 11:40:40.594806
+address1§Aragon House
+address2§University Way Cranfield Technology Park Cranfield
+city§Bedford
+zip§MK43 0EQ
+country§United Kingdom
+phone§44 2034 410 700
+website§https://www.tegplc.co.uk
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§Ten Entertainment Group plc, together with its subsidiaries, engages in operation of tenpin bowling centers in the United Kingdom. The company operates bowling sites with various bowling lanes under the Tenpin brand. It also provides family entertainment space, soft play areas, laser tag arenas, karaoke rooms, escape rooms, pool tables, and amusement machines. The company was formerly known as Birchams Newco plc and changed its name to Ten Entertainment Group plc in March 2017. Ten Entertainment Group plc was incorporated in 2017 and is based in Bedford, the United Kingdom.
+fullTimeEmployees§1742
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Graham  Blackwell', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 629000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antony David Smith', 'age': 49, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 535000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bret  Astle', 'title': 'Operations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.0256
+exDividendDate§1696464000
+payoutRatio§0.33650002
+beta§1.29
+priceToSalesTrailing12Months§2.1975195
+currency§GBp
+forwardEps§33.84
+exchange§LSE
+quoteType§EQUITY
+shortName§TEN ENTERTAINMENT GROUP PLC ORD
+longName§Ten Entertainment Group plc
+firstTradeDateEpochUtc§1492066800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c6dcabe6-b7db-3abe-ace5-fe1b54917ab9
+targetHighPrice§413.0
+targetLowPrice§380.0
+targetMeanPrice§404.25
+targetMedianPrice§412.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.428
+earningsGrowth§-0.332
+grossMargins§0.66170996
+ebitdaMargins§0.30844
+trailingPegRatio§None

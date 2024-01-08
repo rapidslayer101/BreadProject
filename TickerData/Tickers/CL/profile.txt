@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 09:27:54.010698
+address1§300 Park Avenue
+city§New York
+state§NY
+zip§10022-7499
+country§United States
+phone§212 310 2000
+website§https://www.colgatepalmolive.com
+industry§Household & Personal Products
+sector§Consumer Defensive
+longBusinessSummary§Colgate-Palmolive Company, together with its subsidiaries, manufactures and sells consumer products worldwide. The company operates through two segments, Oral, Personal and Home Care; and Pet Nutrition. The Oral, Personal and Home Care segment offers toothpaste, toothbrushes, mouthwash, bar and liquid hand soaps, shower gels, shampoos, conditioners, deodorants and antiperspirants, skin health products, dishwashing detergents, fabric conditioners, household cleaners, and other related items. This segment markets and sells its products under various brands, which include Colgate, Darlie, elmex, hello, meridol, Sorriso, Tom's of Maine, Irish Spring, Palmolive, Protex, Sanex, Softsoap, Lady Speed Stick, Speed Stick, EltaMD, Filorga, PCA SKIN, Ajax, Axion, Fabuloso, Murphy, Suavitel, Soupline, and Cuddly to a range of traditional and eCommerce retailers, wholesalers, and distributors. It also includes pharmaceutical products for dentists and other oral health professionals. The Pet Nutrition segment offers pet nutrition products for everyday nutritional needs under the Hill's Science Diet brand; and a range of therapeutic products to manage disease conditions in dogs and cats under the Hill's Prescription Diet brand. This segment markets and sells its products through pet supply retailers, veterinarians, and eCommerce retailers. Colgate-Palmolive Company was founded in 1806 and is headquartered in New York, New York.
+fullTimeEmployees§33800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Noel R. Wallace', 'age': 59, 'title': 'Chairman, CEO & President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 5315806, 'exercisedValue': 745271, 'unexercisedValue': 4620787}, {'maxAge': 1, 'name': 'Mr. Stanley J. Sutula III', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2865596, 'exercisedValue': 0, 'unexercisedValue': 55655}, {'maxAge': 1, 'name': 'Ms. Jennifer M. Daniels', 'age': 59, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1884820, 'exercisedValue': 607161, 'unexercisedValue': 1566857}, {'maxAge': 1, 'name': 'Mr. Panagiotis  Tsourapas', 'age': 58, 'title': 'Group President of Europe & Developing Markets', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2026807, 'exercisedValue': 530869, 'unexercisedValue': 1682088}, {'maxAge': 1, 'name': 'Ms. Prabha  Parameswaran', 'age': 64, 'title': 'Group President of Growth & Strategy', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2026484, 'exercisedValue': 283257, 'unexercisedValue': 1565660}, {'maxAge': 1, 'name': 'Mr. Stephan  Habif', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Faucher', 'title': 'Chief Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Valerie  Haliburton', 'title': 'Senior Vice President of Global Ethics & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paula  Davis', 'title': 'VP & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sally  Massey', 'age': 49, 'title': 'Chief Human Resources Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.92
+dividendYield§0.024
+exDividendDate§1697760000
+payoutRatio§0.99480003
+fiveYearAvgDividendYield§2.37
+beta§0.431
+priceToSalesTrailing12Months§3.4413302
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.44
+pegRatio§3.16
+exchange§NYQ
+quoteType§EQUITY
+shortName§Colgate-Palmolive Company
+longName§Colgate-Palmolive Company
+firstTradeDateEpochUtc§105197400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5bc574a4-7246-3122-8168-69b32a6aa6f0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§66.0
+targetMeanPrice§83.28
+targetMedianPrice§85.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§0.603
+earningsGrowth§0.16
+grossMargins§0.57227004
+ebitdaMargins§0.21274
+trailingPegRatio§1.4745

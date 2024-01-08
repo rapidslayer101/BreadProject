@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 00:37:56.805559
+address1§71 Queen Victoria Street
+city§London
+zip§EC4V 4AY
+country§United Kingdom
+website§https://www.fundingcircle.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Funding Circle Holdings plc, together with its subsidiaries, provides online lending platforms in the United Kingdom, the United States, and internationally. The company offers small business loans, recovery loan schemes, and business finance solutions to small and medium enterprises. It also provides flexipay and flexipay card solutions. The company acts as a special purpose bankruptcy remote entity that issues loan payment dependent debt securities to accredited investors. The company was incorporated in 2010 and is based in London, the United Kingdom.
+fullTimeEmployees§1059
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lisa Jane Jacobs', 'age': 38, 'title': 'CEO & Executive Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 661000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samir  Desai CBE', 'age': 39, 'title': 'Co-Founder & Non-Executive Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 55000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver J. White', 'age': 55, 'title': 'CFO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 631000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grieg  McEwan', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Morten  Singleton', 'title': 'Investor Relations Executive', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucy K. Vernall', 'title': 'General Counsel, Chief People Officer & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Natasha  Jones', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Allen', 'title': 'U.K. Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerome  Fernandez', 'title': 'FlexiPay Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Belkacem  Krimi', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.841
+priceToSalesTrailing12Months§0.9396697
+currency§GBp
+forwardEps§-4.66
+exchange§LSE
+quoteType§EQUITY
+shortName§FUNDING CIRCLE HOLDINGS PLC ORD
+longName§Funding Circle Holdings plc
+firstTradeDateEpochUtc§1538463600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§37fe6607-1a97-3d17-83ff-16814f209f9b
+targetHighPrice§250.0
+targetLowPrice§70.0
+targetMeanPrice§119.17
+targetMedianPrice§100.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.427
+grossMargins§0.41938
+ebitdaMargins§-0.1775
+trailingPegRatio§None

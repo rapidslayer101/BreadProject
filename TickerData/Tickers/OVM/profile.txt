@@ -1,0 +1,25 @@
+# reload+after+2024-01-22 19:32:04.645220
+longBusinessSummary§The fund is an actively-managed exchange-traded fund ("ETF") that seeks to achieve its objective by (i) investing in one or more other ETFs that seek to obtain exposure to the performance of investment grade municipal bonds and below investment grade municipal bonds or directly in the securities held by such ETFs and (ii) selling and purchasing listed short-term put options to generate income to the fund.
+maxAge§86400
+priceHint§2
+yield§0.0468
+totalAssets§13215624
+navPrice§21.8168
+currency§USD
+category§Muni National Long
+ytdReturn§-0.0149389
+beta3Year§1.18
+fundFamily§Overlay Shares
+fundInceptionDate§1569801600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0070327003
+exchange§PCX
+quoteType§ETF
+shortName§Overlay Shares Municipal Bond E
+longName§Overlay Shares Municipal Bond ETF
+firstTradeDateEpochUtc§1569936600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§efbad055-0864-391b-a3be-7ecc749b46f0
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

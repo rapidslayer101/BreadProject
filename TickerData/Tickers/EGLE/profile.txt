@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 12:28:58.214638
+address1§300 First Stamford Place
+address2§5th Floor
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§203 276 8100
+website§https://www.eagleships.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§Eagle Bulk Shipping Inc. engages in the ocean transportation of dry bulk cargoes worldwide. The company owns, charters, and operates dry bulk vessels that transport a range of bulk cargoes, including iron ore, coal, grains, fertilizers, steel products, petcoke, cement, and forest products. It serves miners, producers, traders, and end users. As of December 31, 2022, the company owned and operated a fleet of 53 vessels. Eagle Bulk Shipping Inc. was incorporated in 2005 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary S. Vogel', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1921564, 'exercisedValue': 433488, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Constantine  Tsoutsoplides', 'age': 46, 'title': 'CFO & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Mitchell', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bo  Westergaard', 'age': 55, 'title': 'Chief Commercial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan  Dowsett', 'title': 'Director of Fleet Performance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.38
+dividendYield§0.024500001
+exDividendDate§1699833600
+payoutRatio§1.0033001
+beta§1.412
+priceToSalesTrailing12Months§1.2671753
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.87
+pegRatio§1.01
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eagle Bulk Shipping Inc.
+longName§Eagle Bulk Shipping Inc.
+firstTradeDateEpochUtc§1119965400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§608ff632-29ab-38f2-8412-5607ea8188d6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§48.0
+targetMeanPrice§54.31
+targetMedianPrice§54.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.685
+grossMargins§0.31792998
+ebitdaMargins§0.18395
+trailingPegRatio§None

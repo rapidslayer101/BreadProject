@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 11:32:26.622329
+address1§5540 Pioneer Creek Drive
+city§Maple Plain
+state§MN
+zip§55359
+country§United States
+phone§763 479 3680
+fax§763 479 2679
+website§https://www.protolabs.com
+industry§Metal Fabrication
+sector§Industrials
+longBusinessSummary§Proto Labs, Inc., together with its subsidiaries, operates as an e-commerce digital manufacturer of custom prototypes and on-demand production parts in the worldwide. The company offers injection molding; computer numerical control machining; three-dimensional (3D) printing, which include stereolithography, selective laser sintering, direct metal laser sintering, multi jet fusion, polyjet, and carbon DLS processes; and sheet metal fabrication products, including quick-turn and e-commerce-enabled custom sheet metal parts. It serves developers and engineers, who use 3D computer-aided design software to design products across a range of end markets. Proto Labs, Inc. was incorporated in 1999 and is headquartered in Maple Plain, Minnesota.
+fullTimeEmployees§2568
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Robert  Bodor', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 854800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Schumacher', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 480773, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oleg  Ryaboy', 'title': 'Global Chief Technology Officer', 'fiscalYear': 2022, 'totalPay': 529783, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bjoern  Klaas', 'age': 53, 'title': 'VP, GM and MD of Europe, Middle East & Africa', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 414891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian F. Peters', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Agnes  Semington', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bram  de Zwart', 'title': 'Head of Innovation of Hubs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jason  Frankman', 'title': 'Controller & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alex  Cappy', 'title': 'VP & CEO of Hubs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.349
+priceToSalesTrailing12Months§1.8910367
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.5
+pegRatio§1.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Proto Labs, Inc.
+longName§Proto Labs, Inc.
+firstTradeDateEpochUtc§1330093800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e9cc04b6-ed3a-3bf4-b1e4-dcaa1888f342
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§30.0
+targetMeanPrice§37.5
+targetMedianPrice§37.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§2.439
+earningsGrowth§1.183
+grossMargins§0.43441
+ebitdaMargins§0.11938
+trailingPegRatio§None

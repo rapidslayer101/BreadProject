@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 07:44:55.539608
+address1§Royal Bank Plaza,
+address2§South Tower 200 Bay Street Suite 2600
+city§Toronto
+state§ON
+zip§M5J 2J1
+country§Canada
+phone§416 943 8099
+fax§416 977 9555
+website§https://sprottfocustrust.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Sprott Focus Trust, Inc. is a closed-ended equity mutual fund launched and managed by Sprott Asset Management, LP. The fund is co-managed by Sprott Asset Management USA Inc. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in value stocks of companies across all market capitalizations. The fund benchmarks the performance of its portfolio against the Russell 3000 Index. It was formerly known as Royce Focus Trust, Inc. Sprott Focus Trust, Inc. was formed on March 2, 1988 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Morgan Royce', 'age': 83, 'title': 'President and Director', 'yearBorn': 1940, 'fiscalYear': 1999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Whitney George', 'age': 65, 'title': 'Portfolio Manager', 'yearBorn': 1958, 'fiscalYear': 1999, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§946598400
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0641
+exDividendDate§1702425600
+payoutRatio§0.4619
+fiveYearAvgDividendYield§8.01
+beta§1.129
+priceToSalesTrailing12Months§33.866524
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§Sprott Focus Trust, Inc. - Clos
+longName§Sprott Focus Trust, Inc.
+firstTradeDateEpochUtc§581779800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a8d211a1-4628-3159-aabc-065d0c5268e3
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.798
+earningsGrowth§2.366
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

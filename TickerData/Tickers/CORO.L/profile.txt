@@ -1,0 +1,36 @@
+# reload+after+2024-01-20 11:36:02.021254
+address1§1 Park Row
+city§Leeds
+zip§LS1 5AB
+country§United Kingdom
+website§https://www.coroenergyplc.com
+industry§Oil & Gas E&P
+industryKey§oil-gas-e-p
+industryDisp§Oil & Gas E&P
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Coro Energy plc engages in the exploration, development, and production of oil and natural gas in South East Asia. Its asset portfolio is situated in the west Natuna basin, offshore Indonesia. Coro Energy plc was incorporated in 2016 and is based in Leeds, the United Kingdom.
+fullTimeEmployees§4
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James  Parsons B.A.', 'age': 50, 'title': 'Executive Chairman', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 316724, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ewen  Ainsworth', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leonardo  Salvadori', 'age': 64, 'title': 'Managing Director of Oil & Gas', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Carrington', 'title': 'Managing Director of Renewables', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.031
+priceToSalesTrailing12Months§41.200325
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CORO ENERGY PLC ORD 0.1P
+longName§Coro Energy plc
+firstTradeDateEpochUtc§1487923200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fedff6bd-a09e-3298-bde9-a2f413cf91a0
+messageBoardId§finmb_418214247
+recommendationKey§none
+quickRatio§0.021
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

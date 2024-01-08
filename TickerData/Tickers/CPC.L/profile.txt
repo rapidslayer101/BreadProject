@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 09:35:59.228399
+address1§Essel House
+address2§2nd Floor 29 Foley Street
+city§London
+zip§W1W 7TH
+country§United Kingdom
+phone§44 20 7559 5106
+website§https://www.citypubcompany.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§The City Pub Group plc, together with its subsidiaries, owns, operates, and manages an estate of pubs. Its pub estate comprises 41 free houses located primarily in London, Cathedral cities, and market towns. The company's portfolio primarily consists of freehold and managed pubs that offers a range of drinks and food tailored for its pubs' customers. It sells craft ales, craft spirits, and independent coffee at its pubs to residents, workers, students, tourists, and shoppers. The company was formerly known as The City Pub Company (East) PLC and changed its name to The City Pub Group plc in November 2017. The City Pub Group plc was incorporated in 2011 and is based in London, the United Kingdom.
+fullTimeEmployees§1053
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Clive Royston Watson ACA', 'age': 62, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 203000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rupert  Clark', 'age': 51, 'title': 'MD, COO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 208000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Holly  Elliott A.C.M.A.', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 223000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Myers', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Merriman A.C.M.A.', 'age': 33, 'title': 'Group Financial Controller & Company Secretary', 'yearBorn': 1990, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1559174400
+payoutRatio§0.0
+beta§1.82
+priceToSalesTrailing12Months§2.3154526
+currency§GBp
+forwardEps§5.45
+lastDividendValue§2.636279
+lastDividendDate§1559174400
+exchange§LSE
+quoteType§EQUITY
+shortName§CITY PUB GROUP PLC (THE) ORD 1P
+longName§The City Pub Group plc
+firstTradeDateEpochUtc§1511424000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5806652b-0b55-3e52-97d4-f358cc04e1b2
+messageBoardId§finmb_278384871
+targetHighPrice§145.0
+targetLowPrice§145.0
+targetMeanPrice§145.0
+targetMedianPrice§145.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.524
+grossMargins§0.75467
+ebitdaMargins§0.10932
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 17:43:41.267369
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrockbkcc.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Capital Investment Corporation, formerly known as BlackRock Kelso Capital Corporation, is a Business Development Company specializing in investments in middle market companies. The fund invests in all industries. It prefers to invest between $10 million and $50 million and can invest more or less in companies with EBITDA or operating cash flow between $10 million and $50 million. The fund invests in the form of senior and junior secured, unsecured, and subordinated debt securities and loans including cash flow, asset backed, and junior lien facilities and equity securities. It's equity investments can be structured in the form of warrants, preferred stock, common equity co-investments, and direct investments in common stock. The fund's debt investments are principally structured to provide for current cash interest and to a lesser extent non-cash interest, particularly with subordinated debt investments, through a pay-in-kind (PIK) feature. It can also make non-control investments.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Edward Keenan C.F.A.', 'age': 47, 'title': 'Chairman of the Board & Interim CEO', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nik  Singhal CFA', 'age': 49, 'title': 'MD & President', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chip  Holladay', 'age': 48, 'title': 'Interim CFO & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laurence D. Paredes Esq.', 'age': 55, 'title': 'Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Marshall Merriman', 'title': 'MD & Vice Chairman of Blackrock US Private Capital Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason A. Mehring', 'age': 51, 'title': 'Managing Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Williams', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Kless', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Dashiell C.F.A.', 'title': 'Managing Director of US Private Capital Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.4
+dividendYield§0.1013
+exDividendDate§1702512000
+payoutRatio§1.8182001
+fiveYearAvgDividendYield§12.73
+beta§1.457
+priceToSalesTrailing12Months§3.698587
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.46
+pegRatio§2.67
+exchange§NMS
+quoteType§EQUITY
+shortName§BlackRock Capital Investment Co
+longName§BlackRock Capital Investment Corporation
+firstTradeDateEpochUtc§1182951000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b2e55c58-6d51-35da-a3fe-a8e025df97dc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.5
+targetLowPrice§3.5
+targetMeanPrice§3.5
+targetMedianPrice§3.5
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.813
+earningsGrowth§0.947
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

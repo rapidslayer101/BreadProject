@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 07:29:18.536462
+address1§5960 Berkshire Lane
+address2§Suite 900
+city§Dallas
+state§TX
+zip§75225
+country§United States
+phone§214 432 2000
+fax§800 759 7625
+website§https://www.eaglematerials.com
+industry§Building Materials
+sector§Basic Materials
+longBusinessSummary§Eagle Materials Inc., through its subsidiaries, manufactures and sells heavy construction materials and light building materials in the United States. It operates in four segments: Cement, Concrete and Aggregates, Gypsum Wallboard, and Recycled Paperboard. The company engages in the mining of limestone for the manufacture, production, distribution, and sale of Portland cement; grinding and sale of slag; and mining of gypsum for the manufacture and sale of gypsum wallboards used to finish the interior walls and ceilings in residential, commercial, and industrial structures. It also manufactures and sells recycled paperboard to gypsum wallboard industry and other paperboard converters, as well as containerboard and lightweight packaging grades. In addition, the company engages in the sale of ready-mix concrete; and mining, extracting, production, and sale of aggregates, including crushed stones, sand, and gravel. Its products are used in commercial and residential construction; public construction projects; and projects to build, expand, and repair roads and highways. The company was formerly known as Centex Construction Products, Inc. and changed its name to Eagle Materials, Inc. in January 2004. Eagle Materials Inc. was founded in 1963 and is headquartered in Dallas, Texas.
+fullTimeEmployees§2400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael R. Haack', 'age': 50, 'title': 'CEO, President & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 3114788, 'exercisedValue': 1172747, 'unexercisedValue': 6678775}, {'maxAge': 1, 'name': 'Mr. D. Craig Kesler', 'age': 47, 'title': 'Executive VP of Finance & Administration and CFO', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 1829608, 'exercisedValue': 0, 'unexercisedValue': 3222474}, {'maxAge': 1, 'name': 'Mr. Matthew M. Newby', 'age': 46, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 433666, 'exercisedValue': 0, 'unexercisedValue': 1544481}, {'maxAge': 1, 'name': 'Mr. William R. Devlin', 'age': 57, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 376223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Haddock', 'title': 'VP of Investor Relations, Strategy & Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Thompson', 'age': 50, 'title': 'Senior Vice President of Cement East', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric M. Cribbs', 'age': 51, 'title': 'President of American Gypsum Company', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tony  Sneska', 'title': 'Senior Vice President of Cement Sales & Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.005
+exDividendDate§1702512000
+payoutRatio§0.0732
+fiveYearAvgDividendYield§0.42
+beta§1.351
+priceToSalesTrailing12Months§3.165711
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.31
+pegRatio§1.75
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eagle Materials Inc
+longName§Eagle Materials Inc.
+firstTradeDateEpochUtc§766157400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8c670f8c-37b9-3e1e-914a-0ce414b049c7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§247.0
+targetLowPrice§170.0
+targetMeanPrice§202.27
+targetMedianPrice§200.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.337
+earningsGrowth§0.145
+grossMargins§0.30796
+ebitdaMargins§0.34747002
+trailingPegRatio§None

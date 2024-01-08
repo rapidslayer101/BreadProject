@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 15:34:20.412731
+address1§231 West Michigan Street
+address2§PO Box 1331
+city§Milwaukee
+state§WI
+zip§53201
+country§United States
+phone§414 221 2345
+website§https://www.wecenergygroup.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§WEC Energy Group, Inc., through its subsidiaries, provides regulated natural gas and electricity, and renewable and nonregulated renewable energy services in the United States. The company operates through six segments: Wisconsin, Illinois, Other States, Electric Transmission, Non-Utility Energy Infrastructure, and Corporate and Other. It generates and distributes electricity from coal, natural gas, and oil, as well as hydroelectric, wind, solar, and biomass sources; provides electric transmission services; offers retail natural gas distribution services; transports natural gas; and generates, distributes, and sells steam. As of December 31, 2022, it operated approximately 35,600 miles of overhead distribution lines and 36,100 miles of underground distribution cables, as well as 430 electric distribution substations and 514,800 line transformers; 52,000 miles of natural gas distribution mains; 1,100 miles of natural gas transmission mains; 2.4 million natural gas lateral services; 500 natural gas distribution and transmission gate stations; and 68.2 billion cubic feet of working gas capacities in underground natural gas storage fields. The company was formerly known as Wisconsin Energy Corporation and changed its name to WEC Energy Group, Inc. in June 2015. WEC Energy Group, Inc. was founded in 1896 and is headquartered in Milwaukee, Wisconsin.
+fullTimeEmployees§7022
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gale E. Klappa', 'age': 72, 'title': 'Executive Chairman of the Board', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 4589465, 'exercisedValue': 0, 'unexercisedValue': 8083050}, {'maxAge': 1, 'name': 'Mr. Scott J. Lauber', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 4294934, 'exercisedValue': 280754, 'unexercisedValue': 2635891}, {'maxAge': 1, 'name': 'Ms. Xia  Liu C.F.A.', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2457806, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret C. Kelsey', 'age': 58, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1661521, 'exercisedValue': 0, 'unexercisedValue': 1025414}, {'maxAge': 1, 'name': 'Mr. Robert M. Garvin', 'age': 56, 'title': 'Executive Vice President of External Affairs', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1291622, 'exercisedValue': 1649253, 'unexercisedValue': 1292929}, {'maxAge': 1, 'name': 'Mr. William J. Guc', 'age': 53, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Molly A. Mulroy', 'title': 'Executive VP & Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Beth Straka CPA', 'age': 58, 'title': 'Senior Vice President of Corporate Communications & Investor Relations', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Schubilske', 'age': 57, 'title': 'VP & Chief Audit Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel P. Krueger', 'title': 'Executive Vice President of WEC Infrastructure & Generation Planning', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.34
+dividendYield§0.0387
+exDividendDate§1707782400
+payoutRatio§0.7101
+fiveYearAvgDividendYield§2.91
+beta§0.424
+priceToSalesTrailing12Months§2.946005
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.91
+pegRatio§3.42
+exchange§NYQ
+quoteType§EQUITY
+shortName§WEC Energy Group, Inc.
+longName§WEC Energy Group, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§78d06f53-0c63-3f4a-b37f-07a545aa974d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§95.0
+targetLowPrice§78.0
+targetMeanPrice§87.93
+targetMedianPrice§87.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§0.316
+earningsGrowth§0.044
+grossMargins§0.37346
+ebitdaMargins§0.35489
+trailingPegRatio§2.672

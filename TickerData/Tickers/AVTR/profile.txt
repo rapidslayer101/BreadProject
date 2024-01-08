@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 19:26:57.193065
+address1§Radnor Corporate Center
+address2§Building One Suite 200 100 Matsonford Road
+city§Radnor
+state§PA
+zip§19087
+country§United States
+phone§610 386 1700
+website§https://www.avantorsciences.com
+industry§Specialty Chemicals
+industryKey§specialty-chemicals
+industryDisp§Specialty Chemicals
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Avantor, Inc. engages in the provision of mission-critical products and services to customers in biopharma, healthcare, education and government, advanced technologies, and applied materials industries in the Americas, Europe, Asia, the Middle East, and Africa. The company offers materials and consumables, such as purity chemicals and reagents, lab products and supplies, formulated silicone materials, customized excipients, customized single-use assemblies, process chromatography resins and columns, analytical sample prep kits, education and microbiology products, clinical trial kits, peristaltic pumps, and fluid handling tips. It also provides equipment and instrumentation products, including filtration systems, virus inactivation systems, incubators, analytical instruments, evaporators, ultra-low-temperature freezers, biological safety cabinets, and critical environment supplies. In addition, the company offers services and specialty procurements comprising onsite lab and production, clinical, equipment, procurement and sourcing, and biopharmaceutical material scale-up and development services. Further, it provides logistics, chemical and equipment tracking, and glassware autoclaving, as well as scientific research support services, such as DNA extraction, bioreactor servicing, clinical and biorepository, and compound management services. Avantor, Inc. was founded in 1904 and is headquartered in Radnor, Pennsylvania.
+fullTimeEmployees§14500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Stubblefield', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1146810, 'exercisedValue': 0, 'unexercisedValue': 6765109}, {'maxAge': 1, 'name': 'Dr. Gerard  Brophy Ph.D.', 'age': 57, 'title': 'Executive VP of Biopharma Production, Executive Officer & Chair of Scientific Advisory Board', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 579468, 'exercisedValue': 1326227, 'unexercisedValue': 67610}, {'maxAge': 1, 'name': 'Mr. Frederic  Vanderhaegen', 'age': 56, 'title': 'Executive Vice President of Europe', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 666119, 'exercisedValue': 0, 'unexercisedValue': 469748}, {'maxAge': 1, 'name': 'Ms. Sheri  Lewis', 'age': 57, 'title': 'Executive Vice President of Global Supply Chain', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 490618, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Brent Jones', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven W. Eck', 'age': 46, 'title': 'Senior VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Wondrasch', 'age': 54, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 808631, 'exercisedValue': 0, 'unexercisedValue': 935093}, {'maxAge': 1, 'name': 'Mr. Tommy J. Thomas CPA', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Claudius O. Sokenu', 'age': 55, 'title': 'Executive VP, Corporate Secretary and Chief Legal & Compliance Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison K. Hosak', 'title': 'Senior Vice President of Global Communications & Brand', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.364
+priceToSalesTrailing12Months§2.0937085
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.08
+pegRatio§5.54
+exchange§NYQ
+quoteType§EQUITY
+shortName§Avantor, Inc.
+longName§Avantor, Inc.
+firstTradeDateEpochUtc§1558099800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§04940212-8f2b-3c14-86b5-6c0c4142577d
+messageBoardId§finmb_403055588
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§19.5
+targetMeanPrice§23.72
+targetMedianPrice§23.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.951
+earningsGrowth§-0.354
+grossMargins§0.34206
+ebitdaMargins§0.19105
+trailingPegRatio§None

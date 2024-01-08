@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 01:27:34.674565
+address1§Oak House
+address2§Hirzel Street
+city§Saint Peter Port
+zip§GY1 2NP
+country§Guernsey
+phone§44 1481 723 450
+website§https://www.burfordcapital.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Burford Capital Limited, through its subsidiaries, provides legal finance products and services worldwide. The company operates through two segments, Capital Provision, and Asset Management and Other Provision. The Capital Provision segment provides capital to the legal industry or in connection with legal matters directly and through investment in private funds. The Asset Management and Other Services segment provides services to the legal industry, including litigation insurance. The company also offers alternative strategies, including lower risk legal finance, post-settlement, and complex strategies. The company was incorporated in 2009 and is based in Saint Peter Port, Guernsey.
+fullTimeEmployees§158
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher P. Bogart', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Hall', 'title': 'Co-Founder, MD & Co-Heads of EMEA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Licht', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aviva O. Will', 'age': 54, 'title': 'Co-Chief Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Perla', 'age': 53, 'title': 'Co-Chief Operating Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan T. Molot', 'age': 56, 'title': 'Chief Investment Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Utley A.C.A.', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark N. Klein', 'age': 55, 'title': 'Chief Administrative Officer & General Counsel', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monika Kumari Singh', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Helfenbein', 'title': 'Vice President of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.13
+dividendYield§0.0085
+exDividendDate§1699488000
+payoutRatio§0.047
+beta§1.033
+priceToSalesTrailing12Months§33.517372
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Burford Capital Limited
+longName§Burford Capital Limited
+firstTradeDateEpochUtc§1603114200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ed15ffd6-ff72-3444-8f13-3544c6460d02
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§16.7
+targetMeanPrice§18.68
+targetMedianPrice§19.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§11.443
+grossMargins§0.82013
+ebitdaMargins§0.0
+trailingPegRatio§None

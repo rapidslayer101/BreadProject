@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 07:47:57.978406
+address1§5601 Great Oaks Parkway
+address2§Great Oaks
+city§San Jose
+state§CA
+zip§95119
+country§United States
+phone§408-801-1000
+website§https://www.westerndigital.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§Western Digital Corporation develops, manufactures, and sells data storage devices and solutions in the United States, China, Hong Kong, Europe, the Middle East, Africa, rest of Asia, and internationally. It offers client devices, including hard disk drives (HDDs) and solid state drives (SSDs) for desktop and notebook personal computers (PCs), gaming consoles, and set top boxes; and flash-based embedded storage products for mobile phones, tablets, notebook PCs, and other portable and wearable devices, as well as automotive, Internet of Things, industrial, and connected home applications. The company also provides enterprise HDDs; enterprise SSDs consisting of flash-based SSDs and software solutions for use in enterprise servers, online transactions, data analysis, and other enterprise applications; and data storage platforms. In addition, it offers external HDD storage products in mobile and desktop form; client portable SSDs; removable cards that are used in consumer devices comprising mobile phones, tablets, imaging systems, and cameras and smart video systems; universal serial bus flash drives for use in the computing and consumer markets; and wireless drive products used in-field backup of created content, as well as wireless streaming of high-definition movies, photos, music, and documents to tablets, smartphones, and PCs. The company sells its products under the Western Digital, SanDisk, and WD brands to original equipment manufacturers, distributors, dealers, resellers, and retailers. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California.
+fullTimeEmployees§53000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David V. Goeckeler', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1150000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wissam G. Jabre', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1016950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Charles Ray Ph.D.', 'age': 55, 'title': 'Chief Legal Officer, Executive VP & Secretary', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1078462, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert W. Soderbery', 'age': 57, 'title': 'Executive VP & GM of Flash Business', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 653200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tiang Yew  Tan', 'age': 53, 'title': 'Executive Vice President of Global Operations', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Wesley M. Scott', 'title': 'Chief Investment Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gene M. Zamiska', 'age': 61, 'title': 'Senior VP of Global Accounting & Chief Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. T.  Peter Andrew', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Tang', 'age': 58, 'title': 'Senior Vice President of Corporate Marketing', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Bastian', 'title': 'Executive VP and Chief People & Inclusion Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1585785600
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.23
+beta§1.595
+priceToSalesTrailing12Months§1.4320828
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.14
+pegRatio§0.54
+exchange§NMS
+quoteType§EQUITY
+shortName§Western Digital Corporation
+longName§Western Digital Corporation
+firstTradeDateEpochUtc§278692200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ca763f18-29c2-36b1-b6fb-b650cbff814d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§42.0
+targetMeanPrice§52.42
+targetMedianPrice§50.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.601
+grossMargins§0.088690005
+ebitdaMargins§-0.0923
+trailingPegRatio§None

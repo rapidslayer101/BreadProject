@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 21:29:16.324516
+address1§Two International Place
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617-482-8260
+website§https://funds.eatonvance.com/Tax-Advantaged-Dividend-Income-Fund-EVT.php
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Eaton Vance Tax-Advantaged Dividend Income Fund is a closed-ended equity mutual fund launched and managed by Eaton Vance Management. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating across the diversified sectors. The fund primarily invests in dividend paying value stocks of companies that qualify for favorable federal income tax treatment. It benchmarks the performance of its portfolio against the Russell 1000 Value Index. Eaton Vance Tax-Advantaged Dividend Income Fund was formed on September 30, 2003 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward J. Perkin C.F.A.', 'age': 51, 'title': 'Portfolio Manager', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.79
+dividendYield§0.080699995
+exDividendDate§1705881600
+payoutRatio§0.1909
+fiveYearAvgDividendYield§7.68
+beta§1.255
+priceToSalesTrailing12Months§20.226917
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eaton Vance Tax Advantaged Divi
+longName§Eaton Vance Tax-Advantaged Dividend Income Fund
+firstTradeDateEpochUtc§1064583000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1e999635-6e5c-3c82-a036-399a1dd16cf7
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.392
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

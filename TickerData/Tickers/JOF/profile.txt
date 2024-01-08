@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 23:30:45.673501
+address1§Toyosu Bayside Cross Tower
+address2§2-2-1, Toyosu, Koto-ku
+city§Tokyo
+zip§135-0061
+country§Japan
+phone§81 3 6387 4066
+website§https://funds.nomura-asset.com/japan-smaller-capitalization/
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Japan Smaller Capitalization Fund, Inc. is a closed-ended equity mutual fund launched by Nomura Asset Management U.S.A. Inc. It is managed by Nomura Asset Management Co., Ltd. The fund invests in the public equity markets of Japan. It invests in stocks traded on the Tokyo, Osaka and Nagoya Stock Exchanges, JASDAQ, Mothers, Hercules, Centrex, and other indices. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in stocks of small cap companies. The fund benchmarks the performance of its portfolio against the The Russell/Nomura Small Cap Index. It was formerly known as Japan OTC Equity Fund, Inc. Japan Smaller Capitalization Fund, Inc. was formed on March 22, 1990 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yutaka  Itabashi', 'age': 57, 'title': 'President and Director', 'yearBorn': 1966, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katayama  Atsushi', 'title': 'Lead Portfolio Manager', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Takeshi  Ebihara', 'title': 'Portfolio Mngr of the Japan Equity Team', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1419984000
+maxAge§86400
+priceHint§2
+dividendRate§0.27
+dividendYield§0.0354
+exDividendDate§1702857600
+payoutRatio§0.031400003
+fiveYearAvgDividendYield§3.65
+beta§0.566
+priceToSalesTrailing12Months§34.99284
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Japan Smaller Capitalization Fu
+longName§Japan Smaller Capitalization Fund, Inc.
+firstTradeDateEpochUtc§637425000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§59af967c-e61a-3b3b-9bb5-74e2200f2c1e
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.967
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

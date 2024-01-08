@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 06:44:26.185686
+address1§440 South Church Street
+address2§Suite 700
+city§Charlotte
+state§NC
+zip§28202
+country§United States
+phone§704 377 8855
+website§https://www.drivenbrands.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Driven Brands Holdings Inc., together with its subsidiaries, provides automotive services to retail and commercial customers in the United States, Canada, and internationally. The company offers various services, such as paint, collision, glass, vehicle repair, car wash, oil change, and maintenance services. It also distributes automotive parts, including radiators, air conditioning components, and exhaust products to automotive repair shops, auto parts stores, body shops, and other auto repair outlets; windshields and glass accessories through a network of distribution centers; and consumable products, such as oil filters and wiper blades, as well as training services to repair and maintenance, and paint and collision shops. The company sells its products and services under the CARSTAR, IMO, MAACO, Meineke Car Care Centers, PH Vitres D'Autos, Take 5 Oil Change, Take 5 Car Wash, Auto Glass Now, Fix Auto USA, and 1-800-Radiator & A/C, Spire Supply, and Automotive Training Institute brands. Driven Brands Holdings Inc. was founded in 1972 and is headquartered in Charlotte, North Carolina.
+fullTimeEmployees§11000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan G. Fitzpatrick', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2558875, 'exercisedValue': 0, 'unexercisedValue': 1123925}, {'maxAge': 1, 'name': 'Mr. Daniel R. Rivera', 'age': 43, 'title': 'Executive VP & COO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1003706, 'exercisedValue': 0, 'unexercisedValue': 159151}, {'maxAge': 1, 'name': "Mr. Scott L. O'Melia", 'age': 53, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 846201, 'exercisedValue': 0, 'unexercisedValue': 279200}, {'maxAge': 1, 'name': 'Mr. Michael G. Macaluso', 'age': 40, 'title': 'Executive VP and Group President of Paint, Collision & Glass', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1296835, 'exercisedValue': 0, 'unexercisedValue': 218464}, {'maxAge': 1, 'name': 'Mr. Gary W. Ferrera', 'age': 60, 'title': 'Executive VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Beland', 'age': 52, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabriel C. Mendoza', 'age': 56, 'title': 'Executive VP & President of Car Wash North America', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 815725, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy Ann Gehlan', 'age': 55, 'title': 'President of Car Wash International', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle L. Marshall', 'age': 44, 'title': 'Executive VP & President of Platform Services', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Meier', 'title': 'Executive VP, Chief Digital & Data Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.151
+priceToSalesTrailing12Months§0.9608407
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.13
+pegRatio§1.4
+exchange§NMS
+quoteType§EQUITY
+shortName§Driven Brands Holdings Inc.
+longName§Driven Brands Holdings Inc.
+firstTradeDateEpochUtc§1611066600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f2ccec3d-73b0-3aac-bccc-7d4f8e21a6a7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§17.0
+targetMeanPrice§21.36
+targetMedianPrice§22.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.834
+grossMargins§0.40784
+ebitdaMargins§0.21234
+trailingPegRatio§None

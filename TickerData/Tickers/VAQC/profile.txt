@@ -1,0 +1,34 @@
+# reload+after+2024-01-21 05:47:47.578869
+address1§One Market Street
+address2§Steuart Tower 23rd Floor
+city§San Francisco
+state§CA
+zip§94105
+country§United States
+phone§415 293 5000
+website§https://www.vectorcapital.com/spac2
+industry§Shell Companies
+sector§Financial Services
+longBusinessSummary§Vector Acquisition Corporation II does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses or entities. The company was incorporated in 2021 and is based in San Francisco, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander R. Slusky', 'age': 55, 'title': 'Chairman & CEO', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David L. Fishman', 'age': 52, 'title': 'President', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Anthony Baylor J.D., CPA', 'age': 63, 'title': 'Chief Financial Officer', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.032
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Vector Acquisition Corporation 
+longName§Vector Acquisition Corporation II
+firstTradeDateEpochUtc§1615386600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§69825b7f-7cf7-36ea-87e1-1538a41f332d
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.06
+earningsGrowth§-0.388
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

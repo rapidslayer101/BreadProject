@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 08:44:18.299722
+address1§105 Leader Heights Road
+city§York
+state§PA
+zip§17403
+country§United States
+phone§717 747 1519
+website§https://www.peoplesbanknet.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Codorus Valley Bancorp, Inc. operates as the bank holding company for the PeoplesBank that provides community banking services in South Central Pennsylvania and Central Maryland. The company accepts demand, money market, time, and savings deposits, as well as certificates of deposit. It also offers commercial loans, such as builder and developer, commercial and residential real estate investor, hotel/motel, wholesale and retail, agriculture, manufacturing, and other loans; and consumer loans, including residential mortgage, home equity, and others. In addition, the company provides mortgage and wealth management services; and sells non-deposit investment products. The company was founded in 1864 and is headquartered in York, Pennsylvania.
+fullTimeEmployees§315
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Craig L. Kauffman', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 836596, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry D. Pickett CPA', 'age': 62, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 381978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diane E. Baker CPA', 'age': 52, 'title': 'Executive VP, Chief Risk Officer, Assistant Treasurer & Assistant Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 389283, 'exercisedValue': 11705, 'unexercisedValue': 77766}, {'maxAge': 1, 'name': 'Mr. Chad M. Clabaugh', 'age': 61, 'title': 'Senior VP & Chief Consumer Banking Officer of PeoplesBank', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 334713, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel R. Stolzer', 'age': 66, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Moss', 'title': 'Director of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. E. Dennis Ginder', 'age': 65, 'title': 'Senior VP & Chief Credit Officer of PeoplesBank', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harland E. Carney III', 'title': 'Senior VP & Director of Commercial Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa L. Greider', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.68
+dividendYield§0.027
+exDividendDate§1698019200
+payoutRatio§0.22379999
+fiveYearAvgDividendYield§2.92
+beta§0.557
+priceToSalesTrailing12Months§2.5046623
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.75
+exchange§NGM
+quoteType§EQUITY
+shortName§Codorus Valley Bancorp, Inc
+longName§Codorus Valley Bancorp, Inc.
+firstTradeDateEpochUtc§765552600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e0ccc6f2-2761-3b7c-be22-2e84ca6649d0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§22.0
+targetMeanPrice§22.0
+targetMedianPrice§22.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+earningsGrowth§-0.186
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

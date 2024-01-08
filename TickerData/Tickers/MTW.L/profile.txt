@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 02:39:40.601743
+address1§1 New Walk Place
+city§Leicester
+zip§LE1 6RU
+country§United Kingdom
+phone§44 11 6240 8700
+fax§44 11 6240 8701
+website§https://www.mattioliwoods.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Mattioli Woods plc provides wealth management and employee benefit services in the United Kingdom. It operates through five segments: Pension Consultancy and Administration, Investment and Asset Management, Private Equity Asset Management, Property Management, and Employee Benefits. The company offers self invested personal pension and small self-administered pension schemes; alternative investment and fund management; and employee engagement, defined contribution and defined benefit pension schemes, workplace savings, healthcare, international benefits, and risk solutions, as well as total reward and flexible benefit systems. The company offers its services to controlling directors and owner-managed businesses, professionals, executives, individuals, families, and retirees. Mattioli Woods plc was founded in 1991 and is based in Leicester, the United Kingdom.
+fullTimeEmployees§896
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian Thomas Mattioli', 'age': 58, 'title': 'Co-Founder, CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1278000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ravi Singh Tara', 'age': 41, 'title': 'CFO, Group Finance Director & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 473000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iain Andrew McKenzie', 'age': 48, 'title': 'COO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 447000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael David Wright', 'age': 41, 'title': 'Deputy CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 503360, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Woods', 'age': 69, 'title': 'Founder', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon John Gibson', 'age': 57, 'title': 'Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel Anthony Reynolds', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Helen  Lovegrove', 'title': 'Group Administration Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'George  Houston', 'title': 'Group Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hina  Chauhan', 'title': 'Head of Human Resource', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.27
+dividendYield§0.044299997
+exDividendDate§1695254400
+payoutRatio§1.7852
+fiveYearAvgDividendYield§3.17
+beta§0.672
+priceToSalesTrailing12Months§2.8699927
+currency§GBp
+forwardEps§54.27
+pegRatio§0.02
+exchange§LSE
+quoteType§EQUITY
+shortName§MATTIOLI WOODS PLC ORD 1P
+longName§Mattioli Woods plc
+firstTradeDateEpochUtc§1132732800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§af934705-7dc8-3d4d-afc9-ef2ba96ca580
+targetHighPrice§875.0
+targetLowPrice§825.0
+targetMeanPrice§855.0
+targetMedianPrice§865.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.566
+earningsGrowth§0.892
+grossMargins§0.43466
+ebitdaMargins§0.26860002
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 13:30:05.432317
+address1§970 Park Pl
+address2§Suite 200
+city§San Mateo
+state§CA
+zip§94403
+country§United States
+phone§650 357 9100
+fax§650 357 9101
+website§https://www.guidewire.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Guidewire Software, Inc. provides a platform for property and casualty (P&C) insurers worldwide. The company offers Guidewire InsuranceSuite Cloud, such as PolicyCenter Cloud, BillingCenter Cloud, and ClaimCenter Cloud applications. It also provides Guidewire InsuranceNow, a cloud-based platform that offers policy, billing, and claims management functionality to insurers; and Guidewire InsuranceSuite for Self-Managed. In addition, the company offers Guidewire Rating Management to manage the pricing of insurance products; and Guidewire Reinsurance Management to use rules-based logic to execute reinsurance strategy through underwriting and claims processes. Further, it provides Guidewire Underwriting Management, a cloud-based integrated business application; Guidewire AppReader, a submission intake management solution; Guidewire ClaimCenter Package for the London market supports the claims workflow used by London Market insurers and brokers; Guidewire Digital Engagement Applications, which enable insurers to provide digital experiences to customers, agents, vendors, and field personnel through their device of choice; and Guidewire for Salesforce to provide customer information regarding policies and claims. Additionally, the company offers Guidewire Predict, a P&C-specific machine-learning platform; Guidewire HazardHub that allows insurers to understand, assess, price, and manage property risk; Guidewire Canvas, Guidewire Compare, and Guidewire Explore cloud-native applications; and Guidewire Cyence, a cyber-risk economic modeling product. The company was incorporated in 2001 and is headquartered in San Mateo, California.
+fullTimeEmployees§3410
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marcus S. Ryu', 'age': 49, 'title': 'Co-Founder & Chairman', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 99725, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael George Rosenbaum', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 1699430, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Priscilla  Hung', 'age': 56, 'title': 'President & COO', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 831781, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Mullen', 'title': 'President & Chief Revenue Officer', 'fiscalYear': 2023, 'totalPay': 1134930, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Elliott Cooper', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 783148, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Winston King', 'age': 51, 'title': 'Chief Administrative Officer, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 763694, 'exercisedValue': 6252, 'unexercisedValue': 5751}, {'maxAge': 1, 'name': 'Mr. Chet  Mandair', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garo  Toomajanian', 'title': 'Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Diana  Stott', 'title': 'Director of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Desmond', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.151
+priceToSalesTrailing12Months§9.384626
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.73
+pegRatio§0.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§Guidewire Software, Inc.
+longName§Guidewire Software, Inc.
+firstTradeDateEpochUtc§1327501800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ada7bf19-132f-3746-afa9-e97ae2fe3df6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§131.0
+targetLowPrice§80.0
+targetMeanPrice§114.25
+targetMedianPrice§115.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§3.488
+grossMargins§0.54318
+ebitdaMargins§-0.10502
+trailingPegRatio§2.6123

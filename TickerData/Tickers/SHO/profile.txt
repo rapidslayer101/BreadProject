@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 17:33:10.258927
+address1§15 Enterprise
+address2§Suite 200
+city§Aliso Viejo
+state§CA
+zip§92656
+country§United States
+phone§949 330 4000
+fax§949 369 4110
+website§https://www.sunstonehotels.com
+industry§REIT—Hotel & Motel
+sector§Real Estate
+longBusinessSummary§Sunstone Hotel Investors, Inc. is a lodging real estate investment trust ("REIT") that as of the date of this release owns 14 hotels comprised of 6,675 rooms, the majority of which are operated under nationally recognized brands. Sunstone's strategy is to create long-term stakeholder value through the acquisition, active ownership and disposition of well-located hotel and resort real estate.
+fullTimeEmployees§40
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bryan Albert Giglia', 'age': 47, 'title': 'Chief Executive Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1743950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert C. Springer', 'age': 45, 'title': 'President & Chief Investment Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1597106, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron R. Reyes', 'age': 44, 'title': 'CFO & Senior VP', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 805892, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Gerard Ostapovicz', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 990581, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David M. Klein', 'age': 54, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1050830, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise  Hertle CPA', 'title': 'Vice President of Corporate Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.0275
+exDividendDate§1703721600
+payoutRatio§0.55
+fiveYearAvgDividendYield§5.84
+beta§1.224
+priceToSalesTrailing12Months§2.2150395
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.34
+pegRatio§1.24
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sunstone Hotel Investors, Inc. 
+longName§Sunstone Hotel Investors, Inc.
+firstTradeDateEpochUtc§1098365400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c14de811-d513-334a-b688-c910ff065a84
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§9.0
+targetMeanPrice§10.04
+targetMedianPrice§10.0
+recommendationMean§3.4
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§1.307
+earningsGrowth§-0.255
+grossMargins§0.46324003
+ebitdaMargins§0.25948998
+trailingPegRatio§None

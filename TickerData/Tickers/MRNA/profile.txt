@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 22:46:06.416872
+address1§200 Technology Square
+city§Cambridge
+state§MA
+zip§02139
+country§United States
+phone§617 714 6500
+website§https://www.modernatx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Moderna, Inc., a biotechnology company, discovers, develops, and commercializes messenger RNA therapeutics and vaccines for the treatment of infectious diseases, immuno-oncology, rare diseases, autoimmune, and cardiovascular diseases in the United States, Europe, and internationally. Its respiratory vaccines include COVID-19, influenza, respiratory syncytial virus, spikevax, and hMPV/PIV3 vaccines; latent vaccines comprise cytomegalovirus, epstein-barr virus, herpes simplex virus, varicella-zoster virus, and human immunodeficiency virus vaccines; and public health vaccines consists of Zika and Nipah vaccines. The company also offers systemic secreted and cell surface therapeutics; cancer vaccines, such as personalized cancer, KRAS, and checkpoint vaccines; intratumoral immuno-oncology products; localized regenerative, systemic intracellular, and inhaled pulmonary therapeutics. It has strategic alliances and collaborations with AstraZeneca; Merck; Vertex Pharmaceuticals Incorporated; Vertex Pharmaceuticals (Europe) Limited; Chiesi Farmaceutici S.p.A.; Metagenomi, Inc.; Carisma Therapeutics, Inc.; CytomX Therapeutics; Defense Advanced Research Projects Agency; Biomedical Advanced Research and Development Authority; Institute for Life Changing Medicines; and The Bill & Melinda Gates Foundation, as well as a strategic partnership with Caris Life Sciences to advance mRNA-Based oncology therapeutics. The company was formerly known as Moderna Therapeutics, Inc. and changed its name to Moderna, Inc. in August 2018. Moderna, Inc. was founded in 2010 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§3900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephane  Bancel', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 4974639, 'exercisedValue': 392583584, 'unexercisedValue': 1314587520}, {'maxAge': 1, 'name': 'Dr. Stephen  Hoge M.D.', 'age': 47, 'title': 'President', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2411581, 'exercisedValue': 56523360, 'unexercisedValue': 557569280}, {'maxAge': 1, 'name': 'Mr. James M. Mock', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1491856, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jerh  Collins Ph.D.', 'age': 57, 'title': 'Chief Technical Operations & Quality Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Melissa J. Moore Ph.D.', 'title': 'Chief Scientific Officer & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad  Miller', 'age': 50, 'title': 'Chief Information Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lavina  Talukdar CFA', 'title': 'Senior VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon Thyme Klinger', 'age': 52, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1761250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Colleen  Hussey', 'title': 'Senior Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  Franklin', 'age': 43, 'title': 'Chief Human Resources Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.651
+priceToSalesTrailing12Months§4.645135
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-6.79
+pegRatio§0.15
+exchange§NMS
+quoteType§EQUITY
+shortName§Moderna, Inc.
+longName§Moderna, Inc.
+firstTradeDateEpochUtc§1544193000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§210c0d72-66a5-36d2-944f-611b6274a1fc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§310.0
+targetLowPrice§52.0
+targetMeanPrice§131.23
+targetMedianPrice§120.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§2.216
+grossMargins§-0.13277
+ebitdaMargins§-0.23747
+trailingPegRatio§None

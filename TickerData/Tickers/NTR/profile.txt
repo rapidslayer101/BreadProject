@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 03:31:50.531433
+address1§211 19th Street East
+address2§Suite 1700
+city§Saskatoon
+state§SK
+zip§S7K 5R6
+country§Canada
+phone§306-933-8500
+website§https://www.nutrien.com
+industry§Agricultural Inputs
+sector§Basic Materials
+longBusinessSummary§Nutrien Ltd. provides crop inputs and services. The company operates through Retail, Potash, Nitrogen, and Phosphate segments. The Retail segment distributes crop nutrients, crop protection products, seeds, and merchandise products. The Potash segment provides granular and standard potash products. The Nitrogen segment offers ammonia, urea, urea ammonium nitrate, industrial grade ammonium nitrate, and ammonium sulfate. The Phosphate segment provides solid fertilizer, liquid fertilizer, and industrial and feed products. In addition, it provides services directly to growers through a network of farm centers in North America, South America, and Australia. The company was incorporated in 2017 and is headquartered in Saskatoon, Canada.
+fullTimeEmployees§24700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kenneth A. Seitz', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2248873, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pedro  Farah', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'totalPay': 1782174, 'exercisedValue': 4238024, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noralee M. Bradley LLB.', 'title': 'Executive VP of External Affairs and Chief Sustainability & Legal Officer', 'fiscalYear': 2022, 'totalPay': 1271498, 'exercisedValue': 586667, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Thompson', 'title': 'Executive VP & Chief Commercial Officer', 'fiscalYear': 2022, 'totalPay': 836361, 'exercisedValue': 966417, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Martin Tarsi', 'title': 'Executive VP & President of Global Retail', 'fiscalYear': 2022, 'totalPay': 1383718, 'exercisedValue': 1443219, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeff  Holzman', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Megan  Fielding', 'title': 'VP of Brand & Culture Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Kelemen', 'title': 'Executive VP and Chief of Corporate Development & Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jason  Newton', 'title': 'Head Economist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trevor  Williams', 'title': 'Executive VP and President of Nitrogen & Phosphate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.12
+dividendYield§0.0377
+exDividendDate§1703721600
+payoutRatio§0.4705
+fiveYearAvgDividendYield§3.29
+beta§0.955
+priceToSalesTrailing12Months§0.9274565
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.03
+pegRatio§-0.52
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nutrien Ltd.
+longName§Nutrien Ltd.
+firstTradeDateEpochUtc§1514903400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fef099d9-12ec-336f-a24f-ac89f6380dc9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§56.0
+targetMeanPrice§72.22
+targetMedianPrice§71.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.731
+earningsGrowth§-0.949
+grossMargins§0.32075
+ebitdaMargins§0.21851
+trailingPegRatio§None

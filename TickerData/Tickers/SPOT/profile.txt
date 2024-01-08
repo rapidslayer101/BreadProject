@@ -1,0 +1,47 @@
+# reload+after+2024-01-23 06:33:23.180607
+address1§5, Place de la Gare
+city§Luxembourg City
+zip§1616
+country§Luxembourg
+website§https://www.spotify.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§Spotify Technology S.A., together with its subsidiaries, provides audio streaming services worldwide. It operates through two segments, Premium and Ad-Supported. The Premium segment offers unlimited online and offline streaming access to its catalog of music and podcasts without commercial breaks to its subscribers. The Ad-Supported segment provides on-demand online access to its catalog of music and unlimited online access to the catalog of podcasts to its subscribers on their computers, tablets, and compatible mobile devices. The company also offers sales, distribution and marketing, contract research and development, and customer support services. Spotify Technology S.A. was incorporated in 2006 and is based in Luxembourg, Luxembourg.
+fullTimeEmployees§9241
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel G. Ek', 'age': 40, 'title': 'Founder, CEO & Chairman', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 181085, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Norström', 'age': 45, 'title': 'Chief Business Officer & Co-President', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 411289, 'exercisedValue': 3605944, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gustav  Söderström', 'age': 45, 'title': 'Co-President, Chief Product & Technology Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 408272, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sven Martin Lorentzon', 'age': 54, 'title': 'Co-Founder & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Aaron Vogel', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 609988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Sawyer', 'title': 'Controller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan Daniel Goldberg', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eve  Konstan', 'age': 54, 'title': 'General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dustee Tucker Jenkins', 'age': 44, 'title': 'Chief Public Affairs Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katarina  Berg', 'age': 55, 'title': 'Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.629
+priceToSalesTrailing12Months§2.9636872
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.19
+pegRatio§0.36
+exchange§NYQ
+quoteType§EQUITY
+shortName§Spotify Technology S.A.
+longName§Spotify Technology S.A.
+firstTradeDateEpochUtc§1522762200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5bac85a0-c611-3def-a4ab-0dfb383056f4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§300.96
+targetLowPrice§148.48
+targetMeanPrice§211.6
+targetMedianPrice§213.69
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§30
+quickRatio§1.143
+grossMargins§0.25687
+ebitdaMargins§-0.02841
+trailingPegRatio§None

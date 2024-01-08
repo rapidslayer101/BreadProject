@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 14:47:54.031570
+address1§12061 Bluemont Way
+city§Reston
+state§VA
+zip§20190
+country§United States
+phone§703 948 3200
+website§https://www.verisign.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§VeriSign, Inc., together with its subsidiaries, provides domain name registry services and internet infrastructure that enables internet navigation for various recognized domain names worldwide. The company enables the security, stability, and resiliency of internet infrastructure and services, including providing root zone maintainer services, operating two of the 13 internet root servers; and offering registration services and authoritative resolution for the .com and .net domains, which supports global e-commerce. It also back-end systems for .cc, .gov, .edu, and .name domain names, as well as operates distributed servers, networking, security, and data integrity services. The company was incorporated in 1995 and is headquartered in Reston, Virginia.
+fullTimeEmployees§914
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. D. James Bidzos', 'age': 68, 'title': 'Executive Chairman of the Board & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 2279249, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd B. Strubbe', 'age': 60, 'title': 'President & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1150312, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George E. Kilguss III', 'age': 62, 'title': 'Executive VP & CFO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1046431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Indelicarto', 'age': 59, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 970861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danny R. McPherson', 'title': 'Executive VP of Engineering & Operations and Chief Security Officer', 'fiscalYear': 2022, 'totalPay': 1028547, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Burt  Kaliski Jr.', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Atchley', 'age': 51, 'title': 'VP,  Treasury & Investor Relations', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Lentz', 'title': 'Senior Vice President of Corporate Services & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ebrahim  Keshavarz', 'title': 'Senior Vice President of Marketing, Product & Channel Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ellen  Petrocci', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1304553600
+payoutRatio§0.0
+beta§0.932
+priceToSalesTrailing12Months§13.566712
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.17
+pegRatio§3.45
+exchange§NMS
+quoteType§EQUITY
+shortName§VeriSign, Inc.
+longName§VeriSign, Inc.
+firstTradeDateEpochUtc§886170600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§994d23c4-bd6e-34e9-9e25-7f9a666ca01a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§240.0
+targetLowPrice§215.0
+targetMeanPrice§227.5
+targetMedianPrice§227.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.808
+earningsGrowth§0.158
+grossMargins§0.86551005
+ebitdaMargins§0.69856
+trailingPegRatio§1.9881

@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 03:29:50.249606
+longBusinessSummary§The fund seeks to achieve its investment objective by investing at least 80% of its assets (exclusive of collateral held from securities lending) in securities included in its underlying index. The index is a rules-based index that is designed to measure the performance of investment grade, corporate bonds denominated in U.S. dollars ("USD") that meet certain liquidity and fundamental screening criteria.
+maxAge§86400
+priceHint§2
+yield§0.0367
+totalAssets§625077440
+navPrice§45.61
+currency§USD
+category§Corporate Bond
+ytdReturn§-0.014471999
+beta3Year§1.29
+fundFamily§Goldman Sachs
+fundInceptionDate§1496707200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0366457
+fiveYearAverageReturn§0.0228538
+exchange§PCX
+quoteType§ETF
+shortName§Goldman Sachs Access Investment
+longName§Goldman Sachs Access Investment Grade Corporate Bond ETF
+firstTradeDateEpochUtc§1496928600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a8ff2524-15f6-37f4-9f2f-6be23688e482
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

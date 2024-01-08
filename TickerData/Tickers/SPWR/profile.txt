@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 14:47:21.666458
+address1§1414 Harbour Way South
+city§Richmond
+state§CA
+zip§94804
+country§United States
+phone§510 540 0550
+website§https://us.sunpower.com
+industry§Solar
+sector§Technology
+longBusinessSummary§SunPower Corporation, a solar technology and energy services provider, offers solar, storage, and home energy solutions primarily in the United States and Canada. Its solutions include the Equinox and SunVault systems which are pre-engineered modular solutions for residential applications that combine solar module technology with integrated plug-and-play power stations, cable management systems, and mounting hardware that enable dealers and installers to complete system installations, as well as for end customers to manage their energy production. The company also provides post-installation monitoring and maintenance services. It serves residential customers, including individual homeowners and new home builders. The company was incorporated in 1985 and is headquartered in San Jose, California. SunPower Corporation operates as a subsidiary of TotalEnergies SE.
+fullTimeEmployees§4710
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter T. Faricy', 'age': 57, 'title': 'Chairman, President & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1224540, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guthrie  Dundas', 'age': 38, 'title': 'VP of Finance & Treasurer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 435928, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Eby', 'age': 59, 'title': 'Principal Accounting Officer, Executive VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Johnston', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Koppelman', 'title': 'Executive VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Weinstein', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eileen  Evans', 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Dawe', 'title': 'Global Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joanne  Endow', 'title': 'Head of ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.605
+priceToSalesTrailing12Months§0.38090333
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.27
+pegRatio§0.23
+exchange§NMS
+quoteType§EQUITY
+shortName§SunPower Corporation
+longName§SunPower Corporation
+firstTradeDateEpochUtc§1132237800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§09eaa69a-d13f-3dc8-b5db-339019a2d717
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§2.5
+targetMeanPrice§4.73
+targetMedianPrice§5.0
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§23
+quickRatio§0.406
+grossMargins§0.16552
+ebitdaMargins§-0.0034599998
+trailingPegRatio§None

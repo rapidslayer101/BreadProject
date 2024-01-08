@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 03:44:57.447864
+address1§4800 Montgomery Lane
+address2§Suite 220
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§301 500 1556
+website§https://www.gaintherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Gain Therapeutics, Inc., a biotechnology company, researches and develops novel therapies to treat diseases caused by protein misfolding in Switzerland and Spain. It focuses on rare genetic diseases and neurological disorders. The company uses its Site-Directed Enzyme Enhancement Therapy platform to discover allosteric sites on misfolded proteins and identify proprietary small molecules that bind these sites, restore protein folding, and treat disease. Its lead product candidate includes GT-02287, for the treatment of GBA1 Parkinson's disease. In addition, the company is developing structurally targeted allosteric regulator candidates to treat various diseases, including Morquio B, GM1 gangliosidosis (GM1), neuronopathic Gaucher disease, GBA1 Parkinson's, Krabbe, and Mucopolysaccharidosis type 1 diseases. Gain Therapeutics, Inc. was founded in 2017 and is headquartered in Bethesda, Maryland.
+fullTimeEmployees§28
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Khalid  Islam Ph.D.', 'age': 68, 'title': 'Founder & Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 75000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthias  Alder LIC. IUR., LL.M.', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 593002, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Evan Ballantyne', 'age': 63, 'title': 'CFO & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gianluca  Fuggetta', 'age': 34, 'title': 'Principal Accounting Officer & Senior Director of Corporate Reporting', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Xavier  Barril Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Manolo  Bellotto Ph.D.', 'age': 52, 'title': 'GM & Chief Strategy Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 251992, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Joanne  Taylor Ph.D.', 'title': 'Senior VP of Research & Scientific Advisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Terenzio  Ignoni Pharm.D.', 'title': 'Senior Vice President of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.366
+priceToSalesTrailing12Months§1100.9016
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.16
+exchange§NGM
+quoteType§EQUITY
+shortName§Gain Therapeutics, Inc.
+longName§Gain Therapeutics, Inc.
+firstTradeDateEpochUtc§1616160600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b010f87c-2d85-33b5-99a7-679af46af6c6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§6.0
+targetMeanPrice§8.8
+targetMedianPrice§9.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.14
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

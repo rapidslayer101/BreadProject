@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 08:46:25.780997
+address1§20 Acorn Park Drive
+city§Cambridge
+state§MA
+zip§02140
+country§United States
+phone§617 949 4360
+website§https://omegatherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Omega Therapeutics, Inc. operates as a clinical-stage biotechnology company. The company's OMEGA platform enables control of fundamental epigenetic processes to correct the root cause of disease by restoring aberrant gene expression to a range without altering native nucleic acid sequences. It also develops OTX-2002 for hepatocellular carcinoma; OTX-2101 for non-small cell lung cancer; omega epigenomic controllers (OEC) for inflammatory lung diseases, such as neutrophilic asthma, acute respiratory distress syndrome, dermatological, oncology, and rheumatological indications; OEC candidates for idiopathic pulmonary fibrosis; liver regeneration medicines; and OEC candidates for patients with diabetes and other conditions to treat corneal epithelial injury. In addition, the company develops OEC candidates for the treatment of alopecia, a disorder characterized by patches of non-scarring hair loss affecting the scalp and body. Omega Therapeutics, Inc. was incorporated in 2016 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§116
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mahesh  Karande', 'age': 49, 'title': 'President, CEO & Board Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 812883, 'exercisedValue': 0, 'unexercisedValue': 5406580}, {'maxAge': 1, 'name': 'Ms. Ling  Zeng Esq., J.D.', 'age': 54, 'title': 'Chief Legal & Administrative Officer and Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 519360, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yan  Moore M.D.', 'age': 56, 'title': 'Chief Medical Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1141310, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Reed M.B.A.', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sivakesava  Sakhamuri Ph.D.', 'title': 'Senior VP and Head of Technical Operations & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thomas  McCauley', 'age': 54, 'title': 'Chief Scientific Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 588502, 'exercisedValue': 0, 'unexercisedValue': 1552663}, {'maxAge': 1, 'name': 'Mr. Anthony  Mullin', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Charles  O'Donnell Ph.D.", 'title': 'VP and Head of Computational Genomics & Data Sciences', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.835
+priceToSalesTrailing12Months§85.23679
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.73
+exchange§NMS
+quoteType§EQUITY
+shortName§Omega Therapeutics, Inc.
+longName§Omega Therapeutics, Inc.
+firstTradeDateEpochUtc§1627651800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e046328d-569d-31a8-8bc4-add6aa7b1218
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§10.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.384
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

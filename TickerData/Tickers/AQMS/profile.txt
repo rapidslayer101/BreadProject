@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 20:43:24.458178
+address1§5370 Kietzke Lane
+address2§Suite 201
+city§Reno
+state§NV
+zip§89511
+country§United States
+phone§775 446 5486
+website§https://www.aquametals.com
+industry§Waste Management
+sector§Industrials
+longBusinessSummary§Aqua Metals, Inc. engages in reinventing metals recycling with its patented AquaRefining technology. The company provides a recycling solution for materials strategic to energy storage and electric vehicle manufacturing supply chains. Its AquaRefining is a low-emissions, recycling technology that replaces polluting furnaces and hazardous chemicals with electricity-powered electroplating to recover valuable metals and materials from spent batteries. Aqua Metals, Inc. was incorporated in 2014 and is based in Reno, Nevada.
+fullTimeEmployees§30
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen  Cotton', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 957000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Judd B. Merrill CPA', 'age': 52, 'title': 'CFO & Company Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 620000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin S. Taecker', 'age': 41, 'title': 'Chief Engineering & Operating Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 403000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  McMurtry', 'age': 57, 'title': 'Chief Business Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 623000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Regan', 'title': 'Director Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  West', 'title': 'Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.217
+priceToSalesTrailing12Months§2807.8293
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.16
+pegRatio§-0.1
+exchange§NCM
+quoteType§EQUITY
+shortName§Aqua Metals, Inc.
+longName§Aqua Metals, Inc.
+firstTradeDateEpochUtc§1438349400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b1190810-2c84-3a40-964f-b4c635861c7e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§4.0
+targetMeanPrice§4.0
+targetMedianPrice§4.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§7.154
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

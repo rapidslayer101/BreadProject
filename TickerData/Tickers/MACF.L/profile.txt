@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 04:39:38.377801
+address1§3 Park Gardens
+address2§First Floor
+city§Glasgow
+zip§G3 7YE
+country§United Kingdom
+phone§44 14 1333 9666
+fax§44 14 1333 1988
+website§https://www.macfarlanegroup.com
+industry§Packaging & Containers
+sector§Consumer Cyclical
+longBusinessSummary§Macfarlane Group PLC, through its subsidiaries, engages in the design, manufacture, and distribution of protective packaging products to businesses. The company operates through Packaging Distribution and Manufacturing Operations segments. The Packaging Distribution segment distributes packaging materials; and supplies storage and warehousing services in the United Kingdom, Ireland, and Europe. The Manufacturing Operations segment designs, manufactures, and assembles timber, corrugated, and foam-based packaging materials in the United Kingdom. It serves e-commerce retail, logistics, medical, automotive, aerospace, electronics, high street retail, household essentials, and food and hospitality industries. The company was incorporated in 1899 and is headquartered in Glasgow, the United Kingdom.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter Duncan Atkinson', 'age': 66, 'title': 'Chief Executive & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 750000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ivor  Gray', 'age': 54, 'title': 'Group Finance Director & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 354000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Macdonald', 'title': 'Group Financial Controller & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0287
+exDividendDate§1694649600
+payoutRatio§0.336
+fiveYearAvgDividendYield§2.31
+beta§0.797
+priceToSalesTrailing12Months§0.65408105
+currency§GBp
+forwardEps§12.25
+exchange§LSE
+quoteType§EQUITY
+shortName§MACFARLANE GROUP PLC ORD 25P
+longName§Macfarlane Group PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3d3da149-ad5b-34cc-b907-8fe15e9d8694
+targetHighPrice§155.0
+targetLowPrice§142.0
+targetMeanPrice§146.75
+targetMedianPrice§145.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.861
+earningsGrowth§0.092
+grossMargins§0.34928
+ebitdaMargins§0.097279996
+trailingPegRatio§None

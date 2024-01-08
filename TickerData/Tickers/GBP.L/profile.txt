@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 16:38:00.053874
+address1§91 William Street
+address2§Level 4
+city§Melbourne
+state§VIC
+zip§3000
+country§Australia
+phone§61 3 8611 5333
+website§https://globalpetroleum.com.au
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Global Petroleum Limited, together with its subsidiaries, explores for oil and gas properties in Africa. It primarily owns an 78% participating interest in the Namibian project consisting of offshore blocks 1910B and 2010A covering an area of 5,798 square kilometers located in Walvis Basin, Namibia. The company was incorporated in 1994 and is based in Melbourne, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew John Draffin B.Bus, B.Com., CA', 'age': 47, 'title': 'Company Secretary & Independent Non-Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 20808, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Page', 'title': 'Executive Chairman', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. M.  Hills', 'title': 'Chief Accountant', 'fiscalYear': 2023, 'totalPay': 31601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cecilia  Yu', 'title': 'Executive Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Brittney', 'title': 'Consultant', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.097
+currency§GBp
+forwardEps§-0.1
+exchange§LSE
+quoteType§EQUITY
+shortName§GLOBAL PETROLEUM LIMITED ORD NP
+longName§Global Petroleum Limited
+firstTradeDateEpochUtc§1110182400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§39f88696-37a3-3c3d-a79e-6ccaa951424c
+targetHighPrice§1.11
+targetLowPrice§1.11
+targetMeanPrice§1.11
+targetMedianPrice§1.11
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.12
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

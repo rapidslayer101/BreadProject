@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 18:26:15.013345
+address1§500 East Pratt Street
+address2§Suite 1300
+city§Baltimore
+state§MD
+zip§21202
+country§United States
+phone§410 752 5900
+website§https://www.adamsfunds.com/funds/diversified-equity
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Adams Diversified Equity Fund, Inc. is a publicly owned investment manager. The firm provides its services to investment companies. The firm invests in the public equity markets of the United States. It invests in stocks of large-cap companies across diversified sectors to make its investments. The firm employs a fundamental, technical and quantitative analysis with a bottom-up stock picking approach, while focusing on earnings growth prospects, financial strength, cash flow generation, macro-economics, capital allocation, market competition, profitability. It obtains external research to complement its in-house research to make its investments. The firm benchmarks the performance of its portfolios against the S&P 500 Index. It was formerly known as The Adams Express Company. Adams Diversified Equity Fund, Inc. was founded in 1840 and is based in Baltimore, Maryland.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James P. Haynie C.F.A.', 'age': 60, 'title': 'CEO, Senior Portfolio Manager & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 106959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Cotton Swindell', 'age': 59, 'title': 'Portfolio Manager & President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 76073, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian S. Hook C.F.A., CPA', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janis F. Kerns', 'age': 59, 'title': 'VP, General Counsel, Secretary & Chief Compliance Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine M. Sloan CPA', 'title': 'Treasurer & Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory W. Buckley', 'age': 52, 'title': 'Executive Vice President & Portfolio Manager', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David R. Schiminger C.F.A.', 'age': 51, 'title': 'VP of Research & Senior Equity Analyst', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven R. Crain CFA', 'title': 'VP of Research & Senior Equity Analyst', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Rega C.F.A.', 'age': 63, 'title': 'Vice President of Research and Senior Equity Analyst', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey R. Schollaert C.F.A.', 'title': 'Vice President of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.3
+dividendYield§0.075100005
+exDividendDate§1700179200
+payoutRatio§0.3397
+fiveYearAvgDividendYield§6.72
+beta§0.941
+priceToSalesTrailing12Months§59.547363
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§1.15
+lastDividendDate§1700179200
+exchange§NYQ
+quoteType§EQUITY
+shortName§Adams Diversified Equity Fund I
+longName§Adams Diversified Equity Fund, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1dd1e7ad-2dcb-328d-9ccd-3cecb67325df
+messageBoardId§finmb_318159
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.725
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

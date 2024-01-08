@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 23:38:08.422955
+address1§Cedar House
+address2§3rd Floor 41 Cedar Avenue
+city§Hamilton
+zip§HM 12
+country§Bermuda
+phone§441-295-4630
+website§https://www.gulfkeystone.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Gulf Keystone Petroleum Limited engages in oil and gas exploration, development, and production in the Kurdistan Region of Iraq. The company operates Shaikan field that covers an area of approximately 280 square kilometers, which is located north-west of Erbil. It also provides management, support, geological, geophysical, and engineering services. The company was incorporated in 2001 and is based in Hamilton, Bermuda.
+fullTimeEmployees§500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jon R. Harris', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 930000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Weatherdon', 'title': 'CFO & Director', 'fiscalYear': 2022, 'totalPay': 702000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Hulme', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Clark', 'title': 'Head of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alasdair N. Robinson', 'title': 'Chief Legal Officer & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clare  Kinahan', 'title': 'Chief Human Resource Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabriel  Papineau-Legris C.F.A.', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Patrick  Bersebach', 'title': 'Head of HSE & Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1688601600
+payoutRatio§0.5293
+beta§1.228
+priceToSalesTrailing12Months§1.0402408
+currency§GBp
+forwardEps§0.83
+pegRatio§0.06
+exchange§LSE
+quoteType§EQUITY
+shortName§GULF KEYSTONE PETROLEUM LTD COM
+longName§Gulf Keystone Petroleum Limited
+firstTradeDateEpochUtc§1094626800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3954414b-a7b1-3b20-87a4-7772c079ee65
+targetHighPrice§3.5
+targetLowPrice§2.33
+targetMeanPrice§3.1
+targetMedianPrice§3.34
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.079
+grossMargins§0.53066003
+ebitdaMargins§0.6112
+trailingPegRatio§None

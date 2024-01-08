@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 10:32:20.496552
+address1§100 Federal Street
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617-292-1000
+fax§617-292-1625
+website§https://www.putnam.com/individual/mutual-funds/closed-end-funds/funds/64-municipal-opportunities-trust
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Putnam Municipal Opportunities Trust is a closed ended fixed income mutual fund launched and managed by Putnam Investment Management, LLC. The fund is co-managed by Putnam Investments Limited. It invests in fixed income markets of United States. The fund invests in companies operating across healthcare, utilities, transportation, water and sewer, and housing sectors. Putnam Municipal Opportunities Trust was formed in 1993 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Lloyd Reynolds', 'age': 71, 'title': 'Chief Executive Officer, President and Interested Trustee', 'yearBorn': 1952, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet C. Smith', 'age': 58, 'title': 'Principal Accounting Officer, Vice President  and Assistant Treasurer', 'yearBorn': 1965, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra C. Whiston', 'title': 'Officer', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul M. Drury C.F.A., CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan A. McCormack', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Thalia M. Meehan C.F.A.', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.42
+dividendYield§0.040999997
+exDividendDate§1705968000
+payoutRatio§1.2155
+fiveYearAvgDividendYield§5.08
+beta§0.585
+priceToSalesTrailing12Months§15.63711
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Putnam Municipal Opportunities 
+longName§Putnam Municipal Opportunities Trust
+firstTradeDateEpochUtc§738250200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§91667673-d284-3bc2-94d2-9127195e3339
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.656
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

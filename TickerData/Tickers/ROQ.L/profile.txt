@@ -1,0 +1,33 @@
+# reload+after+2024-01-21 08:40:17.360617
+address1§85 Great Portland Street
+address2§First Floor
+city§London
+zip§W1W 7LT
+country§United Kingdom
+phone§44 20 3918 8633
+website§https://www.roquefortinvest.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Roquefort Therapeutics plc, a biotechnology company, engages in the development of medicines for the treatment of cancer. The company's pre-clinical development pipeline comprises Midkine antibodies with significance in vivo efficacy and toxicology studies; Midkine RNA therapeutics with novel anti-cancer gene editing action; Midkine mRNA therapeutics with novel anti-cancer approach; STAT-6 siRNA therapeutics targeting solid tumors with significance in vivo efficacy; and MK cell therapy with direct and NK-mediated anti-cancer action. Roquefort Therapeutics plc was incorporated in 2020 and is based in London, the United Kingdom.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen Paul West B.Com, CA', 'age': 50, 'title': 'Executive Chairman', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 118305, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trevor Ajanthan Reginald', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 284098, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Martin J. Evans FRS', 'title': 'Group Chief Scientific Officer & Executive Director', 'fiscalYear': 2022, 'totalPay': 101225, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Emma  Morris', 'title': 'Head of Pre-Clinical Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.077
+priceToSalesTrailing12Months§46.816875
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§ROQUEFORT THERAPEUTICS PLC ORD 
+longName§Roquefort Therapeutics plc
+firstTradeDateEpochUtc§1616400000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a6804bd8-f8c1-3a59-9f83-d6200b8b0cdd
+recommendationKey§none
+quickRatio§4.362
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

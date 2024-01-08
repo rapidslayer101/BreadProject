@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 09:27:15.714710
+address1§300 South Tryon Street
+address2§Suite 2500
+city§Charlotte
+state§NC
+zip§28202
+country§United States
+phone§704 805 7200
+website§https://www.babsoncapital.com/Strategies/Trusts/BGH/Default.aspx
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Babson Capital Global Short Duration High Yield Fund is a closed ended fixed income mutual fund launched and managed by Barings LLC. The fund is co-managed by Babson Capital Global Advisors Limited. It invests in fixed income markets across the globe. The fund primarily invests in global high-yield bonds, loans, and other income-producing instruments that are, at the time of purchase, rated below Baa3 by Moody's Investors Service, Inc. or below BBB- by Standard & Poor's Rating Services. It seeks to invest in securities with a weighted average portfolio duration of three years or less. The fund employs bottom-up fundamental analysis to create its portfolio. It benchmarks the performance of its portfolio against the Bank of America/Merrill Lynch Global Non-Financial High Yield Constrained Index. The fund was formerly known as Babson Capital Global Short Duration High Yield Fund. Babson Capital Global Short Duration High Yield Fund was formed on October 25, 2012 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher  Hanscom', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.27
+dividendYield§0.104899995
+exDividendDate§1700438400
+payoutRatio§0.8862
+fiveYearAvgDividendYield§9.78
+currency§USD
+dateShortInterest§1695945600
+lastDividendValue§0.106
+lastDividendDate§1702944000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Barings Global Short Duration H
+longName§Barings Global Short Duration High Yield Fund
+firstTradeDateEpochUtc§1351258200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§86c45de3-6972-3e42-9988-6d840e026043
+messageBoardId§finmb_223317746
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§30.0
+targetMeanPrice§40.92
+targetMedianPrice§42.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

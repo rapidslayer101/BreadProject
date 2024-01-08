@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 16:32:41.133782
+address1§470 Park Avenue, South
+address2§Fourth Floor, South
+city§New York
+state§NY
+zip§10016
+country§United States
+phone§646 291 2300
+fax§646 495 0075
+website§https://www.rencapital.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§RENN Fund, Inc. is a closed ended equity mutual fund launched by RENN Capital Group, Inc. The fund is co-managed by Horizon Kinetics Asset Management LLC. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It seeks to invest in stocks of small-cap and mid-cap companies. The fund employs a fundamental analysis with a bottom-up stock picking approach to create its portfolio. It was formerly known as RENN Global Entrepreneurs Fund, Inc. RENN Fund, Inc. was formed on January 20, 1994 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Murray  Stahl', 'age': 69, 'title': 'Chairman, President, CEO of the Fund', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+dividendRate§0.02
+dividendYield§0.0088
+exDividendDate§1702598400
+payoutRatio§0.0257
+fiveYearAvgDividendYield§4.65
+beta§0.591
+priceToSalesTrailing12Months§47.460728
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§153389
+longName§RENN Fund, Inc.
+firstTradeDateEpochUtc§830871000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d9045f3c-b237-3467-a3e6-6ef454fc5dec
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.829
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

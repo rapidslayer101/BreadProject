@@ -1,0 +1,31 @@
+# reload+after+2024-01-22 17:43:16.475967
+address1§850 Library Avenue
+address2§Suite 204-F
+city§Newark
+state§DE
+zip§19711
+country§United States
+phone§212 877 1588
+industry§Shell Companies
+sector§Financial Services
+longBusinessSummary§Alchemy Investments Acquisition Corp 1, a special purpose acquisition company, focuses on effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. It plans to focus on companies acquiring, processing, analysing, and utilizing data acquired from various systems and sources. The company was incorporated in 2021 and is based in Newark, Delaware.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vittorio  Savoia', 'age': 35, 'title': 'Co-CEO & Director', 'yearBorn': 1988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mattia  Tomba', 'age': 44, 'title': 'Co-CEO & Director', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harshana Sidath Jayaweera', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§Alchemy Investments Acquisition
+longName§Alchemy Investments Acquisition Corp 1
+firstTradeDateEpochUtc§1688736600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§63905d9e-5a72-35df-bfe6-2152df90694f
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.766
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

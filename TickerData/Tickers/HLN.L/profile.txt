@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 16:38:08.650966
+address1§The Heights Building 5
+address2§First Floor The Heights
+city§Weybridge
+zip§KT13 0NY
+country§United Kingdom
+phone§44 1932 822000
+website§https://www.haleon.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Haleon plc, together with its subsidiaries, engages in the research, development, manufacture, and sale of various consumer healthcare products in North America, Europe, the Middle East, Africa, Latin America, and the Asia Pacific. The company provides oral health, pain relief, respiratory health, digestive health, and other products, as well as vitamins, minerals, and supplements. Its portfolio of brands includes Advil, Sensodyne, Panadol, Voltaren, Theraflu, Otrivin, Polident, parodontax, and Centrum. The company was formerly known as DRVW 2022 plc and changed its name to Haleon plc in February 2022. Haleon plc was incorporated in 2021 and is headquartered in Weybridge, the United Kingdom.
+fullTimeEmployees§24622
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian  McNamara', 'age': 56, 'title': 'CEO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tobias  Hestler', 'age': 50, 'title': 'CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 999000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Landucci', 'title': 'Chief Digital & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonya  Ghobrial', 'age': 49, 'title': 'Head of Investor Relations', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bjarne Philip Tellmann', 'age': 56, 'title': 'General Counsel', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tamara  Rogers', 'age': 53, 'title': 'Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mairead  Nayager', 'age': 48, 'title': 'Chief Human Resources Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart  Derde', 'age': 53, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Filippo  Lanzi', 'title': 'President of EMEA & LatAm', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teri  Lyng', 'age': 60, 'title': 'Head of Transformation & Sustainability', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0109
+exDividendDate§1692835200
+payoutRatio§0.31190002
+priceToSalesTrailing12Months§2.700422
+currency§GBp
+forwardEps§19.16
+pegRatio§2.64
+exchange§LSE
+quoteType§EQUITY
+shortName§HALEON PLC ORD GBP0.01
+longName§Haleon plc
+firstTradeDateEpochUtc§1658127600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§071c8839-38c7-39a1-aaed-f36227eeaa72
+targetHighPrice§420.0
+targetLowPrice§300.0
+targetMeanPrice§361.63
+targetMedianPrice§362.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§16
+earningsGrowth§0.051
+grossMargins§0.61561
+ebitdaMargins§0.23674
+trailingPegRatio§3.0117

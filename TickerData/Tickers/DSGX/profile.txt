@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 16:44:26.369938
+address1§120 Randall Drive
+city§Waterloo
+state§ON
+zip§N2V 1C6
+country§Canada
+phone§519-746-8110
+fax§519-747-0082
+website§https://www.descartes.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§The Descartes Systems Group Inc. provides cloud-based logistics and supply chain solutions worldwide. The company's Logistics Technology platform offers a range of modular, interoperable web and wireless logistics management solutions. The company provides a suite of solutions that include routing, mobile, and telematics; transportation management; e-commerce shipping and fulfillment; customs and regulatory compliance; trade intelligence; broker and forwarder enterprise systems; and B2B messaging and connectivity services. It also offers its customers to use its modular, software-as-a-service, and data solutions to route, schedule, track, and measure delivery resources; plan, allocate, and execute shipments; rate, audit, and pay transportation invoices; access and analyze global trade data; research and perform trade tariff and duty calculations; file customs and security documents for imports and exports; and various other logistics processes. In addition, the company also provides cloud-based ecommerce warehouse management solutions; consulting, implementation, and training services; and maintenance and support services. It serves transportation providers, logistics service providers, and distribution-intensive companies, as well as manufacturers, retailers, distributors, and business service providers. The Descartes Systems Group Inc. was incorporated in 1981 and is headquartered in Waterloo, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward J. Ryan B.A.', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1089500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Scott Pagan', 'title': 'President & COO', 'fiscalYear': 2023, 'totalPay': 794090, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allan J. Brett C.A., C.B.V.', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 794090, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth Edward Wood', 'title': 'Executive Vice President of Product Management', 'fiscalYear': 2023, 'totalPay': 342750, 'exercisedValue': 183458, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Roszko', 'title': 'Chief Commercial Officer', 'fiscalYear': 2023, 'totalPay': 693145, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raimond  Diederik', 'title': 'Executive Vice President of Information Services', 'fiscalYear': 2023, 'totalPay': 178933, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Nguyen', 'title': 'Senior VP Legal, General Counsel & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Jones', 'age': 64, 'title': 'Executive Vice President of Marketing, Industry & Services', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 275000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward James Gardner', 'title': 'Executive Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maija  Michell', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.814
+priceToSalesTrailing12Months§12.305434
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.67
+pegRatio§3.05
+exchange§NMS
+quoteType§EQUITY
+shortName§The Descartes Systems Group Inc
+longName§The Descartes Systems Group Inc.
+firstTradeDateEpochUtc§917447400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bac47aeb-faca-391d-91e3-c03d0bc7be85
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§71.0
+targetMeanPrice§89.33
+targetMedianPrice§88.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.659
+earningsGrowth§0.0
+grossMargins§0.76132005
+ebitdaMargins§0.40218
+trailingPegRatio§None

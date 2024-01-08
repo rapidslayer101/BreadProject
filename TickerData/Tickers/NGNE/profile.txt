@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 20:46:13.670032
+address1§535 W 24th Street
+address2§5th Floor
+city§New York
+state§NY
+zip§10011
+country§United States
+phone§(877) 237-5020
+website§https://www.neurogene.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Neurogene Inc. develops life-changing genetic medicines for patients and their families affected by neurological diseases. Its product candidate includes NGN-401, an investigational AAV9 gene therapy for the treatment of Rett syndrome; and NGN-101 to treat neuronal ceroid lipofuscinosis subtype 5 batten disease. The company is headquartered in New York, New York.
+fullTimeEmployees§82
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Rachel L. McMinn Ph.D.', 'age': 50, 'title': 'Founder, CEO & Director', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine Mikail Cvijic J.D.', 'age': 45, 'title': 'President, CFO & Secretary', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arvind  Sreedharan', 'title': 'Senior Vice President of Business Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stuart  Cobb Ph.D.', 'title': 'Chief Scientific Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Effie  Albanis M.D.', 'title': 'Senior Vice President of Early Clinical & Translational Research', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrew E. Mulberg CPI, FAAP, M.D.', 'title': 'Senior Vice President of Regulatory Affairs, Quality Assurance & Quality Control', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ricardo  Jimenez', 'title': 'Senior Vice President of Technical Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Albena  Patroneva M.B.A., M.D.', 'age': 58, 'title': 'Senior Vice President of Clinical Development', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+exchange§NGM
+quoteType§EQUITY
+shortName§Neurogene Inc.
+longName§Neurogene Inc.
+firstTradeDateEpochUtc§1394202600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§51d6a4c2-efb6-34ae-b4ed-f6ab994594b8
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§4.897
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

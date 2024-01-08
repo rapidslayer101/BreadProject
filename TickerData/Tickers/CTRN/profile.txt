@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 14:44:17.171072
+address1§104 Coleman Boulevard
+city§Savannah
+state§GA
+zip§31408
+country§United States
+phone§912 236 1561
+website§https://cititrends.com
+industry§Apparel Retail
+sector§Consumer Cyclical
+longBusinessSummary§Citi Trends, Inc. operates as a value retailer of fashion apparel, accessories, and home goods. It offers apparel, such as fashion sportswear and footwear for men and ladies, as well as apparel for kids, including newborns, infants, toddlers, boys, and girls; sleepwear, lingerie, and scrubs for ladies; and kids uniforms and accessories. The company also provides accessories and beauty products that include handbags, luggage, hats, belts, sunglasses, jewelry, and watches, as well as undergarments and outerwear for men and women. In addition, it offers home and lifestyle products comprising home products for the bedroom, bathroom, kitchen, and decorative accessories; and food, tech, team sports, and health products, as well as seasonal items, books, and toys. The company provides its products primarily to African American and multicultural families in the United States. The company was formerly known as Allied Fashion, Inc. and changed its name to Citi Trends, Inc. in 2001. Citi Trends, Inc. was founded in 1946 and is headquartered in Savannah, Georgia.
+fullTimeEmployees§2700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter R. Sachse', 'age': 65, 'title': 'Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 150000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David N. Makuen', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 715014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Plutino', 'age': 51, 'title': 'CFO, Principal Financial Officer & Executive VP', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 522523, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa A. Powell', 'age': 53, 'title': 'Executive VP & Chief Merchandising Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 479999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica G. Berkowitz', 'age': 44, 'title': 'Senior Vice President of Planning & Allocation', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vivek  Bhargava', 'age': 51, 'title': 'Senior Vice President of Supply Chain Operations', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1583107200
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.37
+beta§2.309
+priceToSalesTrailing12Months§0.32659045
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.53
+pegRatio§-0.96
+exchange§NMS
+quoteType§EQUITY
+shortName§Citi Trends, Inc.
+longName§Citi Trends, Inc.
+firstTradeDateEpochUtc§1116423000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1f7d96a7-505e-3f6d-a31d-611acb7f50fe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§23.0
+targetMeanPrice§28.0
+targetMedianPrice§27.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.404
+grossMargins§0.38224998
+ebitdaMargins§0.00422
+trailingPegRatio§None

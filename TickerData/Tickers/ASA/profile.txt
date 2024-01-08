@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 12:26:45.303849
+address1§Three Canal Plaza
+city§Portland
+state§ME
+zip§04101
+country§United States
+phone§800 432 3378
+website§https://www.asaltd.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§ASA Gold and Precious Metals Limited is a publicly owned investment manager. The firm invests in the public equity markets across the globe. It primarily invests in stocks of companies engaged in the exploration, mining or processing of gold, silver, platinum, diamonds, or other precious minerals. It also invests in exchange traded funds. The firm employs fundamental analysis with a bottom-up approach to create its portfolios. The firm obtains external research to complement its in-house research. The firm is focused on covering the metals and mining sector. This record reflects the investment preferences or overall investment strategy of ASA Gold and Precious Metals Limited. ASA Gold and Precious Metals Limited was founded in 1958 and is based in Portland, Maine.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter  Maletis', 'age': 52, 'title': 'President', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Shaw', 'age': 50, 'title': 'Principal & Chief Financial Officer', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack P. Huntington', 'age': 53, 'title': 'Chief Compliance Officer', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zachary R. Tackett', 'age': 34, 'title': 'Corporate Secretary', 'yearBorn': 1989, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0013
+exDividendDate§1699920000
+payoutRatio§0.0211
+fiveYearAvgDividendYield§0.14
+beta§1.203
+priceToSalesTrailing12Months§102.128784
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.01
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§ASA  Gold and Precious Metals L
+longName§ASA Gold and Precious Metals Limited
+firstTradeDateEpochUtc§252685800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b7b46ce5-d1a5-37db-89c0-bc615ff272a5
+messageBoardId§finmb_223501
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§4.798
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

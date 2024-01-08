@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 02:45:22.274722
+address1§1930 Boren Avenue
+address2§Suite 1000
+city§Seattle
+state§WA
+zip§98101
+country§United States
+phone§206 737 0085
+website§https://icosavax.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Icosavax, Inc., a biopharmaceutical company, develops vaccines against infectious diseases through virus-like particle (VLP) platform technology. Its lead product candidate IVX-A12, a respiratory syncytial virus (RSV) and human metapneumovirus (hMPV) VLP vaccine. The company also develops IVX-121, a vaccine candidate with RSV target and is under Phase 1/1b clinical trial; and IVX-241, a vaccine candidate with hMPV target. Icosavax, Inc. was incorporated in 2017 and is headquartered in Seattle, Washington.
+fullTimeEmployees§60
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adam K. Simpson', 'age': 47, 'title': 'President, CEO, Co-Founder & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 855950, 'exercisedValue': 0, 'unexercisedValue': 2381243}, {'maxAge': 1, 'name': 'Mr. Niranjan  Kanesa-thasan M.D.', 'age': 62, 'title': 'Chief Medical Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 641550, 'exercisedValue': 0, 'unexercisedValue': 397752}, {'maxAge': 1, 'name': 'Dr. Cassia  Cearley Ph.D.', 'age': 40, 'title': 'Treasurer & Chief Business Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 632150, 'exercisedValue': 0, 'unexercisedValue': 665210}, {'maxAge': 1, 'name': 'Mr. Neil  King Ph.D.', 'title': 'Chair of Scientific Advisory Board & Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David  Baker M.D., Ph.D.', 'title': 'Co-founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Joseph Russo C.F.A.', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 525267, 'exercisedValue': 0, 'unexercisedValue': 80029}, {'maxAge': 1, 'name': 'Ms. Jennifer  Raymond', 'title': 'Senior Vice President of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Bekiroglu', 'age': 53, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 230737, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori  Stewart', 'title': 'Senior Vice President of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ami Shah Brown MPH, Ph.D.', 'title': 'Senior Vice President of Regulatory Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.29
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.11
+exchange§NMS
+quoteType§EQUITY
+shortName§Icosavax, Inc.
+longName§Icosavax, Inc.
+firstTradeDateEpochUtc§1627565400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§01db9004-7ab0-38ee-bf24-03e05a14a16d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§15.0
+targetMeanPrice§18.5
+targetMedianPrice§15.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§17.591
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 18:26:27.199548
+address1§Nine West 57th Street
+address2§43rd Floor
+city§New York
+state§NY
+zip§10019
+country§United States
+phone§212 515 3200
+fax§212 515 3251
+website§https://www.agmfunds.com/InvestmentInformation/TacticalIncomeFund.aspx
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Apollo Tactical Income Fund Inc. is a closed-ended fixed income fund launched and managed by Apollo Credit Management, LLC. The fund invests in fixed income markets. It primarily invests in senior secured loans including floating rate senior loans, high yield corporate bonds, and other credit instruments of varying maturities made to companies whose debt is typically rated below investment grade. The fund employs a conservative approach to credit selection that focuses on such factors as collateral coverage, structural seniority, credit fundamentals, with emphasis on leading defensible market positions, stable companies with positive cash flow, and proven management teams to create its portfolio. Apollo Tactical Income Fund Inc. was formed on February 25, 2013 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Cindy Zee Michel', 'age': 49, 'title': 'Chief Compliance Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph Daniel Glatt Esq.', 'age': 49, 'title': 'Chief Legal Officer and Secretary', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Moroney CFA', 'age': 52, 'title': 'Portfolio Manager', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bret Eric Leas J.D.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  Obenshain CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Vanek', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.113199994
+exDividendDate§1703030400
+payoutRatio§0.8312
+fiveYearAvgDividendYield§8.42
+beta§0.605
+priceToSalesTrailing12Months§7.8772664
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.06
+lastDividendValue§0.133
+lastDividendDate§1703030400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Apollo Tactical Income Fund Inc
+longName§Apollo Tactical Income Fund Inc.
+firstTradeDateEpochUtc§1361889000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46d1e1d8-8db1-3a17-af1d-c89e861c57c8
+messageBoardId§finmb_138462525
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§4.637
+earningsGrowth§0.675
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

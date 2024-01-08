@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 02:29:50.007586
+longBusinessSummary§The fund seeks to achieve its investment objective by investing at least 80% of its assets (exclusive of collateral held from securities lending) in securities included in its underlying index. The index is a rules-based index that is designed to measure the performance of high yield corporate bonds denominated in U.S. dollars ("USD") that meet certain liquidity and fundamental screening criteria.
+maxAge§86400
+priceHint§2
+yield§0.0617
+totalAssets§97348256
+navPrice§43.76
+currency§USD
+category§High Yield Bond
+ytdReturn§-0.0086322
+beta3Year§0.92
+fundFamily§Goldman Sachs
+fundInceptionDate§1504569600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0076463996
+fiveYearAverageReturn§0.041476898
+exchange§PCX
+quoteType§ETF
+shortName§Goldman Sachs Access High Yield
+longName§Goldman Sachs Access High Yield Corporate Bond ETF
+firstTradeDateEpochUtc§1506346200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7e709e9c-15a4-346d-b690-97e986ea9d67
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

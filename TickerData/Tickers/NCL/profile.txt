@@ -1,0 +1,35 @@
+# reload+after+2024-01-23 02:31:36.731400
+address1§9820 Dino Drive
+address2§Suite 110
+city§Elk Grove
+state§CA
+zip§95624
+country§United States
+phone§916 573 3803
+website§https://www.northann.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Northann Corp. engages in the manufacture, wholesale, and retail of the 3D printed vinyl flooring panels and other decorative panels in North America, Europe, and internationally. The company offers its products under the Benchwick brand name. Northann Corp. was founded in 2013 and is based in Elk Grove, California.
+fullTimeEmployees§71
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lin  Li', 'age': 43, 'title': 'Chairman of the Board, CEO, President, Secretary & Treasurer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 120000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurtis Weston Winn', 'age': 58, 'title': 'COO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 100000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Matthew  Kratochvil MBA', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§2.2415342
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§Northann Corp.
+longName§Northann Corp.
+firstTradeDateEpochUtc§1697722200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§99dcd1f5-ac3e-3ea2-871c-76da93acf252
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.098
+grossMargins§0.15951
+ebitdaMargins§0.080649994
+trailingPegRatio§None

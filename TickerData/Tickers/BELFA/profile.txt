@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 23:43:38.086612
+address1§206 Van Vorst Street
+city§Jersey City
+state§NJ
+zip§07302
+country§United States
+phone§201 432 0463
+website§https://www.belfuse.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Bel Fuse Inc. designs, manufactures, markets, and sells products that are used in the networking, telecommunications, computing, general industrial, high-speed data transmission, military, commercial aerospace, transportation, and e-Mobility industries in the United States, the People's Republic of China, Macao, the United Kingdom, Slovakia, Germany, India, Switzerland, and internationally. It offers magnetic solutions, such as integrated connector modules, power transformers, SMD power inductors and SMPS transformers, and ethernet discrete components. The company also provides power solutions and protection products comprising front-end power supplies, board-mount power, industrial and transportation power, external power, module, and circuit protection products. In addition, it offers connectivity solutions, which includes expanded beam fiber optic connectors, cable assemblies, and active optical devices; copper-based connectors/cable assemblies; radio frequency connectors, cable assemblies, microwave devices, and low loss cables; and ethernet, I/O, and industrial and power connectivity. The company sells its products under the Bel, TRP Connector, MagJack, Signal, Bel Power Solutions & Protection, Melcher, CUI, EOS, Stratos, Fibreco, Cinch, Johnson, Trompeter, Midwest Microwave, Semflex, and Stewart Connector brands through direct strategic account managers, regional sales managers working with independent sales representative organizations, and authorized distributors. Bel Fuse Inc. was incorporated in 1949 and is headquartered in Jersey City, New Jersey.
+fullTimeEmployees§7000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel  Bernstein', 'age': 69, 'title': 'President, CEO & Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 825075, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Farouq  Tuweiq', 'age': 41, 'title': 'CFO, Principal Financial Officer & Treasurer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 626777, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis  Ackerman', 'age': 60, 'title': 'President of Bel Power Solutions', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 622575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter G. Bittner III', 'age': 53, 'title': 'President of Bel Connectivity Solutions', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 570986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn  Hutkin', 'age': 48, 'title': 'Principal Accounting Officer, Company Secretary, VP of Financial Reporting & Investor Relations', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Kozlovsky', 'age': 45, 'title': 'Global Head of People', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ping  Gencianeo', 'title': 'Global ESG Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.24
+dividendYield§0.0039
+exDividendDate§1704931200
+payoutRatio§0.0405
+fiveYearAvgDividendYield§1.37
+beta§1.584
+priceToSalesTrailing12Months§1.1738013
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.25
+exchange§NMS
+quoteType§EQUITY
+shortName§Bel Fuse Inc.
+longName§Bel Fuse Inc.
+firstTradeDateEpochUtc§439569000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0a39a1ba-d96b-3e2c-95eb-022d12b40355
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§1.794
+earningsGrowth§0.148
+grossMargins§0.32462
+ebitdaMargins§0.16112
+trailingPegRatio§None

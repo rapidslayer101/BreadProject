@@ -1,0 +1,59 @@
+# reload+after+2024-01-20 15:26:37.694468
+address1§340 Martin Luther King Jr. Boulevard
+city§Bristol
+state§TN
+zip§37620
+country§United States
+phone§423 573 0300
+website§https://www.alphametresources.com
+industry§Coking Coal
+industryKey§coking-coal
+industryDisp§Coking Coal
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Alpha Metallurgical Resources, Inc., a mining company, produces, processes, and sells met and thermal coal in Virginia and West Virginia. As of December 31, 2022, it operated twenty four active mines and eight coal preparation and load-out facilities. The company was formerly known as Contura Energy, Inc. and changed its name to Alpha Metallurgical Resources, Inc. in February 2021. Alpha Metallurgical Resources, Inc. was incorporated in 2016 and is headquartered in Bristol, Tennessee.
+fullTimeEmployees§4030
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David J. Stetson', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2967807, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Andrew Eidson', 'age': 47, 'title': 'CEO, Treasurer & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1727934, 'exercisedValue': 860904, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason E. Whitehead', 'age': 45, 'title': 'President & COO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1846118, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Munsey', 'age': 41, 'title': 'Executive VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1272129, 'exercisedValue': 538311, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger L. Nicholson', 'age': 62, 'title': 'Executive VP, Chief Administrative Officer, General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1499562, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel E. Horn', 'age': 61, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1446371, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Emily  O'Quinn", 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0054
+exDividendDate§1701302400
+payoutRatio§0.0367
+beta§1.35
+priceToSalesTrailing12Months§1.4631232
+currency§USD
+dateShortInterest§1702598400
+forwardEps§24.59
+lastDividendValue§0.5
+lastDividendDate§1701302400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Alpha Metallurgical Resources, 
+longName§Alpha Metallurgical Resources, Inc.
+firstTradeDateEpochUtc§1612794600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f6948d0b-eb80-3e56-a37d-a39be843bf31
+messageBoardId§finmb_372704180
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§244.0
+targetLowPrice§194.0
+targetMeanPrice§219.0
+targetMedianPrice§219.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§2.311
+earningsGrowth§-0.534
+grossMargins§0.32939
+ebitdaMargins§0.30475
+trailingPegRatio§None

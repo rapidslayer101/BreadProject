@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 06:36:07.121495
+address1§St James’ Building
+address2§61-95 Oxford Street
+city§Manchester
+zip§M1 6EJ
+country§United Kingdom
+phone§44 78 0174 8683
+website§https://www.dfcapital.bank
+industry§Credit Services
+industryKey§credit-services
+industryDisp§Credit Services
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Distribution Finance Capital Holdings plc, an investment holding company, operates as a personal savings and commercial lending bank in the United Kingdom. The company offers working capital funding solutions to dealers and manufacturers. It also provides floorplan finance, unit stocking finance, inventory finance, and rental and hire fleet finance, as well as personal savings products, including fixed rate deposits and notice accounts. The company serves agricultural, industrial, lodges and holiday homes, motorhomes and caravans, marine, specialist cars, and motorcycle sectors. Distribution Finance Capital Holdings plc was founded in 2016 and is based in Manchester, the United Kingdom.
+fullTimeEmployees§117
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Carl Mark D'Ammassa", 'age': 49, 'title': 'CEO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 831000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gavin Peter Morris', 'age': 54, 'title': 'CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 419000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Atherton', 'title': 'Director of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kam  Bansil', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Karen  D'Souza", 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charlie  Michael', 'title': 'Chief Sustainability & People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Baxter', 'title': 'Director of Credit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ciara  Raison', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garry  Frew', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Goi  Ashmore', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.025
+priceToSalesTrailing12Months§1.6343913
+currency§GBp
+forwardEps§4.04
+exchange§LSE
+quoteType§EQUITY
+shortName§DISTRIBUTION FINANCE CAPITAL HO
+longName§Distribution Finance Capital Holdings plc
+firstTradeDateEpochUtc§1557385200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2aae00c7-d5ee-35f6-a956-9766a3666e06
+messageBoardId§finmb_576691945
+targetHighPrice§60.0
+targetLowPrice§56.0
+targetMeanPrice§58.0
+targetMedianPrice§58.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.127
+earningsGrowth§112.636
+grossMargins§0.99271005
+ebitdaMargins§0.0
+trailingPegRatio§None

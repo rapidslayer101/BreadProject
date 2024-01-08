@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 09:35:51.360232
+address1§5 Marble Arch
+city§London
+zip§W1H 7EJ
+country§United Kingdom
+phone§44 20 7034 3500
+website§https://www.bridgepointgroupplc.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Bridgepoint Group plc is private equity and private credit firm specializing in middle market, lower mid cap, small cap, growth capital and buyouts investment. It prefers to invest in advanced industrials, automation, agricultural sciences, energy transition enablers, business services, financial services, professional services, testing inspection and certification, information services, consumer, digital brands, video games, wellbeing products, health care, pharma and MedTech outsourced services, pharma products, and MedTech Products sectors. The firm prefers to invest companies based in United Kingdom, New York and Nordic region. It prefers to invest in equity investment between £4.77 millions ($5.91 millions) and £125 millions ($154.82 millions) in this lower mid cap between £40 millions ($49.54 millions) and £125 millions ($154.82 millions) and in small cap between £10 millions ($12.39 millions) and £25 millions ($30.96 millions) with enterprise value between £31.42 millions ($38.92 millions) and £ 1434.56 millions ($1776.84 millions). Bridgepoint Group plc was founded in 1985 and is based in London, United Kingdom with additional offices in Amsterdam, Netherlands; Frankfurt, Germany; Luxembourg; Madrid, Spain; New York, New York; Paris, France; San Francisco, California; Shanghai, China and Stockholm, Sweden. Bridgepoint Group plc formerly known as Bridgepoint Group Limited.
+fullTimeEmployees§377
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William N. Jackson', 'age': 59, 'title': 'Chairman & Managing Partner', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 876600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam M. Jones', 'age': 54, 'title': 'COO, CFO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 637700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Raoul Hughes', 'age': 58, 'title': 'Chief Executive & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xavier Jean Robert', 'age': 53, 'title': 'Partner & Chief Investment Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  McManus', 'title': 'Head of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Thompson', 'title': 'Partner & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Pae', 'title': 'Head of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marine de Boucaud', 'title': 'Partner & Head of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederic  Pescatori', 'age': 52, 'title': 'Partner & Head of France & Southern Europe', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Black', 'title': 'Managing Partner of Bridgepoint Development Capital', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.09
+dividendYield§0.0335
+exDividendDate§1692230400
+payoutRatio§0.5
+beta§1.657
+priceToSalesTrailing12Months§6.8491287
+currency§GBp
+forwardEps§13.51
+lastDividendValue§4.4
+lastDividendDate§1692230400
+exchange§LSE
+quoteType§EQUITY
+shortName§BRIDGEPOINT GROUP PLC ORD GBP0.
+longName§Bridgepoint Group plc
+firstTradeDateEpochUtc§1626850800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§84890c94-e0b5-3d83-8bf2-62ded1d46947
+messageBoardId§finmb_659464177
+targetHighPrice§343.0
+targetLowPrice§232.0
+targetMeanPrice§276.33
+targetMedianPrice§260.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.793
+earningsGrowth§0.082
+grossMargins§0.58833003
+ebitdaMargins§0.40118
+trailingPegRatio§None

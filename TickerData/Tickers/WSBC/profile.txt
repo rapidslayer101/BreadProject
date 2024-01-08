@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 08:48:01.585381
+address1§1 Bank Plaza
+city§Wheeling
+state§WV
+zip§26003
+country§United States
+phone§304 234 9000
+website§https://www.wesbanco.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§WesBanco, Inc. operates as the bank holding company for WesBanco Bank, Inc. that provides retail banking, corporate banking, personal and corporate trust, brokerage, and mortgage banking and insurance services. The company operates in two segments, Community Banking, and Trust and Investment Services. It offers commercial demand, individual demand, and time deposit accounts; commercial, mortgage and individual installment loans; retail loans, such as residential real estate mortgage loans, home equity lines of credit, and loans for other consumer purposes; installment loans to finance the purchase of automobiles, trucks, motorcycles, boats, and other recreational vehicles, as well as home equity installment loans, unsecured home improvement loans, and revolving lines of credit; and various non-traditional offerings, such as insurance and securities brokerage services. The company also provides trust services; and various alternative investment products, including mutual funds and annuities. Further, it acts as an agency that specializes in property, casualty, life, and title insurance, as well as benefit plan sales and administration to personal and commercial clients; provides broker dealer and discount brokerage services; holds investment securities and loans; and holds and leases commercial real estate properties, as well as acts as an investment adviser to a family of mutual funds. The company was founded in 1870 and is headquartered in Wheeling, West Virginia.
+fullTimeEmployees§2427
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey H. Jackson', 'age': 49, 'title': 'President, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1629562, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel K. Weiss Jr.', 'age': 41, 'title': 'Executive VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 647933, 'exercisedValue': 0, 'unexercisedValue': 11573}, {'maxAge': 1, 'name': 'Mr. Anthony F. Pietranton', 'age': 63, 'title': 'Senior Executive VP and Group Head of Human Resources & Facilities', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 684932, 'exercisedValue': 0, 'unexercisedValue': 30860}, {'maxAge': 1, 'name': 'Mr. Jayson M. Zatta', 'age': 63, 'title': 'Senior EVP, Chief Banking Officer and Group Head of Banking & Trust', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 978927, 'exercisedValue': 65718, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Perkins', 'age': 57, 'title': 'Senior EVP, Chief Risk & Administrative Officer and Group Head of Risk and Administration', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 619237, 'exercisedValue': 19631, 'unexercisedValue': 15120}, {'maxAge': 1, 'name': 'Mr. John H. Iannone', 'title': 'Senior Vice President of Investor & Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer S. Roth', 'age': 47, 'title': 'Chief Compliance Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen J. Lawrence', 'age': 65, 'title': 'Executive VP & Chief Internal Auditor', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn D. Asensio', 'age': 67, 'title': 'Executive Vice President & Retail Banking Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 334352, 'exercisedValue': 0, 'unexercisedValue': 93560}, {'maxAge': 1, 'name': 'Ms. LaReta  Lowther', 'title': 'Senior VP & Director of Community Development and Community Reinvestment Act Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.44
+dividendYield§0.0473
+exDividendDate§1701907200
+payoutRatio§0.5018
+fiveYearAvgDividendYield§4.19
+beta§0.909
+priceToSalesTrailing12Months§3.0325096
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.36
+pegRatio§1.18
+exchange§NMS
+quoteType§EQUITY
+shortName§WesBanco, Inc.
+longName§WesBanco, Inc.
+firstTradeDateEpochUtc§547479000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4125af20-8438-3030-8997-0fca9055190f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§26.0
+targetMeanPrice§29.43
+targetMedianPrice§30.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§7
+earningsGrowth§-0.318
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

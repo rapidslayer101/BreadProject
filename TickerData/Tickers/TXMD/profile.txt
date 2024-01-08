@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 19:47:41.586539
+address1§951 Yamato Road
+address2§Suite 220
+city§Boca Raton
+state§FL
+zip§33431
+country§United States
+phone§561 961 1900
+website§https://www.therapeuticsmd.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§TherapeuticsMD, Inc. operates as a pharmaceutical company in the United States. It has a license  agreement with Mayne Pharma to commercialize the IMVEXXY,BIJUVA, and ANNOVERA prescription prenatal vitamin products sold under the BocaGreenMD and vitaMedMD brands. The company sells its prescription pharmaceutical products and prenatal vitamin products to wholesale distributors and retail pharmacy distributors. TherapeuticsMD, Inc. was founded in 2008 and is headquartered in Boca Raton, Florida.
+fullTimeEmployees§1
+companyOfficers§[{'maxAge': 1, 'name': 'Governor Thomas G. Thompson', 'age': 81, 'title': 'Executive Chairman', 'yearBorn': 1942, 'fiscalYear': 2022, 'totalPay': 150000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marlan D. Walker J.D.', 'age': 47, 'title': 'Chief Executive Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1125099, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Finizio', 'age': 52, 'title': 'Co-Founder', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 7507, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael C. Donegan', 'age': 55, 'title': 'Interim CFO & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 712590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Daniella  Silva', 'age': 37, 'title': 'Chief Compliance Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Foulk', 'age': 53, 'title': 'Vice President of Human Resources', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bharat  Warrier', 'age': 45, 'title': 'Chief Manufacturing Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas  Steelman', 'title': 'Vice President of Market Access', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dedra  Lyden', 'title': 'Vice President of Strategic Partnerships & Initiatives', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.162
+priceToSalesTrailing12Months§0.3475976
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.35
+exchange§NMS
+quoteType§EQUITY
+shortName§TherapeuticsMD, Inc.
+longName§TherapeuticsMD, Inc.
+firstTradeDateEpochUtc§1178717400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2bf6666d-0eaa-38fe-ac1f-228dfbf2b20d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.916
+grossMargins§1.0
+ebitdaMargins§0.74382
+trailingPegRatio§None

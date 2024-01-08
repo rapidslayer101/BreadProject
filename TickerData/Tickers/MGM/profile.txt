@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 07:31:18.219940
+address1§3600 Las Vegas Boulevard South
+city§Las Vegas
+state§NV
+zip§89109
+country§United States
+phone§702 693 7120
+website§https://www.mgmresorts.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§MGM Resorts International, through its subsidiaries, owns and operates casino, hotel, and entertainment resorts in the United States and Macau. The company operates through three segments: Las Vegas Strip Resorts, Regional Operations, and MGM China. Its casino resorts offer gaming, hotel, convention, dining, entertainment, retail, and other resort amenities. The company's casino operations include slots and table games, as well as online sports betting and iGaming through BetMGM. Its customers include premium gaming customers; leisure and wholesale travel customers; business travelers; and group customers, including conventions, trade associations, and small meetings. The company was formerly known as MGM MIRAGE and changed its name to MGM Resorts International in June 2010. MGM Resorts International was incorporated in 1986 and is based in Las Vegas, Nevada.
+fullTimeEmployees§57000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Joseph Hornbuckle IV', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 6238075, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan S. Halkyard', 'age': 58, 'title': 'CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3025640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Corey Ian Sanders', 'age': 59, 'title': 'Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3525914, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. McManus Esq.', 'age': 56, 'title': 'Chief Legal & Administrative Officer and Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2115223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary M. Fritz', 'age': 49, 'title': 'President of MGM Resorts International Interactive', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 704691, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd R. Meinert', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andrew  Chapman', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Mochal', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jyoti  Chopra', 'age': 59, 'title': 'Senior VP and Chief People, Inclusion & Sustainability Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer D. Michaels', 'age': 54, 'title': 'Senior Vice President of Public Relations', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.00029999999
+exDividendDate§1670457600
+payoutRatio§0.0008
+fiveYearAvgDividendYield§0.81
+beta§2.218
+priceToSalesTrailing12Months§0.9986449
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.43
+pegRatio§-0.08
+exchange§NYQ
+quoteType§EQUITY
+shortName§MGM Resorts International
+longName§MGM Resorts International
+firstTradeDateEpochUtc§578583000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7545bfa0-2e8c-3cdf-b20b-cc3fa52a4794
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§40.0
+targetMeanPrice§53.41
+targetMedianPrice§54.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§1.448
+grossMargins§0.47932
+ebitdaMargins§0.14157
+trailingPegRatio§None

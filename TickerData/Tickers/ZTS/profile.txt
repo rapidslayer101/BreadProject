@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 22:34:40.590515
+address1§10 Sylvan Way
+city§Parsippany
+state§NJ
+zip§07054
+country§United States
+phone§973 822 7000
+website§https://www.zoetis.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Zoetis Inc. discovers, develops, manufactures, and commercializes animal health medicines, vaccines, and diagnostic products in the United States and internationally. It commercializes products primarily across species, including livestock, such as cattle, swine, poultry, fish, and sheep and others; and companion animals comprising dogs, cats, and horses. The company also offers parasiticides; vaccines; anti-infectives; other pharmaceutical products; dermatology; and medicated feed additives. In addition, the company provides animal health diagnostics, including point-of-care diagnostic products and laboratory; and other non-pharmaceutical products. It markets its products to veterinarians, livestock producers, and pet owners. The company was founded in 1952 and is headquartered in Parsippany, New Jersey.
+fullTimeEmployees§13800
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Kristin C. Peck', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2803733, 'exercisedValue': 3050826, 'unexercisedValue': 13434981}, {'maxAge': 1, 'name': 'Mr. Wetteny N. Joseph', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1255348, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wafaa  Mamilli', 'age': 56, 'title': 'EVP, Chief Digital & Tech. Officer, Group President for China, Brazil and Preci. Animal Health', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1078161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heidi C. Chen', 'age': 56, 'title': 'Executive VP, General Counsel, Corporate Secretary & Business Lead of Human Health Diagnostics', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1035947, 'exercisedValue': 0, 'unexercisedValue': 880936}, {'maxAge': 1, 'name': 'Ms. Roxanne  Lagano', 'age': 58, 'title': 'Executive VP and Chief Human Resources Officer & Global Operations', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Frank', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Price', 'title': 'VP & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert J. Polzer Ph.D.', 'age': 54, 'title': 'Executive VP and President of Research & Development', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeannette Ferran Astorga', 'age': 48, 'title': 'Executive VP of Corporate Affairs & Communications and Chief Sustainability Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Ashton', 'age': 50, 'title': 'Executive VP and President of Global Manufacturing & Supply', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.73
+dividendYield§0.0089
+exDividendDate§1705536000
+payoutRatio§0.2953
+fiveYearAvgDividendYield§0.62
+beta§0.848
+priceToSalesTrailing12Months§10.6867
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.04
+pegRatio§3.43
+exchange§NYQ
+quoteType§EQUITY
+shortName§Zoetis Inc.
+longName§Zoetis Inc.
+firstTradeDateEpochUtc§1359729000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e8724ae7-5c8b-3a4a-927d-2a11631a1cf4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§255.0
+targetLowPrice§190.0
+targetMeanPrice§219.0
+targetMedianPrice§220.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§1.873
+earningsGrowth§0.142
+grossMargins§0.70398
+ebitdaMargins§0.41487998
+trailingPegRatio§3.2506

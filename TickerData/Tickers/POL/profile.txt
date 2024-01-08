@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 10:32:22.302707
+address1§1870 Bath Avenue
+city§Brooklyn
+state§NY
+zip§11214
+country§United States
+phone§800 299 9470
+website§https://www.polished.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Polished.com Inc. operates an e-commerce platform for appliances, furniture, and home goods in the United States. The company offers household appliances, including refrigerators, ranges, ovens, dishwashers, microwaves, freezers, washers, and dryers; and furniture, décor, bed & bath, lighting, outdoor living, electronics categories, fitness equipment, plumbing fixtures, air conditioners, fireplaces, fans, dehumidifiers, humidifiers, air purifiers, and televisions. It also provides appliance installation services and old appliance removal services. The company was formerly known as 1847 Goedeker Inc. and changed its name to Polished.com Inc. in July 2022. Polished.com Inc. was founded in 1951 and is headquartered in Brooklyn, New York.
+fullTimeEmployees§391
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ellery W. Roberts', 'age': 52, 'title': 'Executive Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 90000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John E. Bunka', 'age': 64, 'title': 'Interim Chief Executive Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 194231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert D. Barry CPA', 'age': 79, 'title': 'Interim CFO & Secretary', 'yearBorn': 1944, 'fiscalYear': 2022, 'totalPay': 245577, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jody  Rusnak', 'age': 61, 'title': 'Chief Merchandising & Brand Innovation Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 350000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.053
+priceToSalesTrailing12Months§0.04336871
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.01
+exchange§ASE
+quoteType§EQUITY
+shortName§Polished Inc.
+longName§Polished.com Inc.
+firstTradeDateEpochUtc§1596202200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6f805bc5-bbdb-3ab1-8d84-9672c309a6cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.0
+targetLowPrice§1.0
+targetMeanPrice§1.0
+targetMedianPrice§1.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.326
+grossMargins§0.19361
+ebitdaMargins§-0.00357
+trailingPegRatio§None

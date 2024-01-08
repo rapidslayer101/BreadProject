@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 16:45:51.132990
+address1§6800 Indian Creek Dr.
+address2§Suite 1E
+city§Miami Beach
+state§FL
+zip§33141
+country§United States
+phone§786 389 9771
+website§https://www.lqrhouse.com
+industry§Beverages—Wineries & Distilleries
+sector§Consumer Defensive
+longBusinessSummary§LQR House Inc. provides digital marketing and brand development services for the alcoholic beverage business in the United States. Its primary business includes the development of limited batch spirit brands and marketing internal and external brands through an exclusive agreement with an e-commerce portal. The company serves individual consumers, wholesalers, and third-party alcohol brands. LQR House Inc. was incorporated in 2021 and is based in Miami Beach, Florida.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sean  Dollinger', 'age': 42, 'title': 'Founder, CEO, Secretary & Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 144000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kumar  Abhishek', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 62400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jaclyn  Hoffman', 'age': 33, 'title': 'Chief Marketing Officer', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Athar  Rasool', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexandra  Hoffman', 'age': 34, 'title': 'Director & Technical Writer', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§16.849949
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-64.2
+exchange§NCM
+quoteType§EQUITY
+shortName§LQR House Inc.
+longName§LQR House Inc.
+firstTradeDateEpochUtc§1691674200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a6e6a19e-8d19-3664-9a62-6a0bf2a39919
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§26.0
+targetMeanPrice§26.0
+targetMedianPrice§26.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§3.02
+grossMargins§0.32029998
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 05:45:49.489406
+address1§797 Commonwealth Drive
+city§Warrendale
+state§PA
+zip§15086
+country§United States
+phone§412 359 2100
+fax§412 359 2248
+website§https://www.limbachinc.com
+industry§Building Products & Equipment
+sector§Industrials
+longBusinessSummary§Limbach Holdings, Inc. operates as an integrated building systems solutions company in the United States. It operates in two segments, General Contractor Relationships and Owner Direct Relationships. The company engages in the design, prefabrication, installation, management, and maintenance of mechanical, electrical, plumbing, and control systems, as well as heating, ventilation, air-conditioning (HVAC) system. Its facility services comprise mechanical construction, HVAC service and maintenance, energy audits and retrofits, engineering and design build, constructability evaluation, equipment and materials selection, offsite/prefabrication construction, and sustainable building solutions and practices. The company serves research, acute care, and inpatient hospitals; public and private colleges, universities, research centers; sports arenas; cultural and entertainment facilities, and amusement rides and parks; and life sciences, including organizations and companies, whose work is centered around research and development focused on living things. The company was founded in 1901 and is headquartered in Warrendale, Pennsylvania.
+fullTimeEmployees§1500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael M. McCann', 'age': 41, 'title': 'President, CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 760454, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jayme L. Brooks', 'age': 52, 'title': 'Executive VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 677214, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christos  Ruci', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Wright', 'title': 'Executive Vice President of Legal & Risk Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  DiMuro', 'title': 'Chief People, Culture & Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel Matthew Katz', 'age': 48, 'title': 'Executive Vice President of M&A and Capital Markets', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 39783, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn  Murphy LEED AP, P.E.', 'title': 'President of Limbach Collaborative Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominick  Traina', 'title': 'Executive Vice President of Shared Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dennis  Sacco Jr.', 'title': 'Senior VP & Director of Operational Risk Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Sudz CHST', 'title': 'Michigan Safety Director and Chairman of Hearts & Minds Forum', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.207
+priceToSalesTrailing12Months§0.89939266
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.81
+pegRatio§2.04
+exchange§NCM
+quoteType§EQUITY
+shortName§Limbach Holdings, Inc.
+longName§Limbach Holdings, Inc.
+firstTradeDateEpochUtc§1407504600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc9f694f-70f3-3f6f-9cfc-f67ff69c87c9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.0
+targetLowPrice§41.0
+targetMeanPrice§42.0
+targetMedianPrice§42.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.529
+earningsGrowth§0.794
+grossMargins§0.22278
+ebitdaMargins§0.07273
+trailingPegRatio§1.9041

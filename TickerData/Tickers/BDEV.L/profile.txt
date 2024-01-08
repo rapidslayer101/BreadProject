@@ -1,0 +1,59 @@
+# reload+after+2024-01-21 03:35:44.477294
+address1§Barratt House
+address2§Cartwright Way Forest Business Park Bardon Hill
+city§Coalville
+zip§LE67 1UF
+country§United Kingdom
+phone§44 15 3027 8278
+website§https://www.barrattdevelopments.co.uk
+industry§Residential Construction
+industryKey§residential-construction
+industryDisp§Residential Construction
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Barratt Developments plc engages in the housebuilding business in the United Kingdom. The company acquires and develops land; plans, designs, and constructs homes, apartments, penthouses, and communities, as well as undertakes mixed-use regeneration schemes; and develops retail, leisure, office, industrial, and mixed-use properties. It is also involved in the commercial development business under the Wilson Bowden Developments brand name. The company offers its homes under the Barratt Homes, David Wilson Homes, and Barratt London brands. The company was incorporated in 1958 and is headquartered in Coalville, the United Kingdom.
+fullTimeEmployees§6728
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Fraser Thomas', 'age': 60, 'title': 'Group CEO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1456000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Ian Scott', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 858000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven J. Boyes', 'age': 63, 'title': 'COO, Deputy CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1181000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Finn', 'title': 'Group Design & Technical Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenny  Matthews', 'title': 'Interim Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally  Austin B.Sc (Hons), B.Sc., MCIPD', 'title': 'Group HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Ennis', 'age': 54, 'title': 'Regional Managing Director of London & Southern', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas H. Richardson', 'age': 60, 'title': 'Managing Director of Wilson Bowden Developments', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Roberts M.D.', 'title': 'Regional Managing Director of Northern', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Derek  Harris', 'title': 'Head of Public Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.34
+dividendYield§0.0617
+exDividendDate§1695859200
+payoutRatio§0.6825
+fiveYearAvgDividendYield§4.03
+beta§1.606
+priceToSalesTrailing12Months§1.0303708
+currency§GBp
+forwardEps§34.35
+pegRatio§-1.01
+lastDividendValue§23.5
+lastDividendDate§1695859200
+exchange§LSE
+quoteType§EQUITY
+shortName§BARRATT DEVELOPMENTS PLC ORD 10
+longName§Barratt Developments plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§afe17ee5-2b23-3946-931f-d602615bf7b7
+messageBoardId§finmb_874146
+targetHighPrice§753.0
+targetLowPrice§425.0
+targetMeanPrice§524.73
+targetMedianPrice§500.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§1.008
+earningsGrowth§-0.046
+grossMargins§0.21330999
+ebitdaMargins§0.16554001
+trailingPegRatio§None

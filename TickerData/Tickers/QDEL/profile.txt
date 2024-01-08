@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 09:46:49.943042
+address1§9975 Summers Ridge Road
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 552 1100
+website§https://www.quidelortho.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§QuidelOrtho Corporation focuses on the development and manufacture of diagnostic testing technologies and solutions. The company operates through Labs, Transfusion Medicine, Point-of-Care, and Molecular Diagnostics business units. The Labs business unit provides clinical chemistry laboratory instruments and tests that measure target chemicals in bodily fluids for the evaluation of health and the clinical management of patients; immunoassay laboratory instruments and tests, which measure proteins as they act as antigens in the spread of disease, antibodies in the immune response spurred by disease, or markers of proper organ function and health; testing products to detect and monitor disease progression across a spectrum of therapeutic areas; and specialized diagnostic solutions. The Transfusion Medicine business unit offers immunohematology instruments and tests used for blood typing to ensure patient-donor compatibility in blood transfusions; and donor screening instruments and tests used for blood and plasma screening for infectious diseases. The Point-of-Care business unit provides instruments and tests to provide rapid results across a continuum of point-of-care settings. The Molecular Diagnostics business unit offers polymerase chain reaction thermocyclers; amplification systems; and sample-to-result molecular instruments and tests for syndromic infectious disease diagnostics. The company sells its products directly to end users through a direct sales force; and through a network of distributors for professional use in physician offices, hospitals, clinical laboratories, reference laboratories, urgent care clinics, universities, retail clinics, pharmacies, wellness screening centers, blood banks, and donor centers, as well as for individual, non-professional, and over-the-counter use. It operates in North America, Europe, the Middle East, Africa, China, and internationally. The company was founded in 1979 and is headquartered in San Diego, California.
+fullTimeEmployees§7000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Douglas C. Bryant', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 4816098, 'exercisedValue': 0, 'unexercisedValue': 4916222}, {'maxAge': 1, 'name': 'Mr. Joseph M. Busky CPA', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1467883, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Bujarski J.D.', 'age': 54, 'title': 'Executive VP & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2615309, 'exercisedValue': 0, 'unexercisedValue': 3244873}, {'maxAge': 1, 'name': 'Ms. Michelle A. Hodges', 'age': 63, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1795965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Werner  Kroll Ph.D.', 'age': 66, 'title': 'Senior Vice President of Research & Development', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1251158, 'exercisedValue': 0, 'unexercisedValue': 142507}, {'maxAge': 1, 'name': 'Ms. Louise M. Brandy', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick E. Klein', 'title': 'Senior VP & Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ruben  Argueta', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Ferenczy', 'age': 67, 'title': 'Point of Care Business Unit Leader', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Iskra', 'age': 53, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.273
+priceToSalesTrailing12Months§1.5785882
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.07
+pegRatio§2.01
+exchange§NMS
+quoteType§EQUITY
+shortName§QuidelOrtho Corporation
+longName§QuidelOrtho Corporation
+firstTradeDateEpochUtc§665418600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c948e552-7029-303a-a8eb-34456a38bcb0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§158.0
+targetLowPrice§66.0
+targetMeanPrice§95.14
+targetMedianPrice§72.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.835
+grossMargins§0.5004
+ebitdaMargins§0.24413
+trailingPegRatio§None

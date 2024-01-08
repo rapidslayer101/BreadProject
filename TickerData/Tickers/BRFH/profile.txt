@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 23:43:46.406763
+address1§3600 Wilshire Boulevard
+address2§Suite 1720
+city§Los Angeles
+state§CA
+zip§90010
+country§United States
+phone§310 598 7113
+fax§310 295 2432
+website§https://www.barfresh.com
+industry§Beverages—Non-Alcoholic
+sector§Consumer Defensive
+longBusinessSummary§Barfresh Food Group, Inc. manufactures and distributes ready-to-drink and ready-to-blend frozen beverages in the United States. The company offers smoothies, shakes and frappes in various formats comprising ready-to-drink smoothie, easy pour, juice concentrates, and single serve. The company was founded in 2009 and is based in Los Angeles, California.
+fullTimeEmployees§13
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Riccardo  Delle Coste', 'age': 44, 'title': 'Founder, Chairman, President & CEO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 413961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Roger', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 327929, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arnold  Tinter', 'age': 78, 'title': 'Secretary & Independent Director', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eric  Narimatsu', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.324
+priceToSalesTrailing12Months§2.534766
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.05
+exchange§NCM
+quoteType§EQUITY
+shortName§Barfresh Food Group Inc.
+longName§Barfresh Food Group, Inc.
+firstTradeDateEpochUtc§1337002200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c9103283-c395-30f3-901e-d005190fc1b3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§4.0
+targetMeanPrice§4.0
+targetMedianPrice§4.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.859
+grossMargins§0.36118
+ebitdaMargins§-0.34508
+trailingPegRatio§None

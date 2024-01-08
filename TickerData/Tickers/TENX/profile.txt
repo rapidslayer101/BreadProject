@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 07:47:32.512437
+address1§101 Glen Lennox Drive
+address2§Suite 300
+city§Chapel Hill
+state§NC
+zip§27517
+country§United States
+phone§919 855 2100
+website§https://www.tenaxthera.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Tenax Therapeutics, Inc. develops and commercializes pharmaceutical products containing imatinib for the treatment of pulmonary arterial hypertension. It develops TNX-101 (IV), TNX-102, and TNX-103 (levosimendan) that have completed phase II clinical trials for the treatment of patients with pulmonary hypertension associated with heart failure with preserved ejection fraction and associated pulmonary hypertension; and TNX-201 (imatinib), a tyrosine kinase inhibitor for the treatment of chronic myeloid leukemia. The company was formerly known as Oxygen Biotherapeutics, Inc. and changed its name to Tenax Therapeutics, Inc. in September 2014. Tenax Therapeutics, Inc. was founded in 1967 and is based in Chapel Hill, North Carolina.
+fullTimeEmployees§7
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher T. Giordano', 'age': 48, 'title': 'CEO, President & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 563036, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stuart  Rich M.D.', 'age': 73, 'title': 'Chief Medical Officer & Director', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 415996, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Randall', 'title': 'Executive Vice President of Commercial & Business Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Douglas  Hay', 'title': 'Senior Vice President of Regulatory Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.395
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-27.6
+exchange§NCM
+quoteType§EQUITY
+shortName§Tenax Therapeutics, Inc.
+longName§Tenax Therapeutics, Inc.
+firstTradeDateEpochUtc§765466200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b61a8915-17b8-32f2-8c44-5f1ed46bfd83
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§480.0
+targetLowPrice§400.0
+targetMeanPrice§440.0
+targetMedianPrice§440.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§18.5
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

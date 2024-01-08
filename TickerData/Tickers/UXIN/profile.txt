@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 22:47:47.280995
+address1§No. 16 Guangshun South Avenue
+address2§21/F, Donghuang Building Chaoyang District
+city§Beijing
+zip§100102
+country§China
+website§https://www.xin.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Uxin Limited, an investment holding company, engages in the retail sale of vehicles in China. The company operates an e-commerce platform for buying and selling used cars. It also offers used-car acquisition, inspection, reconditioning, warehousing, pre-sales and after-sales, and various car-related value-added products and services, as well as warranty and repair, delivery, and title transfers and vehicle registration services. Uxin Limited was incorporated in 2011 and is headquartered in Beijing, China.
+fullTimeEmployees§760
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kun  Dai', 'age': 41, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Feng  Lin', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhitian  Zhang', 'age': 42, 'title': 'Chief Operating Officer', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Henry  Tsai', 'title': 'Head of Corporate Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nancy  Song', 'title': 'Investor Relations Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhen  Zeng', 'age': 40, 'title': 'Advisor', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wenbing  A Jing', 'age': 43, 'title': 'Chief Strategy Officer', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.929
+priceToSalesTrailing12Months§0.020959849
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.16
+exchange§NMS
+quoteType§EQUITY
+shortName§Uxin Limited
+longName§Uxin Limited
+firstTradeDateEpochUtc§1530106200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0980888d-a54a-3221-a280-c9b7e7d8dfd2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.34
+targetLowPrice§11.34
+targetMeanPrice§11.34
+targetMedianPrice§11.34
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.054
+grossMargins§0.03447
+ebitdaMargins§-0.18544
+trailingPegRatio§None

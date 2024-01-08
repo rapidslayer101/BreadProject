@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 07:27:24.031704
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+website§https://www.blackrock.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock, Inc. is a publicly owned investment manager. The firm primarily provides its services to institutional, intermediary, and individual investors including corporate, public, union, and industry pension plans, insurance companies, third-party mutual funds, endowments, public institutions, governments, foundations, charities, sovereign wealth funds, corporations, official institutions, and banks. It also provides global risk management and advisory services. The firm manages separate client-focused equity, fixed income, and balanced portfolios. It also launches and manages open-end and closed-end mutual funds, offshore funds, unit trusts, and alternative investment vehicles including structured funds. The firm launches equity, fixed income, balanced, and real estate mutual funds. It also launches equity, fixed income, balanced, currency, commodity, and multi-asset exchange traded funds. The firm also launches and manages hedge funds. It invests in the public equity, fixed income, real estate, currency, commodity, and alternative markets across the globe. The firm primarily invests in growth and value stocks of small-cap, mid-cap, SMID-cap, large-cap, and multi-cap companies. It also invests in dividend-paying equity securities. The firm invests in investment grade municipal securities, government securities including securities issued or guaranteed by a government or a government agency or instrumentality, corporate bonds, and asset-backed and mortgage-backed securities. It employs fundamental and quantitative analysis with a focus on bottom-up and top-down approach to make its investments. The firm employs liquidity, asset allocation, balanced, real estate, and alternative strategies to make its investments. In real estate sector, it seeks to invest in Poland and Germany. The firm benchmarks the performance of its portfolios against various S&P, Russell, Barclays, MSCI, Citigroup, and Merrill Lynch indices. BlackRock, Inc. was founded in 1988 and is based in New York City with additional offices in Boston, Massachusetts; London, United Kingdom; Gurgaon, India; Hong Kong; Greenwich, Connecticut; Princeton, New Jersey; Edinburgh, United Kingdom; Sydney, Australia; Taipei, Taiwan; Singapore; Sao Paulo, Brazil; Philadelphia, Pennsylvania; Washington, District of Columbia; Toronto, Canada; Wilmington, Delaware; and San Francisco, California.
+fullTimeEmployees§19900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Laurence Douglas Fink', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 9475555, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Steven Kapito', 'age': 67, 'title': 'President & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 7133430, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Lawrence Goldstein', 'age': 49, 'title': 'Senior MD & COO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 3104195, 'exercisedValue': 0, 'unexercisedValue': 7036193}, {'maxAge': 1, 'name': 'Mr. J. Richard Kushel', 'age': 56, 'title': 'Senior MD & Head of the Portfolio Management Group', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2604195, 'exercisedValue': 0, 'unexercisedValue': 5277096}, {'maxAge': 1, 'name': 'Mr. Gary Stephen Shedlin', 'age': 60, 'title': 'Vice Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2214794, 'exercisedValue': 0, 'unexercisedValue': 5277096}, {'maxAge': 1, 'name': 'Dr. Bennett W. Golub Ph.D.', 'age': 65, 'title': 'Co-Founder', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  McKenna', 'title': 'Founder, MD, Global Head of Event Driven Equity Strategies & Portfolio Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Small', 'title': 'Senior MD, CFO & Global Head of Corporate Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeff  Shen Ph.D.', 'title': 'MD, Co-CIO & Co-Head of Systematic Active Equity (SAE)', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neeraj  Seth', 'title': 'MD, Chief Investment Officer & Head of Asian credit \x96 Singapore', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§20.0
+dividendYield§0.0255
+exDividendDate§1701820800
+payoutRatio§0.8532
+fiveYearAvgDividendYield§2.53
+beta§1.373
+priceToSalesTrailing12Months§6.6299663
+currency§USD
+dateShortInterest§1702598400
+forwardEps§38.21
+pegRatio§2.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§BlackRock, Inc.
+longName§BlackRock, Inc.
+firstTradeDateEpochUtc§938784600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§386ad08c-9fb4-35ee-a9b0-7905b98af57b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§952.0
+targetLowPrice§710.0
+targetMeanPrice§838.23
+targetMedianPrice§860.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.408
+earningsGrowth§0.152
+grossMargins§0.48534
+ebitdaMargins§0.3778
+trailingPegRatio§4.516

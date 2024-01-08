@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 19:35:44.537340
+address1§46 Colin Street
+address2§Level 3
+city§West Perth
+state§WA
+zip§6005
+country§Australia
+phone§61 8 9413 7400
+fax§61 8 9322 8912
+website§https://www.baseresources.com.au
+industry§Other Industrial Metals & Mining
+industryKey§other-industrial-metals-mining
+industryDisp§Other Industrial Metals & Mining
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Base Resources Limited operates as mineral sand developer and producer in Africa. It operates through Kwale Operation, Toliara Project, and Other segments. The company produces mineral sands, such as rutile, ilmenite, and zircon. It primarily owns a 100% interest in the Kwale Mineral Sands project located in Kenya; and develops the Toliara project located in Madagascar. The company was formerly known as Base Iron Limited and changed its name to Base Resources Limited in 2010. The company was incorporated in 2007 and is headquartered in West Perth, Australia.
+fullTimeEmployees§1744
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy James Carstens ACA, B.Com.', 'title': 'MD & Executive Director', 'fiscalYear': 2023, 'totalPay': 503253, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Balloch BBus, CPA', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 338684, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chadwick  Poletti B.Com., L.L.B., LLB (Hons)', 'title': 'Chief Legal Officer & Company Secretary', 'fiscalYear': 2023, 'totalPay': 381556, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Hay', 'title': 'General Manager of Marketing', 'fiscalYear': 2023, 'totalPay': 332579, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Fuller', 'title': 'Manager of Communications & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.3814
+exDividendDate§1694131200
+payoutRatio§0.7408
+beta§0.845
+priceToSalesTrailing12Months§0.35958079
+currency§GBp
+lastDividendValue§2.0504
+lastDividendDate§1694131200
+exchange§LSE
+quoteType§EQUITY
+shortName§BASE RESOURCES LIMITED ORD NPV 
+longName§Base Resources Limited
+firstTradeDateEpochUtc§1357632000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§018b5c7d-ba43-3cea-bf3e-8c141ac55ecb
+messageBoardId§finmb_47296685
+targetHighPrice§0.16
+targetLowPrice§0.16
+targetMeanPrice§0.16
+targetMedianPrice§0.16
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§3.998
+grossMargins§0.5539
+ebitdaMargins§0.58741003
+trailingPegRatio§None

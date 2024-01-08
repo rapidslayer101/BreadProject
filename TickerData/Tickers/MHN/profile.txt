@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 21:31:19.071706
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240272/blackrock-muniholdings-new-york-insured-fund-inc-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock MuniHoldings New York Quality Fund, Inc. is a closed ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets. It invests primarily in investment grade New York municipal obligations exempt from federal income taxes and New York State and New York City personal income taxes. BlackRock MuniHoldings New York Quality Fund, Inc. was formed on September 19, 1997 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.52
+dividendYield§0.0497
+exDividendDate§1704931200
+payoutRatio§0.6957
+fiveYearAvgDividendYield§4.55
+beta§0.525
+priceToSalesTrailing12Months§12.656917
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock MuniHoldings New York
+longName§BlackRock MuniHoldings New York Quality Fund, Inc.
+firstTradeDateEpochUtc§874935000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§30185589-7b67-3858-b91e-8960787ecf5d
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.529
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

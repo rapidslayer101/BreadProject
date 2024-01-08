@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:46:00.994778
+address1§1250 Broadway
+address2§15th Floor
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 243 2769
+website§https://www.magnite.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§Magnite, Inc. operates an independent sell-side advertising platform in the United States and internationally. The company's platform offers applications and services for sellers of digital advertising inventory or publishers that own and operate CTV channels, applications, websites, and other digital media properties, to manage and monetize their inventory; and provides applications and services for buyers, including advertisers, agencies, agency trading desks, and demand side platforms to buy digital advertising inventory. It markets its technology solutions to buyers and sellers through a sales teams that operate from various locations. The company was formerly known as The Rubicon Project, Inc. and changed name to Magnite, Inc. in July 2020. Magnite, Inc. was incorporated in 2007 and is headquartered in New York, New York.
+fullTimeEmployees§947
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael G. Barrett', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1167705, 'exercisedValue': 0, 'unexercisedValue': 8259329}, {'maxAge': 1, 'name': 'Mr. David L. Day', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 886258, 'exercisedValue': 0, 'unexercisedValue': 891865}, {'maxAge': 1, 'name': 'Ms. Katie  Evans', 'age': 37, 'title': 'Chief Operating Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 786856, 'exercisedValue': 0, 'unexercisedValue': 812327}, {'maxAge': 1, 'name': 'Mr. Adam Lee Soroca', 'age': 50, 'title': 'Chief Product Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 785940, 'exercisedValue': 0, 'unexercisedValue': 1293016}, {'maxAge': 1, 'name': 'Mr. Sean Patrick Buckley', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'totalPay': 1814004, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Gephart', 'age': 43, 'title': 'Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Buonasera', 'age': 37, 'title': 'Chief Technology Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Kormeluk', 'title': 'VP of Investor Relations & Head of Global Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Saltz', 'age': 42, 'title': 'Chief Legal Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charlstie  Veith', 'title': 'Global Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.238
+priceToSalesTrailing12Months§2.0172973
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.7
+pegRatio§-0.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Magnite, Inc.
+longName§Magnite, Inc.
+firstTradeDateEpochUtc§1396445400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bbf26273-2212-38c3-9b18-c9739f954ccb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§8.5
+targetMeanPrice§12.65
+targetMedianPrice§13.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.103
+grossMargins§0.25861
+ebitdaMargins§0.1276
+trailingPegRatio§None

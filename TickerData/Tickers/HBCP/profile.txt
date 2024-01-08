@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 16:45:10.481048
+address1§503 Kaliste Saloom Road
+city§Lafayette
+state§LA
+zip§70508
+country§United States
+phone§337 237 1960
+fax§337 264 9280
+website§https://www.home24bank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Home Bancorp, Inc. operates as the bank holding company for Home Bank, National Association that provides various banking products and services in Louisiana, Mississippi, and Texas. It offers deposit products, including interest-bearing and noninterest-bearing checking, money market, savings, NOW, and certificates of deposit accounts. The company also provides various loan products, such as one-to four-family first mortgage loans, home equity loans and lines, commercial real estate loans, construction and land loans, multi-family residential loans, commercial and industrial loans, and consumer loans. In addition, it invests in securities; and offers credit cards and online banking services. Home Bancorp, Inc. was founded in 1908 and is headquartered in Lafayette, Louisiana.
+fullTimeEmployees§475
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John W. Bordelon', 'age': 67, 'title': 'Chairman, President & CEO', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 830676, 'exercisedValue': 20762, 'unexercisedValue': 16940}, {'maxAge': 1, 'name': 'Mr. David T. Kirkley', 'age': 41, 'title': 'Senior EVP & CFO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 312945, 'exercisedValue': 73320, 'unexercisedValue': 26799}, {'maxAge': 1, 'name': 'Mr. Darren E. Guidry', 'age': 60, 'title': 'Senior EVP & Chief Credit Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 388122, 'exercisedValue': 0, 'unexercisedValue': 59482}, {'maxAge': 1, 'name': 'Mr. Daniel G. Guidry', 'age': 70, 'title': 'Independent Director & Corporate Secretary', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 48591, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0242
+exDividendDate§1698364800
+payoutRatio§0.1926
+fiveYearAvgDividendYield§2.61
+beta§0.676
+priceToSalesTrailing12Months§2.486401
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.83
+exchange§NMS
+quoteType§EQUITY
+shortName§Home Bancorp, Inc.
+longName§Home Bancorp, Inc.
+firstTradeDateEpochUtc§1223472600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f5a19eae-2296-3d4e-8229-35f282827a00
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§39.0
+targetMeanPrice§43.5
+targetMedianPrice§43.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§-0.048
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

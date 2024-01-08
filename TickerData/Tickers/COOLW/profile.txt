@@ -1,0 +1,31 @@
+# reload+after+2024-01-22 00:44:11.232880
+address1§251 Lytton Avenue
+address2§Suite 200
+city§Palo Alto
+state§CA
+zip§94301
+country§United States
+phone§650 543 8180
+industry§Shell Companies
+sector§Financial Services
+longBusinessSummary§Corner Growth Acquisition Corp. does not have significant operations. It focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2020 and is based in Palo Alto, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marvin  Tien', 'age': 48, 'title': 'Co-Chairman & CEO', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane Batzofin Mathieu', 'age': 47, 'title': 'President', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerome J. Letter CPA', 'age': 48, 'title': 'CFO & COO', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Kutcher', 'age': 40, 'title': 'Chief Investment Officer', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Tanaka', 'age': 32, 'title': 'Director of Corporate Development', 'yearBorn': 1991, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+beta§0.007
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+shortName§Corner Growth Acquisition Corp.
+longName§Corner Growth Acquisition Corp.
+firstTradeDateEpochUtc§1614004200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e794be33-f915-37b4-a987-133f394b753b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.006
+earningsGrowth§0.473
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

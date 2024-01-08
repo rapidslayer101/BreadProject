@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 03:34:24.602956
+address1§1000 S. Second Street
+address2§P. O. Box 471
+city§Sunbury
+state§PA
+zip§17801-0471
+country§United States
+phone§570 286 4571
+website§https://www.weismarkets.com
+industry§Grocery Stores
+sector§Consumer Defensive
+longBusinessSummary§Weis Markets, Inc. engages in the retail sale of food through a chain of supermarkets in Pennsylvania and surrounding states. The company's retail food stores sell groceries, dairy products, frozen foods, meats, seafood, fresh produce, floral, pharmacy services, deli products, prepared foods, bakery products, beer and wine, and fuel; and general merchandise items, such as health and beauty care, and household products. It operates stores in Delaware, Maryland, New Jersey, New York, Pennsylvania, Virginia, and West Virginia primarily under the Weis Markets name, as well as Weis, Weis 2 Go, Weis Great Meals Start Here, Weis Gas-n-Go, and Weis Nutri-Facts. The company was founded in 1912 and is based in Sunbury, Pennsylvania.
+fullTimeEmployees§23000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan H. Weis', 'age': 55, 'title': 'Chairman, President & CEO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 10076171, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael T. Lockard', 'age': 53, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1276939, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt A. Schertle', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 3638164, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David William Gose II', 'age': 56, 'title': 'Senior Vice President of Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1059548, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harold G. Graber Jr.', 'age': 67, 'title': 'Senior VP of Real Estate & Development, Secretary and Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1101751, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Gregory Zeh Jr.', 'age': 49, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Jack  O'hara", 'title': 'Vice President of Legal Affairs and Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Cline', 'title': 'Vice President of Talent Development and Vice President of Associate Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Gleeson', 'age': 56, 'title': 'Senior Vice President of Merchandising & Marketing', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James E. Marcil', 'age': 64, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§3
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.36
+dividendYield§0.0209
+exDividendDate§1698969600
+payoutRatio§0.3261
+fiveYearAvgDividendYield§2.34
+beta§0.45
+priceToSalesTrailing12Months§0.36539772
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Weis Markets, Inc.
+longName§Weis Markets, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§27316c5e-0d57-3707-98d7-22bbaf14da97
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.373
+earningsGrowth§-0.19
+grossMargins§0.25107
+ebitdaMargins§0.05208
+trailingPegRatio§None

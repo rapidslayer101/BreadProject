@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 21:46:14.798740
+address1§2100 Powell Street
+address2§12th Floor
+city§EmeryVille
+state§CA
+zip§94608
+country§United States
+phone§855 530 6642
+website§https://www.nationalmi.com
+industry§Insurance—Specialty
+sector§Financial Services
+longBusinessSummary§NMI Holdings, Inc. provides private mortgage guaranty insurance services in the United States. The company offers mortgage insurance services, such as primary and pool insurance; and outsourced loan review services to mortgage loan originators. It serves national and regional mortgage banks, money center banks, credit unions, community banks, builder-owned mortgage lenders, internet-sourced lenders, and other non-bank lenders. NMI Holdings, Inc. was incorporated in 2011 and is headquartered in Emeryville, California.
+fullTimeEmployees§239
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bradley Mize Shuster', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 1587486, 'exercisedValue': 0, 'unexercisedValue': 7929715}, {'maxAge': 1, 'name': 'Mr. Adam S. Pollitzer', 'age': 43, 'title': 'President, CEO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2474844, 'exercisedValue': 0, 'unexercisedValue': 131012}, {'maxAge': 1, 'name': 'Mr. Ravi  Mallela', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1146930, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Leatherberry', 'age': 52, 'title': 'Chief Administrative Officer, Executive VP, Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1326331, 'exercisedValue': 0, 'unexercisedValue': 97079}, {'maxAge': 1, 'name': 'Mr. Robert Owen Smith', 'age': 53, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1103081, 'exercisedValue': 0, 'unexercisedValue': 122235}, {'maxAge': 1, 'name': 'Mr. John M. Swenson', 'title': 'Vice President of Investor Relations & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lesley  Alli', 'title': 'Senior VP of Industry Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Norman P. Fitzgerald', 'age': 56, 'title': 'Executive VP & Chief Sales Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison  Miller', 'title': 'Senior VP & CHRO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mohammad  Yousaf', 'age': 47, 'title': 'Executive Vice President of Operations & IT', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.155
+priceToSalesTrailing12Months§4.2671013
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.12
+pegRatio§0.75
+exchange§NGM
+quoteType§EQUITY
+shortName§NMI Holdings Inc
+longName§NMI Holdings, Inc.
+firstTradeDateEpochUtc§1383921000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e70055a2-b196-37e5-832e-e84eca9a9e46
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§37.0
+targetLowPrice§30.0
+targetMeanPrice§33.67
+targetMedianPrice§34.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.945
+earningsGrowth§0.111
+grossMargins§0.77970004
+ebitdaMargins§0.7952
+trailingPegRatio§None

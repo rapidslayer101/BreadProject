@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 00:43:21.072805
+address1§1947 Briarfield Boulevard
+address2§PO Box 119
+city§Maumee
+state§OH
+zip§43537
+country§United States
+phone§419 893 5050
+website§https://andersonsinc.com
+industry§Food Distribution
+sector§Consumer Defensive
+longBusinessSummary§The Andersons, Inc. operates in trade, renewables, and plant nutrient sectors in the United States and internationally. It operates through three segments: Trade, Renewables, and Plant Nutrient. The company's Trade segment operates grain elevators; stores commodities; and provides grain marketing, risk management, and origination services, as well as sells commodities, such as corn, soybeans, wheat, oats, and corn oil. This segment also engages in the commodity merchandising business, as well as offers logistics for physical commodities, such as whole grains, grain products, feed ingredients, domestic fuel products, and other agricultural commodities. Its Renewables segment produces, purchases, and sells ethanol, and co-products, as well as offers facility operations, risk management, and marketing services to the ethanol plants it invests in and operates. The company's Plant Nutrient segment manufactures, distributes, and retails agricultural and related plant nutrients, liquid industrial products, corncob-based products, and pelleted lime and gypsum products, as well as turf fertilizer, pesticide, and herbicide products; and crop nutrients, crop protection chemicals, and seed products, as well as provides application and agronomic services to commercial and family farmers. In addition, this segment produces corncob-based products for laboratory animal bedding and private-label cat litter, as well as absorbents, blast cleaners, carriers, and polishers; professional lawn care products for golf course and turf care markets; fertilizer and weed, and pest control products; pelleted lime, gypsum, and value add soil amendments; and micronutrients, and soil amendments, as well as industrial products comprising nitrogen reagents, calcium nitrate, deicers, and dust abatement products. The Andersons, Inc. was founded in 1947 and is based in Maumee, Ohio.
+fullTimeEmployees§2283
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick E. Bowe', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 3193849, 'exercisedValue': 876738, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian A. Valentine', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1670018, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William E. Krueger', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3392457, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine M. Castellano', 'age': 57, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1193421, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph E. McNeely', 'age': 58, 'title': 'President of The Andersons Nutrient & Industrial', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1192575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael T. Hoelter', 'age': 39, 'title': 'VP, Corporate Controller & Investor Relations', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katelin  Langenderfer', 'title': 'Corporate Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah J. Zibbel', 'age': 43, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel T. Anderson', 'age': 67, 'title': 'President of Retail Group', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 276642, 'exercisedValue': 171016, 'unexercisedValue': 315247}, {'maxAge': 1, 'name': 'Mr. Brian K. Walz', 'age': 53, 'title': 'VP & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.76
+dividendYield§0.0138
+exDividendDate§1703808000
+payoutRatio§0.38950002
+fiveYearAvgDividendYield§2.45
+beta§0.729
+priceToSalesTrailing12Months§0.11434225
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.92
+pegRatio§2.47
+exchange§NMS
+quoteType§EQUITY
+shortName§The Andersons, Inc.
+longName§The Andersons, Inc.
+firstTradeDateEpochUtc§824826600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b44f80d6-c3c1-335e-ba3a-5a1eff1f4099
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§60.0
+targetMeanPrice§61.67
+targetMedianPrice§60.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.886
+earningsGrowth§-0.737
+grossMargins§0.04303
+ebitdaMargins§0.02029
+trailingPegRatio§None

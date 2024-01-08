@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 14:44:32.600638
+address1§6200 Lookout Road
+city§Boulder
+state§CO
+zip§80301
+country§United States
+phone§720 647 8519
+website§https://www.enliventherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Enliven Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery and development of small molecule inhibitors to help patients with cancer. The company's lead product candidates comprise ELVN-001, which is being evaluated in a Phase 1 clinical trial in adults with chronic myeloid leukemia; and ELVN-002, a Phase 1 clinical trial in adults with solid tumors with HER2 alterations. Enliven Therapeutics, Inc. is headquartered in Boulder, Colorado.
+fullTimeEmployees§44
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Samuel S. Kintz M.B.A.', 'age': 37, 'title': 'Co-Founder, CEO, Secretary & Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 597000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Hohl', 'age': 34, 'title': 'CFO & Head of Corporate Development', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 488500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Helen Louise Collins M.D.', 'age': 60, 'title': 'Chief Medical Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 558000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Joseph P. Lyssikatos Ph.D.', 'age': 58, 'title': 'Co-Founder, Chief Scientific Officer & Directors', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anish  Patel Pharm.D.', 'age': 43, 'title': 'Co-Founder & COO', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Galya D. Blachman Esq., Ph.D.', 'age': 46, 'title': 'Chief Legal Officer & Head of Business Development', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Enliven Therapeutics, Inc.
+longName§Enliven Therapeutics, Inc.
+firstTradeDateEpochUtc§1584019800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§467fab6a-c841-3428-aeda-27a7c3fd78b8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§37.0
+targetLowPrice§25.0
+targetMeanPrice§31.0
+targetMedianPrice§31.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§21.813
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,36 @@
+# reload+after+2024-01-22 06:36:08.119041
+address1§7400 Daresbury Park
+address2§Daresbury
+city§Warrington
+zip§WA4 4BS
+country§United Kingdom
+phone§44 19 2837 8100
+website§https://www.dswcapital.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§DSW Capital plc provides professional services in the United Kingdom. It offers corporate finance advice, financial due diligence, business recovery, equity finance, DSW venture, wealth advisory, forensic and valuation, business planning, and debt and tax advisory services; and asset based lending risk management services in the tech and media sectors. The company was founded in 2002 and is headquartered in Warrington, the United Kingdom.
+fullTimeEmployees§15
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Alexander Thomas Dow', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 248000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole Jane Burstow', 'age': 41, 'title': 'Deputy CEO, CFO & Executive Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 141000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Peter James Fendall', 'title': 'Business Development & Operations Director and Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0631
+exDividendDate§1702512000
+payoutRatio§2.99
+beta§0.196
+priceToSalesTrailing12Months§4.882013
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§DSW CAPITAL PLC ORD 0.25P
+longName§DSW Capital plc
+firstTradeDateEpochUtc§1639641600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1a3cbddc-5cc3-3b7f-ba6c-15d0e954f3ad
+recommendationKey§none
+quickRatio§9.362
+grossMargins§1.0
+ebitdaMargins§-0.09814
+trailingPegRatio§None

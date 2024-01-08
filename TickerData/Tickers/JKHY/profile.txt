@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 15:45:35.825774
+address1§663 West Highway 60
+address2§PO Box 807
+city§Monett
+state§MO
+zip§65708
+country§United States
+phone§417 235 6652
+website§https://www.jackhenry.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Jack Henry & Associates, Inc., a financial technology company that connects people and financial institutions through technology solutions and payment processing services that reduce the barriers to financial health. It operates through four segments: Core, Payments, Complementary, and Corporate and Other. The company offers information and transaction processing solutions for banks ranging from community to multi-billion-dollar asset institutions; core data processing solutions for various credit unions; and specialized financial performance, imaging and payments processing, information security and risk management, retail delivery, and online and mobile solutions to financial services organizations and corporate entities. It also provides a suite of integrated applications required to process deposit, loan, and general ledger transactions, as well as to maintain centralized customer/member information; and complementary products and services that enable core bank and credit union clients to respond to evolving customer/member demands. In addition, the company's core banking platform offerings include SilverLake system, a robust system primarily designed for commercial-focused banks; CIF 20/20, a parameter-driven, easy-to-use system for banks; and Core Director, a cost-efficient system with point-and-click operation, as well as core credit union platform under the Symitar name. Further, it provides digital products and services and electronic payment solutions; purchases and resells hardware systems, including servers, workstations, scanners, and other devices; implementation, training, and support services; and software licensing and related services, professional services, and data centers. Jack Henry & Associates, Inc. was founded in 1976 and is headquartered in Monett, Missouri.
+fullTimeEmployees§7120
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David B. Foss', 'age': 61, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1867291, 'exercisedValue': 0, 'unexercisedValue': 935501}, {'maxAge': 1, 'name': 'Mr. Gregory R. Adelson', 'age': 58, 'title': 'President & COO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 973059, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mimi L. Carsley', 'age': 53, 'title': 'CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 831517, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig Keith Morgan', 'age': 47, 'title': 'General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 724445, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stacey E. Zengel', 'age': 61, 'title': 'Senior VP & President of Jack Henry Bank Solutions', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 529238, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Renee A. Swearingen', 'age': 55, 'title': 'Senior VP, Chief Accounting Officer & Assistant Treasurer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Metz', 'title': 'VP and Chief Digital & Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Zelinka', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vance  Sherard C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Folk', 'title': 'Senior Manager of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§2.08
+dividendYield§0.0125
+exDividendDate§1701302400
+payoutRatio§0.4141
+fiveYearAvgDividendYield§1.1
+beta§0.659
+priceToSalesTrailing12Months§5.727676
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.62
+pegRatio§4.68
+exchange§NMS
+quoteType§EQUITY
+shortName§Jack Henry & Associates, Inc.
+longName§Jack Henry & Associates, Inc.
+firstTradeDateEpochUtc§501345000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97b718c2-79a7-3a4b-96f0-79c179e9ebc0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§190.0
+targetLowPrice§143.0
+targetMeanPrice§167.85
+targetMedianPrice§165.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.74
+earningsGrowth§-0.048
+grossMargins§0.41326
+ebitdaMargins§0.25653
+trailingPegRatio§3.3583

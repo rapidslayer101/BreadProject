@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 11:43:21.649687
+address1§Ugland House
+address2§PO Box 309
+city§Grand Cayman
+zip§KY1-1104
+country§Cayman Islands
+phone§848 230 7430
+website§https://www.adlainortye.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Adlai Nortye Ltd., a clinical-stage biotechnology company, focuses on the discovery and development of cancer therapies in the United States and Mainland China. Its lead product is AN2025, a pan-phosphoinositide 3-kinase inhibitor, which is in Phase III clinical trial for the treatment of recurrent or metastatic head and neck squamous cell carcinomas. The company is also developing AN0025, a small molecule EP4 antagonist to modulate the tumor microenvironment; and AN4005, an oral small-molecule PD-L1 inhibitor to induce and stabilize PD-L1 dimerization and thereby disrupt the interaction between PD-1 and PD-L1. Its preclinical candidates include AN8025, a multifunctional antibody as T cell and APC modulator; AN1025, an oral small molecule degrader of ß-catenin; and AN9025, an oral small molecule pan-KRAS inhibitor. The company was incorporated in 2018 and is based in Grand Cayman, the Cayman Islands.
+fullTimeEmployees§130
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yang  Lu', 'age': 43, 'title': 'CEO & Chairman', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wei  Zhang', 'age': 32, 'title': 'Chief Financial Officer', 'yearBorn': 1991, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kaiyang  Tang', 'age': 59, 'title': 'Senior VP & Global Head of Clinical Operations', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Victoria Elizabeth Demby Ph.D.', 'age': 53, 'title': 'Senior VP & Global Head of Regulatory Affairs', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.46
+exchange§NGM
+quoteType§EQUITY
+shortName§Adlai Nortye Ltd.
+longName§Adlai Nortye Ltd.
+firstTradeDateEpochUtc§1695994200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§291e650f-3a34-3dde-b7b9-4183619f74d0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§30.0
+targetMeanPrice§30.0
+targetMedianPrice§30.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.157
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

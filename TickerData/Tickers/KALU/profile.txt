@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 05:45:37.583565
+address1§1550 West McEwen Drive
+address2§Suite 500
+city§Franklin
+state§TN
+zip§37067
+country§United States
+phone§629 252 7040
+website§https://www.kaiseraluminum.com
+industry§Aluminum
+sector§Basic Materials
+longBusinessSummary§Kaiser Aluminum Corporation, together with its subsidiaries, engages in manufacture and sale of semi-fabricated specialty aluminum mill products in the United States and internationally. The company offers rolled, extruded, and drawn aluminum products used for aerospace and defense, aluminum beverage and food packaging, automotive and general engineering products. The company's automotive extrusions include extruded aluminum products for structural components, crash management systems, anti-lock braking systems, and drawn tubes for drive shafts, as well as offers fabrication services, including sawing and cutting to length. Its packaging products consist of bare and coated 3000- and 5000-series alloy aluminum coil used for beverage and food packaging industry; and Its general engineering products comprise alloy plate, sheet, rod, bar, tube, wire, and standard extrusion shapes used in various applications, including the production of military vehicles, ordnances, semiconductor manufacturing cells, electronic devices, after-market motor sport parts, tooling plates, parts for machinery and equipment, bolts, screws, nails, and rivets. In addition, it offers rerolled, extruded, drawn, and cast billet aluminum products for industrial end uses. It sells its products directly to customers through sales personnel located in the United States, Canada, Western Europe, and China, as well as through independent sales agents in other regions of Asia, Latin America, and the Middle East. Kaiser Aluminum Corporation was founded in 1946 and is headquartered in Franklin, Tennessee.
+fullTimeEmployees§3800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jack A. Hockema', 'age': 76, 'title': 'Executive Chairman', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 351057, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith A. Harvey', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1704743, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neal E. West', 'age': 64, 'title': 'Executive VP & CFO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 611885, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. Donnan', 'age': 62, 'title': 'Executive VP, Chief Administrative Officer & General Counsel', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1219822, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Blain A. Tiffany', 'age': 64, 'title': 'Executive Vice President of Sales & Marketing', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 554386, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason D. Walsh', 'age': 43, 'title': 'Executive Vice President of Manufacturing', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 811138, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vijai  Narayan', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Raymond D. Parkinson', 'age': 64, 'title': 'Senior Vice President of Advanced Engineering', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 564098, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cherrie I. Tsai', 'title': 'VP, Corporate Secretary & Deputy General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.08
+dividendYield§0.0476
+exDividendDate§1698105600
+payoutRatio§3.85
+fiveYearAvgDividendYield§3.29
+beta§1.343
+priceToSalesTrailing12Months§0.32963982
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.12
+pegRatio§0.69
+exchange§NMS
+quoteType§EQUITY
+shortName§Kaiser Aluminum Corporation
+longName§Kaiser Aluminum Corporation
+firstTradeDateEpochUtc§1152279000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§16cb45e9-ec5a-3eb4-8cd0-d8b5bf410c5d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§84.0
+targetLowPrice§53.0
+targetMeanPrice§67.0
+targetMedianPrice§64.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.243
+earningsGrowth§1.151
+grossMargins§0.097279996
+ebitdaMargins§0.056760002
+trailingPegRatio§None

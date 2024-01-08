@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 00:34:37.995604
+address1§Macacha GUeemes 515
+city§Buenos Aires
+zip§C1106BKK
+country§Argentina
+phone§54 11 5441 2000
+website§https://www.ypf.com
+industry§Oil & Gas Integrated
+sector§Energy
+longBusinessSummary§YPF Sociedad Anónima, an energy company, engages in the oil and gas upstream and downstream activities in Argentina. Its upstream operations include the exploration, exploitation, and production of crude oil, natural gas, and NGLs. The company's downstream operations include the refining, marketing, and distribution of oil and petroleum products, as well as petroleum derivatives, such as petrochemicals, hydrocarbons, non-fossil fuels, biofuels, and related components; and production of hydrocarbons electric power. Its gas and power operations include transportation, commercialization, and distribution of natural gas; operation of regasification terminals; conditioning, processing, and separation of natural gas; and power generation. The company had interests in 116 oil and gas fields; approximately 606 million barrels (mmbbl) of oil; and approximately 2,826 billion cubic feet (bcf) of gas. It also had a retail distribution network of 1,658 YPF-branded service stations; and 17 exploration permits. In addition, the company owns and operates three refineries with combined annual refining capacity of approximately 119.7 mmbbl; approximately 2,800 kilometers of crude oil pipelines with approximately 640,000 barrels of aggregate daily transportation capacity of refined products; and crude oil tankage of approximately 7 mmbbl, as well as maintains terminal facilities at five Argentine ports. Further, it participates in 21 power generation plants with an aggregate installed capacity of 3,091 megawatts; offers diesel, fertilizers, lubricants, phytosanitary products, and ensiling bags; and supplies diesel, gasoline, fuel oil, coal, asphalts, paraffin, and sulfur, CO2, decanted oil, and aromatic extract. The company was founded in 1977 and is headquartered in Buenos Aires, Argentina.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Horacio Daniel Marin', 'title': 'CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pedro Luis Kearney', 'title': 'Interim CFO and Director of Planning, Finance & IR', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria De Las Mercedes Archimbal', 'age': 41, 'title': 'Chief Compliance Officer', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. German  Fernandez Lahore', 'age': 55, 'title': 'Corporate Vice President of Legal Affairs', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Florencia  Tiscornia', 'age': 49, 'title': 'Vice President of People & Culture', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Santiago  Martinez Tanoira', 'age': 51, 'title': 'Executive Vice President of Gas & Power', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margarita  Chun', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+exDividendDate§1562630400
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.73
+beta§1.815
+priceToSalesTrailing12Months§0.0021309112
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.73
+pegRatio§-0.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§YPF Sociedad Anonima
+longName§YPF Sociedad Anónima
+firstTradeDateEpochUtc§741360600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f71fb5a5-002d-3eaa-988f-141345db9333
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§8.0
+targetMeanPrice§15.15
+targetMedianPrice§14.5
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§0.589
+grossMargins§0.17995001
+ebitdaMargins§0.19679001
+trailingPegRatio§None

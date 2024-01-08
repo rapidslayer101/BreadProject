@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 02:32:55.376160
+address1§Royal Bank Plaza
+address2§200 Bay Street
+city§Toronto
+state§ON
+zip§M5J 2J5
+country§Canada
+phone§888 212 5533
+website§https://www.rbc.com
+industry§Banks—Diversified
+sector§Financial Services
+longBusinessSummary§Royal Bank of Canada operates as a diversified financial service company worldwide. The company's Personal & Commercial Banking segment offers checking and savings accounts, home equity financing, personal lending, private banking, indirect lending, including auto financing, mutual funds and self-directed brokerage accounts, guaranteed investment certificates, credit cards, and payment products and solutions; and lending, leasing, deposit, investment, foreign exchange, cash management, auto dealer financing, trade products, and services to small and medium-sized commercial businesses. This segment offers financial products and services through branches, automated teller machines, and mobile sales network. Its Wealth Management segment provides a suite of wealth, investment, trust, banking, credit, and other advice-based solutions and strategies to high net worth and ultra-high net worth individuals, and institutional clients; asset management products to institutional and individual clients; and asset and investor services to financial institutions, asset managers, and asset owners. The company's Insurance segment offers life, health, home, auto, travel, wealth, annuities, property and casualty, and reinsurance advice and solutions; and business insurance services to individual, business, and group clients through its advice centers, RBC insurance stores, and mobile advisors; digital platforms; and independent brokers and partners. The company's Capital Markets segment offers advisory and origination, sales and trading, lending and financing, and transaction banking services to corporations, institutional clients, asset managers, private equity firms, and governments. The company was founded in 1864 and is headquartered in Toronto, Canada.
+fullTimeEmployees§91398
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David I. McKay', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 3392179, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nadine  Ahn', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1156778, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Antony Guzman', 'title': 'Group Head of RBC Wealth Management & RBC Insurance', 'fiscalYear': 2022, 'totalPay': 1308407, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  McLaughlin', 'title': 'Group Head of Personal & Commercial Banking', 'fiscalYear': 2022, 'totalPay': 1608479, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek  Neldner CFA', 'title': 'Group Head & CEO of RBC Capital Markets', 'fiscalYear': 2022, 'totalPay': 2567660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Ross', 'title': 'Group Head of Technology & Operations', 'fiscalYear': 2022, 'totalPay': 1085773, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christoph  Knoess', 'title': 'Chief Administrative & Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Asim  Imran', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria  Douvas', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Cairncross', 'title': 'Senior Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.06
+dividendYield§0.0403
+exDividendDate§1706054400
+payoutRatio§0.5086
+fiveYearAvgDividendYield§3.92
+beta§0.835
+priceToSalesTrailing12Months§2.642094
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.14
+pegRatio§3.28
+exchange§NYQ
+quoteType§EQUITY
+shortName§Royal Bank Of Canada
+longName§Royal Bank of Canada
+firstTradeDateEpochUtc§813850200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ccb21680-cb44-3bc3-b15e-d8acc0145efe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§109.81
+targetLowPrice§88.86
+targetMeanPrice§102.39
+targetMedianPrice§106.16
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§0.055
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

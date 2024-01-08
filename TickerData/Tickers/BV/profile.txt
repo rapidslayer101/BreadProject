@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 18:27:35.148692
+address1§980 Jolly Road
+address2§Suite 300
+city§Blue Bell
+state§PA
+zip§19422
+country§United States
+phone§484 567 7204
+website§https://www.brightview.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§BrightView Holdings, Inc., through its subsidiaries, provides commercial landscaping services in the United States. It operates through two segments, Maintenance Services and Development Services. The Maintenance Services segment delivers a suite of recurring commercial landscaping services, including mowing, gardening, mulching and snow removal, water management, irrigation maintenance, tree care, golf course maintenance, and specialty turf maintenance. Its customers' properties include corporate and commercial properties, homeowners associations, public parks, hotels and resorts, airport authorities, municipalities, hospitals and other healthcare facilities, educational institutions, restaurants and retail, and golf courses. This segment's customer base includes approximately 8,800 office parks and corporate campuses 7,100 residential communities, and 550 educational institutions. The Development Services segment offers landscape architecture and development services for new facilities and redesign projects. Its services include project design and management services, landscape architecture and installation, irrigation installation, tree moving and installation, pool and water features, sports field, and other services. BrightView Holdings, Inc. also operates as official field consultant to various league baseball. The company was founded in 1939 and is headquartered in Blue Bell, Pennsylvania.
+fullTimeEmployees§20400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan M. Gottsegen Esq.', 'age': 56, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 726727, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda Marie Orders', 'age': 45, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 467868, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Donnelly ASLA', 'age': 69, 'title': 'President of Development Services & Landscape Development', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 690740, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dale A. Asplund', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett  Urban', 'age': 40, 'title': 'Executive VP, CFO & Principal Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Jackson', 'age': 38, 'title': 'VP, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Bruce', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fred  Jacobs', 'title': 'VP of Communications & Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Joe Dozier', 'age': 61, 'title': 'President of Maintenance Services- Evergreen', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamie C. Gollotto', 'age': 52, 'title': 'President of Seasonal Maintenance Services - Northeast, Mid-Atlantic & Midwest', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§5
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.35
+priceToSalesTrailing12Months§0.25892898
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.81
+pegRatio§0.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§BrightView Holdings, Inc.
+longName§BrightView Holdings, Inc.
+firstTradeDateEpochUtc§1530192600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c79bda0e-66f0-3bee-a62a-6840b907bf39
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§7.0
+targetMeanPrice§8.9
+targetMedianPrice§8.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.41
+earningsGrowth§-0.094
+grossMargins§0.24109
+ebitdaMargins§0.09137
+trailingPegRatio§None

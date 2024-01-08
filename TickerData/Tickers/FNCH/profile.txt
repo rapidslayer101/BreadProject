@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 06:44:49.421188
+address1§200 Inner Belt Road
+address2§Suite 400
+city§Somerville
+state§MA
+zip§02143
+country§United States
+phone§617 229 6499
+website§https://www.finchtherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Finch Therapeutics Group, Inc., a clinical-stage microbiome therapeutics company, develops a novel class of orally administered biological drugs in the United States. The company develops FIN-211, a microbiome candidate designed to address the gastrointestinal and behavioral symptoms of autism spectrum disorder; and FIN-524, FIN-525, and other microbiome product candidates for inflammatory bowel disease. The company has collaboration and license agreements with Takeda Pharmaceutical Company Limited; Skysong Innovations LLC; and University of Minnesota. Finch Therapeutics Group, Inc. was incorporated in 2014 and is based in Somerville, Massachusetts.
+fullTimeEmployees§18
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew P. Blischak J.D.', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lance  Thibault CPA', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James S. Sigler MBA', 'age': 62, 'title': 'Executive Vice President of CMC', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.415
+priceToSalesTrailing12Months§48.1728
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-20.59
+exchange§NMS
+quoteType§EQUITY
+shortName§Finch Therapeutics Group, Inc.
+longName§Finch Therapeutics Group, Inc.
+firstTradeDateEpochUtc§1616160600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b8e86349-7dce-3756-a76c-43df24d3f738
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§90.0
+targetMeanPrice§90.0
+targetMedianPrice§90.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§5.899
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

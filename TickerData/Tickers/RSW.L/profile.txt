@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 04:40:13.325594
+address1§New Mills
+city§Wotton-under-Edge
+zip§GL12 8JR
+country§United Kingdom
+phone§44 1453 524 524
+fax§44 1453 524 401
+website§https://www.renishaw.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§Renishaw plc, an engineering and scientific technology company, designs, manufactures, distributes, sells, and services technological products and services, and analytical instruments and medical devices worldwide. The company offers co-ordinate measuring machine products, hardware, software, retrofits, machine tool probes, diagnostics, encoders, tool setters, performance measurement systems, gauging systems, modular and custom fixtures, and styli products for touch probe systems; machine calibration and optimization products; interferometric laser, magnetic, and open and enclosed optical encoders; and additive manufacturing systems. It also provides healthcare products, such as neurosurgical robots and accessories, neurosurgical planning software, electrode delivery systems, drug delivery systems, Raman microscopes, analysers, and hybrid Raman systems. In addition, the company offers smart manufacturing data platform and asset financing services. It serves the aerospace, automotive, consumer electronics, medical and healthcare, heavy, machine builder, and precision manufacturing industries, as well as scientific, research, and analysis industries. The company was incorporated in 1973 and is headquartered in Wotton-under-Edge, the United Kingdom.
+fullTimeEmployees§5175
+companyOfficers§[{'maxAge': 1, 'name': 'Sir David R. McMurtry CBE, CEng, FIMechE, FREng, FRS, RDI', 'age': 83, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1940, 'fiscalYear': 2023, 'totalPay': 769000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Ernest Lee M.A., M.B.A.', 'age': 48, 'title': 'Chief Executive & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 802000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David John Deer', 'age': 85, 'title': 'Co-Founder & Non-Executive Deputy Chairman', 'yearBorn': 1938, 'fiscalYear': 2023, 'totalPay': 75000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen C. G. Roberts F.C.A.', 'age': 74, 'title': 'Group Finance Director & Director', 'yearBorn': 1949, 'fiscalYear': 2023, 'totalPay': 517000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Macdonald', 'title': 'Head of Group Finance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Wallace', 'age': 52, 'title': 'Director of Group Operations', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Pockett', 'title': 'Head of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Petersen', 'title': 'Marketing Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Diane  Canadine', 'title': 'Head of Group HR', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leo  Somerville', 'age': 65, 'title': 'President of Americas', 'yearBorn': 1958, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.76
+dividendYield§0.0224
+exDividendDate§1698883200
+payoutRatio§0.4596
+fiveYearAvgDividendYield§1.51
+beta§0.749
+priceToSalesTrailing12Months§3.7822754
+currency§GBp
+forwardEps§170.33
+pegRatio§2.82
+exchange§LSE
+quoteType§EQUITY
+shortName§RENISHAW PLC ORD 20P
+longName§Renishaw plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§523d3155-3cda-3da7-bb06-a319b1e1ab29
+targetHighPrice§4000.0
+targetLowPrice§2900.0
+targetMeanPrice§3400.0
+targetMedianPrice§3100.0
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§3.622
+earningsGrowth§0.005
+grossMargins§0.5116
+ebitdaMargins§0.22878
+trailingPegRatio§None

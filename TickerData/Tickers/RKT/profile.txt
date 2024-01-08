@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 01:32:47.911496
+address1§1050 Woodward Avenue
+city§Detroit
+state§MI
+zip§48226
+country§United States
+phone§313 373 7990
+website§https://www.rocketcompanies.com
+industry§Mortgage Finance
+sector§Financial Services
+longBusinessSummary§Rocket Companies, Inc., a fintech holding company, provides mortgage lending, title and settlement services, and other financial technology services in the United States and Canada. It operates through two segments, Direct to Consumer and Partner Network. The company's solutions include Rocket Mortgage, a mortgage lender; Amrock that provides title insurance, property valuation, and settlement services; Rocket Homes, a home search platform and real estate agent referral network, which offers technology-enabled services to support the home buying and selling experience; Rocket Auto, a virtual marketplace where consumers can shop and compare vehicles of many makes and models from a wide network of dealers; and Rocket Loans, an online-based personal loans business. It also offers Core Digital Media, a digital, social, and display advertiser in the mortgage, insurance, and education sectors; Rocket Solar, a tech-driven, residential solar energy provider; Rocket Money, a personal finance app that helps clients manage every aspect of their financial lives; Lendesk, a software services company that provides a point of sale system for mortgage professionals and a loan origination system for private lenders; Rocket Central, a professional services organization that provides technology, data, marketing, communication and other services; Rock Connections, a sales and support platform specializing in contact center services; Rocket Innovation Studio that recruits and mentors top technology talent; and Edison Financial, a digital mortgage broker. In addition, the company originates, closes, sells, and services agency-conforming loans. Rocket Companies, Inc. was founded in 1985 and is headquartered in Detroit, Michigan. Rocket Companies, Inc. operates as a subsidiary of Rock Holdings Inc.
+fullTimeEmployees§18500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel B. Gilbert', 'age': 61, 'title': 'Founder & Chairman of the Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Nicholas Brown', 'title': 'CFO & Treasurer', 'fiscalYear': 2022, 'totalPay': 797498, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tina V. John', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'totalPay': 309621, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Varun  Krishna', 'age': 40, 'title': 'CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William C. Emerson', 'age': 60, 'title': 'President, COO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Ng', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. KimArie  Yowell', 'title': 'Chief Diversity Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Banfield', 'title': 'Executive Vice President-Capital Market of Rocket Mortgage', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. LaQuanda  Sain', 'title': 'Executive Vice President-Servicing of Rocket Mortgage', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Woodring', 'title': 'Chief Information Officer of Rocket Mortgage', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1646611200
+payoutRatio§0.0
+beta§2.405
+priceToSalesTrailing12Months§6.691222
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.32
+pegRatio§3.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§Rocket Companies, Inc.
+longName§Rocket Companies, Inc.
+firstTradeDateEpochUtc§1596720600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4162da6a-ac67-3503-adcd-3bc3971fe3e4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§6.0
+targetMeanPrice§9.77
+targetMedianPrice§9.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.377
+earningsGrowth§0.075
+grossMargins§1.0
+ebitdaMargins§-0.06385
+trailingPegRatio§1.8409

@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 15:44:04.242748
+address1§100 East Water Street
+address2§PO Box 5016
+city§Sandusky
+state§OH
+zip§44870-2514
+country§United States
+phone§419 625 4121
+fax§419 627 3359
+website§https://www.civb.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Civista Bancshares, Inc. operates as the financial holding company for Civista Bank that provides community banking services. It collects a range of customer deposits; and offers commercial and agriculture, commercial and residential real estate, farm real estate, real estate construction, consumer, and other loans, as well as letters of credit. The company also purchases equity securities; and provides trust and third-party insurance services. It operates in North Central, West Central, South Western Ohio, South Eastern Indiana, and Northern Kentucky. The company was formerly known as First Citizens Banc Corp and changed its name to Civista Bancshares, Inc. in May 2015. Civista Bancshares, Inc. was founded in 1884 and is headquartered in Sandusky, Ohio.
+fullTimeEmployees§531
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dennis G. Shaffer', 'age': 60, 'title': 'President, CEO & Vice Chairman', 'yearBorn': 1963, 'fiscalYear': 2014, 'totalPay': 789531, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Dutton', 'age': 60, 'title': 'Senior VP & COO', 'yearBorn': 1963, 'fiscalYear': 2014, 'totalPay': 445374, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd A. Michel', 'age': 58, 'title': 'Senior VP & Controller', 'yearBorn': 1965, 'fiscalYear': 2014, 'totalPay': 311505, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry  Singer', 'age': 68, 'title': 'Independent Director', 'yearBorn': 1955, 'fiscalYear': 2014, 'totalPay': 31812, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles A. Parcher', 'age': 58, 'title': 'Senior VP & Chief Lending Officer', 'yearBorn': 1965, 'fiscalYear': 2014, 'totalPay': 431139, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl A. Kessler III', 'age': 54, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lance A. Morrison', 'age': 55, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Donna M. Waltz-Jaskolski', 'age': 57, 'title': 'Senior VP & Customer Experience Officer', 'yearBorn': 1966, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert L. Curry Jr.', 'age': 54, 'title': 'Senior VP & Chief Risk Officer', 'yearBorn': 1969, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Russel J. Edwards Jr.', 'age': 57, 'title': 'Senior Vice President', 'yearBorn': 1966, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1419984000
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0356
+exDividendDate§1699228800
+payoutRatio§0.2034
+fiveYearAvgDividendYield§2.53
+beta§0.828
+priceToSalesTrailing12Months§1.7245715
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.2
+pegRatio§0.83
+exchange§NCM
+quoteType§EQUITY
+shortName§Civista Bancshares, Inc.
+longName§Civista Bancshares, Inc.
+firstTradeDateEpochUtc§765639000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§457836b4-6e4e-3103-abcf-6b337524c71b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§16.5
+targetMeanPrice§19.7
+targetMedianPrice§20.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.083
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

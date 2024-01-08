@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 04:31:22.767432
+address1§3560 Hyland Avenue
+address2§Suite 200
+city§Costa Mesa
+state§CA
+zip§92626
+country§United States
+phone§866 417 5130
+website§https://www.meridianlink.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§MeridianLink, Inc., a software and services company, provides software solutions for banks, credit unions, mortgage lenders, specialty lending providers, and consumer reporting agencies in the United States. The company offers MeridianLink One, a multi-product platform that can be tailored to meet the needs of customers as they digitally transform their organizations and adapt to changing business and consumer demands; MeridianLink Portal, a Point of Sale system that allows financial institutions to expand existing lending and deposit account; MeridianLink Opening, a cloud-based online account opening and deposit software solution; MeridianLink Consumer, a full loan solution suite to banks and credit unions; and MeridianLink DecisionLender, a loan origination software (LOS) for finance companies. It also provides MeridianLink Engage, an end-to-end consumer lending, account, and card marketing automation solution; MeridianLink Mortgage, a cloud-based software designed for financial professionals to optimize the end-to-end mortgage loan origination process; MeridianLink Collect, a web-based debt collection software; Mortgage Credit Link, a web-based order fulfillment hub; and MeridianLink Business, a cloud-based platform that offers business lending solutions for banks and credit unions, as well as MeridianLink Insight, a business intelligence tool. In addition, the company provides solutions, including end-to-end platform, loan origination system, mortgage loan origination system, deposit account opening, data and reporting, collections, and consulting and analysis, as well as data verification software solutions. MeridianLink, Inc. was founded in 1998 and is headquartered in Costa Mesa, California.
+fullTimeEmployees§751
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nicolaas  Vlok', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1114000, 'exercisedValue': 0, 'unexercisedValue': 16782796}, {'maxAge': 1, 'name': 'Mr. Timothy  Nguyen', 'age': 47, 'title': 'Chief Strategy Officer & Vice Chairman', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean W. Blitchok', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 794188, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Maloof', 'age': 40, 'title': 'President of Go-to-Market', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 798546, 'exercisedValue': 0, 'unexercisedValue': 771794}, {'maxAge': 1, 'name': 'Mr. Nathaniel  Barnes', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kayla  Dailey', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Scheig', 'title': 'Chief Sales Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Suresh  Balasubramanian', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Rieveley', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Piper', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.054
+priceToSalesTrailing12Months§5.9174576
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.25
+pegRatio§108.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§MeridianLink, Inc.
+longName§MeridianLink, Inc.
+firstTradeDateEpochUtc§1627479000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4603cd2b-a556-34e5-ab8e-ab0de8c4a568
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§14.0
+targetMeanPrice§19.0
+targetMedianPrice§19.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§1.913
+grossMargins§0.69138
+ebitdaMargins§0.18188
+trailingPegRatio§None

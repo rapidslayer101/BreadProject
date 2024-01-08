@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 17:31:37.792044
+address1§13135 Dairy Ashford
+address2§Suite 800
+city§Sugar Land
+state§TX
+zip§77478
+country§United States
+phone§281 276 6100
+fax§281 491 2092
+website§https://noblecorp.com
+industry§Oil & Gas Drilling
+sector§Energy
+longBusinessSummary§Noble Corporation plc operates as an offshore drilling contractor for the oil and gas industry worldwide. The company provides contract drilling services to the oil and gas industry through its fleet of mobile offshore drilling units. It operates drilling rigs consisting of floaters and jackups. Noble Corporation plc was founded in 1921 and is headquartered in Sugar Land, Texas.
+fullTimeEmployees§3800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert W. Eifler', 'age': 43, 'title': 'President, CEO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1522552, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard B. Barker', 'age': 42, 'title': 'Senior VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 838957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joey M. Kawaja', 'age': 49, 'title': 'Senior Vice President of Operations', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 546610, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Blake A. Denton', 'age': 44, 'title': 'Senior Vice President of Marketing & Contracts', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 499441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Edgar Turcotte', 'age': 59, 'title': 'Senior Advisor', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 738043, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura D. Campbell', 'age': 51, 'title': 'Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 744000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tom  Madden', 'title': 'VP & GM of Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  MacPherson', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennie P. Howard', 'age': 37, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tine Ostergaard Hansen', 'title': 'Vice President of Communication & Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0335
+exDividendDate§1699920000
+payoutRatio§0.0833
+beta§1.074
+priceToSalesTrailing12Months§2.7634363
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.49
+pegRatio§0.24
+exchange§NYQ
+quoteType§EQUITY
+shortName§Noble Corporation plc A
+longName§Noble Corporation Plc
+firstTradeDateEpochUtc§1623245400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dc33066c-3993-30d5-8896-e533fd692ce0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§52.0
+targetMeanPrice§62.45
+targetMedianPrice§62.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.816
+earningsGrowth§1.659
+grossMargins§0.40742
+ebitdaMargins§0.31492
+trailingPegRatio§None

@@ -1,0 +1,35 @@
+# reload+after+2024-01-21 08:35:54.455368
+address1§6 Heddon Street
+city§London
+zip§W1B 4BT
+country§United Kingdom
+website§https://capitalmetals.com
+industry§Other Industrial Metals & Mining
+industryKey§other-industrial-metals-mining
+industryDisp§Other Industrial Metals & Mining
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Capital Metals plc engages in the exploration, evaluation, and development of mineral sand resources in Sri Lanka and internationally. It holds interests in the Eastern Minerals project located in the Ampara District of the Eastern Province of Sri Lanka, as well as owns two mineral exploration licenses and two industrial mining licenses in Sri Lanka. Capital Metals plc was incorporated in 2005 and is based in London, the United Kingdom.
+fullTimeEmployees§22
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gregory Pentland Martyr BEc, LLB', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 57326, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Iranga  Dunuwille', 'title': 'Executive Officer', 'fiscalYear': 2023, 'totalPay': 75448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Mahony', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.443
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CAPITAL METALS PLC ORD 0.2P
+longName§Capital Metals plc
+firstTradeDateEpochUtc§1610611200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a08b56d3-e3e7-350d-aedd-bd4570d9cde6
+messageBoardId§finmb_25036416
+recommendationKey§none
+quickRatio§0.835
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

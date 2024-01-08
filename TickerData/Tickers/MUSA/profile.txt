@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 20:31:33.525671
+address1§200 Peach Street
+city§El Dorado
+state§AR
+zip§71730-5836
+country§United States
+phone§870 875 7600
+website§https://www.murphyusa.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Murphy USA Inc. engages in marketing of retail motor fuel products and convenience merchandise. The company operates retail stores under the Murphy USA, Murphy Express, and QuickChek brands. It operates retail gasoline stores principally in the Southeast, Southwest, and Midwest United States. The company was founded in 1996 and is headquartered in El Dorado, Arkansas.
+fullTimeEmployees§6000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. R. Andrew Clyde', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 4487392, 'exercisedValue': 8829310, 'unexercisedValue': 20155326}, {'maxAge': 1, 'name': 'Ms. Malynda K. West', 'age': 53, 'title': 'Executive VP of Fuels, CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1868301, 'exercisedValue': 2244375, 'unexercisedValue': 3255991}, {'maxAge': 1, 'name': 'Ms. Renee M. Bacon', 'age': 53, 'title': 'Senior VP of Sales & Operations and Chief Merchandising Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1063731, 'exercisedValue': 778080, 'unexercisedValue': 354281}, {'maxAge': 1, 'name': 'Mr. Robert J. Chumley', 'age': 58, 'title': 'Senior VP & Chief Digital Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1046076, 'exercisedValue': 423759, 'unexercisedValue': 3070558}, {'maxAge': 1, 'name': 'Mr. Blake  Segal', 'age': 42, 'title': 'Senior Vice President of QuickChek', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1097577, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian  Pikul', 'title': 'Vice President of Investor Relations & FP&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gregory L. Smith', 'title': 'VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher A. Click', 'age': 50, 'title': 'Senior Vice President of Strategy & Development', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer R Bridges', 'age': 54, 'title': 'Senior Vice President Asset Development', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald R. Smith Jr.', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.64
+dividendYield§0.0044
+exDividendDate§1698969600
+payoutRatio§0.0626
+beta§0.698
+priceToSalesTrailing12Months§0.4092049
+currency§USD
+dateShortInterest§1702598400
+forwardEps§25.06
+pegRatio§0.71
+exchange§NYQ
+quoteType§EQUITY
+shortName§Murphy USA Inc.
+longName§Murphy USA Inc.
+firstTradeDateEpochUtc§1376919000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2212c42c-3ba7-3085-942b-e341ce92ea33
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§425.0
+targetLowPrice§292.0
+targetMeanPrice§382.71
+targetMedianPrice§405.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.577
+earningsGrowth§-0.171
+grossMargins§0.06827
+ebitdaMargins§0.05217
+trailingPegRatio§6.4119

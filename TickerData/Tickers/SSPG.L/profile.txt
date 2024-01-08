@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 15:40:35.110806
+address1§Jamestown Wharf
+address2§32 Jamestown Road
+city§London
+zip§NW1 7HW
+country§United Kingdom
+phone§44 20 7543 3300
+website§https://www.foodtravelexperts.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§SSP Group plc operates food and beverage outlets in North America, Europe, the United Kingdom, Ireland, the Asia Pacific, Eastern Europe, the Middle East, and internationally. The company operates outlets at airports, railway stations, motorway service areas, hospitals, and shopping centers. It also operates sandwich shops, cafes, bars, and restaurants. SSP Group plc was founded in 1961 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§42000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick F. Coveney B.Com., B.Comm, DPHIL, M.Phil', 'age': 53, 'title': 'Group CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2348000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Owen Davies', 'age': 61, 'title': 'Deputy CEO, CFO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1315000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alexander Henri Olivier', 'title': 'Co-Owner', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Smith', 'title': 'Chief Digital & Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fiona  Scattergood', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sukh  Tiwana', 'age': 58, 'title': 'Chief Procurement Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Angela', 'age': 59, 'title': 'Chief Business Development & Strategy Officer and CEO India and EEME', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Svagdis', 'title': 'Chief Executive Officer of SSP North America', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Fennell', 'title': 'Chief Executive Officer of Nordics & Continental Europe', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela  Moores', 'title': 'Chief Customer Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0112
+exDividendDate§1706745600
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.74
+beta§1.76
+priceToSalesTrailing12Months§0.6214073
+currency§GBp
+forwardEps§-4.74
+exchange§LSE
+quoteType§EQUITY
+shortName§SSP GROUP PLC ORD 1 17/200P
+longName§SSP Group plc
+firstTradeDateEpochUtc§1404975600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§08754c51-2413-3cc5-a566-4e7fde43e0c8
+targetHighPrice§350.0
+targetLowPrice§260.0
+targetMeanPrice§302.67
+targetMedianPrice§300.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§0.412
+earningsGrowth§-0.19
+grossMargins§0.28511
+ebitdaMargins§0.1021
+trailingPegRatio§None

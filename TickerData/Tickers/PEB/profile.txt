@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 20:32:11.555835
+address1§4747 Bethesda Avenue
+address2§Suite 1100
+city§Bethesda
+state§MD
+zip§20814-5422
+country§United States
+phone§240 507 1300
+fax§240 396 5626
+website§https://www.pebblebrookhotels.com
+industry§REIT—Hotel & Motel
+sector§Real Estate
+longBusinessSummary§Pebblebrook Hotel Trust (NYSE: PEB) is a publicly traded real estate investment trust ("REIT") and the largest owner of urban and resort lifestyle hotels and resorts in the United States. The Company owns 47 hotels and resorts, totaling approximately 12,200 guest rooms across 13 urban and resort markets.
+fullTimeEmployees§58
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jon E. Bortz CPA', 'age': 67, 'title': 'Chairman & CEO', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 2364623, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond D. Martz', 'age': 53, 'title': 'Co-President, CFO, Treasurer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1203136, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Charles Fisher', 'age': 52, 'title': 'Co-President & Chief Investment Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1197063, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gabrielle  Gordon', 'title': 'Director of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew H. Dittamo', 'age': 49, 'title': 'VP & Controller', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0026
+exDividendDate§1703721600
+payoutRatio§1.2637
+fiveYearAvgDividendYield§2.17
+beta§1.865
+priceToSalesTrailing12Months§1.3443726
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.51
+pegRatio§-2.57
+exchange§NYQ
+quoteType§EQUITY
+shortName§Pebblebrook Hotel Trust
+longName§Pebblebrook Hotel Trust
+firstTradeDateEpochUtc§1260369000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c505ea47-dfcf-33ae-bfbd-7120c8dfebb9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§11.0
+targetMeanPrice§15.48
+targetMedianPrice§14.5
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.375
+grossMargins§0.24674
+ebitdaMargins§0.2092
+trailingPegRatio§None

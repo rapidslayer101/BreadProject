@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 03:28:25.282651
+address1§41 Chalton Street
+city§London
+zip§NW1 1JD
+country§United Kingdom
+phone§44 20 3901 3488
+website§https://www.cazoo.co.uk
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Cazoo Group Ltd operates as an online car retailer in the United Kingdom and rest of Europe. It allows consumers to purchase, finance, and subscribe to a car through online for delivery or collection. Cazoo Group Ltd was founded in 2018 and is headquartered in London, the United Kingdom. Cazoo Group Ltd is a subsidiary of Cazoo Holdings Limited.
+fullTimeEmployees§3226
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander Edward Chesterman O.B.E.', 'age': 53, 'title': 'Founder & Executive Chairman', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Adrian Whitehead', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Woolf', 'age': 58, 'title': 'CFO & Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan  Dunkley', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Berg A.C.A.', 'title': 'Director of Investor Relations and Corporate Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anna  Gavrilova', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence  Hall', 'title': 'Group Communications Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.963
+priceToSalesTrailing12Months§0.036504276
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-398.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Cazoo Group Ltd
+longName§Cazoo Group Ltd
+firstTradeDateEpochUtc§1608301800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cc925ed9-5864-39f6-8592-2c72a3233c67
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.08
+targetLowPrice§2.08
+targetMeanPrice§2.08
+targetMedianPrice§2.08
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.343
+grossMargins§0.034479998
+ebitdaMargins§-0.21069999
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 03:46:41.358191
+address1§100 Nagog Park
+city§Acton
+state§MA
+zip§01720
+country§United States
+phone§978 600 7000
+fax§978 600 0120
+website§https://www.insulet.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Insulet Corporation develops, manufactures, and sells insulin delivery systems for people with insulin-dependent diabetes. It offers Omnipod System, a self-adhesive disposable tubeless Omnipod device that is worn on the body for up to three days at a time, as well as its wireless companion, the handheld personal diabetes manager. The company sells its products primarily through independent distributors and pharmacy channels, as well as directly in the United States, Canada, Europe, the Middle East, and Australia. Insulet Corporation was incorporated in 2000 and is headquartered in Acton, Massachusetts.
+fullTimeEmployees§2600
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. James R. Hollingshead Ph.D.', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2177039, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shacey  Petrovic', 'age': 49, 'title': 'Director & Advisor', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2959824, 'exercisedValue': 12993293, 'unexercisedValue': 9962036}, {'maxAge': 1, 'name': 'Mr. Eric  Benjamin', 'age': 40, 'title': 'Executive VP, Chief Product & Customer Experience Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 947570, 'exercisedValue': 0, 'unexercisedValue': 2972974}, {'maxAge': 1, 'name': 'Ms. Lauren  Budden', 'title': 'Group VP, Chief Accounting Officer, Controller & Interim CFO and Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Prem  Singh', 'age': 46, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Field', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah R. Gordon CPA', 'age': 53, 'title': 'Vice President of Investor Relations', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Wodick Kapples', 'age': 63, 'title': 'Senior VP & General Counsel', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 783360, 'exercisedValue': 0, 'unexercisedValue': 500112}, {'maxAge': 1, 'name': 'Ms. Laetitia  Cousin', 'age': 47, 'title': 'Senior VP of Regulatory Affairs, Quality Assurance & Compliance', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Angela Geryak Wiczek', 'title': 'Senior Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.016
+priceToSalesTrailing12Months§8.8739805
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.45
+pegRatio§2.88
+exchange§NMS
+quoteType§EQUITY
+shortName§Insulet Corporation
+longName§Insulet Corporation
+firstTradeDateEpochUtc§1179235800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§50fe81f7-4975-35c5-9395-91e66a9afb84
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§270.0
+targetLowPrice§163.0
+targetMeanPrice§232.17
+targetMedianPrice§238.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§2.117
+grossMargins§0.62203
+ebitdaMargins§0.101280004
+trailingPegRatio§0.5832

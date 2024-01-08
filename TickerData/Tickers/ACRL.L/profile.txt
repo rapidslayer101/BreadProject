@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 10:35:23.013373
+address1§Delta Building
+address2§Roman Road
+city§Blackburn
+zip§BB1 2LD
+country§United Kingdom
+website§https://www.accrol.co.uk
+industry§Household & Personal Products
+industryKey§household-personal-products
+industryDisp§Household & Personal Products
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Accrol Group Holdings plc engages in the soft tissue paper converting business in the United Kingdom and Europe. It produces and sells private label toilet tissue, kitchen towels, and facial tissues, as well as biodegradable wet wipes. The company offers its products under the Softy, Elegance, Magnum, and Little Heroes brands. It serves discounters and grocery retailers. The company was founded in 1993 and is based in Blackburn, the United Kingdom.
+fullTimeEmployees§456
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Patrick Wright', 'age': 51, 'title': 'Executive Chairman', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 346698, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gareth Paul Jenkins', 'age': 56, 'title': 'CEO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 936633, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher James Welsh', 'age': 34, 'title': 'CFO & Director', 'yearBorn': 1989, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn  Robinson', 'title': 'Human Resources Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard Douglas Almond', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1629331200
+payoutRatio§0.0
+beta§1.013
+priceToSalesTrailing12Months§0.49825972
+currency§GBp
+forwardEps§3.14
+lastDividendValue§0.5
+lastDividendDate§1629331200
+exchange§LSE
+quoteType§EQUITY
+shortName§ACCROL GROUP HOLDINGS PLC ORD G
+longName§Accrol Group Holdings plc
+firstTradeDateEpochUtc§1465542000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ca06ce5a-7d52-3bc0-818b-e267693f512d
+messageBoardId§finmb_321788130
+targetHighPrice§60.0
+targetLowPrice§50.0
+targetMeanPrice§55.0
+targetMedianPrice§55.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.315
+grossMargins§0.1867
+ebitdaMargins§0.03145
+trailingPegRatio§None

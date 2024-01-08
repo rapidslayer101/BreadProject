@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 08:43:26.183727
+address1§85 5th Avenue
+address2§14th Floor
+city§New York
+state§NY
+zip§10003
+country§United States
+phone§212 206 8800
+fax§212 206 8814
+website§https://arkrestaurants.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Ark Restaurants Corp., through its subsidiaries, owns and operates restaurants and bars in the United States. It operates restaurants in New York City; Washington, D.C.; Las Vegas, Nevada; Atlantic City, New Jersey; Florida; and Alabama, as well as fast food concepts and catering operations. The company was incorporated in 1983 and is based in New York, New York.
+fullTimeEmployees§1401
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Weinstein', 'age': 80, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 1179156, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony J. Sirica CPA', 'age': 59, 'title': 'CFO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 582218, 'exercisedValue': 0, 'unexercisedValue': 29775}, {'maxAge': 1, 'name': 'Mr. Vincent  Pascal', 'age': 80, 'title': 'COO, Senior VP & Director', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 582857, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonal  Shah', 'title': 'In-House Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Walter  Rauscher', 'title': 'Vice President of Corporate Sales & Catering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Evyette  Ortiz', 'title': 'Director of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marilyn  Guy', 'title': 'Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nancy  Alvarez', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher  Love', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.75
+dividendYield§0.0542
+exDividendDate§1701216000
+payoutRatio§0.3934
+fiveYearAvgDividendYield§4.64
+beta§0.986
+priceToSalesTrailing12Months§0.2701272
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§Ark Restaurants Corp.
+longName§Ark Restaurants Corp.
+firstTradeDateEpochUtc§503332200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§707a1b32-366a-3200-a6dd-cadcac855336
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.6
+grossMargins§0.24555
+ebitdaMargins§0.05125
+trailingPegRatio§None

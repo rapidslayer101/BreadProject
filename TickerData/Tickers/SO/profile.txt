@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 12:33:18.760782
+address1§30 Ivan Allen Jr. Boulevard, N.W.
+city§Atlanta
+state§GA
+zip§30308
+country§United States
+phone§404 506 5000
+website§https://www.southerncompany.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§The Southern Company, through its subsidiaries, engages in the generation, transmission, and distribution of electricity. It operates through three segments: Gas Distribution Operations, Gas Pipeline Investments, and Gas Marketing Services. The company also develops, constructs, acquires, owns, and manages power generation assets, including renewable energy projects and sells electricity in the wholesale market; and distributes natural gas in Illinois, Georgia, Virginia, and Tennessee, as well as provides gas marketing services, gas distribution operations, and gas pipeline investments operations. In addition, it constructs, operates, and maintains 77,591 miles of natural gas pipelines and 14 storage facilities with total capacity of 157 Bcf to provide natural gas to residential, commercial, and industrial customers. It serves approximately 8.8 million electric and gas utility customers. Further, the company offers digital wireless communications and fiber optics services. The Southern Company was incorporated in 1945 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§27423
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher C. Womack', 'age': 65, 'title': 'CEO, President & Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2250076, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel S. Tucker', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1692311, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen E. Kuczynski', 'age': 61, 'title': 'Chairman & CEO of Southern Nuclear', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2296749, 'exercisedValue': 3688800, 'unexercisedValue': 395372}, {'maxAge': 1, 'name': 'Mr. Stanley W. Connally Jr.', 'age': 54, 'title': 'Executive Vice President of Operations', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David P. Poroch', 'title': 'Comptroller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Bernard Davis', 'age': 59, 'title': 'Chief Information Officer & Executive VP', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Gammill', 'title': 'VP of Investor Relations & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sterling A. Spainhour Jr.', 'age': 54, 'title': 'EVP, Chief Legal Officer & Chief Compliance Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sloane N. Drake', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William C. Grantham', 'age': 53, 'title': 'Executive Vice President of Commercial Strategy', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§10
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.78
+dividendYield§0.0388
+exDividendDate§1700179200
+payoutRatio§1.0073
+fiveYearAvgDividendYield§4.12
+beta§0.528
+priceToSalesTrailing12Months§2.974645
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.01
+pegRatio§2.81
+exchange§NYQ
+quoteType§EQUITY
+shortName§Southern Company (The)
+longName§The Southern Company
+firstTradeDateEpochUtc§378657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§98d0360b-392d-35f1-953a-cdd6489b6e88
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§82.0
+targetLowPrice§65.0
+targetMeanPrice§74.05
+targetMedianPrice§73.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.43
+earningsGrowth§-0.044
+grossMargins§0.41996
+ebitdaMargins§0.39006
+trailingPegRatio§2.682

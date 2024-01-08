@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 20:47:58.047357
+address1§9715 Businesspark Avenue
+city§San Diego
+state§CA
+zip§92131
+country§United States
+phone§619 275 1400
+website§https://www.wd40company.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§WD-40 Company develops and sells maintenance products, and homecare and cleaning products in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company provides multi-purpose maintenance products that include aerosol sprays, non-aerosol trigger sprays, precision pens, and in liquid-bulk form products under the WD-40 Multi-Use brand name; specialty maintenance products, such as penetrants, degreasers, corrosion inhibitors, greases, lubricants, and rust removers under the WD-40 Specialist brand; and bike-specific products. It also offers multi-purpose and specialty drip oils, and spray lubricant products, as well as other specialty maintenance products under the 3-IN-ONE brand name; and professional spray maintenance products and lubricants for the bike maintenance market under the GT85 brand name. In addition, the company provides automatic toilet bowl cleaners under the 2000 Flushes brand name; aerosol and liquid trigger carpet stain and odor eliminators under the Spot Shot brand; room and rug deodorizers under the Carpet Fresh brand name; carpet and household cleaners, and rug and room deodorizers under the 1001 brand; heavy-duty hand cleaner products under the Lava brand name in the United States, as well as under the Solvol brand name in Australia; and automatic toilet bowl cleaners under the X-14 brand name. It sells its products primarily through warehouse club stores, hardware stores, automotive parts outlets, industrial distributors and suppliers, mass retail and home center stores, value retailers, grocery stores, online retailers, farm supply, sport retailers, and independent bike dealers. WD-40 Company was founded in 1953 and is headquartered in San Diego, California.
+fullTimeEmployees§613
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven A. Brass', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1064485, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sara  Hyzer', 'age': 45, 'title': 'VP of Finance, Treasurer, CFO & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 577884, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Phenix Quach Kiamilev', 'age': 44, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 457637, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey G. Lindeman', 'title': 'VP, Chief People, Culture & Capability Officer', 'fiscalYear': 2023, 'totalPay': 484643, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia Q. Olsem', 'age': 57, 'title': 'Divisional President of The Americas', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 602656, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wendy D. Kelley', 'title': 'Director of Investor Relations & Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey J. Holdsworth', 'age': 61, 'title': 'Managing Director of Asia-Pacific', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 505714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William B. Noble', 'age': 65, 'title': 'Group Managing Director of EIMEA & Emerging Markets', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 769442, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rae Ann Partlo', 'age': 58, 'title': 'VP & Corporate Controller', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stanley A. Sewitch Jr.', 'age': 70, 'title': 'Vice President of Global Organization Development', 'yearBorn': 1953, 'fiscalYear': 2023, 'totalPay': 460757, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§3.52
+dividendYield§0.0150999995
+exDividendDate§1705536000
+payoutRatio§0.677
+fiveYearAvgDividendYield§1.39
+beta§-0.08
+priceToSalesTrailing12Months§5.8662305
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.79
+pegRatio§4.6
+exchange§NMS
+quoteType§EQUITY
+shortName§WD-40 Company
+longName§WD-40 Company
+firstTradeDateEpochUtc§105283800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9016bf79-7c1e-323b-af99-f567ef11ff07
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§276.0
+targetLowPrice§88.0
+targetMeanPrice§198.0
+targetMedianPrice§230.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.658
+earningsGrowth§0.121
+grossMargins§0.51041
+ebitdaMargins§0.18218
+trailingPegRatio§None

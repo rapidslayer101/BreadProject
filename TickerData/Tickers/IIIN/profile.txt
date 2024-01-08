@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 05:30:27.371079
+address1§1373 Boggs Drive
+city§Mount Airy
+state§NC
+zip§27030
+country§United States
+phone§336 786 2141
+fax§336 786 2144
+website§https://www.insteel.com
+industry§Metal Fabrication
+sector§Industrials
+longBusinessSummary§Insteel Industries, Inc., together with its subsidiaries, manufactures and markets steel wire reinforcing products for concrete construction applications. The company offers prestressed concrete strand (PC strand) and welded wire reinforcement (WWR) products. Its PC strand is a seven-wire strand that is used to impart compression forces into precast concrete elements and structures providing reinforcement for bridges, parking decks, buildings, and other concrete structures. The company's WWR engineered reinforcing product is used in nonresidential and residential construction. It produces a range of WWR products, such as engineered structural mesh, an engineered made-to-order product that is used as the primary reinforcement for concrete elements or structures serving as a reinforcing solution for hot-rolled rebar; concrete pipe reinforcement, an engineered made-to-order product, which is used as the primary reinforcement in concrete pipe, box culverts, and precast manholes for drainage and sewage systems, water treatment facilities, and other related applications; and standard welded wire reinforcement, a secondary reinforcing product for crack control applications in residential and light nonresidential construction, including driveways, sidewalks, and various slab-on-grade applications. It sells its products through sales representatives to the manufacturers of concrete products, rebar fabricators, distributors, and contractors. Insteel Industries, Inc. was founded in 1953 and is headquartered in Mount Airy, North Carolina.
+fullTimeEmployees§884
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Howard Osler Woltz III', 'age': 67, 'title': 'President, CEO & Chairman', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 1446511, 'exercisedValue': 0, 'unexercisedValue': 705527}, {'maxAge': 1, 'name': 'Mr. Scot R. Jafroodi', 'age': 53, 'title': 'VP, CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 471594, 'exercisedValue': 0, 'unexercisedValue': 231140}, {'maxAge': 1, 'name': 'Mr. Richard T. Wagner', 'age': 64, 'title': 'Senior VP & COO', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 620334, 'exercisedValue': 120252, 'unexercisedValue': 32621}, {'maxAge': 1, 'name': 'Mr. James R. York', 'age': 64, 'title': 'Senior Vice President of Sourcing & Logistics', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 448576, 'exercisedValue': 0, 'unexercisedValue': 180073}, {'maxAge': 1, 'name': 'Ms. Elizabeth Carroll Southern', 'age': 42, 'title': 'VP of Administration, Secretary & Chief Legal Officer', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§4
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.0033000002
+exDividendDate§1701907200
+payoutRatio§0.0723
+fiveYearAvgDividendYield§0.46
+beta§1.031
+priceToSalesTrailing12Months§1.0849564
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.85
+pegRatio§2.23
+exchange§NYQ
+quoteType§EQUITY
+shortName§Insteel Industries, Inc.
+longName§Insteel Industries, Inc.
+firstTradeDateEpochUtc§700842600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f27020d5-cafe-3d60-baba-8728912f7993
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§39.0
+targetLowPrice§35.0
+targetMeanPrice§37.0
+targetMedianPrice§37.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§4.097
+earningsGrowth§-0.767
+grossMargins§0.10074
+ebitdaMargins§0.07396
+trailingPegRatio§2.4321

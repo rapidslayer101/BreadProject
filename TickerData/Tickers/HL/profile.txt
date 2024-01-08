@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 20:30:12.084503
+address1§6500 North Mineral Drive
+address2§Suite 200
+city§Coeur d'Alene
+state§ID
+zip§83815-9408
+country§United States
+phone§208 769 4100
+fax§208 769 7612
+website§https://www.hecla.com
+industry§Other Precious Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Hecla Mining Company, together with its subsidiaries, provides precious and base metal properties in the United States and internationally. The company mines for silver, gold, lead, and zinc concentrates, as well as carbon material containing silver and gold for sale to custom smelters, metal traders, and third-party processors; and doré containing silver and gold. It owns 100% interests in the Greens Creek mine located on Admiralty Island in southeast Alaska; the Lucky Friday mine situated in northern Idaho; the Keno Hill mine located in the Keno Hill Silver District of Yukon Territory, Canada; the Casa Berardi mine located in the Abitibi region of northwestern Quebec, Canada; and the San Sebastian mine situated in the city of Durango, Mexico. The company was incorporated in 1891 and is headquartered in Coeur d'Alene, Idaho.
+fullTimeEmployees§1850
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Phillips S. Baker Jr.', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2017, 'totalPay': 3374611, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell D. Lawlar', 'age': 43, 'title': 'Senior VP & CFO', 'yearBorn': 1980, 'fiscalYear': 2017, 'totalPay': 990501, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lauren Martin Roberts', 'age': 58, 'title': 'Senior VP & COO', 'yearBorn': 1965, 'fiscalYear': 2017, 'totalPay': 1460405, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Clary', 'age': 55, 'title': 'Senior VP & Chief Administrative Officer', 'yearBorn': 1968, 'fiscalYear': 2017, 'totalPay': 1080441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert D. Brown B.Sc., M.B.A.', 'age': 54, 'title': 'Vice President of Corporate Development & Sustainability', 'yearBorn': 1969, 'fiscalYear': 2017, 'totalPay': 1063665, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anvita Mishra Patil', 'title': 'VP of Investor Relations and Treasurer of Hecla Limited', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David C. Sienko', 'age': 54, 'title': 'VP & General Counsel', 'yearBorn': 1969, 'fiscalYear': 2017, 'totalPay': 499039, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt D. Allen', 'age': 62, 'title': 'Vice President of Exploration', 'yearBorn': 1961, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christophe M. McLean', 'title': 'VP & CFO of Hecla Canada Ltd.', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael B. White', 'age': 72, 'title': 'Corporate Secretary', 'yearBorn': 1951, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1514678400
+maxAge§86400
+priceHint§4
+dividendRate§0.03
+dividendYield§0.0058
+exDividendDate§1700611200
+payoutRatio§1.1667
+fiveYearAvgDividendYield§0.47
+beta§2.181
+priceToSalesTrailing12Months§3.5240402
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.09
+pegRatio§6.55
+exchange§NYQ
+quoteType§EQUITY
+shortName§Hecla Mining Company
+longName§Hecla Mining Company
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§272b2f99-36d3-3f30-9c30-011bf32004c6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.75
+targetLowPrice§4.25
+targetMeanPrice§5.87
+targetMedianPrice§5.75
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.913
+grossMargins§0.36668998
+ebitdaMargins§0.26520002
+trailingPegRatio§None

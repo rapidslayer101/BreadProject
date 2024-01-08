@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 16:45:57.921819
+address1§5114 Buford Highway
+city§Doraville
+state§GA
+zip§30340
+country§United States
+phone§770 455 4989
+website§https://www.metrocitybank.bank
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§MetroCity Bankshares, Inc. operates as the bank holding company for Metro City Bank that provides banking products and services in the United States. It offers customary banking services, such as consumer and commercial checking accounts, savings accounts, and certificates of deposit. The company also provides commercial and consumer loans, including single family residential loans; construction and development, and owner and non-owner occupied commercial real estate loans; and commercial and industrial loans, residential mortgage loans, and SBA loans. In addition, it offers online banking services, which include access to account balances, online transfers, online bill payment, and electronic delivery of customer statements; mobile banking solutions, such as remote check deposit with mobile bill pay; and automated teller machines and telephone banking services. Further, it provides debit cards for checking customers, direct deposits, and cashier's checks; treasury management services, including wire transfer, automated clearing house, and stop payments services; and cash management deposit products, such as remote deposit capture, positive pay, zero balance accounts, and sweep accounts. The company was founded in 2006 and is headquartered in Doraville, Georgia.
+fullTimeEmployees§216
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nack Young Paek', 'age': 80, 'title': 'Chairman & CEO', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 1275000, 'exercisedValue': 0, 'unexercisedValue': 714400}, {'maxAge': 1, 'name': 'Mr. Farid  Tan', 'age': 65, 'title': 'President & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1275000, 'exercisedValue': 0, 'unexercisedValue': 714400}, {'maxAge': 1, 'name': 'Mr. Howard Hwasaeng Kim', 'age': 66, 'title': 'Executive VP, Chief Lending Officer, COO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1176000, 'exercisedValue': 0, 'unexercisedValue': 714400}, {'maxAge': 1, 'name': 'Mr. Sion Nyen Lai', 'age': 68, 'title': 'Secretary & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 71200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lucas C. Stewart', 'age': 44, 'title': 'Executive VP, CFO & Assistant Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0306
+exDividendDate§1698710400
+payoutRatio§0.34849998
+fiveYearAvgDividendYield§2.85
+beta§0.44
+priceToSalesTrailing12Months§4.8894095
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.16
+exchange§NMS
+quoteType§EQUITY
+shortName§MetroCity Bankshares, Inc.
+longName§MetroCity Bankshares, Inc.
+firstTradeDateEpochUtc§1567690200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d9a8fbbf-6d84-3e27-8c55-9bcaa185b2de
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§23.0
+targetMeanPrice§23.0
+targetMedianPrice§23.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+earningsGrowth§-0.318
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

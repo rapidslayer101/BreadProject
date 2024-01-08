@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 06:33:03.545501
+longBusinessSummary§The index measures the performance of equity securities of Japanese small-capitalization companies and represents approximately 14% of the free float-adjusted market capitalization of the Japan equity universe. It generally will invest at least 80% of assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index.
+maxAge§86400
+priceHint§2
+yield§0.0199
+totalAssets§115185832
+navPrice§70.78238
+currency§USD
+category§Japan Stock
+ytdReturn§-0.0150403
+beta3Year§0.71
+fundFamily§iShares
+fundInceptionDate§1198108800
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.016791001
+fiveYearAverageReturn§0.0320439
+exchange§PCX
+quoteType§ETF
+shortName§iShares MSCI Japan Sm Cap
+longName§iShares MSCI Japan Small-Cap ETF
+firstTradeDateEpochUtc§1198765800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6a8b41b6-c49b-34a6-966f-4127be20a31c
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

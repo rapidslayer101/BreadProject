@@ -1,0 +1,55 @@
+# reload+after+2024-01-19 23:35:43.758467
+address1§51 Stassinos Street
+address2§Strovolos PO Box 21472
+city§Nicosia
+zip§1599
+country§Cyprus
+phone§357 2 2128000
+website§https://www.bankofcyprus.com.cy
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Bank of Cyprus Holdings Public Limited Company, through its subsidiaries, engages in the provision of banking, financial, and insurance services. It offers current, demand, savings, time, notice, instant access, and fixed deposits; housing, student, vehicle, mortgage, consumer, business and business premises, term, and home or investment loans; and asset finance, factoring, trade facilities, European financial, project finance, shipping finance, and syndicated and corporate lending services, as well as hire purchase services for car and equipment. The company also provides debit, credit, prepaid, and special cards; reward programs; digital products; digital banking, and payments and services; motor, home, business, life, create capital, and health insurance products; SME guarantee facility services; investment banking and brokerage, asset and wealth management, and market execution and hedging; investment products and services; and custody and depositary services. In addition, it is involved in the property trading and development activities; land development and operation of a golf resort; management administration and safekeeping of UCITS units; administration of guarantees and holding of real estate properties; collection of the existing portfolio of receivables, including third party collections; and provision of card processing transaction, auction, and secretarial services. Bank of Cyprus Holdings Public Limited Company was founded in 1899 and is headquartered in Nicosia, Cyprus.
+fullTimeEmployees§2913
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Panicos  Nicolaou', 'age': 49, 'title': 'CEO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 739642, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eliza  Livadiotou', 'age': 49, 'title': 'Executive Director of Finance & Legacy and Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 285869, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Solonas  Matsias', 'age': 58, 'title': 'Director of Operations & Chief Cost Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas Scott Smith', 'age': 48, 'title': 'Executive Director of Corporate Finance Solutions', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George  Kousis', 'title': 'Executive Director of Technology & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marios M. Skandalis', 'age': 52, 'title': 'Director of Compliance', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katia  Santis', 'title': 'Chief Legal Officer & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Irene Gregoriou Pavlidi', 'title': 'Executive Director of People & Change', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Charis  Pouangare', 'age': 62, 'title': 'Deputy CEO & Chief of Business', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Demetris  Demetriou', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.014099999
+exDividendDate§1683158400
+payoutRatio§0.1232
+beta§0.634
+priceToSalesTrailing12Months§1.3727524
+currency§GBp
+forwardEps§0.21
+lastDividendValue§5.0
+lastDividendDate§1683158400
+exchange§LSE
+quoteType§EQUITY
+shortName§BANK OF CYPRUS HOLDINGS PUBLIC 
+longName§Bank of Cyprus Holdings Public Limited Company
+firstTradeDateEpochUtc§1484812800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c136e445-b9e2-3026-908e-6ac00fcc8015
+messageBoardId§finmb_875879
+targetHighPrice§6.72
+targetLowPrice§3.19
+targetMeanPrice§4.91
+targetMedianPrice§4.91
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

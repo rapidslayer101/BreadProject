@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 01:44:52.826537
+address1§350 West Washington Street
+address2§Suite 600
+city§Tempe
+state§AZ
+zip§85281
+country§United States
+phone§602 414 9300
+fax§602 414 9400
+website§https://www.firstsolar.com
+industry§Solar
+sector§Technology
+longBusinessSummary§First Solar, Inc. provides photovoltaic (PV) solar energy solutions in the United State, Japan, France, Canada, India, Australia, and internationally. The company designs, manufactures, and sells cadmium telluride solar modules that converts sunlight into electricity. It serves developers and operators of systems, utilities, independent power producers, commercial and industrial companies, and other system owners. The company was formerly known as First Solar Holdings, Inc. and changed its name to First Solar, Inc. in 2006. First Solar, Inc. was founded in 1999 and is headquartered in Tempe, Arizona.
+fullTimeEmployees§5500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark R. Widmar', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2657836, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander R. Bradley', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1109368, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason E. Dymbort', 'age': 45, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 895009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Stockdale', 'age': 60, 'title': 'Chief People & Communications Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 923801, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Georges J. Antoun', 'age': 60, 'title': 'Chief Commercial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1369660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Byron Michael Jeffers', 'age': 39, 'title': 'Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Markus  Gloeckler', 'age': 49, 'title': 'Chief Technology Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Koralewski', 'age': 51, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Buehler', 'age': 45, 'title': 'Chief Product Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuntal Kumar Verma', 'age': 50, 'title': 'Chief Manufacturing Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.444
+priceToSalesTrailing12Months§5.637754
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.35
+pegRatio§0.32
+exchange§NMS
+quoteType§EQUITY
+shortName§First Solar, Inc.
+longName§First Solar, Inc.
+firstTradeDateEpochUtc§1163773800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e8b9ad1f-8c6e-3941-8adb-df3003710c1e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§326.0
+targetLowPrice§157.56
+targetMeanPrice§228.24
+targetMedianPrice§227.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§25
+quickRatio§2.176
+grossMargins§0.27171
+ebitdaMargins§0.23319
+trailingPegRatio§None

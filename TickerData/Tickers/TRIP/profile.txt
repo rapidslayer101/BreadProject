@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 12:47:37.745400
+address1§400 1st Avenue
+city§Needham
+state§MA
+zip§02494
+country§United States
+phone§781 800 5000
+website§https://www.tripadvisor.com
+industry§Travel Services
+sector§Consumer Cyclical
+longBusinessSummary§TripAdvisor, Inc. operates as an online travel company, primarily engages in the provision of travel guidance products and services worldwide. The company operates in three segments: Tripadvisor Core, Viator, and TheFork. The Tripadvisor Core segment offers travel guidance platforms for travelers to discover, generate, and share authentic user-generated content in the form of ratings and reviews for destinations, points-of-interest, experiences, accommodations, restaurants, and cruises. The Viator's segment provides pure-play experiences online travel agency that evaluates businesses and enables travelers to discover and book tours, activities, and attractions from experience operators. TheFork segment provides an online marketplace that enables diners to discover and book online reservations at restaurants. TripAdvisor, Inc. was founded in 2000 and is headquartered in Needham, Massachusetts. Tripadvisor, Inc. operates as a subsidiary of Liberty TripAdvisor Holdings, Inc.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew  Goldberg', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1470885, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Noonan', 'age': 54, 'title': 'Senior VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 576941, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Seth Jonathan Kalvert', 'age': 54, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1001823, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristen  Dalton', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey  Gouvalaris', 'age': 56, 'title': 'VP of Accounting & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela  White', 'age': 48, 'title': 'Vice President of Investor Relations', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Boris', 'age': 50, 'title': 'Chief Marketing Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanjay  Raman', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kate  Forrestall', 'title': 'Chief Talent Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Drew', 'title': 'President of Viator', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1574121600
+payoutRatio§0.0
+beta§1.486
+priceToSalesTrailing12Months§1.6587014
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.44
+pegRatio§0.71
+exchange§NMS
+quoteType§EQUITY
+shortName§TripAdvisor, Inc.
+longName§Tripadvisor, Inc.
+firstTradeDateEpochUtc§1323268200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9f6a0541-5768-3367-ac16-dd57e2687de3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§15.0
+targetMeanPrice§21.24
+targetMedianPrice§20.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§17
+quickRatio§1.889
+earningsGrowth§0.118
+grossMargins§0.91780996
+ebitdaMargins§0.07192
+trailingPegRatio§0.2311

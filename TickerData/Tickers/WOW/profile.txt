@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 11:34:25.682237
+address1§7887 East Belleview Avenue
+address2§Suite 1000
+city§Englewood
+state§CO
+zip§80111
+country§United States
+phone§720 479 3500
+website§https://www.wowway.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§WideOpenWest, Inc. provides high speed data, cable television, and digital telephony services to residential and business services customers in the United States. The company's video services include basic cable services that comprise local broadcast television and local community programming; digital cable services; WOW tv+ that offers traditional cable video and cloud DVR functionality, voice remote with Google Assistant, and Netflix integration along with access to various streaming services and apps through the Google Play Store; and commercial-free movies, TV shows, sports, and other special event entertainment programs. Its telephony services consist of local and long-distance telephone services; business telephony and data services include fiber based, office-to-office metro Ethernet, session initiated protocol trunking, colocation infrastructure, cloud computing, managed backup, and recovery services. The company was formerly known as WideOpenWest Kite, Inc. and changed its name to WideOpenWest, Inc. in March 2017. WideOpenWest, Inc. was founded in 2001 and is based in Englewood, Colorado.
+fullTimeEmployees§1390
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Teresa L. Elder', 'age': 61, 'title': 'CEO, President & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1743033, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John S. Rego', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 773464, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald P. Schena', 'age': 63, 'title': 'Chief Customer Experience Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 593562, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry  Hryckiewicz', 'age': 57, 'title': 'Chief Technology Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew S. Posen', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger  Seiken', 'title': 'Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Bell', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leslie  Peabody', 'title': 'Senior VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Veyette', 'age': 64, 'title': 'Senior Vice President of IT Operations', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa  Jacobs', 'title': 'Senior Vice President of IT Design and Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.396
+priceToSalesTrailing12Months§0.43588638
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.21
+pegRatio§0.19
+exchange§NYQ
+quoteType§EQUITY
+shortName§WideOpenWest, Inc.
+longName§WideOpenWest, Inc.
+firstTradeDateEpochUtc§1495719000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6c3b5d7e-39f4-3a8e-8b45-224f4f2de4d6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§4.0
+targetMeanPrice§8.4
+targetMedianPrice§8.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.452
+grossMargins§0.56944
+ebitdaMargins§0.25285998
+trailingPegRatio§None

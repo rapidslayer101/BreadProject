@@ -1,0 +1,59 @@
+# reload+after+2024-01-23 03:36:02.721016
+address1§Stonemason’s Way
+address2§Rathfarnham
+city§Dublin
+zip§D16 KH51
+country§Ireland
+phone§353 1 404 1000
+website§https://www.crh.com
+industry§Building Materials
+industryKey§building-materials
+industryDisp§Building Materials
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§CRH plc, through its subsidiaries, manufactures and distributes building materials in Ireland and internationally. It operates through three segments: Americas Materials, Europe Materials, and Building Products. The company manufactures and supplies cement, lime, aggregates, precast, ready mixed concrete, and asphalt products; concrete masonry and hardscape products comprising pavers, kerbs, retaining walls, and related patio products; It also offers precast concrete and polymer-based products, such as underground vaults, drainage pipes and structures, utility enclosures, and modular precast structures to the water, energy, communication, transportation, and building structures markets; and construction accessories, such as engineered anchoring, fixing, and connection solutions, as well as lifting systems, formwork accessories, and other accessories used in construction applications. In addition, the company offers network access products, which include composite access chambers, covers, passive safety systems, retention sockets, sealants, and meter boxes; and paving and construction services. Further, it provides building and civil engineering contracting, contract surfacing, operates logistics and owned railway infrastructure; sells and distributes cement; and supplies access chambers and ducting products. CRH plc was founded in 1936 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§75800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Albert Jude Manifold FCPA, MBA, MBS', 'age': 60, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4524818, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Mintern', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2103545, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Lake', 'age': 57, 'title': 'Chief Operating Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Holmes', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabel  Foley', 'title': 'Group General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Feury Jr.', 'age': 60, 'title': 'Chief Culture & People Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott W. Parson', 'title': 'President of Mountain West Division & Senior VP of Americas Materials West', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Noel  O'Mahony", 'title': 'Group Performance & Strategy Director and Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Frank  Heisterkamp', 'title': 'Director of Capital Markets & ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Dillon', 'title': 'President of Europe Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.05
+dividendYield§0.02
+exDividendDate§1702512000
+payoutRatio§0.32990003
+fiveYearAvgDividendYield§2.54
+beta§1.347
+priceToSalesTrailing12Months§1.0757331
+currency§GBp
+forwardEps§3.74
+pegRatio§1.77
+lastDividendValue§108.0
+lastDividendDate§1702512000
+exchange§LSE
+quoteType§EQUITY
+shortName§CRH PLC ORD EUR 0.32 (DI)
+longName§CRH plc
+firstTradeDateEpochUtc§747471600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1c57b376-d9b3-37de-bd82-5d3d9f1ac71e
+messageBoardId§finmb_257151
+targetHighPrice§75.22
+targetLowPrice§44.63
+targetMeanPrice§57.84
+targetMedianPrice§56.05
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.955
+earningsGrowth§-0.422
+grossMargins§0.33682
+ebitdaMargins§0.17601
+trailingPegRatio§2.2068

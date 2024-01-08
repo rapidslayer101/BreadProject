@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 09:27:39.180324
+address1§222 West Merchandise Mart Plaza
+address2§Suite 1300
+city§Chicago
+state§IL
+zip§60654
+country§United States
+phone§312 549 5000
+website§https://www.conagrabrands.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Conagra Brands, Inc., together with its subsidiaries, operates as a consumer packaged goods food company primarily in the United States. The company operates through Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice segments. The Grocery & Snacks segment primarily offers shelf stable food products through various retail channels. The Refrigerated & Frozen segment provides temperature-controlled food products through various retail channels. The International segment offers food products in various temperature states through retail and foodservice channels outside of the United States. The Foodservice segment offers branded and customized food products, including meals, entrees, sauces, and various custom-manufactured culinary products packaged for restaurants and other foodservice establishments. The company sells its products under the Birds Eye, Marie Callender's, Duncan Hines, Healthy Choice, Slim Jim, Reddi-wip, Angie's, BOOMCHICKAPOP, Duke's, Earth Balance, Gardein, and Frontera brands. The company was incorporated in 1919 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§18600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sean M. Connolly', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 4275654, 'exercisedValue': 0, 'unexercisedValue': 7035670}, {'maxAge': 1, 'name': 'Mr. David S. Marberger', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1791625, 'exercisedValue': 0, 'unexercisedValue': 40164}, {'maxAge': 1, 'name': 'Mr. Thomas M. McGough', 'age': 58, 'title': 'Co-COO & Executive VP', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1693964, 'exercisedValue': 874567, 'unexercisedValue': 1350834}, {'maxAge': 1, 'name': 'Mr. Darren C. Serrao', 'age': 56, 'title': 'Co-COO & Executive VP', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1315506, 'exercisedValue': 0, 'unexercisedValue': 205473}, {'maxAge': 1, 'name': 'Ms. Charisse  Brock', 'age': 61, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 987292, 'exercisedValue': 67405, 'unexercisedValue': 237498}, {'maxAge': 1, 'name': 'Mr. William Eric Johnson', 'age': 41, 'title': 'Senior VP, Corporate Controller & Principal Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Schaefer', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Napier', 'title': 'Senior Vice President of Investor Relation', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carey L. Bartell', 'age': 49, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan J. Harris', 'age': 55, 'title': 'Executive VP and Chief Communications & Networking Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.0496
+exDividendDate§1706486400
+payoutRatio§0.66339993
+fiveYearAvgDividendYield§3.29
+beta§0.419
+priceToSalesTrailing12Months§1.1078402
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.75
+pegRatio§1.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§ConAgra Brands, Inc.
+longName§Conagra Brands, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§10713761-5158-3557-82ad-d91fa8e2249e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§28.0
+targetMeanPrice§30.2
+targetMedianPrice§30.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§15
+quickRatio§0.27
+earningsGrowth§-0.243
+grossMargins§0.27111998
+ebitdaMargins§0.18663
+trailingPegRatio§0.632

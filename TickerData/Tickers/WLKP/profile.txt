@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 12:34:24.237544
+address1§2801 Post Oak Boulevard
+address2§Suite 600
+city§Houston
+state§TX
+zip§77056
+country§United States
+phone§713 585 2900
+website§https://www.wlkpartners.com
+industry§Chemicals
+sector§Basic Materials
+longBusinessSummary§Westlake Chemical Partners LP acquires, develops, and operates ethylene production facilities and related assets in the United States. The company's ethylene production facilities primarily convert ethane into ethylene. It also sells ethylene co-products, including propylene, crude butadiene, pyrolysis gasoline, and hydrogen directly to third parties on either a spot or contract basis. Westlake Chemical Partners GP LLC serves as the general partner of the company. The company was founded in 1991 and is headquartered in Houston, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Albert Yuan Chao', 'age': 73, 'title': 'President, CEO & Director of Westlake Chemical Partners GP LLC', 'yearBorn': 1950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Steven Bender CPA', 'age': 66, 'title': 'Executive VP, CFO & Director of Westlake Chemical Partners GP LLC', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johnathan Stevan Zoeller', 'age': 47, 'title': 'VP & Chief Accounting Officer of Westlake Chemical Partners GP LLC', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L. Benjamin Ederington', 'age': 52, 'title': 'EVP Perf. & Ess. Mat., Gen. Counsel, Chief Admin Off. and Director of Westlake Chem. Partners GP LLC', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew F. Kenner', 'age': 58, 'title': 'Senior VP of Olefin Materials & Corporate Procurement of Westlake Chemical Partners GP LLC', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Holy', 'title': 'VP & Treasurer of Westlake Chemical Partners GP LLC', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.89
+dividendYield§0.0863
+exDividendDate§1699488000
+payoutRatio§1.1712
+fiveYearAvgDividendYield§8.09
+beta§1.032
+priceToSalesTrailing12Months§0.61044747
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.9
+pegRatio§8.01
+exchange§NYQ
+quoteType§EQUITY
+shortName§Westlake Chemical Partners LP
+longName§Westlake Chemical Partners LP
+firstTradeDateEpochUtc§1406727000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d4b87ddb-2197-36d9-a169-da0c04a8cfb5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§123.0
+targetLowPrice§22.0
+targetMeanPrice§49.5
+targetMedianPrice§26.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§2.996
+earningsGrowth§-0.105
+grossMargins§0.30539
+ebitdaMargins§0.37407002
+trailingPegRatio§None

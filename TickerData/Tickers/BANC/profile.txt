@@ -1,0 +1,60 @@
+# reload+after+2024-01-20 09:27:04.211476
+address1§11611 San Vicente Boulevard
+address2§Suite 500
+city§Los Angeles
+state§CA
+zip§90049
+country§United States
+phone§855 361 2262
+website§https://www.bancofcal.com
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Banc of California, Inc. operates as the bank holding company for Banc of California that provides various banking products and services to small and medium-size businesses in California. It offers personal banking products and services, including checking account, debit Mastercard, certificates of deposit, and savings and money market accounts, as well as online and mobile banking services; personal credit cards; and specialty banking services. The company also provides commercial and business banking products and services, such as deposits products; asset-based lending, business loans, commercial banking, SBA loans, and small business banking services; commercial real estate loans; and specialty banking services. It also provides treasury management services, including fraud prevention, mobile banking, online banking, payables solutions, and receivables solutions; and corporate payment cards. Banc of California, Inc. was founded in 1941 and is headquartered in Los Angeles, California.
+fullTimeEmployees§2438
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jared M. Wolff', 'age': 53, 'title': 'Vice Chairman, President & CEO', 'yearBorn': 1970, 'fiscalYear': 2013, 'totalPay': 647137, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Kauder', 'title': 'Executive VP & CFO', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John K. Sotoodeh', 'age': 52, 'title': 'Executive VP & COO', 'yearBorn': 1971, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monica L. Sparks', 'age': 42, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond J. Rindone', 'age': 52, 'title': 'Executive VP, Deputy CFO & Head of Corporate Finance', 'yearBorn': 1971, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ido  Dotan J.D.', 'age': 42, 'title': 'Executive VP, General Counsel, Corporate Secretary & Chief Administrative Officer', 'yearBorn': 1981, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Dyck', 'age': 66, 'title': 'Senior EVP & Chief Credit Officer', 'yearBorn': 1957, 'fiscalYear': 2013, 'totalPay': 402059, 'exercisedValue': 0, 'unexercisedValue': 228748}, {'maxAge': 1, 'name': 'Ms. Olivia  Lindsay', 'title': 'Executive VP & Chief Risk Officer', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hamid  Hussain', 'title': 'Executive Vice President', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.0311
+exDividendDate§1702512000
+payoutRatio§0.2057
+fiveYearAvgDividendYield§2.07
+beta§1.434
+priceToSalesTrailing12Months§2.4243145
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.52
+pegRatio§1.8
+lastDividendValue§0.1
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Banc of California, Inc.
+longName§Banc of California, Inc.
+firstTradeDateEpochUtc§1030109400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fdaac56b-9de6-34df-b0be-c88fed6c5d77
+messageBoardId§finmb_1038352
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§16.06
+targetMedianPrice§14.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§8
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

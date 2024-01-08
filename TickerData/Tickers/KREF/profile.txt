@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 15:30:58.371628
+address1§30 Hudson Yards
+address2§Suite 7500
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 750 8300
+website§https://www.kkrreit.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§KKR Real Estate Finance Trust Inc., a mortgage real estate investment trust, focuses primarily on originating and acquiring senior loans secured by commercial real estate (CRE) assets. It engages in the origination and purchase of credit investments related to CRE, including leveraged and unleveraged commercial real estate loans, and commercial mortgage-backed securities. The company has elected to be taxed as a real estate investment trust and would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. KKR Real Estate Finance Trust Inc. was incorporated in 2014 and is headquartered in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew A. Salem', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Patrick Mattson C.F.A.', 'age': 49, 'title': 'COO & President', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kendra  Decious', 'age': 58, 'title': 'CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 414009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent J. Napolitano', 'age': 41, 'title': 'General Counsel & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack  Switala', 'title': 'Principal, Capital Markets & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Traut', 'title': 'Partner & Head of Originations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Turner  Trapp', 'title': 'Principal of Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Fine', 'title': 'Managing Director Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duncan  Chalfant', 'title': 'Principal of Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Palmieri', 'title': 'Principal of Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.72
+dividendYield§0.1339
+exDividendDate§1703721600
+payoutRatio§7.4783
+fiveYearAvgDividendYield§10.09
+beta§1.05
+priceToSalesTrailing12Months§14.998463
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.55
+pegRatio§0.59
+exchange§NYQ
+quoteType§EQUITY
+shortName§KKR Real Estate Finance Trust I
+longName§KKR Real Estate Finance Trust Inc.
+firstTradeDateEpochUtc§1493991000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§62d02f8e-1003-3d4c-b015-d53cdf15a292
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.5
+targetLowPrice§11.0
+targetMeanPrice§12.82
+targetMedianPrice§12.25
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§125.722
+grossMargins§0.80086
+ebitdaMargins§0.0
+trailingPegRatio§None

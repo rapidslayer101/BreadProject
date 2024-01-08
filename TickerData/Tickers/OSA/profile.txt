@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 14:46:28.885931
+address1§5675 Gibraltar Drive
+city§Pleasanton
+state§CA
+zip§94588
+country§United States
+phone§844 537 5337
+website§https://www.prosomnus.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§ProSomnus, Inc. operates as a medical technology company that develops, manufactures, and markets precision intraoral medical devices for treating and managing patients with obstructive sleep apnea. The company sells its products to sleep dentists, sleep physicians, primary care providers, otolarygologists, and other integrated healthcare service providers through a direct sales force. ProSomnus, Inc. is headquartered in Pleasanton, California.
+fullTimeEmployees§129
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Leonard  Liptak', 'age': 48, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 965347, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sung  Kim', 'age': 41, 'title': 'Co-Founder & CTO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 454631, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laing F. Rikkers', 'title': 'Co-founder & Executive Chairman', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian B. Dow', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John E. Remmers M.D.', 'title': 'Chief Scientist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Whalen', 'title': 'Vice President of Global Marketing Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shouresh  Charkhandeh D.D.S.', 'title': 'Global Scientific Committee Chair', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.309
+priceToSalesTrailing12Months§0.49094522
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.85
+exchange§NGM
+quoteType§EQUITY
+shortName§ProSomnus, Inc.
+longName§ProSomnus, Inc.
+firstTradeDateEpochUtc§1627479000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§979e8880-81a8-354b-a43d-9b1250a5f745
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§1.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.336
+grossMargins§0.52377
+ebitdaMargins§-0.75618
+trailingPegRatio§None

@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 10:41:34.423623
+address1§Gaspé House
+address2§3rd Floor 66-72 The Esplanade
+city§Saint Helier
+zip§JE1 2LH
+country§Jersey
+phone§44 153 488 5200
+website§https://www.yellowcakeplc.com
+industry§Uranium
+sector§Energy
+longBusinessSummary§Yellow Cake plc operates in the uranium sector. It is involved in the purchase and holding of uranium oxide concentrates, and exploitation of other uranium-related opportunities. Yellow Cake plc was incorporated in 2018 and is headquartered in Saint Helier, Jersey.
+fullTimeEmployees§2
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andre Leon Liebenberg B.Sc., M.B.A., MBA', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 282930, 'exercisedValue': 0, 'unexercisedValue': 128300}, {'maxAge': 1, 'name': 'Ms. Carole Helene Whittall', 'age': 51, 'title': 'CFO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 200409, 'exercisedValue': 0, 'unexercisedValue': 102641}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.304
+priceToSalesTrailing12Months§2.6400092
+currency§GBp
+forwardEps§-0.18
+exchange§LSE
+quoteType§EQUITY
+shortName§YELLOW CAKE PLC ORD GBP0.01
+longName§Yellow Cake plc
+firstTradeDateEpochUtc§1530774000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e6dbceb0-0777-3e9c-99a7-d8817291a653
+targetHighPrice§7.21
+targetLowPrice§6.07
+targetMeanPrice§6.56
+targetMedianPrice§6.54
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.18
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

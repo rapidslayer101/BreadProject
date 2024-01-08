@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 02:38:11.736530
+address1§50 Curzon Street
+city§London
+zip§W1J 7UW
+country§United Kingdom
+phone§+440 20 7647 5750
+fax§+440 20 7647 5770
+website§https://www.hansatrust.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Hansa Investment Company Limited is a closed-ended equity fund of funds launched and managed by Hanseatic Asset Management LBG. The fund is co-managed by Hansa Capital Partners LLP. It invests in public equity markets across the globe. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in value stocks of companies involved in special situations, with a bias towards small cap companies. The fund also invests through other third party funds. It benchmarks the performance of its portfolios against the FTSE All Share Index and MSCI All Country World & Frontier Markets Index. The fund was previously known as Hansa Trust PLC. Hansa Investment Company Limited was formed in 1912 and is domiciled in the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Randle Alexander', 'age': 64, 'title': 'Partner', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0168
+exDividendDate§1697673600
+payoutRatio§0.2038
+fiveYearAvgDividendYield§1.75
+beta§0.724
+priceToSalesTrailing12Months§-29.243849
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§HANSA INVESTMENT COMPANY LIMITE
+longName§Hansa Investment Company Ltd Ord
+firstTradeDateEpochUtc§273394800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§aac8178d-0723-398d-bee2-79f697d1a653
+targetHighPrice§200.0
+targetLowPrice§200.0
+targetMeanPrice§200.0
+targetMedianPrice§200.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§33.949
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

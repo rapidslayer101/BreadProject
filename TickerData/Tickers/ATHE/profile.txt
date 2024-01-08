@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 18:43:29.935835
+address1§350 Collins Street
+address2§Level 14
+city§Melbourne
+state§VIC
+zip§3000
+country§Australia
+phone§61 3 9349 4906
+website§https://alteritytherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Alterity Therapeutics Limited engages in the research and development of therapeutic drugs to treat Alzheimer's disease, Huntington disease, Parkinson's disease, and other neurological disorders in Australia. The company's lead drug candidate is ATH434 that is in Phase I clinical trial for the treatment of Parkinson's disease. It is also developing ATH434-201, which is in Phase II clinical trial to treat multiple system atrophy early stage; ATH434-202 that is in Phase II clinical trial to treat multiple system atrophy advance; and PBT2 that has completed Phase 2a clinical trial to treat Alzheimer's disease. The company was formerly known as Prana Biotechnology Limited and changed its name to Alterity Therapeutics Limited in April 2019. Alterity Therapeutics Limited was incorporated in 1997 and is headquartered in Melbourne, Australia.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Geoffrey Paul Kempler B.Sc.', 'age': 68, 'title': 'Co-Founder & Non-Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 210600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David A. Stamler M.D.', 'age': 62, 'title': 'Chief Executive Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 622424, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn J. E. Andrews B.Com, CPA', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 220097, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rudolph Emile Tanzi Ph.D.', 'age': 64, 'title': 'Chief Scientific Advisor and Member of Research & Development Advisory Board', 'yearBorn': 1959, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven D. Targum', 'title': 'Chief Medical Advisor', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert  Cherny', 'title': 'Head of Research', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip Allen Hains BBus(Acc), C.A., M.B.A.', 'age': 64, 'title': 'Company Secretary', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 67220, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.825
+priceToSalesTrailing12Months§2.2220557
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Alterity Therapeutics Limited
+longName§Alterity Therapeutics Limited
+firstTradeDateEpochUtc§1064842200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7d2b4277-cadd-3872-afb9-8272c07044dd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§10.0
+targetMeanPrice§10.0
+targetMedianPrice§10.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§5.577
+grossMargins§0.92721003
+ebitdaMargins§0.0
+trailingPegRatio§None

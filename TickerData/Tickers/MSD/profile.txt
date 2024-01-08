@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 13:31:30.334087
+address1§1585 Broadway
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§212 761 4000
+website§https://www.morganstanley.com/msim/portal/site/US/template.PAGE/?msimPageTitle=productdetail_us_fp_ii&u=a2050c555a53daf33d3afb1051a9e009&fund=1130&sc=NO
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Morgan Stanley Emerging Markets Debt Fund, Inc. is a closed ended fixed income fund launched and managed by Morgan Stanley Investment Management Inc. The fund invests in fixed income markets of emerging market countries across the globe. It primarily invests in debt securities of government and government-related issuers, of entities organized to restructure outstanding debt of such issuers and debt securities of corporate issuers in or organized under the laws of emerging countries. The fund benchmarks the performance of its portfolio against the JP Morgan Emerging Markets Bond Global Index. Morgan Stanley Emerging Markets Debt Fund, Inc. was formed on May 6, 1993 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jens  Nystedt Ph.D.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Warren  Mar', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric J. Baurmeister CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.76
+dividendYield§0.108500004
+exDividendDate§1702512000
+payoutRatio§0.975
+fiveYearAvgDividendYield§6.34
+beta§0.616
+priceToSalesTrailing12Months§10.173432
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Morgan Stanley Emerging Markets
+longName§Morgan Stanley Emerging Markets Debt Fund, Inc.
+firstTradeDateEpochUtc§742829400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§62171ff3-b6fe-3eda-9410-78665bf2a277
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.707
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

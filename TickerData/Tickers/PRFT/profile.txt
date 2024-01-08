@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 03:46:43.198871
+address1§555 Maryville University Drive
+address2§Suite 600
+city§Saint Louis
+state§MO
+zip§63141
+country§United States
+phone§314 529 3600
+website§https://www.perficient.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Perficient, Inc. provides digital consultancy services and solutions in the United States. It offers strategy and transformation solution in digital strategy, technology strategy, business velocity and growth, and organizational change management; and data and intelligence solutions in the areas of analytics, artificial intelligence and machine learning, big data, business intelligence, and custom product portfolio. The company also provides platform and technology solutions across blockchain, cloud, commerce, corporate performance and customer relationship management, content management systems, customer experience platforms, custom application development, DevOps, enterprise resource planning, integration and APIs, intelligent automation, Internet of Things, mobile, portals and collaboration, supply chain, product information management, and order management systems. In addition, it offers customer and digital marketing solutions, which includes analytics, content architecture, conversion rate optimization, creative design, email marketing, journey sciences, paid media, paid search, marketing automation research, SEO services, and social media; innovation and production development solutions including product development services, and a robust suite of proprietary products; and optimized global delivery solutions. It serves the healthcare, financial services, manufacturing, automotive, consumer, telecommunications, energy and utilities, and life sciences markets. The company was incorporated in 1999 and is headquartered in St. Louis, Missouri.
+fullTimeEmployees§6893
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey S. Davis', 'age': 59, 'title': 'Executive Chairman of the Board', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1208120, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Hogan', 'age': 46, 'title': 'CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 772319, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul E. Martin', 'age': 62, 'title': 'CFO, Treasurer & Assistant Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 640311, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan L. Adomite', 'age': 47, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Davis', 'title': 'Senior Vice President of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea  Lampert', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Sheen', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ed  Hoffman', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hari  Madamalla', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Schwierking', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.499
+priceToSalesTrailing12Months§2.3047283
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.27
+pegRatio§1.54
+exchange§NMS
+quoteType§EQUITY
+shortName§Perficient, Inc.
+longName§Perficient, Inc.
+firstTradeDateEpochUtc§933255000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§76592de3-9eda-34ba-8848-4a8c825371d4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§80.0
+targetLowPrice§68.0
+targetMeanPrice§73.43
+targetMedianPrice§73.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§3.977
+earningsGrowth§-0.019
+grossMargins§0.37457
+ebitdaMargins§0.18515
+trailingPegRatio§1.4139

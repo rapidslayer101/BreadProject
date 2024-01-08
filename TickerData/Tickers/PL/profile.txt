@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 14:32:19.278790
+address1§645 Harrison Street
+address2§Floor 4
+city§San Francisco
+state§CA
+zip§94107
+country§United States
+phone§415 829 3313
+website§https://www.planet.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Planet Labs PBC designs, constructs, and launches constellations of satellites with the intent of providing high cadence geospatial data delivered to customers through an online platform worldwide. The company offers planet monitoring, basemap, tasking, apps, variables, hyperspectral, analytic feeds, and platform, as well as planet professional services including launch program, architectural workshop, planet training, integration and data services, and quick start services; and technical support services, which includes planet help center, developer resource center, and planet community and university. It serves agriculture, civil government, civil and intelligence, drought response, science programs, energy and infrastructure, finance and insurance, forestry and land, mapping, maritime, planet federal, and nonprofit program markets. The company is headquartered in San Francisco, California.
+fullTimeEmployees§930
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Spencer Marshall', 'age': 44, 'title': 'Co-Founder, CEO & Chairman of the Board', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 610285, 'exercisedValue': 0, 'unexercisedValue': 2578852}, {'maxAge': 1, 'name': 'Mr. Robert Henry Schingler Jr.', 'age': 44, 'title': 'Co-Founder, Chief Strategy Officer & Director', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 495910, 'exercisedValue': 0, 'unexercisedValue': 696986}, {'maxAge': 1, 'name': 'Ms. Ashley Whitfield Fieglein Johnson', 'age': 51, 'title': 'Chief Financial & Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 564940, 'exercisedValue': 0, 'unexercisedValue': 787742}, {'maxAge': 1, 'name': 'Mr. Christopher  Genualdi', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Keating', 'title': 'Chief Legal Officer & Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Donna  Prlich', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tramayne  Whitney', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Weil', 'age': 39, 'title': 'President of Product & Business', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 60255, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charlie  Candy', 'title': 'Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Mason', 'title': 'Senior Vice President of Space Systems', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.762
+priceToSalesTrailing12Months§3.0259647
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.2
+pegRatio§-0.36
+exchange§NYQ
+quoteType§EQUITY
+shortName§Planet Labs PBC
+longName§Planet Labs PBC
+firstTradeDateEpochUtc§1619443800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9b7d173b-068d-34d5-917b-fae92d676437
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§3.0
+targetMeanPrice§4.97
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§2.745
+grossMargins§0.51344
+ebitdaMargins§-0.59513
+trailingPegRatio§None

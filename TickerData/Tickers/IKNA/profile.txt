@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 18:45:24.249948
+address1§645 Summer Street
+address2§Suite 101
+city§Boston
+state§MA
+zip§02210
+country§United States
+phone§857 273 8343
+website§https://ikenaoncology.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Ikena Oncology, Inc. operates as an oncology company that develops precision medicines to biomarker-defined patients with specific unmet needs in the United States. Its lead oncology product candidate is IK-930, a paralog selective inhibitor of the transcriptional enhanced associate domain, a transcription factor in the Hippo signaling pathway. It also develops IK-595, designed to trap MEK and RAF for inhibiting RAS signals than existing inhibitors; and IK-175, a monotherapy and in combination with nivolumab in patients with advanced or metastatic solid tumors, including urothelial carcinomas. Ikena Oncology, Inc. was incorporated in 2016 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§57
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Mark  Manfredi Ph.D.', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 803900, 'exercisedValue': 0, 'unexercisedValue': 221063}, {'maxAge': 1, 'name': 'Dr. Jotin  Marango M.D., Ph.D.', 'age': 44, 'title': 'CFO & Head of Corporate Development', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 581416, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sergio L. Santillana M.B.A., M.D., M.Sc.', 'age': 60, 'title': 'Chief Medical Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 632178, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bob  Lally', 'title': 'Senior Vice President of Finance & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michelle  Zhang Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha  Vuksanic', 'title': 'Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Ecsedy Ph.D.', 'age': 53, 'title': 'Chief Development Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Constan Ph.D.', 'title': 'Senior Vice President of Non Clinical Safety & DMPK', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Navin  Parwani M.S.', 'title': 'VP & Head of Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sabine  Ruppel Ph.D.', 'title': 'VP & Head of Discovery', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.302
+priceToSalesTrailing12Months§6.2955875
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.92
+exchange§NGM
+quoteType§EQUITY
+shortName§Ikena Oncology, Inc.
+longName§Ikena Oncology, Inc.
+firstTradeDateEpochUtc§1616765400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§91b1e3b2-6a3b-3cff-83da-6bebdfb084db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§6.0
+targetMeanPrice§8.33
+targetMedianPrice§8.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§10.219
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

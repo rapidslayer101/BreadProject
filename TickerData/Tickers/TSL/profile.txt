@@ -1,0 +1,24 @@
+# reload+after+2024-01-23 19:47:39.357496
+longBusinessSummary§The fund is an actively managed etf that attempts to replicate 1.25 times (125%) the daily percentage change of the underlying stock by entering into a swap agreement on the underlying stock. The adviser will enter into one or more swap agreements with major financial institutions for a specified period ranging from a day to more than one year whereby the adviser and the financial institution will agree to exchange the return earned or realized on the underling stock. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.6074
+totalAssets§4183772
+navPrice§10.39
+currency§USD
+category§Trading--Leveraged Equity
+ytdReturn§-0.056312397
+beta3Year§0.0
+fundFamily§Graniteshares
+fundInceptionDate§1659916800
+legalType§Exchange Traded Fund
+exchange§NGM
+quoteType§ETF
+shortName§GraniteShares 1.25x Long TSLA D
+longName§GraniteShares 1.25x Long Tsla Daily ETF
+firstTradeDateEpochUtc§1660051800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§58796f93-f68f-3a82-847f-aac8751ed9bc
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

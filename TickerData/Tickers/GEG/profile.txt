@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 14:44:59.547980
+address1§800 South Street
+address2§Suite 230
+city§Waltham
+state§MA
+zip§02453
+country§United States
+phone§617 375 3006
+website§https://www.greatelmgroup.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Great Elm Group, Inc. operates as a asset management company. The company engages in credit, real estate, and finance businesses. It is also involved in business development related activities and offers investment management services. The company was formerly known as Great Elm Capital Group, Inc. and changed its name to Great Elm Group, Inc. in December 2020. Great Elm Group, Inc. was incorporated in 1994 and is headquartered in Waltham, Massachusetts.
+fullTimeEmployees§24
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason W. Reese', 'age': 58, 'title': 'CEO & Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1483083, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam Michael Kleinman J.D.', 'age': 48, 'title': 'President & Secretary', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 612197, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nichole  Milz', 'age': 49, 'title': 'Chief Operating Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 351349, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter Andrew Reed', 'age': 43, 'title': 'Consultant', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 609635, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Keri A. Davis', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+exDividendDate§1181692800
+payoutRatio§0.0
+beta§1.082
+priceToSalesTrailing12Months§5.5526085
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.72
+pegRatio§0.05
+exchange§NMS
+quoteType§EQUITY
+shortName§Great Elm Group, Inc.
+longName§Great Elm Group, Inc.
+firstTradeDateEpochUtc§929107800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0d403b92-007a-37a4-9786-1f00465d565c
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§22.31
+grossMargins§-0.08464
+ebitdaMargins§-0.94571
+trailingPegRatio§None

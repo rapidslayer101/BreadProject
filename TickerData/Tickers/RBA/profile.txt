@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 21:32:39.253614
+address1§Two Westbrook Corporate Center
+address2§Suite 1000
+city§Westchester
+state§IL
+zip§60154
+country§United States
+phone§708 492 7000
+website§https://www.rbglobal.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§RB Global, Inc., an omnichannel marketplace, provides insights, services, and transaction solutions for buyers and sellers of commercial assets and vehicles worldwide. Its marketplace brands include Ritchie Bros., an auctioneer of commercial assets and vehicles offering online bidding; IAA, a digital marketplace connecting vehicle buyers and sellers; Rouse Services, which provides asset management, data-driven intelligence, and performance benchmarking system; SmartEquip, a technology platform that supports customers' management of the equipment lifecycle; Xcira that provides live simulcast auction technologies; and Veritread, an online marketplace for heavy haul transport solution. The company serves customers across various asset classes, including automotive, commercial transportation, construction, government surplus, lifting and material handling, energy, mining, and agriculture. RB Global, Inc. was founded in 1958 and is headquartered in Westchester, Illinois.
+fullTimeEmployees§7900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James F. Kessler', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1770158, 'exercisedValue': 0, 'unexercisedValue': 617558}, {'maxAge': 1, 'name': 'Mr. Baron  Concors', 'age': 53, 'title': 'Chief Product & Technology Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 989492, 'exercisedValue': 0, 'unexercisedValue': 498109}, {'maxAge': 1, 'name': 'Ms. Carmen D. Thiede', 'age': 56, 'title': 'Chief Transformation & People Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1114093, 'exercisedValue': 0, 'unexercisedValue': 261511}, {'maxAge': 1, 'name': 'Mr. David E. Ritchie', 'title': 'Founder and Chairman Emeritus', 'fiscalYear': 2022, 'totalPay': 142500, 'exercisedValue': 955196, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan  Cash', 'title': 'Principal Finance & Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sameer  Rathod', 'title': 'Vice President of Investor Relations & Market Intelligence', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren J. Watt', 'age': 51, 'title': 'Chief Legal Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ian  Malinski', 'title': 'Media Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis C. Hinkelman', 'title': 'Senior Vice President of Sales - Eastern USA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Karl W. Werner', 'age': 58, 'title': 'Chief Business Development Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 787231, 'exercisedValue': 791416, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.08
+dividendYield§0.0165
+exDividendDate§1701216000
+payoutRatio§1.0588
+fiveYearAvgDividendYield§1.69
+beta§0.848
+priceToSalesTrailing12Months§3.8675063
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.99
+pegRatio§3.36
+exchange§NYQ
+quoteType§EQUITY
+shortName§RB Global, Inc.
+longName§RB Global, Inc.
+firstTradeDateEpochUtc§889540200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e61529be-ccb0-34b2-aa77-e59d7b897bea
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§80.0
+targetLowPrice§65.0
+targetMeanPrice§73.62
+targetMedianPrice§73.54
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.727
+earningsGrowth§-0.211
+grossMargins§0.49717999
+ebitdaMargins§0.27593002
+trailingPegRatio§None

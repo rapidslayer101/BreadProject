@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 12:33:36.984632
+address1§The Tower at Erieview
+address2§Suite 3000 1301 East 9th Street
+city§Cleveland
+state§OH
+zip§44114
+country§United States
+phone§216 706 2960
+website§https://www.transdigm.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power & Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, and cargo loading and handling systems. This segment serves engine and power system and subsystem suppliers, airlines, third party maintenance suppliers, military buying agencies, and repair depots. The Airframe segment provides engineered latching and locking devices, engineered rods, engineered connectors and elastomer sealing solutions, cockpit security components and systems, cockpit displays, engineered audio, radio and antenna systems, lavatory components, seat belts and safety restraints, engineered and customized interior surfaces and related components, thermal protection and insulation products, lighting and control technology, and parachutes. This segment serves airframe manufacturers, cabin system and subsystem suppliers, airlines, third party maintenance suppliers, military buying agencies, and repair depots. The Non-aviation segment offers seat belts and safety restraints for ground transportation applications; electro-mechanical actuators for space applications; hydraulic/electromechanical actuators and fuel valves for land-based gas turbines; refueling systems for heavy equipment used in mining, construction, and other industries; and turbine controls for the energy and oil and gas markets. This segment serves off-road vehicle and subsystem suppliers, child restraint system suppliers, and satellite and space system suppliers; and manufacturers of heavy equipment. TransDigm Group Incorporated was founded in 1993 and is based in Cleveland, Ohio.
+fullTimeEmployees§15500
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Kevin M. Stein Ph.D.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 6223200, 'exercisedValue': 34109104, 'unexercisedValue': 70106504}, {'maxAge': 1, 'name': 'Ms. Sarah  Wynne', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1524385, 'exercisedValue': 1174953, 'unexercisedValue': 3248139}, {'maxAge': 1, 'name': 'Mr. Michael J. Lisman', 'age': 40, 'title': 'Co-Chief Operating Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 5391405, 'exercisedValue': 0, 'unexercisedValue': 20090472}, {'maxAge': 1, 'name': 'Mr. Joel  Reiss', 'age': 53, 'title': 'Co-Chief Operating Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 808625, 'exercisedValue': 2005402, 'unexercisedValue': 9588446}, {'maxAge': 1, 'name': 'Liza  Sabol', 'age': 45, 'title': 'Director of Investor Relations', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica L. Warren', 'age': 41, 'title': 'General Counsel, Chief Commercial Officer & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Palmer', 'age': 59, 'title': 'Executive Vice President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 578386, 'exercisedValue': 268395, 'unexercisedValue': 5688344}, {'maxAge': 1, 'name': 'Kevin  McHenry', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paula  Wheeler', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Feil', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1700179200
+payoutRatio§0.0
+beta§1.436
+priceToSalesTrailing12Months§8.220339
+currency§USD
+dateShortInterest§1702598400
+forwardEps§37.54
+pegRatio§1.84
+exchange§NYQ
+quoteType§EQUITY
+shortName§Transdigm Group Incorporated
+longName§TransDigm Group Incorporated
+firstTradeDateEpochUtc§1142433000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§99f11d34-7f06-32f3-858c-5ea33647e1bc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1200.0
+targetLowPrice§748.9
+targetMeanPrice§1072.39
+targetMedianPrice§1100.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§3.164
+earningsGrowth§0.82
+grossMargins§0.58345
+ebitdaMargins§0.48778
+trailingPegRatio§3.3854

@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 14:32:35.234501
+address1§650 Newport Center Drive
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 720 6000
+fax§949 720 6361
+website§https://investments.pimco.com/Products/pages/671.aspx
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§PIMCO California Municipal Income Fund III is a closed ended fixed income mutual fund launched and managed by Allianz Global Investors Fund Management LLC. It is co-managed by Pacific Investment Management Company LLC. The fund invests in fixed income markets. It seeks to invest in stocks of companies operating across diversified sectors. Its investment portfolio include California municipal bonds, and other municipal bonds and notes; California variable rate notes and other variable rate notes; California variable rate demand notes and other variable rate demand notes; U.S. treasury bills; and call options written and put options written. PIMCO California Municipal Income Fund III was formed on October 31, 2002 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Hammer', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.35
+dividendYield§0.0476
+exDividendDate§1704931200
+payoutRatio§3.6045
+fiveYearAvgDividendYield§4.86
+beta§0.553
+priceToSalesTrailing12Months§11.828947
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§PIMCO California Municipal Inco
+longName§PIMCO California Municipal Income Fund III
+firstTradeDateEpochUtc§1035901800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§92be7396-2585-385a-ab0a-36af744d90c8
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§3.562
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 19:43:07.982470
+address1§6100 Tower Circle
+address2§Suite 1000
+city§Franklin
+state§TN
+zip§37067
+country§United States
+phone§615 861 6000
+fax§615 261 9685
+website§https://www.acadiahealthcare.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Acadia Healthcare Company, Inc. provides behavioral healthcare services in the United States and Puerto Rico. It offers behavioral healthcare services to its patients in various settings, including inpatient psychiatric facilities, specialty treatment facilities, residential treatment centers, eating disorder facilities, and outpatient clinics. The company was incorporated in 2005 and is headquartered in Franklin, Tennessee.
+fullTimeEmployees§23000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher Howal Hunter', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2310202, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John S. Hollinsworth', 'age': 59, 'title': 'Executive Vice President of Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1320657, 'exercisedValue': 0, 'unexercisedValue': 202763}, {'maxAge': 1, 'name': 'Ms. Heather  Dixon CPA', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Groschen', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gretchen  Hommrich', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Priest', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian P. Farley', 'age': 53, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Palmenter', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isa  Diaz', 'title': 'Senior Vice President of Strategic Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Genovese J.D., M.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.312
+priceToSalesTrailing12Months§2.5541987
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.72
+pegRatio§1.77
+exchange§NMS
+quoteType§EQUITY
+shortName§Acadia Healthcare Company, Inc.
+longName§Acadia Healthcare Company, Inc.
+firstTradeDateEpochUtc§762791400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5085729c-6713-3ae3-b51c-f1e9ecb5ab59
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§68.0
+targetMeanPrice§88.55
+targetMedianPrice§88.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.712
+grossMargins§0.42581
+ebitdaMargins§0.21540001
+trailingPegRatio§None

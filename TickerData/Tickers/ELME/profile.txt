@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 15:29:00.025358
+address1§7550 Wisconsin Avenue
+address2§Suite 900
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§202 774 3200
+fax§301 984 9610
+website§https://www.elmecommunities.com
+industry§REIT—Residential
+sector§Real Estate
+longBusinessSummary§Elme Communities (formerly known as Washington Real Estate Investment Trust or WashREIT) is committed to elevating what home can be for middle-income renters by providing a higher level of quality, service, and experience. The company is a multifamily real estate investment trust that owns and operates approximately 8,900 apartment homes in the Washington, DC metro and the Sunbelt, and owns approximately 300,000 square feet of commercial space. Focused on providing quality, affordable homes to a deep, solid, and underserved base of mid-market demand, Elme Communities is building long-term value for shareholders.
+fullTimeEmployees§102
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul T. McDermott', 'age': 61, 'title': 'Chairman of Board, President & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1855752, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Lilly Gerock', 'title': 'Senior VP of Information Technology & Chief Information Officer', 'fiscalYear': 2022, 'totalPay': 619418, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Freishtat', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tiffany M. Butcher', 'age': 44, 'title': 'Executive VP & COO', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel P. Chappell', 'title': 'Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. A. Grant Montgomery', 'title': 'Vice President of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wade Drew Hammond', 'age': 48, 'title': 'Senior VP, Chief Administrative Officer, Treasurer & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Hopkins', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Kessler', 'title': 'Vice President of  Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Tilden', 'title': 'Senior Director of ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0504
+exDividendDate§1703030400
+payoutRatio§1.9672
+fiveYearAvgDividendYield§4.49
+beta§0.976
+priceToSalesTrailing12Months§5.5830774
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.06
+pegRatio§-7.56
+exchange§NYQ
+quoteType§EQUITY
+shortName§Elme Communities
+longName§Elme Communities
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46550ff8-2838-3662-8fef-0a66b1dd389a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§14.0
+targetMeanPrice§15.67
+targetMedianPrice§15.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.455
+grossMargins§0.61658
+ebitdaMargins§0.49572
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 02:34:08.196679
+address1§30699 Russell Ranch Road
+address2§Suite 295
+city§Westlake Village
+state§CA
+zip§91362
+country§United States
+phone§818 532 3700
+website§https://www.velfinance.com
+industry§Mortgage Finance
+sector§Financial Services
+longBusinessSummary§Velocity Financial, Inc. operates as a real estate finance company in the United States. The company originates and acquire loans, which is secured by mortgage liens on income-producing and/or owner/user commercial properties, including investor 1-4, a non-owner occupied residential rental properties with 1-4 units; residential apartments combined with office or retail space; and multi-family comprising traditional apartment buildings, condominiums, and other residential properties with 5+ units. It also finances for retail properties with various types of retail products and merchandise or services; commercial properties occupied by professional or business offices; and warehouse and other properties, which include self-storage units, auto services, hospitality, light industrial, and other commercial enterprises, as well as provides short-term and interest-only loans for acquisition and improvement of 1-4-unit residential properties. The company offers its products through a network of independent mortgage brokers for independent real estate investors and small business owners. Velocity Financial, Inc. was founded in 2004 and is headquartered in Westlake Village, California.
+fullTimeEmployees§194
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher D. Farrar', 'age': 56, 'title': 'Co-Founder, CEO, President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1879839, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark R. Szczepaniak', 'age': 65, 'title': 'Chief Financial Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1042946, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey T. Taylor', 'age': 54, 'title': 'Executive Vice President of Capital Markets', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 830049, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fiona  Tam', 'age': 52, 'title': 'Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Oltmann', 'age': 57, 'title': 'Corporate Treasurer & Director of Investor Relations', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roland Thomas Kelly', 'age': 52, 'title': 'Chief Legal Officer, General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.038
+priceToSalesTrailing12Months§4.4213653
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.55
+exchange§NYQ
+quoteType§EQUITY
+shortName§Velocity Financial, Inc.
+longName§Velocity Financial, Inc.
+firstTradeDateEpochUtc§1579271400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a3a448d1-1356-31c0-9b40-9157841e73d5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.5
+targetLowPrice§13.5
+targetMeanPrice§15.6
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§12.781
+earningsGrowth§0.192
+grossMargins§0.78897005
+ebitdaMargins§0.0
+trailingPegRatio§None

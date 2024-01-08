@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 22:48:07.540274
+address1§10225 Westmoor Drive
+city§Westminster
+state§CO
+zip§80021
+country§United States
+phone§303 443 7500
+website§https://www.zimvie.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§ZimVie Inc., a medical technology company, develops, manufactures, and markets a portfolio of products and solutions designed to treat various spine pathologies, and support dental tooth replacement and restoration procedures worldwide. It offers dental implant systems, prosthetic and abutment products, surgical instrumentation, and kits; bone grafts, barrier membranes, allografts, and collagen wound care products; hardware and software solutions consist of intraoral scanners and RealGUIDE; and virtual treatment planning services, guided surgery solutions, CAD/CAM workflow systems, and patient-specific restorative components and intra-oral scanners, as well as spinal fusion implants and instrumentation for various spinal procedures, biologics, and bone healing technologies. The company also provides MIS solutions, such as Vital MIS and Timberline; and motion preservation solutions, including Mobi-C and The Tether. ZimVie Inc. was incorporated in 2021 and is headquartered in Westminster, Colorado.
+fullTimeEmployees§2700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vafa  Jamali', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1411159, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Heppenstall', 'age': 52, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 749825, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Indraneel  Kanaglekar', 'age': 45, 'title': 'Senior VP & President of Global Dental', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 534500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca A. Whitney', 'age': 46, 'title': 'Senior VP & President of Global Spine', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 622974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Hutson', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sandra  Schneider', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Rondeau', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Kidwell', 'age': 54, 'title': 'Senior VP, Chief Legal, HR & Compliance Officer and Corporate Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 460179, 'exercisedValue': 0, 'unexercisedValue': 99935}, {'maxAge': 1, 'name': 'Ms. Laura  Driscoll', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Minette', 'title': 'Senior Vice President of Strategy & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.5079759
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.65
+pegRatio§-1.18
+exchange§NMS
+quoteType§EQUITY
+shortName§ZimVie Inc.
+longName§ZimVie Inc.
+firstTradeDateEpochUtc§1645021800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§16cf6881-4120-33ce-97d6-31a65a92ac75
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§13.0
+targetMeanPrice§14.5
+targetMedianPrice§14.5
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.34
+grossMargins§0.67691004
+ebitdaMargins§0.08681
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 20:30:56.329058
+address1§200 East Randolph Street
+address2§Suite 3300
+city§Chicago
+state§IL
+zip§60601
+country§United States
+phone§312 661 4600
+website§https://www.kemper.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Kemper Corporation, a diversified insurance holding company, engages in the provision of insurance products to individuals and businesses in the United States. The company operates through three segments: Specialty Property & Casualty Insurance, Preferred Property & Casualty Insurance, and Life & Health Insurance. It provides preferred and specialty automobile, homeowners, renters, fire, umbrella, general liability, and various other property and casualty insurance to individuals, as well as commercial automobile insurance to businesses. The company also offers life insurance, including permanent and term insurance; and supplemental accident and health insurance products, such as Medicare supplement insurance, fixed hospital indemnity, home health care, specified disease, and accident-only plans to individuals in rural, suburban, and urban areas. It distributes its products through independent agents and brokers. The company was formerly known as Unitrin, Inc. and changed its name to Kemper Corporation in August 2011. Kemper Corporation was incorporated in 1990 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§9500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph Patrick Lacher Jr.', 'age': 54, 'title': 'Chairman, CEO & President', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1869711, 'exercisedValue': 0, 'unexercisedValue': 3925415}, {'maxAge': 1, 'name': 'Mr. Charles Tipton Brooks', 'age': 56, 'title': 'Executive Vice President of Operations & Systems', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 938691, 'exercisedValue': 0, 'unexercisedValue': 884265}, {'maxAge': 1, 'name': 'Mr. John Michael Boschelli', 'age': 54, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 939223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duane Allen Sanders', 'age': 66, 'title': 'Executive VP & President of Property & Casualty Division', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1133821, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley Thomas Camden C.F.A.', 'age': 44, 'title': 'Senior VP, Treasurer & Interim CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Alexander', 'age': 56, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ismat Duckson Aziz', 'age': 55, 'title': 'Executive VP, Chief Human Resources Officer & Chief Administrative Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen  Guerra', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl Thomas Evans Jr.', 'age': 64, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara  Ciesemier', 'title': 'Assistant Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.24
+dividendYield§0.0251
+exDividendDate§1699833600
+payoutRatio§0.9919
+fiveYearAvgDividendYield§1.94
+beta§0.953
+priceToSalesTrailing12Months§0.60972357
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.38
+pegRatio§-3.6
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kemper Corporation
+longName§Kemper Corporation
+firstTradeDateEpochUtc§640877400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0d627e04-2ec3-3b40-9ce4-5190d9f34cd7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§56.0
+targetMeanPrice§62.5
+targetMedianPrice§59.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.868
+grossMargins§0.19832
+ebitdaMargins§-0.01105
+trailingPegRatio§None

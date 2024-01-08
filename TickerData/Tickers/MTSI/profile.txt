@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 11:46:08.354545
+address1§100 Chelmsford Street
+city§Lowell
+state§MA
+zip§01851
+country§United States
+phone§978 656 2500
+website§https://www.macom.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§MACOM Technology Solutions Holdings, Inc., together with its subsidiaries, designs and manufactures analog semiconductor solutions for use in wireless and wireline applications across the radio frequency (RF), microwave, millimeter wave, and lightwave spectrum in the United States, China, Australia, Japan, Malaysia, Singapore, South Korea, Taiwan, Thailand, and internationally. The company offers a portfolio of standard and custom devices, including integrated circuits, multi-chip modules, diodes, amplifiers, switches and switch limiters, passive and active components, and subsystems. Its semiconductor products are electronic components that are incorporated in electronic systems, such as wireless base stations, high-capacity optical networks, radar, and medical systems and test and measurement applications. The company serves various markets comprising telecommunication that includes carrier infrastructure, which comprise long-haul/metro, 5G, and fiber-to-the-X/passive optical network; industrial and defense, including military and commercial radar, RF jammers, electronic countermeasures, and communication data links, as well as multi-market applications, such as industrial, medical, test and measurement, and scientific applications; and data centers. It sells its products through direct sales force, applications engineering staff, independent sales representatives, resellers, and distributors. The company was founded in 1950 and is headquartered in Lowell, Massachusetts.
+fullTimeEmployees§1500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen G. Daly', 'age': 57, 'title': 'President, CEO & Chairman', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1678310, 'exercisedValue': 11029513, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John F. Kober III', 'age': 53, 'title': 'CFO & Senior VP', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1011655, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Dennehy', 'age': 49, 'title': 'Senior Vice President of Operations', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 715690, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ambra R. Roth', 'age': 41, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 715690, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donghyun  Hwang', 'age': 59, 'title': 'Senior Vice President of Global Sales', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 715690, 'exercisedValue': 0, 'unexercisedValue': 535950}, {'maxAge': 1, 'name': 'Mr. Stephen  Ferranti', 'title': 'Vice President of Strategic Initiatives & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wayne  Struble', 'title': 'Senior Vice President of Advanced Semiconductor Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Conor Noel Hegarty', 'age': 55, 'title': 'Vice President of Finance & Business Operations', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 348578, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.687
+priceToSalesTrailing12Months§9.076381
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.41
+pegRatio§2.04
+exchange§NMS
+quoteType§EQUITY
+shortName§MACOM Technology Solutions Hold
+longName§MACOM Technology Solutions Holdings, Inc.
+firstTradeDateEpochUtc§1331818200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§877956ab-f223-3a4f-84cb-117305201cd9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§70.0
+targetMeanPrice§88.15
+targetMedianPrice§85.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§7.253
+earningsGrowth§-0.899
+grossMargins§0.59499
+ebitdaMargins§0.2601
+trailingPegRatio§None

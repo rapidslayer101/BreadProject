@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 15:44:50.581503
+address1§7005 Southfront Road
+city§Livermore
+state§CA
+zip§94551
+country§United States
+phone§925 290 4000
+website§https://www.formfactor.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§FormFactor, Inc. designs, manufactures, and sells probe cards, analytical probes, probe stations, metrology systems, thermal systems, and cryogenic systems to semiconductor companies and scientific institutions. It operates in two segments, Probe Cards and Systems. The company offers probe cards to test various semiconductor device types, including systems on a chip products, mobile application processors, microprocessors, microcontrollers, and graphic processors, as well as radio frequency, analog, mixed signal, image sensor, electro-optical, dynamic random access memory, NAND flash memory, and NOR flash memory devices; and analytical probes, which are used for a range of applications, including device characterization, electrical simulation model development, failure analysis, and prototype design debugging for universities, research institutions, semiconductor integrated device manufacturers, semiconductor foundries, and fabless semiconductor companies. It also provides probe systems for semiconductor design engineers to capture and analyze accurate data; surface metrology systems for the development, production, and quality control of semiconductor products; thermal subsystems, such as thermal chucks and other test systems used in probe stations and other applications; and precision cryogenic instruments, semiconductor tests, and measurement systems. In addition, the company offers on-site probe card maintenance and service training, seminars, and telephone support services. The company markets and sells its products through direct sales force, manufacturers' representatives, and distributors in the United States, China, France, Germany, Italy, the United Kingdom, Japan, Singapore, South Korea, Taiwan, and internationally. FormFactor, Inc. was incorporated in 1993 and is headquartered in Livermore, California.
+fullTimeEmployees§2105
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Michael D. Slessor', 'age': 53, 'title': 'CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 853006, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shai  Shahar', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 496715, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jarek  Kister', 'title': 'CTO and Senior VP of Technology R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Nott', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stan  Finkelstein', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy  Robertson', 'title': 'VP, General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aliza  Scott', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chunyi  Leong', 'age': 48, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Matt  Losey', 'title': 'Executive VP & GM of Probes Business Unit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.157
+priceToSalesTrailing12Months§4.4354887
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.18
+pegRatio§2.58
+exchange§NMS
+quoteType§EQUITY
+shortName§FormFactor, Inc.
+longName§FormFactor, Inc.
+firstTradeDateEpochUtc§1055424600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§03c37111-e264-3ee4-a3ad-a395dd6474aa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§33.0
+targetMeanPrice§40.56
+targetMedianPrice§42.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§2.596
+earningsGrowth§0.0
+grossMargins§0.36586
+ebitdaMargins§0.05286
+trailingPegRatio§None

@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 18:34:15.029490
+longBusinessSummary§The fund will invest at least 90% of its total assets in the components of the index, as well as ADRs that represent securities in the index. The index provider compiles and calculates the index, a market capitalization-weighted index designed to track the performance of floating and variable rate investment grade and below investment grade U.S. dollar denominated preferred stock, as well as certain types of hybrid securities. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.066199996
+totalAssets§1486328064
+navPrice§23.05
+currency§USD
+category§Preferred Stock
+ytdReturn§-0.0030329002
+beta3Year§0.68
+fundFamily§Invesco
+fundInceptionDate§1398902400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.014797401
+fiveYearAverageReturn§0.0521973
+exchange§PCX
+quoteType§ETF
+shortName§Invesco Variable Rate Preferred
+longName§Invesco Variable Rate Preferred ETF
+firstTradeDateEpochUtc§1398951000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6ed37ce7-3f3f-3d0e-9c2f-5f98136f125d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 19:47:09.910285
+address1§Two Newton Place
+address2§Suite 300 255 Washington Street
+city§Newton
+state§MA
+zip§02458-1634
+country§United States
+phone§617 332 9530
+fax§617 454 3645
+website§https://sevnreit.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Seven Hills Realty Trust, a real estate investment trust, focuses on originating and investing in first mortgage loans secured by middle market and transitional commercial real estate in the United States. The company has elected to be taxed as a real estate investment trust. As a result, it would not be subject to corporate income tax on that portion of its net income that is distributed to shareholders. The company was formerly known as RMR Mortgage Trust. Seven Hills Realty Trust was incorporated in 2008 and is headquartered in Newton, Massachusetts.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas J. Lorenzini', 'age': 57, 'title': 'President & Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3557, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando  Diaz C.F.A.', 'age': 55, 'title': 'Chief Financial Officer & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin P. Barry', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer Babbin Clark', 'age': 62, 'title': 'Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.1043
+exDividendDate§1697760000
+payoutRatio§0.71819997
+fiveYearAvgDividendYield§8.11
+beta§0.55
+priceToSalesTrailing12Months§5.8473506
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.48
+exchange§NCM
+quoteType§EQUITY
+shortName§Seven Hills Realty Trust
+longName§Seven Hills Realty Trust
+firstTradeDateEpochUtc§1148650200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ad2aa8a8-e3dd-3db0-8db9-5c6fb1e16e99
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§114.984
+earningsGrowth§0.433
+grossMargins§0.97841
+ebitdaMargins§0.0
+trailingPegRatio§None

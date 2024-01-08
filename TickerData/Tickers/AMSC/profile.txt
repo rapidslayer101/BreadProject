@@ -1,0 +1,50 @@
+# reload+after+2024-01-19 22:43:20.494019
+address1§114 East Main Street
+city§Ayer
+state§MA
+zip§01432
+country§United States
+phone§978 842 3000
+fax§978 842 3024
+website§https://www.amsc.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§American Superconductor Corporation, together with its subsidiaries, provides megawatt-scale power resiliency solutions worldwide. The company operates in two segments, Grid and Wind. The Grid segment offers products and services that enable electric utilities, industrial facilities, and renewable energy project developers to connect, transmit, and distribute power under the Gridtec Solutions brand; and engineering planning services. It provides transmission planning services, which identify power grid congestion, poor power quality, and other risks; grid interconnection solutions for wind farms and solar power plants, power quality systems, and transmission and distribution cable systems; resilient electric grid systems, resilient electric grid systems; D-VAR systems used for controlling power flow and voltage in the AC transmission system; actiVAR system, a fast-switching medium-voltage reactive compensation solution; armorVAR system installed for reactive compensation, power factor correction, loss reduction, utility bill savings, and mitigation of common power quality concerns related to power converter-based generation and load devices; and D-VAR volt var optimization (VVO) that serves the distribution power grid market. This segment also offers ship protection systems, which reduce a naval ship's magnetic signature; and in board power delivery systems, power generation systems, and propulsion systems; and transformers and rectifiers systems. The Wind segment designs wind turbine systems and licenses these designs to third parties under the Windtec Solutions brand. It supplies power electronics and software-based control systems, engineered designs, and support services; and provides customer support services to wind turbine manufacturers. This segment's design portfolio comprises a range of drivetrains and power ratings of 2 megawatts and higher. The company was incorporated in 1987 and is headquartered in Ayer, Massachusetts.
+fullTimeEmployees§328
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Patrick McGahn', 'age': 52, 'title': 'Chairman, President & CEO', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 811776, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Kosiba Jr.', 'age': 50, 'title': 'CFO, Senior VP & Treasurer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 481545, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James F. Maguire', 'age': 67, 'title': 'Executive Vice President of Technology', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 366474, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John R. Samia', 'title': 'Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.924
+priceToSalesTrailing12Months§2.8906798
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.07
+pegRatio§-2.67
+exchange§NMS
+quoteType§EQUITY
+shortName§American Superconductor Corpora
+longName§American Superconductor Corporation
+firstTradeDateEpochUtc§692548200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§79297ca2-495a-373f-8171-080f8a91fccf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§10.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.59
+grossMargins§0.16014
+ebitdaMargins§-0.12954001
+trailingPegRatio§None

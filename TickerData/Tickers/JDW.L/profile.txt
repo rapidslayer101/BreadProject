@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:41:08.327643
+address1§Wetherspoon House
+address2§Central Park Reeds Crescent
+city§Watford
+zip§WD24 4QL
+country§United Kingdom
+phone§44 1923 477 777
+website§https://www.jdwetherspoon.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§J D Wetherspoon plc owns and operates pubs and hotels in the United Kingdom and the Republic of Ireland. The company was founded in 1979 and is based in Watford, the United Kingdom.
+fullTimeEmployees§43247
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy Randall Martin', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 338000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Hutson', 'age': 58, 'title': 'CEO, Member of Management Board & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 795000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Whitley', 'age': 45, 'title': 'Finance Director, Member of Management Board & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 318000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Ullman', 'age': 52, 'title': 'Personnel & Retail Audit Director, Member of Management Board and Executive Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 231000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Geoghegan', 'age': 54, 'title': 'Operations Director & Member of Management Board', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 342000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Capstick', 'age': 62, 'title': 'IT & Property Director and Member of Management Board', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Connor', 'age': 54, 'title': 'Company Secretary, Legal Director, Member of Management Board & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Barron', 'age': 37, 'title': 'Commercial Director & Member of Management Board', 'yearBorn': 1986, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Brimmer', 'age': 48, 'title': 'Purchasing Director & Member of Management Board', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Ball', 'age': 47, 'title': 'People Director & Member of Management Board', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1571875200
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.1
+beta§1.319
+priceToSalesTrailing12Months§0.5266038
+currency§GBp
+forwardEps§50.19
+pegRatio§4.89
+exchange§LSE
+quoteType§EQUITY
+shortName§WETHERSPOON ( J.D.) PLC ORD 2P
+longName§J D Wetherspoon plc
+firstTradeDateEpochUtc§720345600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6311e3ba-199d-3623-81a1-fe44e7845e68
+targetHighPrice§1050.0
+targetLowPrice§550.0
+targetMeanPrice§815.0
+targetMedianPrice§807.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.26
+earningsGrowth§-0.263
+grossMargins§0.11132
+ebitdaMargins§0.092159994
+trailingPegRatio§None

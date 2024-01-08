@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 09:45:51.777045
+address1§1321 Blanshard Street
+address2§Suite 301
+city§Victoria
+state§BC
+zip§V8W 0B6
+country§Canada
+phone§778-410-5195
+website§https://www.lucyscientific.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Lucy Scientific Discovery Inc., an early stage psychotropics contract manufacturing company, engaged in the research, manufacturing, and commercialization of psychedelic products. The company offers biological raw materials, active pharmaceutical ingredients (APIs), and finished biopharmaceutical products. It also develops and produces highly controlled agricultural grow environments for plant manufacturing and replication applications. The company was formerly known as Hollyweed North Cannabis Inc. and changed its name to Lucy Scientific Discovery Inc. in May 2021. Lucy Scientific Discovery Inc. was incorporated in 2017 and is headquartered in Victoria, Canada.
+fullTimeEmployees§2
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard D. Nanula', 'age': 62, 'title': 'CEO &  Executive Chair', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 41665, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Zasitko C.A., CPA', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 100000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Assad J. Kazeminy Ph.D.', 'age': 72, 'title': 'Chief Scientific Officer', 'yearBorn': 1951, 'fiscalYear': 2023, 'totalPay': 180000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Michael Reeves L.L.B.', 'age': 53, 'title': 'Corporate Secretary & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§504.00113
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.13
+exchange§NCM
+quoteType§EQUITY
+shortName§Lucy Scientific Discovery Inc.
+longName§Lucy Scientific Discovery Inc.
+firstTradeDateEpochUtc§1675953000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6a0097cc-7bfe-38a2-8a8a-f3d214db1639
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.5
+targetLowPrice§1.4
+targetMeanPrice§2.45
+targetMedianPrice§2.45
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.111
+grossMargins§0.36152
+ebitdaMargins§0.0
+trailingPegRatio§None

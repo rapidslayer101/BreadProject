@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 10:31:01.598246
+address1§595 Market Street
+address2§Suite 200
+city§San Francisco
+state§CA
+zip§94105
+country§United States
+phone§415 632 5600
+website§https://www.lendingclub.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§LendingClub Corporation, operates as a bank holding company for LendingClub Bank, National Association that provides range of financial products and services in the United States. It offers deposit products, including savings accounts, checking accounts, and certificates of deposit. The company also provides loan products, such as consumer loans comprising unsecured personal loans, secured auto refinance loans, and patient and education finance loans; and commercial loans, including small business loans. In addition, it operates an online lending marketplace platform. The company was incorporated in 2006 and is headquartered in San Francisco, California.
+fullTimeEmployees§1585
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott C. Sanborn', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1446327, 'exercisedValue': 755132, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  LaBenne', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 559392, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronnie  Momen', 'age': 55, 'title': 'Chief Consumer Banking Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 882563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Armstrong', 'age': 45, 'title': 'Chief Risk Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 715948, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fergal  Stack', 'title': 'Principal Accounting Officer & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Balaji  Thiagarajan', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sameer Shripad Gokhale CPA', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Cheng', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tina  Wilson', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Schipper', 'title': 'Chief Audit Executive', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.042
+priceToSalesTrailing12Months§0.7972617
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+pegRatio§-3.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§LendingClub Corporation
+longName§LendingClub Corporation
+firstTradeDateEpochUtc§1418308200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6907b869-2fb0-3b36-ab78-f1238a876284
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§7.0
+targetMeanPrice§9.82
+targetMedianPrice§9.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§16.823
+earningsGrowth§-0.888
+grossMargins§0.26908
+ebitdaMargins§0.09837
+trailingPegRatio§None

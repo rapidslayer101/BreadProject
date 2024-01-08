@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 20:44:08.205715
+address1§100 Campus Drive
+address2§Suite 200
+city§Florham Park
+state§NJ
+zip§07932
+country§United States
+phone§844 663 2638
+website§https://www.conduent.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Conduent Incorporated provides business process services with capabilities in transaction-intensive processing, analytics, and automation in the United States, Europe, and internationally. It operates through three segments: Commercial Industries, Government Services, and Transportation. The Commercial Industries segment offers business process services and customized solutions to clients in various industries; and end-user customer experience management, transaction processing services, healthcare and human resource, and learning services. The Government Services segment provides government-centric business process services to the United States federal, state, local, and foreign governments for public assistance, program administration, transaction processing, and payment services; medical management and fiscal agent care management services; and government healthcare, payment solutions, child support, and federal services. The Transportation segment offers systems and support comprising mission-critical mobility and payment solutions to government clients. This segment also provides electronic tolling, urban congestion management, and mileage-based user solutions; transit solutions; citation and permit administration, parking enforcement, and curbside demand management solutions; and computer-aided dispatch/automatic vehicle location solutions. Conduent Incorporated was founded in 2016 and is headquartered in Florham Park, New Jersey.
+fullTimeEmployees§59000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Clifford A. Skelton', 'age': 67, 'title': 'President, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1615883, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Henry Wood', 'age': 56, 'title': 'Executive VP, CFO & Principal Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 774760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Prout', 'age': 59, 'title': 'EVP, Chief Technology & Information Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 689050, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Krawitz', 'age': 53, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 738223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Louis Edward Keyes', 'age': 55, 'title': 'Executive VP & Chief Revenue Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 639050, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  McGinn B.A., M.B.A.', 'title': 'Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Giles  Goodburn', 'title': 'VP of Corporate FP&A and Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Yelencsics', 'title': 'Chief Communications Officer & Office of CEO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Kujawa', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randall  King', 'age': 57, 'title': 'President of Commercial Solutions', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.672
+priceToSalesTrailing12Months§0.20021652
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.04
+pegRatio§14.37
+exchange§NMS
+quoteType§EQUITY
+shortName§Conduent Incorporated
+longName§Conduent Incorporated
+firstTradeDateEpochUtc§1481639400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§37e00a78-a26c-329c-91f2-5bc642dee161
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.48
+targetLowPrice§4.14
+targetMeanPrice§4.81
+targetMedianPrice§4.81
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.656
+grossMargins§0.21971
+ebitdaMargins§0.07244
+trailingPegRatio§None

@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 13:47:11.688483
+address1§530 Technology Drive
+address2§Suite 300
+city§Irvine
+state§CA
+zip§92618
+country§United States
+phone§510 777 5000
+website§https://www.shimmick.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Shimmick Corporation provides water and other critical infrastructure solutions in the United States. The company undertakes water and wastewater treatment infrastructure; water storage and conveyance, dam, levee, flood control system, pump station, and coastal protection infrastructure; and mass transit, bridge, and military infrastructure projects. It serves federal, state, and local governments. The company was formerly known as SCCI National Holdings, Inc. and changed its name to Shimmick Corporation in September 2023. Shimmick Corporation was founded in 1990 and is headquartered in Irvine, California. Shimmick Corporation operates as a subsidiary of GOHO, LLC.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven E Richards', 'age': 64, 'title': 'Chief Executive Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 809002, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Devin J. Nordhagen', 'age': 40, 'title': 'Executive VP & CFO', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 501481, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell B. Goldsteen', 'title': 'Executive Chairman', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Sloane P.E.', 'title': 'President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Carpenter', 'title': 'Executive VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.24896497
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.5
+exchange§NGM
+quoteType§EQUITY
+shortName§Shimmick Corporation
+longName§Shimmick Corporation
+firstTradeDateEpochUtc§1699972200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§809e1b9e-5d8b-30ef-ac8d-e2fa09bc6c80
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§10.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.854
+earningsGrowth§0.924
+grossMargins§0.04079
+ebitdaMargins§-0.029409999
+trailingPegRatio§None

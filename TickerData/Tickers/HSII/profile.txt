@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 14:45:16.707008
+address1§233 South Wacker Drive Willis Tower
+address2§Suite 4900
+city§Chicago
+state§IL
+zip§60606-6303
+country§United States
+phone§312 496 1200
+website§https://www.heidrick.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§Heidrick & Struggles International, Inc., together with its subsidiaries, provides executive search, consulting, and on-demand talent services to businesses and business leaders worldwide. It enables its clients to build leadership teams by facilitating the recruitment, management, and development of senior executives. The company also offers on-demand services to provide clients with independent talent, including professionals with industry and functional expertise for interim leadership roles and critical project-based initiatives; and consulting services, including leadership assessment and development, team and organization acceleration, digital acceleration and innovation, diversity and inclusion advisory services, and culture shaping services. It provides its services to Fortune 1000 companies; Major U.S. and non-U.S. companies; middle market and emerging growth companies; private equity firms; governmental, higher education, and not-for-profit organizations; and other private and public entities. The company was founded in 1953 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§2206
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Krishnan  Rajagopalan', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 3035100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Robert Harris CPA', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1478850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  Heaton', 'title': 'Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 888700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Payne', 'age': 52, 'title': 'Chief Human Resources Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 710875, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christine  Stimpel', 'age': 62, 'title': 'Managing Partner', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Bondi', 'age': 63, 'title': 'Interim Principal Accounting Officer, VP & Controller', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Rosenberg', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon F. Harmon', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Corinna  Christophorou', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lee  Hanson', 'title': 'Vice Chairman of San Francisco & New York City Offices', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.022
+exDividendDate§1699228800
+payoutRatio§0.22389999
+fiveYearAvgDividendYield§1.99
+beta§0.838
+priceToSalesTrailing12Months§0.54440945
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.1
+pegRatio§0.94
+exchange§NMS
+quoteType§EQUITY
+shortName§Heidrick & Struggles Internatio
+longName§Heidrick & Struggles International, Inc.
+firstTradeDateEpochUtc§925219800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§22da1d59-b905-303b-9ddc-98f25ee6e804
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§27.0
+targetMeanPrice§36.0
+targetMedianPrice§40.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.455
+earningsGrowth§-0.284
+grossMargins§0.24895
+ebitdaMargins§0.09616999
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 13:33:42.708961
+address1§2021 Spring Road
+address2§Suite 600
+city§Oak Brook
+state§IL
+zip§60523
+country§United States
+phone§708 483 1300
+website§https://www.treehousefoods.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§TreeHouse Foods, Inc. manufactures and distributes private label foods and beverages in the United States and internationally. The company provides snacking product, such as crackers, pretzels, in-store bakery items, frozen griddle items, cookies, snack bars, and unique candy; and beverage and drink mix, including non-dairy creamer, single serve beverages, broths/stocks, powdered beverages and other blends, tea, and ready-to-drink-beverages. It also offers grocery comprising pickles, refrigerated dough, hot cereal, and cheese and puddings, as well as natural, organic, and gluten free products. The company sells its products through various distribution channels, including retailers, foodservice distributors, foodaway-from-home customers, and co-manufacturers, as well as industrial and export, which includes food manufacturers and repackagers of foodservice products. TreeHouse Foods, Inc. was incorporated in 2005 and is based in Oak Brook, Illinois.
+fullTimeEmployees§7500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven T. Oakland', 'age': 62, 'title': 'President, CEO & Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2676431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Patrick M. O'Donnell", 'age': 44, 'title': 'CFO, Chief Accounting Officer & Executive VP', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 642664, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristy N. Waterman', 'age': 42, 'title': 'Executive VP, General Counsel, Corporate Secretary & Chief Human Resources Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1106721, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amit R. Philip', 'age': 44, 'title': 'Senior VP, Chief Strategy & Growth Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 962146, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Landry', 'age': 58, 'title': 'Senior VP & Chief Operations Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. P.I.  Aquino', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Thomas E. O'Neill", 'age': 67, 'title': 'Consultant', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 2670176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Lewis', 'age': 48, 'title': 'Senior VP & Chief Customer Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curt B. Craig', 'age': 51, 'title': 'Senior VP & Chief Supply Chain Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 617327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey M. Haye', 'age': 50, 'title': 'Senior VP, Chief Procurement & Logistics Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.439
+priceToSalesTrailing12Months§0.6204969
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.6
+pegRatio§0.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§Treehouse Foods, Inc.
+longName§TreeHouse Foods, Inc.
+firstTradeDateEpochUtc§1119965400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2da0324c-4028-31d3-9452-52fe0c06c2a1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§38.0
+targetMeanPrice§43.0
+targetMedianPrice§42.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.256
+grossMargins§0.16549999
+ebitdaMargins§0.10321
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 06:29:57.589520
+address1§250 Bowie Avenue
+city§Toronto
+state§ON
+zip§M6E 4Y2
+country§Canada
+website§https://www.canadagoose.com
+industry§Apparel Manufacturing
+sector§Consumer Cyclical
+longBusinessSummary§Canada Goose Holdings Inc., together with its subsidiaries, designs, manufactures, and sells performance luxury apparel for men, women, youth, children, and babies in Canada, the United States, Asia Pacific, Europe, the Middle East, and Africa. The company operates through three segments: Direct-to-Consumer, Wholesale, and Other. It offers parkas, lightweight down jackets, rainwear, windwear, apparel, fleece, footwear, and accessories for fall, winter, and spring seasons. The company operates through national e-commerce markets and directly operated retail stores. Canada Goose Holdings Inc. was founded in 1957 and is headquartered in Toronto, Canada.
+fullTimeEmployees§4760
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dani  Reiss C.M.', 'age': 49, 'title': 'Chairman & CEO', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 1064977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie  Baker', 'age': 47, 'title': 'President', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 398412, 'exercisedValue': 0, 'unexercisedValue': 299657}, {'maxAge': 1, 'name': 'Mr. Jonathan Stuart Sinclair', 'age': 61, 'title': 'CFO & Executive VP', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 571223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. Blackford', 'age': 54, 'title': 'Chief Product Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 507805, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Michael Cadman', 'age': 65, 'title': 'President of Asia-Pacific', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 408181, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Moran', 'age': 60, 'title': 'Chief Operating Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 442594, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marjan Anwar Khan', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ana  Raman', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David M. Forrest', 'age': 43, 'title': 'General Counsel', 'yearBorn': 1980, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Binder', 'age': 59, 'title': 'Chief Transformation Officer and Executive VP of Sales Operations & Planning', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.494
+priceToSalesTrailing12Months§0.93244207
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.86
+pegRatio§2.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Canada Goose Holdings Inc. Subo
+longName§Canada Goose Holdings Inc.
+firstTradeDateEpochUtc§1489671000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5dc4b4f2-dfd9-3b13-bd0c-e82cd410f3f4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.96
+targetLowPrice§6.99
+targetMeanPrice§12.03
+targetMedianPrice§10.98
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.508
+earningsGrowth§0.269
+grossMargins§0.68084997
+ebitdaMargins§0.1357
+trailingPegRatio§None

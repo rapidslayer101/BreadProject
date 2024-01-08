@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 03:35:52.044929
+address1§Griffin House
+address2§40 Lever Street
+city§Manchester
+zip§M60 6ES
+country§United Kingdom
+phone§44 16 1236 8256
+fax§44 16 1238 2662
+website§https://www.nbrown.co.uk
+industry§Internet Retail
+industryKey§internet-retail
+industryDisp§Internet Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§N Brown Group plc operates as a clothing and footwear digital retailer in the United Kingdom. The company offers a range of clothing, footwear, and homeware products for men and women under the JD Williams, Simply Be, Ambrose Wilson, Jacamo, Home Essentials, Fashion World, Marisota, Oxendales, and Premier Man brands. It also provides financial services. The company was founded in 1859 and is headquartered in Manchester, the United Kingdom.
+fullTimeEmployees§1700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen  Johnson', 'age': 51, 'title': 'CEO, Member of Executive Board & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 496000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominic  Appleton', 'age': 51, 'title': 'CFO & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alyson Tracey Fadil', 'age': 50, 'title': 'Chief People Officer & Member of Executive Board', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Welsh', 'title': 'CEO of Retail & Member of Executive Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Joy', 'title': 'CEO of Financial Service & Member of Management Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nuno  Miller', 'title': 'COO & Member of Executive Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian  Wells', 'title': 'General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1577923200
+payoutRatio§0.0
+fiveYearAvgDividendYield§9.05
+beta§1.961
+priceToSalesTrailing12Months§0.13654757
+currency§GBp
+forwardEps§2.0
+lastDividendValue§2.793613
+lastDividendDate§1577923200
+exchange§LSE
+quoteType§EQUITY
+shortName§BROWN (N) GROUP PLC ORD 11 1/19
+longName§N Brown Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8fb7113a-91b0-3748-a6b8-f85e14ecaaaa
+messageBoardId§finmb_876433
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§6.245
+grossMargins§0.46299
+ebitdaMargins§-0.0136899995
+trailingPegRatio§None

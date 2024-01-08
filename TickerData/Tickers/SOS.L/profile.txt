@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 06:40:25.846797
+address1§40 Water Lane
+city§Wilmslow
+zip§SK9 5AP
+country§United Kingdom
+phone§44 33 3305 2866
+website§https://www.sosandar.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Sosandar Plc manufactures and distributes clothing products through internet and mail order in the United Kingdom. It offers dresses, tops, knitwear, coats and jackets, suits and tailoring cloths, jumpsuits and playsuits, jeans and jeggings, trousers and leggings, leather and faux leather cloths, skirts, leisurewear, loungewear and nightwear, and swim and beachwear products; footwear comprising flats, heels, boots, trainers, and slippers; and gift cards. The company also provides denim dressings; and accessories, including bags, belts, jewelry, hats, scarves and gloves, and sunglasses. Sosandar Plc is based in Wilmslow, the United Kingdom.
+fullTimeEmployees§78
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Alison S. Hall', 'age': 48, 'title': 'Co-Founder, Joint CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 222567, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie C. Lavington', 'age': 58, 'title': 'Co-Founder, Joint CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 222921, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen James Dilks', 'age': 46, 'title': 'Chief Financial Officer & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 151778, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Kingsley Collingbourne', 'age': 57, 'title': 'Secretary', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 25000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.268
+priceToSalesTrailing12Months§0.8811625
+currency§GBp
+forwardEps§0.41
+exchange§LSE
+quoteType§EQUITY
+shortName§SOSANDAR PLC ORD 0.1P
+longName§Sosandar Plc
+firstTradeDateEpochUtc§1546416000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a5eb6914-54ff-307d-a274-bcc491ad8b0b
+targetHighPrice§31.0
+targetLowPrice§31.0
+targetMeanPrice§31.0
+targetMedianPrice§31.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.158
+grossMargins§0.56655
+ebitdaMargins§0.00753
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 02:29:47.508560
+address1§4955 Technology Way
+city§Boca Raton
+state§FL
+zip§33431
+country§United States
+phone§561 893 0101
+website§https://www.geogroup.com
+industry§Security & Protection Services
+sector§Industrials
+longBusinessSummary§The GEO Group, Inc. (NYSE: GEO) is a leading diversified government service provider, specializing in design, financing, development, and support services for secure facilities, processing centers, and community reentry centers in the United States, Australia, South Africa, and the United Kingdom. GEO's diversified services include enhanced in-custody rehabilitation and post-release support through the award-winning GEO Continuum of Care, secure transportation, electronic monitoring, community-based programs, and correctional health and mental health care. GEO's worldwide operations include the ownership and/or delivery of support services for 100 facilities totaling approximately 81,000 beds, including idle facilities and projects under development, with a workforce of up to approximately 18,000 employees.
+fullTimeEmployees§15800
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. George C. Zoley Ph.D.', 'age': 73, 'title': 'Founder & Executive Chairman of the Board', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 3245661, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian R. Evans', 'age': 55, 'title': 'Chief Executive Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1767194, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James H. Black', 'age': 59, 'title': 'SVP, President of Secure Services & President of U.S. Corrections, Detention and International Ops', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1328813, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose  Gordo J.D.', 'age': 49, 'title': 'Advisor', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2971272, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wayne H. Calabrese', 'age': 72, 'title': 'President & COO', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 6471689, 'exercisedValue': 7193252, 'unexercisedValue': 792666}, {'maxAge': 1, 'name': 'Mr. Shayn P. March', 'age': 57, 'title': 'Acting CFO, Executive VP of Finance & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald A. Brack', 'age': 61, 'title': 'Executive VP, Chief Accounting Officer & Controller', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jose  Rosario', 'title': 'Executive VP, Chief Information Officer & Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Negron', 'age': 61, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 931917, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel H. Ragsdale', 'title': 'Executive Vice President of Contract Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1611273600
+payoutRatio§0.0
+fiveYearAvgDividendYield§11.18
+beta§0.605
+priceToSalesTrailing12Months§0.55482906
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.13
+pegRatio§0.86
+exchange§NYQ
+quoteType§EQUITY
+shortName§Geo Group Inc (The) REIT
+longName§The GEO Group, Inc.
+firstTradeDateEpochUtc§775315800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4a221f74-494f-3ac7-a498-e6524292eaef
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§14.0
+targetMeanPrice§14.33
+targetMedianPrice§14.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.148
+earningsGrowth§-0.385
+grossMargins§0.28559
+ebitdaMargins§0.20797001
+trailingPegRatio§0.8675

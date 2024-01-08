@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 16:26:42.696796
+address1§1 CityPlace Drive
+address2§Suite 300
+city§Saint Louis
+state§MO
+zip§63141
+country§United States
+phone§314 994 2700
+website§https://www.archrsc.com
+industry§Coking Coal
+industryKey§coking-coal
+industryDisp§Coking Coal
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Arch Resources, Inc. produces and sells metallurgical products. As of December 31, 2022, the company operated seven active mines. It also owned or controlled primarily through long-term leases approximately 28,292 acres of coal land in Ohio; 952 acres of coal land in Maryland; 10,095 acres of coal land in Virginia; 306,263 acres of coal land in West Virginia; 81,450 acres of coal land in Wyoming; 234,087 acres of coal land in Illinois; 33,047 acres of coal land in Kentucky; 362 acres of coal land in Montana; 248 acres of coal land in Pennsylvania; and 19,018 acres of coal land in Colorado, as well as smaller parcels of property in Alabama, Indiana, Washington, Arkansas, California, Utah, and Texas. The company sells its products to utility, industrial, and steel producers in the United States and internationally. Arch Resources, Inc. was incorporated in 1969 and is headquartered in St. Louis, Missouri.
+fullTimeEmployees§3404
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John W. Eaves', 'age': 65, 'title': 'Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1864103, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul A. Lang', 'age': 62, 'title': 'CEO, President & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 3368702, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew C. Giljum', 'age': 51, 'title': 'Senior VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1329833, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John T. Drexler', 'age': 53, 'title': 'Senior VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2043300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rosemary L. Klein', 'age': 55, 'title': 'Senior VP of Law, General Counsel & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1077784, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Lorson', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John A. Ziegler Jr.', 'age': 56, 'title': 'Senior VP & Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 610787, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Jones', 'age': 66, 'title': 'Senior Advisor', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 779182, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deck S. Slone', 'age': 59, 'title': 'Senior Vice President of Strategy & Public Policy', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Ferguson', 'title': 'Senior Vice President of Metallurgical & International Thermal Coal - Arch Coal Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§7.8
+dividendYield§0.044499997
+exDividendDate§1701216000
+payoutRatio§0.1688
+fiveYearAvgDividendYield§2.35
+beta§0.731
+priceToSalesTrailing12Months§1.0035893
+currency§USD
+dateShortInterest§1702598400
+forwardEps§22.73
+lastDividendValue§1.13
+lastDividendDate§1701216000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Arch Resources, Inc.
+longName§Arch Resources, Inc.
+firstTradeDateEpochUtc§1475674200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§350a6f89-8603-387e-a74d-1bd9f551a13a
+messageBoardId§finmb_218812
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§200.0
+targetLowPrice§160.0
+targetMeanPrice§180.17
+targetMedianPrice§177.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.463
+earningsGrowth§-0.55
+grossMargins§0.27282
+ebitdaMargins§0.24995
+trailingPegRatio§None

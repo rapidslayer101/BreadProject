@@ -1,0 +1,37 @@
+# reload+after+2024-01-20 21:36:13.861091
+address1§68 Merrion Square South
+city§Dublin
+zip§2
+country§Ireland
+phone§353 1 676 8702
+website§https://www.falconoilandgas.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Falcon Oil & Gas Ltd., an oil and gas company, engages in the exploration, and development of unconventional oil and gas assets in Australia, South Africa, and Hungary. The company holds 22.5% interests in three exploration permits covering an area of approximately 1 million net acres in the Beetaloo Sub-basin, Northern Territory, Australia. It also holds a 100% interest in the technical cooperation permit covering an area of approximately 30,327.9 square kilometers in the southwest Karoo Basin, South Africa; and a 100% interest in the Makó production license covering an area of approximately 994.6 square kilometers in the Makó Trough located in south-eastern Hungary. The company was incorporated in 1980 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Philip  O'Quigley B.Com., B.Comm, F.C.A.", 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 507230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Flynn', 'age': 39, 'title': 'CFO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 247957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Gabor  Bada', 'title': 'Head of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce A. Lawrence', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.872
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§FALCON OIL & GAS LTD. COM SHS N
+longName§Falcon Oil & Gas Ltd.
+firstTradeDateEpochUtc§1364457600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b0b37ea9-9683-3a39-bced-a8a52d921791
+targetHighPrice§0.33
+targetLowPrice§0.33
+targetMeanPrice§0.33
+targetMedianPrice§0.33
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§4.685
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 14:32:18.080952
+address1§369 North New York Avenue
+address2§Suite 201
+city§Winter Park
+state§FL
+zip§32789
+country§United States
+phone§407 904 3324
+website§https://www.alpinereit.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Alpine Income Property Trust, Inc. (NYSE: PINE) is a publicly traded real estate investment trust that seeks to deliver attractive risk-adjusted returns and dependable cash dividends by investing in, owning and operating a portfolio of single tenant net leased commercial income properties that are predominately leased to high-quality publicly traded and credit-rated tenants.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John P. Albright', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Morris Partridge', 'age': 39, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Robert Greathouse', 'age': 45, 'title': 'Senior VP & Chief Investment Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel E. Smith Esq.', 'age': 57, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa M. Vorakoun', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.1
+dividendYield§0.065
+exDividendDate§1702425600
+payoutRatio§2.2449
+beta§0.838
+priceToSalesTrailing12Months§5.7071238
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.07
+exchange§NYQ
+quoteType§EQUITY
+shortName§Alpine Income Property Trust, I
+longName§Alpine Income Property Trust, Inc.
+firstTradeDateEpochUtc§1574433000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2db03366-902c-3464-905d-82980948d322
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§15.0
+targetMeanPrice§19.06
+targetMedianPrice§19.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§4.769
+grossMargins§0.86921
+ebitdaMargins§0.72433
+trailingPegRatio§None

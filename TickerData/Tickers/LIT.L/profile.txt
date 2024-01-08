@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 08:39:34.869784
+address1§The Chifley Tower
+address2§Level 12 2 Chifley Square
+city§Sydney
+state§NSW
+zip§2000
+country§Australia
+phone§61 2 8098 1390
+website§https://www.lcmfinance.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Litigation Capital Management Limited provides dispute finance and risk management services in Australia and the United Kingdom. The company operates in two business models, including direct investments made from LCM's permanent balance sheet capital; and fund and/or asset management. Its products and services include dispute finance for companies, international arbitration, and law firms; disbursement funding; enforcement funding/purchase of award; and adverse cost and security for costs. Litigation Capital Management Limited was founded in 1998 and is headquartered in Sydney, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick  Moloney BSAB, Dip Law, LLB', 'title': 'CEO & Executive Director', 'fiscalYear': 2023, 'totalPay': 623173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary  Gangemi', 'age': 41, 'title': 'CFO & Executive Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 359694, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kat  Gieras', 'title': 'Business Development & Communications Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susanna  Taylor', 'title': 'Head of Investments \x96 APAC', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fiona  Heyes', 'title': 'Head of Underwriting-EMEA', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Sandham', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0227
+exDividendDate§1695859200
+payoutRatio§0.0
+beta§0.474
+priceToSalesTrailing12Months§0.6365292
+currency§GBp
+forwardEps§0.17
+exchange§LSE
+quoteType§EQUITY
+shortName§LITIGATION CAPITAL MANAGEMENT L
+longName§Litigation Capital Management Limited
+firstTradeDateEpochUtc§1545206400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§09bbe728-dc43-3d7d-a1e7-2f89c570a0d1
+targetHighPrice§1.32
+targetLowPrice§1.32
+targetMeanPrice§1.32
+targetMedianPrice§1.32
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§32.018
+earningsGrowth§0.117
+grossMargins§1.0
+ebitdaMargins§0.9195
+trailingPegRatio§None

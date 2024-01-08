@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 09:35:55.107536
+address1§Old Croft
+address2§Stanwix
+city§Carlisle
+zip§CA3 9BA
+country§United Kingdom
+phone§44 1228 554 600
+website§https://www.carrsgroup.com
+industry§Farm Products
+industryKey§farm-products
+industryDisp§Farm Products
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Carr's Group plc engages in the agriculture and engineering businesses in the United Kingdom and internationally. Its Speciality Agriculture segment manufactures and supplies feed blocks, minerals and boluses containing trace elements, and minerals for livestock under the Crystalyx, Horslyx, SmartLic, Tracesure, and AminoMax brands. The company's Engineering segment designs and manufactures vessels, precision components, and remote handling systems, as well as provides specialist engineering services for the nuclear, defense, and oil and gas industries. Its products include robotic manipulators and remote handling equipment, life-of-plant extension technologies, radiation protection and decontamination services, design and specialist fabrication, and precision machining under the TELBOT, MSIP, and Power Fluidics brand names. It also engages in financial and property-holding activities. The company was formerly known as Carr's Milling Industries PLC and changed its name to Carr's Group plc in April 2015. Carr's Group plc was founded in 1831 and is based in Carlisle, the United Kingdom.
+fullTimeEmployees§660
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Andrew White', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 301238, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Christopher Rowland', 'age': 51, 'title': 'Executive Director of Transformation & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 21000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gavin Maxwell Manson', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Justin  Richards', 'title': 'Company Secretary & Legal Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lisa  Donovan', 'title': 'Company Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.05
+exDividendDate§1706140800
+payoutRatio§13.0
+fiveYearAvgDividendYield§2.97
+beta§0.96
+priceToSalesTrailing12Months§0.683707
+currency§GBp
+forwardEps§8.8
+lastDividendValue§2.85
+lastDividendDate§1706140800
+exchange§LSE
+quoteType§EQUITY
+shortName§CARR'S GROUP PLC ORD 2.5P
+longName§Carr's Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§72f6d4c7-abeb-3848-997b-c0a5cca6890c
+messageBoardId§finmb_877397
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§1.555
+grossMargins§0.22547
+ebitdaMargins§0.03433
+trailingPegRatio§None

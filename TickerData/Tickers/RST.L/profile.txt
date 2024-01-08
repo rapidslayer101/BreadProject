@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 03:40:13.754870
+address1§7-10 Chandos Street
+address2§2nd Floor
+city§London
+zip§W1G 9DA
+country§United Kingdom
+phone§44 20 7409 2420
+website§https://www.restoreplc.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§Restore plc, together with its subsidiaries, provides offices and workplaces services to the public and private sectors primarily in the United Kingdom. The company operates through two segments, Digital & Information Management, and Secure Lifecycle Services. The Digital & Information Management segment offers storage and retrieval solutions for hard copy documents, magnetic data storage tapes, and heritage assets; digital workflow services, including document scanning, automation, cloud-based document management systems, robotic process automation, and artificial intelligence. The Secure Lifecycle Services segment provides lifecycle management of technology assets; relocation services; and hardware and software upgrades; and paper shredding and recycling services. Restore plc was incorporated in 2004 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§2881
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Anthony-Lawrence Skinner MA', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duncan  Gooding', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Baker', 'title': 'CFO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Athena  Ainsworth', 'title': 'Managing Director of Restore Technology', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.0312
+exDividendDate§1695254400
+payoutRatio§0.5984
+fiveYearAvgDividendYield§1.09
+beta§0.486
+priceToSalesTrailing12Months§1.0824043
+currency§GBp
+forwardEps§18.7
+pegRatio§0.36
+exchange§LSE
+quoteType§EQUITY
+shortName§RESTORE PLC ORD 5P
+longName§Restore plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f2dd47ce-569c-3999-98cd-258b9533b83d
+targetHighPrice§350.0
+targetLowPrice§169.0
+targetMeanPrice§270.71
+targetMedianPrice§250.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.262
+grossMargins§0.43658
+ebitdaMargins§0.18361
+trailingPegRatio§None

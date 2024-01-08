@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 22:29:02.404301
+address1§1722 Routh Street
+address2§Suite 1300
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§214 953 9500
+fax§214 953 9501
+website§https://www.enlink.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§EnLink Midstream, LLC provides midstream energy services in the United States. It operates through five segments: Permian, Louisiana, Oklahoma, North Texas, and Corporate. The company is involved in gathering, compressing, treating, processing, transporting, storing, and selling natural gas; fractionating, transporting, storing, and selling natural gas liquids; and gathering, transporting, stabilizing, storing, trans-loading, and selling crude oil and condensate, as well as providing brine disposal services. Its midstream energy asset network includes natural gas processing plants; fractionators; barge and rail terminals; product storage facilities; brine disposal wells; and a crude oil trucking fleet. The company was incorporated in 2013 and is based in Dallas, Texas.
+fullTimeEmployees§1132
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jesse  Arenivas', 'age': 49, 'title': 'CEO & Director of Enlink Midstream Manager LLC', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2497685, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin D. Lamb', 'age': 43, 'title': 'Executive VP & CFO of EnLink Midstream Manager, LLC', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1917971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Walter  Pinto', 'age': 61, 'title': 'Executive VP & COO of EnLink Midstream Manager, LLC', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 900494, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan Philipp Rossbach', 'age': 41, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Joseph Brungardt Jr., C.F.A.', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam S. Forman', 'age': 55, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  McMillan-Melott', 'title': 'Vice President of Strategic Relations & Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Griffin', 'title': 'Senior Vice President of Business & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rhonda L. Price', 'title': 'Senior Vice President of Human Resources - Enlink Midstream Manager LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Burdett', 'title': 'Senior Vice President of Texas', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.04
+exDividendDate§1698278400
+payoutRatio§0.77379996
+fiveYearAvgDividendYield§11.87
+beta§2.333
+priceToSalesTrailing12Months§0.807454
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.68
+pegRatio§0.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§EnLink Midstream, LLC
+longName§EnLink Midstream, LLC
+firstTradeDateEpochUtc§1074004200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bf8d2f50-b343-3bec-bc85-9875e50b790f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§13.0
+targetMeanPrice§14.3
+targetMedianPrice§14.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.771
+earningsGrowth§-0.646
+grossMargins§0.28204
+ebitdaMargins§0.19011
+trailingPegRatio§None

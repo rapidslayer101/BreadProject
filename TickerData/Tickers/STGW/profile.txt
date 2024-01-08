@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 20:47:23.938206
+address1§One World Trade Center
+address2§Floor 65
+city§New York
+state§NY
+zip§10007
+country§United States
+phone§646 429 1800
+website§https://www.stagwellglobal.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§Stagwell Inc. provides digital transformation, performance media and data, consumer insights and strategy, and creativity and communications services. The company operates through three segments: Integrated Agencies Network, Brand Performance Network, and Communications Network. It designs and builds digital platforms and experiences that support the delivery of content, commerce, service, and sales; creates websites, mobile applications, back-end systems, content and data management systems, and other digital environments; designs and implements technology and data strategies; and develops software and related technology products, including artificial intelligence (AI)-based communications technology, cookie-less data platforms for audience targeting and activation, software tools for e-commerce applications, specialty media solutions in the augmented reality space, and text messaging applications for consumer engagement. The company also provides audience analysis, and media buying and planning services; and strategic insights and guidance services that offers business content, product, communications, and media strategies. In addition, it offers strategy development, advertising creation, live events, immersive digital experiences, cross platform engagement, and social media content services; and leadership, investor and financial relations, social media, executive positioning and visibility, strategic communication, public relation, and public affair services. Further, the company provides Stagwell Marketing Cloud, a suite of software-as-a-service (SaaS) and data-as-a-service (DaaS) technology solutions, including research and insights, communications technology, specialty media, and media studios; and tech-driven solutions for in-house marketers. Stagwell Inc. is headquartered in New York, New York.
+fullTimeEmployees§11100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Jeffrey Penn', 'age': 69, 'title': 'Chairman & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1356559, 'exercisedValue': 0, 'unexercisedValue': 6030000}, {'maxAge': 1, 'name': 'Mr. Jay R. Leveton', 'age': 46, 'title': 'President', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 741359, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank P. Lanuto', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 656723, 'exercisedValue': 0, 'unexercisedValue': 1014750}, {'maxAge': 1, 'name': 'Mr. Ryan  Greene', 'age': 45, 'title': 'Chief Operating Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 582091, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincenzo  DiMaggio', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 475840, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Reid', 'title': 'Executive VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Merrill  Raman', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ben  Allanson', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  McElligott', 'age': 38, 'title': 'General Counsel', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth Lester Sidhu', 'title': 'Chief Brand & Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.705
+priceToSalesTrailing12Months§0.66353023
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.92
+pegRatio§1.41
+exchange§NMS
+quoteType§EQUITY
+shortName§Stagwell Inc.
+longName§Stagwell Inc.
+firstTradeDateEpochUtc§798125400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b67d73f3-ed4c-3b84-8c50-af9b21ee64d9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§5.5
+targetMeanPrice§7.63
+targetMedianPrice§7.25
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.745
+earningsGrowth§-0.968
+grossMargins§0.37177
+ebitdaMargins§0.11739001
+trailingPegRatio§None

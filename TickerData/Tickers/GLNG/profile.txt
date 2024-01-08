@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 00:45:02.559813
+address1§S.E. Pearman Building
+address2§2nd Floor 9 Par-la-Ville Road
+city§Hamilton
+zip§HM 11
+country§Bermuda
+phone§441 295 4705
+website§https://www.golarlng.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Golar LNG Limited designs, owns, and operates marine infrastructure for the liquefaction of natural gas. The company operates through three segments: FLNG, Corporate and Other, and Shipping. It also engages in the regasification, storage, and offloading of liquefied natural gas (LNG); operation of floating liquefaction natural gas (FLNG) vessels; operation of the transportation of LNG carriers; and vessel management. The company was founded in 1946 and is headquartered in Hamilton, Bermuda.
+fullTimeEmployees§490
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Karl Fredrik Staubo', 'age': 36, 'title': 'Chief Executive Officer of Golar Management AS', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo  Maranhao', 'age': 38, 'title': 'Chief Financial Officer of Golar Management Ltd', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ragnar  Nes', 'age': 54, 'title': 'Chief Operating Officer of Golar Management AS', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Svendsen', 'age': 51, 'title': 'Chief Technical Officer of Golar Management AS', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Buchanan', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0433
+exDividendDate§1701302400
+payoutRatio§0.9804
+fiveYearAvgDividendYield§3.03
+beta§0.588
+priceToSalesTrailing12Months§8.707711
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.92
+pegRatio§-0.3
+exchange§NMS
+quoteType§EQUITY
+shortName§Golar LNG Limited
+longName§Golar LNG Limited
+firstTradeDateEpochUtc§1058275800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§753b0c63-1e7b-37aa-a57d-4b185b68dd9c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.5
+targetLowPrice§25.0
+targetMeanPrice§30.56
+targetMedianPrice§30.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.701
+earningsGrowth§-0.334
+grossMargins§0.51451
+ebitdaMargins§0.34757
+trailingPegRatio§None

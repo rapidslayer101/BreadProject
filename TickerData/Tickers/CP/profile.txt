@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 17:28:09.435722
+address1§7550 Ogden Dale Road S.E.
+city§Calgary
+state§AB
+zip§T2C 4X9
+country§Canada
+phone§403-319-3591
+fax§403-319-6770
+website§https://www.cpr.ca
+industry§Railroads
+sector§Industrials
+longBusinessSummary§Canadian Pacific Kansas City Limited, together with its subsidiaries, owns and operates a transcontinental freight railway in Canada and the United States. The company transports bulk commodities, including grain, coal, potash, fertilizers, and sulphur; and merchandise freight, such as energy, chemicals and plastics, metals, minerals and consumer, automotive, and forest products. It transports intermodal traffic comprising retail goods in overseas containers. The company offers rail and intermodal transportation services through a network of approximately 13,000 miles serving business centers in Quebec and British Columbia, Canada; and the United States Northeast and Midwest regions. Canadian Pacific Kansas City Limited is headquartered in Calgary, Canada.
+fullTimeEmployees§17608
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Keith E. Creel', 'age': 54, 'title': 'CEO, President & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1799848, 'exercisedValue': 7633911, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nadeem S. Velani', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 973480, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Redd', 'age': 52, 'title': 'Executive VP & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 909572, 'exercisedValue': 2342126, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Ellis', 'age': 55, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 661054, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Kenneth Brooks', 'age': 52, 'title': 'Executive VP & Chief Marketing Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 939153, 'exercisedValue': 919645, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chris  de Bruyn', 'title': 'Managing Director of Investor Relations & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maeghan  Albiston', 'title': 'VP & CHRO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laird Joseph Pitz', 'age': 78, 'title': 'Senior VP & Chief Risk Officer', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 856919, 'exercisedValue': 995821, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Dominic Luther Clements', 'age': 53, 'title': 'Senior Vice-President of Strategic Planning & Technology Transformation', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Foran', 'age': 49, 'title': 'Senior Vice-President of Network & Capacity Management', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.57
+dividendYield§0.0073
+exDividendDate§1703721600
+payoutRatio§0.17
+fiveYearAvgDividendYield§0.84
+beta§0.784
+priceToSalesTrailing12Months§6.5253177
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.33
+pegRatio§4.06
+exchange§NYQ
+quoteType§EQUITY
+shortName§Canadian Pacific Kansas City Li
+longName§Canadian Pacific Kansas City Limited
+firstTradeDateEpochUtc§441642600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b78cc690-9042-316d-aaa0-4d83bac97e90
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§119.36
+targetLowPrice§76.87
+targetMeanPrice§87.26
+targetMedianPrice§85.97
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§24
+quickRatio§0.551
+earningsGrowth§-0.126
+grossMargins§0.53047
+ebitdaMargins§0.51837003
+trailingPegRatio§None

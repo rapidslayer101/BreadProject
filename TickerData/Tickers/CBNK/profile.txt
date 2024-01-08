@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 05:43:55.417676
+address1§2275 Research Boulevard
+address2§Suite 600
+city§Rockville
+state§MD
+zip§20850
+country§United States
+phone§301 468 8848
+fax§301 762 1008
+website§https://capitalbankmd.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Capital Bancorp, Inc. operates as the bank holding company for Capital Bank, N.A. that provides various banking products and services to businesses, not-for-profit associations, and entrepreneurs in the United States. It operates through Commercial Banking, Capital Bank Home Loans, and OpenSky segments. The company offers a range of deposit products and services, including checking and savings, time, interest bearing and noninterest-bearing demand, and money market accounts, as well as certificates of deposit; and credit cards. It originates residential mortgages and offers residential and commercial real estate, construction, and commercial business loans, as well as other consumer loans, such as term loans, car loans, and boat loans to small to medium-sized businesses, professionals, real estate investors, and small residential builders and individuals. It operates through commercial bank branches, mortgage offices, and loan production office. Capital Bancorp, Inc. was founded in 1974 and is headquartered in Rockville, Maryland.
+fullTimeEmployees§270
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward F. Barry', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 764095, 'exercisedValue': 0, 'unexercisedValue': 316500}, {'maxAge': 1, 'name': 'Mr. Jennings  Walker', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Constance E. Egan CPA', 'age': 62, 'title': 'Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacob  Dalaya', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.013099999
+exDividendDate§1698969600
+payoutRatio§0.103199996
+beta§0.432
+priceToSalesTrailing12Months§2.1507185
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.49
+exchange§NMS
+quoteType§EQUITY
+shortName§Capital Bancorp, Inc.
+longName§Capital Bancorp, Inc.
+firstTradeDateEpochUtc§1537968600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§98fafb77-3c14-3092-8390-87519d7153a0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§22.0
+targetMeanPrice§25.4
+targetMedianPrice§26.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.091
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

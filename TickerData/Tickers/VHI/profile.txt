@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 02:34:10.112918
+address1§5430 LBJ Freeway
+address2§Suite 1700
+city§Dallas
+state§TX
+zip§75240-2620
+country§United States
+phone§972 233 1700
+website§https://www.valhi.net
+industry§Chemicals
+sector§Basic Materials
+longBusinessSummary§Valhi, Inc. engages in the chemicals, component products, and real estate management and development businesses in the Asia Pacific, Europe, North America, and internationally. The company's Chemicals segment produces and markets titanium dioxide pigments (TiO2), which are white inorganic pigments used in various applications by paint, plastics, decorative laminate, and paper manufacturers. It offers TiO2 under the KRONOS name through agents and distributors. The company's Component Products segment manufactures mechanical and electrical cabinet locks, and other locking mechanisms for use in ignition systems, mailboxes, file cabinets, desk drawers, tool storage cabinets, vending and cash containment machines, integrated inventory and access control secured narcotics boxes, medical cabinetry security, electronic circuit panels, storage compartments, and gas station security applications. It also provides stainless steel exhaust components, gauges, throttle controls, wake enhancement systems, trim tabs, and related hardware and accessories primarily for performance and ski/wakeboard boats. The company's Real Estate Management and Development segment offers utility services to industrial and municipal customers; owns real properties; and develops land holdings for commercial, industrial, and residential purposes. It also holds marketable securities and other investments. The company was incorporated in 1932 and is based in Dallas, Texas. Valhi, Inc. is a subsidiary of Contran Corporation.
+fullTimeEmployees§2899
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael S. Simmons', 'age': 51, 'title': 'President, CEO & Vice Chairman', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1041000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Allbach Samford', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 973000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew B. Nace', 'age': 58, 'title': 'Executive VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1124000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Courtney J. Riley', 'age': 57, 'title': 'Executive Vice President', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1282000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John A. Sunny', 'age': 60, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 858000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan A. Hanley', 'age': 42, 'title': 'Senior VP & Treasurer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin B. McCoy', 'age': 50, 'title': 'Executive Vice President of Tax', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane R. Grimm', 'age': 51, 'title': 'VP, Secretary & Associate General Counsel', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patty S. Brinda', 'age': 60, 'title': 'VP & Controller', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.020599999
+exDividendDate§1701302400
+payoutRatio§1.3333
+fiveYearAvgDividendYield§2.89
+beta§1.651
+priceToSalesTrailing12Months§0.23491867
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.66
+pegRatio§-3.59
+exchange§NYQ
+quoteType§EQUITY
+shortName§Valhi, Inc.
+longName§Valhi, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§336f8aa2-5fe0-30ac-889f-094245b42799
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.879
+grossMargins§0.12441
+ebitdaMargins§0.00556
+trailingPegRatio§None

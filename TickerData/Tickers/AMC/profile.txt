@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 23:26:35.243538
+address1§One AMC Way
+address2§11500 Ash Street
+city§Leawood
+state§KS
+zip§66211
+country§United States
+phone§913 213 2000
+website§https://www.amctheatres.com
+industry§Entertainment
+industryKey§entertainment
+industryDisp§Entertainment
+sector§Communication Services
+sectorKey§communication-services
+sectorDisp§Communication Services
+longBusinessSummary§AMC Entertainment Holdings, Inc., through its subsidiaries, engages in the theatrical exhibition business. The company owns, operates, or has interests in theatres in the United States and Europe. AMC Entertainment Holdings, Inc. was founded in 1920 and is headquartered in Leawood, Kansas.
+fullTimeEmployees§2787
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adam M. Aron', 'age': 68, 'title': 'Chairman, President & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 7522106, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean D. Goodman', 'age': 58, 'title': 'Executive VP of International Operations, CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2865554, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel E. Ellis J.D.', 'age': 54, 'title': 'Executive VP & Chief Operations and Development Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1295104, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin M. Connor Esq.', 'age': 60, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1231134, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth Furst Frank', 'age': 54, 'title': 'Executive VP of Worldwide Programming & Chief Content Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1300956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris A. Cox', 'age': 57, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John C. Merriwether', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ellen  Copaken', 'title': 'Senior Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carla C. Chavarria CBP, CCP, PHR', 'age': 57, 'title': 'Senior VP & Chief HR Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Jonathan Way', 'title': 'President of AMC Europe', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1583452800
+payoutRatio§0.0
+fiveYearAvgDividendYield§6.02
+beta§1.811
+priceToSalesTrailing12Months§0.27280384
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.6
+pegRatio§0.01
+lastDividendValue§0.03
+lastDividendDate§1583452800
+exchange§NYQ
+quoteType§EQUITY
+shortName§AMC Entertainment Holdings, Inc
+longName§AMC Entertainment Holdings, Inc.
+firstTradeDateEpochUtc§1387377000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7c52ed5b-8820-37df-990b-5a784bac64b3
+messageBoardId§finmb_34874958
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.0
+targetMeanPrice§7.35
+targetMedianPrice§6.0
+recommendationMean§3.6
+recommendationKey§underperform
+numberOfAnalystOpinions§5
+quickRatio§0.565
+grossMargins§0.14545
+ebitdaMargins§0.07853
+trailingPegRatio§None

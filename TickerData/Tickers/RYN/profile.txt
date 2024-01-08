@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 19:32:55.802980
+address1§1 Rayonier Way
+address2§Wildlight
+city§Yulee
+state§FL
+zip§32097-0002
+country§United States
+phone§904 357 9100
+fax§904 357 9851
+website§https://www.rayonier.com
+industry§REIT—Specialty
+sector§Real Estate
+longBusinessSummary§Rayonier is a leading timberland real estate investment trust with assets located in some of the most productive softwood timber growing regions in the United States and New Zealand. As of September 30, 2023, Rayonier owned or leased under long-term agreements approximately 2.8 million acres of timberlands located in the U.S. South (1.90 million acres), U.S. Pacific Northwest (474,000 acres) and New Zealand (419,000 acres).
+fullTimeEmployees§419
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David L. Nunes', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2413339, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark D. McHugh', 'age': 47, 'title': 'President & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1164689, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark R. Bridwell', 'age': 61, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 700918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas M. Long', 'age': 52, 'title': 'Executive VP & Chief Resource Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 973802, 'exercisedValue': 5494, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Rhett Rogers', 'age': 46, 'title': 'Senior Vice President of Portfolio Management', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 732859, 'exercisedValue': 0, 'unexercisedValue': 2796}, {'maxAge': 1, 'name': 'Ms. April J. Tice', 'age': 49, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelby L. Pyatt', 'age': 52, 'title': 'Senior Vice President of Human Resources & Information Technology', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 349156, 'exercisedValue': 0, 'unexercisedValue': 781}, {'maxAge': 1, 'name': 'Mr. Christopher T. Corr', 'age': 59, 'title': 'Senior Vice President of Real Estate Development', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 571795, 'exercisedValue': 0, 'unexercisedValue': 10983}, {'maxAge': 1, 'name': 'Mr. Collin Philip Mings C.F.A.', 'title': 'Vice President of Capital Markets & Strategic Planning', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.14
+dividendYield§0.0349
+exDividendDate§1703721600
+payoutRatio§2.1509
+fiveYearAvgDividendYield§3.48
+beta§1.073
+priceToSalesTrailing12Months§5.902002
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.46
+pegRatio§19.78
+exchange§NYQ
+quoteType§EQUITY
+shortName§Rayonier Inc. REIT
+longName§Rayonier Inc.
+firstTradeDateEpochUtc§761495400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ce162a3a-3375-3e92-b9e0-bf17bd793bd7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§31.0
+targetMeanPrice§33.4
+targetMedianPrice§34.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.348
+earningsGrowth§-0.075
+grossMargins§0.23084
+ebitdaMargins§0.32351002
+trailingPegRatio§10.683

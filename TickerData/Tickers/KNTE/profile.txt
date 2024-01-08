@@ -1,0 +1,48 @@
+# reload+after+2024-01-19 21:45:39.737290
+address1§103 Montgomery Street
+address2§Suite 150 The Presidio of San Francisco
+city§San Francisco
+state§CA
+zip§94129
+country§United States
+phone§858 299 4699
+website§https://www.kinnate.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kinnate Biopharma Inc., a clinical-stage oncology company, focuses on the discovery and development of small molecule kinase inhibitors to treat genomically defined cancers in the United States. The company develops KIN-2787, a rapidly accelerated fibrosarcoma inhibitor for the treatment of patients with lung cancer, melanoma, and other solid tumors; KIN-3248 small-molecule kinase inhibitors that target cancer-associated alterations in fibroblast growth factor receptors FGFR2 and FGFR3 genes; and small molecule research programs, including Cyclin-Dependent Kinase 12(CDK12) inhibitor in its KIN004 program. The company was incorporated in 2018 and is headquartered in San Francisco, California. Kinnate Biopharma Inc. is a former subsidiary of Fount Therapeutics, LLC.
+fullTimeEmployees§84
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nima  Farzan M.B.A.', 'age': 47, 'title': 'President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 891954, 'exercisedValue': 0, 'unexercisedValue': 3230306}, {'maxAge': 1, 'name': 'Ms. Neha  Krishnamohan', 'age': 36, 'title': 'CFO, Principal Accounting Officer and Executive VP of Corporate Development', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 548950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Meltz', 'age': 49, 'title': 'COO, General Counsel, Treasurer & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 671864, 'exercisedValue': 0, 'unexercisedValue': 938185}, {'maxAge': 1, 'name': 'Dr. Richard Thomas Williams MBBS, Ph.D.', 'age': 54, 'title': 'Chief Medical Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert  Kania Ph.D.', 'title': 'Senior Vice President of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.333
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.36
+exchange§NMS
+quoteType§EQUITY
+shortName§Kinnate Biopharma Inc.
+longName§Kinnate Biopharma Inc.
+firstTradeDateEpochUtc§1607005800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§855105e2-a924-3604-af58-829eb0836a45
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§1.5
+targetMeanPrice§2.7
+targetMedianPrice§2.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§10.624
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

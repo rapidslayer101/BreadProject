@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 11:44:17.468046
+address1§40 Guest Street
+city§Boston
+state§MA
+zip§02135
+country§United States
+phone§617 949 2680
+website§https://www.cuebiopharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cue Biopharma, Inc., a clinical-stage biopharmaceutical company, develops injectable biologics to selectively engage and modulate tumor-specific T cells within the body to treat a range of cancers, chronic infectious diseases, and autoimmune diseases. Its lead drug product candidate is CUE-101, a fusion protein biologic designed to target and activate antigen-specific T cells for human papilloma virus-driven cancers. The company is also developing CUE-102 targets Wilms' Tumor 1 protein in various cancers; CUE-103, a CUE-100 series drug product candidate with Immuno-STAT targeting the KRAS G12V mutation, as well as cancer antigen MAGE-A4; and Neo-STAT and RDI-STAT programs outside of oncology, including CUE-200, CUE-300, and CUE-400 series. It has collaboration agreements with Merck Sharp & Dohme Corp. for the research and development of its proprietary biologics that target various autoimmune disease indications; and LG Chem, Ltd. for the development of Immuno-STATs focused in the field of oncology. The company was formerly known as Imagen Biopharma, Inc. and changed its name to Cue Biopharma, Inc. in October 2016. Cue Biopharma, Inc. was incorporated in 2014 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel R. Passeri J.D., M.Sc.', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 985720, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Anish  Suri Ph.D.', 'age': 49, 'title': 'President & Chief Scientific Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 641980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerri-Ann  Millar', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 559035, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ronald D. Seidel III, Ph.D.', 'age': 47, 'title': 'Co-Founder', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 316628, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rodolfo J. Chaparro', 'age': 50, 'title': 'Co-Founder & Senior Advisor', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 316628, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven C. Almo', 'age': 62, 'title': 'Co-Founder and Chairman of Scientific & Clinical Advisory Board', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'George B. Zavoico Ph.D.', 'title': 'VP of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colin G. Sandercock J.D., MSE', 'age': 66, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 381424, 'exercisedValue': 0, 'unexercisedValue': 1524719}, {'maxAge': 1, 'name': 'Dr. Matteo  Levisetti M.D.', 'age': 54, 'title': 'Chief Medical Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.11
+priceToSalesTrailing12Months§30.9466
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.09
+exchange§NCM
+quoteType§EQUITY
+shortName§Cue Biopharma, Inc.
+longName§Cue Biopharma, Inc.
+firstTradeDateEpochUtc§1514903400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§13b1e122-c7bb-3180-b359-74c89c132432
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§8.0
+targetMeanPrice§10.25
+targetMedianPrice§9.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§3.275
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

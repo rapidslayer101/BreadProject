@@ -1,0 +1,47 @@
+# reload+after+2024-01-23 06:33:29.225251
+address1§Le Millenium
+address2§9, Boulevard Charles III
+city§Monaco
+zip§98000
+country§Monaco
+phone§377 9798 5716
+website§https://www.scorpiotankers.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Scorpio Tankers Inc., together with its subsidiaries, engages in the seaborne transportation of refined petroleum products in the shipping markets worldwide. As of March 23, 2023, its fleet consisted of 113 owned, finance leased, or bareboat chartered-in tankers, including 39 LR2, 60 MR, and 14 Handymax with a weighted average age of approximately 7.2 years. The company was incorporated in 2009 and is headquartered in Monaco.
+fullTimeEmployees§24
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Emanuele A. Lauro', 'age': 44, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Bugbee', 'age': 63, 'title': 'President & Director', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Avella', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron  Mackey', 'age': 55, 'title': 'COO & Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Doyle', 'title': 'Head of Corporate Development & Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sujata Parekh Kumar', 'age': 64, 'title': 'MD & Director', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Auste  Vizbaraite', 'age': 33, 'title': 'Secretary', 'yearBorn': 1990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lars Dencker Nielsen', 'title': 'Commercial Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Rodney Morant', 'title': 'Managing Director - Scorpio UK', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.0216
+exDividendDate§1701216000
+payoutRatio§0.0669
+fiveYearAvgDividendYield§1.91
+beta§0.218
+priceToSalesTrailing12Months§2.2916923
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.95
+pegRatio§-0.14
+exchange§NYQ
+quoteType§EQUITY
+shortName§Scorpio Tankers Inc.
+longName§Scorpio Tankers Inc.
+firstTradeDateEpochUtc§1270042200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1adc1cf2-cabe-3d6d-a090-9cfc27326909
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§85.0
+targetLowPrice§58.0
+targetMeanPrice§75.08
+targetMedianPrice§76.45
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.789
+earningsGrowth§-0.552
+grossMargins§0.75825995
+ebitdaMargins§0.65465
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 11:35:34.623510
+address1§Tower 2
+address2§3rd Floor Hyatt Regency Business Centre 2 Izmir Street
+city§Baku
+zip§1065
+country§Azerbaijan
+phone§994 12 310 3993
+website§https://www.angloasianmining.com
+industry§Gold
+industryKey§gold
+industryDisp§Gold
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Anglo Asian Mining PLC, together with its subsidiaries, engages in the exploration and production of gold, copper, silver, and precious metal properties in Azerbaijan. Anglo Asian Mining PLC was incorporated in 2004 and is based in Baku, Azerbaijan.
+fullTimeEmployees§950
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mohammed Reza Vaziri', 'age': 70, 'title': 'CEO, President & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 521268, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Roy Morgan', 'title': 'CFO & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.109799996
+exDividendDate§1687996800
+payoutRatio§9.1195
+fiveYearAvgDividendYield§5.61
+beta§1.227
+priceToSalesTrailing12Months§0.78922474
+currency§GBp
+forwardEps§0.13
+lastDividendValue§3.1421
+lastDividendDate§1687996800
+exchange§LSE
+quoteType§EQUITY
+shortName§ANGLO ASIAN MINING PLC ORD 1P
+longName§Anglo Asian Mining PLC
+firstTradeDateEpochUtc§1122620400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e75bb1dd-c320-3e7f-ba91-fe6f68bcbc8d
+messageBoardId§finmb_23107442
+targetHighPrice§2.03
+targetLowPrice§2.03
+targetMeanPrice§2.03
+targetMedianPrice§2.03
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.969
+earningsGrowth§-0.766
+grossMargins§0.12161
+ebitdaMargins§0.24205999
+trailingPegRatio§None

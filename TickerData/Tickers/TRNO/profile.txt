@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 15:33:49.219370
+address1§10500 NE 8th Street
+address2§Suite 301
+city§Bellevue
+state§WA
+zip§98004-8617
+country§United States
+phone§(415) 655-4580
+fax§(415) 655-4599
+website§https://www.terreno.com
+industry§REIT—Industrial
+sector§Real Estate
+longBusinessSummary§Terreno Realty Corporation ("Terreno", and together with its subsidiaries, "we", "us", "our", "our Company", or "the Company") acquires, owns and operates industrial real estate in six major coastal U.S. markets: Los Angeles, Northern New Jersey/New York City, San Francisco Bay Area, Seattle, Miami, and Washington, D.C. We invest in several types of industrial real estate, including warehouse/distribution (approximately 76.3% of our total annualized base rent as of September 30, 2023), flex (including light industrial and research and development, or R&D) (approximately 3.8%), transshipment (approximately 6.7%) and improved land (approximately 13.2%). We target functional properties in infill locations that may be shared by multiple tenants and that cater to customer demand within the various submarkets in which we operate. Infill locations are geographic locations surrounded by high concentrations of already developed land and existing buildings. As of September 30, 2023, we owned a total of 257 buildings aggregating approximately 15.8 million square feet, 46 improved land parcels (including one improved land parcel held for sale) consisting of approximately 165.8 acres, eight properties under development or redevelopment and approximately 62.7 acres of land entitled for future development. As of September 30, 2023, our buildings and improved land parcels were approximately 98.3% and 96.3% leased, respectively, to 563 customers, the largest of which accounted for approximately 3.6% of our total annualized base rent.
+fullTimeEmployees§40
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. W. Blake Baird', 'age': 62, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 809150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Coke CPA', 'age': 55, 'title': 'Co-Founder, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 809150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jaime Jackson Cannon', 'age': 48, 'title': 'Executive VP, CFO, Head of Investor Relations & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 776650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Tull Meyer', 'age': 63, 'title': 'Executive Vice President', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 776650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melinda E. Weston', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.8
+dividendYield§0.0291
+exDividendDate§1702512000
+payoutRatio§0.8684
+fiveYearAvgDividendYield§2.1
+beta§0.848
+priceToSalesTrailing12Months§16.855585
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.5
+pegRatio§4.16
+exchange§NYQ
+quoteType§EQUITY
+shortName§Terreno Realty Corporation
+longName§Terreno Realty Corporation
+firstTradeDateEpochUtc§1265812200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2ba70d4d-a2fb-3e53-8abb-1c51c24d6308
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§80.0
+targetLowPrice§52.0
+targetMeanPrice§65.29
+targetMedianPrice§64.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§1.375
+earningsGrowth§0.213
+grossMargins§0.7587
+ebitdaMargins§0.59089
+trailingPegRatio§None

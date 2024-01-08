@@ -1,0 +1,54 @@
+# reload+after+2024-01-24 00:32:49.522514
+address1§Renaissance House
+address2§12 Crow Lane
+city§Pembroke
+zip§HM 19
+country§Bermuda
+phone§441-296-4513
+fax§441-296-0043
+website§https://www.renre.com
+industry§Insurance—Reinsurance
+sector§Financial Services
+longBusinessSummary§RenaissanceRe Holdings Ltd., together with its subsidiaries, provides reinsurance and insurance products in the United States and internationally. The company operates through Property, and Casualty and Specialty segments. The Property segment writes property catastrophe excess of loss reinsurance and excess of loss reinsurance to insure insurance and reinsurance companies against natural and man-made catastrophes, including hurricanes, earthquakes, typhoons, and tsunamis, as well as winter storms, freezes, floods, fires, windstorms, tornadoes, explosions, and acts of terrorism; and other property class of products, such as proportional reinsurance, property per risk, property reinsurance, binding facilities, and regional U.S. multi-line reinsurance. The Casualty and Specialty segment writes various classes of products, such as directors and officers, medical malpractice, and professional indemnity; automobile and employer's liability, casualty clash, umbrella or excess casualty, workers' compensation, and general liability; financial and mortgage guaranty, political risk, surety, and trade credit; and accident and health, agriculture, aviation, cyber, energy, marine, satellite, and terrorism. The company distributes its products and services primarily through intermediaries. It also invests in and manages funds. RenaissanceRe Holdings Ltd. was founded in 1993 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§718
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Kevin Joseph O'Donnell", 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 5115872, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Qutub', 'age': 61, 'title': 'Executive VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2360682, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean G. Brosnan C.F.A.', 'age': 47, 'title': 'Chief Investment Officer & Senior VP', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1356762, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross Arthur Curtis', 'age': 50, 'title': 'Executive VP & Chief Portfolio Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2152191, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Christopher Fraser', 'age': 47, 'title': 'Chief Accounting Officer & Senior VP', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Blythe  Walker', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith Alfred McCue', 'title': 'Senior Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon Lowry Bender', 'age': 56, 'title': 'Executive VP, Group General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Keil  Gunther', 'age': 50, 'title': 'Senior VP, Head of Global Marketing & Client Communications', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Becket  McNab', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.52
+dividendYield§0.0076
+exDividendDate§1702512000
+payoutRatio§0.0496
+fiveYearAvgDividendYield§0.85
+beta§0.311
+priceToSalesTrailing12Months§1.3257613
+currency§USD
+dateShortInterest§1702598400
+forwardEps§32.09
+pegRatio§0.09
+exchange§NYQ
+quoteType§EQUITY
+shortName§RenaissanceRe Holdings Ltd.
+longName§RenaissanceRe Holdings Ltd.
+firstTradeDateEpochUtc§806851800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1ff189d9-de80-38d4-8260-aac834cc7001
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§287.0
+targetLowPrice§200.0
+targetMeanPrice§244.7
+targetMedianPrice§244.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.162
+grossMargins§0.35876998
+ebitdaMargins§0.0
+trailingPegRatio§None

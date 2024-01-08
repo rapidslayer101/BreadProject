@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 14:31:01.773252
+address1§3501 County Road 6 East
+city§Elkhart
+state§IN
+zip§46514
+country§United States
+phone§574 535 1125
+website§https://www.lci1.com
+industry§Recreational Vehicles
+sector§Consumer Cyclical
+longBusinessSummary§LCI Industries, together with its subsidiaries, manufactures and supplies components for the manufacturers of recreational vehicles (RVs) and adjacent industries in the United States and internationally. It operates in two segments, Original Equipment Manufacturers (OEM) and Aftermarket. The OEM segment manufactures and distributes a range of engineered components, such as steel chassis and related components; axles and suspension solutions; slide-out mechanisms and solutions; thermoformed bath, kitchen, and other products; vinyl, aluminum, and frameless windows; manual, electric, and hydraulic stabilizer and leveling systems; entry, luggage, patio, and ramp doors; furniture and mattresses; electric and manual entry steps; awnings and awning accessories; electronic components; appliances; air conditioners; televisions and sound systems; tankless water heaters; towing products; truck accessories; and other accessories. This segment serves OEMs of RVs and adjacent industries, including buses; trailers used to haul boats, livestock, equipment, and other cargo; trucks; boats; trains; manufactured homes; and modular housing, as well as travel trailers, fifth-wheel travel trailers, folding camping trailers, and truck campers. The Aftermarket segment supplies various components of RV and adjacent industries to retail dealers, wholesale distributors, and service centers. This segment also sells replacement glass and awnings to fulfill insurance claims; and biminis, covers, buoys, and fenders to the marine industry. The company was formerly known as Drew Industries Incorporated and changed its name to LCI Industries in December 2016. LCI Industries was incorporated in 1984 and is based in Elkhart, Indiana.
+fullTimeEmployees§12900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason D. Lippert', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 4011108, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew J. Namenye', 'age': 42, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1289777, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamie M. Schnur', 'age': 51, 'title': 'Group President of Aftermarket', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1918574, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan Richard Smith', 'age': 39, 'title': 'Group President of North America', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 3725288, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lillian D. Etzkorn', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kip A. Emenhiser', 'age': 49, 'title': 'VP of Finance, Corporate Controller, Principal Accounting Officer & Treasurer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Murray', 'title': 'Chief Sales Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick C. Fletcher', 'age': 63, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 701912, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.2
+dividendYield§0.0353
+exDividendDate§1701302400
+payoutRatio§2.1538
+fiveYearAvgDividendYield§2.89
+beta§1.447
+priceToSalesTrailing12Months§0.7853269
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.12
+pegRatio§1.98
+exchange§NYQ
+quoteType§EQUITY
+shortName§LCI Industries
+longName§LCI Industries
+firstTradeDateEpochUtc§486221400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cbbf592e-bf70-3ff3-823d-92f71a5aa4b9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§148.0
+targetLowPrice§91.0
+targetMeanPrice§116.89
+targetMedianPrice§115.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.894
+earningsGrowth§-0.575
+grossMargins§0.19837
+ebitdaMargins§0.05983
+trailingPegRatio§None

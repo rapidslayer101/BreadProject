@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 05:29:16.443466
+address1§Camwal Court
+address2§Unit 1 Chapel Street
+city§Bristol
+zip§BS2 0UW
+country§United Kingdom
+phone§44 11 7457 2094
+website§https://www.vertical-aerospace.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Vertical Aerospace Ltd., an aerospace and technology company, engages in designing, manufacturing, and selling zero operating emission electric vertical takeoff and landing (eVTOL) aircraft for use in the advanced air mobility in the United Kingdom. It offers VX4, an eVTOL aircraft. The company was founded in 2016 and is headquartered in Bristol, the United Kingdom.
+fullTimeEmployees§316
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Cervenka', 'age': 47, 'title': 'Chief Technology Officer', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Fitzpatrick', 'age': 46, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Simpson', 'title': 'CFO & Principal Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo Dominguez Puerta', 'age': 44, 'title': 'Chief Operating Officer', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sanjay  Verma', 'title': 'General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Cotton', 'title': 'Head of Independent Systems Monitoring', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andrew  Macmillian', 'title': 'Chief Commercial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  King', 'age': 57, 'title': 'Chief Engineer', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.342
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.35
+pegRatio§1809.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Vertical Aerospace Ltd.
+longName§Vertical Aerospace Ltd.
+firstTradeDateEpochUtc§1604327400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ad1b6db-8dd6-3c9a-b3cb-adc83c1a6a18
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.0
+targetLowPrice§0.75
+targetMeanPrice§0.92
+targetMedianPrice§1.0
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§5.396
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

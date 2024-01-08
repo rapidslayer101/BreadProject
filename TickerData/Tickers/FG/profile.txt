@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 12:29:25.621446
+address1§801 Grand Avenue
+address2§Suite 2600
+city§Des Moines
+state§IA
+zip§50309
+country§United States
+phone§515 330 3340
+website§https://www.fglife.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§F&G Annuities & Life, Inc. provides fixed annuities and life insurance products in the United States. It serves retail annuity and life customers, as well as institutional clients. The company portfolio includes fixed indexed annuities, multi-year guarantee annuities, and pension risk transfer solution, as well as indexed universal life insurance and institutional funding agreements. It serves retail annuity and life customers, as well as institutional clients. The company was founded in 1959 and is headquartered in Des Moines, Iowa. F&G Annuities & Life, Inc. operates as a subsidiary of Fidelity National Financial, Inc.
+fullTimeEmployees§880
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Patrick Foley II', 'age': 78, 'title': 'Executive Chairman of the Board', 'yearBorn': 1945, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Owsley Blunt', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4204176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy J.B. Young', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1467295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John David Currier Jr.', 'age': 52, 'title': 'President of Retail Markets', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1534574, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Eric Christensen', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leena  Punjabi C.F.A.', 'age': 44, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ted  Hughes', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Foxworthy-Parker', 'title': 'Senior Vice President of Investor & External Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodi Lynn Ahlman', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Renee  Hamlen', 'title': 'Chief Human Capital & Brand Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.84
+dividendYield§0.0196
+exDividendDate§1702512000
+payoutRatio§0.5378
+priceToSalesTrailing12Months§1.5116763
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.58
+pegRatio§-8.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§F&G Annuities & Life, Inc.
+longName§F&G Annuities & Life, Inc.
+firstTradeDateEpochUtc§1669127400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2a5271c1-1849-3b7b-b227-4dd278a033ba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§47.0
+targetMeanPrice§47.5
+targetMedianPrice§47.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.174
+earningsGrowth§0.638
+grossMargins§0.25541002
+ebitdaMargins§-0.01264
+trailingPegRatio§None

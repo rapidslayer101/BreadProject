@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 19:45:55.636642
+address1§645 Summer Street
+city§Boston
+state§MA
+zip§02210
+country§United States
+phone§857 254 1500
+website§https://www.908devices.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§908 Devices Inc., a commercial-stage technology company, provides various purpose-built handheld and desktop mass spectrometry (Mass Spec) devices to interrogate unknown and invisible materials in life sciences research, bioprocessing, industrial biotech, forensics, and adjacent markets. The company's products include MX908, a handheld, battery-powered, and Mass Spec device that is designed for rapid analysis of gas, liquid, and solid materials of unknown identity; Rebel, a small desktop analyzer that provides real-time information on the extracellular environment in bioprocesses; Maven and Trace C2, an online device for bioprocess monitoring and control; and ZipChip solution, a plug-and-play, high-resolution separation platform that optimizes Mass Spec sample analysis. It operates in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. 908 Devices Inc. was incorporated in 2012 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§227
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Kevin J. Knopp Ph.D.', 'age': 50, 'title': 'Co-Founder, CEO, President & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 788885, 'exercisedValue': 0, 'unexercisedValue': 1678631}, {'maxAge': 1, 'name': 'Dr. Christopher David Brown Ph.D.', 'age': 48, 'title': 'Co-Founder, Chief Product Officer & Member of Scientific Advisory Board', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 459697, 'exercisedValue': 0, 'unexercisedValue': 1222249}, {'maxAge': 1, 'name': 'Mr. Joseph H. Griffith IV', 'age': 48, 'title': 'CFO & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 468978, 'exercisedValue': 0, 'unexercisedValue': 275629}, {'maxAge': 1, 'name': 'Mr. Steve  Araiza', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Bartfay', 'title': 'Co-Founder & Director of Hardware Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Jobin', 'title': 'Co-Founder & Director of Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Scott  Miller Ph.D.', 'title': 'Co-founder & Director of MS Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Turner Esq., J.D.', 'age': 56, 'title': 'Chief Legal & Administrative Officer and Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 97836, 'exercisedValue': 0, 'unexercisedValue': 125640}, {'maxAge': 1, 'name': 'Mr. Don  Osmer', 'age': 58, 'title': 'Vice President of Human Resources', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.935
+priceToSalesTrailing12Months§5.846103
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.16
+exchange§NGM
+quoteType§EQUITY
+shortName§908 Devices Inc.
+longName§908 Devices Inc.
+firstTradeDateEpochUtc§1608301800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cb6c2c4b-3c8f-35f9-b58a-d13f0a97245d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§14.0
+targetMeanPrice§14.5
+targetMedianPrice§14.5
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§7.203
+grossMargins§0.50439
+ebitdaMargins§-0.85209
+trailingPegRatio§None

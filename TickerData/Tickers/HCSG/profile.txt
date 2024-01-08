@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 07:45:11.188890
+address1§3220 Tillman Drive
+address2§Suite 300
+city§Bensalem
+state§PA
+zip§19020
+country§United States
+phone§215 639 4274
+website§https://www.hcsgcorp.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Healthcare Services Group, Inc. provides management, administrative, and operating services to the housekeeping, laundry, linen, facility maintenance, and dietary service departments of nursing homes, retirement complexes, rehabilitation centers, and hospitals in the United States. It operates through two segments, Housekeeping and Dietary. The Housekeeping segment engages in the cleaning, disinfecting, and sanitizing of resident rooms and common areas of the customers' facilities, as well as laundering and processing of the bed linens, uniforms, resident personal clothing, and other assorted linen items utilized at the customers' facilities. The Dietary segment provides food purchasing, meal preparation, and professional dietitian services, which include the development of menus that meet the dietary needs of residents. This segment also offers on-site management and clinical consulting services to facilities. Healthcare Services Group, Inc. was incorporated in 1976 and is based in Bensalem, Pennsylvania.
+fullTimeEmployees§35700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Theodore  Wahl CPA', 'age': 49, 'title': 'President, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1388932, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew W. Kush AAI', 'age': 45, 'title': 'Executive VP & COO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 764228, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew M. Brophy CPA', 'age': 33, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 285438, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Christopher Shea CPA, M.B.A.', 'age': 51, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 694675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick J. Orr Esq.', 'age': 48, 'title': 'EVP & Chief Revenue Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 616291, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason J. Bundick Esq.', 'age': 46, 'title': 'Executive VP, Chief Compliance Officer, General Counsel & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 490246, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew J. McKee MBA', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan D. McCartney', 'age': 62, 'title': 'Executive Vice President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1002592, 'exercisedValue': 0, 'unexercisedValue': 1967865}]
+auditRisk§7
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1668643200
+payoutRatio§0.5
+fiveYearAvgDividendYield§3.83
+beta§0.421
+priceToSalesTrailing12Months§0.44444528
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.72
+pegRatio§3.08
+exchange§NMS
+quoteType§EQUITY
+shortName§Healthcare Services Group, Inc.
+longName§Healthcare Services Group, Inc.
+firstTradeDateEpochUtc§438964200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4172e973-0f5d-3699-8db4-0496c14f9504
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§10.0
+targetMeanPrice§12.75
+targetMedianPrice§12.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§2.611
+grossMargins§0.11875
+ebitdaMargins§0.02792
+trailingPegRatio§1.5968

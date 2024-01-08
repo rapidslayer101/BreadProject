@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 16:36:02.780278
+address1§Brockbourne House
+address2§77 Mount Ephraim
+city§Tunbridge Wells
+zip§TN4 8BS
+country§United Kingdom
+phone§44 1892 542 444
+fax§44 1892 510 441
+website§https://www.crimsontide.co.uk
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Crimson Tide plc provides mobility solutions and related software development services primarily in the United Kingdom and Ireland. It provides mpro5, a mobile business solution that provides software, Windows Azure cloud infrastructure, and installation and support, as well as job scheduling, alerting, and reporting services. The company is also involved in reselling third party software, and related development and support services. Crimson Tide plc was incorporated in 1911 and is based in Tunbridge Wells, the United Kingdom.
+fullTimeEmployees§52
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Barrie Reginald John Whipp', 'age': 62, 'title': 'Founder & Executive Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 197560, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqueline Karen Daniell', 'age': 62, 'title': 'Group CEO & Deputy Chair', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 257707, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke Anthony Jeffrey', 'age': 40, 'title': 'Product Director & Executive Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 122862, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shaun Robert Mullen', 'age': 47, 'title': 'Finance Director, Company Secretary & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Meyers', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Miller', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephen  Logue', 'title': 'Head of Sales-Ireland', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark L. Self', 'title': 'President & CEO of mpro5 North America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel John Roberts', 'age': 48, 'title': 'Director of Enterprise Sales', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 110679, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§836784000
+payoutRatio§0.0
+beta§0.795
+priceToSalesTrailing12Months§1.7872353
+currency§GBp
+forwardEps§4.2
+lastDividendValue§7.714264
+lastDividendDate§836784000
+exchange§LSE
+quoteType§EQUITY
+shortName§CRIMSON TIDE PLC ORD 10P
+longName§Crimson Tide plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5e66b0b3-8b0d-309f-9fd4-1b0918e12493
+messageBoardId§finmb_28388361
+targetHighPrice§500.0
+targetLowPrice§500.0
+targetMeanPrice§500.0
+targetMedianPrice§500.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§2.666
+grossMargins§0.83526003
+ebitdaMargins§-0.14547
+trailingPegRatio§None

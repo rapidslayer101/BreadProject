@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 07:45:13.911546
+address1§1016 Civic Center Drive Northwest
+city§Rochester
+state§MN
+zip§55901
+country§United States
+phone§507 535 1200
+fax§507 252 7140
+website§https://www.justcallhome.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§HMN Financial, Inc. operates as a bank holding company for Home Federal Savings Bank that provides various retail banking products and services. The company offers various deposit accounts, such as savings, interest bearing checking, non-interest bearing checking, money market, and certificate accounts. Its loan products include single family residential loans; commercial real estate and multi-family mortgage loans; construction loans; consumer loans, such as home equity, automobile, recreational vehicle, mobile home, and lot loans, as well as loans secured by deposit accounts, and other loans for household and personal purposes; and commercial business loans. The company also offers financial planning products and services; and invests in mortgage-backed and related securities, the United States government agency obligations, and other permissible investments. HMN Financial, Inc. was founded in 1934 and is headquartered in Rochester, Minnesota.
+fullTimeEmployees§159
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bradley C. Krehbiel', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 439130, 'exercisedValue': 0, 'unexercisedValue': 235067}, {'maxAge': 1, 'name': 'Mr. Jon J. Eberle', 'age': 57, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 305798, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence D. McGraw', 'age': 59, 'title': 'Executive VP & COO of Home Federal Savings Bank', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 304367, 'exercisedValue': 0, 'unexercisedValue': 111673}, {'maxAge': 1, 'name': 'Ms. Cindy K. Hamlin', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0138
+exDividendDate§1700006400
+payoutRatio§0.175
+fiveYearAvgDividendYield§5.76
+beta§0.181
+priceToSalesTrailing12Months§2.612859
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§HMN Financial, Inc.
+longName§HMN Financial, Inc.
+firstTradeDateEpochUtc§772983000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§854e75e0-eb89-3754-977b-d914a1f4e686
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.19
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

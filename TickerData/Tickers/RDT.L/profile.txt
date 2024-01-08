@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 16:40:17.605784
+address1§60 Gracechruch Street
+address2§6th Floor
+city§London
+zip§EC3V 0HR
+country§United Kingdom
+phone§44 20 3285 8008
+website§https://www.rosslyndatatech.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Rosslyn Data Technologies plc engages in the development and provision of data analytics software, data capture, data mining, and workflow management in the United Kingdom, Europe, and the United States. It offers Rosslyn Spend Management that enables businesses to automatically aggregate, enhance, and organize structured and unstructured data; Spend Analytics, a navigation and dashboard solution; Supplier Information Management platform for analysis gaps in the procurement provision; and Supplier Performance Management for identifying areas of potential risk within the supply chain and increase procurement's contribution to profitability. The company also offers Contract Management platform, which links the contracts with spend data, supplier performance scorecards, and other to provide visibility of the supply base. Rosslyn Data Technologies plc was founded in 2005 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul  Watts', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 199000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward James Riddell', 'age': 41, 'title': 'CFO & Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Littler', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Painter', 'title': 'Head of Employee & Community Engagement', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sam  Clive', 'title': 'Head of Product Strategy & Solution Engineering', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.38
+priceToSalesTrailing12Months§0.8354748
+currency§GBp
+forwardEps§-10.7
+exchange§LSE
+quoteType§EQUITY
+shortName§ROSSLYN DATA TECHNOLOGIES PLC O
+longName§Rosslyn Data Technologies plc
+firstTradeDateEpochUtc§1398754800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§34811321-5958-3b35-bc15-18c8ed3a8e27
+targetHighPrice§25.0
+targetLowPrice§25.0
+targetMeanPrice§25.0
+targetMedianPrice§25.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.045
+grossMargins§0.34660998
+ebitdaMargins§-0.8247
+trailingPegRatio§None

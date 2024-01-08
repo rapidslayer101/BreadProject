@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 01:45:12.474535
+address1§12625 High Bluff Drive
+address2§Suite 305
+city§San Diego
+state§CA
+zip§92130
+country§United States
+phone§858 847 0656
+website§https://www.hginc.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Heritage Global Inc., together with its subsidiaries, operates as an asset services company with focus on financial and industrial asset transactions. The company provides market making, acquisitions, refurbishment, dispositions, valuations, and secured lending services. It focuses on identifying, valuing, acquiring, and monetizing underlying tangible and intangible assets. Heritage Global Inc. acts as an adviser, as well as a principal, acquiring, or brokering manufacturing facilities; surplus industrial machinery and equipment; industrial inventories; charged-off receivable portfolios; and business enterprises. The company was formerly known as Counsel RB Capital Inc. and changed its name to Heritage Global, Inc. in August 2013. Heritage Global, Inc. was incorporated in 1983 and is headquartered in San Diego, California.
+fullTimeEmployees§75
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ross M. Dove', 'age': 70, 'title': 'President, CEO & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 860195, 'exercisedValue': 0, 'unexercisedValue': 28500}, {'maxAge': 1, 'name': 'Mr. David Van Ludwig', 'age': 65, 'title': 'President of Financial Assets Division & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1112157, 'exercisedValue': 0, 'unexercisedValue': 38681}, {'maxAge': 1, 'name': 'Mr. Nicholas Kirk Dove', 'age': 33, 'title': 'President of Industrial Assets Division', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 1108525, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Cobb', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Edward Sklar', 'age': 57, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Raspina  Jannesar', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk  Dove ASA', 'age': 67, 'title': 'Founding Partner & Senior Advisor', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 406000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gina  Griffin', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.272
+priceToSalesTrailing12Months§1.7176331
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.32
+exchange§NCM
+quoteType§EQUITY
+shortName§Heritage Global Inc.
+longName§Heritage Global Inc.
+firstTradeDateEpochUtc§732897000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§be222674-898b-3270-a09f-bc98e246d1d8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§5.0
+targetMeanPrice§5.67
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.92
+earningsGrowth§-0.167
+grossMargins§0.63785
+ebitdaMargins§0.19845
+trailingPegRatio§None

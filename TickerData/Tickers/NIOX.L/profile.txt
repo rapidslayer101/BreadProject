@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 09:39:56.951935
+address1§Hayakawa Building
+address2§Edmund Halley Road The Oxford Science Park
+city§Oxford
+zip§OX4 4GB
+country§United Kingdom
+phone§44 18 6540 5560
+fax§44 70 9298 7560
+website§https://investors.niox.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§NIOX Group Plc, a diagnostics and management company, design, development, and commercialization of medical devices for the measurement of fractional exhaled nitric oxide (FeNo) worldwide. Its products include NIOX VERO, a non-invasive and point-of-care system that comprises a small portable device and a range of consumables, including sensors, individual disposable mouthpieces, and breathing handles for the measurement of FeNo in patients. The company was formerly known as Circassia Group Plc and changed its name to NIOX Group Plc in September 2022. NIOX Group Plc was incorporated in 2006 and is headquartered in Oxford, the United Kingdom.
+fullTimeEmployees§92
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian Roy Johnson', 'age': 70, 'title': 'Executive Chairman', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 553000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Roy David Roller A.C.A., BA (Hons)', 'age': 58, 'title': 'CFO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 417000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Emms', 'title': 'COO & Executive Director', 'fiscalYear': 2022, 'totalPay': 550000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nina  Kataria', 'title': 'Senior Vice President Global Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Scaccia', 'title': 'Senior Vice President of Americas & Research Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah Elizabeth Duncan', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1692230400
+payoutRatio§0.0
+beta§0.85
+priceToSalesTrailing12Months§8.147601
+currency§GBp
+forwardEps§2.86
+exchange§LSE
+quoteType§EQUITY
+shortName§NIOX GROUP PLC ORD 0.08P
+longName§NIOX Group Plc
+firstTradeDateEpochUtc§1394697600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3adb6e43-0417-3a92-9f75-238bd3b49ae0
+targetHighPrice§87.0
+targetLowPrice§62.0
+targetMeanPrice§76.0
+targetMedianPrice§77.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§4.338
+earningsGrowth§-0.637
+grossMargins§0.71965
+ebitdaMargins§0.2341
+trailingPegRatio§None

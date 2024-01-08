@@ -1,0 +1,33 @@
+# reload+after+2024-01-23 18:40:01.604603
+address1§3140 Rowan Place
+address2§John Smith Drive Oxford Business Park South
+city§Oxford
+zip§OX4 2WB
+country§United Kingdom
+phone§44 1865 518 910
+website§https://www.oxfordbiodynamics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Oxford BioDynamics Plc, a biotechnology company, discovers and develops biomarkers for use in the pharmaceutical and biotechnology industry primarily in the United States and the United Kingdom. The company provides EpiSwitch, a proprietary technology platform that enables screening, evaluation, validation, and monitoring of 3D genomic biomarkers to diagnose patients. Its products include EpiSwitch CiRT (Checkpoint Inhibitor Response Test), a blood test for predicting therapeutic response to checkpoint inhibitor immunotherapy; EpiSwitch CST (Covid Severity Test), an advanced blood test for the prediction of COVID-19 severity in adults; and EpiSwitch Explorer Array Kit for high-resolution 3D genome profiling. Oxford BioDynamics Plc was incorporated in 2007 and is headquartered in Oxford, the United Kingdom.
+fullTimeEmployees§43
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jon Anthony Joseph Burrows B.Sc., M.Sc., Ph.D.', 'age': 60, 'title': 'CEO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 435691, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Leslie Stockdale F.C.A., M.A.', 'age': 48, 'title': 'CFO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 166183, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Alexandre  Akoulitchev M.A., Ma (Oxon), Ph.D.', 'age': 61, 'title': 'Chief Scientific Officer & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 185126, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas G. Guiel B.A.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Blum', 'title': 'Senior Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven  Arrivo', 'title': 'Senior Vice President of Business & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ewan  Hunter B.Sc., Ph.D., Ph.D., (KCL)', 'title': 'Chief Data Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'T.  Demain', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.437
+priceToSalesTrailing12Months§197.40295
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§OXFORD BIODYNAMICS PLC ORD GBP0
+longName§Oxford BioDynamics Plc
+firstTradeDateEpochUtc§1481011200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§549db7c7-81eb-3300-9c40-7d1c5d08f8bd
+recommendationKey§none
+quickRatio§2.723
+grossMargins§0.60554004
+ebitdaMargins§0.0
+trailingPegRatio§None

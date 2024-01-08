@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 08:26:37.808463
+address1§601 Montgomery Street
+address2§Suite 1112
+city§San Francisco
+state§CA
+zip§94111-2619
+country§United States
+phone§415 788 5300
+website§https://ashs.com
+industry§Medical Care Facilities
+industryKey§medical-care-facilities
+industryDisp§Medical Care Facilities
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§American Shared Hospital Services provides radiosurgery and radiation therapy equipment to health care providers. The company offers radiosurgery equipment for the Gamma Knife stereotactic radiosurgery, a non-invasive procedure to treat malignant and benign brain tumors, and arteriovenous malformations, as well as for trigeminal neuralgia. It also provides financing services for Leksell Gamma Knife units. In addition, the company offers proton beam radiation therapy services in Orlando, Florida and Long Beach, California, as well as offers planning, installation, reimbursement, and marketing support services to its customers. American Shared Hospital Services was founded in 1980 and is based in San Francisco, California.
+fullTimeEmployees§28
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Raymond C. Stachowiak', 'age': 65, 'title': 'Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 272000, 'exercisedValue': 0, 'unexercisedValue': 1860}, {'maxAge': 1, 'name': 'Mr. Peter  Gaccione', 'age': 64, 'title': 'Chief Executive Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 281949, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig K. Tagawa', 'age': 69, 'title': 'President & Assistant Secretary', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 413612, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ernest A. Bates M.D.', 'age': 86, 'title': 'VP of International Sales & Business Development, Founder and Director', 'yearBorn': 1937, 'fiscalYear': 2022, 'totalPay': 37500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Hiatt', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexis N. Wallace CPA', 'title': 'Chief Accounting Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy J. Keel', 'title': 'Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1182988800
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.22
+beta§0.684
+priceToSalesTrailing12Months§0.7728659
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.048
+lastDividendDate§1182988800
+exchange§ASE
+quoteType§EQUITY
+shortName§American Shared Hospital Servic
+longName§American Shared Hospital Services
+firstTradeDateEpochUtc§457709400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§065d784b-407a-34ed-971c-0461a8e7cca7
+messageBoardId§finmb_250752
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§1.908
+earningsGrowth§-0.629
+grossMargins§0.66889
+ebitdaMargins§0.34921002
+trailingPegRatio§None

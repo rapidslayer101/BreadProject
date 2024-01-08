@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 20:40:16.631653
+address1§Warner House
+address2§123 Castle Street Salisbury
+city§Wiltshire
+zip§SP1 3TB
+country§United Kingdom
+phone§44 17 2241 4419
+website§https://www.rockhopperexploration.co.uk
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Rockhopper Exploration plc operates as an oil and gas exploration and production company primarily in the United Kingdom. It engages in the exploration, appraisal, and exploitation of its oil and gas acreage primarily in the North Falkland Basin and the Greater Mediterranean region. The company holds 35% working interest in the PL003a, PL003b, PL004a, PL004b, PL004c, PL005, PL032, PL033 production licenses in North Falkland Basin. It also holds 100% working interest in the PL011, PL012, and PL014 production licenses in the South Falkland Basin. Rockhopper Exploration plc was incorporated in 2004 and is headquartered in Wiltshire, the United Kingdom.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Samuel John Moody', 'age': 53, 'title': 'Co-Founder, CEO, MD & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 563300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Perry', 'title': 'Group Financial Controller & Interim CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janette Lesley Davies', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.859
+priceToSalesTrailing12Months§515.6555
+currency§GBp
+forwardEps§-0.01
+pegRatio§0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§ROCKHOPPER EXPLORATION PLC ORD 
+longName§Rockhopper Exploration plc
+firstTradeDateEpochUtc§1124089200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1c728511-0bc0-323d-9f11-5c1a14150fde
+targetHighPrice§0.38
+targetLowPrice§0.2
+targetMeanPrice§0.29
+targetMedianPrice§0.3
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.353
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

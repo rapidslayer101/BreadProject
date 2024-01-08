@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 20:40:37.753795
+address1§3 Waterhouse Square
+address2§138 - 142 Holborn
+city§London
+zip§EC1N 2SW
+country§United Kingdom
+phone§44 20 7043 1000
+website§https://www.system1group.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§System1 Group PLC, together with its subsidiaries, provides marketing and market research consultancy services in the United Kingdom. The company offers a range of tools, such as predictive marketing tool that uses the wisdom of the crowd to identify winning concepts; and ad-testing tool that identifies the emotional impact of advertising. It operates in the United States, Switzerland, Germany, the Netherlands, France, Brazil, Singapore, Australia, and China. System1 Group PLC was founded in 1999 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§143
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Alexander Gregory', 'age': 40, 'title': 'CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 61872, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Victor Kearon', 'age': 57, 'title': 'Founder, President & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 843492, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Patrick Willford A.C.M.A., ACMA, B.A., BA', 'age': 61, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 228543, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Hatherall', 'title': 'Global Operations Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Beard', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma  Cooper', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Johnson', 'title': 'Managing Director of Europe', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Orlando  Wood', 'title': 'Chief Innovation Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Evans', 'title': 'Chief Customer Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robyn  Di Cesare', 'title': 'Chief Research Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1573689600
+payoutRatio§0.0
+fiveYearAvgDividendYield§2.51
+beta§1.378
+priceToSalesTrailing12Months§1.4265516
+currency§GBp
+forwardEps§12.39
+exchange§LSE
+quoteType§EQUITY
+shortName§SYSTEM1 GROUP PLC ORD 1P
+longName§System1 Group PLC
+firstTradeDateEpochUtc§1165305600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f6c8aae0-f4f3-34aa-9348-49ecf8e93992
+targetHighPrice§405.0
+targetLowPrice§405.0
+targetMeanPrice§405.0
+targetMedianPrice§405.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§2.202
+grossMargins§0.87162
+ebitdaMargins§0.04855
+trailingPegRatio§None

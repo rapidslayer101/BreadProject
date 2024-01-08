@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 20:43:19.014692
+address1§1100, Robert-Bourassa Boulevard
+address2§Suite 400
+city§Montreal
+state§QC
+zip§H3B 3A5
+country§Canada
+phone§514-285-5552
+website§https://www.alithya.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Alithya Group Inc. provides strategy and digital technology services in Canada, the United States, and Europe. The company's business strategy services include strategic consulting, digital transformation, organizational performance, and enterprise architecture services. It also provides application services, such as digital applications DevOps, legacy systems modernization, control and software engineering, cloud infrastructure, quality assurance, and automated testing; enterprise solutions comprising enterprise resource planning, corporate performance management, customer relationship management, and human capital management; and data and analytics solutions, including business intelligence, data management, artificial intelligence (AI), and machine learning, as well as internet of things. In addition, the company provides AI-FI, an integrated artificial intelligence and fidelity solution; Alithya GoTest, solution allows clients to test the functionality of applications on various platforms; CASSI analytics for online weekly maintenance, outage management, petrochemical turnarounds, and maintenance and reliability; and SIDER, a secure solution that facilitates distribution of medical results to healthcare sectors and to centralized electronic medical records. It serves financial services, energy, manufacturing, telecommunications, transportation and logistics, professional services, healthcare, and government sectors. The company was founded in 1992 and is headquartered in Montreal, Canada.
+fullTimeEmployees§3600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul  Raymond', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 814356, 'exercisedValue': 44856, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Claude  Thibault CA, CBV, MBA', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 406869, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Lamarre', 'age': 58, 'title': 'Chief Information Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 389708, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell Lewell Smith', 'age': 56, 'title': 'President of Alithya USA', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 605931, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bernard  Dockrill', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nathalie  Forcier', 'age': 47, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 391495, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Benjamin  Cerantola', 'title': 'Director of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Giulia  Cirillo', 'age': 60, 'title': 'Chief Human Capital Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dany  Paradis ASA, C.M.A., C.P.A., ICD.D', 'title': 'Senior Vice President of Quebec', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Fonseca', 'title': 'Senior Vice President of Ontario & Western Canada', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§1
+shareHolderRightsRisk§9
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.552
+priceToSalesTrailing12Months§0.24649718
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.11
+exchange§NCM
+quoteType§EQUITY
+shortName§Alithya Group inc.
+longName§Alithya Group Inc.
+firstTradeDateEpochUtc§843831000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3eac4f04-ab67-35f5-8f4f-e3ecfefc4063
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.657
+grossMargins§0.2787
+ebitdaMargins§0.03396
+trailingPegRatio§None

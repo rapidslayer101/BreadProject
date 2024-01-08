@@ -1,0 +1,25 @@
+# reload+after+2024-01-20 14:32:04.401394
+longBusinessSummary§The fund is an actively-managed exchange-traded fund ("ETF") that seeks to achieve its objective by (i) investing in one or more other ETFs that seek to obtain exposure to the performance of investment grade, U.S. dollar-denominated, fixed-rate taxable bonds or directly in the securities held by such ETFs and (ii) selling and purchasing listed short-term put options to generate income to the fund.
+maxAge§86400
+priceHint§2
+yield§0.0519
+totalAssets§46857312
+navPrice§20.2453
+currency§USD
+category§Intermediate-Term Bond
+ytdReturn§-0.0178658
+beta3Year§1.31
+fundFamily§Overlay Shares
+fundInceptionDate§1569801600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0407668
+exchange§PCX
+quoteType§ETF
+shortName§Overlay Shares Core Bond ETF
+longName§Overlay Shares Core Bond ETF
+firstTradeDateEpochUtc§1569936600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3360fc98-b405-3cdb-9bea-c8c863b5147d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

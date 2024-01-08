@@ -1,0 +1,47 @@
+# reload+after+2024-01-23 07:39:45.454531
+address1§Champion House
+address2§Stephensons Way Chaddesden
+city§Derby
+zip§DE21 6LY
+country§United Kingdom
+phone§44 20 3727 1000
+website§https://www.motorpointplc.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Motorpoint Group Plc operates as independent omnichannel vehicle retailer in the United Kingdom. It operates through Retail and Wholesale segments. The company also offers new cars that are under four years old or have completed less than 30,000 miles; and range of commercial vehicles under the Motorpoint brand. In addition, it operates Auction4Cars.com, an independent trade car auction site, which provides business-to-business entirely online auction marketplace platform allowing an efficient and quick route for sale of part exchange vehicles. Further, the company sells motor related services comprising commission on finance introductions, extended guarantees, and vehicle asset protection, as well as sells paint protection products, gap insurance, and third-party finance services. The company was founded in 1998 and is headquartered in Derby, the United Kingdom.
+fullTimeEmployees§693
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Gwilym Carpenter', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 538000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Christopher Morgan', 'title': 'CFO, Company Secretary & Director', 'fiscalYear': 2023, 'totalPay': 375000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kalwant  Singh', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Tang', 'age': 47, 'title': 'Chief Technology Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cat  Moseley', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1580947200
+payoutRatio§0.0
+beta§0.881
+priceToSalesTrailing12Months§0.08039423
+currency§GBp
+forwardEps§2.87
+exchange§LSE
+quoteType§EQUITY
+shortName§MOTORPOINT GROUP PLC ORD 1P
+longName§Motorpoint Group Plc
+firstTradeDateEpochUtc§1463382000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§72054f15-d13d-36bf-87e7-53558cd2c867
+targetHighPrice§180.0
+targetLowPrice§180.0
+targetMeanPrice§180.0
+targetMedianPrice§180.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.188
+grossMargins§0.05925
+ebitdaMargins§0.00468
+trailingPegRatio§None

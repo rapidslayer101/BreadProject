@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 23:33:51.281027
+address1§888 Seventh Avenue
+address2§35th Floor
+city§New York
+state§NY
+zip§10106
+country§United States
+phone§212 601 4700
+website§https://www.tpgrefinance.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§TPG RE Finance Trust, Inc., a commercial real estate finance company, originates, acquires, and manages commercial mortgage loans and other commercial real estate-related debt instruments in the United States. It invests in commercial mortgage loans; subordinate mortgage interests, mezzanine loans, secured real estate securities, note financing, preferred equity, and miscellaneous debt instruments; and commercial real estate collateralized loan obligations and commercial mortgage-backed securities secured by properties primarily in the multifamily, life science, mixed-use, hospitality, self storage, industrial, and retail real estate sectors. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. TPG RE Finance Trust, Inc. was incorporated in 2014 and is based in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Doug  Bouquard', 'age': 41, 'title': 'CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew John Coleman Esq.', 'age': 46, 'title': 'President', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert R. Foley CPA', 'age': 63, 'title': 'Chief Financial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 666337, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Fox', 'age': 43, 'title': 'Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.96
+dividendYield§0.1509
+exDividendDate§1703721600
+payoutRatio§0.9897
+fiveYearAvgDividendYield§11.16
+beta§2.058
+priceToSalesTrailing12Months§-12.086675
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.39
+pegRatio§-1.37
+exchange§NYQ
+quoteType§EQUITY
+shortName§TPG RE Finance Trust, Inc.
+longName§TPG RE Finance Trust, Inc.
+firstTradeDateEpochUtc§1500557400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0f926f47-bbd8-3f33-8955-46a0dc8777a0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§5.0
+targetMeanPrice§6.75
+targetMedianPrice§6.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§55.591
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

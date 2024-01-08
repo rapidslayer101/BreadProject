@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 01:47:24.574982
+address1§2303 Dulles Station Boulevard
+address2§6th Floor
+city§Herndon
+state§VA
+zip§20171
+country§United States
+phone§703 561 1600
+website§https://www.strategiceducation.com
+industry§Education & Training Services
+sector§Consumer Defensive
+longBusinessSummary§Strategic Education, Inc., through its subsidiaries, provides education services through campus-based and online post-secondary education, and programs to develop job-ready skills. It operates through three segments: U.S. Higher Education, Australia/New Zealand, and Education Technology Services. The company operates Strayer University that offers undergraduate and graduate degree programs in business, criminal justice, education, health services, information technology, and public administration at physical campuses located in the eastern United States, as well as through online; non-degree web and mobile application development courses through Hackbright Academy and Devmountain; and MBA online through its Jack Welch Management Institute. It also operates Capella University that provides post-secondary education. The company operates Torrens University, which offers undergraduate, graduate, higher degree by research, and specialized degree courses primarily in business, design and creative technology, health, hospitality, and education fields through online and on physical campuses located in Australia; Think Education, a vocational training organization; and Media Design School, which provides industry-endorsed courses in 3D animation and visual effects, game art and programming, graphic and motion design, digital media artificial intelligence, and creative advertising in New Zealand. It also offers Workforce Edge, a platform to employers that provides education benefits administration solutions; and Sophia Learning, which enables lower cost education benefits programs. The company was founded in 1892 and is headquartered in Herndon, Virginia.
+fullTimeEmployees§3907
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Karl  McDonnell', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2108805, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel W. Jackson', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1123150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lizette Benedi Herraiz Esq.', 'age': 48, 'title': 'Senior VP, General Counsel & Secretary of the Board', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 835150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christa E. Hokenson', 'age': 52, 'title': 'Senior VP, Chief HR Officer & Chief Diversity Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 800150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tal  Darmon', 'age': 48, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Terese  Wilke', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sondra F. Stallard', 'age': 73, 'title': 'President Emerita and Director of Accreditation & Regulatory Affairs - Strayer University', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 539800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew E. Watt', 'age': 45, 'title': 'President of U.S. Higher Education', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 781078, 'exercisedValue': 209371, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Schaefer', 'title': 'President of Education Technology Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Alwyn  Louw', 'title': 'Vice-Chancellor of Torrens University Australia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.4
+dividendYield§0.026600001
+exDividendDate§1700784000
+payoutRatio§1.1765
+fiveYearAvgDividendYield§2.6
+beta§0.467
+priceToSalesTrailing12Months§2.0004728
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.29
+pegRatio§1.81
+exchange§NMS
+quoteType§EQUITY
+shortName§Strategic Education, Inc.
+longName§Strategic Education, Inc.
+firstTradeDateEpochUtc§838301400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a4674a21-18ab-31cb-a0da-f1d7df1b9481
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§104.0
+targetLowPrice§92.0
+targetMeanPrice§99.75
+targetMedianPrice§101.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.137
+earningsGrowth§2.08
+grossMargins§0.43433997
+ebitdaMargins§0.124589995
+trailingPegRatio§1.414

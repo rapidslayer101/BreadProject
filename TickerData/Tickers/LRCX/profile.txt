@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 11:45:51.191325
+address1§4650 Cushing Parkway
+city§Fremont
+state§CA
+zip§94538
+country§United States
+phone§510 572 0200
+website§https://www.lamresearch.com
+industry§Semiconductor Equipment & Materials
+sector§Technology
+longBusinessSummary§Lam Research Corporation designs, manufactures, markets, refurbishes, and services semiconductor processing equipment used in the fabrication of integrated circuits. The company offers ALTUS systems to deposit conformal films for tungsten metallization applications; SABRE electrochemical deposition products for copper interconnect transition that offers copper damascene manufacturing; SOLA ultraviolet thermal processing products for film treatments; and VECTOR plasma-enhanced CVD ALD products. It also provides SPEED gapfill high-density plasma chemical vapor deposition products; and Striker single-wafer atomic layer deposition products for dielectric film solutions. In addition, the company offers Flex for dielectric etch applications; Kiyo for conductor etch applications; Syndion for through-silicon via etch applications; and Versys metal products for metal etch processes. Further, it provides Coronus bevel clean products to enhance die yield; Da Vinci, DV-Prime, EOS, and SP series products to address various wafer cleaning applications; and Metryx mass metrology systems for high precision in-line mass measurement in semiconductor wafer manufacturing. The company sells its products and services to semiconductors industry in the United States, China, Europe, Japan, Korea, Southeast Asia, Taiwan, and internationally. The company was incorporated in 1980 and is headquartered in Fremont, California.
+fullTimeEmployees§17200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy M. Archer', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 3375000, 'exercisedValue': 0, 'unexercisedValue': 22388780}, {'maxAge': 1, 'name': 'Mr. Douglas R. Bettinger', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1495503, 'exercisedValue': 16536875, 'unexercisedValue': 458525}, {'maxAge': 1, 'name': 'Dr. Patrick J. Lord Ph.D.', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1199063, 'exercisedValue': 0, 'unexercisedValue': 1957902}, {'maxAge': 1, 'name': 'Mr. Vahid  Vahedi Ph.D.', 'age': 57, 'title': 'Senior VP & CTO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1065202, 'exercisedValue': 0, 'unexercisedValue': 5611099}, {'maxAge': 1, 'name': 'Mr. Seshasayee  Varadarajan', 'age': 48, 'title': 'Senior Vice President of The Global Products Group', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1069602, 'exercisedValue': 0, 'unexercisedValue': 5611099}, {'maxAge': 1, 'name': 'Ms. Christina C. Correia', 'title': 'Chief Accounting Officer, VP of Corporate Finance & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ava M. Hahn J.D.', 'age': 50, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey  MacNeil', 'title': 'Group VP of ESG & Chief Communications Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Teresa Hassett', 'age': 49, 'title': 'Senior VP & Chief HR Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Richard A. Gottscho', 'age': 71, 'title': 'Executive VP & Strategic Advisor to the CEO of Innovation Ecosystem', 'yearBorn': 1952, 'fiscalYear': 2023, 'totalPay': 1342787, 'exercisedValue': 3169621, 'unexercisedValue': 351237}]
+auditRisk§1
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§8.0
+dividendYield§0.0109
+exDividendDate§1702339200
+payoutRatio§0.24340001
+fiveYearAvgDividendYield§1.36
+beta§1.548
+priceToSalesTrailing12Months§6.0950794
+currency§USD
+dateShortInterest§1702598400
+forwardEps§35.39
+pegRatio§3.4
+exchange§NMS
+quoteType§EQUITY
+shortName§Lam Research Corporation
+longName§Lam Research Corporation
+firstTradeDateEpochUtc§452525400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e4500f2f-32ec-313e-8728-0aab1549b6ef
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§885.0
+targetLowPrice§550.0
+targetMeanPrice§724.13
+targetMedianPrice§722.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§26
+quickRatio§1.876
+earningsGrowth§-0.359
+grossMargins§0.45344
+ebitdaMargins§0.31494
+trailingPegRatio§2.4967

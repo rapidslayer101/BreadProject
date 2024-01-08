@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 13:47:44.865324
+address1§Frost Bank Tower
+address2§Suite 1850 401 Congress Avenue
+city§Austin
+state§TX
+zip§78701-3788
+country§United States
+phone§512 960 1010
+website§https://www.uplandsoftware.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Upland Software, Inc. provides cloud-based enterprise work management software in the United States, the United Kingdom, Canada, and internationally. It offers a family of software applications under the Upland brand in the areas of marketing, sales, contact center, project management, information technology, business operations, and human resources and legal. The company also provides professional services, such as implementation, data extraction, integration and configuration, and training services, as well as customer support services. It serves large global corporations, various government agencies, and small and medium-sized businesses, as well as financial, consulting, technology, manufacturing, media, telecommunication, political, healthcare, life sciences, and retail and hospitality sectors. The company was formerly known as Silverback Enterprise Group, Inc. and changed its name to Upland Software, Inc. in November 2013. Upland Software, Inc. was incorporated in 2010 and is headquartered in Austin, Texas.
+fullTimeEmployees§1006
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John T. McDonald J.D.', 'age': 60, 'title': 'Founder, President, CEO & Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 581062, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Hill', 'age': 55, 'title': 'CFO, Treasurer & Interim Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 374102, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Doman', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'totalPay': 331042, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Miller', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jonanna  Mikulenka', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Austin  Woody', 'title': 'Senior Vice President of M&A and Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Oliver  Yates', 'title': 'Chief Sales Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jen  Verzal', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rochelle  Delley', 'title': 'Chief Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amber  Bennett', 'title': 'Senior Vice President of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.095
+priceToSalesTrailing12Months§0.42266822
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.73
+pegRatio§-0.15
+exchange§NGM
+quoteType§EQUITY
+shortName§Upland Software, Inc.
+longName§Upland Software, Inc.
+firstTradeDateEpochUtc§1415284200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§36514482-0d88-30ad-8804-9a53f6000eb3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§3.5
+targetMeanPrice§4.83
+targetMedianPrice§4.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§2.222
+grossMargins§0.67367995
+ebitdaMargins§0.15514
+trailingPegRatio§None

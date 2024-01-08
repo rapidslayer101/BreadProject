@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 20:47:50.212181
+address1§25 Frontage Road
+city§Andover
+state§MA
+zip§01810
+country§United States
+phone§978 470 2900
+fax§800 735 6200
+website§https://www.vicorpower.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Vicor Corporation, together with its subsidiaries, designs, develops, manufactures and markets modular power components and power systems for converting electrical power in the United States and internationally. The company offers a range of brick-format DC-DC converters; complementary components provide AC line rectification, input filtering, power factor correction, and transient protection; and input and output voltage, and output power products, as well as electrical and mechanical accessories. It also provides custom power systems solutions. The company serves independent manufacturers of electronic devices, original equipment manufacturers, and their contract manufacturers in the aerospace and aviation, defense electronics, industrial automation and equipment, instrumentation, test equipment, solid state lighting, telecommunications and networking infrastructure, and vehicles and transportation markets. Vicor Corporation was incorporated in 1981 and is headquartered in Andover, Massachusetts.
+fullTimeEmployees§1088
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Patrizio  Vinciarelli Ph.D.', 'age': 76, 'title': 'Founder, Chairman, CEO & President', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 484959, 'exercisedValue': 0, 'unexercisedValue': 20171850}, {'maxAge': 1, 'name': 'Mr. James F. Schmidt', 'age': 62, 'title': 'Corporate VP, CFO, Treasurer, Corporate Secretary & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 549495, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. McNamara', 'age': 62, 'title': 'Corporate VP, GM of Operations & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 395129, 'exercisedValue': 0, 'unexercisedValue': 1318774}, {'maxAge': 1, 'name': 'Mr. Philip D. Davies', 'age': 63, 'title': 'Corporate VP of Global Sales & Marketing and Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 562345, 'exercisedValue': 0, 'unexercisedValue': 1820320}, {'maxAge': 1, 'name': 'Mr. Claudio  Tuozzolo', 'age': 60, 'title': 'Corporate VP & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 480421, 'exercisedValue': 0, 'unexercisedValue': 98169}, {'maxAge': 1, 'name': 'Mr. Quentin A. Fendelet', 'age': 51, 'title': 'Corporate VP & Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alvaro  Doyle', 'age': 55, 'title': 'Corporate VP & Chief Information Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephen  Germino', 'title': 'Director of Media Relations & PR', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nancy L. Grava', 'age': 52, 'title': 'Corporate Vice President of Human Resources', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kemble D. Morrison', 'title': 'VP & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1312502400
+payoutRatio§0.0
+fiveYearAvgDividendYield§2.08
+beta§1.499
+priceToSalesTrailing12Months§4.080195
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.18
+pegRatio§1.46
+exchange§NMS
+quoteType§EQUITY
+shortName§Vicor Corporation
+longName§Vicor Corporation
+firstTradeDateEpochUtc§639149400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cbd1924e-c6d9-3033-ae21-c32362499e72
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§65.0
+targetMeanPrice§66.5
+targetMedianPrice§66.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§6.241
+earningsGrowth§8.25
+grossMargins§0.49467
+ebitdaMargins§0.16231
+trailingPegRatio§None

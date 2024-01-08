@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 02:35:45.314668
+address1§The Old Courthouse
+address2§60A London Road
+city§Grantham
+zip§NG31 6HR
+country§United Kingdom
+phone§44 14 7658 4900
+website§https://www.belvoirgroup.com
+industry§Real Estate Services
+industryKey§real-estate-services
+industryDisp§Real Estate Services
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Belvoir Group PLC operates as a property franchise company in the United Kingdom. It operates thorough two segments, Property Franchise and Financial Services. The company engages in selling, supporting, and training residential property franchises, as well as residential letting and sale activities. It also operates a network of financial services advisers to provide advice to residential property clients. The company was formerly known as Belvoir Lettings plc and changed its name to Belvoir Group PLC in July 2019. Belvoir Group PLC was founded in 1995 and is based in Grantham, the United Kingdom.
+fullTimeEmployees§218
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dorian  Gonsalves', 'age': 48, 'title': 'CEO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 451000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Louise Joan George A.C.I.S., ACIS, BSc, F.C.A., FCA', 'age': 56, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 413000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Brook', 'title': 'Executive Director & Financial Services Director', 'fiscalYear': 2022, 'totalPay': 191000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie T. Goddard', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Grace  Milham', 'title': 'Group Operations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheryl  Watts', 'title': 'Compliance Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Allan Gee', 'title': 'Managing Director of Northwood GB Limited', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Spackman', 'title': 'Managing Director of Newton Fallowell', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.038599998
+exDividendDate§1694649600
+payoutRatio§0.45229998
+fiveYearAvgDividendYield§4.49
+beta§0.905
+priceToSalesTrailing12Months§2.8213873
+currency§GBp
+forwardEps§18.8
+lastDividendValue§5.0
+lastDividendDate§1694649600
+exchange§LSE
+quoteType§EQUITY
+shortName§BELVOIR GROUP PLC ORD 1P
+longName§Belvoir Group PLC
+firstTradeDateEpochUtc§1329811200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9b124de5-e92e-364a-bf87-5a4ce41df8d2
+messageBoardId§finmb_23062371
+recommendationKey§none
+quickRatio§1.221
+earningsGrowth§0.035
+grossMargins§0.58884996
+ebitdaMargins§0.29209
+trailingPegRatio§None

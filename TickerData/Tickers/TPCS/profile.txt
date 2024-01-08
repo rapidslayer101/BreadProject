@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 07:47:37.151504
+address1§1 Bella Drive
+city§Westminster
+state§MA
+zip§01473
+country§United States
+phone§978-874-0591
+fax§978-874-2748
+website§https://www.techprecision.com
+industry§Metal Fabrication
+sector§Industrials
+longBusinessSummary§TechPrecision Corporation, together with its subsidiaries, manufactures and sells precision, fabricated, and machined metal structural components and systems in the United States. The company operates through two segments, Ranor and Stadco. It provides custom components for ships, submarines, military helicopters, aerospace equipment, components for nuclear power plants, and components for medical systems. The company also provides support services to its manufacturing capabilities comprising manufacturing engineering, quality control, materials procurement, production control, and final assembly. Its finished products are used various markets, including defense, aerospace, nuclear, medical, and precision industrial. The company was founded in 1956 and is headquartered in Westminster, Massachusetts.
+fullTimeEmployees§155
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander  Shen', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 304740, 'exercisedValue': 0, 'unexercisedValue': 2566875}, {'maxAge': 1, 'name': 'Ms. Barbara M. Lilley', 'title': 'Controller & CFO', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher L. Poplaski', 'title': 'President of WCMC Division', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip A. Dur', 'age': 79, 'title': 'Consultant', 'yearBorn': 1944, 'fiscalYear': 2023, 'totalPay': 4000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.485
+priceToSalesTrailing12Months§1.4695244
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.58
+exchange§NCM
+quoteType§EQUITY
+shortName§TechPrecision Corporation
+longName§TechPrecision Corporation
+firstTradeDateEpochUtc§1198765800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4b2a56e9-0994-340d-9611-397215792581
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.739
+grossMargins§0.13074
+ebitdaMargins§-0.0019
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 00:32:23.743369
+address1§300 N. Marienfeld Street
+address2§Suite 1000
+city§Midland
+state§TX
+zip§79701
+country§United States
+phone§432 695 4222
+website§https://www.permianres.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Permian Resources Corporation, an independent oil and natural gas company, focuses on the development of crude oil and related liquids-rich natural gas reserves in the United States. Its assets primarily focus on the Delaware Basin, a sub-basin of the Permian Basin. The company's properties consist of acreage blocks in Reeves County, West Texas and Lea County, New Mexico. The company was formerly known as Centennial Resource Development, Inc. and changed its name to Permian Resources Corporation in September 2022. Permian Resources Corporation was incorporated in 2015 and is headquartered in Midland, Texas.
+fullTimeEmployees§218
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William M. Hickey III', 'age': 36, 'title': 'Director & Co-CEO', 'yearBorn': 1987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James H. Walter', 'age': 35, 'title': 'Director & Co-CEO', 'yearBorn': 1988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew R. Garrison', 'age': 41, 'title': 'Executive VP & COO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1168219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent P. Jensen', 'age': 53, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 972358, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John C. Bell', 'age': 37, 'title': 'Executive VP & General Counsel', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 484397, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Oliphint', 'age': 43, 'title': 'Executive VP & CFO', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hays  Mabry', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen M. Phillips', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William A. Weidig', 'title': 'Vice President of Finance & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0356
+exDividendDate§1700179200
+payoutRatio§0.3371
+beta§4.262
+priceToSalesTrailing12Months§3.7724068
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.8
+pegRatio§1.07
+exchange§NYQ
+quoteType§EQUITY
+shortName§Permian Resources Corporation
+longName§Permian Resources Corporation
+firstTradeDateEpochUtc§1460727000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0fe75a51-89c2-3a3f-9236-21d098ddd03e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§17.19
+targetMedianPrice§17.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.722
+earningsGrowth§-0.818
+grossMargins§0.78062
+ebitdaMargins§0.65218
+trailingPegRatio§None

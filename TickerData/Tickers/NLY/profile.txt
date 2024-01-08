@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 22:31:42.681334
+address1§1211 Avenue of the Americas
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§212 696 0100
+website§https://www.annaly.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Annaly Capital Management, Inc., a diversified capital manager, engages in mortgage finance. The company invests in agency mortgage-backed securities collateralized by residential mortgages; non-agency residential whole loans and securitized products within the residential and commercial markets; mortgage servicing rights; agency commercial mortgage-backed securities; residential mortgage loans; and agency or private label credit risk transfer securities. It has elected to be taxed as a real estate investment trust (REIT). As a REIT, it is not subject to federal income tax to the extent that it distributes its taxable income to its shareholders. The company was incorporated in 1996 and is based in New York, New York.
+fullTimeEmployees§161
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David L. Finkelstein C.F.A.', 'age': 50, 'title': 'CEO, Chief Investment Officer & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 6998732, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Francis Campbell', 'age': 50, 'title': 'COO & President', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2593482, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Serena  Wolfe', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 2544282, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony C. Green J.D.', 'age': 48, 'title': 'Chief Corporate Officer, Chief Legal Officer & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 2545982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Don S. Choe', 'age': 56, 'title': 'Chief Technology Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Audrey K. Susanin J.D.', 'age': 41, 'title': 'Deputy General Counsel & Chief Compliance Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Seana Scott Gormley', 'title': 'Head of Human Capital Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica T. LaScala', 'title': 'Head of Investment Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Fania', 'title': 'Deputy Chief Investment Officer & Head of Residential Credit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Johanna  Griffin', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.6
+dividendYield§0.1361
+exDividendDate§1703721600
+payoutRatio§0.898
+fiveYearAvgDividendYield§13.03
+beta§1.588
+priceToSalesTrailing12Months§-5.07352
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.72
+pegRatio§-1.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§Annaly Capital Management Inc.
+longName§Annaly Capital Management, Inc.
+firstTradeDateEpochUtc§876317400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§44108ffa-8fb0-3a68-991b-ac94c6e2ec38
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.5
+targetLowPrice§16.0
+targetMeanPrice§19.09
+targetMedianPrice§18.63
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.251
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

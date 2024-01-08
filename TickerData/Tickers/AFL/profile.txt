@@ -1,0 +1,61 @@
+# reload+after+2024-01-23 03:26:18.145719
+address1§1932 Wynnton Road
+city§Columbus
+state§GA
+zip§31999
+country§United States
+phone§706 323 3431
+website§https://www.aflac.com
+industry§Insurance - Life
+industryKey§insurance-life
+industryDisp§Insurance - Life
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Aflac Incorporated, through its subsidiaries, provides supplemental health and life insurance products. It operates in two segments, Aflac Japan and Aflac U.S. The Aflac Japan segment offers cancer, medical, nursing care, work leave, GIFT, and whole and term life insurance products, as well as WAYS and child endowment plans under saving type insurance products in Japan. The Aflac U.S. segment provides cancer, accident, short-term disability, critical illness, hospital indemnity, dental, vision, long-term care and disability, and term and whole life insurance products in the United States. It sells its products through sales associates, brokers, independent corporate agencies, individual agencies, and affiliated corporate agencies. The company was founded in 1955 and is headquartered in Columbus, Georgia.
+fullTimeEmployees§12882
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Paul Amos', 'age': 71, 'title': 'President, Chairman & CEO', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 6281210, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max Kristian  Broden', 'age': 44, 'title': 'Executive VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 2314444, 'exercisedValue': 0, 'unexercisedValue': 154908}, {'maxAge': 1, 'name': 'Ms. Audrey Boone Tillman Esq.', 'age': 58, 'title': 'Executive VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1806064, 'exercisedValue': 640893, 'unexercisedValue': 2517761}, {'maxAge': 1, 'name': 'Mr. Frederick John  Crawford', 'age': 59, 'title': 'Executive Vice President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 4139219, 'exercisedValue': 0, 'unexercisedValue': 3675592}, {'maxAge': 1, 'name': 'Mr. Bradley Eugene Dyslin C.F.A.', 'title': 'Executive VP, Global Chief Investment Officer & President of Aflac Global Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin  Blackmon', 'age': 59, 'title': 'SVP of Financial Services & Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Todd Daniels', 'age': 52, 'title': 'Executive VP, Director & CFO of Aflac Life Insurance Japan', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley L. Knox', 'title': 'Senior VP & Counsel of Federal Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Kent  Beaver', 'age': 58, 'title': 'First Senior VP & Deputy CFO of Aflac Japan', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy L. Callahan CISM, CISSP, CRISC', 'title': 'Senior VP & Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0242
+exDividendDate§1708387200
+payoutRatio§0.2274
+fiveYearAvgDividendYield§2.38
+beta§0.916
+priceToSalesTrailing12Months§2.5133843
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.39
+pegRatio§2.14
+lastDividendValue§0.42
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§AFLAC Incorporated
+longName§Aflac Incorporated
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§01f4ad68-2aaa-3fc1-a133-155881ac8929
+messageBoardId§finmb_250178
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§61.0
+targetMeanPrice§80.0
+targetMedianPrice§80.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§0.962
+earningsGrowth§-0.064
+grossMargins§0.44584998
+ebitdaMargins§0.2856
+trailingPegRatio§None

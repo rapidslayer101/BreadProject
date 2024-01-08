@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 04:46:56.577676
+address1§300 Boulevard of the Americas
+address2§Suite 105
+city§Lakewood
+state§NJ
+zip§08701
+country§United States
+phone§732 380 4600
+website§https://www.relianceglobalgroup.com
+industry§Insurance Brokers
+sector§Financial Services
+longBusinessSummary§Reliance Global Group, Inc. engages in the acquisition and management of wholesale and retail insurance agencies in the United States. It provides healthcare and Medicare, personal and commercial, trucking, and insurance brokerage products. The company was formerly known as Ethos Media Network, Inc. and changed its name to Reliance Global Group, Inc. in October 2018. Reliance Global Group, Inc. was incorporated in 2013 and is headquartered in Lakewood, New Jersey.
+fullTimeEmployees§78
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ezra  Beyman', 'age': 68, 'title': 'CEO & Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 605963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Markovits CPA', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 197499, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yaakov  Beyman', 'age': 40, 'title': 'Executive Vice President of Insurance Division', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 249539, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Fortman', 'title': 'Vice President of Acquisitions', 'fiscalYear': 2022, 'totalPay': 226666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie A. Blockey', 'title': 'Head of Group Distribution Government Contracts', 'fiscalYear': 2022, 'totalPay': 169875, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grant  Barra', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Dobek', 'title': 'Head of RELI Exclusive Distribution Network', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rick  Emig', 'title': 'Head of Group Health Distribution', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brandon  Johnson', 'title': 'Head of Personal Lines, Property & Casualty Distribution', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Miriam  Spitz', 'title': 'Director of Treasury Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.461
+priceToSalesTrailing12Months§0.10987187
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.49
+exchange§NCM
+quoteType§EQUITY
+shortName§Reliance Global Group, Inc.
+longName§Reliance Global Group, Inc.
+firstTradeDateEpochUtc§1612881000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d1883a9c-433e-3136-b083-2846d14a6cd3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§7.0
+targetMeanPrice§7.0
+targetMedianPrice§7.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.766
+grossMargins§0.30221
+ebitdaMargins§-0.106800005
+trailingPegRatio§None

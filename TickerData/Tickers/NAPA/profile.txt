@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 05:31:35.649154
+address1§1201 Dowdell Lane
+city§Saint Helena
+state§CA
+zip§94574
+country§United States
+phone§707 302 2658
+website§https://www.duckhornportfolio.com
+industry§Beverages—Wineries & Distilleries
+sector§Consumer Defensive
+longBusinessSummary§The Duckhorn Portfolio, Inc. produces and sells wines in North America. The company offers wines under a portfolio of brands, including Duckhorn Vineyards, Decoy, Goldeneye, Paraduxx, Migration, Canvasback, Calera, Kosta Browne, Greenwing, and Postmark. It sells wines to distributors, and directly to retail accounts and consumers. The company was formerly known as Mallard Intermediate, Inc. and changed its name to The Duckhorn Portfolio, Inc. in February 2021. The company was founded in 1976 and is headquartered in Saint Helena, California. The Duckhorn Portfolio, Inc. is a subsidiary of Mallard Holdco, LLC.
+fullTimeEmployees§470
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Deirdre A. Mahlan', 'age': 61, 'title': 'Interim President, CEO & Chairperson', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 88500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Fall Jung', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 436419, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zach  Rasmuson', 'age': 48, 'title': 'Executive VP & COO', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 786771, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Sullivan', 'age': 41, 'title': 'Executive VP and Chief Strategy & Legal Officer', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 786771, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pete  Przybylinski', 'age': 54, 'title': 'Executive VP & Chief Sales Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 786771, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret  Duckhorn', 'title': 'Co-Founder', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Duckhorn', 'title': 'Co-Founder', 'fiscalYear': 2023, 'totalPay': 93750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gayle  Bartscherer', 'age': 50, 'title': 'Executive VP, Chief Marketing & DTC Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 436732, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.212
+priceToSalesTrailing12Months§2.8193488
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.73
+pegRatio§2.18
+exchange§NYQ
+quoteType§EQUITY
+shortName§The Duckhorn Portfolio, Inc.
+longName§The Duckhorn Portfolio, Inc.
+firstTradeDateEpochUtc§1616160600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§40515da4-ffff-3f39-bca5-7d5351be15d2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§11.0
+targetMeanPrice§13.17
+targetMedianPrice§13.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.587
+earningsGrowth§-0.235
+grossMargins§0.54064
+ebitdaMargins§0.33416
+trailingPegRatio§None

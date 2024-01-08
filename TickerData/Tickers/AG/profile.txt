@@ -1,0 +1,60 @@
+# reload+after+2024-01-21 08:26:18.501428
+address1§925 West Georgia Street
+address2§Suite 1800
+city§Vancouver
+state§BC
+zip§V6C 3L2
+country§Canada
+phone§604 688 3033
+fax§604 639 8873
+website§https://www.firstmajestic.com
+industry§Silver
+industryKey§silver
+industryDisp§Silver
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§First Majestic Silver Corp. engages in the acquisition, exploration, development, and production of mineral properties with a focus on silver and gold production in North America. Its projects include the San Dimas mine that consists of 119 individual concessions covering an area of 71,839 hectares located in Durango and Sinaloa States, México; the Santa Elena comprising 32 individual concessions that covers an area of 102,172 hectares located in Sonora State, México; and the La Encantada consists of 22 exploitation concessions covering an area of 4,076 hectares located in Coahuila State, México. The company was formerly known as First Majestic Resource Corp. and changed its name to First Majestic Silver Corp. in November 2006. First Majestic Silver Corp. was incorporated in 1979 and is headquartered in Vancouver, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Keith N. Neumeyer', 'age': 63, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1588254, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Soares C.A., CPA, M.B.A.', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 576775, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven C. Holmes B.Sc., M.B.A.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'totalPay': 714917, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colin Bradford Bower', 'title': 'Vice President of Operations-Mexico', 'fiscalYear': 2022, 'totalPay': 529766, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gonzalo Ariel Mercado', 'title': 'Vice President of Exploration & Technical Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophie E. Hsia BCL, L.L.B., L.L.M.', 'title': 'General Counsel', 'fiscalYear': 2022, 'totalPay': 360196, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill Anne Arias', 'title': 'Vice President of Corporate Communications & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Anthony M.B.A.', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Smith', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Connie  Lillico B.A.', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 369404, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0037
+exDividendDate§1699920000
+payoutRatio§0.0673
+beta§1.219
+priceToSalesTrailing12Months§2.7394533
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.32
+pegRatio§-3.0
+lastDividendValue§0.005
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§First Majestic Silver Corp.
+longName§First Majestic Silver Corp.
+firstTradeDateEpochUtc§1164724200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6b712da7-b7cc-3808-91be-b06de6c32e6c
+messageBoardId§finmb_3110160
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.99
+targetMeanPrice§8.74
+targetMedianPrice§8.24
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§2.27
+grossMargins§0.20655
+ebitdaMargins§0.09363
+trailingPegRatio§None

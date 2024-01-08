@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 14:44:35.388807
+address1§10835 Road to the Cure
+address2§Suite 140
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 465 6511
+website§https://www.erasca.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Erasca, Inc., a clinical-stage biopharmaceutical company, focuses on discovering, developing, and commercializing therapies for patients with RAS/MAPK pathway-driven cancers. The company's lead candidates include ERAS-007, an oral inhibitor of ERK1/2 for the treatment of non-small cell lung cancer, colorectal cancer, and acute myeloid leukemia; and ERAS-601, an oral SHP2 inhibitor for patients with advanced or metastatic solid tumors. It is also developing ERAS-801, a central nervous system-penetrant EGFR inhibitor for the treatment of patients with recurrent glioblastoma multiforme. The company was incorporated in 2018 and is headquartered in San Diego, California.
+fullTimeEmployees§129
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jonathan E. Lim M.D.', 'age': 51, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 940317, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David M. Chacko M.D.', 'age': 39, 'title': 'CFO & Chief Business Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 616764, 'exercisedValue': 0, 'unexercisedValue': 1952974}, {'maxAge': 1, 'name': 'Dr. Michael D. Varney Ph.D.', 'age': 65, 'title': 'Chairman of Research & Development, Scientific Advisory Board Member and Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 83258, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nik  Chetwyn Ph.D.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ebun S. Garner J.D., Esq.', 'age': 51, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 510983, 'exercisedValue': 0, 'unexercisedValue': 5951552}, {'maxAge': 1, 'name': 'Dr. Lisa  Tesvich-Bonora Ph.D.', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian L. Baker CPA, M.S.', 'age': 56, 'title': 'Senior Vice President of Finance', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chandra D. Lovejoy M.S.', 'age': 52, 'title': 'Chief Regulatory Affairs Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert  Shoemaker Ph.D.', 'age': 42, 'title': 'Senior Vice President of Research', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shannon R. Morris M.D., Ph.D.', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.924
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.04
+pegRatio§0.15
+exchange§NMS
+quoteType§EQUITY
+shortName§Erasca, Inc.
+longName§Erasca, Inc.
+firstTradeDateEpochUtc§1626442200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3eb26e05-0e9c-3836-891c-6af153666702
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§6.0
+targetMeanPrice§8.14
+targetMedianPrice§7.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§11.133
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 14:44:32.955654
+address1§300 Kimball Drive
+address2§Suite 300
+city§Parsippany
+state§NJ
+zip§07054
+country§United States
+phone§862 401 0000
+website§https://www.embecta.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§Embecta Corp., a medical device company, focuses on the provision of various solutions to enhance the health and wellbeing of people living with diabetes. Its products include pen needles, syringes, and safety injection devices, as well as digital applications to assist people with managing patient's diabetes. The company primarily sells its products to wholesalers and distributors in the United States and internationally. Embecta Corp. was founded in 1924 and is headquartered in Parsippany, New Jersey.
+fullTimeEmployees§2200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Devdatt  Kurdikar', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2196056, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacob P. Elguicze', 'age': 50, 'title': 'Senior VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1050763, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian R. Capone', 'age': 48, 'title': 'VP, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 645161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Z. Mann', 'age': 51, 'title': 'Senior VP, General Counsel, Head of Business Development & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 959453, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shaun  Curtis', 'age': 54, 'title': 'Senior Vice President of Global Manufacturing & Supply Chain', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 915666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Colleen  Riley', 'age': 59, 'title': 'Senior VP & Chief Technology Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pravesh  Khandelwal', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ginny  Blocki', 'title': 'Senior Vice President of Global Marketing & Product Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jean M. Casner', 'age': 65, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1958, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Blount', 'age': 49, 'title': 'Senior VP & President of North America', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.032899998
+exDividendDate§1701388800
+payoutRatio§0.4918
+priceToSalesTrailing12Months§0.93696445
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.22
+exchange§NMS
+quoteType§EQUITY
+shortName§Embecta Corp.
+longName§Embecta Corp.
+firstTradeDateEpochUtc§1647955800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8d0a6de8-9472-32e2-99d1-9a4592f958e7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§16.0
+targetMeanPrice§16.5
+targetMedianPrice§16.5
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.377
+grossMargins§0.66907996
+ebitdaMargins§0.22894
+trailingPegRatio§None

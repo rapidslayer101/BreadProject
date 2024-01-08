@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 17:46:36.815211
+address1§500 Hills Drive
+address2§Suite 300
+city§Bedminster
+state§NJ
+zip§07921
+country§United States
+phone§908 234 0700
+website§https://www.pgbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Peapack-Gladstone Financial Corporation operates as the bank holding company for Peapack-Gladstone Bank that provides private banking and wealth management services in the United States. The company operates in two segments, Banking and Peapack Private. It offers checking and savings accounts, money market and interest-bearing checking accounts, certificates of deposit, and individual retirement accounts. The company also provides working capital lines of credit, term loans for fixed asset acquisitions, commercial mortgages, multi-family mortgages, and other forms of asset-based financing services; and residential mortgages, home equity lines of credit, and other second mortgage loans. In addition, it offers corporate and industrial (C&I) and equipment finance, commercial real estate, multifamily, residential, and consumer lending activities; treasury management services; C&I advisory services; escrow management; deposit generation; investment management services; personal trust services, including services as executor, trustee, administrator, custodian, and guardian; and other financial planning, tax preparation, and advisory services. Further, the company provides telephone and Internet banking, merchant credit card, and customer support sales services. Its private banking clients include businesses, non-profits, and consumers; and wealth management clients comprise individuals, families, foundations, endowments, trusts, and estates. The company operates its private banking locations in Bedminster, Morristown, Princeton, and Teaneck, New Jersey; and wealth management branches in Somerset, Morris, Hunterdon, and Union counties, as well as operates automated teller machines. Peapack-Gladstone Financial Corporation was founded in 1921 and is headquartered in Bedminster, New Jersey.
+fullTimeEmployees§515
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Douglas L. Kennedy', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1717722, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank A. Cavallaro', 'age': 54, 'title': 'Senior EVP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 546158, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert A. Plante', 'age': 63, 'title': 'Executive VP & COO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 549050, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Babcock', 'age': 65, 'title': 'Senior EVP & President of Peapack Private Wealth Management', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1047195, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory Martin Smith', 'age': 56, 'title': 'Senior Executive VP & President of Commercial Banking', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 587800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francesco S. Rossi', 'age': 47, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric H. Waser', 'age': 62, 'title': 'Executive VP & Head of Investment Banking', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 422601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin B. Runyon', 'title': 'Executive VP, Chief Information & Digital Officer and Head of Information Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maureen E. Hemhauser', 'title': 'Executive VP, Chief Risk Officer & Head of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rosanne  Schwab', 'title': 'Assistant VP of Public Relations & Corporate Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.0068
+exDividendDate§1699401600
+payoutRatio§0.059699997
+fiveYearAvgDividendYield§0.73
+beta§1.034
+priceToSalesTrailing12Months§2.2736206
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.19
+pegRatio§9.22
+exchange§NMS
+quoteType§EQUITY
+shortName§Peapack-Gladstone Financial Cor
+longName§Peapack-Gladstone Financial Corporation
+firstTradeDateEpochUtc§925219800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§21c5782a-4f84-3ff7-8a7f-5ca14831d6e4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.5
+targetLowPrice§28.0
+targetMeanPrice§30.75
+targetMedianPrice§29.25
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§-0.55
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

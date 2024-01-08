@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 08:33:19.423275
+address1§100 First Stamford Place
+address2§Suite 302
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§347 577 9055
+website§https://emeren.com
+industry§Solar
+sector§Technology
+longBusinessSummary§Emeren Group Ltd, through its subsidiaries, develops, builds, operates, and sells solar power projects. It owns and operates 3 gigawatt pipeline of projects and independent power producer assets. The company also develops community solar gardens; and sells project rights. In addition, it engages in engineering design; procurement of solar modules; balance-of-system components and other components; and construction contracting and management services. Further, the company generates and sells electricity. It operates in China, United States, UK, Spain, France, Poland, Italy, Hungary, and Internationally. The company was formerly known as ReneSola Ltd and changed its name to Emeren Group Ltd in January 2023. Emeren Group Ltd was founded in 2005 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§197
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yumin  Liu', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ke  Chen', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chee Loong Cheah', 'age': 58, 'title': 'Chief Investment Officer & Executive VP of Europe', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johnny  Pan', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xin  Wang', 'title': 'Compliance Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jake  Snow', 'title': 'Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mac  Moore', 'title': 'Interim Executive Vice President of North America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. KaiKai  Zhang', 'title': 'Interim Executive Vice President of China', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Shen', 'title': 'Investor Relations Contact', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ella  Li', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.892
+priceToSalesTrailing12Months§1.7603234
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.37
+pegRatio§3.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Emeren Group Ltd
+longName§Emeren Group Ltd
+firstTradeDateEpochUtc§1201617000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46ba9eba-2f4b-3211-a787-dfa6fb4278e3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§3.2
+targetMeanPrice§5.8
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§3.686
+grossMargins§0.26924
+ebitdaMargins§-0.00813
+trailingPegRatio§None

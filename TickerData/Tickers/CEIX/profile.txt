@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 13:27:44.525797
+address1§275 Technology Drive
+address2§Suite 101
+city§Canonsburg
+state§PA
+zip§15317-9565
+country§United States
+phone§724 416 8300
+website§https://www.consolenergy.com
+industry§Thermal Coal
+sector§Energy
+longBusinessSummary§CONSOL Energy Inc. produces and exports bituminous coal in the United States. It operates through Pennsylvania Mining Complex and CONSOL Marine Terminal segment. The company's Pennsylvania Mining Complex segment engages in mining, preparation, and marketing of bituminous coal to power generators, industrial end-users, and metallurgical end-users. Its CONSOL Marine Terminal segment provides coal export terminal services through the Port of Baltimore. In addition, the company develop and operates the Itmann Mine, and the Greenfield reserves and resources. It owns and operates the Pennsylvania Mining Complex (PAMC), which includes the Bailey Mine, the Enlow Fork Mine, the Harvey Mine, and the Central Preparation Plant; and CONSOL Marine Terminal located in the port of Baltimore. Further, the company had 622.1 million tons of Pittsburgh seam reserves; and own and control approximately 1.4 billion tons of Greenfield reserves and resources located in the Northern Appalachian, Central Appalachian, and Illinois basins. The company was founded in 1864 and is headquartered in Canonsburg, Pennsylvania.
+fullTimeEmployees§1860
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James A. Brock', 'age': 66, 'title': 'CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 7963103, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Miteshkumar B. Thakkar', 'age': 44, 'title': 'CFO & President', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1602877, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. Rothka', 'age': 44, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 605507, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt R. Salvatori', 'age': 53, 'title': 'Chief Administrative Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1171494, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Martha A. Wiegand', 'age': 52, 'title': 'General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1653635, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric V. Schubel', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathan  Tucker', 'title': 'Director of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert  Braithwaite', 'title': 'Vice President of Marketing & Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Connell', 'title': 'Senior Vice President of CONSOL Innovations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.4
+dividendYield§0.0421
+exDividendDate§1683849600
+payoutRatio§0.16139999
+beta§1.813
+priceToSalesTrailing12Months§1.2884307
+currency§USD
+dateShortInterest§1702598400
+forwardEps§17.36
+exchange§NYQ
+quoteType§EQUITY
+shortName§CONSOL Energy Inc.
+longName§CONSOL Energy Inc.
+firstTradeDateEpochUtc§1510669800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§85a8af52-4fc1-3036-99c2-b67bc27dbd44
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§105.0
+targetMeanPrice§106.67
+targetMedianPrice§105.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.897
+earningsGrowth§-0.268
+grossMargins§0.46791
+ebitdaMargins§0.4362
+trailingPegRatio§None

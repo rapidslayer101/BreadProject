@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 17:45:57.861551
+address1§10753 Macatawa Drive
+city§Holland
+state§MI
+zip§49424
+country§United States
+phone§616 820 1444
+website§https://www.macatawabank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Macatawa Bank Corporation operates as the bank holding company for Macatawa Bank that provides commercial and consumer banking and trust services. The company accepts various deposits, such as checking accounts, savings accounts, time deposits, regular and money market savings accounts, certificates of deposit, and demand deposits. Its loan products include commercial and industrial loans comprising loans to finance operations and equipment; commercial real estate loans, which consist of construction and development, multi-family, and other non-residential real estate loans; and residential mortgage loans, as well as consumer loans, including automobile loans, home equity lines of credit and installment loans, home improvement loans, deposit account loans, and other loans for household and personal purposes. The company also offers ATM and debit card processing, cash management, trust, and brokerage services. In addition, it provides fraud protection; collection services; disbursement solutions; fund management; and investment and retirement plan services. It serves individuals, businesses, associations, churches, nonprofit organizations, financial institutions, and government authorities. Macatawa Bank Corporation was incorporated in 1997 and is based in Holland, Michigan.
+fullTimeEmployees§313
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jon W. Swets', 'age': 58, 'title': 'CEO, President, Secretary & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 384522, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig A. Hankinson', 'age': 55, 'title': 'Chief Operating Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 384522, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald L. Haan', 'age': 69, 'title': 'Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 559058, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan L. Barker', 'title': 'Chief Financial Officer & Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey A. Tatreau', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodi L. Sevigny', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Leslie D. Leegwater', 'title': 'VP & Human Resources Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill A. Walcott', 'age': 56, 'title': 'Senior VP & Chief Retail Banking Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 250787, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason M. Birchmeier', 'title': 'Senior VP & Chief Credit Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin S. Van Beek', 'title': 'Senior VP & Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.033
+exDividendDate§1699833600
+payoutRatio§0.24059999
+fiveYearAvgDividendYield§3.37
+beta§0.688
+priceToSalesTrailing12Months§3.5015166
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.24
+pegRatio§1.06
+exchange§NMS
+quoteType§EQUITY
+shortName§Macatawa Bank Corporation
+longName§Macatawa Bank Corporation
+firstTradeDateEpochUtc§895671000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§68faae6f-cd14-3e49-8b27-38f8a9cbe5dd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.5
+targetLowPrice§11.0
+targetMeanPrice§11.5
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+earningsGrowth§0.138
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 20:29:28.206486
+address1§Waterloo House
+address2§100 Pitts Bay Road
+city§Pembroke
+zip§HM08
+country§Bermuda
+website§https://www.fidelisinsurance.com
+industry§Insurance—Diversified
+sector§Financial Services
+longBusinessSummary§Fidelis Insurance Holdings Limited, together with its subsidiaries, provides insurance and reinsurance products in Bermuda, Ireland, and the United Kingdom. It operates in three segments: Specialty, Reinsurance, and Bespoke segments. The Specialty segment offers aviation and aerospace, energy, marine, property direct and facultative, and other specialty risk solutions. The Reinsurance segment provides property, retrocession, and whole account reinsurance solutions. The Bespoke segment offers customized risk solutions for clients that include credit and political risk, and other risk transfer opportunities. The company is also involved in specialty treaty reinsurance, and surety bonds and guarantees activities; and upstream energy, energy liability, and marine businesses; and provision of product recall and contamination, and marketing services. Fidelis Insurance Holdings Limited was incorporated in 2014 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel  Burrows', 'title': 'Group CEO & Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allan Carl Decleir', 'age': 58, 'title': 'Group CFO & Executive Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise  Brown-Branch', 'title': 'Group Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Smith', 'title': 'Group Chief Investment Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Byrne', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dee  Pang', 'title': 'Group Chief Information Security Officer & CTO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Miranda  Hunter', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janice R. Weidenborner', 'age': 58, 'title': 'Group Chief Legal Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Iles', 'title': 'Group Head & Full Head of Compliance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Warrick  Beaver', 'title': 'Group Chief People Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.4159391
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.03
+exchange§NYQ
+quoteType§EQUITY
+shortName§Fidelis Insurance Holdings Limi
+longName§Fidelis Insurance Holdings Limited
+firstTradeDateEpochUtc§1688045400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8f59467e-e256-3d46-869d-978ead577f55
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§14.0
+targetMeanPrice§17.14
+targetMedianPrice§17.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.652
+grossMargins§0.61477
+ebitdaMargins§0.60096
+trailingPegRatio§None

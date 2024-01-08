@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 20:44:29.082459
+address1§2665 North First Street
+address2§Suite 300
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§650 351 7700
+website§https://eargo.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Eargo, Inc., a medical device company, engages in enhancing the quality of life of people with hearing loss in the United States. It markets and sells hearing aids. The company sells its products direct-to-consumer and through omni-channel. The company was formerly known as Aria Innovations, Inc. and changed its name to Eargo, Inc. in November 2014. Eargo, Inc. was incorporated in 2010 and is headquartered in San Jose, California.
+fullTimeEmployees§243
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William H. Brownie', 'age': 56, 'title': 'Interim CEO & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 625200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Shen', 'title': 'Co-Founder and Chief Clinical & Science Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Thorpe', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim  Trine Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy  La Pierre', 'title': 'Chief Legal Officer & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tricia  Burchell', 'title': 'Senior Vice President of People Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.475
+priceToSalesTrailing12Months§1.3182315
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-56.2
+exchange§NMS
+quoteType§EQUITY
+shortName§Eargo, Inc.
+longName§Eargo, Inc.
+firstTradeDateEpochUtc§1602855000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3272e9b8-2d6c-3165-8970-02552fc56312
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§2.673
+grossMargins§0.41953
+ebitdaMargins§-2.12963
+trailingPegRatio§None

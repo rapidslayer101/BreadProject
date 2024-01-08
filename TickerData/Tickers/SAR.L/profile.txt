@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 09:40:19.528073
+address1§Langford Arch
+address2§Unit 2A London Road Pampisford
+city§Cambridge
+zip§CB22 3FX
+country§United Kingdom
+phone§44 1223 497 700
+website§https://www.sareum.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Sareum Holdings plc, a clinical stage small molecule drug development company, engages in the discovery and development of therapeutic drugs for cancer and autoimmune diseases. It develops small molecule therapeutic drugs based on its Sareum Kinase Inhibitor Library drug discovery platform. The company's lead product is SDC-1801, a TYK2/JAK1 inhibitor that is in a Phase 1a clinical trials for the treatment of autoimmune diseases. Its also developing SDC-1802, a TYK2/JAK1 inhibitor, which is in preclinical stage for cancer	and	cancer-immunotherapy applications; and SRA737, a clinical-stage, oral, selective Checkpoint kinase 1 (Chk1) inhibitor, which has completed Phase II clinical trials that targets cancer cell replication and DNA damage repair mechanisms. The company was incorporated in 2004 and is headquartered in Cambridge, the United Kingdom.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Tim J. Mitchell Ph.D.', 'age': 63, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 207847, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John C. Reader Ph.D.', 'age': 56, 'title': 'Founder, Chief Scientific Officer & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 205804, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clive H. W. Birch F.C.A.', 'age': 69, 'title': 'Senior Independent Non-Executive Director & Secretary', 'yearBorn': 1954, 'fiscalYear': 2023, 'totalPay': 25000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alexandra  Harrison', 'title': 'Head of IR', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.644
+currency§GBp
+forwardEps§0.0
+exchange§LSE
+quoteType§EQUITY
+shortName§SAREUM HOLDINGS PLC ORD GBP 0.0
+longName§Sareum Holdings plc
+firstTradeDateEpochUtc§1097478000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9c42a7ba-856b-3740-9c74-fbc5ce5afdb7
+targetHighPrice§304.0
+targetLowPrice§304.0
+targetMeanPrice§304.0
+targetMedianPrice§304.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§2.182
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

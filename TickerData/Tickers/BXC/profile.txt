@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 10:27:36.482621
+address1§1950 Spectrum Circle
+address2§Suite 300
+city§Marietta
+state§GA
+zip§30067
+country§United States
+phone§770 953 7000
+website§https://www.bluelinxco.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§BlueLinx Holdings Inc., together with its subsidiaries, distributes residential and commercial building products in the United States. The company distributes specialty products comprising engineered wood, siding, millwork, outdoor living, specialty lumber and panels, and industrial products; and structural products include lumber, plywood, oriented strand boards, rebars and remesh, and other wood products primarily that are used for structural support in construction projects. It also provides various value-added services and solutions to customers and suppliers. The company serves dealers, specialty distributors, national home centers, pro dealers, cooperatives, regional and local dealers, and industrial manufacturers. BlueLinx Holdings Inc. was incorporated in 2004 and is headquartered in Marietta, Georgia.
+fullTimeEmployees§1980
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shyam K. Reddy', 'age': 48, 'title': 'CEO, President & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1069796, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell B. Lewis', 'age': 61, 'title': 'Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 85590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Andrew Wamser Jr.', 'age': 49, 'title': 'Senior VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly A. DeBrock', 'age': 56, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tricia  Kinney', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Dwyer', 'title': 'Chief Strategy & Corporate Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Wilson', 'age': 60, 'title': 'Senior Vice President of Product Management', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1197417600
+payoutRatio§0.0
+beta§1.914
+priceToSalesTrailing12Months§0.29383707
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.16
+pegRatio§0.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Bluelinx Holdings Inc.
+longName§BlueLinx Holdings Inc.
+firstTradeDateEpochUtc§1103034600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e55ea8ab-ab9f-35c6-bc91-e14b5f1f85be
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§90.0
+targetMeanPrice§99.0
+targetMedianPrice§100.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.864
+earningsGrowth§-0.575
+grossMargins§0.17108999
+ebitdaMargins§0.05717
+trailingPegRatio§None

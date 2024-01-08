@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 20:45:55.579824
+address1§52 Discovery
+city§Irvine
+state§CA
+zip§92618
+country§United States
+phone§949 297 7000
+fax§949 297 7001
+website§https://www.masimo.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Masimo Corporation develops, manufactures, and markets various patient monitoring technologies, and automation and connectivity solutions worldwide. The company offers masimo signal extraction technology (SET) pulse oximetry with measure-through motion and low perfusion pulse oximetry monitoring to address the primary limitations of conventional pulse oximetry; Masimo rainbow SET platform, including rainbow SET Pulse CO-Oximetry products that allows noninvasive monitoring of carboxyhemoglobin, methemoglobin, hemoglobin concentration, fractional arterial oxygen saturation, oxygen content, pleth variability index, rainbow pleth variability index, respiration rate from the pleth, and oxygen reserve index, as well as acoustic respiration monitoring, SedLine brain function monitoring, NomoLine capnography and gas monitoring, and O3 regional oximetry. It also provides brain function and hemodynamic monitoring solutions; patient position and activity tracking, and neuromodulation technology solutions; and Masimo Hospital Automation platform, including hospital automation solutions, including Patient SafetyNet, Patient SafetyNet Surveillance, SafetyNet, SafetyNet-Open, Replica, Iris, MyView, UniView, Uniview: 60, Trace, Masimo Sleep, Centroid, and Bridg; and nasal high-flow ventilation, neuromodulation therapeutics, and telehealth solutions. It provides its products through direct sales force, distributors, and original equipment manufacturers partners to hospitals, emergency medical service and home care providers, long-term care facilities, physician offices, veterinarians, and consumers; and home wellness products through e-commerce internet sites, such as masimopersonalhealth.com, amazon.com, and shopify.com. Masimo Corporation was incorporated in 1989 and is headquartered in Irvine, California.
+fullTimeEmployees§4000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph E. Kiani', 'age': 58, 'title': 'Founder, CEO & Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3311493, 'exercisedValue': 0, 'unexercisedValue': 77218144}, {'maxAge': 1, 'name': 'Mr. Micah  Young', 'age': 44, 'title': 'Executive VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1130174, 'exercisedValue': 0, 'unexercisedValue': 1428725}, {'maxAge': 1, 'name': 'Mr. Bilal  Muhsin', 'age': 42, 'title': 'Chief Operating Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1198335, 'exercisedValue': 0, 'unexercisedValue': 7113555}, {'maxAge': 1, 'name': 'Mr. Thomas Samuel McClenahan', 'age': 50, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 957510, 'exercisedValue': 0, 'unexercisedValue': 6667915}, {'maxAge': 1, 'name': 'Mr. Tao Leopold Levy', 'age': 49, 'title': 'Executive Vice President of Business Development', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 798523, 'exercisedValue': 0, 'unexercisedValue': 1791955}, {'maxAge': 1, 'name': 'Mr. Paul  Hataishi', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yongsam  Lee', 'age': 58, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1100540, 'exercisedValue': 1198620, 'unexercisedValue': 6244800}, {'maxAge': 1, 'name': 'Dr. Steven J. Barker', 'age': 78, 'title': 'Chairman of Scientific Advisory Board & Chief Science Officer', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 139555, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eli  Kammerman', 'title': 'Vice President of Business Development & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Coleman', 'age': 59, 'title': 'President of Worldwide Sales, Professional Services & Medical Affairs', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 584592, 'exercisedValue': 5569356, 'unexercisedValue': 5430256}]
+auditRisk§3
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1353628800
+payoutRatio§0.0
+beta§0.999
+priceToSalesTrailing12Months§2.7871404
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.08
+pegRatio§3.18
+exchange§NMS
+quoteType§EQUITY
+shortName§Masimo Corporation
+longName§Masimo Corporation
+firstTradeDateEpochUtc§1186579800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e632c796-2b7c-370d-8fe5-85eca27f2bf0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§125.0
+targetLowPrice§70.0
+targetMeanPrice§96.33
+targetMedianPrice§96.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.941
+earningsGrowth§-0.714
+grossMargins§0.49816
+ebitdaMargins§0.14285
+trailingPegRatio§None

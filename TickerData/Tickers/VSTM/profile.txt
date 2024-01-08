@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 20:47:55.098290
+address1§117 Kendrick Street
+address2§Suite 500
+city§Needham
+state§MA
+zip§02494
+country§United States
+phone§781 292 4200
+website§https://www.verastem.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Verastem, Inc., a development-stage biopharmaceutical company, focuses on developing and commercializing drugs for the treatment of cancer. Its product in development includes VS-6766, a rapidly accelerated fibrosarcoma (RAF)/mitogen-activated protein kinase (MEK) clamp that blocks MEK kinase activity and the ability of RAF to phosphorylate MEK. The company also engages in developing RAMP 201, an adaptive two-part multicenter, parallel cohort, randomized open label trial to evaluate the efficacy and safety of avutometinib and in combination with defactinib, an oral small molecule inhibitor of focal adhesion kinase (FAK) in patients with recurrent low grade serous ovarian cancer; and RAMP 202, which is in Phase 2 trial to evaluate the safety of VS-6766 in combination with defactinib in patients with KRAS and BRAF mutant non-small cell lung cancer following treatment with a platinum-based regimen and immune checkpoint inhibitor. Verastem, Inc. has license agreements with Chugai Pharmaceutical Co., Ltd. for the development, commercialization, and manufacture of products containing avutometinib; and Pfizer Inc. to research, develop, manufacture, and commercialize products containing Pfizer's inhibitors of FAK for therapeutic, diagnostic, and prophylactic uses in humans. In addition, it has a clinical collaboration agreement with Amgen, Inc. to evaluate the combination of avutometinib with Amgen's KRAS-G12C inhibitor LUMAKRASTM which in Phase 1/2 trial entitled RAMP 203; and a discovery and development collaboration with GenFleet Therapeutics to advance new programs targeting RAS pathway-driven cancers. The company was incorporated in 2010 and is headquartered in Needham, Massachusetts.
+fullTimeEmployees§57
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel W. Paterson', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 697977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Calkins', 'age': 36, 'title': 'CFO, Head of Investor Relations, Principal Accounting Officer & Financial Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 1419322, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard H. Aldrich M.B.A.', 'age': 69, 'title': 'Founder and Consultant', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 38387, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert A. Weinberg Ph.D.', 'title': 'Co-Founder & Chair of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Piyush B. Gupta Ph.D.', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michelle  Dipp M.D., Ph.D.', 'age': 47, 'title': 'Co-Founder', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Pintar M.B.A.', 'title': 'Senior Vice President of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jonathan  Pachter Ph.D.', 'age': 65, 'title': 'Chief Scientific Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 238176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Buffington', 'title': 'Senior Vice President of Corporate Communications & Patient Advocacy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nate  Sanburn', 'title': 'Senior Vice President of Corporate Development & External Engagement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.43
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.1
+pegRatio§-1.4
+exchange§NCM
+quoteType§EQUITY
+shortName§Verastem, Inc.
+longName§Verastem, Inc.
+firstTradeDateEpochUtc§1327674600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§beed18bc-04ae-39af-bc79-04e660295dcc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§17.5
+targetMeanPrice§28.79
+targetMedianPrice§32.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§6.959
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

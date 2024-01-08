@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 20:30:28.763307
+address1§505 Quarry Park Boulevard S.E.
+city§Calgary
+state§AB
+zip§T2C 5N1
+country§Canada
+phone§800 567 3776
+website§https://www.imperialoil.ca
+industry§Oil & Gas Integrated
+sector§Energy
+longBusinessSummary§Imperial Oil Limited engages in exploration, production, and sale of crude oil and natural gas in Canada. The company operates through three segments: Upstream, Downstream and Chemical segments. The Upstream segment explores for, and produces crude oil, natural gas, synthetic crude oil, and bitumen. The Downstream segment is involved in the transportation and refining of crude oil, blending of refined products, and the distribution and marketing of refined products. It also transports crude oil production and third-party crude oil to refineries by contracted pipelines, common carrier pipelines, and rail; owns and operates refineries; maintains a distribution system to move petroleum products to market by pipeline, tanker, rail, and road transport; owns and operates fuel terminals, natural gas liquids, and products pipelines in Alberta, Manitoba, and Ontario; markets petroleum products under the Esso and Mobil brands; and sells petroleum products, including fuel, asphalt, and lubricants for industrial and transportation customers, independent marketers, and resellers, as well as other refiners serving the agriculture, residential heating, and commercial markets through branded fuel and lubricant resellers. The Chemical segment manufactures and markets various benzene, aromatic and aliphatic solvents, plasticizer intermediates, and polyethylene resin; and markets refinery grade propylene. The company was incorporated in 1880 and is headquartered in Calgary, Canada. Imperial Oil Limited is a subsidiary of Exxon Mobil Corporation.
+fullTimeEmployees§5300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bradley William Corson BS', 'age': 61, 'title': 'Chairman, President & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 4465295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel E. Lyons', 'age': 60, 'title': 'Senior VP of Finance & Administration and Controller', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2748246, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon P. Younger', 'age': 47, 'title': 'Senior Vice President of Upstream', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1509791, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce A. Jolly', 'age': 55, 'title': 'Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 897817, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dave  Hughes', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian R. Laing', 'age': 49, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristi L. Desjardins', 'age': 49, 'title': 'Vice President of Human Resources', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sherri L. Evers', 'age': 46, 'title': 'Senior Vice President of Sustainability, Commercial Development & Product Solutions', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§5
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.51
+dividendYield§0.0257
+exDividendDate§1701302400
+payoutRatio§0.21120001
+fiveYearAvgDividendYield§2.65
+beta§1.757
+priceToSalesTrailing12Months§0.6053235
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.77
+pegRatio§-1.77
+exchange§ASE
+quoteType§EQUITY
+shortName§Imperial Oil Limited
+longName§Imperial Oil Limited
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b6f60f2f-331c-3ad0-8e19-a91d0ba388f4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§82.24
+targetLowPrice§61.3
+targetMeanPrice§68.26
+targetMedianPrice§63.55
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.043
+earningsGrowth§-0.148
+grossMargins§0.18434
+ebitdaMargins§0.16603
+trailingPegRatio§None

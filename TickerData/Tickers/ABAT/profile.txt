@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 23:43:05.478834
+address1§100 Washington Street
+address2§Suite 100
+city§Reno
+state§NV
+zip§89503
+country§United States
+phone§775 473 4744
+website§https://americanbatterytechnology.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§American Battery Technology Company operates as a battery materials company. The company explores for resources of battery metals, such as such as lithium, nickel, cobalt, and manganese; and develops and commercializes technologies for the extraction of battery metals, as well as commercializes integrated process for the recycling of lithium-ion batteries. The company was formerly known as American Battery Metals Corporation. American Battery Technology Company was incorporated in 2011 and is headquartered in Reno, Nevada.
+fullTimeEmployees§54
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan Mitchell Melsert', 'age': 41, 'title': 'CEO, CTO & Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 358750, 'exercisedValue': 0, 'unexercisedValue': 161830}, {'maxAge': 1, 'name': 'Mr. Jesse Samuel Deutsch', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 27778, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andres  Meza', 'age': 42, 'title': 'COO & Secretary to the Board', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 247917, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott H. Jolcover A.A.', 'age': 72, 'title': 'Chief Resource Officer', 'yearBorn': 1951, 'fiscalYear': 2023, 'totalPay': 231875, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Young', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  Kuzma', 'age': 70, 'title': 'Chief Geologist & Consultant', 'yearBorn': 1953, 'fiscalYear': 2023, 'totalPay': 60000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross  Leisinger', 'title': 'Head of Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Hamilton', 'title': 'Head of Policy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.661
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§American Battery Technology Com
+longName§American Battery Technology Company
+firstTradeDateEpochUtc§1456324200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a807ca94-4088-3d70-aeb0-4c4b0793731e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.302
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

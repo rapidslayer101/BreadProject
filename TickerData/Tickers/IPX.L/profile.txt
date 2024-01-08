@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 02:38:27.311616
+address1§7th Floor
+address2§30 Panton Street
+city§London
+zip§SW1Y 4AJ
+country§United Kingdom
+phone§+44 20 39123000
+website§https://www.impaxam.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Impax Asset Management Group plc is a publicly owned investment manager. Through its subsidiaries, it provides investment services to funds specializing in the environmental markets sector, with a focus on alternative energy, water, and waste sectors, primarily in the United Kingdom. It manages a range of funds and segregated accounts on behalf of institutional and private investors. It employs both fundamental to make its investments. The company was formerly known as Impax Group plc and changed its name to Impax Asset Management Group plc in October 2009. Impax Asset Management Group plc was founded in 1998 and is based in London, the United Kingdom.
+fullTimeEmployees§300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian Richard Simm', 'age': 56, 'title': 'Founder, Chief Executive, MD & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1531002, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen Josephine Cockburn', 'age': 54, 'title': 'CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 482683, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren  Johnson', 'title': 'Global COO & Executive Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Jenkyn-Jones', 'age': 57, 'title': 'Chief Investment Officer of Listed Investments & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zack  Wilson', 'title': 'Executive Director, Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  French', 'title': 'Head of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Michael Forster', 'age': 52, 'title': 'MD & Senior Portfolio Manager', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Gunter von Preyss', 'age': 60, 'title': 'Executive Director & Head of Private Equity Infrastructure (Europe)', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Higgo', 'title': 'MD and Head of Investment Risk & Process', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Landymore', 'title': 'Senior Portfolio Manager & MD', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.28
+dividendYield§0.053000003
+exDividendDate§1707350400
+payoutRatio§0.92620003
+fiveYearAvgDividendYield§2.28
+beta§1.499
+priceToSalesTrailing12Months§3.9568563
+currency§GBp
+forwardEps§37.61
+pegRatio§4.07
+exchange§LSE
+quoteType§EQUITY
+shortName§IMPAX ASSET MANAGEMENT GROUP PL
+longName§Impax Asset Management Group Plc
+firstTradeDateEpochUtc§849254400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b42357aa-038b-3491-abfe-aa7ea414ff06
+targetHighPrice§700.0
+targetLowPrice§450.0
+targetMeanPrice§577.5
+targetMedianPrice§580.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.482
+earningsGrowth§-0.309
+grossMargins§0.47724
+ebitdaMargins§0.32292
+trailingPegRatio§None

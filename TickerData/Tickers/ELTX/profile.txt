@@ -1,0 +1,47 @@
+# reload+after+2024-01-23 12:44:32.421619
+address1§451 D Street
+address2§5th Floor Suite 501
+city§Boston
+state§MA
+zip§02210
+country§United States
+phone§857-209-0050
+website§https://elicio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Elicio Therapeutics, Inc., a clinical-stage biotechnology company, engages in developing a pipeline of novel immunotherapies for the treatment of cancer and other diseases. The company's lead product candidate is ELI-002, an AMP therapeutic vaccine for the treatment of KRAS-driven cancers. It is also developing ELI-004, an AMP-modified CpG adjuvant, a component of ELI-002; ELI-007, a lymph node targeted AMP-peptide vaccine for mutant BRAF-driven cancers; ELI-008, a multivalent lymph node targeted AMP-peptide vaccine for mutant TP53-expressing cancers; ELI-005, a vaccine candidate for the prevention of COVID-19; ELI-011 for the treatment of hematological cancers; and ELI-012, a mKRAS TCR T cell AMP-lifier designs to use in combination with mKRAS-targeted TCR T cell therapy against mKRAS-driven cancers. The company is headquartered in Boston, Massachusetts.
+fullTimeEmployees§23
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert T. Connelly', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2020, 'totalPay': 612000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christopher M. Haqq M.D., Ph.D.', 'age': 57, 'title': 'Executive VP, Head of Research & Development and Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2020, 'totalPay': 589000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Darrell J. Irvine Ph.D.', 'title': 'Co-Founder, Consultant, Board Observer & Chairman of Scientific Advisory Board', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Piekos', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  DiVecchia', 'title': 'Senior Vice President of Operations & Human Resources', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter  DeMuth Ph.D.', 'age': 37, 'title': 'Chief Scientific Officer', 'yearBorn': 1986, 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Esther  Welkowsky', 'title': 'Senior Vice President of Clinical Development', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joy  Seymour', 'title': 'VP & Head of Regulatory Affairs', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John J. Concannon III', 'title': 'Secretary', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1609372800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.03
+exchange§NGM
+quoteType§EQUITY
+shortName§Elicio Therapeutics, Inc.
+longName§Elicio Therapeutics, Inc.
+firstTradeDateEpochUtc§1612535400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f5a7063e-a200-3645-afdf-a5955dd38a4c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.229
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

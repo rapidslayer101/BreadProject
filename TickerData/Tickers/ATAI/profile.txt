@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 01:43:29.283699
+address1§Wallstrasse 16
+city§Berlin
+zip§10179
+country§Germany
+phone§49 89 2153 9035
+fax§49 89 2153 9035 1
+website§https://www.atai.life
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§ATAI Life Sciences N.V., a clinical-stage biopharmaceutical company, engages in acquiring, incubating, and developing various therapeutics to treat depression, anxiety, addiction, and other mental health disorders. Its principal clinical programs include RL-007, a pro-cognitive neuromodulator for cognitive impairment associated with schizophrenia; GRX-917, a deuterated etifoxine for anxiety disorders; VLS-01 a N,N-Dimethyltryptamine for treatment resistant depression (TRD); DMX-1002, an oral formulation of ibogaine, a cholinergic, glutamatergic and monoaminergic receptor modulator that is a naturally occurring psychedelic product isolated from a West African shrub for the treatment of opioid use disorders (OUD); and EMP-01, an oral formulation of an MDMA derivative being developed for the treatment of post-traumatic stress disorder. The company's other clinical programs comprise PCN-101, a subcutaneous formulation of R-ketamine, as a therapy for psychiatric indications initially focused on TRD; and KUR-101, a formulation of deuterated mitragynine for the treatment of OUD. ATAI Life Sciences N.V. was founded in 2018 and is headquartered in Berlin, Germany with offices in New York and London.
+fullTimeEmployees§133
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christian  Angermayer', 'age': 45, 'title': 'Founder & Chairman of the Supervisory Board', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 70000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Florian  Brand', 'age': 36, 'title': 'Co-founder & CEO', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 835442, 'exercisedValue': 0, 'unexercisedValue': 9709600}, {'maxAge': 1, 'name': 'Dr. Srinivas G. Rao M.D., Ph.D.', 'age': 54, 'title': 'Co-Founder & Chief Scientific Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 834150, 'exercisedValue': 0, 'unexercisedValue': 457481}, {'maxAge': 1, 'name': 'Mr. Stephen B. Bardin', 'age': 33, 'title': 'MD & CFO (Leave of Absence)', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 651322, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Johnson', 'title': 'Chief Accounting Officer & Interim CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Raven Ph.D.', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank  Stegert', 'age': 42, 'title': 'Vice President of Investment & Venture Management', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Barrett', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Glenn  Short Ph.D.', 'title': 'Senior Vice President of Early Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sahil V. Kirpekar M.D.', 'age': 38, 'title': 'Chief Business Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.871
+priceToSalesTrailing12Months§815.13885
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.73
+exchange§NGM
+quoteType§EQUITY
+shortName§ATAI Life Sciences N.V.
+longName§Atai Life Sciences N.V.
+firstTradeDateEpochUtc§1624023000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8699f3bf-7398-34d0-b0ba-129948e2583d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§5.1
+targetMeanPrice§12.77
+targetMedianPrice§12.25
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§10.688
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

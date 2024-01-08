@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 09:46:02.456533
+address1§600 B Street
+address2§Suite 100
+city§San Diego
+state§CA
+zip§92101
+country§United States
+phone§619 269 6800
+website§https://www.miteksystems.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Mitek Systems, Inc. provides mobile image capture and digital identity verification solutions worldwide. Its product portfolio includes Mobile Deposit that enables individuals and businesses to remotely deposit checks using their camera-equipped smartphone or tablet; Mobile Verify, an identity verification solution that is integrated into mobile apps, mobile websites, and desktop applications; and Mobile Fill, which includes automatic image capture, minimizes the numbers of clicks, and expedites form fill completion. The company also offers MiSnap, a mobile-capture software development kit that enables an intuitive user experience and instant capture of quality images of identity documents and checks. CheckReader enables financial institutions to automatically extract data from checks once they have been scanned or photographed by the application; Check Fraud Defender, an AI-powered and cloud-hosted model for fighting check fraud; and Check Intelligence that enables financial institutions to automatically extract data from a check image received across any deposit channel, including branch, ATM, remote deposit capture, and mobile. In addition, it provides MiVIP, an end-to-end KYC platform that allows companies to design, build, and deploy robust KYC journeys with little or no development resources; and MiPass provides protection against most sophisticated forms of identity theft and dangerous fraud techniques, such as deepfakes and synthetic identities. Further, the company provides ID_CLOUD, an automated identity verification solution that is integrated into a customers' application to read and validate identity documents; IDLive Face, a passive facial liveness detection product; IDVoice, a robust AI-driven voice biometric engine; IDLive Voice to stop spoofing attacks on voice biometric systems; and IDLive Doc that works to fight fraud related to digitally displayed document images. Mitek Systems, Inc. was incorporated in 1986 and is based in San Diego, California.
+fullTimeEmployees§565
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scipio Maximus Carnecchia', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 909720, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Diamond', 'age': 58, 'title': 'Senior VP & GM of Digital Banking', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 483093, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David B. Lyle', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Kehrli', 'title': 'Investor Contacts', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason L. Gray', 'age': 52, 'title': 'Chief Legal Officer, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 575906, 'exercisedValue': 0, 'unexercisedValue': 505000}, {'maxAge': 1, 'name': 'Angela M. Romei', 'title': 'Corporate Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cindy  White', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judith Ohrn Hicks', 'age': 59, 'title': 'Senior Vice President of People Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Briggs', 'title': 'Senior VP of Identity & Head of Products', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.08
+priceToSalesTrailing12Months§3.1449976
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.07
+pegRatio§0.86
+exchange§NCM
+quoteType§EQUITY
+shortName§Mitek Systems, Inc.
+longName§Mitek Systems, Inc.
+firstTradeDateEpochUtc§599841000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§63f28772-5bbd-301f-b07a-7ec30c5122e8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§13.0
+targetMeanPrice§17.6
+targetMedianPrice§17.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§3.226
+grossMargins§0.87391
+ebitdaMargins§0.27
+trailingPegRatio§None

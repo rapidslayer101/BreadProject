@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 22:46:15.107744
+address1§1775 Tysons Boulevard
+address2§5th Floor
+city§McLean
+state§VA
+zip§22102
+country§United States
+phone§800 775 0982
+website§https://www.nextnav.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§NextNav Inc. provides next generation positioning, navigation, and timing (PNT) solutions in the United States. It offers Pinnacle, a dedicated vertical positioning network to cover entire metropolitan areas including devices equipped with a barometric pressure sensor with the highest quality wide-area altitude service, which is based on three primary components comprising an altitude station network, device software, and secure cloud services platform. The company also provides TerraPoiNT, an 3D PNT system, provides positioning, navigation and timing services provided by GPS through a land-based GPS satellite constellation including broadcast transmitter. It serves Wi-Fi, telecom, public safety, gaming and location apps, and critical infrastructure applications. The company was founded in 2007 and is headquartered in McLean, Virginia.
+fullTimeEmployees§106
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary M. Parsons', 'age': 72, 'title': 'Executive Chairman', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 218898, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian D. Gates', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 286677, 'exercisedValue': 0, 'unexercisedValue': 155213}, {'maxAge': 1, 'name': 'Mr. David L. Knutson', 'age': 53, 'title': 'Senior Vice President of Operations & Deployment', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 286000, 'exercisedValue': 0, 'unexercisedValue': 121383}, {'maxAge': 1, 'name': 'Mr. Ganesh  Pattabiraman', 'age': 50, 'title': 'Senior Advisor', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 361750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mariam  Sorond', 'title': 'CEO & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Arun  Raghupathy', 'age': 50, 'title': 'Co-Founder & CTO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 262342, 'exercisedValue': 0, 'unexercisedValue': 1709042}, {'maxAge': 1, 'name': 'Sammaad R. Shams', 'title': 'Corporate Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert H. Lantz', 'age': 60, 'title': 'VP, General Counsel & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gillian  Smith', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.305
+priceToSalesTrailing12Months§146.13313
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.46
+exchange§NCM
+quoteType§EQUITY
+shortName§NextNav Inc.
+longName§NextNav Inc.
+firstTradeDateEpochUtc§1604327400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8cc2e724-0164-328f-9c3f-0e5e21032c56
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.3
+recommendationKey§buy
+quickRatio§8.912
+grossMargins§-2.5650299
+ebitdaMargins§0.0
+trailingPegRatio§None

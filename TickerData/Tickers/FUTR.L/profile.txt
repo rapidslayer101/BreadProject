@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 03:37:57.388664
+address1§Quay House
+address2§The Ambury
+city§Bath
+zip§BA1 1UA
+country§United Kingdom
+phone§44 12 2544 2244
+website§https://www.futureplc.com
+industry§Publishing
+sector§Communication Services
+longBusinessSummary§Future plc, together with its subsidiaries, publishes and distributes content for games, entertainment, technology, sports, savings and wealth, lifestyle, knowledge and news, and B2B sectors primarily in the United States and the United Kingdom. It operates through Media and Magazine segments. The company offers content through various forms, such as websites, email newsletters, videos, social platforms, magazines, and events, as well as advertising comprising digital advertising, AVOD, newsletters, events, and lead generation; eCommerce, including print and digital subscriptions, and newstrade; and direct consumer monetisation frameworks. It also provides print licensing, endorsement licensing, comparison shopping, video content production, energy auto switching, and digital media publishing services, as well as various sales and distribution services to third party. Future plc was founded in 1985 and is based in Bath, the United Kingdom.
+fullTimeEmployees§2937
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan  Steinberg', 'age': 46, 'title': 'CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 917400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Penelope  Ladkin-Brand', 'age': 45, 'title': 'CFO & Chief Strategy Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 442000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Harris', 'title': 'COO & Chief of Staff', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Li Ying', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marion  Le Bot', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Dawkins', 'title': 'Global Editor In Chief of Gamesradar+', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neville  Daniels', 'title': 'Managing Director of APAC', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Greenish', 'title': 'Managing Director Commercial & Home Interest', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke  Edson', 'title': 'U.S. Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  MacLellan', 'title': 'Senior Vice President of Engineering', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0044
+exDividendDate§1705536000
+payoutRatio§0.0361
+fiveYearAvgDividendYield§0.14
+beta§0.78
+priceToSalesTrailing12Months§1.1690019
+currency§GBp
+forwardEps§137.44
+pegRatio§1.68
+exchange§LSE
+quoteType§EQUITY
+shortName§FUTURE PLC ORD 15P
+longName§Future plc
+firstTradeDateEpochUtc§929689200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a5b5d397-9212-31c4-a5e1-d61a24a802ab
+targetHighPrice§4089.0
+targetLowPrice§660.0
+targetMeanPrice§1691.1
+targetMedianPrice§1665.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.699
+earningsGrowth§-0.03
+grossMargins§0.48231998
+ebitdaMargins§0.33451998
+trailingPegRatio§None

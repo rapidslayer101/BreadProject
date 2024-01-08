@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 06:29:57.477750
+address1§333 Bridge Street
+city§Fairhaven
+state§MA
+zip§02719
+country§United States
+phone§800 225 8500
+website§https://www.acushnetholdingscorp.com
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§Acushnet Holdings Corp. designs, develops, manufactures, and distributes golf products in the United States, Europe, the Middle East, Africa, Japan, Korea, and internationally. The company operates through four segments: Titleist Golf Balls, Titleist Golf Clubs, Titleist Golf Gear, and FootJoy Golf Wear. It offers golf balls under the Titleist brand; golf clubs, such as drivers, fairways, hybrids, and irons under the Titleist brand name; wedges under the Vokey Design brand; and putters under the Scotty Cameron brand. The company also provides golf bags, headwear, golf gloves, travel products, head covers, and other golf accessories, as well as offers customization and personalization of products in Titleist golf gear. In addition, it offers golf shoes, gloves, golf outerwear, and men's and women's golf apparels under the FootJoy brand; and ski, golf, and lifestyle apparels under the KJUS brand name. It sells its products through on course golf shops and golf specialty retailers, as well as through representatives, other retailers, and online. The company was formerly known as Alexandria Holdings Corp. and changed its name to Acushnet Holdings Corp. in March 2016. Acushnet Holdings Corp. was founded in 1910 and is headquartered in Fairhaven, Massachusetts.
+fullTimeEmployees§7300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David E. Maher', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2251423, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean S. Sullivan', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 113750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Louise Bohn', 'age': 62, 'title': 'President of Titleist Golf Balls', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 924577, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Pelisek', 'age': 62, 'title': 'President of Titleist Golf Clubs', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 915580, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Aaron Lindner', 'age': 54, 'title': 'President of FootJoy', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 911265, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas N. Mohamed', 'age': 47, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger  Czuchra', 'age': 53, 'title': 'Executive VP and Chief Technology & Digital Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roland A. Giroux', 'age': 62, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan J. Reidy', 'age': 45, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Duke Jr.', 'age': 54, 'title': 'President of Titleist Golf Gear', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.78
+dividendYield§0.0128
+exDividendDate§1701302400
+payoutRatio§0.2297
+fiveYearAvgDividendYield§1.59
+beta§0.897
+priceToSalesTrailing12Months§1.653085
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.12
+pegRatio§4.13
+exchange§NYQ
+quoteType§EQUITY
+shortName§Acushnet Holdings Corp.
+longName§Acushnet Holdings Corp.
+firstTradeDateEpochUtc§1477661400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§15b7a9f5-03f5-37ca-9666-9a81d1b70d78
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§84.0
+targetLowPrice§55.0
+targetMeanPrice§64.56
+targetMedianPrice§60.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.458
+earningsGrowth§0.181
+grossMargins§0.52406
+ebitdaMargins§0.14694001
+trailingPegRatio§None

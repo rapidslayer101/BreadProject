@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 03:40:35.879757
+address1§St. James’s Place House
+address2§1 Tetbury Road
+city§Cirencester
+zip§GL7 1FP
+country§United Kingdom
+phone§44 1285 640 302
+website§https://www.sjp.co.uk
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§St. James's Place plc is a publicly owned investment manager. The firm launches and manages equity, fixed income, and balanced mutual funds for its clients. It invests in public equity and fixed income market across the globe. The firm was formerly known as St. James's Place Capital plc. St. James's Place plc was founded in 1991 and is based in Cirencester, United Kingdom.
+fullTimeEmployees§2770
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Craig Gordon Gentle', 'age': 55, 'title': 'CFO, Executive Director & Member of Executive Board', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1039662, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Thomas FitzPatrick C.A.', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sir Mark Aubrey Weinberg', 'age': 92, 'title': 'Founder & President', 'yearBorn': 1931, 'fiscalYear': 2022, 'totalPay': 188436, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lord Nathaniel Charles Rothschild GBE, OM', 'age': 87, 'title': 'Founder', 'yearBorn': 1936, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iain  Rayner', 'title': 'Chief Operating Officer & Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  MacKenzie', 'title': 'Chief Operations & Technology Officer and Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth J. Kelly', 'title': 'Chief Corporate Affairs & People Officer and Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Edwards', 'title': 'Partnership Director & Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Sutton', 'title': 'Chief Risk Officer & Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Beal', 'title': 'Director of Investments & Member of Executive Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.53
+dividendYield§0.082399994
+exDividendDate§1692835200
+payoutRatio§0.8083
+fiveYearAvgDividendYield§4.46
+beta§1.211
+priceToSalesTrailing12Months§0.30020583
+currency§GBp
+forwardEps§66.24
+pegRatio§-6.19
+exchange§LSE
+quoteType§EQUITY
+shortName§ST. JAMES'S PLACE PLC ORD 15P
+longName§St. James's Place plc
+firstTradeDateEpochUtc§651826800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§16a9479d-6105-3cb9-a5ff-c3d62ecb4c20
+targetHighPrice§1500.0
+targetLowPrice§660.0
+targetMeanPrice§1012.86
+targetMedianPrice§942.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§1.585
+earningsGrowth§-0.226
+grossMargins§0.21537
+ebitdaMargins§0.055370003
+trailingPegRatio§None

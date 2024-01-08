@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 18:47:40.921250
+address1§3611 Valley Centre Drive
+address2§Suite 300
+city§San Diego
+state§CA
+zip§92130
+country§United States
+phone§888 969 7879
+website§https://www.travere.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Travere Therapeutics, Inc., an integrated biopharmaceutical company, focuses on identifying, developing, and delivering therapies to people living with rare kidney and metabolic diseases. Its approved products include FILSPARI (sparsentan), a once-daily, oral medication is designed to target two critical pathways (endothelin 1 and angiotensin-II) in the disease progression of IgA; and Thiola and Thiola EC (tiopronin tablets) for the prevention of cystine (kidney) stone formation in patients with severe homozygous cystinuria. The company's clinical-stage programs consist of Sparsentan, a novel investigational product candidate, which has granted Orphan Drug Designation for the treatment of focal segmental glomerulosclerosis in the U.S. and Europe; and Pegtibatinase (TVT-058), a novel investigational human enzyme replacement candidate being evaluated for the treatment of classical homocystinuria. It has a cooperative research and development agreement with National Institutes of Health's National Center for Advancing Translational Sciences and patient advocacy organizations, and Alagille Syndrome Alliance for the identification of potential small molecule therapeutics for Alagille syndrome. The company was formerly known as Retrophin, Inc. and changed its name to Travere Therapeutics, Inc. in November 2020. Travere Therapeutics, Inc. was incorporated in 2008 and is headquartered in San Diego, California.
+fullTimeEmployees§462
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Eric M. Dube Ph.D.', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1350293, 'exercisedValue': 0, 'unexercisedValue': 1218438}, {'maxAge': 1, 'name': 'Mr. Christopher  Cline C.F.A.', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 634362, 'exercisedValue': 0, 'unexercisedValue': 586866}, {'maxAge': 1, 'name': 'Dr. William E. Rote Ph.D.', 'age': 60, 'title': 'Senior VP and Head of Research & Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 733252, 'exercisedValue': 0, 'unexercisedValue': 358587}, {'maxAge': 1, 'name': 'Mr. Peter  Heerma', 'age': 52, 'title': 'Chief Commercial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 705618, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jula  Inrig M.D.', 'age': 48, 'title': 'Chief Medical Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 815929, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra  Calvin', 'age': 57, 'title': 'SVP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Naomi  Eichenbaum', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth E. Reed', 'age': 52, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 696677, 'exercisedValue': 0, 'unexercisedValue': 1564340}, {'maxAge': 1, 'name': 'Ms. Charlotte  Smith', 'title': 'Senior Vice President of Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Casey  Logan', 'title': 'Senior Vice President of Corporate & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.598
+priceToSalesTrailing12Months§2.7976167
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.14
+pegRatio§-0.02
+exchange§NGM
+quoteType§EQUITY
+shortName§Travere Therapeutics, Inc.
+longName§Travere Therapeutics, Inc.
+firstTradeDateEpochUtc§1352385000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2b2caaeb-856a-3467-aaca-ee42583023f1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§8.0
+targetMeanPrice§14.53
+targetMedianPrice§12.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§4.685
+grossMargins§-0.13196999
+ebitdaMargins§-1.14032
+trailingPegRatio§None

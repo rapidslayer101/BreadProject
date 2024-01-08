@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 23:33:31.922859
+address1§1000 Stanley Drive
+city§New Britain
+state§CT
+zip§06053
+country§United States
+phone§860 225 5111
+website§https://www.stanleyblackanddecker.com
+industry§Tools & Accessories
+sector§Industrials
+longBusinessSummary§Stanley Black & Decker, Inc. engages in the tools and storage and industrial businesses in the United States, Canada, rest of Americas, France, rest of Europe, and Asia. Its Tools & Storage segment offers professional products, including professional grade corded and cordless electric power tools and equipment, and pneumatic tools and fasteners; and consumer products, such as corded and cordless electric power tools primarily under the BLACK+DECKER brand, as well as corded and cordless lawn and garden products and related accessories; home products; and hand tools, power tool accessories, and storage products. This segment sells its products through retailers, distributors, dealers, and a direct sales force to professional end users, distributors, dealers, retail consumers, and industrial customers in various industries. The company's Industrial segment provides engineered fastening systems and products to customers in the automotive, manufacturing, electronics, construction, aerospace, and other industries; provides pipeline inspection services; and sells hydraulic tools and performance-driven heavy equipment attachment tools. This segment serves oil and natural gas pipeline industry and other industrial customers. It also sells automatic doors to commercial customers. The company was formerly known as The Stanley Works and changed its name to Stanley Black & Decker, Inc. in March 2010. Stanley Black & Decker, Inc. was founded in 1843 and is headquartered in New Britain, Connecticut.
+fullTimeEmployees§50000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald  Allan Jr.', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1343380, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet M. Link', 'age': 53, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 777685, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John H. A. Wyatt', 'age': 64, 'title': 'Senior Advisor', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 851666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick D. Hallinan', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher John Nelson', 'age': 53, 'title': 'COO, Executive VP and President of Tools & Outdoor', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rhonda O. Gass', 'age': 59, 'title': 'VP & Chief Information Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis M. Lange', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John T. Lucas', 'age': 63, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dina M. Routhier', 'title': 'President of Stanley Ventures', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham N. Robinson', 'age': 54, 'title': 'Senior VP & President of Stanley Industrial', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1013106, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.24
+dividendYield§0.0339
+exDividendDate§1701302400
+payoutRatio§3.0
+fiveYearAvgDividendYield§2.4
+beta§1.341
+priceToSalesTrailing12Months§0.9133784
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.48
+pegRatio§5.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§Stanley Black & Decker, Inc.
+longName§Stanley Black & Decker, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§84b5b16f-52e2-352d-a8e8-73d7f7545d67
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§84.0
+targetMeanPrice§97.8
+targetMedianPrice§97.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§0.348
+earningsGrowth§-0.995
+grossMargins§0.23474
+ebitdaMargins§0.05983
+trailingPegRatio§None

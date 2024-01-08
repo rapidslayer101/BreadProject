@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 11:33:31.120451
+address1§BartolomE Mitre 434
+city§Buenos Aires
+zip§C1036AAH
+country§Argentina
+phone§54 11 4340 3100
+website§https://www.gruposupervielle.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Grupo Supervielle S.A., a financial services holding company, provides various banking products and services in Argentina. The company operates through Personal & Business Banking, Corporate Banking, Bank Treasury, Consumer Finance, Insurance, and Asset Management and Other Services segments. It offers savings accounts, time and demand deposits, and checking accounts; various loan products, including personal, consumer, mortgage, unsecured, and car loans; overdrafts; loans with special facilities for project and working capital financing; and leasing, bank guarantees for tenants, salary advances, domestic and international factoring, international guarantees and letters of credit, payroll payment plans, credit and debit cards, and senior citizens benefit payment services, as well as financial services and investments, such as mutual funds and guarantees. The company also provides foreign trade and cash management; advisory services; treasury services; insurance products comprising life, home, personal accidents, technology, ATMs, protected bag, and protected content; and asset management and other services, as well as operates as a digital online broker. It operates through a network of bank branches, ATMs, and self-service terminals, as well as ATMs with biometric identification. The company was formerly known as Inversiones y Participaciones S.A. and changed its name to Grupo Supervielle S.A. in November 2008. Grupo Supervielle S.A. was founded in 1887 and is based in Buenos Aires, Argentina.
+fullTimeEmployees§3704
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Julio  Patricio Supervielle', 'age': 67, 'title': 'Founder, Chairman of the Board & CEO', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Atilio Maria Dell'Oro Maini", 'age': 67, 'title': 'Second Vice-Chairman of the Board & Secretary', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mariano  Biglia', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christel  Sasse', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matias Gonzalez Carrara', 'title': 'Head of Accountancy', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sergio  Mazzitello', 'age': 58, 'title': 'CTO & Chief of IT', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ana Ines Bartesaghi Bender CPA', 'title': 'Treasurer & Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sergio  Gabriel Gabai', 'age': 56, 'title': 'Chief of Legal Affairs', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Moira  Almar', 'age': 55, 'title': 'Compliance & AML Officer', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Casandra Lisa Giuliano', 'age': 52, 'title': 'Chief Human Resources Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+exDividendDate§1652400000
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.53
+beta§1.997
+priceToSalesTrailing12Months§0.0032064577
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.42
+pegRatio§-0.22
+exchange§NYQ
+quoteType§EQUITY
+shortName§Grupo Supervielle S.A.
+longName§Grupo Supervielle S.A.
+firstTradeDateEpochUtc§1463664600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c86dd4bf-6000-3bd1-8770-973d1df21a54
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.4
+targetLowPrice§1.3
+targetMeanPrice§2.35
+targetMedianPrice§2.35
+recommendationMean§4.0
+recommendationKey§underperform
+numberOfAnalystOpinions§2
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

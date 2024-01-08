@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 14:44:26.434892
+address1§15455 Dallas Parkway
+address2§Suite 550
+city§Addison
+state§TX
+zip§75001
+country§United States
+phone§972 248 0412
+website§https://www.daseke.com
+industry§Trucking
+sector§Industrials
+longBusinessSummary§Daseke, Inc. provides transportation and logistics solutions in the United States, Canada, and Mexico. It operates through two segments, Flatbed Solutions and Specialized Solutions. The company transports aircraft parts, manufacturing equipment, structural steel, pressure vessels, wind turbine blades, commercial glass, high security cargo, industrial and hazardous waste, arms, ammunition and explosives, lumber, and building and construction materials, as well as heavy machinery, such as construction, mining, and agriculture. It also offers logistical planning and warehousing services. As of December 31, 2022, it operated 2,971 company-owned tractors and 2,011 independent owned contractors tractors; and 10,723 trailers. Daseke, Inc. was founded in 2008 and is headquartered in Addison, Texas.
+fullTimeEmployees§4123
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan M. Shepko', 'age': 45, 'title': 'CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1612200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Don R. Daseke', 'age': 83, 'title': 'Founder & Chairman Emeritus', 'yearBorn': 1940, 'fiscalYear': 2022, 'totalPay': 56250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Coley', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 599989, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Soumit  Roy', 'age': 47, 'title': 'Executive VP, Chief Legal Officer, General Counsel, Chief Human Resources Officer & Corp. Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 980666, 'exercisedValue': 0, 'unexercisedValue': 483789}, {'maxAge': 1, 'name': 'Mr. Scott  Hoppe', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adrianne D. Griffin', 'title': 'VP of Investor Relations & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.033
+priceToSalesTrailing12Months§0.23290205
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.15
+pegRatio§-1.91
+exchange§NCM
+quoteType§EQUITY
+shortName§Daseke, Inc.
+longName§Daseke, Inc.
+firstTradeDateEpochUtc§1450449000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5fcdf31c-d45f-3316-9d71-a7e655b55143
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§8.3
+targetMeanPrice§8.53
+targetMedianPrice§8.3
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.99
+earningsGrowth§-0.882
+grossMargins§0.30106002
+ebitdaMargins§0.09847999
+trailingPegRatio§None

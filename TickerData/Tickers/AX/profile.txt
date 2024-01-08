@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 02:26:57.910396
+address1§9205 West Russell Road
+address2§Suite 400
+city§Las Vegas
+state§NV
+zip§89148
+country§United States
+phone§858 649 2218
+fax§858 350 0443
+website§https://axosfinancial.com
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Axos Financial, Inc., together with its subsidiaries, provides consumer and business banking products in the United States. It operates through two segments, Banking Business and Securities Business. The company offers deposits products, including consumer and business checking, demand, savings, time deposit, money market, zero balance, and insured cash sweep accounts. It also provides residential single family, multifamily, and commercial mortgage loans; commercial real estate secured loans; commercial and industrial non-real estate, asset-backed, lines of credit, and term loans; automobile loans; fixed rate unsecured loans; and other loans, such as structure settlements, small business administration consumer loans, and securities-backed loans. In addition, the company offers ACH origination, wire transfer, commercial check printing, business bill pay and account transfer; remote deposit capture, mobile deposit, lockbox, merchant, and online payment portal; concierge banking; mobile and text message banking; and payment services, as well as debit and credit cards, and digital wallets. Further, it provides disclosed clearing services; back-office services, such as record keeping, trade reporting, accounting, general back-office support, securities and margin lending, reorganization assistance, and custody of securities; and financing to brokerage customers. The company was formerly known as BofI Holding, Inc. and changed its name to Axos Financial, Inc. in September 2018. Axos Financial, Inc. was incorporated in 1999 and is based in Las Vegas, Nevada.
+fullTimeEmployees§1455
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gregory  Garrabrants C.F.A., J.D.', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 5380006, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derrick K. Walsh CPA', 'age': 40, 'title': 'Executive VP & CFO', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 785250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas M. Constantine', 'age': 61, 'title': 'Executive VP & Chief Credit Officer - Axos Bank', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 817200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond D. Matsumoto', 'age': 67, 'title': 'Executive VP & COO - Axos Bank', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 962200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David X. Park', 'age': 40, 'title': 'Executive Vice President of Commercial Banking & Treasury Management - Axos Bank', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 823250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Candace L. Thiele', 'title': 'Executive VP & Chief Administrative Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johnny Y. Lai CFA', 'title': 'Senior Vice President of Corporate Development & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eshel  Bar-Adon', 'age': 68, 'title': 'Executive VP of Specialty Finance & Chief Legal Officer', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 671400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Charles Tolla', 'age': 46, 'title': 'Executive VP, Chief Governance, Risk & Compliance Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew J. Micheletti CPA(inactive)', 'age': 66, 'title': 'Executive Vice President of Finance', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 586600, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.508
+priceToSalesTrailing12Months§3.2983077
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.21
+pegRatio§0.93
+exchange§NYQ
+quoteType§EQUITY
+shortName§Axos Financial, Inc.
+longName§Axos Financial, Inc.
+firstTradeDateEpochUtc§1110983400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§58e69a29-3e3d-3529-8bd9-72b467c40996
+messageBoardId§finmb_13314302
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§74.0
+targetLowPrice§45.0
+targetMeanPrice§60.33
+targetMedianPrice§59.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+earningsGrowth§0.423
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

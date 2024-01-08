@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 06:44:26.005769
+address1§Kiryat Hamada Street 5
+city§Jerusalem
+zip§9777605
+country§Israel
+phone§972 3 577 4115
+website§https://www.alphatau.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Alpha Tau Medical Ltd., a clinical-stage oncology therapeutics company, engages in research, development, and commercialization of diffusing alpha-emitters radiation therapy (Alpha DaRT) for the treatment of solid cancer In Israel and the United States. Its Alpha-DaRT technology used in clinical trials for skin, oral, pancreatic, prostate, and breast cancers; and preclinical studies for brain, hepatic cell carcinoma, glioblastoma multiforme, lung cancer, and others. The company was incorporated in 2015 and is headquartered in Jerusalem, Israel.
+fullTimeEmployees§94
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Uzi  Sofer', 'age': 53, 'title': 'CEO & Chairman', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1584000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raphi  Levy', 'age': 38, 'title': 'Chief Financial Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 1240000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amnon  Gat', 'age': 48, 'title': 'Chief Operations Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 497000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronen  Segal', 'age': 50, 'title': 'Chief Technology Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 380000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert B. Den M.D.', 'age': 44, 'title': 'Chief Medical Officer & Member of Scientific Advisory Board', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 565000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Yona  Keisari', 'age': 76, 'title': 'Chief Scientific Officer & Member of Scientific Advisory board', 'yearBorn': 1947, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Becker', 'title': 'Vice President of legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter M. Melnyk', 'age': 61, 'title': 'Chief Commercial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Itzhak  Kelson', 'age': 83, 'title': 'Chief Physics Officer & Member of Scientific Advisory Board', 'yearBorn': 1940, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yael  Zeiger', 'age': 40, 'title': 'Corporate Controller', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.751
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.56
+exchange§NCM
+quoteType§EQUITY
+shortName§Alpha Tau Medical Ltd.
+longName§Alpha Tau Medical Ltd.
+firstTradeDateEpochUtc§1615213800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d9da6b97-0879-3a14-a715-9f57f7b77249
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§8.0
+targetMeanPrice§10.75
+targetMedianPrice§8.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§13.98
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 14:27:29.864149
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240197/blackrock-global-opportunities-equity-trust-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Enhanced Global Dividend Trust is a closed ended equity mutual fund launched by BlackRock, Inc. The fund is co-managed by BlackRock Advisors, LLC and BlackRock International Limited. It invests in public equity markets across the globe. The fund seeks to invest in stocks of companies operating across diversified sectors. It invests in stocks of companies across all market capitalizations. The fund also invests through derivatives, with an emphasis on options on equity securities or indices. It benchmarks the performance of its portfolio against the S&P Global Broad Market Index. The fund was formerly known as BlackRock Global Opportunities Equity Trust. BlackRock Enhanced Global Dividend Trust was formed on May 31, 2005 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle G. McClements C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas P. Callan C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  McGeough', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Erin  Xie Ph.D.', 'age': 55, 'title': 'Portfolio Manager', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Accettella', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart Edward Reeve', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Wheatley-Hubbard C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.76
+dividendYield§0.0764
+exDividendDate§1704931200
+payoutRatio§0.6407
+fiveYearAvgDividendYield§7.31
+beta§0.922
+priceToSalesTrailing12Months§31.898808
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Enhanced Global Divid
+longName§BlackRock Enhanced Global Dividend Trust
+firstTradeDateEpochUtc§1117114200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a5e4c87a-a1b1-3d04-8d45-66421e02f784
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.775
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

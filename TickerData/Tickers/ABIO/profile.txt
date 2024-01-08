@@ -1,0 +1,36 @@
+# reload+after+2024-01-21 06:43:05.796724
+address1§10170 Church Ranch Way
+address2§Suite 100
+city§Westminster
+state§CO
+zip§80021
+country§United States
+phone§720 940 2200
+website§https://www.arcabio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§ARCA biopharma, Inc., a clinical development stage biopharmaceutical company, engages in the development and commercialization of genetically targeted therapies for cardiovascular diseases. Its lead product candidate is Gencaro, a pharmacogenetically-targeted beta-adrenergic receptor antagonist that has completed Phase IIb trial for the treatment of atrial fibrillation in patients with chronic heart failure. It is also developing Recombinant Nematode Anticoagulant Protein c2 (rNAPc2) (AB201), a protein therapeutic that is in Phase IIb clinical trial for the treatment for COVID-19. ARCA biopharma, Inc. has a collaboration agreement with LabCorp to develop genetic test for GENETIC-AF clinical trial. The company was founded in 2004 and is headquartered in Westminster, Colorado.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Michael R. Bristow M.D., Ph.D.', 'age': 78, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 358800, 'exercisedValue': 0, 'unexercisedValue': 2533}, {'maxAge': 1, 'name': 'Mr. Thomas A. Keuer', 'age': 64, 'title': 'Chief Operating Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 360593, 'exercisedValue': 0, 'unexercisedValue': 933}, {'maxAge': 1, 'name': 'Mr. C. Jeffrey Dekker CPA', 'age': 58, 'title': 'CFO, Treasurer & Company Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.231
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-8.8
+exchange§NCM
+quoteType§EQUITY
+shortName§ARCA biopharma, Inc.
+longName§ARCA biopharma, Inc.
+firstTradeDateEpochUtc§871047000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aefe4f03-299b-3999-a469-92fced461200
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§38.797
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

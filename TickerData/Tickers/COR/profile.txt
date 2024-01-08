@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 00:28:09.090292
+address1§1 West First Avenue
+city§Conshohocken
+state§PA
+zip§19428-1800
+country§United States
+phone§610 727 7000
+website§https://www.cencora.com
+industry§Medical Distribution
+sector§Healthcare
+longBusinessSummary§Cencora, Inc. sources and distributes pharmaceutical products. The company's U.S. Healthcare Solutions segment distributes pharmaceuticals, over-the-counter healthcare products, home healthcare supplies and equipment, and related services to acute care hospitals and health systems, independent and chain retail pharmacies, mail order pharmacies, medical clinics, long-term care and alternate site pharmacies, and other customers; provides pharmacy management, staffing, and other consulting services; supply management software to retail and institutional healthcare providers; packaging solutions to various institutional and retail healthcare providers; clinical trial support, product post-approval, and commercialization support services; data analytics, outcomes research, and additional services for biotechnology and pharmaceutical manufacturers; pharmaceuticals, vaccines, parasiticides, diagnostics, micro feed ingredients, and other products to the companion animal and production animal markets; and sales force services to manufacturers. This segment also distributes plasma and other blood products, injectable pharmaceuticals, vaccines, and other specialty products; and provides other services to physicians who specialize in various disease states, such as oncology, as well as to other healthcare providers, including hospitals and dialysis clinics. Its International Healthcare Solutions segment offers international pharmaceutical wholesale and related service, and global commercialization services; distributes pharmaceuticals, other healthcare products, and related services to pharmacies, doctors, health centers, and hospitals primarily in Europe; and provides specialty transportation and logistics services for the biopharmaceutical industry. The company was formerly known as AmerisourceBergen Corporation and changed its name to Cencora, Inc. in August 2023. Cencora, Inc. was incorporated in 2001 and is headquartered in Conshohocken, Pennsylvania.
+fullTimeEmployees§42000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven H. Collis', 'age': 62, 'title': 'Chairman, President & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 5485632, 'exercisedValue': 10882945, 'unexercisedValue': 21988240}, {'maxAge': 1, 'name': 'Mr. James F. Cleary Jr.', 'age': 60, 'title': 'Executive VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2121637, 'exercisedValue': 0, 'unexercisedValue': 6770137}, {'maxAge': 1, 'name': 'Dr. Robert P. Mauch Ph.D., PharmD', 'age': 56, 'title': 'Executive VP & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2318554, 'exercisedValue': 3758591, 'unexercisedValue': 2274062}, {'maxAge': 1, 'name': 'Ms. Gina K. Clark', 'age': 66, 'title': 'Executive VP and Chief Communications & Administration Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1676918, 'exercisedValue': 2748310, 'unexercisedValue': 2978489}, {'maxAge': 1, 'name': 'Ms. Silvana  Battaglia', 'age': 55, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1579600, 'exercisedValue': 0, 'unexercisedValue': 222368}, {'maxAge': 1, 'name': 'Mr. Lazarus  Krikorian', 'age': 58, 'title': 'Senior VP, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bennett S. Murphy', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathy H. Gaddes', 'age': 60, 'title': 'Executive VP & Chief Compliance Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth S. Campbell', 'age': 48, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leslie E. Donato', 'age': 53, 'title': 'Executive VP & Chief Strategy Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.04
+dividendYield§0.0097
+exDividendDate§1699574400
+payoutRatio§0.2274
+fiveYearAvgDividendYield§1.49
+beta§0.474
+priceToSalesTrailing12Months§0.16192527
+currency§USD
+dateShortInterest§1702598400
+forwardEps§14.02
+pegRatio§1.88
+exchange§NYQ
+quoteType§EQUITY
+shortName§Cencora, Inc.
+longName§Cencora, Inc.
+firstTradeDateEpochUtc§797002200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e928eee5-ddbc-3bf9-88a8-7749f9365980
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§242.0
+targetLowPrice§192.0
+targetMeanPrice§218.79
+targetMedianPrice§219.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.483
+earningsGrowth§0.229
+grossMargins§0.03359
+ebitdaMargins§0.01337
+trailingPegRatio§2.5967

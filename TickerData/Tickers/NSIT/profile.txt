@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 05:46:17.155511
+address1§2701 East Insight Way
+city§Chandler
+state§AZ
+zip§85286
+country§United States
+phone§480 333 3000
+website§https://www.insight.com
+industry§Electronics & Computer Distribution
+sector§Technology
+longBusinessSummary§Insight Enterprises, Inc., together with its subsidiaries, provides information technology (IT) hardware, software services and solutions in the United States and internationally. The company's solution portfolio includes cloud enablement, data and AI, digital strategy, intelligent applications and edge, and IoT solutions, as well as digital transformation services. It also offers cloud and data center platforms; modern workplace; and supply chain optimization solutions. In addition, the company provides software maintenance solutions that offers clients to obtain software upgrades, bug fixes, help desk, and other support services; vendor direct support services; and offers Software-as-a-Service subscription products. Further, it designs, procures, deploys, implements, and manages solutions that combine hardware, software, and services to help businesses. Additionally, the company sources, procures, stages, configures, integrates, tests, refurbishes, and redeploys IT products spanning endpoints to infrastructure; and offers software life cycle and hardware warranty services. It serves construction technology, enterprise business, financial services, health care and life sciences, manufacturing technology, retail, restaurant, service providers, small to medium business, and travel and tourism industries. Insight Enterprises, Inc., was founded in 1988 and is headquartered in Chandler, Arizona.
+fullTimeEmployees§13448
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy A. Crown', 'age': 59, 'title': 'Co-Founder & Independent Chairman of the Board', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 183750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joyce A. Mullen', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2959120, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Glynis A. Bryan', 'age': 64, 'title': 'Chief Financial Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1733264, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel C. Cowley', 'age': 63, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1090832, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Morgado', 'age': 50, 'title': 'Senior VP of Finance & North America CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1116662, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Burger', 'age': 53, 'title': 'President of North America Business', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1423318, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan  Amdahl', 'title': 'Senior VP of Client Experience and North America & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachael A. Crump CPA', 'age': 48, 'title': 'Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jet  Golia', 'title': 'Senior Vice President of EMEA Legal, Commercial & Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aneema  Rawat', 'title': 'Senior Vice President of Global Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.546
+priceToSalesTrailing12Months§0.59968615
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.34
+pegRatio§2.42
+exchange§NMS
+quoteType§EQUITY
+shortName§Insight Enterprises, Inc.
+longName§Insight Enterprises, Inc.
+firstTradeDateEpochUtc§790957800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b292627a-cc3f-3207-b3f5-f4698950cd7f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§184.0
+targetLowPrice§170.0
+targetMeanPrice§175.75
+targetMedianPrice§174.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§1.212
+earningsGrowth§0.025
+grossMargins§0.17516
+ebitdaMargins§0.0498
+trailingPegRatio§1.178

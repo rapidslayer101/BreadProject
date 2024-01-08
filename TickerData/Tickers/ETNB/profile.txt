@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 11:44:37.505080
+address1§142 Sansome Street
+address2§Second Floor
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§415 432 9270
+website§https://www.89bio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§89bio, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of therapies for the treatment of liver and cardio-metabolic diseases. The company's lead product candidate is pegozafermin, a glycoPEGylated analog of fibroblast growth factor 21 for the treatment of nonalcoholic steatohepatitis; and for the treatment of severe hypertriglyceridemia. 89bio, Inc. was incorporated in 2018 and is headquartered in San Francisco, California.
+fullTimeEmployees§45
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rohan  Palekar', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 990521, 'exercisedValue': 0, 'unexercisedValue': 3466116}, {'maxAge': 1, 'name': 'Mr. Quoc  Le-Nguyen', 'age': 55, 'title': 'Chief Technical Operations Officer & Head of Quality', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 654441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Harry  Mansbach M.D.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 691871, 'exercisedValue': 0, 'unexercisedValue': 1365721}, {'maxAge': 1, 'name': 'Mr. Ryan Stephen Martins', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shiva K. Natarajan', 'age': 57, 'title': 'Senior Vice President of Finance & Principal Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie J. Chang M.B.A.', 'title': 'VP of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda  Kurihara', 'title': 'Vice President of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yun  Bai', 'title': 'VP and Head of Chemistry, Manufacturing & Controls ( CMC )', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Abel', 'title': 'Senior Vice President of Commercial Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Shin', 'title': 'Senior Vice President of R&D Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.93
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.52
+pegRatio§-0.5
+exchange§NGM
+quoteType§EQUITY
+shortName§89bio, Inc.
+longName§89bio, Inc.
+firstTradeDateEpochUtc§1573482600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6271fd18-e443-39f3-b14c-3361d6248f55
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§24.0
+targetMeanPrice§31.67
+targetMedianPrice§29.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§17.781
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

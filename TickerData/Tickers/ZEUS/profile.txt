@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 12:48:07.232915
+address1§22901 Millcreek Boulevard
+address2§Suite 650
+city§Highland Hills
+state§OH
+zip§44122
+country§United States
+phone§216 292 3800
+website§https://www.olysteel.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Olympic Steel, Inc. processes, distributes, and stores metal products in the United States and internationally. It operates in three segments: Carbon Flat Products; Specialty Metals Flat Products; and Tubular and Pipe Products. The company offers stainless steel and aluminum coil and sheet products, angles, rounds, and flat bars; alloy, heat treated, and abrasion resistant coils, sheets and plates; coated metals, including galvanized, galvannealed, electro galvanized, advanced high strength steels, aluminized, and automotive grades of steel; commercial quality, advanced high strength steel, drawing steel, and automotive grades cold rolled steel coil and sheet products; hot rolled carbon comprising hot rolled coil, pickled and oiled sheet and plate steel products, automotive grades, advanced high strength steels, and high strength low alloys; tube, pipe, and bar products, including round, square, and rectangular mechanical and structural tubing; hydraulic and stainless tubing; boiler tubing; carbon, stainless, and aluminum pipes; valves and fittings; and tin mill products, such as electrolytic tinplate, electrolytic chromium coated steel, and black plates. The company also provides cutting-to-length, slitting, shearing, blanking, tempering, stretcher-leveling, plate and laser processing, forming and machining, tube processing, finishing, and fabrication services, as well as value-added services, such as saw cutting, laser cutting, beveling, threading, and grooving services. It serves metal consuming industries, such as manufacturers and fabricators of transportation and material handling lift equipment, construction, mining and farm equipment, agriculture equipment, storage tanks, environmental and energy generation equipment, automobiles, food service, and electrical equipment, as well as general and plate fabricators, and metals service centers through direct sales force. Olympic Steel, Inc. was founded in 1954 and is based in Highland Hills, Ohio
+fullTimeEmployees§2017
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael D. Siegal', 'age': 71, 'title': 'Executive Chairman of the Board', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 408694, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard T. Marabito', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2915069, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew S. Greiff', 'age': 62, 'title': 'President & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2624704, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard A. Manson', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2169532, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa K. Christen', 'age': 46, 'title': 'VP & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 578687, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Pearson-Casey SPHR', 'title': 'Vice President of Corporate Communications & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cassandra  Powers', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis M. Ruane', 'title': 'Executive Vice President of Supply Chain', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Donald R. McNeeley', 'age': 69, 'title': 'Chairman of Chicago Tube & Iron', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1318681, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Markowitz', 'title': 'President of Specialty Metals', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0077
+exDividendDate§1701302400
+payoutRatio§0.131
+fiveYearAvgDividendYield§0.64
+beta§1.736
+priceToSalesTrailing12Months§0.33029282
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.66
+pegRatio§0.54
+exchange§NMS
+quoteType§EQUITY
+shortName§Olympic Steel, Inc.
+longName§Olympic Steel, Inc.
+firstTradeDateEpochUtc§763309800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§82522c41-1832-30e5-a7ab-8e8b97b0e7b0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§59.0
+targetLowPrice§59.0
+targetMeanPrice§59.0
+targetMedianPrice§59.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.297
+earningsGrowth§0.015
+grossMargins§0.20608999
+ebitdaMargins§0.04603
+trailingPegRatio§None

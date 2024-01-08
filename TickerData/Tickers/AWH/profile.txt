@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 04:43:33.597722
+address1§Building III
+address2§Suite 100 12117 Bee Caves Road
+city§Austin
+state§TX
+zip§78738
+country§United States
+phone§512 519 0400
+fax§512 869 4114
+website§https://aspirawh.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§Aspira Women's Health Inc., together with its subsidiaries, engages in developing and commercializing diagnostic tests for gynecologic disease in the United States. The company's products include Ova1, a blood test intended as an aid to further assess the likelihood of malignancy in women with an ovarian adnexal mass; Overa, a biomarker reflex test; and Ova1Plus, a reflex offering. Its product pipeline includes OvaWatch, a non-invasive blood-based risk assessment test to determine ovarian cancer risk for patients with an adnexal mass; and Endocheck, an in-development non-invasive blood test designed as an aid in the identification of endometriosis for patients with suspected endometriosis earlier in their prognosis journey. In addition, the company operates Aspira Synergy, a testing platform and cloud service; and owns and operates ASPiRA LABS, a lab that specializes in applying biomarker-based technologies to address critical needs in the management of gynecologic cancers and disease. The company serves physicians, physician office laboratories, and national and regional laboratories. The company distributes its products through its national sales force, its platform Aspira Synergy, and a marketing and distribution agreement with BioReference Health, LLC. It has a research agreement with Harvard Dana-Farber Cancer Institute, Brigham and Women's Hospital, and Medical University Lodz to evaluate the microRNA technology in combination with Aspira technologies for the development of an early detection test for ovarian cancer; and a strategic alliance with Quest Diagnostics, Incorporated. The company was formerly known as Vermillion, Inc. and changed its name to Aspira Women's Health Inc. in June 2020. Aspira Women's Health Inc. was incorporated in 1993 and is based in Austin, Texas.
+fullTimeEmployees§85
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Nicole  Sandford CPA', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 500493, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Minh  Merchant', 'age': 50, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 325915, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Torsten  Hombeck Ph.D.', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jody  Berry Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Snider', 'title': 'Senior Vice President of Commercial Strategy & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§4
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.285
+priceToSalesTrailing12Months§4.9898686
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.47
+exchange§NCM
+quoteType§EQUITY
+shortName§Aspira Women's Health Inc.
+longName§Aspira Women's Health Inc.
+firstTradeDateEpochUtc§970493400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bd8cf944-5eaa-3539-94fa-fa5f88d63257
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.6
+targetLowPrice§4.0
+targetMeanPrice§4.8
+targetMedianPrice§4.8
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.296
+grossMargins§0.57568
+ebitdaMargins§-2.13327
+trailingPegRatio§None

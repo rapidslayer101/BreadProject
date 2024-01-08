@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 22:28:44.978484
+address1§Pendelis 16
+address2§Palaio Faliro
+city§Athens
+zip§175 64
+country§Greece
+phone§30 210 94 70 100
+fax§30 210 94 70 101
+website§https://www.dianashippinginc.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§Diana Shipping Inc. provides shipping transportation services. The company transports a range of dry bulk cargoes, including commodities, such as iron ore, coal, grain, and other materials in shipping routes worldwide. As of March 17, 2023, it operated a fleet of 41 dry bulk vessels, including 4 Newcastlemax, 10 Capesize, 5 Post-Panamax, 6 Kamsarmax, 9 Ultramax, and 7 Panamax. The company was formerly known as Diana Shipping Investments Corp. and changed its name to Diana Shipping Inc. in February 2005. Diana Shipping Inc. was incorporated in 1999 and is based in Athens, Greece.
+fullTimeEmployees§1020
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Semiramis  Paliou', 'age': 48, 'title': 'CEO & Director', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anastasios C. Margaronis', 'age': 67, 'title': 'President & Director', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ioannis G. Zafirakis', 'age': 51, 'title': 'CFO, Chief Strategy Officer, Treasurer, Secretary & Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria  Dede', 'age': 50, 'title': 'Chief Accounting Officer', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margarita  Veniou', 'age': 44, 'title': 'Chief Corporate Development, Governance & Communications Officer', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria-Christina  Tsemani', 'age': 44, 'title': 'Chief People Officer', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+dividendRate§0.6
+dividendYield§0.1875
+exDividendDate§1700784000
+payoutRatio§1.0081
+beta§1.123
+priceToSalesTrailing12Months§1.302477
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.29
+pegRatio§1.96
+exchange§NYQ
+quoteType§EQUITY
+shortName§Diana Shipping inc.
+longName§Diana Shipping Inc.
+firstTradeDateEpochUtc§1111588200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aeb984f2-5b35-3603-9c77-0fad1168b061
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.8
+targetLowPrice§2.8
+targetMeanPrice§3.75
+targetMedianPrice§3.7
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§-0.841
+grossMargins§0.65212995
+ebitdaMargins§0.4946
+trailingPegRatio§None

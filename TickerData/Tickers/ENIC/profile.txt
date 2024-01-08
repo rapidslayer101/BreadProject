@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 10:29:02.284175
+address1§Santa Rosa 76
+address2§Floor 15
+city§Santiago de Chile
+country§Chile
+website§https://www.enelchile.cl
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Enel Chile S.A., an electricity utility company, engages in the generation, transmission, and distribution of electricity in Chile. The company operates through Generation, and Distribution and Networks Segments. It generates electricity through various sources, such as hydroelectric, thermal, wind, solar, and geothermal power plants. It distributes electricity in various municipalities of the Santiago metropolitan region. The company also engages in the sale and transportation of natural gas, and provision of engineering consulting services. It serves residential, commercial, industrial, and other customers. The company was formerly known as Enersis Chile S.A. and changed its name to Enel Chile S.A. in October 2016. The company was incorporated in 2016 and is headquartered in Santiago, Chile. Enel Chile S.A. (SNSE:ENELCHILE) operates as a subsidiary of Enel SpA (BIT:ENEL).
+fullTimeEmployees§2107
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Fabrizio  Barderi', 'age': 52, 'title': 'Chief Executive Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giuseppe  Turchiarelli', 'age': 52, 'title': 'CFO and Administration, Finance & Control Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paolo  Pirri', 'title': 'Chief Accounting Officer & Controller', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Isabela  Klemes', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Domingo  Valdes Prieto', 'age': 59, 'title': 'General Counsel & Secretary', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juan  Diaz Valenzuela', 'age': 36, 'title': 'Internal Audit & Compliance Manager', 'yearBorn': 1987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Claudio  Vera', 'title': 'Communications Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Liliana  Schnaidt Hagedorn', 'age': 43, 'title': 'Human Resources & Organization Manager', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Montserrat  Palomar Quilez', 'age': 41, 'title': 'Sustainability & Community Relations Officer', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+dividendRate§0.35
+dividendYield§0.1122
+exDividendDate§1705536000
+payoutRatio§0.2721
+fiveYearAvgDividendYield§5.74
+beta§0.707
+priceToSalesTrailing12Months§0.0009896426
+currency§USD
+dateShortInterest§1702598400
+forwardEps§318.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Enel Chile S.A.
+longName§Enel Chile S.A.
+firstTradeDateEpochUtc§1461245400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a7d8a981-1c74-3b2a-be58-dfa23681c9f7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3870.24
+targetLowPrice§1943.92
+targetMeanPrice§3201.74
+targetMedianPrice§3791.08
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.785
+earningsGrowth§0.615
+grossMargins§0.2816
+ebitdaMargins§0.29596
+trailingPegRatio§None

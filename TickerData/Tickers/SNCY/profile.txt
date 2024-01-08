@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 14:47:17.514005
+address1§2005 Cargo Road
+city§Minneapolis
+state§MN
+zip§55450
+country§United States
+phone§651 681 3900
+website§https://www.suncountry.com
+industry§Airlines
+sector§Industrials
+longBusinessSummary§Sun Country Airlines Holdings, Inc., an air carrier company, operates scheduled service, charter, and cargo businesses in the United States, Latin America, and internationally. The company serves leisure and visiting friends and relatives passengers, and charter customers; and provides crew, maintenance, and insurance services to amazon.com services, Inc. with flights to destinations in Canada, Mexico, Central America, and the Caribbean. It operates through a fleet of 54 Boeing 737-NG aircrafts, which includes 42 passenger fleet and 12 cargo aircrafts. The company was founded in 1983 and is headquartered in Minneapolis, Minnesota.
+fullTimeEmployees§2692
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jude I. Bricker', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 301625, 'exercisedValue': 0, 'unexercisedValue': 8237634}, {'maxAge': 1, 'name': 'Mr. David M. Davis', 'age': 56, 'title': 'CFO, President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 525064, 'exercisedValue': 0, 'unexercisedValue': 2052781}, {'maxAge': 1, 'name': 'Ms. Rose  Neale', 'age': 48, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 323472, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory A. Mays', 'age': 54, 'title': 'COO & Executive VP', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 582889, 'exercisedValue': 0, 'unexercisedValue': 2270464}, {'maxAge': 1, 'name': 'Mr. John  Gyurci', 'age': 52, 'title': 'VP of Finance & Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Mader', 'age': 62, 'title': 'Chief Information Officer & Executive VP', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Edward Davis', 'age': 42, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Levenhagen', 'age': 41, 'title': 'Senior VP & Chief Human Resource Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grant  Whitney', 'age': 46, 'title': 'Chief Revenue Officer & Executive VP', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Trousdale', 'age': 54, 'title': 'VP of Financial Planning & Analysis and Treasurer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.611
+priceToSalesTrailing12Months§0.78704643
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.49
+pegRatio§0.19
+exchange§NMS
+quoteType§EQUITY
+shortName§Sun Country Airlines Holdings, 
+longName§Sun Country Airlines Holdings, Inc.
+firstTradeDateEpochUtc§1615987800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§732884b5-e4c8-3aa2-9e53-6efe5fae9736
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§17.0
+targetMeanPrice§19.71
+targetMedianPrice§19.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.602
+earningsGrowth§-0.278
+grossMargins§0.33582002
+ebitdaMargins§0.20204
+trailingPegRatio§None

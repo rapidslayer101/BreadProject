@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 13:43:59.331200
+address1§One South Wacker Drive
+address2§Suite 1000
+city§Chicago
+state§IL
+zip§60606
+country§United States
+phone§312 696 3101
+fax§312 696 3102
+website§https://centuryaluminum.com
+industry§Aluminum
+sector§Basic Materials
+longBusinessSummary§Century Aluminum Company, together with its subsidiaries, produces standard-grade and value-added primary aluminum products in the United States and Iceland. It also owns and operates a carbon anode production facility in the Netherlands. Century Aluminum Company was founded in 1995 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§1956
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jesse E. Gary', 'age': 43, 'title': 'President, CEO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 5375172, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald C. Bialek', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 323261, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gunnar  Gudlaugsson', 'age': 63, 'title': 'Executive Vice President of Global Operations', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1113420, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  DeZee', 'age': 59, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 666662, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew F. Aboud', 'age': 47, 'title': 'Senior Vice President of Strategy & Business Development', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 534992, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert F. Hoffman', 'title': 'VP of Information Technology & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth L. Calloway', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Agust  Hafberg', 'title': 'Senior VP & Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Steinunn Dogg Steinsen', 'title': 'VP of HSE, Sustainability & Management Systems', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter A. Trpkovski', 'title': 'Senior VP of Finance & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1032307200
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.84
+beta§2.721
+priceToSalesTrailing12Months§0.4592971
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.02
+pegRatio§0.49
+exchange§NMS
+quoteType§EQUITY
+shortName§Century Aluminum Company
+longName§Century Aluminum Company
+firstTradeDateEpochUtc§828109800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§81f9b683-d41b-3388-b749-8ce16dda8e6f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§10.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.246
+grossMargins§0.01502
+ebitdaMargins§0.01966
+trailingPegRatio§None

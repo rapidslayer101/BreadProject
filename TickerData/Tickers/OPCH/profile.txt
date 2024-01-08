@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 17:46:27.360280
+address1§3000 Lakeside Drive
+address2§Suite 300N
+city§Bannockburn
+state§IL
+zip§60015
+country§United States
+phone§312 940 2443
+website§https://www.optioncarehealth.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Option Care Health, Inc. offers home and alternate site infusion services in the United States. The company provides anti-infective therapies; home infusion services to treat heart failures; home parenteral nutrition and enteral nutrition support services for numerous acute and chronic conditions, such as stroke, cancer, and gastrointestinal diseases; immunoglobulin infusion therapies for the treatment of immune deficiencies; and treatments for chronic inflammatory disorders, including Crohn's disease, plaque psoriasis, psoriatic arthritis, rheumatoid arthritis, ulcerative colitis, and other chronic inflammatory disorders. It also offers treatments to manage the progression of neurological disorders, such as multiple sclerosis, duchenne muscular dystrophy, and others; infusion therapies for bleeding disorders; therapies that women need to survive and thrive through high-risk pregnancies; and other infusion therapies to treat various conditions, including pain management, chemotherapy, and respiratory medications, as well as nursing services. Option Care Health, Inc. is headquartered in Bannockburn, Illinois.
+fullTimeEmployees§5597
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Rademacher', 'age': 56, 'title': 'CEO, President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2504639, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael H. Shapiro', 'age': 52, 'title': 'CFO & Senior VP', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1290542, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Collin G. Smyser', 'age': 44, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 920316, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard P. Denness', 'age': 55, 'title': 'Non-Executive Employee', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 867242, 'exercisedValue': 0, 'unexercisedValue': 576884}, {'maxAge': 1, 'name': 'Mr. Luke  Whitworth', 'age': 42, 'title': 'Chief Operating Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett  Michalak', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Budde', 'title': 'Senior VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Bavaro', 'age': 45, 'title': 'Chief Human Resources & Diversity Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Koenig', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cari  Reed', 'title': 'Senior Vice President of Quality & Clinical Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.318
+priceToSalesTrailing12Months§1.3731912
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.17
+pegRatio§1.1
+exchange§NMS
+quoteType§EQUITY
+shortName§Option Care Health, Inc.
+longName§Option Care Health, Inc.
+firstTradeDateEpochUtc§840115800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b47abac4-15e5-396f-a9bc-9144cfaebe96
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.0
+targetLowPrice§35.0
+targetMeanPrice§38.43
+targetMedianPrice§37.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§7
+quickRatio§1.329
+earningsGrowth§0.476
+grossMargins§0.22952
+ebitdaMargins§0.0857
+trailingPegRatio§None

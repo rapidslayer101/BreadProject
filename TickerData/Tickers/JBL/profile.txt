@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 07:30:41.512335
+address1§10800 Roosevelt Boulevard North, St.
+city§Saint Petersburg
+state§FL
+zip§33716
+country§United States
+phone§727 577 9749
+website§https://www.jabil.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Jabil Inc. provides manufacturing services and solutions worldwide. It operates in two segments, Electronics Manufacturing Services and Diversified Manufacturing Services. The company offers electronics design, production, and product management services; electronic circuit design services, such as application-specific integrated circuit design, firmware development, and rapid prototyping services; and designs plastic and metal enclosures that include the electro-mechanics, such as the printed circuit board assemblies (PCBA). It also provides three-dimensional mechanical design comprising the analysis of electronic, electro-mechanical, and optical assemblies, as well as various industrial design, mechanism development, and tooling management services. In addition, the company provides computer-assisted design services consisting of PCBA design, as well as PCBA design validation and verification services; and other consulting services, such as the generation of a bill of materials, approved vendor list, and assembly equipment configuration for various PCBA designs. Further, it offers product and process validation services, such as product system, product safety, regulatory compliance, and reliability tests, as well as manufacturing test solution development services. Additionally, the company provides systems assembly, test, direct-order fulfillment, and configure-to-order services. It serves 5G, wireless and cloud, digital print and retail, industrial and semi-cap, networking and storage, automotive and transportation, connected devices, healthcare and packaging, and mobility industries. The company was formerly known as Jabil Circuit, Inc. and changed its name to Jabil Inc. in June 2017. Jabil Inc. was founded in 1966 and is headquartered in Saint Petersburg, Florida.
+fullTimeEmployees§250000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark T. Mondello', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 5290400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth S. Wilson', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 4018457, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Dastoor', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 2498607, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald  Creadon Jr.', 'age': 49, 'title': 'Executive Vice President of Operations', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 1732093, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven D. Borges', 'age': 55, 'title': 'Executive Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2210414, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederic E. McCoy', 'age': 55, 'title': 'Executive VP of Global Business Units', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1922653, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. May Yee  Yap', 'age': 52, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristine  Melachrino', 'age': 45, 'title': 'Senior VP & General Counsel', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roberto  Ferri', 'age': 58, 'title': 'Senior VP and Chief Sales & Marketing Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Schick', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0025
+exDividendDate§1699920000
+payoutRatio§0.0544
+fiveYearAvgDividendYield§0.69
+beta§1.381
+priceToSalesTrailing12Months§0.48749265
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.67
+pegRatio§1.15
+exchange§NYQ
+quoteType§EQUITY
+shortName§Jabil Inc.
+longName§Jabil Inc.
+firstTradeDateEpochUtc§736435800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e94cf90c-b9d4-3f8f-8335-21899bc85928
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§160.0
+targetLowPrice§130.0
+targetMeanPrice§149.69
+targetMedianPrice§154.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.486
+earningsGrowth§-0.087
+grossMargins§0.086660005
+ebitdaMargins§0.07515
+trailingPegRatio§None

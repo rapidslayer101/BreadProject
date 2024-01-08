@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 20:33:23.460759
+address1§1875 Lawrence Street
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§866 903 2399
+website§https://www.sprucepower.com
+industry§Solar
+sector§Technology
+longBusinessSummary§Spruce Power Holding Corporation owns and operates distributed solar energy assets in the United States. The company provides subscription-based services for homeowners and small businesses to own and maintain rooftop solar and battery storage. It offers its subscription-based services to approximately 72,000 customers. The company is headquartered in Denver, Colorado.
+fullTimeEmployees§318
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christian S. Fong CFA', 'age': 46, 'title': 'CEO, President & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 415214, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah Weber Wells', 'age': 45, 'title': 'CFO & Head of Sustainability', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Kenhard', 'title': 'CTO & General Manager, Drivetrain', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bronson Wells Fleig', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan M. Norling J.D.', 'age': 54, 'title': 'Chief Legal Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra  Ponichtera', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey S. Constas', 'age': 56, 'title': 'General Counsel', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Goldner', 'title': 'Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.332
+priceToSalesTrailing12Months§0.9548196
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.83
+exchange§NYQ
+quoteType§EQUITY
+shortName§Spruce Power Holding Corporatio
+longName§Spruce Power Holding Corporation
+firstTradeDateEpochUtc§1567517400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§21189cd5-39f0-3620-8ac0-3d3bab613831
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§2.209
+grossMargins§0.58392
+ebitdaMargins§-0.056900002
+trailingPegRatio§None

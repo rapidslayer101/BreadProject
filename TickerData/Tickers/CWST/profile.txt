@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 02:44:18.660751
+address1§25 Green Hill Lane
+city§Rutland
+state§VT
+zip§05701
+country§United States
+phone§802 775 0325
+fax§802 775 3290
+website§https://www.casella.com
+industry§Waste Management
+sector§Industrials
+longBusinessSummary§Casella Waste Systems, Inc., together with its subsidiaries, operates as a vertically integrated solid waste services company in the northeastern United States. It offers resource management services primarily in the areas of solid waste collection and disposal, transfer, recycling, and organics services to residential, commercial, municipal, institutional, and industrial customers. The company provides non-hazardous solid waste services, including collections, transfer stations, and disposal facilities. In addition, it markets materials, including fibers, corrugated cardboard, newsprint, plastics, glass, ferrous, and aluminum metals. As of January 31, 2023, the company owns and operates 49 solid waste collection operations, 65 transfer stations, 26 recycling facilities, 8 Subtitle D landfills, 3 landfill gas-to-energy facilities, and 1 landfill permitted to accept construction and demolition materials. Casella Waste Systems, Inc. was founded in 1975 and is headquartered in Rutland, Vermont.
+fullTimeEmployees§3200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John W. Casella', 'age': 72, 'title': 'Chairman, CEO & Secretary', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 2346281, 'exercisedValue': 0, 'unexercisedValue': 1920640}, {'maxAge': 1, 'name': 'Mr. Edmond R. Coletta', 'age': 47, 'title': 'President', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1167309, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelley E. Sayward', 'age': 48, 'title': 'Senior VP & General Counsel', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 747450, 'exercisedValue': 0, 'unexercisedValue': 29473}, {'maxAge': 1, 'name': 'Mr. Paul J. Ligon', 'age': 54, 'title': 'Senior VP of Sustainable Growth & Chief Revenue Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 610013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean M. Steves', 'age': 46, 'title': 'Senior VP & COO of Solid Waste Operations', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 602295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradford J. Helgeson', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. Drohan', 'age': 42, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith  S. Landau', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Viani', 'age': 68, 'title': 'Vice President of Business Development & Special Waste', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kelley J. Robinson', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.899
+priceToSalesTrailing12Months§3.9914455
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.17
+pegRatio§5.56
+exchange§NMS
+quoteType§EQUITY
+shortName§Casella Waste Systems, Inc.
+longName§Casella Waste Systems, Inc.
+firstTradeDateEpochUtc§878135400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aa390521-d8b5-3680-a71e-6603006f934e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§89.0
+targetMeanPrice§98.75
+targetMedianPrice§98.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.465
+earningsGrowth§-0.293
+grossMargins§0.33973
+ebitdaMargins§0.21363
+trailingPegRatio§None

@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 07:30:48.478831
+address1§10 South Dearborn Street
+address2§Suite 1400, 38th Floor
+city§Chicago
+state§IL
+zip§60603
+country§United States
+phone§312 385 8320
+fax§312 385 8333
+website§https://www.nuveen.com/CEF/FundDetail.aspx?FundCode=JRS
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Nuveen Real Estate Income Fund is a closed-ended equity mutual fund launched by Nuveen Investments Inc. The fund is managed by Security Capital Research & Management Incorporated. It invests in the public equity markets of the United States. The fund makes its investments in stocks of companies operating in the real-estate sector. It typically invests in growth stocks of companies operating across all market capitalizations. Nuveen Real Estate Income Fund was formed on November 15, 2001 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony R. Manno Jr., CPA', 'age': 69, 'title': 'Portfolio Manager', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.68
+dividendYield§0.0892
+exDividendDate§1702512000
+payoutRatio§0.17469999
+fiveYearAvgDividendYield§8.61
+beta§1.281
+priceToSalesTrailing12Months§13.961358
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nuveen Real Estate Income Fund 
+longName§Nuveen Real Estate Income Fund
+firstTradeDateEpochUtc§1006180200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§95b75af8-a9a7-3665-852e-361994020219
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.055
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

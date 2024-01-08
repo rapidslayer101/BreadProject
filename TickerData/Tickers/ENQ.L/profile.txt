@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 17:36:11.618003
+address1§Charles House
+address2§2nd Floor 5-11 Regent Street
+city§London
+zip§SW1Y 4LR
+country§United Kingdom
+phone§44 20 7925 4900
+website§https://www.enquest.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§EnQuest PLC operates as an oil and gas production and development company. The company explores for, extracts, and produces hydrocarbons in the United Kingdom, North Sea, and Malaysia. It primarily holds interests in the Magnus, Kraken, Scolty/Crathes, Greater Kittiwake Area, Alba, Dons area, and Alma/Galia. The company also has interests in the PM8/Seligi and PM409. Further, it is involved in the construction, ownership, and operation of an oil pipeline; and marketing and trading of crude oil, as well as in leasing activities. The company was incorporated in 2010 and is based in London, the United Kingdom.
+fullTimeEmployees§779
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Amjad Adnan Bseisu', 'age': 60, 'title': 'Chief Executive & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1003000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Salman  Malik', 'age': 42, 'title': 'CFO, Executive Director, MD of Infrastructure & New Energy and CEO of Veri Energy', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 779827, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Ewles', 'title': 'Technical Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ian  Wood', 'title': 'Head of Investor Relations, Communications & Reporting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher John Sawyer', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.406
+priceToSalesTrailing12Months§0.16154175
+currency§GBp
+forwardEps§0.11
+pegRatio§-0.09
+exchange§LSE
+quoteType§EQUITY
+shortName§ENQUEST PLC ORD 5P
+longName§EnQuest PLC
+firstTradeDateEpochUtc§1270537200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9b8ded5d-fb3c-310e-835b-4b3ff2995ad6
+targetHighPrice§0.32
+targetLowPrice§0.14
+targetMeanPrice§0.24
+targetMedianPrice§0.24
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.598
+grossMargins§0.38501
+ebitdaMargins§0.49967
+trailingPegRatio§None

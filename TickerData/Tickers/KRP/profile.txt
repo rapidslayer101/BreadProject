@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 22:30:58.780479
+address1§777 Taylor Street
+address2§Suite 810
+city§Fort Worth
+state§TX
+zip§76102
+country§United States
+phone§817 945 9700
+website§https://www.kimbellrp.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Kimbell Royalty Partners, LP, together with its subsidiaries, engages in acquiring and owning mineral and royalty interests in oil and natural gas properties in the United States. The company serves as the general partner of the company. Kimbell Royalty Partners, LP was incorporated in 2015 and is based in Fort Worth, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Dean Ravnaas', 'age': 65, 'title': 'Chairman of the Board & CEO of Kimbell Royalty GP LLC', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1997811, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett G. Taylor', 'age': 62, 'title': 'Executive Vice Chairman of Kimbell Royalty GP LLC', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Davis Ravnaas', 'age': 37, 'title': 'President & CFO of Kimbell Royalty GP LLC', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 1770298, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew S. Daly', 'age': 50, 'title': 'COO & Secretary of Kimbell Royalty GP LLC', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1385284, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Blayne Rhynsburger', 'age': 36, 'title': 'Controller of Kimbell Royalty GP LLC', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 387136, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.04
+dividendYield§0.1362
+exDividendDate§1699574400
+payoutRatio§1.3256
+fiveYearAvgDividendYield§10.88
+beta§1.173
+priceToSalesTrailing12Months§6.0669737
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.45
+pegRatio§14.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kimbell Royalty Partners
+longName§Kimbell Royalty Partners, LP
+firstTradeDateEpochUtc§1486132200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§933ac857-bb02-30f4-aa2a-068c16425349
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§19.0
+targetMeanPrice§21.71
+targetMedianPrice§21.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§7
+quickRatio§6.847
+earningsGrowth§-0.67
+grossMargins§0.93166
+ebitdaMargins§0.78363
+trailingPegRatio§None

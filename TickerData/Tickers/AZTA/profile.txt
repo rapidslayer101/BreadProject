@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 15:43:34.639835
+address1§200 Summit Drive
+city§Burlington
+state§MA
+zip§01803
+country§United States
+phone§978 262 2626
+website§https://www.azenta.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§Azenta, Inc. provides biological and chemical compound sample exploration and management solutions for the life sciences market in North America, Africa, China, the United Kingdom, rest of Europe, the Asia Pacific, and internationally. The company operates in two reportable segments, Life Sciences Products and Life Sciences Services. The Life Sciences Products segment offers automated cold storage solutions, consumables and instruments, controlled rate thawing devices, and temperature-controlled storage and transportation solutions. This segment also provides sample management solutions, such as consumable vials and tubes, polymerase chain reaction, plates, instruments for supporting workflows, and informatics. The Life Sciences Services segment provides genomic services, that includes gene sequencing and gene synthesis services; and sample repository solutions, such as on-site and off-site sample storage, cold chain logistics, sample transport and collection relocation, bio-processing solutions, disaster recovery and business continuity, and biospecimen procurement services, as well as project management and consulting services for genomic analysis and the management and care of biological samples used in pharmaceutical, biotech, healthcare, clinical, and academic research, and development sectors. It serves a range of life science customers, including pharmaceutical companies, biotechnology companies, biorepositories, and research institutes. The company was formerly known as Brooks Automation, Inc. and changed its name to Azenta, Inc. in December 2021. Azenta, Inc. was founded in 1978 and is headquartered in Burlington, Massachusetts.
+fullTimeEmployees§3500
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Stephen S. Schwartz', 'age': 64, 'title': 'CEO, President & Director', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 1054425, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robin  Vacha', 'age': 47, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 533352, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason W. Joseph', 'age': 52, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 544127, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Herman  Cueto', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Violetta  Hughes', 'age': 51, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Paulo', 'title': 'VP and Chief Information & Digital Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sara  Silverman', 'title': 'Head of Investor Relations & Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. John E. O'Brien", 'age': 53, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Claribel  Purcell', 'title': 'Senior Vice President of Global Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Olga  Pirogova', 'age': 49, 'title': 'Senior VP & Chief HR Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1638403200
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.83
+beta§1.582
+priceToSalesTrailing12Months§5.3869257
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.46
+pegRatio§21.79
+exchange§NMS
+quoteType§EQUITY
+shortName§Azenta, Inc.
+longName§Azenta, Inc.
+firstTradeDateEpochUtc§791735400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5e491b20-46a4-3479-b440-50d926899742
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§50.0
+targetMeanPrice§62.25
+targetMedianPrice§64.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§5.682
+grossMargins§0.41019002
+ebitdaMargins§0.01962
+trailingPegRatio§None

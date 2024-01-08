@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 18:46:09.642364
+address1§12121 Grant Street
+address2§Suite 610
+city§Thornton
+state§CO
+zip§80241
+country§United States
+phone§303 286 8000
+website§https://www.myrgroup.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§MYR Group Inc., through its subsidiaries, provides electrical construction services in the United States and Canada. It operates in two segments, Transmission and Distribution, and Commercial and Industrial. The Transmission and Distribution segment offers a range of services on electric transmission and distribution networks, and substation facilities, including design, engineering, procurement, construction, upgrade, maintenance, and repair services with primary focus on construction, maintenance, and repair to customers in the electric utility industry; and services, including construction and maintenance of high voltage transmission lines, substations, and lower voltage underground and overhead distribution systems, clean energy projects, and limited gas construction services, as well as emergency restoration services in response to wildfire, ice, or other related damages. This segment serves as a prime contractor to customers, such as investor-owned utilities, cooperatives, private developers, government-funded utilities, independent power producers, independent transmission companies, industrial facility owners, and other contractors. The Commercial and Industrial segment provides a range of services, including design, installation, maintenance, and repair of commercial and industrial wiring; and installation of intelligent transportation systems, roadway lighting, and signalization for airports, hospitals, data centers, hotels, stadiums, commercial and industrial facilities, clean energy projects, manufacturing plants, processing facilities, water/waste-water treatment facilities, mining facilities and transportation control, and management systems.. This segment serves general contractors, commercial and industrial facility owners, governmental agencies, and developers. The company was founded in 1891 and is headquartered in Thornton, Colorado.
+fullTimeEmployees§8500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard S. Swartz Jr.', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1979513, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William F. Fry', 'age': 48, 'title': 'VP, Chief Legal Officer & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 852185, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tod M. Cooper', 'age': 58, 'title': 'Senior VP and COO of Transmission & Distribution', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1135039, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly Michelle Huntington C.F.A.', 'age': 48, 'title': 'Senior VP, CFO, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. A. James Barrett', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Don A. Egan', 'title': 'Senior VP & COO of Commercial and Industrial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Stern', 'title': 'Senior Vice President of Transmission & Distribution', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Harper', 'title': 'VP & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.065
+priceToSalesTrailing12Months§0.66400874
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.74
+pegRatio§1.28
+exchange§NMS
+quoteType§EQUITY
+shortName§MYR Group, Inc.
+longName§MYR Group Inc.
+firstTradeDateEpochUtc§1218634200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3fd9c904-a984-3322-85d9-239a533139f4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§168.0
+targetLowPrice§153.0
+targetMeanPrice§162.5
+targetMedianPrice§164.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.355
+earningsGrowth§0.174
+grossMargins§0.103649996
+ebitdaMargins§0.05231
+trailingPegRatio§None

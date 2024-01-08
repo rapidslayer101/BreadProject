@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 14:28:32.591893
+address1§35 West Wacker Drive
+city§Chicago
+state§IL
+zip§60601
+country§United States
+phone§800 823 5304
+website§https://www.dfinsolutions.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Donnelley Financial Solutions, Inc. operates as a risk and compliance solutions company worldwide. The company operates through four segments: Capital Markets  Software Solutions (CM-SS), Capital Markets  Compliance and Communications Management (CM-CCM), Investment Companies  Software Solutions (IC-SS), and Investment Companies  Compliance and Communications Management (IC-CCM). The CM-SS segment provides Venue, ActiveDisclosure, eBrevia, and other solutions to public and private companies to manage public and private transactional and compliance processes; extract data and analyze contracts; collaborate; and tag, validate, and file SEC documents. The CM-CCM segment offers tech-enabled services and print and distribution solutions to public and private companies for deal solutions and SEC compliance requirements. The IC-SS segment provides clients with the Arc Suite platform that contains a comprehensive suite of cloud-based solutions, including ArcDigital, ArcReporting, ArcPro, and ArcRegulatory, as well as services that enable storage and management of compliance and regulatory information in a self-service and central repository for accessing, assembling, editing, translating, rendering, and submitting documents to regulators and investors. The IC-CCM segment offers its investment companies clients with tech-enabled services to prepare, file, and distribute registration forms, as well as XBRL-formatted filings pursuant to the Investment Act, through the SEC's EDGAR system. This segment also provides print and distribution solutions for its clients to communicate with their investors. Donnelley Financial Solutions, Inc. was founded in 1983 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§2150
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel N. Leib', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3435569, 'exercisedValue': 0, 'unexercisedValue': 5198192}, {'maxAge': 1, 'name': 'Mr. David A. Gardella', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1457992, 'exercisedValue': 0, 'unexercisedValue': 1437828}, {'maxAge': 1, 'name': 'Mr. Craig D. Clay', 'age': 53, 'title': 'President of Global Capital Markets', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1172763, 'exercisedValue': 0, 'unexercisedValue': 852418}, {'maxAge': 1, 'name': 'Mr. Eric J. Johnson', 'age': 55, 'title': 'President of Global Investment Companies', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1385828, 'exercisedValue': 0, 'unexercisedValue': 374668}, {'maxAge': 1, 'name': 'Mr. Jons  Besch', 'title': 'Chief Operations & Production Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kami S. Turner', 'age': 48, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 622800, 'exercisedValue': 0, 'unexercisedValue': 3807}, {'maxAge': 1, 'name': 'Mr. Eric W. Foster', 'age': 51, 'title': 'Chief Information Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Zhao', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leah  Trzcinski', 'title': 'Chief Legal & Compliance Officer and General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen  Clanton', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.481
+priceToSalesTrailing12Months§2.1897156
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.55
+pegRatio§1.83
+exchange§NYQ
+quoteType§EQUITY
+shortName§Donnelley Financial Solutions, 
+longName§Donnelley Financial Solutions, Inc.
+firstTradeDateEpochUtc§1474896600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7a133fa8-7b3d-30f0-9c82-77ed0efc30a2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§54.0
+targetMeanPrice§58.25
+targetMedianPrice§57.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.023
+earningsGrowth§-0.032
+grossMargins§0.57496
+ebitdaMargins§0.17796
+trailingPegRatio§None

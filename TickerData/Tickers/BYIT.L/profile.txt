@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 14:35:53.076096
+address1§Bytes House
+address2§Randalls Way
+city§Leatherhead
+zip§KT22 7TW
+country§United Kingdom
+phone§44 1372 418 500
+fax§44 1372 374 248
+website§https://www.bytes.co.uk
+industry§Software - Infrastructure
+industryKey§software-infrastructure
+industryDisp§Software - Infrastructure
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Bytes Technology Group plc offers software, IT security, hardware, and cloud services in the United Kingdom, rest of Europe, and internationally. The company sells servers, laptops, and other devices; various cloud-based and non-cloud-based licenses; and externally and internally provided training and consulting services. It also offers IT consulting and support services, including IT deployment and training. The company sells its products and services under the Bytes Software Services and Phoenix brands. It serves small- and medium-sized businesses, enterprises, and public sector organizations. The company was founded in 1982 and is headquartered in Leatherhead, the United Kingdom.
+fullTimeEmployees§930
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Neil R. Murphy', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 776301, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew J. Holden', 'age': 56, 'title': 'CFO, COO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 630315, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sam  Mudd', 'age': 53, 'title': 'Phoenix MD & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Emms', 'title': 'Director of Group Finance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack  Watson', 'age': 39, 'title': 'Managing Director of Bytes Software Services', 'yearBorn': 1984, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Prickett', 'title': 'Group Sustainability Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Willem Karel Groenewald', 'age': 39, 'title': 'Company Secretary', 'yearBorn': 1984, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0137
+exDividendDate§1700092800
+payoutRatio§0.42349997
+beta§0.72
+priceToSalesTrailing12Months§6.989188
+currency§GBp
+forwardEps§21.86
+pegRatio§2.88
+lastDividendValue§2.7
+lastDividendDate§1700092800
+exchange§LSE
+quoteType§EQUITY
+shortName§BYTES TECHNOLOGY GROUP PLC ORD 
+longName§Bytes Technology Group plc
+firstTradeDateEpochUtc§1607673600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§85aa60a4-df34-32a7-9d99-321bb10103fe
+messageBoardId§finmb_692357013
+targetHighPrice§670.0
+targetLowPrice§560.0
+targetMeanPrice§615.43
+targetMedianPrice§625.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.01
+earningsGrowth§0.112
+grossMargins§0.69854
+ebitdaMargins§0.28164
+trailingPegRatio§None

@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 13:40:23.184907
+address1§38 Seymour St.
+address2§Suite 1
+city§London
+zip§W1H 7BP
+country§United Kingdom
+phone§44 20 7129 7828
+website§https://sigmaroc.com
+industry§Building Materials
+sector§Basic Materials
+longBusinessSummary§SigmaRoc plc, through its subsidiaries, invests in and/or acquires projects in the construction materials sector. It also produces aggregates and pre-cast concrete; supplies value-added industrial and construction quarried materials; and provides shipping logistics, road contracting, and waste recycling services, as well as engages in the limestone quarrying and processing. In addition, the company offers international marketing and financing services. It operates in the United Kingdom, the Channel Islands, Belgium, the Netherlands, Luxembourg, Northern France, Finland, Sweden, Poland, Norway, Estonia, Latvia, Lithuania, and Spain. The company was formerly known as Messaging International Plc and changed its name to SigmaRoc plc in August 2016. SigmaRoc plc was founded in 1999 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§2000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Kenneth Barrett', 'age': 65, 'title': 'Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 859000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maximilian Alphonos Marin Vermorken', 'age': 39, 'title': 'CEO & Executive Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1144000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garth Mervyn Palmer C.A., CA', 'age': 41, 'title': 'CFO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 899000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Trigg', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fons  Vermorken', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom Arthur John Jenkins', 'age': 51, 'title': 'Head of Investor Relations', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anthony  Brockbank', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Emmanuel  Maes', 'title': 'West MD and Group Head of M&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christophe  Daulmerie', 'age': 54, 'title': 'Executive of Dimension Stone', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Roddy', 'title': 'North West MD & MD of PPG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.669
+priceToSalesTrailing12Months§1.09001
+currency§GBp
+forwardEps§7.61
+exchange§LSE
+quoteType§EQUITY
+shortName§SIGMAROC PLC ORD 1P
+longName§SigmaRoc plc
+firstTradeDateEpochUtc§1123052400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§45592734-585c-38f4-94cb-a8c71bacecc9
+targetHighPrice§120.0
+targetLowPrice§90.0
+targetMeanPrice§101.25
+targetMedianPrice§97.5
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.914
+earningsGrowth§0.436
+grossMargins§0.22288999
+ebitdaMargins§0.15544
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 12:30:36.665672
+address1§155 Harlem Avenue
+city§Glenview
+state§IL
+zip§60025-4075
+country§United States
+phone§847 724 7500
+website§https://www.itw.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Illinois Tool Works Inc. manufactures and sells industrial products and equipment worldwide. It operates through seven segments: Automotive OEM; Food Equipment; Test & Measurement and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty Products. The Automotive OEM segment offers plastic and metal components, fasteners, and assemblies for automobiles, light trucks, and other industrial uses. The Food Equipment segment provides warewashing, refrigeration, cooking, and food processing equipment; kitchen exhaust, ventilation, and pollution control systems; and food equipment maintenance and repair services. The Test & Measurement and Electronics segment produces and sells equipment, consumables, and related software for testing and measuring of materials and structures, as well as equipment and consumables used in the production of electronic subassemblies and microelectronics. The Welding segment produces arc welding equipment; and metal arc welding consumables and related accessories. The Polymers & Fluids segment produces adhesives, sealants, lubrication and cutting fluids, and fluids and polymers for auto aftermarket maintenance and appearance. The Construction Products segment offers engineered fastening systems and solutions for the residential construction, renovation/remodel, and commercial construction markets. The Specialty Products segment offers beverage packaging equipment and consumables, product coding and marking equipment and consumables, and appliance components and fasteners. It serves the automotive OEM/tiers, commercial food equipment, construction, general industrial, and automotive aftermarket end markets. The company distributes its products directly to industrial manufacturers, as well as through independent distributors. Illinois Tool Works Inc. was founded in 1912 and is based in Glenview, Illinois.
+fullTimeEmployees§46000
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Christopher A. O'Herlihy", 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3735686, 'exercisedValue': 0, 'unexercisedValue': 17719404}, {'maxAge': 1, 'name': 'Mr. Michael M. Larsen', 'age': 54, 'title': 'Senior VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 3589580, 'exercisedValue': 5125476, 'unexercisedValue': 5358223}, {'maxAge': 1, 'name': 'Ms. Mary Katherine Lawler', 'age': 57, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1910751, 'exercisedValue': 0, 'unexercisedValue': 4634309}, {'maxAge': 1, 'name': 'Mr. Michael R. Zimmerman', 'age': 62, 'title': 'Executive Vice President of Polymers & Fluids', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1462743, 'exercisedValue': 0, 'unexercisedValue': 3850364}, {'maxAge': 1, 'name': 'Mr. Randall J. Scheuneman', 'age': 55, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen A. Fletcher', 'age': 63, 'title': 'Vice President of Investor Relations', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer Kaplan Schott', 'age': 49, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth T. Escoe', 'age': 47, 'title': 'Executive Vice President of Specialty Products', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Axel R. J. Beck', 'age': 57, 'title': 'Executive Vice President of Food Equipment', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon A. Szafranski', 'age': 56, 'title': 'Executive Vice President of Welding', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.6
+dividendYield§0.0217
+exDividendDate§1703721600
+payoutRatio§0.5175
+fiveYearAvgDividendYield§2.3
+beta§1.157
+priceToSalesTrailing12Months§4.8224015
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.18
+pegRatio§9.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§Illinois Tool Works Inc.
+longName§Illinois Tool Works Inc.
+firstTradeDateEpochUtc§100881000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d762317-e768-376b-8b0c-6080b1a6db53
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§277.0
+targetLowPrice§185.0
+targetMeanPrice§240.73
+targetMedianPrice§240.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§15
+quickRatio§1.043
+earningsGrowth§0.085
+grossMargins§0.42137
+ebitdaMargins§0.27766
+trailingPegRatio§2.8402

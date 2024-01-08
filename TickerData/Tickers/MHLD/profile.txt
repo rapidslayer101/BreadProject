@@ -1,0 +1,45 @@
+# reload+after+2024-01-21 10:46:01.555696
+address1§Ideation House
+address2§1st Floor 94 Pitts Bay Road
+city§Pembroke
+zip§HM 08
+country§Bermuda
+phone§441 298 4900
+website§https://www.maiden.bm
+industry§Insurance—Reinsurance
+sector§Financial Services
+longBusinessSummary§Maiden Holdings, Ltd., through its subsidiaries, provides property and casualty reinsurance solutions to regional and specialty insurers in Europe, the United States, and internationally. It operates in two segments, Diversified Reinsurance and AmTrust Reinsurance. The company writes treaties on a quota share basis and excess of loss basis. It also offers auto and credit life insurance products through its insurer partners to retail clients; and underwrites reinsurance risks on a retroactive basis, which provides a range of legacy services to small insurance companies. The company was founded in 2007 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§49
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick Joseph Haveron CPA', 'age': 61, 'title': 'CFO, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1336515, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence Frederic Metz', 'age': 50, 'title': 'President & Executive Vice Chairman', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1332144, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William T. Jarman FCAS, MAAA', 'age': 48, 'title': 'Senior VP, Chief Actuary & Chief Risk Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 625016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Horning', 'title': 'Senior Vice President, Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Denis M. Butkovic', 'age': 49, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 92962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maxwell  Reid', 'title': 'President of Maiden Global Holdings Ltd', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1538092800
+payoutRatio§0.0
+fiveYearAvgDividendYield§10.45
+beta§1.178
+priceToSalesTrailing12Months§2.7378113
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.25
+exchange§NCM
+quoteType§EQUITY
+shortName§Maiden Holdings, Ltd.
+longName§Maiden Holdings, Ltd.
+firstTradeDateEpochUtc§1210080600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b5be20e0-0bc7-31a0-83b8-49cac8d121f1
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.201
+grossMargins§-0.25713
+ebitdaMargins§-0.61067003
+trailingPegRatio§None

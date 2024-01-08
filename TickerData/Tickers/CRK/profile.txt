@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 10:28:11.772643
+address1§Comstock Tower
+address2§Suite 500 5300 Town and Country Boulevard
+city§Frisco
+state§TX
+zip§75034
+country§United States
+phone§972 668 8800
+fax§972 668 8812
+website§https://www.comstockresources.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Comstock Resources, Inc., an independent energy company, engages in the acquisition, exploration, development, and production of oil and natural gas primarily in North Louisiana and East Texas, the United States. The company was incorporated in 1919 and is based in Frisco, Texas.
+fullTimeEmployees§244
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Miles Jay Allison', 'age': 67, 'title': 'Chairman of the Board of Directors & CEO', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 5947405, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roland O. Burns', 'age': 63, 'title': 'President, CFO, Secretary & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2942031, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel S. Harrison', 'age': 59, 'title': 'Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1286655, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel K. Presley', 'age': 63, 'title': 'VP of Accounting, Controller & Treasurer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 698306, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald Eugene Mills', 'age': 51, 'title': 'Vice President of Finance & Investor Relations', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clifford Doyle Newell III', 'age': 44, 'title': 'VP of Corporate Development & Chief Commercial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. McBurney', 'age': 68, 'title': 'Executive Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick H. Mcgough', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.056199998
+exDividendDate§1701302400
+payoutRatio§0.2232
+beta§0.81
+priceToSalesTrailing12Months§1.1931274
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.13
+pegRatio§0.74
+exchange§NYQ
+quoteType§EQUITY
+shortName§Comstock Resources, Inc.
+longName§Comstock Resources, Inc.
+firstTradeDateEpochUtc§557155800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3112f5b7-6f62-30ef-a00b-029aa30f6fea
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§8.75
+targetMeanPrice§11.65
+targetMedianPrice§11.5
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.378
+earningsGrowth§-0.961
+grossMargins§0.62852
+ebitdaMargins§0.6032
+trailingPegRatio§None

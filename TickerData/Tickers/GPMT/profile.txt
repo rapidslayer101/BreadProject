@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 08:29:58.209760
+address1§3 Bryant Park
+address2§24th Floor, Suite 2400A
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§212 364 5500
+website§https://www.gpmtreit.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Granite Point Mortgage Trust Inc., a real estate investment trust, originates, invests in, and manages senior floating-rate commercial mortgage loans, and other debt and debt-like commercial real estate investments in the United States. The company provides intermediate-term bridge or transitional financing for various purposes, including acquisitions, recapitalizations, and refinancing, as well as a range of business plans, including lease-up, renovation, repositioning, and repurposing of the commercial property. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. Granite Point Mortgage Trust Inc. was founded in 2015 and is headquartered in New York, New York.
+fullTimeEmployees§35
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John A. Taylor J.D.', 'age': 67, 'title': 'President, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1509150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcin  Urbaszek C.F.A.', 'age': 47, 'title': 'VP, CFO, Head of IR & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 779150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Plust', 'age': 64, 'title': 'VP & COO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 834150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Alpart', 'age': 59, 'title': 'VP, Chief Investment Officer & Co-Head of Originations', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 834150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter M. Morral', 'age': 55, 'title': 'VP, Chief Development Officer & Co-Head of Originations', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 834150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Karber', 'age': 43, 'title': 'VP, General Counsel & Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Petta', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.13939999
+exDividendDate§1703721600
+payoutRatio§5.8824
+fiveYearAvgDividendYield§12.02
+beta§1.852
+priceToSalesTrailing12Months§-21.130297
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.09
+pegRatio§23.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§Granite Point Mortgage Trust In
+longName§Granite Point Mortgage Trust Inc.
+firstTradeDateEpochUtc§1498483800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§93c04b1a-0689-39e6-a8cc-986933cb555a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§5.25
+targetMeanPrice§6.69
+targetMedianPrice§6.75
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§50.435
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

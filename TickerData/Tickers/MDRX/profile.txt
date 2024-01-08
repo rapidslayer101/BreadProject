@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 07:45:59.246820
+address1§222 Merchandise Mart Plaza
+address2§Suite 2024
+city§Chicago
+state§IL
+zip§60654
+country§United States
+phone§800 334 8534
+website§https://veradigm.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§Veradigm Inc., a healthcare technology company, provides information technology solutions and services to healthcare organizations in the United States, Canada, and internationally. It offers electronic health records (EHR), information connectivity, private cloud hosting, outsourcing, analytics, patient access, and population health management solutions. The company operates through two segments, Hospitals and Large Physician Practices, and Veradigm. The Hospitals and Large Physician Practices segment provides integrated clinical and financial management solutions, which primarily include EHR-related software; and related installation, support and maintenance, outsourcing, private cloud hosting, and revenue cycle management services. The Veradigm segment offers payer and life sciences solutions, which are primarily targeted at payers, life sciences companies, and other healthcare stakeholders; and software applications for patient engagement and EHR software to single-specialty, and small and mid-sized physician practices, including related clinical, financial, administrative, and operational solutions. Its solutions enable clients to transition, analyze, and coordinate care, and enhance the healthcare delivery across the care community. The company serves physicians, hospitals, governments and militaries, health systems, health plans, life-sciences companies, retail clinics, surgery centers, retail pharmacies, pharmacy benefit managers, insurance companies, employer wellness clinics, consumers, lab companies, urgent care facilities, and venture capital firms, as well as post-acute organizations, such as home health and hospice agencies. The company was formerly known as Allscripts Healthcare Solutions, Inc. and changed its name to Veradigm Inc. in January 2023. Veradigm Inc. was founded in 1986 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§8000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. P. Gregory Garrison', 'age': 69, 'title': 'Executive Chairman of the Board', 'yearBorn': 1954, 'fiscalYear': 2021, 'totalPay': 103000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tejal  Vakharia', 'age': 49, 'title': 'Senior VP of Marketing & Government Affairs, General Counsel and Chief Compliance Counsel', 'yearBorn': 1974, 'fiscalYear': 2021, 'totalPay': 1042215, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shih-Yin  Ho M.B.A., M.D.', 'age': 53, 'title': 'Interim Chief Executive Officer & Director', 'yearBorn': 1970, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Langan', 'age': 57, 'title': 'President & CCO', 'yearBorn': 1966, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leland A. Westerfield', 'age': 54, 'title': 'Interim CFO and Principal Financial & Accounting Officer', 'yearBorn': 1969, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jenny  Gelinas', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Elmore', 'title': 'Senior Vice President of Corporate Development & Strategy', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Hammond C.P.C.', 'age': 50, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1973, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Sage', 'title': 'Senior Vice President of U.S. Hospitals & Health Systems Sales', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elliot  Bryant', 'title': 'Senior VP & General Manager for Classic Client Solutions Business Unit', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§2
+exDividendDate§1223337600
+payoutRatio§0.0
+beta§0.771
+priceToSalesTrailing12Months§0.74888325
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.89
+pegRatio§-0.77
+exchange§NMS
+quoteType§EQUITY
+shortName§Veradigm Inc.
+longName§Veradigm Inc.
+firstTradeDateEpochUtc§932995800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§75081fd1-7248-34ee-a287-90a0aa1a19ad
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§11.0
+targetMeanPrice§15.86
+targetMedianPrice§13.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§2.873
+earningsGrowth§-0.018
+grossMargins§0.50636
+ebitdaMargins§0.075440004
+trailingPegRatio§None

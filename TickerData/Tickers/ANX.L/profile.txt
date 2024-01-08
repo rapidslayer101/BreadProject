@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 01:35:34.326559
+address1§The Plaza
+address2§5th Floor 100 Old Hall Street
+city§Liverpool
+zip§L3 9QJ
+country§United Kingdom
+phone§44 79 7136 2020
+website§https://www.anexo-group.com
+industry§Rental & Leasing Services
+industryKey§rental-leasing-services
+industryDisp§Rental & Leasing Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Anexo Group Plc, together with its subsidiaries, provides integrated credit hire and legal services to the clients involved in a non-fault accident in the United Kingdom. It operates in two divisions, Credit Hire and Legal Services. The company offers replacement vehicles and associated legal assistance to consumers involved in non-fault motor accidents. It also provides integrated end-to-end services, such as the provision of a credit hire vehicle, upfront settlement of repair and recovery charges through to the management and recovery of costs, and processing of associated personal injury claims. Anexo Group Plc was founded in 2006 and is based in Liverpool, the United Kingdom.
+fullTimeEmployees§997
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alan Mitchell Sellers', 'age': 63, 'title': 'Executive Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 754000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Andrew Bringloe', 'age': 50, 'title': 'Interim CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 420000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha Ann Moss', 'age': 42, 'title': 'MD of Bond Turner & Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 454000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Dawn Catherine Rooke Née O'Brien", 'age': 38, 'title': 'Executive Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 345000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nick Dashwood Brown', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0208
+exDividendDate§1684972800
+payoutRatio§0.0943
+beta§0.783
+priceToSalesTrailing12Months§0.57603514
+currency§GBp
+forwardEps§15.0
+lastDividendValue§1.5
+lastDividendDate§1684972800
+exchange§LSE
+quoteType§EQUITY
+shortName§ANEXO GROUP PLC ORD 0.05P
+longName§Anexo Group Plc
+firstTradeDateEpochUtc§1529478000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4cad53e8-26ef-33d9-be55-439bdf62551d
+messageBoardId§finmb_569883057
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§3.662
+earningsGrowth§-0.075
+grossMargins§0.78973997
+ebitdaMargins§0.23255
+trailingPegRatio§None

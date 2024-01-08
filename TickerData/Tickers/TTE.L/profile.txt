@@ -1,0 +1,47 @@
+# reload+after+2024-01-23 06:40:43.792619
+address1§2, place Jean Millier
+address2§La DEfense 6
+city§Courbevoie
+zip§92078
+country§France
+phone§33 01 47 44 45 46
+fax§33 01 47 44 49 44
+website§https://www.totalenergies.com
+industry§Oil & Gas Integrated
+sector§Energy
+longBusinessSummary§TotalEnergies SE, a multi-energy company, produces and markets fuels, natural gas, and electricity in France, rest of Europe, North America, Africa, and internationally. It operates through Integrated Gas, Renewables & Power; Exploration & Production; Refining & Chemicals; and Marketing & Services segments. The Integrated Gas, Renewables & Power segment engages in integrated gas, including liquified natural gas (LNG), and low carbon electricity businesses; and upstream and midstream LNG activities. Its Exploration & Production segment offers carbon storage and nature-based solutions. The Refining & Chemicals segment provides refining, petrochemicals, and specialty chemicals; and supply and trading of oil, and marine shipping services. Its Marketing & Services segment engages in the supply and marketing of petroleum products. TotalEnergies SE was formerly known as TOTAL SE and changed its name to TotalEnergies SE in June 2021. The company was founded in 1924 and is headquartered in Courbevoie, France.
+fullTimeEmployees§101279
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick  Pouyanné', 'age': 60, 'title': 'Chairman, CEO & President', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4353479, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Pierre  Sbraire', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marie-Noëlle  Semeria', 'title': 'Senior VP & Group CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michel  Hourcard', 'title': 'SVP of Development & Ops Techniques - Exploration/Production & SVP of Scientific & Technical Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Renaud  Lions', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aurélien  Hamelle', 'title': 'Senior Vice President of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacques-Emmanuel  Saulnier', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thierry  Pflimlin', 'age': 64, 'title': 'President of Marketing & Services', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Francoise  Leroy', 'age': 71, 'title': 'Head of Merger & Acquisitions', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Odile  de Damas-Nottin', 'title': 'Senior Vice President of Audit & Internal Control', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.96
+dividendYield§0.0473
+exDividendDate§1710892800
+payoutRatio§0.3923
+fiveYearAvgDividendYield§6.0
+beta§0.781
+priceToSalesTrailing12Months§0.64579886
+currency§EUR
+forwardEps§9.01
+pegRatio§-0.46
+exchange§LSE
+quoteType§EQUITY
+shortName§TOTALENERGIES SE TOTALENERGIES 
+longName§TotalEnergies SE
+firstTradeDateEpochUtc§988614000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b38fbcd6-da74-321a-829e-488254430772
+recommendationKey§none
+quickRatio§0.585
+earningsGrowth§0.066
+grossMargins§0.34667
+ebitdaMargins§0.23277001
+trailingPegRatio§None

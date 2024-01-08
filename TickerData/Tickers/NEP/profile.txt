@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 18:31:39.158967
+address1§700 Universe Boulevard
+city§Juno Beach
+state§FL
+zip§33408
+country§United States
+phone§561 694 4000
+website§https://www.nexteraenergypartners.com
+industry§Utilities—Renewable
+sector§Utilities
+longBusinessSummary§NextEra Energy Partners, LP acquires, owns, and manages contracted clean energy projects in the United States. It owns a portfolio of contracted renewable generation assets consisting of wind, solar, and battery storage projects, as well as contracted natural gas pipeline assets. NextEra Energy Partners, LP was incorporated in 2014 and is headquartered in Juno Beach, Florida.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John W. Ketchum', 'age': 52, 'title': 'Chairman & CEO', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca J. Kujawa', 'age': 47, 'title': 'President & Director', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terrell Kirk Crews II', 'age': 45, 'title': 'CFO & Director', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Michael May', 'age': 46, 'title': 'Controller & Chief Accounting Officer', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles E. Sieving', 'age': 50, 'title': 'General Counsel', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark E. Hickson', 'age': 55, 'title': 'Executive VP of Strategy & Corporate Development and Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Scott Seeley', 'title': 'Corporate Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael H. Dunne', 'age': 47, 'title': 'Treasurer & Assistant Secretary', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+dividendRate§3.38
+dividendYield§0.1141
+exDividendDate§1698969600
+payoutRatio§2.4786
+fiveYearAvgDividendYield§4.41
+beta§0.966
+priceToSalesTrailing12Months§2.153168
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.7
+pegRatio§-3.09
+exchange§NYQ
+quoteType§EQUITY
+shortName§NextEra Energy Partners, LP
+longName§NextEra Energy Partners, LP
+firstTradeDateEpochUtc§1403875800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1037dff3-7215-392e-9b79-948118e2037c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§15.5
+targetMeanPrice§32.04
+targetMedianPrice§33.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.421
+earningsGrowth§-0.389
+grossMargins§0.56308
+ebitdaMargins§0.58022
+trailingPegRatio§None

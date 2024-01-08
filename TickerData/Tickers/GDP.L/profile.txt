@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 11:38:05.310582
+address1§Salisbury House
+address2§London Wall
+city§London
+zip§EC2M 5PS
+country§United Kingdom
+website§https://www.goldplat.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Goldplat PLC, together with its subsidiaries, operates as a mining services company in South Africa and Ghana. It recovers gold and other precious metals from by-products, contaminated soil, and other precious metal material from mining and other industries. The company was incorporated in 2005 and is based in London, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Werner  Klingenberg', 'age': 41, 'title': 'CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 184000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent  Doster', 'title': 'Group Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas  Davidson', 'title': 'Group Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ayanda  Ntsho', 'title': 'Chief Financial Officer of South Africa', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Frank Ronaldson', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1385510400
+payoutRatio§0.0
+beta§0.372
+priceToSalesTrailing12Months§0.24640505
+currency§GBp
+forwardEps§1.2
+exchange§LSE
+quoteType§EQUITY
+shortName§GOLDPLAT PLC ORD 1P
+longName§Goldplat PLC
+firstTradeDateEpochUtc§1153897200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§cd660bf0-58cd-307e-b93a-ae6417618096
+targetHighPrice§14.7
+targetLowPrice§14.7
+targetMeanPrice§14.7
+targetMedianPrice§14.7
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.723
+earningsGrowth§-0.267
+grossMargins§0.17722
+ebitdaMargins§0.0
+trailingPegRatio§None

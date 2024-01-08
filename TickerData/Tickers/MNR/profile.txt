@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 11:31:24.120884
+address1§14201 Wireless Way
+address2§Suite 300
+city§Oklahoma City
+state§OK
+zip§73134
+country§United States
+phone§405-252-8100
+fax§405-252-8110
+website§https://www.machresources.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Mach Natural Resources LP, an independent upstream oil and gas company, focuses on the acquisition, development, and production of oil, natural gas, and natural gas liquids reserves in the Anadarko Basin region of Western Oklahoma, Southern Kansas, and the panhandle of Texas. The company was incorporated in 2023 and is headquartered in Oklahoma City, Oklahoma.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tom L. Ward', 'age': 63, 'title': 'CEO & Director of Mach Natural Resources GP LLC', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 627000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin R. White', 'age': 66, 'title': 'Chief Financial Officer of Mach Natural Resources GP LLC', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 549500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel T. Reineke Jr.', 'age': 40, 'title': 'Executive Vice President of Business Development of Mach Natural Resources GP LLC', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 747556, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Reel', 'age': 38, 'title': 'General Counsel & Secretary of Mach Natural Resources GP LLC', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§2.0529096
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.47
+exchange§NYQ
+quoteType§EQUITY
+shortName§Mach Natural Resources LP
+firstTradeDateEpochUtc§1698240600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§67e12a4c-b8da-37b6-a2f0-95373474ed24
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§21.0
+targetMeanPrice§24.5
+targetMedianPrice§23.5
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§1.093
+grossMargins§0.84532
+ebitdaMargins§0.66897005
+trailingPegRatio§None

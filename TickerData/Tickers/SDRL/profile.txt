@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 12:33:04.698600
+address1§Par-la-Ville Place
+address2§14 Par-la-Ville Road
+city§Hamilton
+zip§HM 08
+country§Bermuda
+website§https://www.seadrill.com
+industry§Oil & Gas Drilling
+sector§Energy
+longBusinessSummary§Seadrill Limited provides offshore contract drilling services to the oil and gas industry worldwide. It operates in three segments: Harsh Environment, Floaters, and Jack-ups Rigs. The company owns and operates drill ships, semi-submersible rigs, and jack-up rigs for operations in shallow and ultra-deep-water in benign and harsh environments. It serves oil super-majors, state-owned national oil companies, and independent oil and gas companies. Seadrill Limited was formerly known as Seadrill 2021 Limited. The company was incorporated in 2005 and is headquartered in Hamilton, Bermuda.
+fullTimeEmployees§2576
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Simon William Johnson', 'age': 52, 'title': 'President & CEO', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grant Russe Creed', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcel  Wieggers', 'title': 'Senior Vice President of Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Benjamin  Wiseman', 'title': 'Corporate Finance Manager & Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily  Li', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd D. Strickler J.D.', 'age': 45, 'title': 'Senior VP & General Counsel', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sara  Dunne', 'title': 'Director of Communications', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Torsten  Sauer-Petersen', 'age': 50, 'title': 'Executive Vice President of Human Resources', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samir  Ali', 'age': 37, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John T. Roche', 'age': 43, 'title': 'Vice President of Investor Relations', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§2.696787
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.54
+exchange§NYQ
+quoteType§EQUITY
+shortName§Seadrill Limited
+longName§Seadrill Limited
+firstTradeDateEpochUtc§1665754200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d277ef79-45d6-305a-9953-9bb4decfae4f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§60.0
+targetMeanPrice§65.0
+targetMedianPrice§60.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.036
+grossMargins§0.37772998
+ebitdaMargins§0.33800998
+trailingPegRatio§None

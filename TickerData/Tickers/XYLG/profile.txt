@@ -1,0 +1,25 @@
+# reload+after+2024-01-20 12:34:36.636534
+phone§+1 8884938631
+longBusinessSummary§The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index measures the performance of a theoretical portfolio that holds a portfolio of the stocks included in the S&P 500® Index (the "reference index"), and "writes" (or sells) a succession of one-month at-the-money covered call options on the reference index. It generally will use a replication strategy.
+maxAge§86400
+priceHint§2
+yield§0.049000002
+totalAssets§61156028
+navPrice§28.05
+currency§USD
+ytdReturn§-0.0073541
+beta3Year§0.76
+fundFamily§Global X Funds
+fundInceptionDate§1600387200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0725181
+exchange§PCX
+quoteType§ETF
+shortName§Global X S&P 500 Covered Call &
+longName§Global X S&P 500 Covered Call & Growth ETF
+firstTradeDateEpochUtc§1601904600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a23594a8-444a-3fd7-93be-05ccd86b31b2
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

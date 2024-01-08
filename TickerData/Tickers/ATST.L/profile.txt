@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 02:35:25.830883
+address1§51 Lime Street
+city§London
+zip§EC3M 7DQ
+country§United Kingdom
+phone§44 0203 932 2990
+website§https://www.alliancetrust.co.uk
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Alliance Trust PLC is a publicly owned investment manager. The firm provides its services to retail investors and institutional investors. It invests in public equity markets. Alliance Trust PLC was founded on April 21, 1888 and is based in Dundee, United Kingdom with an additional office in London, United Kingdom.
+fullTimeEmployees§3
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Atkinson', 'title': 'Head of Marketing & Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lisa  Brown', 'title': 'Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grant  Lindsay', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela  Fan', 'title': 'Investment Analyst', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma  Gilchrist', 'title': 'Property Investment Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jonathan  Bolton Ph.D.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roderick Neil George Davidson', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart James McMaster', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart Henry Steven CFA', 'age': 55, 'title': 'Portfolio Manager', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.25
+dividendYield§0.0247
+exDividendDate§1701302400
+payoutRatio§0.1689
+fiveYearAvgDividendYield§1.9
+beta§0.693
+priceToSalesTrailing12Months§6.9801774
+currency§GBp
+lastDividendValue§0.0634
+lastDividendDate§1701302400
+exchange§LSE
+quoteType§EQUITY
+shortName§ALLIANCE TRUST PLC ORD 2.5P
+longName§Alliance Trust Ord
+firstTradeDateEpochUtc§-61200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5a38c4f4-2d4e-3f89-80ba-199a4f70aa5f
+messageBoardId§finmb_874060
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§1.04
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

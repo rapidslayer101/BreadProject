@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 02:44:10.127542
+address1§1209 Orange Street
+city§Wilmington
+state§DE
+zip§19801
+country§United States
+phone§302 777 0200
+website§https://www.coinbase.com
+industry§Financial Data & Stock Exchanges
+sector§Financial Services
+longBusinessSummary§Coinbase Global, Inc. provides financial infrastructure and technology for the cryptoeconomy in the United States and internationally. It offers the primary financial account in the cryptoeconomy for consumers; a marketplace with a pool of liquidity for transacting in crypto assets for institutions; and technology and services that enable developers to build crypto-based applications and securely accept crypto assets as payment. The company was founded in 2012 and is based in Wilmington, Delaware.
+fullTimeEmployees§4510
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian  Armstrong', 'age': 40, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 7465350, 'exercisedValue': 0, 'unexercisedValue': 83633416}, {'maxAge': 1, 'name': 'Ms. Emilie M. Choi', 'age': 44, 'title': 'President & COO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1029383, 'exercisedValue': 0, 'unexercisedValue': 24951868}, {'maxAge': 1, 'name': 'Mr. Frederick Ernest Ehrsam III', 'age': 34, 'title': 'Co-Founder & Director', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alesia Jeanne Haas', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 732175, 'exercisedValue': 14214631, 'unexercisedValue': 23168576}, {'maxAge': 1, 'name': 'Mr. Paul  Grewal', 'age': 51, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 732175, 'exercisedValue': 0, 'unexercisedValue': 5714224}, {'maxAge': 1, 'name': 'Jennifer N. Jones', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anil K. Gupta', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence J. Brock', 'age': 51, 'title': 'Chief People Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Faryar  Shirzad', 'title': 'Chief Policy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manish  Gupta', 'title': 'Executive Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.183
+priceToSalesTrailing12Months§14.020733
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.02
+exchange§NMS
+quoteType§EQUITY
+shortName§Coinbase Global, Inc.
+longName§Coinbase Global, Inc.
+firstTradeDateEpochUtc§1618407000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§25361d98-7423-342a-baf0-3cacdc76932f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§0.4
+targetLowPrice§0.4
+targetMeanPrice§0.4
+targetMedianPrice§0.4
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.045
+grossMargins§0.85608
+ebitdaMargins§-0.49802
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 22:38:05.852744
+address1§Citygate
+address2§St James' Boulevard
+city§Newcastle upon Tyne
+zip§NE1 4JE
+country§United Kingdom
+phone§44 19 1261 1819
+website§https://www.graingerplc.co.uk
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Grainger plc, together with its subsidiaries, owns, operates, and manages private rental homes in the United Kingdom. The company was formerly known as Grainger Trust Plc and changed the name to Grainger Plc in March 2007. Grainger plc was incorporated in 1912 and is headquartered in Newcastle upon Tyne, the United Kingdom.
+fullTimeEmployees§372
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Helen Christine Gordon MRICS', 'age': 63, 'title': 'CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1372000, 'exercisedValue': 4663, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Jan Hudson', 'age': 50, 'title': 'Group CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1003000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eliza  Pattinson', 'title': 'Director of Operations & Asset Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Smith', 'age': 64, 'title': 'Group Accounting Director', 'yearBorn': 1959, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David John Prescott C.A., C.F.A.', 'title': 'Director of Strategy & Corporate Finance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Glibbery', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt  Mueller', 'title': 'Director of Corporate Affairs', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Adam  McGhin', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manpreet  Dillon BA (Hons), PostGradDip, MCIH', 'title': 'Director of Property Services & Compliance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julie  Deighton', 'title': 'Head of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.0257
+exDividendDate§1703721600
+payoutRatio§1.7628999
+fiveYearAvgDividendYield§2.06
+beta§0.71
+priceToSalesTrailing12Months§7.306463
+currency§GBp
+forwardEps§11.9
+pegRatio§1.58
+exchange§LSE
+quoteType§EQUITY
+shortName§GRAINGER PLC ORD 5P
+longName§Grainger plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7e7a7d40-e2b2-3b17-af79-6bb4445bcdeb
+targetHighPrice§354.0
+targetLowPrice§235.0
+targetMeanPrice§287.88
+targetMedianPrice§282.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.43
+earningsGrowth§-0.863
+grossMargins§0.59191
+ebitdaMargins§0.45563
+trailingPegRatio§None

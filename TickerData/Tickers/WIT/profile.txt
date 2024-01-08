@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 16:34:23.822377
+address1§Doddakannelli
+address2§Sarjapur Road
+city§Bengaluru
+zip§560035
+country§India
+phone§91 80 2844 0011
+website§https://www.wipro.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Wipro Limited operates as an information technology (IT), consulting, and business process services company worldwide. It operates through three segments: IT Services, IT Products, and India State Run Enterprise Services (ISRE). The IT Services segment offers IT and IT-enabled services, including digital strategy advisory, customer-centric design, technology and IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package implementation, cloud and infrastructure, business process, cloud, mobility and analytics, research and development, and hardware and software design services to enterprises. It serves customers in various industry sectors, such as healthcare and medical devices, consumer goods and life sciences, retail, transportation and services, communications, media and information services, technology products and platforms, banking, financial services and insurance, manufacturing, hi-tech, energy, and utilities. The IT Products segment provides a range of third-party IT products comprising enterprise platforms, networking solutions, software and data storage products, contact center infrastructure, enterprise security, IT optimization technologies, video solutions, and end-user computing solutions. It serves enterprises in various industries primarily in the Indian market, which comprise the government, defense, IT and IT-enabled services, telecommunications, manufacturing, utilities, education, and financial services sectors. The ISRE segment offers IT services to entities and departments owned or controlled by the Government of India and/or various Indian State Governments. It also provides cybersecurity consulting services. The company has a partnership with ServiceNow, Inc. to develop Wipro CyberTransform - Intelligent ServiceNow Risk and Security Solutions. The company was incorporated in 1945 and is based in Bengaluru, India.
+fullTimeEmployees§250000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rishad Azim Hasham Premji Jr.', 'age': 46, 'title': 'Executive Chairman', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 951353, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thierry  Delaporte', 'age': 56, 'title': 'MD, CEO, Director & Member of Executive Board', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 10026942, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jatin Pravinchandra Dalal', 'age': 48, 'title': 'President & Executive Board Member', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1084693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aparna C. Iyer', 'age': 42, 'title': 'CFO, Corporate Treasurer & Investor Relations', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Srinivas  Pallia', 'age': 56, 'title': 'CEO of Americas 1 & Executive Board Member', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Saurabh  Govil', 'age': 55, 'title': 'Chief Human Resources Officer & Executive Board Member', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nagendra P. Bandaru', 'title': 'Global Managing Partner of iCORE Business Line & Executive Board Member', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pierre  Bruno', 'title': 'Member of Executive Board & CEO of Europe', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie  Trautman', 'title': 'Chief Growth Officer & Executive Board Member', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Dann', 'title': 'CEO of Americas 21 Strategic Market Unit & Executive Board Member', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§8
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0143
+exDividendDate§1674518400
+payoutRatio§0.046
+fiveYearAvgDividendYield§0.54
+beta§0.743
+priceToSalesTrailing12Months§0.03119479
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.28
+pegRatio§2.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§Wipro Limited
+longName§Wipro Limited
+firstTradeDateEpochUtc§971962200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fff6601e-bb80-38c9-82ad-1f9ee668d3cb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§4.0
+targetMeanPrice§4.58
+targetMedianPrice§4.7
+recommendationMean§4.3
+recommendationKey§underperform
+numberOfAnalystOpinions§6
+quickRatio§2.142
+earningsGrowth§0.039
+grossMargins§0.29553
+ebitdaMargins§0.18423
+trailingPegRatio§1.2704

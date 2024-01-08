@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 12:31:07.087002
+address1§Cecilia Grierson 355
+address2§4th Floor
+city§Buenos Aires
+zip§C1107CPG
+country§Argentina
+phone§54 11 4319 3048
+website§https://www.lomanegra.com
+industry§Building Materials
+sector§Basic Materials
+longBusinessSummary§Loma Negra Compañía Industrial Argentina Sociedad Anónima, together with its subsidiaries, manufactures and sells cement and its derivatives in Argentina. The company operates through Cement, Masonry Cement and Lime; Concrete; Railroad; Aggregates; and Others segments. It offers masonry cement, aggregates, ready-mix concrete, concrete, and lime to wholesale distributors, concrete producers, industrial customers, and others for use in the construction. The company also provides rail transportation services; and treats and recycles industrial waste for use as fuel and raw material. It markets its products under the Loma Negra, San Martín, Plasticor, Cacique Plus, Cacique Max, Loma Negra Plus, and Lomax brands. The company was incorporated in 1926 and is based in Buenos Aires, Argentina. Loma Negra Compañía Industrial Argentina Sociedad Anónima operates as  a subsidiary of Intercement Trading E Inversiones Argentina Sociedad Limitada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sergio Damian Faifman', 'age': 49, 'title': 'Vice-President of Board & CEO', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcos Isabelino Gradin', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dardo Ariel Damiano', 'age': 60, 'title': 'Director of Operations & Industrial Director', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucrecia  Loureiro', 'age': 42, 'title': 'Human Resources, Sustainability, Legal & Corporate Affairs Director', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gastón  Pinnel', 'title': 'Investor Relations Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Diego  Jalón', 'title': 'IR Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.81
+dividendYield§0.120799996
+exDividendDate§1688083200
+payoutRatio§0.8294
+beta§1.467
+priceToSalesTrailing12Months§0.007717519
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.31
+pegRatio§92270.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§Loma Negra Compania Industrial 
+longName§Loma Negra Compañía Industrial Argentina Sociedad Anónima
+firstTradeDateEpochUtc§1509543000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b7c28e48-9b3b-3609-bcda-9000d4b699e9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§2.61
+targetMeanPrice§7.25
+targetMedianPrice§7.85
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.475
+grossMargins§0.23201999
+ebitdaMargins§0.19824
+trailingPegRatio§None

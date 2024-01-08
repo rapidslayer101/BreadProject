@@ -1,0 +1,47 @@
+# reload+after+2024-01-21 13:28:10.836294
+address1§700 Milam Street
+address2§Suite 1900
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§713 375 5000
+website§https://cqpir.cheniere.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Cheniere Energy Partners, L.P., through its subsidiaries, provides liquefied natural gas (LNG) to integrated energy companies, utilities, and energy trading companies worldwide. It owns and operates natural gas liquefaction and export facility at the Sabine Pass LNG production terminal located in Cameron Parish, Louisiana. The company's regasification facilities include five LNG storage tanks with an aggregate capacity of approximately 17 billion cubic feet equivalent; two marine berths that accommodate vessels with capacity of up to 266,000 cubic meters; and vaporizers with regasification capacity of approximately 4 billion cubic feet per day. It also owns a 94-mile pipeline that interconnects the Sabine Pass LNG terminal with various interstate pipelines. Cheniere Energy Partners GP, LLC serves as the general partner of the company. The company was founded in 2003 and is headquartered in Houston, Texas. Cheniere Energy Partners, L.P. operates as a subsidiary of Cheniere Energy, Inc.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jack A. Fusco', 'age': 61, 'title': 'Chairman, President & CEO of Cheniere Energy Partners GP LLC', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zach  Davis', 'age': 37, 'title': 'Executive VP, CFO & Director of Cheniere Energy Partners GP LLC', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Corey Grindal', 'age': 51, 'title': 'Executive VP, COO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Slack', 'age': 42, 'title': 'VP & Chief Accounting Officer of Cheniere Energy Partners GP, LLC', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brandon  Smith', 'title': 'VP & Chief Information Officer of Cheniere Energy Partners GP LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Bullis', 'title': 'Executive VP & Chief Administrative Officer of Cheniere Energy Partners GP LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Bhatia', 'title': 'Vice President of Investor Relations - Cheniere Energy Partners GP LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean Nathaniel Markowitz', 'age': 49, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary of Cheniere Energy Partners GP LLC', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Deanna L. Newcomb', 'title': 'Chief Compliance & Ethics Officer and VP of Internal Audit - Cheniere Energy Partners GP LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eben  Burnham-Snyder', 'title': 'Vice President of Public Affairs - Cheniere Energy Partners GP LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.16
+dividendYield§0.0785
+exDividendDate§1698969600
+payoutRatio§0.4134
+fiveYearAvgDividendYield§6.65
+beta§0.742
+priceToSalesTrailing12Months§2.1928427
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.93
+pegRatio§2.34
+exchange§ASE
+quoteType§EQUITY
+shortName§Cheniere Energy Partners, LP
+longName§Cheniere Energy Partners, L.P.
+firstTradeDateEpochUtc§1174483800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8b3ecfe-c549-3a84-9d01-0605fb0549fc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§58.0
+targetLowPrice§43.0
+targetMeanPrice§50.57
+targetMedianPrice§51.5
+recommendationMean§3.7
+recommendationKey§underperform
+numberOfAnalystOpinions§14
+quickRatio§0.615
+grossMargins§0.63826
+ebitdaMargins§0.62928003
+trailingPegRatio§None

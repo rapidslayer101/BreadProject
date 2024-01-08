@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 09:34:14.977448
+address1§Harborside 3, 210 Hudson Street
+address2§Suite 400
+city§Jersey City
+state§NJ
+zip§07311-1206
+country§United States
+phone§732 590 1010
+fax§732 205 8237
+website§https://www.verisresidential.com
+industry§REIT—Residential
+sector§Real Estate
+longBusinessSummary§Veris Residential, Inc. is a forward-thinking, environmentally- and socially-conscious real estate investment trust (REIT) that primarily owns, operates, acquires, and develops holistically-inspired, Class A multifamily properties that meet the sustainability-conscious lifestyle needs of today's residents while seeking to positively impact the communities it serves and the planet at large. The company is guided by an experienced management team and Board of Directors and is underpinned by leading corporate governance principles, a best-in-class and sustainable approach to operations, and an inclusive culture based on equality and meritocratic empowerment.
+fullTimeEmployees§215
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mahbod  Nia', 'age': 47, 'title': 'CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2878986, 'exercisedValue': 0, 'unexercisedValue': 44333}, {'maxAge': 1, 'name': 'Ms. Amanda E. Lombard CPA', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1248783, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Malhari', 'age': 37, 'title': 'Executive VP & COO', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 954688, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey S. Turkanis', 'age': 41, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1149925, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Taryn D. Fielder', 'age': 45, 'title': 'General Counsel & Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 973692, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cindy  Mai', 'title': 'SVP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Giacomo  Mascillaro', 'title': 'Senior VP, Chief Information Officer & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Jones', 'title': 'Senior Vice President of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori  Jean Milo', 'title': 'Senior Vice President of Human Resource', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Epstein', 'title': 'Senior Vice President of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1703721600
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.55
+beta§1.226
+priceToSalesTrailing12Months§3.8326082
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.34
+pegRatio§0.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§Veris Residential, Inc.
+longName§Veris Residential, Inc.
+firstTradeDateEpochUtc§777821400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b22a8a47-3c31-387e-9f79-4fa213f014fe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§12.0
+targetMeanPrice§17.17
+targetMedianPrice§17.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.062
+grossMargins§0.57458997
+ebitdaMargins§0.46265
+trailingPegRatio§None

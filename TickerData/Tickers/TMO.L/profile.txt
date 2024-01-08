@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 01:40:42.952945
+address1§172 Drury Lane
+address2§1st Floor
+city§London
+zip§WC2B 5QR
+country§United Kingdom
+phone§44 20 7813 3000
+website§https://www.timeout.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§Time Out Group plc, together with its subsidiaries, engages in the media and entertainment business. It operates through Time Out Market and Time Out Media segments. The Time Out Market segment operates bars; and engages in retail, events, and sponsorship business activities. The Time Out Media segment engages in the sale of digital and print advertising, local marketing solutions, and live events tickets; as well as involved in franchise activities. In addition, it distributes its services through digital platforms, such as websites, mobile, CRM, Video, social media, and physical platforms, including live events, and Time Out Market. Time Out Group plc was founded in 1968 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§504
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sven Torbjorn Ohlund', 'age': 60, 'title': 'CEO & Executive Vice Chairman', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Tredget', 'title': 'Investor Relations Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alexandra  Rieck', 'title': 'Global Head of PR & Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emma Louise Humphrey', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.172
+priceToSalesTrailing12Months§1.7467316
+currency§GBp
+forwardEps§0.05
+exchange§LSE
+quoteType§EQUITY
+shortName§TIME OUT GROUP PLC ORD GBP0.001
+longName§Time Out Group plc
+firstTradeDateEpochUtc§1465887600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1f395576-8030-3b44-b49f-cb3ac97cfad5
+targetHighPrice§78.0
+targetLowPrice§78.0
+targetMeanPrice§78.0
+targetMedianPrice§78.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.535
+grossMargins§0.59144
+ebitdaMargins§-0.09548
+trailingPegRatio§None

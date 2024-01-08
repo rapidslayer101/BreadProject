@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 01:29:20.123581
+address1§1050 Walnut Ridge Drive
+city§Hartland
+state§WI
+zip§53029
+country§United States
+phone§262 367 8254
+website§https://fathommfg.com
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§Fathom Digital Manufacturing Corporation, a digital manufacturing platform, provides product development and manufacturing services in North America. It provides plastic and metal additive manufacturing, computer numerical control machining, injection molding and tooling, precision sheet metal fabrication, design engineering, and catering services. The company serves the technology, defense, aerospace, medical, automotive, and IOT sectors. Fathom Digital Manufacturing Corporation was founded in 1984 and is headquartered in Hartland, Wisconsin.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Carey  Chen', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Stump', 'age': 41, 'title': 'Advisor', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 612392, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark T. Frost', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 361061, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Mihevc', 'title': 'Co-Founder and Principal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Beaton', 'age': 54, 'title': 'Chief Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Cimini', 'age': 48, 'title': 'Director of Investor Relations', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt  Bork', 'age': 45, 'title': 'Vice President of Sales and Marketing', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caprice  Perez', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.804
+priceToSalesTrailing12Months§0.22880772
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-8.38
+pegRatio§0.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Fathom Digital Manufacturing Co
+longName§Fathom Digital Manufacturing Corporation
+firstTradeDateEpochUtc§1617024600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e2bf3008-d24d-334f-9acf-6e7330b4ad61
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§5.0
+targetMeanPrice§6.0
+targetMedianPrice§5.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.167
+grossMargins§0.31499
+ebitdaMargins§0.07734
+trailingPegRatio§None

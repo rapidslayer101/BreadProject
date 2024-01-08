@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 04:40:02.449803
+address1§The Firs Building
+address2§2nd Floor, Office 204 Corner Cradock and Biermann Avenues Rosebank
+city§Johannesburg
+zip§2196
+country§South Africa
+phone§27 11 243 2900
+website§https://www.panafricanresources.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Pan African Resources PLC engages in the mining, extraction, production, and sale of gold in South Africa. The company's flagship projects include the Barberton Mines that consists of three underground mines, including Fairview, Sheba, and Consort located in the Barberton Greenstone Belt; and Elikhulu tailings retreatment plant in Southern Africa. Pan African Resources PLC is headquartered in Johannesburg, South Africa.
+fullTimeEmployees§2469
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jacobus Albertus Johannes Loots C.A., C.F.A., CA (SA)', 'age': 45, 'title': 'CEO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 807136, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gideon P. Louw AMCT (UK), C.A., C.F.A., CA (SA), H Dip(Wits)', 'age': 60, 'title': 'Financial Director & Debt Officer and Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 642880, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. E. B. Thorne', 'title': 'Group Mining Engineer', 'fiscalYear': 2023, 'totalPay': 160327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bert  van den Berg', 'age': 38, 'title': 'Chief Operating Officer', 'yearBorn': 1985, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hethen  Hira', 'age': 53, 'title': 'Head of Investor Relations', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jane  Kirton', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0476
+exDividendDate§1701302400
+payoutRatio§0.32549998
+fiveYearAvgDividendYield§5.91
+beta§0.715
+priceToSalesTrailing12Months§1.0047175
+currency§GBp
+forwardEps§0.03
+pegRatio§11.62
+exchange§LSE
+quoteType§EQUITY
+shortName§PAN AFRICAN RESOURCES PLC ORD 1
+longName§Pan African Resources PLC
+firstTradeDateEpochUtc§958719600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§87ccb305-a22f-31b4-9db2-01abd124b436
+targetHighPrice§0.25
+targetLowPrice§0.2
+targetMeanPrice§0.24
+targetMedianPrice§0.25
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.651
+earningsGrowth§0.106
+grossMargins§0.31546
+ebitdaMargins§0.36858
+trailingPegRatio§None

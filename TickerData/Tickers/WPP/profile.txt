@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 09:34:25.859052
+address1§Sea Containers
+address2§18 Upper Ground
+city§London
+zip§SE1 9GL
+country§United Kingdom
+phone§44 20 7282 4600
+website§https://www.wpp.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§WPP plc, a creative transformation company, provides communications, experience, commerce, and technology services in North America, the United Kingdom, Western Continental Europe, the Asia Pacific, Latin America, Africa, the Middle East, and Central and Eastern Europe. The company operates through three segments: Global Integrated Agencies, Public Relations, and Specialist Agencies. It offers advertising, marketing, brand strategies, and campaigns across all media; and provides media planning and buying services. It also provides media investment; data and technology, and content services. The company also offers public relations and specialist agency services. WPP plc was founded in 1985 and is based in London, the United Kingdom.
+fullTimeEmployees§114000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Read', 'age': 56, 'title': 'CEO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 4602271, 'exercisedValue': 0, 'unexercisedValue': 20360304}, {'maxAge': 1, 'name': 'Ms. Joanne  Wilson', 'age': 48, 'title': 'CFO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Grant Balfour Scott', 'age': 54, 'title': 'COO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephan  Pretorius', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Higham', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Waldron', 'title': 'Group Investor Relations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea  Harris Esq.', 'title': 'Group Chief Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Wade', 'title': 'Director of Communications & Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laurent  Ezekiel', 'age': 49, 'title': 'Chief Marketing Officer & Chief Growth Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Remling', 'title': 'Global Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.52
+dividendYield§0.0514
+exDividendDate§1697068800
+payoutRatio§0.8069
+fiveYearAvgDividendYield§4.54
+beta§1.126
+priceToSalesTrailing12Months§0.7063321
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§WPP plc
+longName§WPP plc
+firstTradeDateEpochUtc§567786600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§520ba92e-b9e0-39b8-9587-d1164bf666b0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§39.0
+targetLowPrice§39.0
+targetMeanPrice§39.0
+targetMedianPrice§39.0
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.862
+earningsGrowth§-0.546
+grossMargins§0.17158002
+ebitdaMargins§0.092209995
+trailingPegRatio§12.1651

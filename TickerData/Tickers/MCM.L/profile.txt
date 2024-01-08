@@ -1,0 +1,34 @@
+# reload+after+2024-01-20 22:39:41.127872
+address1§7 The Esplanade
+address2§Suite 8 Mount Pleasant
+city§Perth
+state§WA
+zip§6000
+country§Australia
+phone§61 8 9316 9100
+fax§61 8 9315 5475
+website§https://www.mcmining.co.za
+industry§Thermal Coal
+sector§Energy
+longBusinessSummary§MC Mining Limited, together with its subsidiaries, engages in the acquisition, exploration, development, and operation of coking and thermal coal projects in South Africa. The company's principal projects include the Uitkomst Colliery, a metallurgical and thermal coal project located in the KwaZulu Natal province; the Makhado hard coking and thermal coal project situated in the Soutpansberg coalfield in the Limpopo province; the Vele Colliery, a semi-soft coking and thermal coal mine located to the west of Musina in the Limpopo province; and Greater Soutpansberg Projects, including Chapudi, Generaal, and Mopane projects located in Limpopo province. MC Mining Limited was incorporated in 1979 and is based in Mount Pleasant, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Godfrey Gregory Gomwe BAcc, C.A., CA(Z), CD(SA), MBL', 'age': 67, 'title': 'MD, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 196492, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen R. Rowse', 'title': 'General Manager of Finance & Administration', 'fiscalYear': 2023, 'totalPay': 211518, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Florence M. Duval', 'title': 'General Manager of Sustainability', 'fiscalYear': 2023, 'totalPay': 226009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony Gwynn Bevan', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.123
+priceToSalesTrailing12Months§0.73003787
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§MC MINING LIMITED ORD NPV
+longName§MC Mining Limited
+firstTradeDateEpochUtc§1134720000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§48cfa5c5-772b-323a-abef-3587fc385428
+recommendationKey§none
+quickRatio§0.47
+grossMargins§0.08014
+ebitdaMargins§-0.061739996
+trailingPegRatio§None

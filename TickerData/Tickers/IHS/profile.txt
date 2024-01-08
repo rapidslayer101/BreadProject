@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 18:30:27.023753
+address1§1 Cathedral Piazza
+address2§123 Victoria Street
+city§London
+zip§SW1E 5BP
+country§United Kingdom
+phone§44 20 8106 1600
+website§https://www.ihstowers.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§IHS Holding Limited, together with its subsidiaries, owns, operates, and develops shared communications infrastructure in Nigeria, Sub-Saharan Africa, Latin America, and the Middle East and North Africa. It offers colocation and lease agreement, build-to-suit, inbuilding, small cell, fiber connectivity, and rural telephony solutions. The company serves mobile network operators, internet service providers, security functions, and private corporations. IHS Holding Limited was founded in 2001 and is based in London, the United Kingdom.
+fullTimeEmployees§2786
+companyOfficers§[{'maxAge': 1, 'name': 'Engineer Sam  Darwish', 'age': 51, 'title': 'Chairman & Group CEO', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Engineer William S. Saad', 'age': 51, 'title': 'Co-Founder, Executive VP & Group COO', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Howden', 'age': 39, 'title': 'EVP & Group CFO', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mustafa  Tharoo', 'age': 49, 'title': 'Executive VP & Group General Counsel', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colby Alexander Synesael', 'age': 44, 'title': 'Executive Vice President of Communications', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ayotade  Oyinlola', 'age': 47, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mohamad  Darwish', 'age': 43, 'title': 'Executive Vice President', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Bates', 'age': 58, 'title': 'Executive VP & Chief Strategy Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sandile  Msimango', 'title': 'VP & CEO of IHS South Africa', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.314
+priceToSalesTrailing12Months§0.68289936
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.61
+exchange§NYQ
+quoteType§EQUITY
+shortName§IHS Holding Limited
+longName§IHS Holding Limited
+firstTradeDateEpochUtc§1634218200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fed8f997-661d-3156-9588-607682d71622
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§8.0
+targetMeanPrice§12.17
+targetMedianPrice§11.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.501
+grossMargins§0.47154
+ebitdaMargins§0.35561
+trailingPegRatio§None

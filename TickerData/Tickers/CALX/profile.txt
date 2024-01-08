@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 19:27:39.442888
+address1§2777 Orchard Parkway
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§408 514 3000
+website§https://www.calix.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Calix, Inc., together with its subsidiaries, provides cloud and software platforms, and systems and services in the United States, rest of Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company's cloud and software platforms, and systems and services enable broadband service providers (BSPs) to provide a range of services. It provides Calix Cloud platform, a role-based analytics platform comprising Calix Marketing Cloud, Calix Support Cloud, and Calix Operations Cloud, which are configurable to display role-based insights and enable BSPs to anticipate and target new revenue-generating services and applications through mobile application. The company also offers EXOS, an experience innovation platform component and fully integrated with its GigaSpire and GigaPro family of systems to be ready for deployment as a complete subscriber experience solutions for BSP's residential and business subscribers; and AXOS, a software platform to access edge of the network by its architecture and operations. It offers its products through its direct sales force and resellers. The company was incorporated in 1999 and is headquartered in San Jose, California.
+fullTimeEmployees§1426
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Weening', 'age': 54, 'title': 'CEO, President & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1827480, 'exercisedValue': 0, 'unexercisedValue': 58101592}, {'maxAge': 1, 'name': 'Mr. Cory J. Sindelar', 'age': 54, 'title': 'CFO & Chief Accounting Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 767673, 'exercisedValue': 208410, 'unexercisedValue': 41892336}, {'maxAge': 1, 'name': 'Mr. Shane Todd-Marshall Eleniak', 'age': 55, 'title': 'Chief Product Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 637443, 'exercisedValue': 1170601, 'unexercisedValue': 23125192}, {'maxAge': 1, 'name': 'Mr. John Matthew Collins', 'age': 51, 'title': 'Chief Commercial Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 633622, 'exercisedValue': 798801, 'unexercisedValue': 15101344}, {'maxAge': 1, 'name': 'Mr. Jim  Fanucchi', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas W. McNitt', 'age': 58, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Dressler', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Martha  Galley', 'title': 'Executive Vice President of Corporate Social Responsibility', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Parul  Kapoor', 'title': 'Senior Vice President of Talent & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerry  Cederlund', 'title': 'Senior Vice President of Supply Chain Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.637
+priceToSalesTrailing12Months§2.791407
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.65
+pegRatio§1.5
+exchange§NYQ
+quoteType§EQUITY
+shortName§Calix, Inc
+longName§Calix, Inc.
+firstTradeDateEpochUtc§1269437400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§76f0783e-8705-36de-a030-4bbe6afa196c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§42.0
+targetMeanPrice§56.0
+targetMedianPrice§57.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§2.414
+earningsGrowth§0.263
+grossMargins§0.51989
+ebitdaMargins§0.06513
+trailingPegRatio§None

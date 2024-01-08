@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 05:26:43.617777
+address1§9 West 57th Street
+address2§43rd Floor
+city§New York
+state§NY
+zip§10019
+country§United States
+phone§212 515 3200
+website§https://www.apolloreit.com
+industry§REIT - Mortgage
+industryKey§reit-mortgage
+industryDisp§REIT - Mortgage
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Apollo Commercial Real Estate Finance, Inc. operates as a real estate investment trust (REIT) that originates, acquires, invests in, and manages commercial first mortgage loans, subordinate financings, and other commercial real estate-related debt investments in the United States. It is qualified as a REIT under the Internal Revenue Code. As a REIT, it would not be subject to federal income taxes, if the company distributes at least 90% of its REIT taxable income to its stockholders. Apollo Commercial Real Estate Finance, Inc. was founded in 2009 and is based in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stuart A. Rothstein CPA', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anastasia  Mironova', 'age': 37, 'title': 'CFO, Secretary & Treasurer', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 1020352, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Weiner', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hilary M. Ginsberg', 'title': 'IR Contact', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.1216
+exDividendDate§1703721600
+payoutRatio§1.6867
+fiveYearAvgDividendYield§12.39
+beta§1.719
+priceToSalesTrailing12Months§6.0915093
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.28
+pegRatio§143.0
+lastDividendValue§0.35
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Apollo Commercial Real Estate F
+longName§Apollo Commercial Real Estate Finance, Inc.
+firstTradeDateEpochUtc§1253799000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eab15471-40d5-37d0-a20c-d6b9cc0ed629
+messageBoardId§finmb_61106447
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.5
+targetLowPrice§10.0
+targetMeanPrice§10.25
+targetMedianPrice§10.25
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§7.526
+earningsGrowth§-0.737
+grossMargins§0.74095
+ebitdaMargins§0.0
+trailingPegRatio§None

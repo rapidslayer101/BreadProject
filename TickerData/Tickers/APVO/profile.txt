@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 00:43:24.023661
+address1§2401 4th Avenue
+address2§Suite 1050
+city§Seattle
+state§WA
+zip§98121
+country§United States
+phone§206 838 0500
+fax§206 838 0503
+website§https://www.aptevotherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Aptevo Therapeutics Inc., a clinical-stage biotechnology company, focuses on developing immunotherapeutic candidates for the treatment of various forms of cancer in the United States. The company's lead clinical candidates are APVO436, a bispecific T-cell engaging antibody candidate that is in Phase 1b clinical trial for acute myelogenous leukemia and myelodysplastic syndromes; and. ALG.APV-527, an investigational bispecific ADAPTIR candidate that features a mechanism of action to target 4-1BB (CD137) and 5T4, a tumor antigen expressed in various types of cancers. Its preclinical candidates include APVO603, a dual agonist bispecific antibody to target 4-1BB and OX40; APVO711, a dual mechanism bispecific ADAPTIR candidate designed to provide synergistic stimulation of CD40 on antigen presenting cells; and APVO442, a bispecific candidate based on the ADAPTIR-FLEX platform technology to enhance biodistribution of drugs to PSMA positive tumors for treatment of prostate cancer. The company has a collaboration and option agreement with Alligator Bioscience AB to develop ALG.APV-527. Aptevo Therapeutics Inc. was incorporated in 2016 and is headquartered in Seattle, Washington.
+fullTimeEmployees§45
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marvin L. White', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 892861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey G. Lamothe CA', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 691369, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. SoYoung  Kwon J.D., LL.M.', 'title': 'Senior VP, General Counsel, Business Development & Corporate Affairs', 'fiscalYear': 2022, 'totalPay': 588033, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Daphne L. Taylor', 'age': 57, 'title': 'Senior VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jane A. Gross Ph.D.', 'age': 66, 'title': 'Chief Scientific Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 515169, 'exercisedValue': 0, 'unexercisedValue': 2888}, {'maxAge': 1, 'name': 'Dr. Dirk  Huebner M.D.', 'age': 60, 'title': 'Chief Medical Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§4.906
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.33
+exchange§NCM
+quoteType§EQUITY
+shortName§Aptevo Therapeutics Inc.
+longName§Aptevo Therapeutics Inc.
+firstTradeDateEpochUtc§1469021400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§470316e1-b879-3a10-830d-ae029cd54a71
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§4.75
+targetMeanPrice§7.38
+targetMedianPrice§7.38
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§2.795
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

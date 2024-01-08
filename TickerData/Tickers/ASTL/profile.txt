@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 21:43:28.856533
+address1§105 West Street
+city§Sault Ste. Marie
+state§ON
+zip§P6A 7B4
+country§Canada
+phone§705-945-2351
+fax§705-945-2203
+website§https://algoma.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Algoma Steel Group Inc. produces and sells steel products primarily in North America. The company provides flat/sheet steel products, including temper rolling, cold rolled, hot-rolled pickled and oiled products, floor plate, and cut-to-length products for the automotive industry, hollow structural product manufacturers, and the light manufacturing and transportation industries; and plate steel products that consist of rolled, hot-rolled, and heat-treated for use in the construction or manufacture of railcars, buildings, bridges, off-highway equipment, storage tanks, ships, and military applications. Algoma Steel Group Inc. was founded in 1901 and is headquartered in Sault Ste. Marie, Canada.
+fullTimeEmployees§2847
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Dennis Garcia', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1051288, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajat  Marwah', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 553130, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Ralph Naccarato', 'age': 56, 'title': 'VP of Strategy & Chief Legal Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 543202, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Moraca', 'title': 'Treasurer & Investor Relations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brenda  Stenta', 'title': 'Manager of Communications & Branding', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rory  Brandow', 'age': 63, 'title': 'Vice President of Sales', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle  Baker', 'title': 'Chief Human Resource Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Panzeri', 'title': 'Senior Vice President of Production', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§3
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.020599999
+exDividendDate§1701216000
+payoutRatio§0.3174
+beta§1.588
+priceToSalesTrailing12Months§0.358397
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.54
+exchange§NGM
+quoteType§EQUITY
+shortName§Algoma Steel Group Inc.
+longName§Algoma Steel Group Inc.
+firstTradeDateEpochUtc§1614868200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a4b1f6f6-d641-30e6-9670-05685e7d4dfe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§13.25
+targetMeanPrice§15.56
+targetMedianPrice§15.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.193
+earningsGrowth§-0.339
+grossMargins§0.09875
+ebitdaMargins§0.08364
+trailingPegRatio§None

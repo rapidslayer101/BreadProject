@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 20:44:02.616772
+address1§333 Twin Dolphin Drive
+address2§Suite 600
+city§Redwood City
+state§CA
+zip§94065
+country§United States
+phone§650 649 3530
+website§https://www.coherus.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Coherus BioSciences, Inc., a biopharmaceutical company, focuses on the biosimilar and immuno-oncology market primarily in the United States. The company provides UDENYCA, a biosimilar to Neulasta, a long-acting granulocyte-colony stimulating factor; and CIMERLI, a biosimilar to Lucentis, a biosimilar product interchangeable with Lucentis for the treatment of neovascular age-related macular degeneration, macular edema following retinal vein occlusion, diabetic macular edema, diabetic retinopathy, and myopic choroidal neovascularization in the United States. It also offers YUSIMRY, a biosimilar to Humira for the treatment of patients with inflammatory diseases characterized by increased production of tumor necrosis factor (TNF) in the body, including rheumatoid arthritis, juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn's disease, psoriasis, and ulcerative colitis. Coherus BioSciences, Inc. has license agreements with Selexis SA; AbbVie, Inc.; Pfizer, Inc.; Bioeq AG; and Shanghai Junshi Biosciences Co., Ltd. The company was formerly known as BioGenerics, Inc. and changed its name to Coherus BioSciences, Inc. in April 2012. Coherus BioSciences, Inc. was incorporated in 2010 and is headquartered in Redwood City, California.
+fullTimeEmployees§299
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dennis M. Lanfear', 'age': 68, 'title': 'Chairman, President & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 1794488, 'exercisedValue': 0, 'unexercisedValue': 7570716}, {'maxAge': 1, 'name': 'Mr. Bryan J. McMichael', 'age': 45, 'title': 'Interim CFO, Principal Financial and Accounting Officer, SVP-Accounting & Corporate Controller', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard L. Hameister', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jami  Taylor', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheston  Turbyfill', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Sunshine', 'age': 60, 'title': 'Chief Human Resources Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Chen', 'title': 'Senior Vice President of Commercial Analytics & Trade', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Reider', 'age': 54, 'title': 'Chief Commercial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Theresa M. Lavallee Ph.D.', 'age': 57, 'title': 'Chief Development Officer & Chairman of Scientific Advisory Board', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rosh  Dias M.D., MRCP', 'age': 54, 'title': 'Chief Medical Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.72
+priceToSalesTrailing12Months§1.5142447
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.12
+pegRatio§0.06
+exchange§NGM
+quoteType§EQUITY
+shortName§Coherus BioSciences, Inc.
+longName§Coherus BioSciences, Inc.
+firstTradeDateEpochUtc§1415284200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c75daf8f-3c65-3d43-b809-ee892c342721
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§7.0
+targetMeanPrice§12.33
+targetMedianPrice§12.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.45
+grossMargins§0.15828
+ebitdaMargins§-0.71307
+trailingPegRatio§None

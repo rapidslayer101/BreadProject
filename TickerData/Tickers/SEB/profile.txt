@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 18:33:05.588386
+address1§9000 West 67th Street
+city§Merriam
+state§KS
+zip§66202
+country§United States
+phone§913 676 8928
+website§https://www.seaboardcorp.com
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§Seaboard Corporation operates as an agricultural and transportation company worldwide. It operates through six segments: Pork, Commodity Trading and Milling (CT&M), Marine, Sugar and Alcohol, Power, and Turkey. The Pork segment produces and sells pork products to further processors, foodservice operators, grocery stores, and distributors; hogs; and biodiesel. The CT&M segment sources, transports, and markets wheat, corn, soybeans, soybean meal, and other commodities; and produces wheat flour, maize meal, manufactured feed, and oilseed crush commodities. The Marine segment provides cargo shipping services in the United States, as well as in 26 countries in the Caribbean, and Central and South America; dry, refrigerated, and specialized containers, as well as other related equipment; and operates a terminal and an off-port warehouse for cargo consolidation and temporary storage. As of December 31, 2022, this segment operated through a fleet of 17 chartered and 6 owned vessels. The Sugar and Alcohol segment produces and sells sugar and alcohol; and generates and sells energy through its 51-megawatt cogeneration power plant that is fueled by sugarcane by-products, natural gas, and other biomass. The Power segment operates as an independent power producer that generates electricity for the power grid in the Dominican Republic. The Turkey segment produces and processes conventional and antibiotic-free turkey products to retail stores, foodservice outlets, and industrial entities, as well as exports products to Mexico and internationally. The company also processes and sells jalapeño peppers. Seaboard Corporation was founded in 1918 and is headquartered in Merriam, Kansas.
+fullTimeEmployees§13000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert L. Steer', 'age': 63, 'title': 'President & CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 4329616, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David H. Rankin', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1206461, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward A. Gonzalez', 'age': 57, 'title': 'President of Seaboard Marine Ltd.', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2726519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter Brooks Brown', 'age': 60, 'title': 'CEO & President of Seaboard Foods LLC', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1579693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara M. Smith', 'age': 42, 'title': 'VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David M. Becker', 'age': 61, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ty A. Tywater', 'age': 53, 'title': 'Senior Vice President of Audit Services', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Oscar E. Rojo', 'title': 'Chief Executive Officer of Sugar & Alcohol', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adriana N. Hoskins', 'age': 53, 'title': 'VP & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Armando G. Rodriguez', 'title': 'Chief Executive Officer of Power', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§9.0
+dividendYield§0.0025
+exDividendDate§1699401600
+payoutRatio§0.0271
+fiveYearAvgDividendYield§0.24
+beta§0.465
+priceToSalesTrailing12Months§0.3548949
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§Seaboard Corporation
+longName§Seaboard Corporation
+firstTradeDateEpochUtc§99239400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§91ca03cf-546e-34a2-b831-15e41f46be6c
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.683
+earningsGrowth§-0.137
+grossMargins§0.056399997
+ebitdaMargins§0.04504
+trailingPegRatio§None

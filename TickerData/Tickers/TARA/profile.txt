@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 07:47:29.285554
+address1§345 Park Avenue South
+address2§3rd Floor
+city§New York
+state§NY
+zip§10010
+country§United States
+phone§646 844 0337
+website§https://www.protaratx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Protara Therapeutics, Inc., a clinical-stage biopharmaceutical company, engages in advancing transformative therapies for the treatment of cancer and rare diseases. The company's lead program is TARA-002, an investigational cell therapy for the treatment of lymphatic malformations. It also develops intravenous choline chloride, an investigational phospholipid substrate replacement therapy for the treatment of intestinal failure associated liver disease. The company was formerly known as ArTara Therapeutics, Inc. and changed its name to Protara Therapeutics, Inc. in May 2020. The company is headquartered in New York, New York.
+fullTimeEmployees§25
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jesse  Shefferman', 'age': 51, 'title': 'Co-Founder, CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1111659, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jacqueline  Zummo M.B.A., M.P.H., Ph.D.', 'age': 42, 'title': 'Co-Founder, Senior VP & Chief Scientific Operations Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 743676, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jathin  Bandari M.D.', 'age': 36, 'title': 'Chief Medical Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 687861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Fabbio M.B.A.', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hannah  Fry', 'age': 32, 'title': 'VP, Principal Accounting Officer & Controller', 'yearBorn': 1991, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Justine  O'Malley", 'title': 'Senior Vice President of Investor Relations & Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary J. Grendell', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.683
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.84
+exchange§NGM
+quoteType§EQUITY
+shortName§Protara Therapeutics, Inc.
+longName§Protara Therapeutics, Inc.
+firstTradeDateEpochUtc§1413984600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cc0229f5-ebf3-39e0-a4ea-c25aad00f5c1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§22.0
+targetMeanPrice§30.6
+targetMedianPrice§26.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§10.969
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

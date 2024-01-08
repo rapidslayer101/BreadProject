@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 12:43:29.756878
+address1§3 Garret Mountain Plaza
+address2§Suite 401
+city§Woodland Park
+state§NJ
+zip§07424
+country§United States
+phone§973 771 0300
+website§https://www.anterix.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Anterix Inc. operates as a wireless communications company. The company focuses on commercializing its spectrum assets to enable the targeted utility and critical infrastructure customers to deploy private broadband networks and innovative broadband solutions. It holds licensed spectrum in the 900 MHz band with coverage throughout the United States, Alaska, Hawaii, and Puerto Rico. The company was formerly known as pdvWireless, Inc. and changed its name to Anterix Inc. in August 2019. Anterix Inc. was incorporated in 1997 and is headquartered in Woodland Park, New Jersey.
+fullTimeEmployees§82
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Morgan E. O'Brien", 'age': 78, 'title': 'Executive Chairman', 'yearBorn': 1945, 'fiscalYear': 2023, 'totalPay': 433154, 'exercisedValue': 736350, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert H. Schwartz', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 731073, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Guttman-McCabe', 'age': 55, 'title': 'Chief Regulatory & Communications Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 575018, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy A. Gray', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 419954, 'exercisedValue': 0, 'unexercisedValue': 1895000}, {'maxAge': 1, 'name': 'Mr. Ryan  Gerbrandt', 'age': 45, 'title': 'Chief Operating Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 455390, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Carlos Eduardo L'Abbate", 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Natasha  Vecchiarelli', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gena L. Ashe', 'age': 61, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rafael  Sulit', 'title': 'Vice President of Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Creegan', 'title': 'Vice President of Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.63
+priceToSalesTrailing12Months§212.75842
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.44
+exchange§NCM
+quoteType§EQUITY
+shortName§Anterix Inc.
+longName§Anterix Inc.
+firstTradeDateEpochUtc§1422973800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0312ade0-c35a-3643-966a-d14f78e33729
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§100.0
+targetLowPrice§43.0
+targetMeanPrice§72.67
+targetMedianPrice§75.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.2
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 23:47:00.598606
+address1§6 Liberty Square
+address2§Suite 2382
+city§Boston
+state§MA
+zip§02109
+country§United States
+phone§857 837 3099
+website§https://www.transcodetherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§TransCode Therapeutics, Inc., a ribonucleic acid (RNA) oncology company, focuses on the development and commercialization of drugs and diagnostics for treating and identifying various cancers. Its lead therapeutic candidate is TTX-MC138 that targets microRNA-10b, a master regulator of metastatic cell viability in a range of cancers, including breast, pancreatic, ovarian, colon cancer, glioblastomas, and others. The company is also developing TTX-siPDL1, an siRNA-based modulator of programmed death-ligand 1; and TTX-siLIN28B, an siRNA-based inhibitor of RNA-binding protein LIN28B. In addition, the company developing TTX-RIGA, an RNA- based agonist of the retinoic acid-inducible gene I targeting activation of innate immunity in the tumor microenvironment; TTX-CRISPR, a CRISPR/Cas9-based therapy platform for the repair or elimination of cancer-causing genes inside tumor cells; and TTX-mRNA, an mRNA-based platform for the development of cancer vaccines that activate cytotoxic immune responses against tumor cells. TransCode Therapeutics, Inc. was incorporated in 2016 and is based in Boston, Massachusetts.
+fullTimeEmployees§19
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Michael Dudley', 'age': 72, 'title': 'Co-Founder, CEO, President & Director', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 494000, 'exercisedValue': 0, 'unexercisedValue': 477391}, {'maxAge': 1, 'name': 'Mr. Thomas A. Fitzgerald M.B.A.', 'age': 71, 'title': 'CFO, VP of Administration & Director', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 371000, 'exercisedValue': 0, 'unexercisedValue': 143875}, {'maxAge': 1, 'name': 'Dr. Zdravka  Medarova Ph.D.', 'age': 48, 'title': 'Co-Founder & CTO', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Anna  Moore Ph.D.', 'age': 61, 'title': 'Co-Founder, Scientific Advisor & Member of Scientific Advisory Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Duggan M.B.A., R.N.', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Qiyong Peter Liu Ph.D.', 'age': 59, 'title': 'VP of Drug Discovery & Chief Scientist', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Freidman', 'title': 'Vice President of Investor & Client Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.392
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.63
+exchange§NCM
+quoteType§EQUITY
+shortName§TransCode Therapeutics, Inc.
+longName§TransCode Therapeutics, Inc.
+firstTradeDateEpochUtc§1625751000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§09a0c637-96b3-3583-b5c0-c18005c44a45
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.331
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

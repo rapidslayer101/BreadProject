@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 14:46:32.062342
+address1§107 West Franklin Street
+address2§PO Box 638
+city§Elkhart
+state§IN
+zip§46515
+country§United States
+phone§574 294 7511
+website§https://www.patrickind.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Patrick Industries, Inc. manufactures and distributes components, building products, and materials for the recreational vehicle, marine, manufactured housing, and industrial markets in the United States, Mexico, China, and Canada. Its Manufacturing segment manufactures and sells laminated products for furniture, shelving, wall, countertop, and cabinet products; cabinet doors, fiberglass bath fixtures, and tile systems; hardwood furniture, vinyl printing, amplifiers, tower speakers, soundbars, and subwoofers; solid surface, granite, and quartz countertop fabrication; aluminum products; fiberglass and plastic components; RV paintings; decorative vinyl and paper laminated panels; softwoods lumber; custom cabinets; polymer-based flooring products; dash panels; and other products. This segment also provides wrapped vinyl, paper, and hardwood profile mouldings; interior passage doors; air handling products; slide-out trim and fascia; treated, untreated, and laminated plywood; fiberglass and plastic helm systems and components; boat towers, tops, trailers, and frames; adhesives and sealants; thermoformed shower surrounds; specialty bath, and closet building products; wiring and wire harnesses; aluminum and plastic fuel tanks; CNC molds, composite parts, marine hardware; slotwall panels, components; and other products. The company's Distribution segment distributes pre-finished wall and ceiling panels, drywall and finishing products, electronic and audio system components, appliances, marine accessories, wiring products, electrical and plumbing products, fiber reinforced polyester products; cement siding products, raw and processed lumber, interior passage, roofing, laminate, and ceramic flooring products, shower doors, furniture, fireplaces and surrounds, interior and exterior lighting products, and other products. This segment also offers transportation and logistics services. The company was founded in 1959 and is based in Elkhart, Indiana.
+fullTimeEmployees§10000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andy L. Nemeth', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 4235912, 'exercisedValue': 0, 'unexercisedValue': 809340}, {'maxAge': 1, 'name': 'Mr. Jeffrey M. Rodino', 'age': 53, 'title': 'President', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2486242, 'exercisedValue': 0, 'unexercisedValue': 1018025}, {'maxAge': 1, 'name': 'Mr. Kip B. Ellis', 'age': 49, 'title': 'Executive VP of Operations & COO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2251236, 'exercisedValue': 0, 'unexercisedValue': 404670}, {'maxAge': 1, 'name': 'Mr. Matthew  Filer', 'age': 50, 'title': 'Interim Executive VP of Finance, CFO & Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Steve  O'Hara", 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Attorney Joel D. Duthie', 'age': 48, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey  Amundson', 'age': 56, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doyle K. Stump', 'title': 'Executive Vice President of Product Development & Innovation', 'fiscalYear': 2022, 'totalPay': 226550, 'exercisedValue': 0, 'unexercisedValue': 14788}, {'maxAge': 1, 'name': 'Mr. Todd G. Gongwer', 'title': 'Executive Vice President of Leadership & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.2
+dividendYield§0.0231
+exDividendDate§1700784000
+payoutRatio§0.2647
+fiveYearAvgDividendYield§1.91
+beta§1.786
+priceToSalesTrailing12Months§0.5792139
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.03
+pegRatio§2.67
+exchange§NMS
+quoteType§EQUITY
+shortName§Patrick Industries, Inc.
+longName§Patrick Industries, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eef4efb0-d2e3-30ff-8bf5-0afc13ef29b7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§80.0
+targetMeanPrice§93.88
+targetMedianPrice§95.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.766
+earningsGrowth§-0.255
+grossMargins§0.22106001
+ebitdaMargins§0.11377
+trailingPegRatio§None

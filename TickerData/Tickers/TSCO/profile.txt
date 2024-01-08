@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 10:47:39.118511
+address1§5401 Virginia Way
+city§Brentwood
+state§TN
+zip§37027
+country§United States
+phone§615 440 4000
+website§https://www.tractorsupply.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Tractor Supply Company operates as a rural lifestyle retailer in the United States. The company offers a selection of merchandise, including equine, livestock, pet, and small animal products necessary for their health, care, growth, and containment; hardware, truck, towing, and tool products; seasonal products, such as heating products, lawn and garden items, power equipment, gifts, and toys; work/recreational clothing and footwear; and maintenance products for agricultural and rural use. It provides its products under the 4health, Producer's Pride, American Farmworks, Red Shed, Bit & Bridle, Redstone, Blue Mountain, Retriever, C.E. Schmidt, Ridgecut, Countyline, Royal Wing, Dumor, Strive, Groundwork, Traveller, Huskee, Treeline, JobSmart, TSC Tractor Supply Co, Paws & Claws, and Untamed brands. The company operates its retail stores under the Tractor Supply Company, Orscheln Farm and Home, and Petsense names; and operates websites under the TractorSupply.com and Petsense.com names. It sells its products to recreational farmers, ranchers, and others. The company was founded in 1938 and is based in Brentwood, Tennessee.
+fullTimeEmployees§50000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Harry A. Lawton III', 'age': 49, 'title': 'President, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 3483584, 'exercisedValue': 0, 'unexercisedValue': 5803677}, {'maxAge': 1, 'name': 'Mr. Kurt D. Barton', 'age': 51, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1289723, 'exercisedValue': 0, 'unexercisedValue': 15218074}, {'maxAge': 1, 'name': 'Mr. Robert D. Mills', 'age': 50, 'title': 'Executive VP and Chief Technology, Digital Commerce & Strategy Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1212491, 'exercisedValue': 407914, 'unexercisedValue': 5601821}, {'maxAge': 1, 'name': 'Mr. John P. Ordus', 'age': 47, 'title': 'Executive VP & Chief Stores Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1190883, 'exercisedValue': 0, 'unexercisedValue': 2908695}, {'maxAge': 1, 'name': 'Mr. Jonathan Seth Estep', 'age': 43, 'title': 'Executive VP & Chief Merchandising Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1194218, 'exercisedValue': 0, 'unexercisedValue': 6642596}, {'maxAge': 1, 'name': 'Ms. Mary Winn Pilkington', 'title': 'Senior Vice President of Investor Relations & Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noni L. Ellison', 'age': 51, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberley S. Gardiner', 'age': 54, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa D. Kersey', 'age': 48, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1758208, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colin W. Yankee', 'age': 45, 'title': 'Executive VP & Chief Supply Chain Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.12
+dividendYield§0.0188
+exDividendDate§1700784000
+payoutRatio§0.39119998
+fiveYearAvgDividendYield§1.35
+beta§0.811
+priceToSalesTrailing12Months§1.5881627
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.39
+pegRatio§3.71
+exchange§NMS
+quoteType§EQUITY
+shortName§Tractor Supply Company
+longName§Tractor Supply Company
+firstTradeDateEpochUtc§761495400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5a3b225a-5bf8-3f65-b781-3a36388095e9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§265.0
+targetLowPrice§171.0
+targetMeanPrice§217.14
+targetMedianPrice§218.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§29
+quickRatio§0.182
+earningsGrowth§0.11
+grossMargins§0.35557
+ebitdaMargins§0.12672
+trailingPegRatio§2.2543

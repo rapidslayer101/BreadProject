@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 12:32:05.114941
+address1§5 Greenway Plaza
+address2§Suite 110
+city§Houston
+state§TX
+zip§77046-0521
+country§United States
+phone§713 215 7000
+website§https://www.oxy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Occidental Petroleum Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of oil and gas properties in the United States, the Middle East, North Africa, and Latin America. It operates through three segments: Oil and Gas, Chemical, and Midstream and Marketing. The company's Oil and Gas segment explores for, develops, and produces oil and condensate, natural gas liquids (NGLs), and natural gas. Its Chemical segment manufactures and markets basic chemicals, including chlorine, caustic soda, chlorinated organics, potassium chemicals, ethylene dichloride, chlorinated isocyanurates, sodium silicates, and calcium chloride; and vinyls comprising vinyl chloride monomer, polyvinyl chloride, and ethylene. The Midstream and Marketing segment gathers, processes, transports, stores, purchases, and markets oil, condensate, NGLs, natural gas, carbon dioxide, and power. This segment also trades around its assets consisting of transportation and storage capacity; and invests in entities. Occidental Petroleum Corporation was founded in 1920 and is headquartered in Houston, Texas.
+fullTimeEmployees§11973
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Vicki A. Hollub', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 5122593, 'exercisedValue': 0, 'unexercisedValue': 14915417}, {'maxAge': 1, 'name': 'Mr. Robert L. Peterson', 'age': 52, 'title': 'Executive Vice President of Essential Chemistry', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2163525, 'exercisedValue': 0, 'unexercisedValue': 689734}, {'maxAge': 1, 'name': 'Mr. Richard A. Jackson', 'age': 47, 'title': 'Senior VP and President of Operations - U.S. Onshore Resources & Carbon Management', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2143597, 'exercisedValue': 0, 'unexercisedValue': 689734}, {'maxAge': 1, 'name': 'Mr. Kenneth  Dillon', 'age': 63, 'title': 'Senior VP and President of International Oil & Gas Operations', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2403211, 'exercisedValue': 0, 'unexercisedValue': 4408523}, {'maxAge': 1, 'name': 'Mr. Peter J. Bennett', 'age': 55, 'title': 'VP and President of Commercial Development -  U.S. Onshore Resources & Carbon Management', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1851435, 'exercisedValue': 0, 'unexercisedValue': 431084}, {'maxAge': 1, 'name': 'Mr. Sunil  Mathew', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher O. Champion', 'age': 53, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1565275, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ioannis A. Charalambous', 'title': 'Chief Information Officer & VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil S. Backhouse', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole E. Clark', 'age': 53, 'title': 'VP, Deputy General Counsel, Corporate Secretary & Chief Compliance Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.012200001
+exDividendDate§1701907200
+payoutRatio§0.146
+fiveYearAvgDividendYield§4.74
+beta§1.64
+priceToSalesTrailing12Months§1.7651045
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.54
+pegRatio§-0.93
+exchange§NYQ
+quoteType§EQUITY
+shortName§Occidental Petroleum Corporatio
+longName§Occidental Petroleum Corporation
+firstTradeDateEpochUtc§378657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ce2f5758-857c-3429-9f74-1acb7cf874b3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§85.0
+targetLowPrice§59.0
+targetMeanPrice§68.76
+targetMedianPrice§67.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§0.479
+earningsGrowth§-0.524
+grossMargins§0.61841
+ebitdaMargins§0.48290002
+trailingPegRatio§None

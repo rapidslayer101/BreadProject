@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 22:29:06.858596
+address1§1290 Avenue Of The Americas
+city§New York
+state§NY
+zip§10104
+country§United States
+phone§212 554 1234
+website§https://www.equitableholdings.com
+industry§Insurance—Diversified
+sector§Financial Services
+longBusinessSummary§Equitable Holdings, Inc., together with its consolidated subsidiaries, operates as a diversified financial services company worldwide. The company operates through four segments: Individual Retirement, Group Retirement, Investment Management and Research, and Protection Solutions. The Individual Retirement segment offers a suite of variable annuity products primarily to affluent and high net worth individuals. The Group Retirement segment provides tax-deferred investment and retirement services or products to plans sponsored by educational entities, municipalities, and not-for-profit entities, as well as small and medium-sized businesses. The Investment Management and Research segment offers diversified investment management, research, and related solutions to various clients through institutional. The Protection Solutions segment provides life insurance products such as VUL insurance and IUL insurance and our employee benefits business on small and medium-sized businesses. The company was formerly known as AXA Equitable Holdings, Inc. and changed its name to Equitable Holdings, Inc. in January 2020. Equitable Holdings, Inc. was founded in 1859 and is based in New York, New York.
+fullTimeEmployees§12300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Pearson', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 4721637, 'exercisedValue': 2701250, 'unexercisedValue': 4956468}, {'maxAge': 1, 'name': 'Mr. Robin Matthew Raju', 'age': 41, 'title': 'Senior EVP & CFO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 2065032, 'exercisedValue': 0, 'unexercisedValue': 134278}, {'maxAge': 1, 'name': 'Mr. Jeffrey Joy Hurd J.D.', 'age': 56, 'title': 'Senior EVP & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2618897, 'exercisedValue': 369588, 'unexercisedValue': 1225411}, {'maxAge': 1, 'name': 'Mr. Nicholas Burritt Lane', 'age': 49, 'title': 'President of Equitable, Senior EVP & Head of Retirement, Wealth Management & Protection Solutions', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2419358, 'exercisedValue': 1463369, 'unexercisedValue': 1011109}, {'maxAge': 1, 'name': 'Mr. Seth Perry Bernstein', 'age': 62, 'title': 'President & CEO of AllianceBernstein Corporation', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 5702777, 'exercisedValue': 0, 'unexercisedValue': 862375}, {'maxAge': 1, 'name': 'Mr. William James Eckert IV', 'age': 60, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik James Bass C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose Ramon Gonzalez Esq.', 'age': 55, 'title': 'Senior EVP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Constance K. Weaver', 'age': 71, 'title': 'Chief Marketing Officer', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie  Withers', 'title': 'Chief Auditor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.88
+dividendYield§0.026600001
+exDividendDate§1700784000
+payoutRatio§0.18100001
+fiveYearAvgDividendYield§2.58
+beta§1.416
+priceToSalesTrailing12Months§0.9394521
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.03
+pegRatio§0.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§Equitable Holdings, Inc.
+longName§Equitable Holdings, Inc.
+firstTradeDateEpochUtc§1525959000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bafa74b0-ee9d-34b2-8ab6-2ec4f1dcb0f7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§31.0
+targetMeanPrice§36.9
+targetMedianPrice§37.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§2.17
+earningsGrowth§0.961
+grossMargins§0.31458
+ebitdaMargins§0.23388
+trailingPegRatio§None

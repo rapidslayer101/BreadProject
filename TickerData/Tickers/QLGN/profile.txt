@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 02:46:50.594800
+address1§2042 Corte Del Nogal
+city§Carlsbad
+state§CA
+zip§92011
+country§United States
+phone§760 918 9165
+website§https://www.qualigeninc.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Qualigen Therapeutics, Inc., a biotechnology company, focuses on the development and commercialization of novel therapeutic products for the treatment of cancer and infectious diseases. It offers FastPack, a patent-protected rapid, onsite immunoassay testing system. The company is developing QN-302 for the treatment of pancreatic ductal adenocarcinoma; QN-247, an oligonucleotide-based drug candidate to treat various nucleolin-expressing cancers, including liquid and solid tumors; QN-165, a drug candidate for the potential broad-spectrum treatment of infectious diseases, such as COVID-19; RAS-F, a small-molecule RAS oncogene protein-protein inhibitor that blocks RAS mutations and inhibits tumor formation; and selective target antigen removal system, a therapeutic device to remove circulating tumor cells, viruses, inflammation factors, and immune checkpoints. Qualigen Therapeutics, Inc. was founded in 1996 and is based in Carlsbad, California.
+fullTimeEmployees§31
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael S. Poirier', 'age': 67, 'title': 'President, COO, CEO & Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 583180, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tariq  Arshad M.B.A., M.D.', 'age': 53, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 400138, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher L. Lotz', 'age': 57, 'title': 'VP of Finance, CFO & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 578555, 'exercisedValue': 0, 'unexercisedValue': 60608}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.079
+priceToSalesTrailing12Months§0.55100435
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.0
+exchange§NCM
+quoteType§EQUITY
+shortName§Qualigen Therapeutics, Inc.
+longName§Qualigen Therapeutics, Inc.
+firstTradeDateEpochUtc§1435066200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a1b07075-9ae7-3e85-a808-a7a339883cd9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.388
+grossMargins§0.056900002
+ebitdaMargins§0.0
+trailingPegRatio§None

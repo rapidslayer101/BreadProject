@@ -1,0 +1,40 @@
+# reload+after+2024-01-19 22:40:43.070639
+address1§1100 Bellevue Way NE
+address2§STE 8A #317
+city§Bellevue
+state§WA
+zip§98004
+country§United States
+website§https://www.tinybuild.com
+industry§Electronic Gaming & Multimedia
+sector§Communication Services
+longBusinessSummary§tinyBuild, Inc. engages in the development and publishing of video games worldwide. It offers various games for PC, PlayStation, Xbox, SteamVR, Meta Quest, Nintendo Switch, Android, iOS, mobile, Xbox One, PS4, Mac, Linux, Switch, 3DS, VR, HTC Vive, Oculus Rift, OSVR, and Wii U. The company also organizes gaming events. tinyBuild, Inc. was founded in 2011 and is based in Bellevue, Washington.
+fullTimeEmployees§400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alex  Nichiporchik', 'title': 'Co-Founder, CEO & Executive Director', 'fiscalYear': 2022, 'totalPay': 384675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giasone Ulisse Salati', 'title': 'CFO, Head of IR, M&A and Executive Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Schauble', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.443
+priceToSalesTrailing12Months§0.21093793
+currency§GBp
+forwardEps§0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§TINYBUILD INC. COM SHS USD0.001
+longName§tinyBuild, Inc.
+firstTradeDateEpochUtc§1615276800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c8188f94-ac3b-3ed3-866c-a462cf2e01f2
+targetHighPrice§0.25
+targetLowPrice§0.08
+targetMeanPrice§0.17
+targetMedianPrice§0.17
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§2.08
+grossMargins§0.24362
+ebitdaMargins§-0.37367
+trailingPegRatio§None

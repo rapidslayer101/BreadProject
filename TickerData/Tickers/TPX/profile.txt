@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 19:33:47.811784
+address1§1000 Tempur Way
+city§Lexington
+state§KY
+zip§40511
+country§United States
+phone§800 878 8889
+website§https://www.tempursealy.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Tempur Sealy International, Inc., together with its subsidiaries, designs, manufactures, markets, and distributes bedding products in the United States and internationally. It provides mattresses, foundations and adjustable foundations, and adjustable bases, as well as other products comprising pillows, mattress covers, sheets, cushions, and various other accessories and comfort products under the Tempur-Pedic, Sealy, Stearns & Foster, and Cocoon by Sealy brand names. The company sells its products through approximately 700 company-owned stores, e-commerce, and call centers; and third party retailers, including third party distribution, hospitality, and healthcare. It also operates a portfolio of retail brands, including Tempur-Pedic retail stores, Sleep Outfitters, Sleep Solutions Outlet, Dreams, and SOVA, as well as licenses Sealy, Tempur, and Stearns & Foster brands; technology; and trademarks to other manufacturers. Tempur Sealy International, Inc. was founded in 1846 and is based in Lexington, Kentucky.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott L. Thompson', 'age': 64, 'title': 'Chairman of the Board, CEO & President', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2417705, 'exercisedValue': 0, 'unexercisedValue': 52730848}, {'maxAge': 1, 'name': 'Mr. Bhaskar  Rao', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 728062, 'exercisedValue': 0, 'unexercisedValue': 340367}, {'maxAge': 1, 'name': 'Mr. Scott J. Vollet', 'age': 59, 'title': 'Executive Vice President of Global Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 732986, 'exercisedValue': 0, 'unexercisedValue': 352161}, {'maxAge': 1, 'name': 'Mr. Steven H. Rusing', 'age': 58, 'title': 'Executive VP & President of U.S. Sales', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 656197, 'exercisedValue': 0, 'unexercisedValue': 195587}, {'maxAge': 1, 'name': 'Mr. H. Clifford Buster III', 'age': 53, 'title': 'Chief Executive Officer of Tempur Sealy North America', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 828790, 'exercisedValue': 0, 'unexercisedValue': 659843}, {'maxAge': 1, 'name': 'Aubrey  Moore', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mohammad  Vakil', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Montgomery', 'age': 62, 'title': 'Executive Vice President of Global Business Strategy & Development', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1152915, 'exercisedValue': 3542488, 'unexercisedValue': 1539585}, {'maxAge': 1, 'name': 'Mr. Thomas A. Murray', 'age': 54, 'title': 'Executive VP & Chief Marketing Officer - U.S.', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hansbart  Wijnand', 'age': 53, 'title': 'Executive Vice President of International', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.44
+dividendYield§0.009
+exDividendDate§1700006400
+payoutRatio§0.19370002
+beta§1.623
+priceToSalesTrailing12Months§1.696144
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.76
+pegRatio§2.04
+exchange§NYQ
+quoteType§EQUITY
+shortName§Tempur Sealy International, Inc
+longName§Tempur Sealy International, Inc.
+firstTradeDateEpochUtc§1071757800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§70f9149a-91a3-3431-b541-740b31c74b9f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§57.5
+targetLowPrice§40.0
+targetMeanPrice§48.69
+targetMedianPrice§50.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.583
+earningsGrowth§-0.141
+grossMargins§0.42818
+ebitdaMargins§0.15313
+trailingPegRatio§None

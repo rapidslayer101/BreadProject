@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 22:46:14.561490
+address1§The Circle 6
+city§Zurich
+zip§8058
+country§Switzerland
+phone§41 44 512 21 50
+fax§41 44 512 21 51
+website§https://nlspharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§NLS Pharmaceutics AG, a clinical-stage biopharmaceutical company, engages in the discovery and development of therapies for patients with rare and complex central nervous system disorders. The company is focusing on the development of treatments for narcolepsy, idiopathic hypersomnia, and other rare sleep disorders, as well as neurodevelopmental disorders, such as attention deficit hyperactivity disorder (ADHD). Its lead product candidates include Quilience to treat excessive daytime sleepiness and cataplexy; and Nolazol for the treatment of ADHD. The company also developing NLS-4, a selective dopamine reuptake inhibitor to prevent rare sleep disorders; NLS-3, a repurposed reverse ester of methylphenidate for treatment of ADHD; NLS-8, a melatonin ML1A receptor agonist, improved scopolamine-induced amnesia; NLS-11, a norepinephrine and dopamine reuptake inhibitor and muscarinic M1, M2, M3 receptor antagonist; and NLS-12, a norepinephrine and dopamine reuptake inhibitor and muscarinic M4 receptor antagonist. NLS Pharmaceutics AG was incorporated in 2015 and is based in Zurich, Switzerland.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander  Zwyer M.B.A.', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1066000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. George  Apostol M.D.', 'age': 50, 'title': 'Chief Medical Officer and Global Head of Research & Development', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 154000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Eric  Konofal M.D., Ph.D.', 'age': 56, 'title': 'Co-Founder & Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elena  Thyen-Pighin', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christian C. Wenger Dr. iur., L.L.M., Ph.D.', 'age': 59, 'title': 'General Counsel', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.655
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.55
+exchange§NCM
+quoteType§EQUITY
+shortName§NLS Pharmaceutics Ltd.
+longName§NLS Pharmaceutics Ltd.
+firstTradeDateEpochUtc§1611930600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§982c536a-0555-3969-b98d-2376be275b68
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.5
+targetLowPrice§6.0
+targetMeanPrice§9.75
+targetMedianPrice§9.75
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.441
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 20:36:12.338122
+address1§Langford Locks
+address2§Kidlington
+city§Oxford
+zip§OX5 1HX
+country§United Kingdom
+phone§44 19 0835 9100
+fax§44 19 0835 9120
+website§https://www.essentraplc.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Essentra plc manufactures and distributes plastic injection and vinyl dip moulded, and metal components worldwide. The company offers cable ties and conduit, and accessories; grommets, strain relief, and blanking plugs; cable glands and accessories; caps and plugs; card guides and pullers; circuit board hardware products; EMI suppression ferrite cores; fan accessories comprising filters and fan mounting accessories; screws and nuts; rivet and panel fasteners; washers; spacers; brushes; fleet; fibre management; and furniture fittings. It also provides gasketing, toggle clamps, and enclosure accessories; handles, knobs, and positioning components; masking tapes, hooks, and bags; hose clamps, O-rings and O-ring kits, and hose protection products; LED mounting, light pipes and lens; LED spacers; locks, latches, catches, and hinges; pipe and flange protection essentra products; tube inserts, connectors, and ferrules; and vibration mounts, dampers, and slide bearings, as well as handwheels. The company offers its products for a range of applications and industries that are used in protection and finish products. The company was formerly known as Filtrona plc and changed its name to Essentra plc in June 2013. Essentra plc was incorporated in 2005 and is based in Oxford, the United Kingdom.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jack  Clarke', 'title': 'CFO & Executive Director', 'fiscalYear': 2022, 'totalPay': 625559, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Morgan Taylor Fawcett', 'age': 52, 'title': 'Chief Executive Officer, MD of Components Division & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Baker', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sam  Edwards', 'title': 'Chief Digital Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aamir  Mohiuddin', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucy  Yank', 'title': 'Group Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hugues  Delcourt', 'title': 'Chief Sales Officer & Director of EMEA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lynne  Vandeveer', 'title': 'Chief Marketing Officer & President of Americas', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Oshin  Cassidy', 'title': 'Chief People & Culture Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gabriele  Hannen', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0134000005
+exDividendDate§1695254400
+payoutRatio§1.7647
+fiveYearAvgDividendYield§4.29
+beta§1.194
+priceToSalesTrailing12Months§1.4895027
+currency§GBp
+forwardEps§11.97
+pegRatio§1.67
+exchange§LSE
+quoteType§EQUITY
+shortName§ESSENTRA PLC ORD 25P
+longName§Essentra plc
+firstTradeDateEpochUtc§1117954800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b4726912-bd7d-3b9e-a35d-287f808a153e
+targetHighPrice§300.0
+targetLowPrice§220.0
+targetMeanPrice§254.0
+targetMedianPrice§250.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§1.291
+grossMargins§0.06244
+ebitdaMargins§0.06092
+trailingPegRatio§None

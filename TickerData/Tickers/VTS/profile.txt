@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 03:34:16.490645
+address1§9200 East Mineral Avenue
+address2§Suite 200
+city§Centennial
+state§CO
+zip§80112
+country§United States
+phone§720 361 2500
+website§https://www.vitesseoil.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Vitesse Energy, Inc. focuses on acquisition, ownership, exploration, development, management, production, exploitation, and dispose of oil and gas properties. The company acquires non-operated working interest and royalty interest ownership in North Dakota and Montana. It also owns non-operated interests in oil and gas properties in Colorado and Wyoming. The company was founded in 2014 and is based in Centennial, Colorado.
+fullTimeEmployees§40
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert W. Gerrity', 'age': 70, 'title': 'Chairman & CEO', 'yearBorn': 1953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Cree', 'age': 60, 'title': 'President', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James P. Henderson', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Morella', 'title': 'VP & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher I. Humber', 'age': 50, 'title': 'General Counsel & Secretary', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Sabol', 'age': 57, 'title': 'Chief Engineer', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0925
+exDividendDate§1702512000
+payoutRatio§0.0
+priceToSalesTrailing12Months§2.51774
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Vitesse Energy, Inc.
+longName§Vitesse Energy, Inc.
+firstTradeDateEpochUtc§1673361000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§df60bf18-efe7-300a-9ba1-5a8676604475
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.5
+targetLowPrice§25.0
+targetMeanPrice§27.5
+targetMedianPrice§27.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.479
+grossMargins§0.67903
+ebitdaMargins§0.46828997
+trailingPegRatio§None

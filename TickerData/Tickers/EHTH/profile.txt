@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 11:44:31.772996
+address1§2625 Augustine Drive
+address2§SUITE 150
+city§Santa Clara
+state§CA
+zip§95054
+country§United States
+phone§650 210 3150
+website§https://www.ehealthinsurance.com
+industry§Insurance Brokers
+sector§Financial Services
+longBusinessSummary§eHealth, Inc. operates a health insurance marketplace that provides consumer engagement, education, and health insurance enrollment solutions in the United States. The company operates in two segments, Medicare; and Individual, Family and Small Business. Medicare segment offers sale of Medicare-related health insurance plans, which includes Medicare advantage, Medicare Supplement, and Medicare Part D prescription drug plans to Medicare-eligible customers including but not limited to, dental, and vision insurance, as well as advertising program. Its Individual, Family and Small Business segment engages in the sale of individual, family, and small business health insurance plans; and ancillary products to non-Medicare-eligible customers including but not limited to, dental, vision, and short and long term disability insurance. In addition, the company provides ecommerce platforms and consumer engagement solutions, which includes market leading information, decision support, customer engagement, and transactional services to group of health insurance consumers; and organize and present the insurance information in objective format to individuals, families, and small businesses to research, analyze, compare and purchase health insurance plans. Further, it markets health insurance plans through its websites, including eHealth.com, eHealthInsurance.com, eHealthMedicare.com, Medicare.com, PlanPrescriber.com, and GoMedigap.com. The company also offers online sponsorship and advertising, lead referral, technology licensing revenue, and performance of other services, such as conducting health risk assessments. eHealth, Inc. was incorporated in 1997 and is headquartered in Santa Clara, California.
+fullTimeEmployees§1515
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Francis Samuel Soistman Jr.', 'age': 66, 'title': 'CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1591008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Joseph Stelben', 'age': 62, 'title': 'Senior VP & CFO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 531874, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gavin Guy Galimi', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 481070, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Joseph Dolan', 'age': 55, 'title': 'Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Sidorovich CFA', 'title': 'Senior Vice President of Investor Relations & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lara  Sasken', 'title': 'Senior Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Barbeau', 'title': 'Chief Marketing Officer & Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jana  Brown', 'title': 'Senior VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Billings', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregg R. Ratkovic', 'age': 54, 'title': 'Senior VP & Chief Business Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 413905, 'exercisedValue': 150421, 'unexercisedValue': 81935}]
+auditRisk§4
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.635
+priceToSalesTrailing12Months§0.54676753
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.23
+pegRatio§0.48
+exchange§NMS
+quoteType§EQUITY
+shortName§eHealth, Inc.
+longName§eHealth, Inc.
+firstTradeDateEpochUtc§1161351000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6f27d486-cc2d-3555-810b-62d219c601fb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§8.0
+targetMeanPrice§10.67
+targetMedianPrice§11.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§7.014
+grossMargins§0.99622
+ebitdaMargins§-0.11454
+trailingPegRatio§None

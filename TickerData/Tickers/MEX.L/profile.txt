@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 08:40:43.733673
+address1§Evelyn House
+address2§1st Floor 142-144 New Cavendish Street
+city§London
+zip§W1W 6YF
+country§United Kingdom
+website§https://www.tortilla.co.uk
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Tortilla Mexican Grill PLC operates and manages Mexican restaurants under the Tortilla brand. The company operates through owned and stores in the United Kingdom and the Middle East. Tortilla Mexican Grill PLC was founded in 2007 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1144
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard John Morris', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 215000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Stephens', 'age': 49, 'title': 'Founder & Non-Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 31000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy Philip Naylor', 'age': 39, 'title': 'CFO, Commercial Director & Executive Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 153000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.055
+priceToSalesTrailing12Months§0.29813737
+currency§GBp
+forwardEps§3.28
+exchange§LSE
+quoteType§EQUITY
+shortName§TORTILLA MEXICAN GRILL PLC ORD 
+longName§Tortilla Mexican Grill plc
+firstTradeDateEpochUtc§1633676400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§eaf78caf-80a3-3571-8840-304439d4795b
+targetHighPrice§115.0
+targetLowPrice§95.0
+targetMeanPrice§105.0
+targetMedianPrice§105.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.228
+grossMargins§0.76464
+ebitdaMargins§0.051799998
+trailingPegRatio§None

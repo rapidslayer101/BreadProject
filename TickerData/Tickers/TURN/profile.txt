@@ -1,0 +1,37 @@
+# reload+after+2024-01-23 07:47:40.781632
+address1§7 North Willow Street
+address2§Suite 4B
+city§Montclair
+state§NJ
+zip§07042
+country§United States
+phone§973 746 4500
+fax§973 746 4508
+website§https://www.180degreecapital.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§180 Degree Capital Corp. is a publicly owned corporate pension plan sponsor. It primarily provides its services to pension and profit sharing plans. The firm is a large advisory firm which provides portfolio management for pooled investment vehicles, pension consulting services. It manages separate client focused equity and balanced funds. It invests in exchange-traded equity securities, non exchange-traded equity securities, cash and cash equivalents and assets of the adviser that are primarily receivables and prepaid expenses. The firm conducts in-house research to make investments. The firm was formerly known as Harris & Harris Group, Inc. 180 Degree Capital Corp. was founded in 1981 and is based in Montclair, New Jersey.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin M. Rendino', 'age': 55, 'title': 'Chairman, CEO & Portfolio Manager', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 506012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Daniel B. Wolfe Ph.D.', 'age': 46, 'title': 'President, CFO, Chief Compliance Officer, Portfolio Manager & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 481743, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Eugene Bigelow III', 'age': 55, 'title': 'VP & Head of Fund Development', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 111000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alicia M. Gift', 'age': 46, 'title': 'Senior Controller, Secretary & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 318399, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Alexei A. Andreev Ph.D.', 'age': 51, 'title': 'Venture Partner', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 508000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Boni', 'age': 78, 'title': 'Senior Advisor', 'yearBorn': 1945, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Blake L. Stevens Ph.D.', 'age': 40, 'title': 'Senior Associate', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew T. Epstein C.F.A.', 'age': 40, 'title': 'Senior Analyst', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§971222400
+payoutRatio§0.0
+beta§0.801
+priceToSalesTrailing12Months§347.0144
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§180 Degree Capital Corp.
+longName§180 Degree Capital Corp.
+firstTradeDateEpochUtc§416673000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2ac9e579-0771-3403-b293-25a77d9e4a2a
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§3.168
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

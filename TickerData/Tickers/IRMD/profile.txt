@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 14:45:30.879688
+address1§1025 Willa Springs Drive
+city§Winter Springs
+state§FL
+zip§32708
+country§United States
+phone§407 677 8022
+fax§407 677 5037
+website§https://www.iradimed.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§IRADIMED CORPORATION develops, manufactures, markets, and distributes magnetic resonance imaging (MRI) compatible medical devices, and related accessories and services in the United States and internationally. It offers MRidium MRI compatible intravenous (IV) infusion pump system with associated disposable IV tubing sets; and MRI compatible patient vital signs monitoring system. The company also provides non-magnetic IV poles, wireless remote displays/controls, side car pump modules, dose error reduction systems, and SpO2 monitoring with sensors and accessories. It serves hospitals, acute care facilities, and outpatient imaging centers. The company sells its products through direct field sales representatives, regional sales directors, clinical support representatives, and independent distributors. IRADIMED CORPORATION was incorporated in 1992 and is headquartered in Winter Springs, Florida.
+fullTimeEmployees§123
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Roger E. Susi', 'age': 70, 'title': 'Founder, Chairman, CEO & President', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 586040, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John F. Glenn', 'age': 61, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 411786, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Waddell', 'title': 'Vice President of Worldwide Sales & Marketing', 'fiscalYear': 2022, 'totalPay': 414629, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Kachelmeyer', 'title': 'Vice President of Regulatory Affairs & Quality Assurance', 'fiscalYear': 2022, 'totalPay': 337831, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lynn  Neuhardt', 'title': 'Vice President of Research & Development', 'fiscalYear': 2022, 'totalPay': 354946, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Williamson', 'title': 'Executive Vice President of Continuous Improvement & Information Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Garner', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.0034
+exDividendDate§1703116800
+payoutRatio§0.0
+beta§0.85
+priceToSalesTrailing12Months§8.947707
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.67
+pegRatio§1.76
+exchange§NCM
+quoteType§EQUITY
+shortName§iRadimed Corporation
+longName§IRadimed Corporation
+firstTradeDateEpochUtc§1405517400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§01f5bd35-5568-3a00-8152-f7f69d67695b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§56.0
+targetMeanPrice§58.0
+targetMedianPrice§58.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§7.552
+earningsGrowth§0.481
+grossMargins§0.76168
+ebitdaMargins§0.30166
+trailingPegRatio§None

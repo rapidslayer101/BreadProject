@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 13:44:56.442835
+address1§1919 McKinney Avenue
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§972 445 0042
+website§https://www.frontier.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Frontier Communications Parent, Inc., together with its subsidiaries, provides communication and technology services in the United States. It offers data and Internet, voice, video, and other services. The company was formerly known as Frontier Communications Corporation and changed its name to Frontier Communications Parent, Inc. in April 2021. Frontier Communications Parent, Inc. was incorporated in 1935 and is headquartered in Dallas, Texas.
+fullTimeEmployees§13756
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John G. Stratton', 'age': 61, 'title': 'Executive Chairman of the Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 3069250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Simon Jeffery', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3992669, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott C. Beasley', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 2828650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark D. Nielsen', 'age': 58, 'title': 'Executive VP and Chief Legal & Regulatory Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1834250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Veronica  Bloodworth', 'age': 52, 'title': 'Executive VP & Chief Network Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1328650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  McGloin', 'age': 52, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Spencer Harris Kurn', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin L. Kurtz', 'age': 44, 'title': 'Executive VP & Chief Communications Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Curtis Ph.D.', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. M. Alan Gardner', 'age': 63, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.103
+priceToSalesTrailing12Months§1.0523455
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.51
+pegRatio§11.32
+exchange§NMS
+quoteType§EQUITY
+shortName§Frontier Communications Parent,
+longName§Frontier Communications Parent, Inc.
+firstTradeDateEpochUtc§1620135000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§22a3dc87-023c-3f97-903b-d6ea9c330b0d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§59.0
+targetLowPrice§16.0
+targetMeanPrice§31.91
+targetMedianPrice§31.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.326
+earningsGrowth§-0.909
+grossMargins§0.62843
+ebitdaMargins§0.36653998
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 04:43:13.940787
+address1§220 West Germantown Pike
+address2§Suite 250
+city§Plymouth Meeting
+state§PA
+zip§19462
+country§United States
+phone§610 424 4515
+website§https://adapthealth.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§AdaptHealth Corp., together with its subsidiaries, provides home medical equipment (HME), medical supplies, and home and related services in the United States. The company provides sleep therapy equipment, supplies, and related services, including CPAP and bi-PAP services to individuals suffering from obstructive sleep apnea; medical devices and supplies, including continuous glucose monitors and insulin pumps to patients for the treatment of diabetes; HME to patients discharged from acute care and other facilities; oxygen and related chronic therapy services in the home; and other HME devices and supplies on behalf of chronically ill patients with wound care, urological, incontinence, ostomy, and nutritional supply needs. It serves beneficiaries of Medicare, Medicaid, and commercial insurance payors. The company is headquartered in Plymouth Meeting, Pennsylvania.
+fullTimeEmployees§10900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard Alan Barasch', 'age': 69, 'title': 'Chairman of the Board & Interim CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 102500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Parnes', 'age': 44, 'title': 'President & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1042058, 'exercisedValue': 0, 'unexercisedValue': 6433338}, {'maxAge': 1, 'name': 'Mr. Jason A. Clemens C.F.A.', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 870196, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Albert A. Prast', 'age': 63, 'title': 'Chief Technology Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 738027, 'exercisedValue': 0, 'unexercisedValue': 8802151}, {'maxAge': 1, 'name': 'Mr. Christopher J. Joyce', 'age': 59, 'title': 'Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 790709, 'exercisedValue': 0, 'unexercisedValue': 3860000}, {'maxAge': 1, 'name': 'Mr. Shaw A. Rietkerk', 'age': 48, 'title': 'Chief Operating Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 488558, 'exercisedValue': 0, 'unexercisedValue': 1809711}, {'maxAge': 1, 'name': 'Ms. Christie E. Archbold', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anton  Hie', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Russalesi', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leila  Vargas', 'title': 'Executive Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§2
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.004
+priceToSalesTrailing12Months§0.31670594
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.73
+pegRatio§-0.17
+exchange§NCM
+quoteType§EQUITY
+shortName§AdaptHealth Corp.
+longName§AdaptHealth Corp.
+firstTradeDateEpochUtc§1527773400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7f84a268-3f81-36ea-9dc0-3ff505367ce4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.5
+targetLowPrice§6.5
+targetMeanPrice§11.15
+targetMedianPrice§11.75
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.967
+grossMargins§0.1532
+ebitdaMargins§0.1869
+trailingPegRatio§None

@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 07:30:40.652429
+address1§1999 Bryan Street
+address2§Suite 3500
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§214 583 8500
+fax§214 638 0447
+website§https://www.jacobs.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Jacobs Solutions Inc. provides consulting, technical, engineering, scientific, and project delivery services for the government and private sectors in the United States, Europe, Canada, India, Asia, Australia, New Zealand, the Middle East, and Africa. It operates through Critical Mission Solutions, People & Places Solutions, Divergent Solutions, and PA Consulting segments. The company offers cyber, data analytics, systems and software application integration and consulting, enterprise level and mission IT, design, nuclear, and enterprise level operations and maintenance services; software development, testing, mission integration, program management, research, development, test, evaluation services, training, and environmental remediation services; and other technical consulting solutions, as well as construction and construction management services. It also provides consulting services for consumer and manufacturing, defense and security, energy and utilities, financial services, government, health and life sciences, and transport industries. The company was founded in 1947 and is headquartered in Dallas, Texas.
+fullTimeEmployees§57100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven J. Demetriou', 'age': 65, 'title': 'Executive Chair', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 3002989, 'exercisedValue': 8304454, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert V. Pragada', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2959229, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claudia  Jaramillo', 'age': 50, 'title': 'Executive VP of Strategy & Corporate Development and CFO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1382854, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joanne E. Caruso', 'age': 63, 'title': 'Executive VP, Chief Legal & Administration Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1491721, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick X. Hill', 'age': 50, 'title': 'Executive VP and President of People & Places Solutions', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1234891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen A Arnette', 'age': 56, 'title': 'Executive VP & President of Critical Mission Solutions', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1118180, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Benton Allen Jr.', 'age': 59, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Evans C.F.A.', 'title': 'Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marietta C. Hannigan', 'title': 'Executive VP, Chief Strategy & Corporate Development and Communication Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelette M. Gustafson', 'age': 58, 'title': 'Executive VP & Chief People and Inclusion Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§2
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.04
+dividendYield§0.0082
+exDividendDate§1698278400
+payoutRatio§0.1469
+fiveYearAvgDividendYield§0.74
+beta§0.746
+priceToSalesTrailing12Months§0.977781
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.99
+pegRatio§1.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§Jacobs Solutions Inc.
+longName§Jacobs Solutions Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff44570a-ca82-3191-8870-afbc310cdb85
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§176.0
+targetLowPrice§137.0
+targetMeanPrice§153.08
+targetMedianPrice§150.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§1.311
+earningsGrowth§-0.291
+grossMargins§0.21402
+ebitdaMargins§0.09011
+trailingPegRatio§1.2141

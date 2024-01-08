@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 06:34:21.338621
+address1§420 Montgomery Street
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§866 249 3302
+website§https://www.wellsfargo.com
+industry§Banks—Diversified
+sector§Financial Services
+longBusinessSummary§Wells Fargo & Company, a diversified financial services company, provides banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The Consumer Banking and Lending segment offers diversified financial products and services for consumers and small businesses. Its financial products and services include checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services. The Commercial Banking segment provides financial solutions to private, family owned, and certain public companies. Its products and services include banking and credit products across various industry sectors and municipalities, secured lending and lease products, and treasury management services. The Corporate and Investment Banking segment offers a suite of capital markets, banking, and financial products and services to corporate, commercial real estate, government, and institutional clients. Its products and services comprise corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity, and fixed income solutions, as well as sales, trading, and research capabilities services. The Wealth and Investment Management segment provides personalized wealth management, brokerage, financial planning, lending, private banking, and trust and fiduciary products and services to affluent, high-net worth, and ultra-high-net worth clients. It also operates through financial advisors. Its serves to independent offices and consumer banks. The company was founded in 1852 and is headquartered in San Francisco, California.
+fullTimeEmployees§227363
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles W. Scharf', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 8008351, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Santomassimo', 'age': 48, 'title': 'Senior EVP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 4933117, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott E. Powell', 'age': 61, 'title': 'Senior EVP & COO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 4258159, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Geoffrey Weiss', 'age': 65, 'title': 'Senior EVP and CEO of Corporate & Investment Banking', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 5593975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Kerrins', 'title': 'Senior EVP & Head of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Owen', 'title': 'Chief Administrative Officer & Head of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. Campbell', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ellen Reilly Patterson Esq., J.D.', 'age': 49, 'title': 'Senior EVP & General Counsel', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula Ann Dominick', 'age': 63, 'title': 'Chief Compliance Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Bonitatibus', 'title': 'Chief Communications & Brand Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.027999999
+exDividendDate§1698883200
+payoutRatio§0.27290002
+fiveYearAvgDividendYield§3.28
+beta§1.173
+priceToSalesTrailing12Months§2.370071
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.89
+pegRatio§1.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Wells Fargo & Company
+longName§Wells Fargo & Company
+firstTradeDateEpochUtc§76253400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0bc07f6d-ca07-3490-b750-d6d47f2b33a9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§66.0
+targetLowPrice§43.0
+targetMeanPrice§53.89
+targetMedianPrice§54.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§23
+earningsGrowth§0.721
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§1.0034

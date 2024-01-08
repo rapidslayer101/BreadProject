@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 21:35:25.153460
+address1§4 Exchange Quay
+address2§Salford Quays
+city§Manchester
+zip§M5 3EE
+country§United Kingdom
+phone§44 345 5432600
+website§https://www.ajbell.co.uk
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§AJ Bell plc, through its subsidiaries, operates investment platforms in the United Kingdom. The company offers AJ Bell Investcentre, which offers advisers and clients service, easy-to-use functionality, and a comprehensive investment range at competitive prices; and AJ Bell, an investment platform. It also provides Touch by AJ Bell, an investment platform which help advisers to streamline their businesses with investment solutions delivered and managed digitally on their clients' smartphones; and Dodl by AJ Bell, an investment app. In addition, it provides adviser-led platform app; wealth management solution; technical consultancy services; and investment administration, dealing, and custody services, as well as publishes shares magazine, stock market commentary, equity analysis, and educational material. The company was founded in 1995 and is headquartered in Manchester, the United Kingdom.
+fullTimeEmployees§1373
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Thomas Summersgill', 'age': 40, 'title': 'CEO, Member of the Management Board & Director', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 507000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter Michael Birch', 'age': 45, 'title': 'CFO, Director & Member of Management Board', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 327000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger John Stott', 'age': 58, 'title': 'COO, Member of the Management Board & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 294000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Billy  Mackay', 'title': 'MD of Advised & Member of Management Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth Anne Carrington', 'age': 49, 'title': 'HR Director & Member of the Management Board', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charlie  Musson', 'title': 'Chief Communications Officer, Acting MD of D2C & Member of Management Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mohamed  Tagari', 'age': 44, 'title': 'CTO & Member of Management Board', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Goodman', 'age': 37, 'title': 'Chief Risk Officer & Member of Management Board', 'yearBorn': 1986, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shaun  Yates', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kina  Sinclair', 'title': 'Group Legal Services Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.037
+exDividendDate§1704931200
+payoutRatio§0.4894
+beta§0.95
+priceToSalesTrailing12Months§5.923555
+currency§GBp
+forwardEps§16.66
+pegRatio§11.97
+lastDividendValue§7.25
+lastDividendDate§1704931200
+exchange§LSE
+quoteType§EQUITY
+shortName§AJ BELL PLC ORD GBP0.000125
+longName§AJ Bell plc
+firstTradeDateEpochUtc§1544169600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7eaa6699-051d-338e-a9ca-250d3d9c7586
+messageBoardId§finmb_47232878
+targetHighPrice§488.0
+targetLowPrice§240.0
+targetMeanPrice§352.5
+targetMedianPrice§366.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§3.546
+earningsGrowth§0.367
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,20 @@
+# reload+after+2024-01-21 15:39:15.183555
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§JLEN ENVIRONMENTAL ASSETS GROUP
+longName§JLEN Environmental Assets Group Ord
+firstTradeDateEpochUtc§1396249200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fc13ebc2-b499-32c0-885c-694827fa7d62
+targetHighPrice§110.0
+targetLowPrice§110.0
+targetMeanPrice§110.0
+targetMedianPrice§110.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§1
+trailingPegRatio§None

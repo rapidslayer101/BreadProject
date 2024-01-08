@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 10:30:31.910781
+address1§1 De Haro Street
+city§San Francisco
+state§CA
+zip§94107
+country§United States
+phone§415 985 2400
+website§https://www.samsara.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Samsara Inc. provides solutions that connect physical operations data to its Connected Operations Cloud in the United States and internationally. The company's Connected Operations Cloud includes Data Platform, which ingests, aggregates, and enriches data from its IoT devices and has embedded capabilities for AI, workflows and analytics, alerts, API connections, and data security and privacy; and applications for video-based safety, vehicle telematics, apps and driver workflows, equipment monitoring, and site visibility. It serves transportation, wholesale and retail trade, construction, field services, logistics, utilities and energy, healthcare and education, manufacturing, food and beverage, and other industries, as well as government. The company was incorporated in 2015 and is based in San Francisco, California.
+fullTimeEmployees§2266
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sanjit  Biswas', 'age': 41, 'title': 'Co-Founder, CEO & Chairman', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 101243, 'exercisedValue': 0, 'unexercisedValue': 30512032}, {'maxAge': 1, 'name': 'Mr. John  Bicket', 'age': 43, 'title': 'Co-Founder, Executive VP, CTO & Director', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 105004, 'exercisedValue': 0, 'unexercisedValue': 5842818}, {'maxAge': 1, 'name': 'Mr. Dominic  Phillips', 'age': 41, 'title': 'Executive VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 704702, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Eltoukhy', 'age': 39, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 483658, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Andrew Munk', 'age': 59, 'title': 'Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Franchetti', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Chang', 'title': 'Vice President of Corporate Development & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Patterson', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Pickle', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kiren  Sekar', 'age': 43, 'title': 'Executive VP, Chief Strategy Officer & Interim Chief Product Officer', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 456824, 'exercisedValue': 0, 'unexercisedValue': 2380459}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.569
+priceToSalesTrailing12Months§19.436369
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.08
+exchange§NYQ
+quoteType§EQUITY
+shortName§Samsara Inc.
+longName§Samsara Inc.
+firstTradeDateEpochUtc§1639578600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b244ff42-1031-3de6-92f9-bb66d1486576
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§30.0
+targetMeanPrice§33.9
+targetMedianPrice§35.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.539
+grossMargins§0.72922
+ebitdaMargins§-0.28982002
+trailingPegRatio§None

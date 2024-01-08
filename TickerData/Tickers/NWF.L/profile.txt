@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 20:39:58.122489
+address1§Wardle
+city§Nantwich
+zip§CW5 6BP
+country§United Kingdom
+phone§44 18 2926 0260
+website§https://www.nwf.co.uk
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§NWF Group plc, together with its subsidiaries, primarily engages in the sale and distribution of fuel oils in the United Kingdom. It operates through Fuels, Food, and Feeds segments. The Fuels segment sells domestic heating, industrial, and road fuels. This segment owns and operates through a network of 27 depots. The Food segment is involved in the warehousing and distribution of grocery and other products to supermarkets and other retail distribution centers. The Feeds segment manufactures and sells animal feeds and other agricultural products. NWF Group plc was founded in 1871 and is headquartered in Nantwich, the United Kingdom.
+fullTimeEmployees§1339
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard A. Whiting BA', 'age': 59, 'title': 'Chief Executive & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 722000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher James Belsham', 'age': 47, 'title': 'Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 411000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katie Jane Shortland', 'title': 'CFO & Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Downie', 'title': 'Managing Director of Feeds', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela  Carus', 'title': 'Managing Director of Food', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Walmsley', 'title': 'Managing Director of Fuels', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha  Douglas', 'title': 'Group Financial Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Annette  Dale', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0347
+exDividendDate§1698883200
+payoutRatio§0.2492
+fiveYearAvgDividendYield§3.42
+beta§0.312
+priceToSalesTrailing12Months§0.10554952
+currency§GBp
+forwardEps§22.66
+exchange§LSE
+quoteType§EQUITY
+shortName§NWF GROUP PLC ORD 25P
+longName§NWF Group plc
+firstTradeDateEpochUtc§812012400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bbcde9ce-7e23-307c-ba19-5a2ddaf9de4e
+targetHighPrice§283.0
+targetLowPrice§230.0
+targetMeanPrice§262.67
+targetMedianPrice§275.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.955
+earningsGrowth§-0.242
+grossMargins§0.05133
+ebitdaMargins§0.0242
+trailingPegRatio§None

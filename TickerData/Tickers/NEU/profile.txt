@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 23:31:39.382214
+address1§330 South Fourth Street
+city§Richmond
+state§VA
+zip§23219-4350
+country§United States
+phone§804 788 5000
+website§https://www.newmarket.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§NewMarket Corporation, through its subsidiaries, primarily engages in the manufacture and sale of petroleum additives. The company offers lubricant additives for use in various vehicle and industrial applications, including engine oils, transmission fluids, off-road powertrain and hydraulic systems, gear oils, hydraulic oils, turbine oils, and other applications where metal-to-metal moving parts are utilized; engine oil additives designed for passenger cars, motorcycles, on and off-road heavy duty commercial equipment, locomotives, and engines in ocean-going vessels; driveline additives designed for products, such as transmission fluids, axle fluids, and off-road powertrain fluids; and industrial additives designed for products for industrial applications consisting of hydraulic fluids, grease, industrial gear fluids, and industrial specialty applications, such as turbine oils. It also provides fuel additives that are used to enhance the oil refining process and the performance of gasoline, diesel, biofuels, and other fuels to industry, government, original equipment manufacturers, and individual customers. In addition, the company engages in the marketing of antiknock compounds, as well as contracted manufacturing and services activities; and owns and manages a real property in Virginia. It operates in North America, Latin America, the Asia Pacific, Europe, the Middle East, Africa, and India. NewMarket Corporation was founded in 1887 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§2058
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas E. Gottwald', 'age': 62, 'title': 'Chairman, President & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1840340, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce R. Hazelgrove III', 'age': 62, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 976894, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryce Dickinson Jewett III', 'age': 48, 'title': 'VP & General Counsel', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 775406, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian D. Paliotti', 'age': 46, 'title': 'President of Afton Chemical Corporation', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 954900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Skrobacz', 'age': 63, 'title': 'VP & CFO', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gail C. Ridgeway', 'age': 48, 'title': 'Principal Accounting Officer & Controller', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron D. Warner Jr.', 'age': 64, 'title': 'Treasurer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne-Marie  Anderson', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§9.0
+dividendYield§0.0163
+exDividendDate§1702512000
+payoutRatio§0.21110001
+fiveYearAvgDividendYield§2.09
+beta§0.413
+priceToSalesTrailing12Months§1.9343698
+currency§USD
+dateShortInterest§1702598400
+forwardEps§25.82
+exchange§NYQ
+quoteType§EQUITY
+shortName§NewMarket Corp
+longName§NewMarket Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0dc4af08-2af5-39bb-b255-307bdece87cc
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§1.596
+earningsGrowth§0.835
+grossMargins§0.28307
+ebitdaMargins§0.22116
+trailingPegRatio§None

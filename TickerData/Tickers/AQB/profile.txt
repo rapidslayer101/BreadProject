@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 08:43:24.400054
+address1§2 Mill and Main Place
+address2§Suite 395
+city§Maynard
+state§MA
+zip§01754
+country§United States
+phone§978 648 6000
+website§https://www.aquabounty.com
+industry§Farm Products
+sector§Consumer Defensive
+longBusinessSummary§AquaBounty Technologies, Inc., a biotechnology company, focuses on enhancing productivity in the commercial aquaculture industry in the United States and Canada. It engages in genetic, genomic, and fish health and nutrition research activities. The company also operates salmon farms using proprietary technology. It offers AquAdvantage Salmon, a bioengineered Atlantic salmon for human consumption; and sells conventional Atlantic salmon, salmon eggs, fry, and byproducts. The company was formerly known as Aqua Bounty Farms, Inc. and changed its name to AquaBounty Technologies, Inc. in June 2004. AquaBounty Technologies, Inc. was incorporated in 1991 and is headquartered in Maynard, Massachusetts.
+fullTimeEmployees§100
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Sylvia A. Wulf', 'age': 65, 'title': 'CEO & Chair', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 458108, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. Frank', 'age': 63, 'title': 'CFO & Treasurer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 334036, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela M. Olsen J.D.', 'age': 54, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 335369, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David F. Melbourne Jr.', 'title': 'President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Alejandro  Rojas D.V.M.', 'age': 61, 'title': 'Chief Operating Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 234104, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chris  Beattie Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dave  Conley', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis  Bryant', 'title': 'Director of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa Johns Daley', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.361
+priceToSalesTrailing12Months§3.829983
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.74
+exchange§NCM
+quoteType§EQUITY
+shortName§AquaBounty Technologies, Inc.
+longName§AquaBounty Technologies, Inc.
+firstTradeDateEpochUtc§1484145000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f07ed3b9-3040-3f28-ba4b-2054c3994f74
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.5
+targetLowPrice§7.5
+targetMeanPrice§7.5
+targetMedianPrice§7.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.473
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

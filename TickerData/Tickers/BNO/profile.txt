@@ -1,0 +1,25 @@
+# reload+after+2024-01-22 22:27:28.873146
+longBusinessSummary§The Benchmark Futures Contract is the futures contract on Brent crude oil as traded on the Ice Futures Europe Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration, in which case it will be measured by the futures contract that is the next month contract to expire.
+maxAge§86400
+priceHint§2
+yield§0.0
+totalAssets§130082480
+navPrice§28.012
+currency§USD
+ytdReturn§0.0270963
+beta3Year§1.34
+fundFamily§USCF Investments
+fundInceptionDate§1275436800
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.2804879
+fiveYearAverageReturn§0.116325594
+exchange§PCX
+quoteType§ETF
+shortName§United States Brent Oil Fund, L
+longName§United States Brent Oil Fund, LP
+firstTradeDateEpochUtc§1275485400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3dd43c23-cd73-3436-a205-52832821e3a8
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

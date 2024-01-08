@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 21:47:45.341390
+address1§600 Mayer Street
+city§Bridgeville
+state§PA
+zip§15017
+country§United States
+phone§412 257 7600
+fax§412 257 7640
+website§https://www.univstainless.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Universal Stainless & Alloy Products, Inc., together with its subsidiaries, manufactures and markets semi-finished and finished specialty steel products in the United States and internationally. Its products include stainless steel, nickel alloys, tool steel, and various other alloyed steels. The company offers semi-finished and finished long products in the form of ingots, billets, and bars; flat rolled products, such as slabs and plates; and customized shapes primarily for original equipment manufacturers (OEMs), which are cold rolled from purchased coiled strip, flat bar, or extruded bar. It also offers conversion services on materials supplied by its customers. The company's products are used in aerospace, power generation, oil and gas, heavy equipment, general, and industrial markets. It sells its products to service centers, forgers, rerollers, and original equipment manufacturers. Universal Stainless & Alloy Products, Inc. was incorporated in 1994 and is headquartered in Bridgeville, Pennsylvania.
+fullTimeEmployees§622
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dennis M. Oates', 'age': 70, 'title': 'Executive Chairman', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 701409, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Zimmer', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 415387, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven V. DiTommaso', 'age': 36, 'title': 'VP & CFO', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 351649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Graham  McIntosh Ph.D.', 'age': 60, 'title': 'Executive VP & CTO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 365735, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wendel L. Crosby', 'age': 51, 'title': 'Vice President of Manufacturing', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 361411, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Arminas', 'age': 51, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 262973, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.045
+priceToSalesTrailing12Months§0.6830996
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.5
+pegRatio§11.41
+exchange§NMS
+quoteType§EQUITY
+shortName§Universal Stainless & Alloy Pro
+longName§Universal Stainless & Alloy Products, Inc.
+firstTradeDateEpochUtc§787415400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ca2e412f-b7a7-3143-bed3-8c3906a12244
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§19.0
+targetMeanPrice§19.0
+targetMedianPrice§19.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.827
+grossMargins§0.117580004
+ebitdaMargins§0.08891
+trailingPegRatio§None

@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 22:45:10.776691
+address1§1001 Brickell Bay Drive
+address2§Suite 3000 30th Floor
+city§Miami
+state§FL
+zip§33131
+country§United States
+phone§305 375 8005
+fax§786 772 2048
+website§https://www.thehackettgroup.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§The Hackett Group, Inc. operates as a strategic advisory and technology consulting firm primarily in the United States, Europe, and internationally. The company operates through three segments: Global Strategy & Business Transformation, Oracle Solutions, and SAP Solutions. It offers Hackett Connect, an online searchable repository; best practice accelerators that provide web-based access to best practices, customized software configuration tools, and best practice process flows; advisor inquiry for access to fact-based advice on proven approaches and methods; best practice research that provides insights into the proven approaches; and peer interaction comprising member-led webcasts, annual best practice conferences, annual member forums, membership performance surveys, and client-submitted content, as well as intellectual property as-a-service and Hackett Institute programs. The company also provides benchmarking services that conducts studies for selling, general and administrative, finance, human resources, information technology, procurement, enterprise performance management, and shared services; business transformation practices; and oracle solutions that help clients to choose and deploy oracle applications that best meet their needs and objectives. In addition, it offers SAP solutions, including planning, architecture, and vendor evaluation and selection through implementation, customization, testing, and integration; post-implementation support, change and exception management, process transparency, system documentation, and end-user training; and off-shore application development, and application maintenance and support services. The company was formerly known as Answerthink, Inc. and changed its name to The Hackett Group, Inc. in 2008. The Hackett Group, Inc. was founded in 1991 and is headquartered in Miami, Florida.
+fullTimeEmployees§1430
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ted A. Fernandez', 'age': 66, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2792100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David N. Dungan', 'age': 69, 'title': 'Co-Founder, Vice Chairman & COO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1668576, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert A. Ramirez', 'age': 57, 'title': 'CFO & Executive VP of Finance', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 843040, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank A. Zomerfeld', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Suzanne  Leopoldi-Nichols', 'title': 'Chief GBS Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.44
+dividendYield§0.02
+exDividendDate§1703116800
+payoutRatio§0.34919998
+fiveYearAvgDividendYield§2.15
+beta§0.848
+priceToSalesTrailing12Months§2.0730526
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.68
+pegRatio§0.97
+exchange§NMS
+quoteType§EQUITY
+shortName§The Hackett Group, Inc.
+longName§The Hackett Group, Inc.
+firstTradeDateEpochUtc§896362200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ed2065b4-7c34-37cd-9ed9-660a486edced
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§25.0
+targetMeanPrice§27.0
+targetMedianPrice§28.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.535
+earningsGrowth§0.063
+grossMargins§0.40405
+ebitdaMargins§0.20357999
+trailingPegRatio§0.9696

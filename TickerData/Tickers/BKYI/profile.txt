@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 15:43:41.653789
+address1§Building A
+address2§Suite E 3349 Highway 138
+city§Wall
+state§NJ
+zip§07719
+country§United States
+phone§732 359 1100
+fax§732 359 1101
+website§https://www.bio-key.com
+industry§Security & Protection Services
+sector§Industrials
+longBusinessSummary§BIO-key International, Inc. develops and markets fingerprint identification biometric technology and software solutions, and enterprise-ready identity access management solutions for commercial, government, and education customers in the United States and internationally. The company offers BIO-key PortalGuard and PortalGuard IDaaS solutions, a customer-controlled and neutral-by-design cloud-based identity platform that allows customers to integrate with any cloud or on-premises SaaS application, as well as windows device authentication through IAM platform. Its solutions enable its customers to secure their workforces and student populations; and make their partner networks more collaborative. In addition, it provides BIO-key VST and WEB-key products; and Civil and Large-Scale ID Infrastructure solutions that develops finger-based biometric technology. Further, it offers finger scanners for enterprise and consumer markets under SideSwipe, EcoID, and SidePass brand names. The company was formerly known as SAC Technologies and changed its name to BIO-key International, Inc. in 2002. BIO-key International, Inc. was founded in 1993 and is headquartered in Wall, New Jersey.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael W. DePasquale', 'age': 68, 'title': 'Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 296830, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kwok Fong  Wong', 'age': 60, 'title': 'MD of Hong Kong & Vice-Chairman of the Board', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mira K. LaCous', 'age': 61, 'title': 'Chief Technology Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 224301, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James David Sullivan', 'age': 56, 'title': 'Senior VP of Strategy & Compliance and Chief Legal Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 367490, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cecilia C. Welch', 'age': 63, 'title': 'Chief Financial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 176194, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Akintunde Carlton Jeje', 'title': 'Managing Director of Africa', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Rocha', 'title': 'Managing Director of EMEA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Cochran', 'title': 'President of PortalGuard', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.817
+priceToSalesTrailing12Months§0.25966662
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.46
+exchange§NCM
+quoteType§EQUITY
+shortName§BIO-key International, Inc.
+longName§BIO-key International, Inc.
+firstTradeDateEpochUtc§856535400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§77b054bc-2090-32a7-b5ae-cc5ba94eb55d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§36.0
+targetMeanPrice§36.0
+targetMedianPrice§36.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.526
+grossMargins§0.6638
+ebitdaMargins§-0.58964
+trailingPegRatio§None

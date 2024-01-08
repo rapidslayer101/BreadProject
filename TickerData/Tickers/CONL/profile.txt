@@ -1,0 +1,24 @@
+# reload+after+2024-01-23 11:44:10.761527
+longBusinessSummary§The fund is an actively managed exchange traded fund that attempts to replicate 2 times (200%) the daily percentage change the underlying stock by entering into a swap agreement on the underlying stock. The fund aims to generate 2 times the daily performance of the underlying stock for a single day. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.0
+totalAssets§42802772
+navPrice§28.09
+currency§USD
+category§Trading--Leveraged Equity
+ytdReturn§-0.1708898
+beta3Year§0.0
+fundFamily§Graniteshares
+fundInceptionDate§1659916800
+legalType§Exchange Traded Fund
+exchange§NGM
+quoteType§ETF
+shortName§GraniteShares 1.5x COIN Daily E
+longName§GraniteShares 1.5x Long COIN Daily ETF
+firstTradeDateEpochUtc§1660138200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§72fe967f-186a-3af7-9328-4196e6cac8fd
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

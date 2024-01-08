@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 19:28:14.026414
+address1§3040 Post Oak Boulevard
+address2§Suite 300
+city§Houston
+state§TX
+zip§77056
+country§United States
+phone§713 332 8400
+website§https://www.carriageservices.com
+industry§Personal Services
+sector§Consumer Cyclical
+longBusinessSummary§Carriage Services, Inc. provides funeral and cemetery services, and merchandise in the United States. The company operates through two segments, Funeral Home Operations and Cemetery Operations. The Funeral Home Operations segment provides consultation, funeral home facilities for visitation and memorial services, and transportation services; removal and preparation of remains; and sale of burial and cremation services, and related merchandise, such as caskets and urns. The Cemetery Operations segment provides interment rights for grave sites, lawn crypts, mausoleum spaces, and niches; related cemetery merchandise, including outer burial containers, memorial markers, and monuments; and interments, inurnments, and installation of cemetery merchandise services. Carriage Services, Inc. was founded in 1991 and is based in Houston, Texas.
+fullTimeEmployees§1174
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Melvin C. Payne', 'age': 80, 'title': 'Founder & Executive Chairman', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 1998469, 'exercisedValue': 0, 'unexercisedValue': 608497}, {'maxAge': 1, 'name': 'Mr. Carlos R. Quezada', 'age': 52, 'title': 'CEO & Vice Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1160251, 'exercisedValue': 0, 'unexercisedValue': 63470}, {'maxAge': 1, 'name': 'Mr. Steven D. Metzger', 'age': 45, 'title': 'President, Executive VP, Secretary, Chief Administrative Officer & General Counsel', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 850291, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn R. Phillips', 'age': 60, 'title': 'Senior VP, Regional Partner and Head of Strategic & Corporate Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 566879, 'exercisedValue': 217700, 'unexercisedValue': 139194}, {'maxAge': 1, 'name': 'Mr. L. Kian Granmayeh', 'age': 44, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adeola  Olaniyan', 'age': 44, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob P. Franch', 'age': 49, 'title': 'Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shane T. Pudenz', 'age': 33, 'title': 'Senior Vice President of Sales & Marketing', 'yearBorn': 1990, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Donald Elliott', 'age': 62, 'title': 'Senior VP & Regional Partner of West', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 448127, 'exercisedValue': 0, 'unexercisedValue': 172830}, {'maxAge': 1, 'name': 'Ms. Peggy  Schappaugh', 'age': 47, 'title': 'Senior Vice President of Operations & Acquisition Analysis', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.45
+dividendYield§0.0182
+exDividendDate§1698969600
+payoutRatio§0.2332
+fiveYearAvgDividendYield§1.34
+beta§0.918
+priceToSalesTrailing12Months§0.9799818
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.3
+pegRatio§0.85
+exchange§NYQ
+quoteType§EQUITY
+shortName§Carriage Services, Inc.
+longName§Carriage Services, Inc.
+firstTradeDateEpochUtc§839597400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cc8d68c5-51c4-39a6-9531-3e07de4deafd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§28.0
+targetMeanPrice§36.0
+targetMedianPrice§38.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.52
+earningsGrowth§-0.211
+grossMargins§0.35788
+ebitdaMargins§0.26849002
+trailingPegRatio§0.6948

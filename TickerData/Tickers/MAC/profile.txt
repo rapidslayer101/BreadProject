@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 21:31:11.513906
+address1§401 Wilshire Boulevard
+address2§Suite 700
+city§Santa Monica
+state§CA
+zip§90401-1452
+country§United States
+phone§310 394 6000
+fax§310 395 2791
+website§https://www.macerich.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Macerich is a fully integrated, self-managed and self-administered real estate investment trust (REIT). As a leading owner, operator and developer of high-quality retail real estate in densely populated and attractive U.S. markets, Macerich's portfolio is concentrated in California, the Pacific Northwest, Phoenix/Scottsdale, and the Metro New York to Washington, D.C. corridor. Developing and managing properties that serve as community cornerstones, Macerich currently owns 47 million square feet of real estate consisting primarily of interests in 44 regional town centers. Macerich is firmly dedicated to advancing environmental goals, social good and sound corporate governance. A recognized leader in sustainability, Macerich has achieved a #1 Global Real Estate Sustainability Benchmark (GRESB) ranking for the North American retail sector for nine consecutive years (2015-2023).
+fullTimeEmployees§650
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Thomas E. O'Hern CPA", 'age': 67, 'title': 'CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 2869417, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward C. Coppola', 'age': 68, 'title': 'President & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 2698736, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott W. Kingsmore', 'age': 55, 'title': 'Senior EVP, CFO & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1210649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann C. Menard', 'age': 59, 'title': 'Senior EVP, Chief Legal Officer & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1204611, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas J. Healey', 'age': 60, 'title': 'Senior EVP & Head of Leasing', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1155541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Zecchini', 'age': 59, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Samantha  Greening', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Olivia Bartel Leigh', 'title': 'Executive Vice President of Portfolio Operations & People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert F. Beffa', 'age': 63, 'title': 'Senior Vice President of Real Estate', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth L. Volk', 'age': 60, 'title': 'Executive Vice President of Business Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 970964, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.68
+dividendYield§0.045500003
+exDividendDate§1699401600
+payoutRatio§2.5
+fiveYearAvgDividendYield§9.8
+beta§2.296
+priceToSalesTrailing12Months§4.6597834
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.18
+pegRatio§-58.33
+exchange§NYQ
+quoteType§EQUITY
+shortName§Macerich Company (The)
+longName§The Macerich Company
+firstTradeDateEpochUtc§763309800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2e25c285-356c-3b0e-9878-5a1377027d79
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§8.0
+targetMeanPrice§13.21
+targetMedianPrice§13.25
+recommendationMean§3.4
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.204
+grossMargins§0.45312
+ebitdaMargins§0.42889
+trailingPegRatio§None

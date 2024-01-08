@@ -1,0 +1,62 @@
+# reload+after+2024-01-22 04:26:29.704310
+address1§411 Theodore Fremd Avenue
+address2§Suite 300
+city§Rye
+state§NY
+zip§10580-1412
+country§United States
+phone§914 288 8100
+fax§914 428 2760
+website§https://www.acadiarealty.com
+industry§REIT - Retail
+industryKey§reit-retail
+industryDisp§REIT - Retail
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Acadia Realty Trust is an equity real estate investment trust focused on delivering long-term, profitable growth via its dual - Core Portfolio and Fund - operating platforms and its disciplined, location-driven investment strategy. Acadia Realty Trust is accomplishing this goal by building a best-in-class core real estate portfolio with meaningful concentrations of assets in the nation's most dynamic corridors; making profitable opportunistic and value-add investments through its series of discretionary, institutional funds; and maintaining a strong balance sheet.
+fullTimeEmployees§115
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kenneth F. Bernstein', 'age': 62, 'title': 'President, CEO & Trustee', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2545988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Gottfried CPA', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1454165, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph M. Napolitano', 'age': 58, 'title': 'Chief Administrative Officer & Senior VP', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 858050, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Blacksberg Esq.', 'age': 47, 'title': 'Executive VP, Corporate Secretary & Chief Legal Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1039126, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Reginald  Livingston', 'title': 'Senior VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard M. Hartmann', 'title': 'Chief Accounting Officer & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Moore Esq.', 'title': 'Senior VP of Leasing Operations & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lesley  Valente', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Nelsen Sr.', 'age': 76, 'title': 'Senior Vice President of Accounting & Financial Principal', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 482852, 'exercisedValue': 0, 'unexercisedValue': 38761}, {'maxAge': 1, 'name': 'Mr. Joseph  Hogan', 'age': 72, 'title': 'Senior VP & Director of Construction', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 247775, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0428
+exDividendDate§1703721600
+payoutRatio§3.0
+fiveYearAvgDividendYield§4.46
+beta§1.52
+priceToSalesTrailing12Months§5.130977
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.15
+pegRatio§25.47
+lastDividendValue§0.18
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Acadia Realty Trust
+longName§Acadia Realty Trust
+firstTradeDateEpochUtc§738509400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dc558617-90da-392e-95d3-a4e65c5be8d9
+messageBoardId§finmb_333191
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§17.0
+targetMedianPrice§17.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.791
+grossMargins§0.69061995
+ebitdaMargins§0.56071
+trailingPegRatio§None

@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 11:31:57.969993
+address1§1331 Spring Street, NW
+address2§Suite 2500
+city§Atlanta
+state§GA
+zip§30309
+country§United States
+phone§(404) 892-0896
+website§https://www.invesco.com/portal/site/us/investors/closed-end/product-detail?productId=30303
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Invesco Municipal Income Opportunities Trust is a closed-ended fixed income mutual fund launched by Invesco Ltd. The fund is co-managed by Invesco Advisers, Inc., INVESCO Asset Management Deutschland GmbH, INVESCO Asset Management Limited, INVESCO Asset Management (Japan) Limited, Invesco Hong Kong Limited, INVESCO Senior Secured Management, Inc., and Invesco Canada Ltd. It invests in the fixed income markets of the United States. The fund primarily invests in municipal bonds rated BB or better by Standard & Poor's or Ba or better by Moody's. It employs fundamental analysis with bottom-up security selection approach to create its portfolio. The fund was previously known as Morgan Stanley Municipal Income Opportunities Trust. Invesco Municipal Income Opportunities Trust was formed on September 19, 1988 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Russell C. Burk', 'age': 65, 'title': 'Senior Vice President and Senior Officer', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark E. Paris', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Stryker CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julius D. Williams', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James D. Phillips', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Connelly', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Tim  O'Reilly", 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.048699997
+exDividendDate§1705363200
+payoutRatio§3.3773
+fiveYearAvgDividendYield§5.18
+beta§0.684
+priceToSalesTrailing12Months§14.681774
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Invesco Municipal Income Opport
+longName§Invesco Municipal Income Opportunities Trust
+firstTradeDateEpochUtc§590679000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§89ab2624-1f66-3f74-b54e-fc9d64a8ae96
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§14.658
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

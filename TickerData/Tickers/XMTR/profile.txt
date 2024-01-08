@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 09:48:04.189012
+address1§6116 Executive Blvd
+address2§Suite 800
+city§North Bethesda
+state§MD
+zip§20852
+country§United States
+phone§240 252 1138
+website§https://www.xometry.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Xometry, Inc. operates an online marketplace that enables buyers to source manufactured parts and assemblies in the United States and internationally. It provides computer numerical control manufacturing, sheet metal forming, and sheet cutting; 3D printing, including fused deposition modeling, direct metal laser sintering, PolyJet, stereolithography, selective laser sintering, binder jetting, carbon digital light synthesis, and multi jet fusion; and die casting, stamping, injection molding, urethane casting, tube cutting, and tube bending, as well as finishing services, rapid prototyping, and high-volume production services. It serves defense, aerospace, healthcare, consumer goods, robotics, government and education, automotive, consumer goods, and industrial industries. The company was formerly known as NextLine Manufacturing Corp. and changed its name to Xometry, Inc. in June 2015. Xometry, Inc. was incorporated in 2013 and is headquartered in North Bethesda, Maryland.
+fullTimeEmployees§914
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Randolph Brody Altschuler', 'age': 52, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 462408, 'exercisedValue': 1568943, 'unexercisedValue': 8717752}, {'maxAge': 1, 'name': 'Mr. Laurence Gregg Zuriff', 'age': 55, 'title': 'Co-Founder, MD of Donor Advised Fund & ESG Initiatives and Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Rallo CPA', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 417985, 'exercisedValue': 6360631, 'unexercisedValue': 3474574}, {'maxAge': 1, 'name': 'Mr. Peter  Goguen', 'age': 59, 'title': 'Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 362037, 'exercisedValue': 1563980, 'unexercisedValue': 158920}, {'maxAge': 1, 'name': 'Mr. Matthew  Leibel', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'totalPay': 406795, 'exercisedValue': 335900, 'unexercisedValue': 2167652}, {'maxAge': 1, 'name': 'Mr. Shawn Christopher Milne', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristie  Scott', 'title': 'Secretary & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathy  Mayerhofer', 'age': 60, 'title': 'Chief Sales Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophia  MacDonald', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Sterne', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.981
+priceToSalesTrailing12Months§3.605405
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.24
+pegRatio§-1.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Xometry, Inc.
+longName§Xometry, Inc.
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc782200-dc1f-3a06-9e74-7ead28c4e76c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§17.0
+targetMeanPrice§27.75
+targetMedianPrice§27.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§5.027
+grossMargins§0.38159
+ebitdaMargins§-0.16272
+trailingPegRatio§None

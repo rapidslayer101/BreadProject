@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 01:47:24.636118
+address1§650 South 500 West
+address2§Suite 150
+city§Salt Lake City
+state§UT
+zip§84101
+country§United States
+phone§888 927 7296
+website§https://www.sarcos.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§Sarcos Technology and Robotics Corporation designs, develops, and manufactures various advanced robotic systems. Its robotic systems redefine human possibilities and are designed to enable the most productive workforce. The company's products include Guardian XO, a full-body powered exoskeleton to augment user strength, endurance, and precision without materially restricting freedom of movement; Guardian XT, a teleoperated mobile robotic system; Guardian GT, a custom product; Guardian S, a remote-controlled visual inspection and surveillance robotic system; Guardian DX for defense logistics and maintenance applications; Guardian XM, an intelligent manipulator; Guardian sea class robotic system; and Guardian HLS, a pneumatic rescue and recovery system. It serves aviation, construction and surface preparation, defense, maritime, power and utilities, and solar field construction. Sarcos Technology and Robotics Corporation is based in Salt Lake City, Utah.
+fullTimeEmployees§280
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Laura J. Peterson', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 57500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin G. Wolff', 'age': 54, 'title': 'Co-Founder, Executive Vice Chairman & Non-Employee Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 561255, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Dunn Hamer B.S., CPA, M.S', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 367630, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Fraser  Smith', 'age': 63, 'title': 'Co-Founder & Chief Innovation Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 457219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Denis  Garagic', 'age': 53, 'title': 'Chief Technology Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Sonne J.D.', 'title': 'Chief Legal Officer & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James F. Geurts', 'title': 'Executive Vice Chairman', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Vogt', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.424
+priceToSalesTrailing12Months§1.5264387
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.87
+exchange§NGM
+quoteType§EQUITY
+shortName§Sarcos Technology and Robotics 
+longName§Sarcos Technology and Robotics Corporation
+firstTradeDateEpochUtc§1632749400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fb776a6c-37db-3315-998c-bae128df68e4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.0
+targetLowPrice§1.0
+targetMeanPrice§1.0
+targetMedianPrice§1.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§7.387
+grossMargins§0.27497998
+ebitdaMargins§0.0
+trailingPegRatio§None

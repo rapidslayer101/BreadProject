@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 20:33:49.102709
+address1§14221 North Dallas Parkway
+address2§Suite 1100
+city§Dallas
+state§TX
+zip§75254-2957
+country§United States
+phone§214 631 4420
+website§https://www.trin.net
+industry§Railroads
+sector§Industrials
+longBusinessSummary§Trinity Industries, Inc. provides rail transportation products and services under the TrinityRail name in North America. It operates in two segments, Railcar Leasing and Management Services Group, and Rail Products Group. The Railcar Leasing and Management Services Group segment leases freight and tank railcars; originates and manages railcar leases for third-party investors; and provides fleet maintenance and management services. As of December 31, 2022, it had a fleet of 108,440 railcars. This segment serves industrial shipper and railroad companies operating in agriculture, construction and metals, consumer products, energy, and refined products and chemicals markets. The Rail Products Group segment manufactures freight and tank railcars for transporting various liquids, gases, and dry cargo; and offers railcar maintenance and modification services. This segment serves railroads, leasing companies, and industrial shippers of products in the agriculture, construction and metals, consumer products, energy, and refined products and chemicals markets. It sells or leases products and services through its own sales personnel and independent sales representatives. Trinity Industries, Inc. was incorporated in 1933 and is headquartered in Dallas, Texas.
+fullTimeEmployees§9215
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. E. Jean Savage', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1726695, 'exercisedValue': 0, 'unexercisedValue': 2388000}, {'maxAge': 1, 'name': 'Mr. Eric R. Marchetto', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 959246, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Poet', 'age': 56, 'title': 'Executive Vice President of Operations & Support Services', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 723254, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory B. Mitchell', 'age': 57, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 736768, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven L. McDowell', 'age': 61, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Heidi  Cox', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leigh Anne Mann', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Ewing', 'title': 'Executive Vice President & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  Pittman', 'title': 'Chief Compliance Officer & Head of ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Mark Cox', 'age': 55, 'title': 'Executive Vice President of Corporate Development', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.12
+dividendYield§0.0427
+exDividendDate§1704931200
+payoutRatio§0.9439
+fiveYearAvgDividendYield§3.32
+beta§1.383
+priceToSalesTrailing12Months§0.77342415
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.95
+pegRatio§2.11
+exchange§NYQ
+quoteType§EQUITY
+shortName§Trinity Industries, Inc.
+longName§Trinity Industries, Inc.
+firstTradeDateEpochUtc§105283800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§974e77e3-e6fe-34fe-ad5f-199e8f6f521b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§30.0
+targetMeanPrice§31.0
+targetMedianPrice§31.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.821
+earningsGrowth§-0.167
+grossMargins§0.16826001
+ebitdaMargins§0.20017
+trailingPegRatio§None

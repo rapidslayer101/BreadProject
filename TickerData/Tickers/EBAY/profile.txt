@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 12:44:29.195803
+address1§2025 Hamilton Avenue
+city§San Jose
+state§CA
+zip§95125
+country§United States
+phone§408 376 7108
+website§https://www.ebayinc.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§eBay Inc. operates marketplace platforms that connect buyers and sellers in the United States and internationally. The company's marketplace platform includes its online marketplace at ebay.com and the eBay suite of mobile apps. Its platforms enable users to list, buy, and sell various products. The company was founded in 1995 and is headquartered in San Jose, California.
+fullTimeEmployees§11600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jamie J. Iannone', 'age': 50, 'title': 'CEO, President & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 3099563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen J. Priest', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3634728, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cornelius  Boone', 'age': 43, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2110226, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie A. Loeger', 'age': 59, 'title': 'Senior VP & Chief Growth Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2143840, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eddie  Garcia', 'title': 'Senior VP & Chief Product Officer', 'fiscalYear': 2022, 'totalPay': 3430696, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Spencer', 'age': 45, 'title': 'VP, Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mazen  Al-Rawashdeh', 'age': 57, 'title': 'Senior VP & CTO', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Billante', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marie Oh Huber', 'age': 62, 'title': 'Senior VP, Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2985987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Sweetnam', 'title': 'Senior Vice President of Global Markets', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§9
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0234
+exDividendDate§1701302400
+payoutRatio§0.19479999
+beta§1.341
+priceToSalesTrailing12Months§2.2075555
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.31
+pegRatio§1.45
+exchange§NMS
+quoteType§EQUITY
+shortName§eBay Inc.
+longName§eBay Inc.
+firstTradeDateEpochUtc§906643800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6cf6bfa4-6efa-3ac5-bd50-e46cbdb24cb5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§56.0
+targetLowPrice§32.0
+targetMeanPrice§45.22
+targetMedianPrice§45.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§24
+quickRatio§2.052
+grossMargins§0.72126997
+ebitdaMargins§0.2667
+trailingPegRatio§None

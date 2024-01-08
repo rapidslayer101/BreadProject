@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 20:45:22.398648
+address1§200 Bellevue Parkway
+address2§Suite 300
+city§Wilmington
+state§DE
+zip§19809-3727
+country§United States
+phone§302 281 3600
+fax§302 281 3763
+website§https://www.interdigital.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§InterDigital, Inc. operates as a global research and development company with focus primarily on wireless, visual, and related technologies. It designs and develops technologies that enable connected in a range of communications and entertainment products and services. It licenses or intend to license its innovations to companies providing products and services, including wireless communications, consumer electronics, personal computer, and automotive, as well as cloud-based services, such as video streaming. It designs and develops a range of innovations for use in digital cellular and wireless products and networks, including 2G, 3G, 4G, 5G, and IEEE 802-related products and networks. The company also develops cellular technologies, such as technologies related to CDMA, TDMA, OFDM/OFDMA, and MIMO for use in 2G, 3G, 4G, and 5G wireless networks, as well as mobile terminal devices; and 3GPP technology portfolio in 5G, 5G, advanced and 6G, as well as technologies for automobiles, wearables, smart homes, drones, and other connected consumer electronic products. In addition, it provides video coding and transmission technologies; and engages in the research and development of artificial intelligence. Further, the company's patented technologies are used in various products that include smartphones, tablets, consumer electronics, and base stations; televisions, laptops, gaming consoles, set-top boxes, streaming devices, and connected automobiles. InterDigital, Inc. was incorporated in 1972 and is headquartered in Wilmington, Delaware.
+fullTimeEmployees§425
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lawrence  Chen', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2624762, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Brezski', 'age': 50, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1033367, 'exercisedValue': 109579, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rajesh  Pankaj', 'age': 58, 'title': 'Executive VP & CTO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1271317, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eeva K. Hakoranta', 'age': 58, 'title': 'Executive VP & Chief Licensing Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 984236, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael G. Cortino', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raiford  Garrabrant C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua D. Schmidt', 'age': 39, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Stien', 'title': 'Executive VP & Chief Communications and Public Policy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Skip  Maloney', 'title': 'Executive VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xiaofei  Wang', 'title': 'Chair of the Topic Interest Group for AIML & Secretary for IEEE 802.11bc Task Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0153
+exDividendDate§1704758400
+payoutRatio§0.1928
+fiveYearAvgDividendYield§2.22
+beta§1.329
+priceToSalesTrailing12Months§4.7789974
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.03
+pegRatio§0.75
+exchange§NMS
+quoteType§EQUITY
+shortName§InterDigital, Inc.
+longName§InterDigital, Inc.
+firstTradeDateEpochUtc§374423400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§02eae3d6-a042-3938-a680-f4ad5753791b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§125.0
+targetLowPrice§106.0
+targetMeanPrice§117.25
+targetMedianPrice§119.0
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§2.76
+earningsGrowth§1.324
+grossMargins§0.85796
+ebitdaMargins§0.55782
+trailingPegRatio§1.2629

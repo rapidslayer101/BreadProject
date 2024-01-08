@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 19:36:09.416425
+address1§Telford House
+address2§Corner Hall
+city§Hemel Hempstead
+zip§HP3 9HN
+country§United Kingdom
+phone§44 14 4245 8300
+website§https://www.eckoh.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Eckoh plc, together with its subsidiaries, provides customer engagement data and payment security solutions in the United Kingdom, the United States, Canada, Ireland, and internationally. The company offers CallGuard, a telephone payment security product for securing phone payments; Secure Call Recording solution to record and redact customer conversations securely; Payment IVR solution enables customers to make payments over the phone using self-service automation; Secure Chat and ChatGuard solution; Digital Payments that enables secure payments through any channel; and DataGuard that protects sensitive data from security or fraud risk. It serves retail and hospitality, banking and insurance, energy and utilities, telecoms and media, transport and logistics, public sector, and manufacturing industries. The company was incorporated in 1997 and is headquartered in Hemel Hempstead, the United Kingdom.
+fullTimeEmployees§188
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nicholas Barnaby Philpot', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 453000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine Gillian Herbert', 'age': 52, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 281000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ed  Johnson', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Crawford', 'title': 'Senior Vice President of Technology & Engineering', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ruth  Oakey', 'title': 'Global Marketing Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kyle  Coury', 'title': 'Vice President of Finance & HR', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lyndsay  Lang', 'title': 'Head of Human Resources - US', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ashley  Burton', 'title': 'Head of Product', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Winston  Taylor', 'title': 'Head of Project Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Tyler  O'Brien", 'title': 'Senior Vice President of US Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.019199999
+exDividendDate§1695254400
+payoutRatio§0.6016
+fiveYearAvgDividendYield§1.1
+beta§0.159
+priceToSalesTrailing12Months§2.9805865
+currency§GBp
+forwardEps§2.33
+pegRatio§0.32
+exchange§LSE
+quoteType§EQUITY
+shortName§ECKOH PLC ORD 0.25P
+longName§Eckoh plc
+firstTradeDateEpochUtc§944121600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7829a452-6da4-3e60-80af-d13e9e09a442
+targetHighPrice§92.0
+targetLowPrice§50.0
+targetMeanPrice§67.33
+targetMedianPrice§60.0
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§1.271
+earningsGrowth§-0.433
+grossMargins§0.82141
+ebitdaMargins§0.22540002
+trailingPegRatio§None

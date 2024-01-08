@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 16:29:33.672275
+address1§1001 Liberty Avenue
+city§Pittsburgh
+state§PA
+zip§15222
+country§United States
+phone§412-288-1900
+fax§412-288-3939
+website§https://www.federatedinvestors.com/FII/closedendfunds/details/overview.do?basketid=10461
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Federated Premier Municipal Income Fund is a closed-ended fixed income mutual fund launched by Federated Investors, Inc. The fund is managed by Federated Investment Management Company. It invests in fixed income markets of United States. The fund primarily invests in tax-exempt municipal bonds of GO state, GO local, special tax, hospital, transportation, pre-refunded, senior care, water and sewer, education, electric and gas, and public power sectors. It benchmarks the performance of its portfolio against S&P Municipal Bond Index. Federated Premier Municipal Income Fund was formed on December 20, 2002 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Christopher Donahue', 'age': 74, 'title': 'Principal Executive Officer, President and Interested Trustee', 'yearBorn': 1949, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duwayne  Walker', 'title': 'Assistant Vice President', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Jo Ochson CFA', 'age': 70, 'title': 'Portfolio Manager', 'yearBorn': 1953, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee R. Cunningham II', 'age': 59, 'title': 'Portfolio Manager', 'yearBorn': 1964, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. J. Gallo C.F.A.', 'age': 54, 'title': 'Portfolio Manager', 'yearBorn': 1969, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1356912000
+maxAge§86400
+priceHint§2
+dividendRate§0.42
+dividendYield§0.0381
+exDividendDate§1703116800
+payoutRatio§0.8
+fiveYearAvgDividendYield§4.66
+beta§0.518
+priceToSalesTrailing12Months§12.996088
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Federated Premier Municipal Inc
+longName§Federated Hermes Premier Municipal Income Fund
+firstTradeDateEpochUtc§1040394600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a7f4a63-ecbb-3a91-b7ad-29be6b010586
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.509
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

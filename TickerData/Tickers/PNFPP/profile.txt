@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 05:46:40.926680
+address1§150 Third Avenue South
+address2§Suite 900
+city§Nashville
+state§TN
+zip§37201
+country§United States
+phone§615 744 3700
+website§https://www.pnfp.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Pinnacle Financial Partners, Inc., together with its subsidiaries, operates as the bank holding company for Pinnacle Bank that provides various banking products and services to individuals, businesses, and professional entities in the United States. The company accepts various deposits, including savings, noninterest-bearing and interest-bearing checking, money market, and certificate of deposit accounts. Its loan products include equipment and working capital loans; commercial real estate loans comprising investment properties and business loans secured by real estate; secured and unsecured loans, such as installment and term, residential first mortgage, and home equity loans, as well as lines of credit and home equity lines of credit; and credit cards for consumers and businesses. The company also offers various securities and other financial products; investment products; brokerage and investment advisory programs; and fiduciary and investment management services, such as personal trust, investment management, estate administration, endowments, foundations, individual retirement accounts, escrow services, and custody. In addition, it provides insurance agency services primarily in the property and casualty area; merger and acquisition advisory services; and private debt, equity and mezzanine, and other middle-market advisory services. Further, the company offers treasury management, telephone and online banking, mobile banking, debit and credit cards, direct deposit and remote deposit capture, mobile deposit option, automated teller machine, and cash management services. Pinnacle Financial Partners, Inc. was incorporated in 2000 and is headquartered in Nashville, Tennessee.
+fullTimeEmployees§3329
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert A. McCabe Jr.', 'age': 72, 'title': 'Co-Founder & Chairman', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 2714716, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Terry Turner', 'age': 68, 'title': 'President, CEO & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 2897021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harold R. Carpenter Jr.', 'age': 63, 'title': 'Executive VP, CFO & Principal Accounting Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1167009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard D. Callicutt II', 'age': 64, 'title': 'Chairman for the Carolinas & Virginia and Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1483487, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mac  Johnston', 'title': 'Senior Economic & Market Analyst', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randall L. Withrow', 'title': 'Chief Information Officer, Senior VP, Chief Solutions Officer & EVP of Bank Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary W. Schneider', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine C. Stallings', 'title': 'Chief Legal Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nikki  Minges', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patti  Harris', 'title': 'Senior VP & Human Resources Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.69
+dividendYield§0.0735
+exDividendDate§1700006400
+beta§1.14
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Pinnacle Financial Partners, In
+longName§Pinnacle Financial Partners, Inc.
+firstTradeDateEpochUtc§1590672600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6aa409bb-0a6e-3bd0-97bc-31e8cf5e9251
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.115
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

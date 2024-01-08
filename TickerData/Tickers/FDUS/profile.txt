@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 14:44:43.638681
+address1§1603 Orrington Avenue
+address2§Suite 1005
+city§Evanston
+state§IL
+zip§60201
+country§United States
+phone§847-859-3940
+fax§847-859-3953
+website§https://www.fdus.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Fidus Investment Corporation is a business development company. It specializing in leveraged buyouts, refinancings, change of ownership transactions, recapitalizations, strategic acquisitions, mezzanine, growth capital, business expansion, lower middle market investments, debt investments, subordinated and second lien loans, senior secured and unitranche debt, preferred equity, warrants, subordinated debt, senior subordinated notes, junior secured loans, and unitranche loans. It does not invest in turnarounds or distressed situations. The fund prefers to invest in aerospace and defense, business services, consumer products and services including retail, food, and beverage, healthcare products and services, industrial products and services, information technology services, niche manufacturing, transportation and logistics, and value-added distribution sectors. It seeks to invest in companies based in United States. The fund typically invests between $5 million and $15 million per transaction in companies with annual revenues between $10 million and $150 million and an annual EBITDA between $3 million and $20 million, but it can occasionally invest in larger or smaller companies. It seeks to acquire minority equity stakes and board observation rights in conjunction with its investments.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward H. Ross', 'age': 57, 'title': 'Chairman of the Board, Interested Director & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Lauer', 'age': 55, 'title': 'President, MD & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelby Elizabeth Sherard CPA', 'age': 53, 'title': 'CFO, Chief Compliance Officer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda  Armstrong', 'title': 'Accounting Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jody  Burfening', 'title': 'Investor Relations Contact', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Andrew Worth', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Steiglehner', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew G. Shehorn', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Joseph Ross II', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig J. Petrusha', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.8
+dividendYield§0.1399
+exDividendDate§1702944000
+payoutRatio§1.0505
+fiveYearAvgDividendYield§9.93
+beta§1.479
+priceToSalesTrailing12Months§4.694817
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.32
+pegRatio§2.66
+exchange§NMS
+quoteType§EQUITY
+shortName§Fidus Investment Corporation
+longName§Fidus Investment Corporation
+firstTradeDateEpochUtc§1308663000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a7b2962f-fdfa-38ed-8a23-19933477a5a3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§19.0
+targetMeanPrice§20.92
+targetMedianPrice§21.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.225
+earningsGrowth§0.952
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

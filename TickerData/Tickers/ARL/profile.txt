@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 00:26:44.352748
+address1§One Hickory Centre
+address2§Suite 800 1603 Lyndon B Johnson Freeway
+city§Dallas
+state§TX
+zip§75234
+country§United States
+phone§469 522 4200
+fax§469 522 4240
+website§https://www.americanrealtyinvest.com
+industry§Real Estate - Development
+industryKey§real-estate-development
+industryDisp§Real Estate - Development
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§American Realty Investors, Inc., together with its subsidiaries, acquires, develops, and owns multifamily apartment communities and commercial real estate properties in the southwestern, southeastern, and mid-western United States. The company leases apartment units to residents; and leases office, industrial, and retail space to various for-profit businesses, as well as local, state, and federal agencies; and sells land and properties. As of December 31, 2021, its portfolio included five commercial properties comprising four office buildings and one retail properties; nine multifamily apartment communities consisting of 1,492 units; and fifty-two multifamily apartment communities totaling 10,281 units. The company also owns or controls 1,886 acres of developed and undeveloped land. American Realty Investors, Inc. was founded in 1999 and is headquartered in Dallas, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Erik L. Johnson', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gina H. Kay', 'title': 'Executive VP & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Louis Joseph Corna', 'age': 76, 'title': 'Executive VP, General Counsel, Tax Counsel & Secretary', 'yearBorn': 1947, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.752
+priceToSalesTrailing12Months§6.2256923
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.05
+lastDividendDate§921715200
+exchange§NYQ
+quoteType§EQUITY
+shortName§American Realty Investors, Inc.
+longName§American Realty Investors, Inc.
+firstTradeDateEpochUtc§388247400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1aa0a2e5-50e2-3cde-a0a7-af5163785a2c
+messageBoardId§finmb_250607
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.49
+earningsGrowth§-0.99
+grossMargins§0.4786
+ebitdaMargins§0.14724
+trailingPegRatio§None

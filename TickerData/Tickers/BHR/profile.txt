@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 17:27:16.787222
+address1§14185 Dallas Parkway
+address2§Suite 1200
+city§Dallas
+state§TX
+zip§75254-4308
+country§United States
+phone§972 490 9600
+fax§972 490 9605
+website§https://www.bhrreit.com
+industry§REIT - Hotel & Motel
+industryKey§reit-hotel-motel
+industryDisp§REIT - Hotel & Motel
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Braemar Hotels & Resorts Inc. is a real estate investment trust (REIT) focused on investing in luxury hotels and resorts.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Montgomery Jack Bennett IV', 'age': 57, 'title': 'Founder & Chairman of the Board', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3146180, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Stockton', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 422556, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deric S. Eubanks C.F.A.', 'age': 47, 'title': 'CFO & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 203949, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Rose', 'age': 37, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 82237, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jordan  Jennings', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher  Nixon', 'title': 'Senior VP & Head of Asset Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Allen Plohg J.D.', 'title': 'Associate General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.2
+dividendYield§0.08
+exDividendDate§1703721600
+payoutRatio§0.375
+fiveYearAvgDividendYield§7.09
+beta§2.278
+priceToSalesTrailing12Months§0.28857988
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.9
+pegRatio§-0.18
+lastDividendValue§0.05
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Braemar Hotels & Resorts Inc.
+longName§Braemar Hotels & Resorts Inc.
+firstTradeDateEpochUtc§1383748200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5a0af4e3-78f8-3505-816b-f3a56bec6d28
+messageBoardId§finmb_241785161
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§3.0
+targetMeanPrice§5.67
+targetMedianPrice§3.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.372
+grossMargins§0.27995002
+ebitdaMargins§0.21265
+trailingPegRatio§None

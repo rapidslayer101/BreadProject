@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 10:45:41.848022
+address1§50 Enterprise Center
+city§Middletown
+state§RI
+zip§02842
+country§United States
+phone§401 847 3327
+fax§401 849 0045
+website§https://www.kvh.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§KVH Industries, Inc., together with its subsidiaries, designs, develops, manufactures, and markets mobile connectivity products and services for the marine and land mobile markets in the United States and internationally. The company offers TracVision, a satellite television system for vessels and vehicles; TracNet, an integrated hybrid two-way communication terminal with VSAT, 5G/LTE, and shore-based Wi-Fi; KVH ONE, a global hybrid communication network supporting Internet, VoIP, content delivery, and other; TracPhone, a two-way VSAT-only satellite communications system; KVH Link, a crew wellbeing content subscription service with delivery by IP-Mobilecast; NEWSlink, a maritime news delivery service; SPORTSlink, a sporting content delivered; TVlink, a  television programming delivered; MOVIElink, a movie distribution; MUSIClink, a music and karaoke delivered; CommBox, data management software for maritime communications; and KVH OneCare, a services and support for TracNet and TracPhone systems. The company sells its mobile communications products through a network of independent retailers, chain stores, distributors, and service providers, as well as to manufacturers of vessels, maritime equipment, and vehicles. KVH Industries, Inc. was founded in 1978 and is headquartered in Middletown, Rhode Island.
+fullTimeEmployees§351
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brent C. Bruun', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 936372, 'exercisedValue': 0, 'unexercisedValue': 161317}, {'maxAge': 1, 'name': 'Mr. Roger A. Kuebel', 'age': 60, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 828986, 'exercisedValue': 0, 'unexercisedValue': 20855}, {'maxAge': 1, 'name': 'Ms. Felise B. Feingold', 'age': 54, 'title': 'Senior VP, General Counsel, Compliance Officer, Chief Data Privacy Officer & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 836358, 'exercisedValue': 0, 'unexercisedValue': 106386}, {'maxAge': 1, 'name': 'Mr. Robert J. Balog', 'age': 60, 'title': 'Chief Operating Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 363120, 'exercisedValue': 0, 'unexercisedValue': 20806}, {'maxAge': 1, 'name': 'Mr. Daniel R. Conway', 'age': 69, 'title': 'Executive Vice President of Inertial Navigation Group', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 333588, 'exercisedValue': 0, 'unexercisedValue': 24345}, {'maxAge': 1, 'name': 'Ms. Anneley  Pickles', 'title': 'Head of Business Development for Crewlink & Projects', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§2
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.665
+priceToSalesTrailing12Months§0.7050035
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.05
+pegRatio§-0.88
+exchange§NMS
+quoteType§EQUITY
+shortName§KVH Industries, Inc.
+longName§KVH Industries, Inc.
+firstTradeDateEpochUtc§828455400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fe5df8cf-9b5f-3b9b-87b4-2fab8486855b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§7.0
+targetMeanPrice§7.0
+targetMedianPrice§7.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§3.831
+grossMargins§0.36117
+ebitdaMargins§0.12
+trailingPegRatio§None

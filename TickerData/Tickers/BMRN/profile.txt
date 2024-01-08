@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 02:43:43.618812
+address1§770 Lindaro Street
+city§San Rafael
+state§CA
+zip§94901
+country§United States
+phone§415 506 6700
+website§https://www.biomarin.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§BioMarin Pharmaceutical Inc. develops and commercializes therapies for people with serious and life-threatening rare diseases and medical conditions. Its commercial products include Vimizim, an enzyme replacement therapy for the treatment of mucopolysaccharidosis (MPS) IV type A, a lysosomal storage disorder; Naglazyme, a recombinant form of N-acetylgalactosamine 4-sulfatase for patients with MPS VI; and Kuvan, a proprietary synthetic oral form of 6R-BH4 that is used to treat patients with phenylketonuria (PKU), an inherited metabolic disease. The company's commercial products also comprise Palynziq, a PEGylated recombinant phenylalanine ammonia lyase enzyme, which is delivered through subcutaneous injection to reduce blood Phe concentrations; Brineura, a recombinant human tripeptidyl peptidase 1 for the treatment of patients with ceroid lipofuscinosis type 2, a form of Batten disease; Voxzogo, a once daily injection analog of c-type natriuretic peptide for the treatment of achondroplasia; and Aldurazyme, a purified protein designed to be identical to a naturally occurring form of the human enzyme alpha-L-iduronidase. In addition, it develops Roctavian, an adeno associated virus vector, for the treatment of patients with severe hemophilia A; BMN 331, an AAV5 mediated gene therapy, which is in Phase 1/2 clinical trial for people living with Hereditary Angioedema (HAE); and BMN 255 that is in Phase 1/2 clinical trial for treating primary hyperoxaluria. The company serves specialty pharmacies, hospitals, and non-U.S. government agencies, as well as distributors and pharmaceutical wholesalers in the United States, Europe, Latin America, and internationally. BioMarin Pharmaceutical Inc. has license and collaboration agreements with Sarepta Therapeutics, Ares Trading S.A., Catalyst Pharmaceutical Partners, Inc., and Asubio Pharma Co., Ltd. The company was incorporated in 1996 and is headquartered in San Rafael, California.
+fullTimeEmployees§3082
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian R. Mueller', 'age': 49, 'title': 'CFO & Executive VP', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1149843, 'exercisedValue': 1086873, 'unexercisedValue': 1299560}, {'maxAge': 1, 'name': 'Mr. George Eric Davis', 'age': 52, 'title': 'Executive VP, Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1231702, 'exercisedValue': 2113615, 'unexercisedValue': 4885664}, {'maxAge': 1, 'name': 'Mr. Jeffrey Robert Ajer', 'age': 61, 'title': 'Chief Commercial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1177663, 'exercisedValue': 0, 'unexercisedValue': 6617921}, {'maxAge': 1, 'name': 'Dr. Henry J. Fuchs M.D., Ph.D.', 'age': 65, 'title': 'President of Worldwide Research & Development', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1488204, 'exercisedValue': 0, 'unexercisedValue': 4684587}, {'maxAge': 1, 'name': 'Mr. Alexander  Hardy', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Burkhart', 'title': 'Group VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kevin  Eggan Ph.D.', 'title': 'Chief Scientific Officer & Senior VP of Research and Early Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Traci  McCarty', 'title': 'Group Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Lo Scalzo', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marni  Kottle', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.365
+priceToSalesTrailing12Months§7.8647103
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.01
+pegRatio§2.3
+exchange§NMS
+quoteType§EQUITY
+shortName§BioMarin Pharmaceutical Inc.
+longName§BioMarin Pharmaceutical Inc.
+firstTradeDateEpochUtc§932995800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bcd60339-c59b-3a43-af89-b10253407aca
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§170.0
+targetLowPrice§78.0
+targetMeanPrice§111.08
+targetMedianPrice§109.95
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§25
+quickRatio§1.46
+grossMargins§0.47201002
+ebitdaMargins§0.096099995
+trailingPegRatio§0.7165

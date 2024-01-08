@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 19:47:18.174474
+address1§675 Almanor Avenue
+city§Sunnyvale
+state§CA
+zip§94085
+country§United States
+phone§650-584-5000
+fax§650-584-8637
+website§https://www.synopsys.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Synopsys, Inc. provides electronic design automation software products used to design and test integrated circuits. It operates in three segments: Design Automation, Design IP, and Software Integrity. The company offers Digital and Custom IC Design solution that provides digital design implementation solutions; Verification solution that offers virtual prototyping, static and formal verification, simulation, emulation, field programmable gate array (FPGA)-based prototyping, and debug solutions; and FPGA design products that are programmed to perform specific functions. It also provides intellectual property (IP) solutions for USB, PCI Express, DDR, Ethernet, MIPI, HDMI, and Bluetooth low energy applications; logic libraries and embedded memories; processor cores, software, and application-specific instruction-set processor tools for embedded applications; security IP solutions; IP solutions for automotive market; and system-on-chip (SoC) infrastructure IP, datapath and building block IP, and verification IP products, as well as mathematical and floating-point components, and Arm AMBA interconnect fabric and peripherals. In addition, the company offers HAPS FPGA-based prototyping systems; virtual prototyping solutions; and Platform Architect solutions for SoC architecture analysis and optimization, as well as optical products, and mechatronic simulations. Further, it provides security and quality testing products, managed services, programs and professional services, and training that enable its customers to detect and remediate security vulnerabilities, and defects in the software development lifecycle, as well as manufacturing solutions. Additionally, the company provides intelligent orchestration solution, software risk manager, and black duck software composition analysis tools. It serves electronics, financial services, automotive, medicine, energy, and industrial areas. The company was incorporated in 1986 and is headquartered in Sunnyvale, California.
+fullTimeEmployees§20300
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Aart J. de Geus', 'age': 69, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 3141050, 'exercisedValue': 48331600, 'unexercisedValue': 54019956}, {'maxAge': 1, 'name': 'Mr. Sassine  Ghazi', 'age': 52, 'title': 'CEO, President, COO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2504050, 'exercisedValue': 3980231, 'unexercisedValue': 32599818}, {'maxAge': 1, 'name': 'Mr. John F. Runkel Jr.', 'age': 67, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 956550, 'exercisedValue': 2770983, 'unexercisedValue': 559253}, {'maxAge': 1, 'name': 'Ms. Shelagh  Glaser', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sudhindra  Kankanwadi', 'age': 52, 'title': 'Senior VP of Finance, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sriram  Sitaraman', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Minooka', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Larsen', 'age': 49, 'title': 'Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deirdre R. Hanford', 'age': 60, 'title': 'Chief Security Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 302160, 'exercisedValue': 126450, 'unexercisedValue': 625167}, {'maxAge': 1, 'name': 'Mr. John  Koeter', 'title': 'Senior Vice President of Marketing and Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.069
+priceToSalesTrailing12Months§12.6116085
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.65
+pegRatio§1.99
+exchange§NMS
+quoteType§EQUITY
+shortName§Synopsys, Inc.
+longName§Synopsys, Inc.
+firstTradeDateEpochUtc§699114600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9ccb8dc8-8e36-3ccd-8fe9-f8920d57610c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§675.0
+targetLowPrice§420.0
+targetMeanPrice§610.64
+targetMedianPrice§624.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.98
+earningsGrowth§1.288
+grossMargins§0.80363
+ebitdaMargins§0.25951
+trailingPegRatio§2.0524

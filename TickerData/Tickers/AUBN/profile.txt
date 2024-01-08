@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 10:43:31.557602
+address1§132 North Gay Street
+city§Auburn
+state§AL
+zip§36830
+country§United States
+phone§334 821 9200
+fax§334 887 2772
+website§https://www.auburnbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Auburn National Bancorporation, Inc. operates as the bank holding company for AuburnBank that provides various banking products and services in East Alabama. Its deposit products include checking, savings, and transaction deposit accounts, as well as certificates of deposit. The company also provides commercial, financial, agricultural, real estate construction, and consumer loan products; and other financial services. In addition, it offers automated teller services; debit cards; online banking, bill payment, and other electronic services; and safe deposit boxes. The company was founded in 1907 and is headquartered in Auburn, Alabama.
+fullTimeEmployees§150
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Hedges', 'age': 44, 'title': 'President, CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2014, 'totalPay': 331588, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Lawrence Smith Jr.', 'age': 54, 'title': 'Senior VP & Chief Lending Officer of AuburnBank', 'yearBorn': 1969, 'fiscalYear': 2014, 'totalPay': 259839, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. C. Wayne Alderman', 'age': 72, 'title': 'Independent Director & Secretary', 'yearBorn': 1951, 'fiscalYear': 2014, 'totalPay': 36900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William James Walker IV', 'age': 54, 'title': 'Senior VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John C. Ham', 'title': 'Senior Vice President', 'fiscalYear': 2014, 'totalPay': 145964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marla L. Kickliter', 'age': 53, 'title': 'Senior VP of Compliance & Internal Auditor of Auburnbank', 'yearBorn': 1970, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Shannon S. O'Donnell", 'age': 53, 'title': 'Chief Risk Officer and Senior VP of Credit Administration', 'yearBorn': 1970, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kris W. Blackmon', 'age': 52, 'title': 'VP, Asset & Liability Manager and Chief Investment Officer, Auburnbank', 'yearBorn': 1971, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerome B. Siegel', 'age': 59, 'title': 'Senior VP of IT & CTO - AuburnBank', 'yearBorn': 1964, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Greg  Pettey', 'title': 'Senior VP of Commercial & Consumer Lending of Tiger Town - AuburnBank', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1419984000
+maxAge§86400
+priceHint§2
+dividendRate§1.08
+dividendYield§0.0502
+exDividendDate§1701907200
+payoutRatio§0.3812
+fiveYearAvgDividendYield§3.27
+beta§0.519
+priceToSalesTrailing12Months§2.2254863
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§Auburn National Bancorporation,
+longName§Auburn National Bancorporation, Inc.
+firstTradeDateEpochUtc§807456600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f3333fea-b93d-3ad9-9a5a-26691d95484e
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.253
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

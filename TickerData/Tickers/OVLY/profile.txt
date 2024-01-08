@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 04:46:30.096461
+address1§125 North Third Avenue
+city§Oakdale
+state§CA
+zip§95361
+country§United States
+phone§209 848 2265
+fax§209 848 1929
+website§https://www.ovcb.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Oak Valley Bancorp operates as the bank holding company for Oak Valley Community Bank that provides a range of commercial banking services to individuals and small to medium-sized businesses in the Central Valley and the Eastern Sierras. The company's deposits products include checking and savings, money market, health savings, and individual retirement accounts, as well as certificates of deposit. It also offers commercial real estate loans, commercial business lending and trade finance, and small business administration lending, as well as consumer loans that include automobile loans, home mortgages, credit lines and other personal loans. In addition, the company provides online and mobile banking, remote deposit capture, merchant, night depository, extended hours, wire transfer of funds, and note collection services, as well as automated teller machines. The company was incorporated in 1990 and is headquartered in Oakdale, California.
+fullTimeEmployees§225
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher M. Courtney', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 745276, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard A. McCarty', 'age': 52, 'title': 'President & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 556975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey A. Gall', 'age': 47, 'title': 'Senior VP, CFO & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 396329, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Rodrigues', 'age': 53, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 458494, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary W. Stephens', 'age': 60, 'title': 'Executive Vice President of Commercial Banking Group', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 445435, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell E. Stahl', 'age': 51, 'title': 'Executive VP of Information Technology & Chief Information Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Nunes Jr.', 'title': 'Senior Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janis L. Powers', 'age': 64, 'title': 'Executive Vice President of Risk Management', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kim  Booke', 'title': 'Senior Vice President of Credit Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie N. DeHart', 'age': 49, 'title': 'Executive Vice President of Retail Banking Group', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0117
+exDividendDate§1690502400
+payoutRatio§0.0764
+fiveYearAvgDividendYield§1.58
+beta§0.352
+priceToSalesTrailing12Months§2.676947
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Oak Valley Bancorp (CA)
+longName§Oak Valley Bancorp
+firstTradeDateEpochUtc§1066224600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2d3ba96a-2725-3e8d-bb0f-1d1641402529
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§0.072
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

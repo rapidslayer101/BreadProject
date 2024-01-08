@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 01:39:43.722852
+address1§6 Europa Court
+address2§Sheffield Business Park
+city§Sheffield
+zip§S9 1XE
+country§United Kingdom
+phone§44 1142 612 900
+website§https://www.mjgleesonplc.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§MJ Gleeson plc engages in low-cost house building and land promotion activities in the United Kingdom. The company operates through two divisions, Gleeson Homes and Gleeson Land. It also engages in the house building activities in the north of England and Midlands; and sale of land in the south of England. The company was incorporated in 2014 and is headquartered in Sheffield, the United Kingdom.
+fullTimeEmployees§743
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Graham  Prothero', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 694700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stefan Peter Allanson A.C.M.A., CGMA, FCT', 'age': 58, 'title': 'CFO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 392000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leanne  Johnson', 'title': 'Head of Legal & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Beth  Broughton', 'title': 'Director of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Gusterson BSc MBA', 'age': 53, 'title': 'Managing Director of Gleeson Land', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Knight', 'title': 'Chief Executive of Gleeson Homes', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.14
+dividendYield§0.028199999
+exDividendDate§1698278400
+payoutRatio§0.4099
+fiveYearAvgDividendYield§3.29
+beta§1.006
+priceToSalesTrailing12Months§0.8837701
+currency§GBp
+forwardEps§47.6
+exchange§LSE
+quoteType§EQUITY
+shortName§MJ GLEESON PLC ORD 2P
+longName§MJ Gleeson plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1a3ac700-9b64-3d14-a13a-0188a30c48f3
+targetHighPrice§1200.0
+targetLowPrice§490.0
+targetMeanPrice§645.57
+targetMedianPrice§565.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.249
+earningsGrowth§-0.241
+grossMargins§0.27751
+ebitdaMargins§0.11431
+trailingPegRatio§None

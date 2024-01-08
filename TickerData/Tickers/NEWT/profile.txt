@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 11:46:12.904881
+address1§4800 T-Rex Avenue
+address2§Suite 120
+city§Boca Raton
+state§FL
+zip§33431
+country§United States
+phone§212 356 9500
+website§https://www.newtekone.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§NewtekOne, Inc., a financial holding company, provides a range of business and financial solutions to the small- and medium-sized business market. Its business and financial solutions include banking services, business lending, electronic payment processing, ecommerce, accounts receivable financing and inventory financing, insurance solutions, web services, and payroll and benefits solutions, as well as technology solutions, including cloud computing, data backup, storage, retrieval, and IT consulting. The company was founded in 1998 and is based in Boca Raton, Florida.
+fullTimeEmployees§104
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Barry Scott Sloane', 'age': 63, 'title': 'President, Chairman & CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 700000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Halli  Razon-Feingold', 'age': 34, 'title': 'Senior VP of Human Resources, Chief Administrative Officer & Director', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Adam Schwartz', 'age': 62, 'title': 'Chief Legal Officer, Chief Compliance Officer & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 650000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter Mathison Downs', 'age': 58, 'title': 'Chief Lending Officer, President of Newtek Small Business Finance & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 800000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Scott Price', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0548
+exDividendDate§1703721600
+payoutRatio§1.2277
+fiveYearAvgDividendYield§11.65
+beta§1.336
+priceToSalesTrailing12Months§1.7280647
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.84
+pegRatio§2.61
+exchange§NGM
+quoteType§EQUITY
+shortName§NewtekOne, Inc.
+longName§NewtekOne, Inc.
+firstTradeDateEpochUtc§970061400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§006535b2-5210-3489-bbcf-744d6fcee8ab
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§13.0
+targetMeanPrice§15.75
+targetMedianPrice§15.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§2.183
+earningsGrowth§-0.187
+grossMargins§0.8319
+ebitdaMargins§0.19785
+trailingPegRatio§None

@@ -1,0 +1,20 @@
+# reload+after+2024-01-21 02:41:07.678620
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§WAREHOUSE REIT PLC ORD 1P
+longName§Warehouse REIT Ord
+firstTradeDateEpochUtc§1505890800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5187f462-7b1e-3722-bac0-c195633d9983
+targetHighPrice§170.0
+targetLowPrice§110.0
+targetMeanPrice§130.67
+targetMedianPrice§112.0
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+trailingPegRatio§2.5071

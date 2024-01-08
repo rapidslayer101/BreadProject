@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 14:48:00.836125
+address1§10 Canal Street
+address2§Suite 104
+city§Bristol
+state§PA
+zip§19007
+country§United States
+phone§267 540 8500
+website§https://www.williampenn.bank
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§William Penn Bancorporation operates as the holding company for William Penn Bank that provides retail and commercial banking products and related financial services in the United States. The company offers time, savings, money market, and demand deposits; certificates of deposit; and non-interest bearing and interest-bearing checking, as well as money market, NOW, savings and club, and individual retirement accounts. It also provides one- to four-family residential and investor commercial real estate, non-residential real estate, multi-family residential, commercial business and consumer, residential and commercial construction, and land loans, as well as home equity loans and lines of credit, small business loans, and commercial and mortgage loans; and invests in a portfolio of mortgage-backed securities. The company serves individuals, businesses, and government customers. It offers its services through full-service branch offices in Bucks and Philadelphia Counties, Pennsylvania; and Burlington, Camden, and Mercer Counties, New Jersey. William Penn Bancorporation was founded in 1870 and is headquartered in Bristol, Pennsylvania.
+fullTimeEmployees§93
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kenneth J. Stephon', 'age': 64, 'title': 'President, CEO & Chairman', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 811584, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeannine  Cimino', 'age': 51, 'title': 'Executive VP & Chief Retail Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 378996, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan B. Turner', 'age': 59, 'title': 'EVP & Chief Lending Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 393150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan T. Logan', 'age': 40, 'title': 'Executive VP, CFO & Corporate Secretary', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 298585, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy J. Hannigan', 'age': 56, 'title': 'Executive VP & COO', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James R. Read', 'title': 'Senior VP & CTO', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Gillespie', 'title': 'Senior VP, Chief Compliance Officer & BSA Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Nielsen', 'title': 'SVP & Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin L. Fadio', 'title': 'Senior Vice President of Loan Servicing Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia  Dykes', 'title': 'Senior Vice President of Deposit Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.01
+exDividendDate§1698364800
+payoutRatio§0.75
+beta§0.489
+priceToSalesTrailing12Months§5.083406
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.16
+exchange§NCM
+quoteType§EQUITY
+shortName§William Penn Bancorporation
+longName§William Penn Bancorporation
+firstTradeDateEpochUtc§1208352600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6b1cabef-fb3a-3311-8f1f-7c79f6a142c8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§13.0
+targetMeanPrice§13.0
+targetMedianPrice§13.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+earningsGrowth§-0.779
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

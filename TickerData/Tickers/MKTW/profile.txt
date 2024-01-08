@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 20:46:02.637075
+address1§1125 N. Charles Street
+city§Baltimore
+state§MD
+zip§21201
+country§United States
+phone§888 261 2693
+website§https://www.marketwise.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§MarketWise, Inc. operates a content and technology multi-brand platform for self-directed investors in the United States and Internationally. Its platform includes subscription businesses that provides financial research, software, education, and tools to navigate the financial markets. The company offers various investment strategies, such as value investing, income, growth, commodities, cryptocurrencies, venture, crowdfunded investing, biotechnology, mutual funds, options, and trading; investment research product portfolio through a range of media, including desktops, laptops, tablets, and mobile; and financial newsletters. It also provides a suite of stock research tools and portfolio management services under the Chaikin Analytics brand; portfolio management software tools under the TradeSmith brand name; and database of accounting-based financial summaries under the Altimetry brand. In addition, the company develops screeners, monitors, portfolio management tools, and proprietary indicators that produce a composite score to rank publicly traded companies. MarketWise, Inc. was founded in 1999 and is headquartered in Baltimore, Maryland.
+fullTimeEmployees§732
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marco  Galsim', 'age': 49, 'title': 'Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 449028, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. F. Porter Stansberry', 'age': 50, 'title': 'Founder, CEO & Chairman', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Mickels CPA', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles N. Curlett Jr.', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen M. Park CPA', 'age': 60, 'title': 'Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Scott Daniel Forney', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Alan Palmer', 'age': 52, 'title': 'MD, Copywriter & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee  Harris', 'title': 'Senior Vice President of Financial Planning & Analysis', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.04
+dividendYield§0.0159
+exDividendDate§1703116800
+payoutRatio§0.105299994
+beta§0.58
+priceToSalesTrailing12Months§0.21191151
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.21
+exchange§NGM
+quoteType§EQUITY
+shortName§MarketWise, Inc.
+longName§MarketWise, Inc.
+firstTradeDateEpochUtc§1600090200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aedc5c35-d9e1-34dc-8581-0d3b10d74891
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.5
+targetLowPrice§3.0
+targetMeanPrice§4.0
+targetMedianPrice§3.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.555
+grossMargins§0.87344
+ebitdaMargins§0.17105
+trailingPegRatio§None

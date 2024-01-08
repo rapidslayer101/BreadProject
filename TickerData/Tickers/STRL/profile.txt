@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 10:47:24.754772
+address1§1800 Hughes Landing Boulevard
+address2§Suite 250
+city§The Woodlands
+state§TX
+zip§77380
+country§United States
+phone§281 214 0800
+fax§281 465 8198
+website§https://www.strlco.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Sterling Infrastructure, Inc. engages in the e-infrastructure, transportation, and building solutions primarily in the Southern United States, the Northeastern and Mid-Atlantic United States, the Rocky Mountain states, California, and Hawaii. It undertakes infrastructure and rehabilitation projects for highways, roads, bridges, airports, ports, light rail, water, wastewater, and storm drainage systems for the departments of transportation in various states, regional transit authorities, airport authorities, port authorities, water authorities and railroads. The company also offers specialty site infrastructure improvement contracting services for blue-chip end users in the e-commerce, data center, distribution center and warehousing, energy sectors, and others. In addition, it undertakes residential and commercial concrete foundations for single-family and multi-family homes, parking structures, elevated slabs, and other concrete work for national home builders, regional and custom home builders, and developers and general contractors in commercial markets. The company was formerly known as Sterling Construction Company, Inc. and changed its name to Sterling Infrastructure, Inc. in June 2022. Sterling Infrastructure, Inc. was founded in 1955 and is headquartered in The Woodlands, Texas.
+fullTimeEmployees§3200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph A. Cutillo', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2687807, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald A. Ballschmiede', 'age': 67, 'title': 'Executive VP, CFO, Chief Accounting Officer & Treasurer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1400157, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark D. Wolf', 'age': 62, 'title': 'General Counsel, Corporate Secretary & Chief Compliance Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 725018, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevan M. Blair', 'title': 'Senior Vice President of Corporate Finance', 'fiscalYear': 2022, 'totalPay': 390146, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noelle Christine Dilts C.F.A.', 'title': 'Vice President of Investor Relations & Corporate Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Con L. Wadsworth', 'age': 62, 'title': 'President of Heavy Civil Segment', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1120595, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Maxwell', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§914371200
+payoutRatio§0.0
+beta§1.158
+priceToSalesTrailing12Months§1.2286776
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.74
+pegRatio§1.7
+exchange§NMS
+quoteType§EQUITY
+shortName§Sterling Infrastructure, Inc.
+longName§Sterling Infrastructure, Inc.
+firstTradeDateEpochUtc§679325400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3cad365a-bfe9-3e19-8e53-eb35795bb85c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§87.0
+targetLowPrice§86.0
+targetMeanPrice§86.5
+targetMedianPrice§86.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.251
+earningsGrowth§0.297
+grossMargins§0.16272
+ebitdaMargins§0.12623
+trailingPegRatio§0.8014

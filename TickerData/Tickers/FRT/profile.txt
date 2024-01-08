@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 11:29:37.515514
+address1§909 Rose Avenue
+address2§Suite 200
+city§North Bethesda
+state§MD
+zip§20852-4041
+country§United States
+phone§301 998 8100
+fax§301 998 3700
+website§https://www.federalrealty.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Federal Realty is a recognized leader in the ownership, operation and redevelopment of high-quality retail-based properties located primarily in major coastal markets from Washington, D.C. to Boston as well as San Francisco and Los Angeles. Founded in 1962, Federal Realty's mission is to deliver long-term, sustainable growth through investing in communities where retail demand exceeds supply. Its expertise includes creating urban, mixed-use neighborhoods like Santana Row in San Jose, California, Pike & Rose in North Bethesda, Maryland and Assembly Row in Somerville, Massachusetts. These unique and vibrant environments that combine shopping, dining, living and working provide a destination experience valued by their respective communities. Federal Realty's 102 properties include approximately 3,300 tenants, in 26 million square feet, and approximately 3,100 residential units. Federal Realty has increased its quarterly dividends to its shareholders for 56 consecutive years, the longest record in the REIT industry. Federal Realty is an S&P 500 index member and its shares are traded on the NYSE under the symbol FRT.
+fullTimeEmployees§314
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald C. Wood CPA', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2441641, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey S. Berkes', 'age': 59, 'title': 'President & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1274988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Guglielmone', 'age': 56, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1305486, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn M. Becker', 'age': 59, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1128584, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan W. Sweetnam', 'age': 63, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Solis', 'age': 45, 'title': 'Chief Accounting Officer & Senior VP', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Porter  Bellew', 'title': 'Chief Information Officer & VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leah  Andress Brady', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Ennes', 'title': 'Senior Vice President of Mixed-Use Initiatives & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Houser', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§8
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.36
+dividendYield§0.0428
+exDividendDate§1703808000
+payoutRatio§1.2587
+fiveYearAvgDividendYield§4.05
+beta§1.259
+priceToSalesTrailing12Months§7.46147
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.77
+pegRatio§5.3
+exchange§NYQ
+quoteType§EQUITY
+shortName§Federal Realty Investment Trust
+longName§Federal Realty Investment Trust
+firstTradeDateEpochUtc§105283800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§78719075-9cf7-3d6b-af71-6a59d4f27484
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§125.0
+targetLowPrice§95.0
+targetMeanPrice§108.44
+targetMedianPrice§107.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.198
+earningsGrowth§-0.646
+grossMargins§0.68372
+ebitdaMargins§0.6216
+trailingPegRatio§7.3275

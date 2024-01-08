@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 17:30:58.142945
+address1§1014 Vine Street
+city§Cincinnati
+state§OH
+zip§45202-1100
+country§United States
+phone§513 762 4000
+website§https://www.thekrogerco.com
+industry§Grocery Stores
+sector§Consumer Defensive
+longBusinessSummary§The Kroger Co. operates as a food and drug retailer in the United States. The company operates combination food and drug stores, multi-department stores, marketplace stores, and price impact warehouses. Its combination food and drug stores offer natural food and organic sections, pharmacies, general merchandise, pet centers, fresh seafood, and organic produce; and multi-department stores provide apparel, home fashion and furnishings, outdoor living, electronics, automotive products, and toys. The company's marketplace stores offer full-service grocery, pharmacy, health and beauty care, and perishable goods, as well as general merchandise, including apparel, home goods, and toys; and price impact warehouse stores provide grocery, and health and beauty care items, as well as meat, dairy, baked goods, and fresh produce items. It also manufactures and processes food products for sale in its supermarkets and online; and sells fuel through fuel centers. The Kroger Co. was founded in 1883 and is based in Cincinnati, Ohio.
+fullTimeEmployees§430000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Rodney McMullen', 'age': 62, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 6366818, 'exercisedValue': 8661442, 'unexercisedValue': 42711584}, {'maxAge': 1, 'name': 'Mr. Gary  Millerchip', 'age': 50, 'title': 'Senior VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2344452, 'exercisedValue': 0, 'unexercisedValue': 4899369}, {'maxAge': 1, 'name': 'Mr. Yael  Cosset', 'age': 49, 'title': 'Senior VP of Alternative Business & Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2346658, 'exercisedValue': 2079679, 'unexercisedValue': 3096845}, {'maxAge': 1, 'name': 'Mr. Stuart W. Aitken', 'age': 51, 'title': 'Senior VP and Chief Merchandising & Marketing Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2462557, 'exercisedValue': 2768087, 'unexercisedValue': 3292958}, {'maxAge': 1, 'name': 'Mr. Timothy A. Massa', 'age': 56, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2181561, 'exercisedValue': 627275, 'unexercisedValue': 4747102}, {'maxAge': 1, 'name': 'Mr. Robinson C. Quast', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine S. Wheatley', 'age': 52, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Rolfes', 'title': 'Director of Corporate Communications & Media', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith G. Dailey', 'age': 42, 'title': 'Group VP of Corporate Affairs, Chief Communications Officer & Chief Sustainability Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dana  Zurcher', 'title': 'President of the Columbus Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.16
+dividendYield§0.0252
+exDividendDate§1699920000
+payoutRatio§0.4163
+fiveYearAvgDividendYield§2.04
+beta§0.447
+priceToSalesTrailing12Months§0.22415493
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.35
+pegRatio§1.26
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kroger Company (The)
+longName§The Kroger Co.
+firstTradeDateEpochUtc§-252322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§38dd815e-66db-30d4-ba2b-876ca442e987
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§36.0
+targetMeanPrice§50.25
+targetMedianPrice§50.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.218
+earningsGrowth§-0.882
+grossMargins§0.22699
+ebitdaMargins§0.0529
+trailingPegRatio§1.7237

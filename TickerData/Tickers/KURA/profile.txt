@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 22:45:41.588586
+address1§12730 High Bluff Drive
+address2§Suite 400
+city§San Diego
+state§CA
+zip§92130
+country§United States
+phone§858 500 8800
+website§https://kuraoncology.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kura Oncology, Inc., a clinical-stage biopharmaceutical company, develops medicines for the treatment of cancer in the United States. The company's pipeline consists of small molecule product candidates that target cancer. Its lead product candidates are ziftomenib, a small molecule inhibitor of the menin-Lysine K-specific Methyltransferase 2A protein-protein interaction for the treatment of genetically defined subsets of acute leukemias, including acute myeloid leukemia and acute lymphoblastic leukemia; and tipifarnib, an orally bioavailable inhibitor of farnesyl transferase for the treatment of solid tumors and hematologic indications. The company has a clinical collaboration with Novartis to evaluate the combination of tipifarnib and alpelisib in patients with head and neck squamous cell carcinoma whose tumors have HRAS overexpression or PIK3CA mutation and/or amplification. Kura Oncology, Inc. was founded in 2014 and is headquartered in San Diego, California.
+fullTimeEmployees§131
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Troy Edward Wilson J.D., Ph.D.', 'age': 54, 'title': 'Chairman, CEO & President', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1061902, 'exercisedValue': 0, 'unexercisedValue': 775556}, {'maxAge': 1, 'name': 'Ms. Kathleen  Ford', 'age': 76, 'title': 'Chief Operating Officer', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 754239, 'exercisedValue': 0, 'unexercisedValue': 18204}, {'maxAge': 1, 'name': 'Dr. Stephen  Dale M.D.', 'age': 51, 'title': 'Chief Medical Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 684415, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Doyle', 'age': 52, 'title': 'Senior VP of Finance & Accounting', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pete  De Spain', 'title': 'Executive Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa Brophy Bair Esq., J.D.', 'age': 52, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Roger  Bakale Ph.D.', 'title': 'Senior Vice President of Manufacturing & Supply Chain', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maureen  Clancy M.B.A.', 'title': 'VP and Global Head of Program Leadership & Project Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mollie  Leoni M.D.', 'title': 'Executive Vice President of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian T. Powl M.B.A., M.S.', 'age': 49, 'title': 'Chief Commercial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.864
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.27
+pegRatio§-0.38
+exchange§NMS
+quoteType§EQUITY
+shortName§Kura Oncology, Inc.
+longName§Kura Oncology, Inc.
+firstTradeDateEpochUtc§1442410200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d959d119-9140-35ab-8205-a916e1fac9db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§37.0
+targetLowPrice§10.5
+targetMeanPrice§28.5
+targetMedianPrice§31.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§16.585
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

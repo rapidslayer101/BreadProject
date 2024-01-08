@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 00:36:14.045384
+address1§FBD House
+address2§Bluebell
+city§Dublin
+zip§12
+country§Ireland
+phone§353 1 409 3962
+website§https://www.fbdgroup.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§FBD Holdings plc, through its subsidiaries, engages in the underwriting of general insurance to farmers, private individuals, and business owners in Ireland. The company operates in two segments, Underwriting and Financial Services. It offers car, home, travel, life and pension, business, farm, and business insurance products, as well as insurance related to motor, fire, liability, and other damage to property. The company also provides investment, pension brokerage, and employee services; and engages in re-insurance activities. FBD Holdings plc was founded in 1969 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§900
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Tomas  O'Midheach B.Com., BComm, FCCA, MBBS, MBS", 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1080000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Enda  Kyne', 'title': 'Chief Technology & Operations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Carolyn  O'Hara", 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jackie  McMahon', 'title': 'Chief Claims Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek  Hall', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Tobin', 'title': 'Chief Underwriting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Maureen  O'Meara", 'title': 'Head of Sales for Munster', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Coughlan', 'title': 'Chief Strategy Implementation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nadine  Conlon', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0889
+exDividendDate§1694649600
+payoutRatio§0.5682
+fiveYearAvgDividendYield§3.64
+beta§0.424
+priceToSalesTrailing12Months§1.102582
+currency§EUR
+exchange§LSE
+quoteType§EQUITY
+shortName§FBD HOLDINGS PLC ORD EUR0.60 (C
+longName§FBD Holdings plc
+firstTradeDateEpochUtc§1032764400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§268e2318-ce66-3630-8811-d122cf0ed37f
+recommendationKey§none
+quickRatio§4.668
+earningsGrowth§13.834
+grossMargins§0.60624003
+ebitdaMargins§0.34612998
+trailingPegRatio§None

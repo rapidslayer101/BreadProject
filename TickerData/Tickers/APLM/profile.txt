@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 06:43:23.127670
+address1§989 East Hillsdale Blvd
+address2§Suite 220
+city§Foster City
+state§CA
+zip§94404
+country§United States
+phone§650 209 4055
+fax§650 288 1674
+website§https://www.apollomicsinc.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Apollomics, Inc., a biopharmaceutical company, engages in the discovery and development of mono and combination oncology therapies to harness the immune system and target specific molecular pathways to eradicate cancer. Its pipeline consists of various development-stage assets, including novel and humanized monoclonal antibodies that restore the body's immune system to recognize and kill cancer cells, and targeted therapies against uncontrolled growth signaling pathways. Its solutions include tumor inhibitors, anti-cancer enhancers, and immune-oncology drugs. Apollomics, Inc. was formerly known as CBT Pharmaceuticals, Inc. and changed its name to Apollomics, Inc. in January 2019. The company was incorporated in 2016 and is based in Foster City, California with additional locations in Hangzhou and Shanghai, China; and Southbank, Australia.
+fullTimeEmployees§43
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Guo-Liang  Yu Ph.D.', 'age': 60, 'title': 'Co-Founder, CEO & Executive Chairman', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sanjeev  Redkar MBA, Ph.D.', 'age': 54, 'title': 'Co-Founder, President, CFO & Executive Director', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Lijuan Jane Wang Ph.D.', 'age': 59, 'title': 'Chief Scientific Officer & GM of China', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kin-Hung  Yu M.D.', 'age': 61, 'title': 'Chief Medical Officer', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chinglin  Lai Ph.D.', 'title': 'Senior Vice President of Biostatistics & Data Management', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.394
+priceToSalesTrailing12Months§66.09377
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.77
+exchange§NCM
+quoteType§EQUITY
+shortName§Apollomics Inc.
+longName§Apollomics, Inc.
+firstTradeDateEpochUtc§1637937000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3a24b24c-e4d2-3170-8b4e-72f379f5f0ee
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§11.0
+targetMeanPrice§14.0
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.759
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

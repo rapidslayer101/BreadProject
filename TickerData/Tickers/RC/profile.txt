@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 14:32:39.900605
+address1§1251 Avenue of the Americas
+address2§50th Floor
+city§New York
+state§NY
+zip§10020
+country§United States
+phone§212 257 4600
+website§https://www.readycapital.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Ready Capital Corporation operates as a real estate finance company in the United States. The company originates, acquires, finances, and services small to medium balance commercial (SBC) loans, small business administration (SBA) loans, residential mortgage loans, construction loans, and mortgage-backed securities collateralized primarily by SBC loans, or other real estate-related investments. It operates through three segments: SBC Lending and Acquisitions; Small Business Lending; and Residential Mortgage Banking. The SBC Lending and Acquisitions segment originates SBC loans across the full life-cycle of an SBC property, including construction, bridge, stabilized, and agency channels. The Small Business Lending segment acquires, originates, and services owner-occupied loans guaranteed by the SBA under its SBA Section 7(a) Program. The Residential Mortgage Banking segment originates residential mortgage loans. The company was formerly known as Sutherland Asset Management Corporation and changed its name to Ready Capital Corporation in September 2018. Ready Capital Corporation was founded in 2007 and is headquartered in New York, New York.
+fullTimeEmployees§600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Ahlborn CPA', 'age': 38, 'title': 'CFO & Secretary', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 1700826, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary T. Taylor', 'age': 63, 'title': 'Chief Operating Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1515851, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Zausmer', 'age': 44, 'title': 'Chief Credit Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1700826, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Edward Capasse', 'age': 66, 'title': 'Chairman, CEO & Chief Investment Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack Jay Ross CPA', 'age': 66, 'title': 'President & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Dunn', 'title': 'Director of Finance Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Ovalle', 'title': 'MD & National Sales Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Katzenstein', 'title': 'MD & Head of Strategic Partnerships', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David A. Cohen', 'title': 'MD & Co-Head of the National Bridge Lending Platform', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.06
+dividendYield§0.1073
+exDividendDate§1703721600
+payoutRatio§0.66230005
+fiveYearAvgDividendYield§12.15
+beta§1.494
+priceToSalesTrailing12Months§3.8047388
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.28
+pegRatio§0.56
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ready Capital Corproation
+longName§Ready Capital Corporation
+firstTradeDateEpochUtc§1360333800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§75b9a229-bb18-33d7-91a1-e0f775ceb2aa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§10.0
+targetMeanPrice§11.69
+targetMedianPrice§11.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§16.195
+earningsGrowth§-0.504
+grossMargins§0.85799
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 13:40:18.424631
+address1§12 St. James's Place
+city§London
+zip§SW1A 1NX
+country§United Kingdom
+phone§44 20 3793 0003
+website§https://www.s4capital.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§S4 Capital plc, together with its subsidiaries, operates as a digital advertising and marketing services company in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through three segments: Content, Data & Digital Media, and Technology Services. The company offers contents, campaigns, and assets for paid, social, and earned media, such as digital platforms and apps, as well as brand activations. In addition, it provides campaign management analytics, creative production and ad serving, platform and systems integration and transition, and training and education services. Further, the company offers digital transformation services in delivering digital product design, engineering, and delivery services. S4 Capital plc is headquartered in London, the United Kingdom.
+fullTimeEmployees§8551
+companyOfficers§[{'maxAge': 1, 'name': 'Sir Martin S. Sorrell', 'age': 78, 'title': 'Executive Chairman', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 509000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Margaret Basterfield', 'age': 50, 'title': 'Group CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 714850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wesley  ter Haar', 'age': 44, 'title': 'Executive Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 276000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Knaap', 'age': 45, 'title': 'Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 276000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher S. Martin', 'age': 44, 'title': 'Executive Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 242000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Edward Spirit', 'age': 45, 'title': 'Chief Growth Officer & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 505000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Kowall', 'title': 'General Counsel, Head of Compliance & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michel  de Rijk', 'title': 'Chief Executive Officer of Asia Pacific', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Imma  Trillo', 'title': 'Senior Vice President of Global HR/Talent', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Regina  Romeijn', 'title': 'Global Head of ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.899
+priceToSalesTrailing12Months§0.27307433
+currency§GBp
+forwardEps§7.98
+pegRatio§5.43
+exchange§LSE
+quoteType§EQUITY
+shortName§S4 CAPITAL PLC ORD 25P
+longName§S4 Capital plc
+firstTradeDateEpochUtc§1482998400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b38dbf06-e884-3a5a-b199-57bf8143eac4
+targetHighPrice§250.0
+targetLowPrice§55.0
+targetMeanPrice§109.5
+targetMedianPrice§90.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.1
+grossMargins§0.84363
+ebitdaMargins§0.10181
+trailingPegRatio§None

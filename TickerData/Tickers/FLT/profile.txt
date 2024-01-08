@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 22:29:32.202607
+address1§3280 Peachtree Road
+address2§Suite 2400
+city§Atlanta
+state§GA
+zip§30305
+country§United States
+phone§770 449 0479
+website§https://www.fleetcor.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§FLEETCOR Technologies, Inc., a business payments company that helps businesses spend less by enabling them to manage their expense-related purchasing and vendor payments processes. It offers corporate payments solutions, such as accounts payable automation; Virtual Card, which provides a single-use card number for a specific amount usable within a defined timeframe; Cross-Border that is used by its customers to pay international vendors, foreign office and personnel expenses, capital expenditures, and profit repatriation and dividends; and purchasing cards and travel and entertainment cards for its customers to analyze and manage their corporate spending. The company also provides vehicle and mobility solutions, including fuel solutions to businesses and government entities that operate vehicle fleets, as well as to oil and leasing companies, and fuel marketers; lodging solutions to businesses that have employees who travel overnight for work purposes, as well as to airlines and cruise lines to accommodate traveling crews and stranded passengers; and electronic toll payments solutions to businesses and consumers in the form of radio frequency identification tags affixed to vehicles' windshields. In addition, it offers gift card program management and processing services in plastic and digital forms that include card design, production and packaging, delivery and fulfillment, card and account management, transaction processing, promotion development and management, website design and hosting, program analytics, and card distribution channel management. Further, the company provides other products consisting of payroll cards, vehicle maintenance service solution, long-haul transportation solution, prepaid food vouchers or cards, and prepaid transportation cards and vouchers. It serves business, merchant, consumer, and payment network customers in North America, Brazil, and Internationally. The company was founded in 1986 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§9900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ronald F. Clarke', 'age': 67, 'title': 'Chairman, President & CEO', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 3986998, 'exercisedValue': 49521304, 'unexercisedValue': 86130496}, {'maxAge': 1, 'name': 'Ms. Alissa B. Vickery', 'age': 44, 'title': 'Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 400201, 'exercisedValue': 0, 'unexercisedValue': 323897}, {'maxAge': 1, 'name': 'Mr. John S. Coughlin', 'age': 55, 'title': 'Senior Advisor', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 968530, 'exercisedValue': 4644047, 'unexercisedValue': 6229237}, {'maxAge': 1, 'name': 'Mr. Armando Lins Netto', 'age': 55, 'title': 'Group President of Vehicle Payments in Brazil and North America', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 807623, 'exercisedValue': 0, 'unexercisedValue': 2780830}, {'maxAge': 1, 'name': 'Mr. Alan  King', 'age': 46, 'title': 'Group President of Vehicle Payments in Europe and Australasia', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1046346, 'exercisedValue': 0, 'unexercisedValue': 1107803}, {'maxAge': 1, 'name': 'Mr. Thomas E. Panther', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Dufour', 'age': 54, 'title': 'Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James P. Eglseder', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel S. Fishbein', 'age': 49, 'title': 'General Counsel', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve C. Greene', 'title': 'Executive Vice President of Corporate Development & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§2
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.256
+priceToSalesTrailing12Months§5.4729953
+currency§USD
+dateShortInterest§1702598400
+forwardEps§19.35
+pegRatio§1.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§FleetCor Technologies, Inc.
+longName§FLEETCOR Technologies, Inc.
+firstTradeDateEpochUtc§1292423400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1cc288bb-3360-3602-913d-8ffe37a874f9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§343.0
+targetLowPrice§235.0
+targetMeanPrice§290.69
+targetMedianPrice§292.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.77
+earningsGrowth§0.106
+grossMargins§0.7786
+ebitdaMargins§0.50852
+trailingPegRatio§None

@@ -1,0 +1,23 @@
+# reload+after+2024-01-20 02:43:19.553438
+longBusinessSummary§The fund is an actively managed exchange traded fund that attempts to replicate the inverse (-100%) daily percentage change of the underlying stock by entering into a swap agreement on the underlying stock. The fund advisor aims to generate the inverse daily performance of the underlying stock for a single day.
+maxAge§86400
+priceHint§2
+totalAssets§462704
+navPrice§15.42
+currency§USD
+category§Trading--Inverse Equity
+ytdReturn§0.0590526
+beta3Year§0.0
+fundFamily§Graniteshares
+fundInceptionDate§1692576000
+legalType§Exchange Traded Fund
+exchange§NGM
+quoteType§ETF
+shortName§GraniteShares 1x Short AMD Dail
+longName§GraniteShares 1x Short AMD Daily ETF
+firstTradeDateEpochUtc§1692711000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff559721-63a6-33a2-87b5-10fe78eedadc
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

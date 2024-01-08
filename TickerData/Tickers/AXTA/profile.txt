@@ -1,0 +1,56 @@
+# reload+after+2024-01-24 00:26:58.605401
+address1§50 Applied Bank Blvd
+address2§Suite 300
+city§Glen Mills
+state§PA
+zip§19342
+country§United States
+phone§855 547 1461
+website§https://www.axalta.com
+industry§Specialty Chemicals
+industryKey§specialty-chemicals
+industryDisp§Specialty Chemicals
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Axalta Coating Systems Ltd., through its subsidiaries, manufactures, markets, and distributes high-performance coatings systems in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. It operates through two segments, Performance Coatings and Mobility Coatings. The company offers water and solvent-borne products and systems to repair damaged vehicles for independent body shops, multi-shop operators, and original equipment manufacturer (OEM) dealership body shops. It also provides functional and decorative liquid, and powder coatings used in various industrial applications, including architectural cladding and fittings, automotive coatings, general industrial, job coaters, and energy solutions; and coatings for building materials, cabinet, wood and luxury vinyl flooring, and furniture market under the Voltatex, AquaEC, Durapon, Hydropon, UNRIVALED, Tufcote, and Ceranamel for liquid coatings; and Alesta, Nap-Gard, Abcite, Teodur, and Plascoat brands for powder coatings. In addition, the company develops and supplies electrocoat, primer, the basecoat, and clearcoat products for OEMs of light and commercial vehicles; and coatings systems for various commercial applications, including HDT, MDT, bus, and rail under the Imron, Imron Elite, Centari, Rival, Corlar epoxy undercoats, and AquaEC brands. It also sells its product under the Audurra, Challenger, Chemophan, ColorNet, Cromax, Cromax Mosaic, Durapon 70, Duxone, Harmonized Coating Technologies, Imron ExcelPro, Lutophen, Nason, Spies Hecker, Standox, Stollaquid, Syntopal, Syrox, Raptor, U-POL, and Vermeera brand names. The company was formerly known as Axalta Coating Systems Bermuda Co., Ltd. and changed its name to Axalta Coating Systems Ltd. in August 2014. The company was founded in 1866 and is headquartered in Philadelphia, Pennsylvania.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hadi H. Awada', 'age': 43, 'title': 'Senior Vice President of Global Mobility Coatings', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 777124, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Troy D. Weaver', 'age': 50, 'title': 'Senior Vice President of Global Refinish', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 834913, 'exercisedValue': 0, 'unexercisedValue': 24543}, {'maxAge': 1, 'name': 'Mr. Chrishan Anthon Sebastian Villavarayan', 'age': 53, 'title': 'CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl D. Anderson II', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Keith C. Silverman Ph.D.', 'age': 56, 'title': 'Senior VP and Chief Operations & Supply Chain Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert  Roop', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vipul  Soni', 'age': 46, 'title': 'VP and Chief Information & Digital Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christopher Mark Evans Ph.D.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Tufano', 'title': 'Senior VP & Chief HR Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Budden', 'title': 'President of the Americas', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.515
+priceToSalesTrailing12Months§1.4158164
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.91
+pegRatio§1.89
+exchange§NYQ
+quoteType§EQUITY
+shortName§Axalta Coating Systems Ltd.
+longName§Axalta Coating Systems Ltd.
+firstTradeDateEpochUtc§1415802600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a96aa0ef-eb89-373c-bb78-40040b6c298d
+messageBoardId§finmb_216313883
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§30.0
+targetMeanPrice§35.33
+targetMedianPrice§35.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§1.391
+earningsGrowth§0.178
+grossMargins§0.30735
+ebitdaMargins§0.16497
+trailingPegRatio§None

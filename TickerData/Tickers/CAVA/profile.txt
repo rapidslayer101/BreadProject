@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 08:27:40.609371
+address1§14 Ridge Square NW
+address2§Suite 500
+city§Washington
+state§DC
+zip§20016
+country§United States
+phone§202-400-2920
+website§https://www.cava.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§CAVA Group, Inc. owns and operates a chain of Mediterranean restaurants. The company offers salads, dips, spreads, toppings, and dressings. It sells its products through whole food markets and grocery stores. The company also provides online food ordering services. Cava Group, Inc. was founded in 2006 and is based in Washington, District of Columbia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brett  Schulman', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1058223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tricia K. Tolivar', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 763750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Somers', 'age': 42, 'title': 'Chief Operations Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1279875, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore  Xenohristos', 'age': 44, 'title': 'Chief Concept Officer & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 378204, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Adam  Phillips', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Bertram', 'age': 55, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§6.8603563
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.15
+exchange§NYQ
+quoteType§EQUITY
+shortName§CAVA Group, Inc.
+longName§CAVA Group, Inc.
+firstTradeDateEpochUtc§1686922200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d80d7686-921e-3199-bab4-0fd496bc2a62
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§35.0
+targetMeanPrice§45.4
+targetMedianPrice§46.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§3.127
+grossMargins§0.36418998
+ebitdaMargins§0.07825
+trailingPegRatio§None

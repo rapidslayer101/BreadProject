@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 23:44:44.801994
+address1§220 RXR Plaza
+city§Uniondale
+state§NY
+zip§11556
+country§United States
+phone§718 961 5400
+website§https://www.flushingbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Flushing Financial Corporation operates as the bank holding company for Flushing Bank that provides banking products and services primarily to consumers, businesses, and governmental units. It offers various deposit products, including checking and savings accounts, money market accounts, demand accounts, NOW accounts, and certificates of deposit. The company also provides mortgage loans secured by multi-family residential, commercial real estate, one-to-four family mixed-use property, one-to-four family residential property, and commercial business loans; construction loans; small business administration loans and other small business loans; mortgage loan surrogates, such as mortgage-backed securities; and consumer loans, including overdraft lines of credit, as well as the United States government securities, corporate fixed-income securities, and other marketable securities. In addition, it offers banking services to public municipalities comprising counties, cities, towns, villages, school districts, libraries, fire districts, and various courts. Further, the company operates an internet branch under the iGObanking and BankPurely brands. Flushing Financial Corporation was founded in 1929 and is based in Uniondale, New York.
+fullTimeEmployees§560
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John R. Buran', 'age': 74, 'title': 'President, CEO & Director', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 1772404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan K. Cullen', 'age': 57, 'title': 'Senior EVP, Treasurer & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 735737, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria A. Grasso', 'age': 59, 'title': 'Senior EVP, COO & Corporate Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 853405, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis W. Korzekwinski', 'age': 60, 'title': 'Senior EVP & Chief of Real Estate Lending', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 743616, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Bingold', 'age': 60, 'title': 'Senior EVP and Chief Retail & Client Development Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 631597, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas  Liang', 'age': 47, 'title': 'Senior VP & Chief Investment Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Astrid  Burrowes', 'age': 58, 'title': 'Executive VP, Chief Accounting Officer & Controller', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yan  Nuriyev', 'age': 39, 'title': 'Senior VP & Chief Technology Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen M. Brewer', 'age': 70, 'title': 'Senior Executive VP & Chief Information Officer', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Albert H. Savastano', 'age': 50, 'title': 'Senior VP & Director of Investor Relations', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.88
+dividendYield§0.0533
+exDividendDate§1701907200
+payoutRatio§0.7857
+fiveYearAvgDividendYield§4.84
+beta§0.796
+priceToSalesTrailing12Months§2.5710073
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.88
+pegRatio§2.94
+exchange§NMS
+quoteType§EQUITY
+shortName§Flushing Financial Corporation
+longName§Flushing Financial Corporation
+firstTradeDateEpochUtc§816964200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eacece14-014e-3d33-b6d6-7f515d660fbe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§13.5
+targetMeanPrice§16.63
+targetMedianPrice§16.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.584
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

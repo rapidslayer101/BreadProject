@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 00:33:09.769673
+address1§515 W. 20th Street
+city§New York
+state§NY
+zip§10011
+country§United States
+website§https://sohohouseco.com
+industry§Lodging
+sector§Consumer Cyclical
+longBusinessSummary§Soho House & Co Inc. operates a global membership platform of physical and digital spaces that connects a group of members. These members use the platform to work, socialize, connect, create, and flourish all over the world. The company was formerly known as Membership Collective Group Inc. and changed its name to Soho House & Co Inc. in March 2023. Soho House & Co Inc. was founded in 1995 and is headquartered in New York, New York.
+fullTimeEmployees§7714
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ronald Wayne Burkle', 'age': 71, 'title': 'Executive Chairman', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Carnie', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 3715337, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Jones', 'age': 58, 'title': 'Founder & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2491963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Glassbrooke Allen', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1433861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Collins', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ben  Nwaeke', 'title': 'Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.801
+priceToSalesTrailing12Months§1.141627
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.21
+pegRatio§0.08
+exchange§NYQ
+quoteType§EQUITY
+shortName§Soho House & Co Inc.
+longName§Soho House & Co Inc.
+firstTradeDateEpochUtc§1626355800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6fc9db21-75eb-39ef-807f-b330c731e227
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§7.0
+targetMeanPrice§8.83
+targetMedianPrice§9.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.711
+grossMargins§0.61644
+ebitdaMargins§0.06309
+trailingPegRatio§None

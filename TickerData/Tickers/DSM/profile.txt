@@ -1,0 +1,36 @@
+# reload+after+2024-01-20 07:28:44.623396
+address1§240 Greenwich Street
+city§New York
+state§NY
+zip§10286
+country§United States
+phone§212 635 8827
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BNY Mellon Strategic Municipal Bond Fund, Inc. is a closed ended fixed income mutual fund launched and managed by BNY Mellon Investment Adviser, Inc. The fund invests in the fixed income markets of the United States. It primarily invests in investment grade municipal bonds which are exempt from federal income tax. The fund seeks to maintain a weighted average maturity of greater than 10 years. It was formerly known as Dreyfus Strategic Municipal Bond Fund, Inc. BNY Mellon Strategic Municipal Bond Fund, Inc. was formed on November 22, 1989 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel A. Barton CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Alexander Rabasco CFA', 'title': 'Co- Primary Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey B. Burger CFA', 'title': 'Co-Primary Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.24
+dividendYield§0.042
+exDividendDate§1705017600
+payoutRatio§0.72
+fiveYearAvgDividendYield§5.12
+beta§0.568
+priceToSalesTrailing12Months§13.584323
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Dreyfus Strategic Municipal Bon
+longName§BNY Mellon Strategic Municipal Bond Fund, Inc.
+firstTradeDateEpochUtc§627748200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff6c390c-344e-3277-af8c-1fecb1e520fd
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.366
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

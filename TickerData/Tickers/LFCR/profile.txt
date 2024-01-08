@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 16:45:45.887581
+address1§3515 Lyman Boulevard
+city§Chaska
+state§MN
+zip§55318
+country§United States
+phone§952 368 4300
+website§https://www.lifecore.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Lifecore Biomedical, Inc., together with its subsidiaries, operates as an integrated contract development and manufacturing organization in the United States and internationally. The company operates through Lifecore, Curation Foods, and Other segments. The Lifecore segment engages in the manufacture of pharmaceutical-grade sodium hyaluronate (HA) in bulk form, as well as formulated and filled syringes and vials for injectable products used in treating a range of medical conditions and procedures. It also provides services, including technology development, material component changes, analytical method development, formulation development, pilot studies, stability studies, process validation, and production of materials for clinical studies to its partners for HA-based and non-HA based aseptically formulated and filled products. This segment sells its non-HA products for medical use primarily in the ophthalmic, orthopedic, and other markets. The Curation Foods segment engages in processing, marketing, and selling of olive oils and wine vinegars under the O brand; and guacamole and avocado food products under the Yucatan and Cabo Fresh brands, as well as various private labels. The company was formerly known as Landec Corporation and changed its name to Lifecore Biomedical, Inc. in November 2022. Lifecore Biomedical, Inc. was incorporated in 1986 and is based in Chaska, Minnesota.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James G. Hall', 'age': 60, 'title': 'CEO, President & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 711566, 'exercisedValue': 0, 'unexercisedValue': 15031}, {'maxAge': 1, 'name': 'Mr. John D. Morberg', 'age': 59, 'title': 'Executive VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 443431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Albert D. Bolles Ph.D.', 'age': 65, 'title': 'President of Curation Foods, Inc.', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 688194, 'exercisedValue': 0, 'unexercisedValue': 84240}, {'maxAge': 1, 'name': 'Mr. Steve W. Laninga', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kipling  Thacker Ph.D.', 'age': 68, 'title': 'VP & Chief Scientist', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Perlitsh', 'title': 'Director of Internal Audit & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren M. Hieber', 'title': 'Senior Vice President of Corporate Development & Partnerships', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kara  Morley', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jackie Q. Klecker', 'title': 'Executive VP & GM', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Augustson', 'title': 'Senior Vice President of Information Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.012
+priceToSalesTrailing12Months§2.03195
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.22
+pegRatio§-6.32
+exchange§NMS
+quoteType§EQUITY
+shortName§Lifecore Biomedical, Inc.
+longName§Lifecore Biomedical, Inc.
+firstTradeDateEpochUtc§824394600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§82e9fd16-3df3-38a9-9aef-ea59ea68d834
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§8.0
+targetMeanPrice§9.0
+targetMedianPrice§9.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.258
+grossMargins§0.26428
+ebitdaMargins§-0.13238
+trailingPegRatio§None

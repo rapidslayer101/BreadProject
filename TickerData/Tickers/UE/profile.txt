@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 01:33:57.916456
+address1§888 Seventh Avenue
+address2§6th Floor
+city§New York
+state§NY
+zip§10019-0601
+country§United States
+phone§(212) 956-2556
+website§https://www.uedge.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Urban Edge Properties is a NYSE listed real estate investment trust focused on owning, managing, acquiring, developing, and redeveloping retail real estate in urban communities, primarily in the Washington, D.C. to Boston corridor. Urban Edge owns 76 properties totaling 17.2 million square feet of gross leasable area.
+fullTimeEmployees§115
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey S. Olson', 'age': 55, 'title': 'Chairman & CEO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2677491, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Langer CPA', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1301506, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert C. Milton III', 'age': 51, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 856873, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey S. Mooallem', 'age': 54, 'title': 'Executive VP & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Etan  Bluman', 'title': 'Senior Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea R. Drazin', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cecilia  Li', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judith  Knop', 'title': 'Senior Vice President of Development & Construction', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Auster', 'title': 'Executive VP & Head of Leasing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Schiffer', 'title': 'Senior Vice President of Leasing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0356
+exDividendDate§1702512000
+payoutRatio§1.8824
+fiveYearAvgDividendYield§4.14
+beta§1.566
+priceToSalesTrailing12Months§5.4779983
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.43
+pegRatio§16.84
+exchange§NYQ
+quoteType§EQUITY
+shortName§Urban Edge Properties
+longName§Urban Edge Properties
+firstTradeDateEpochUtc§1421418600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0612e93d-65ab-3dae-ad53-3a0876474251
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§18.0
+targetMeanPrice§20.75
+targetMedianPrice§20.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.49
+earningsGrowth§2.178
+grossMargins§0.64572
+ebitdaMargins§0.54793
+trailingPegRatio§None

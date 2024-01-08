@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 03:38:26.838658
+address1§Cannon Bridge House
+address2§25 Dowgate Hill
+city§London
+zip§EC4R 2YA
+country§United Kingdom
+phone§44 20 7896 0011
+fax§44 20 7896 0010
+website§https://www.iggroup.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§IG Group Holdings plc, a fintech company, engages in the online trading business worldwide. The company offers over the counter (OTC) derivatives, which include CFD (Contracts For Difference) that enable traders to take advantage of changes in an asset's price without owning the asset itself, as well as access to a range of risk-mitigation measures, including stops and limits, and negative-balance protection; and OTC FX and options, and spread bets, under IG and IG Prime brands. It also provides exchange-traded derivatives under the tastytrade, an online brokerage and investor education platform; and Spectrum, a multilateral trading facility. In addition, the company offers stock trading and investment services that include share, commodities, equities, and fixed-income assets under IG brand. Further, it provides content and education solutions, such as daily live programming, news and original content, and webinars and tutorials under IG, tastylive, and DailyFX brands. Additionally, the company offers spread betting, CFD trading, foreign exchange and market risk management, data distribution, software development and support, financing, foreign exchange, market making, stock and exchange-traded funds trading, and translation services, as well as issues turbo warrants. IG Group Holdings plc was founded in 1974 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§2535
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Arthur Rozes', 'age': 56, 'title': 'Acting CEO, CFO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 570000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Mark Noble', 'age': 47, 'title': 'COO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 474000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Wheelwright', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Scorer', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ramon  Kaur', 'title': 'Head of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katherine  Whitton', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara  Duffy', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joe  McCaughran', 'title': 'Chief Risk Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eoin  McCoy', 'title': 'Head of IG Poland', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Elliott', 'title': 'Head of Online Advertising', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.45
+dividendYield§0.060100004
+exDividendDate§1695254400
+payoutRatio§0.5168
+fiveYearAvgDividendYield§6.12
+beta§0.534
+priceToSalesTrailing12Months§2.9094815
+currency§GBp
+forwardEps§107.01
+pegRatio§1.56
+exchange§LSE
+quoteType§EQUITY
+shortName§IG GROUP HOLDINGS PLC ORD 0.005
+longName§IG Group Holdings plc
+firstTradeDateEpochUtc§1114671600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§877b2c7a-65e5-3008-9c8b-38a1e78924b2
+targetHighPrice§1250.0
+targetLowPrice§859.0
+targetMeanPrice§998.43
+targetMedianPrice§950.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§2.284
+grossMargins§0.52161
+ebitdaMargins§0.0
+trailingPegRatio§None

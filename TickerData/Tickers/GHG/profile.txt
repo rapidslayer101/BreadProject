@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 10:29:49.601664
+address1§1228 Zhongshan North Road
+address2§Putuo District
+city§Shanghai
+zip§200065
+country§China
+phone§86 21 3617 4886
+website§https://www.998.com
+industry§Lodging
+sector§Consumer Cyclical
+longBusinessSummary§GreenTree Hospitality Group Ltd., through its subsidiaries, develops leased-and-operated, and franchised-and-managed hotels under the GreenTree Inns brand in the People's Republic of China. It also engages in investment holding activities; and provision of information technology services. The company was founded in 2004 and is headquartered in Shanghai, the People's Republic of China.
+fullTimeEmployees§2063
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alex S.  Xu Ph.D.', 'age': 59, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yiping  Yang', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wen  Qi', 'age': 45, 'title': 'Vice President of Human Resources & Administration', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicky  Zheng', 'title': 'Investor Relationship Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory James  Karns', 'age': 67, 'title': 'General Counsel & Director', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+exDividendDate§1640822400
+payoutRatio§0.0
+beta§0.645
+priceToSalesTrailing12Months§0.3215934
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.42
+pegRatio§15.5
+exchange§NYQ
+quoteType§EQUITY
+shortName§GreenTree Hospitality Group Ltd
+longName§GreenTree Hospitality Group Ltd.
+firstTradeDateEpochUtc§1522157400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e1f17280-c6af-32cb-878b-7919d5d01903
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.19
+targetLowPrice§4.02
+targetMeanPrice§4.6
+targetMedianPrice§4.6
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.93
+grossMargins§0.51846004
+ebitdaMargins§0.48051
+trailingPegRatio§None

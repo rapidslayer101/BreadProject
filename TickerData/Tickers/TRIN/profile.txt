@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 07:47:37.631932
+address1§1N 1st Street
+address2§Suite 302
+city§Phoenix
+state§AZ
+zip§85004
+country§United States
+phone§480 374 5350
+website§https://trinitycap.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Trinity Capital Inc. is a business development company. It is a venture capital firm specializing in venture debt to growth stage companies looking for loans and/or equipment financing. Trinity Capital Inc. was founded in 2019 is based in Phoenix, Arizona with additional offices in the United States.
+fullTimeEmployees§63
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven Louis Brown', 'age': 62, 'title': 'Founder & Executive Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2233450, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle Steven Brown', 'age': 39, 'title': 'CEO, President, Chief Investment Officer & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1925850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald  Harder', 'age': 62, 'title': 'Chief Operating Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1259200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Michael Lund', 'age': 69, 'title': 'CFO, Treasurer and EVP of Finance & Strategic Planning', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Testa', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Nelson', 'title': 'Senior Technology Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Malcolmson', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Stanton', 'age': 39, 'title': 'Chief Compliance Officer, General Counsel & Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vibhor  Garg', 'title': 'Managing Director of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Bloomer', 'title': 'Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.13350001
+exDividendDate§1703721600
+payoutRatio§1.4333
+beta§0.7
+priceToSalesTrailing12Months§3.8248537
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.16
+exchange§NMS
+quoteType§EQUITY
+shortName§Trinity Capital Inc.
+longName§Trinity Capital Inc.
+firstTradeDateEpochUtc§1611930600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§807ef59f-99aa-30c5-ba8c-34c6dca6a7e1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§14.0
+targetMeanPrice§15.56
+targetMedianPrice§15.75
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.485
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

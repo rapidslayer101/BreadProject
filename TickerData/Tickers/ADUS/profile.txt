@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 01:43:10.858819
+address1§6303 Cowboys Way
+address2§Suite 600
+city§Frisco
+state§TX
+zip§75034
+country§United States
+phone§469 535 8200
+website§https://www.addus.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Addus HomeCare Corporation, together with its subsidiaries, provides personal care services to elderly, chronically ill, disabled persons, and individuals who are at risk of hospitalization or institutionalization in the United States. It operates through three segments: Personal Care, Hospice, and Home Health. The Personal Care segment provides non-medical assistance with activities of daily living. This segment offers services that include assistance with bathing, grooming, oral care, feeding and dressing, medication reminders, meal planning and preparation, housekeeping, and transportation services. The Hospice segment provides palliative nursing care, social work, spiritual counseling, homemaker, and bereavement counseling services for people who are terminally ill, as well as related services for their families. The Home Health segment offers skilled nursing and physical, occupational, and speech therapy for the individuals who requires assistance during an illness or after hospitalization. The company's payor clients include federal, state, and local governmental agencies; managed care organizations; commercial insurers; and private individuals. Addus HomeCare Corporation was founded in 1979 and is headquartered in Frisco, Texas.
+fullTimeEmployees§6284
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. R. Dirk Allison', 'age': 67, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1814586, 'exercisedValue': 983375, 'unexercisedValue': 14773344}, {'maxAge': 1, 'name': 'Mr. W. Bradley Bickham', 'age': 60, 'title': 'President & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 942470, 'exercisedValue': 549075, 'unexercisedValue': 2264161}, {'maxAge': 1, 'name': 'Mr. Brian W. Poff', 'age': 49, 'title': 'CFO, Executive VP, Secretary & Treasurer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 842780, 'exercisedValue': 0, 'unexercisedValue': 1783861}, {'maxAge': 1, 'name': 'Ms. Monica  Raines', 'age': 44, 'title': 'Executive VP and Chief Compliance & Quality Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 538175, 'exercisedValue': 0, 'unexercisedValue': 253193}, {'maxAge': 1, 'name': 'Mr. Cliff  Blessing', 'age': 43, 'title': 'Executive VP & Chief Development Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 478613, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zach  Simpson', 'title': 'Senior VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Wattenbarger', 'age': 53, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 391106, 'exercisedValue': 6716, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean P. Gaffney', 'age': 44, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 639436, 'exercisedValue': 0, 'unexercisedValue': 246200}, {'maxAge': 1, 'name': 'Mr. Roberton James Stevenson', 'age': 43, 'title': 'Executive VP & Chief Human Resource Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 664525, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darby  Anderson', 'age': 57, 'title': 'Executive VP & Chief Government Relations Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 684868, 'exercisedValue': 562860, 'unexercisedValue': 5661233}]
+auditRisk§4
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.873
+priceToSalesTrailing12Months§1.3903041
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.75
+pegRatio§1.37
+exchange§NMS
+quoteType§EQUITY
+shortName§Addus HomeCare Corporation
+longName§Addus HomeCare Corporation
+firstTradeDateEpochUtc§1256736600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b6169c22-930f-3c15-b164-abb469c678b5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§130.0
+targetLowPrice§102.0
+targetMeanPrice§110.43
+targetMedianPrice§105.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§7
+quickRatio§1.438
+earningsGrowth§0.338
+grossMargins§0.3146
+ebitdaMargins§0.09932
+trailingPegRatio§1.231

@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 01:36:05.794710
+address1§Building Two
+address2§First Floor Dataworks at Kings Hall Health and Wellbeing Park
+city§Belfast
+zip§BT9 6GW
+country§United Kingdom
+website§https://www.diaceutics.com
+industry§Diagnostics & Research
+industryKey§diagnostics-research
+industryDisp§Diagnostics & Research
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Diaceutics PLC, a diagnostic commercialisation company, provides data, data analytics, and implementation services for pharmaceutical companies worldwide. It operates DXRX platform, which offers DXRX data solutions, including access to various pipelines of diagnostic testing data from a network of laboratories that provides DXRX signal, lab mapping, testing dashboard, and physician mapping services; DXRX marketplace solutions, which enables a marketplace, where labs, pharma, and diagnostic companies come to find partners for collaborations on precision medicine diagnostics. The company also provides DXRX lab education, a suite of tailored and targeted training sessions designed to provide essential education for labs to enable and drive quality testing and biomarker knowledge; DXRX advisory boards that create and enable a valuable interface for pharmaceutical companies with a view to exploring and revealing new insights pertinent to the commercialisation and development of a therapy or companion diagnostic; and DXRX Lab Alerts, an advanced laboratory targeting service delivering tailored, short-form, quick read, educational messages with call-to-action to labs in the DXRX network. In addition, it offers implementation and consulting services for precision medicine diagnostics. Diaceutics PLC was incorporated in 2005 and is headquartered in Belfast, the United Kingdom.
+fullTimeEmployees§151
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter  Keeling', 'age': 62, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 363235, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Stewart Roberts', 'age': 40, 'title': 'CFO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 180373, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Keeling', 'age': 40, 'title': 'Executive Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 334266, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Browne', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gillian  Shaw', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Norma  Thompson', 'title': 'Global Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Clark', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susanne  Munksted', 'title': 'Chief Precision Medicine Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jillian  Beggs', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marieke  Hoefsmit', 'title': 'Senior Director & Head of Data Delivery Netherlands', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.426
+priceToSalesTrailing12Months§3.414399
+currency§GBp
+forwardEps§-2.34
+exchange§LSE
+quoteType§EQUITY
+shortName§DIACEUTICS PLC ORD GBP0.002
+longName§Diaceutics PLC
+firstTradeDateEpochUtc§1553155200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§145b2ac1-1fbd-3573-9d88-617ebd6f1dee
+messageBoardId§finmb_133770037
+targetHighPrice§200.0
+targetLowPrice§150.0
+targetMeanPrice§172.0
+targetMedianPrice§169.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§7.737
+grossMargins§0.8737
+ebitdaMargins§0.060549997
+trailingPegRatio§None

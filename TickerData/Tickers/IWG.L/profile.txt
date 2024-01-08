@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 09:39:13.326537
+address1§Dammstrasse 19
+city§Zug
+zip§6300
+country§Switzerland
+website§https://www.iwgplc.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§IWG plc, together with its subsidiaries, provides workspace solutions in the Americas, Europe, the Middle East, Africa, the Asia Pacific, the United Kingdom, and internationally. The company offers coworking and collaboration spaces; flexible and scalable spaces; work and community spaces; private, professional, and memberships workspaces; virtual offices, meeting rooms, and lounges; workplace recovery; and reception services and conference products. It provides its services franchise partners, landlords, and property owners under the Regus, Spaces, HQ, Signature, Basepoint, Stop & Work, The Office Operators, BizDojo, Open Office, No18, The Clubhouse, Central Working, The Wing, and Copernico brands. The company also operates Worka, an easy-to-use app to search, compare, and book office space, coworking, and meeting rooms; Easy Offices, an online broker that helps to find places to work; HomeToWork, a platform that provides access to content, events, and resources from companies to make home a place to work; Rovva, an online toolkit which provides a range of products and services that help the people to take their businesses further; Meetingo, a digital meeting platform; and managed conventional office solutions that provides customized workspaces.The company was formerly known as Regus plc and changed its name to IWG plc in December 2016. IWG plc was founded in 1989 and is headquartered in Zug, Switzerland.
+fullTimeEmployees§10000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Dixon', 'age': 64, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1374000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charlie  Steel', 'age': 38, 'title': 'Chief Financial Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 524000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wayne  Gerry', 'title': 'Group Investor Relations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Simon  Condon', 'title': 'Group Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Samir  Amad', 'title': 'Executive Vice President of Latin America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pelle  Persson', 'title': 'Head of Development in Nordics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Sean James Donovan Regan BEc, FCA, FAPI, MAICD', 'age': 57, 'title': 'Company Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Filippo  Sarti', 'title': 'Chief Executive Officer of Middle East & Africa', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Gleadle', 'age': 65, 'title': 'Group Finance Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 676200, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1587600000
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.83
+beta§2.01
+priceToSalesTrailing12Months§0.64642555
+currency§GBp
+forwardEps§0.66
+pegRatio§-8.57
+exchange§LSE
+quoteType§EQUITY
+shortName§IWG PLC ORD 1P
+longName§IWG plc
+firstTradeDateEpochUtc§997081200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§231f94f6-4ed3-3ec0-9326-d729de3fa665
+targetHighPrice§262.0
+targetLowPrice§126.0
+targetMeanPrice§196.86
+targetMedianPrice§180.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.44
+grossMargins§0.25204
+ebitdaMargins§0.18452999
+trailingPegRatio§None

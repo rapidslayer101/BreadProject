@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 23:47:43.200310
+address1§2801 East Beltline, N.E.
+city§Grand Rapids
+state§MI
+zip§49525
+country§United States
+phone§616 364 6161
+website§https://www.ufpi.com
+industry§Lumber & Wood Production
+sector§Basic Materials
+longBusinessSummary§UFP Industries, Inc., through its subsidiaries, designs, manufactures, and markets wood and non-wood composites, and other materials in North America, Europe, Asia, and Australia. It operates through Retail, Packaging, and Construction segments. The Retail segment offers treated lumber products, including decking, fencing, lattice, and other products; pressure-treated and fire-retardant products used primarily for outdoor decking environments; and lawn and garden products, consisting of wood and vinyl fencing options, garden beds and planters, pergolas, picnic tables, and other landscaping products. This segment also offers wood plastic composites, composite decking, and related decking accessories, including non-wood railing systems, balusters, post caps, and other products, as well as pre-painted and primed shiplap and project boards. The Packaging segment provides custom and structural packaging products, pallets, corrugate, foam, labels, strapping, and films. The construction segment offers roof trusses, cut and shaped lumbers, plywood, oriented strand boards, and dimensional lumbers; engineered wood components, including roof and floor trusses, wall panels, I-joists, and lumber packages; and alternate materials components, such as metal trusses, sheathed and pre-finished light gauge metal wall panels, aluminum decks, and rail accessories, as well as distributes siding, electrical, and plumbing products. This segment also engages in the manufacture of components; design, manufacture, and supply of wood forms and related products to set or form concrete for structures, such as parking garages, stadiums, and other infrastructure projects. It also offers interior fixtures, millwork, and casework for retail and commercial structures. The company was formerly known as Universal Forest Products, Inc. and changed its name to UFP Industries, Inc. in April 2020. UFP Industries, Inc. was incorporated in 1955 and is headquartered in Grand Rapids, Michigan.
+fullTimeEmployees§15500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew Jon Missad CPA', 'age': 62, 'title': 'CEO & Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2601712, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Richard Cole CMA, CPA', 'age': 56, 'title': 'CFO & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1404604, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick M. Benton', 'age': 53, 'title': 'President of UFP Construction LLC', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1123590, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Worthington', 'age': 52, 'title': 'President of UFP Industrial LLC', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1096022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott T. Bravata', 'age': 58, 'title': 'Vice President of Accounting & Administration', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dick  Gauthier', 'title': 'Vice President of Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. Tutas', 'age': 53, 'title': 'Chief Compliance Officer, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald L. James', 'age': 63, 'title': 'Executive Vice President of National Sales', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen T. Peters', 'age': 55, 'title': 'COO of UFP Retail Solutions LLC & Executive VP of Innovation', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 969475, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad C. Uhlig-Eastin', 'age': 51, 'title': 'Executive Vice President of ProWood', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.010199999
+exDividendDate§1701302400
+payoutRatio§0.123100005
+fiveYearAvgDividendYield§0.99
+beta§1.523
+priceToSalesTrailing12Months§0.960208
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.93
+pegRatio§0.86
+exchange§NMS
+quoteType§EQUITY
+shortName§UFP Industries, Inc.
+longName§UFP Industries, Inc.
+firstTradeDateEpochUtc§752941800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc29852a-884d-3ce9-b9d5-4c4f21bda43c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§120.0
+targetLowPrice§102.0
+targetMeanPrice§111.0
+targetMedianPrice§111.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.858
+earningsGrowth§-0.211
+grossMargins§0.19457
+ebitdaMargins§0.107530005
+trailingPegRatio§None

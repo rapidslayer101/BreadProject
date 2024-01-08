@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 18:31:12.064992
+address1§Sir Matt Busby Way
+address2§Old Trafford
+city§Manchester
+zip§M16 0RA
+country§United Kingdom
+phone§44 16 1868 8000
+website§https://www.manutd.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§Manchester United plc, together with its subsidiaries, owns and operates a professional sports team in the United Kingdom. It operates Manchester United Football Club, a professional football club. The company develops marketing and sponsorship relationships with international and regional companies to leverage its brand. It also markets and sells sports apparel, training and leisure wear, and other clothing; and other licensed products, such as coffee mugs and bed spreads featuring the Manchester United brand and trademarks, as well as distributes these products through Manchester United branded retail centers and e-commerce platforms, and through the company's partners' wholesale distribution channels. In addition, the company distributes live football content directly, as well as through commercial partners; broadcasts television rights relating to the Premier League, Union of European Football Associations club competitions, and other competitions; and delivers Manchester United programming through MUTV television channel to territories worldwide. Further, it operates Old Trafford, a sports venue with 74,240 seats, as well as invests in properties. The company was formerly known as Manchester United Ltd. changed its name to Manchester United plc in August 2012. Manchester United plc was founded in 1878 and is headquartered in Manchester, the United Kingdom.
+fullTimeEmployees§1112
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joel M. Glazer', 'age': 56, 'title': 'Executive Co-Chairman', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Avram A. Glazer', 'age': 63, 'title': 'Executive Co-Chairman', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick Charles Donald Stewart', 'age': 51, 'title': 'Chief Legal Officer, Interim CEO, General Counsel and Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Clifford Baty', 'age': 52, 'title': 'CFO & Director', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Collette  Roche', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren  Fletcher', 'title': 'Technical Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Corinna  Freedman', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ellie  Norman', 'title': 'Chief Communications Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Phil  Rainford', 'title': 'Head of Stadium Safety & Security', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Victoria  Timpson', 'title': 'Chief Executive Officer of Alliances & Partnerships', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+exDividendDate§1654214400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.02
+beta§0.807
+priceToSalesTrailing12Months§5.055304
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.14
+pegRatio§113180.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Manchester
+longName§Manchester United plc
+firstTradeDateEpochUtc§1344605400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§540fdbdc-9912-3e5d-8ed5-fb0a50bc3578
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.13
+targetLowPrice§22.11
+targetMeanPrice§23.78
+targetMedianPrice§23.11
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.323
+grossMargins§0.84388
+ebitdaMargins§0.24094
+trailingPegRatio§None

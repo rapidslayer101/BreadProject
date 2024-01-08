@@ -1,0 +1,32 @@
+# reload+after+2024-01-22 12:30:13.351223
+address1§3730 Kirby Drive
+address2§Suite 1200
+city§Houston
+state§TX
+zip§77098
+country§United States
+phone§619 500 7747
+website§https://www.hnra-nyse.com
+industry§Shell Companies
+sector§Financial Services
+longBusinessSummary§HNR Acquisition Corp does not have significant operations. The company focuses on effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. It intends to focus on assets used in exploring, developing, producing, transporting, storing, gathering, processing, fractionating, refining, distributing, or marketing of natural gas, natural gas liquids, crude oil, or refined products in North America. HNR Acquisition Corp was incorporated in 2020 and is based in Houston, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dante V. Caravaggio', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell B. Trotter', 'age': 64, 'title': 'Chief Financial Officer', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David M. Smith', 'age': 68, 'title': 'Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§HNR Acquisition Corp
+longName§HNR Acquisition Corp
+firstTradeDateEpochUtc§1649251800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9aaffb32-de72-355d-80eb-3c49a62f04d7
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.112
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

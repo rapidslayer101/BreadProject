@@ -1,0 +1,61 @@
+# reload+after+2024-01-22 03:26:56.724458
+address1§33587 Walker Road
+city§Avon Lake
+state§OH
+zip§44012
+country§United States
+phone§440 930 1000
+fax§440 930 3064
+website§https://www.avient.com
+industry§Specialty Chemicals
+industryKey§specialty-chemicals
+industryDisp§Specialty Chemicals
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Avient Corporation operates as a formulator of material solutions in the United States, Canada, Mexico, Europe, South America, and Asia. It operates in two segments, Color, Additives and Inks; and Specialty Engineered Materials. The Color, Additives and Inks segment offers specialized color and additive concentrates in solid and liquid form for thermoplastics; dispersions for thermosets; and specialty inks. Its products are used in various markets, including medical, pharmaceutical devices, food packaging, personal care, cosmetics, transportation, building products, recreational, athletic apparel, construction, filtration, outdoor furniture, healthcare, wire, and cable. The Specialty Engineered Materials segment provides specialty polymer formulations, services, and solutions for designers, assemblers, and processors of thermoplastic materials; and long glass and carbon fiber technology to thermoset and thermoplastic composites. The company sells its products through direct sales personnel, distributors, and commissioned sales agents. The company was formerly known as PolyOne Corporation and changed its name to Avient Corporation in June 2020. Avient Corporation was founded in 1885 and is headquartered in Avon Lake, Ohio.
+fullTimeEmployees§9700
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Jamie A. Beggs', 'age': 47, 'title': 'Senior VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 883820, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa K. Kunkle', 'age': 54, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1061545, 'exercisedValue': 0, 'unexercisedValue': 74958}, {'maxAge': 1, 'name': 'Mr. Robert M. Patterson', 'age': 50, 'title': 'Advisor', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 5031994, 'exercisedValue': 0, 'unexercisedValue': 244689}, {'maxAge': 1, 'name': 'Mr. Joel R. Rathbun', 'age': 50, 'title': 'Senior Vice President of Mergers & Acquisitions', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1030949, 'exercisedValue': 0, 'unexercisedValue': 158569}, {'maxAge': 1, 'name': 'Mr. Michael A. Garratt', 'age': 59, 'title': 'Senior VP and President of Color, Additives & Inks - EMEA Region', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1457081, 'exercisedValue': 0, 'unexercisedValue': 70272}, {'maxAge': 1, 'name': 'Dr. Ashish K. Khandpur', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. M. John Midea Jr.', 'age': 59, 'title': 'Senior Vice President of Global Operations & Process Improvement', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1020067, 'exercisedValue': 0, 'unexercisedValue': 309512}, {'maxAge': 1, 'name': 'Dr. Vinod  Purayath Ph.D.', 'age': 44, 'title': 'Senior VP & Chief Technology Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Evins', 'title': 'Interim Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giuseppe  Di Salvo', 'title': 'VP of Investor Relations & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.03
+dividendYield§0.027
+exDividendDate§1702512000
+payoutRatio§2.9118
+fiveYearAvgDividendYield§2.39
+beta§1.526
+priceToSalesTrailing12Months§1.082297
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.53
+pegRatio§7.33
+lastDividendValue§0.258
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Avient Corporation
+longName§Avient Corporation
+firstTradeDateEpochUtc§937229400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c54fe76d-4a71-37fd-93f4-19e108de2ab8
+messageBoardId§finmb_203002
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.0
+targetLowPrice§37.0
+targetMeanPrice§43.63
+targetMedianPrice§45.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.205
+grossMargins§0.30042
+ebitdaMargins§0.14218001
+trailingPegRatio§None

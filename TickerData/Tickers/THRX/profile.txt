@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 06:47:34.255561
+address1§314 Main Street
+address2§Suite 04-200
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§857 400 9491
+website§https://theseusrx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Theseus Pharmaceuticals, Inc., a biopharmaceutical company, engages in the discovery, development, and commercialization of targeted therapies for the treatment of cancer patients. Its lead product candidate is THE-630, a pan-KIT inhibitor for the treatment of gastrointestinal stromal tumors. The company also develops THE-349, a fourth-generation selective epidermal growth factor receptor inhibitor to address C797X-mediated resistance to first- or later-line osimertinib treatment in patients with non-small cell lung cancer. Its development programs address drug resistance mutations in key driver oncogenes, which are mutated genes that cause cancer. The company was incorporated in 2017 and is based in Cambridge, Massachusetts.
+fullTimeEmployees§38
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Iain D. Dukes DPHIL, M.A.', 'age': 65, 'title': 'Co-Founder & Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 67285, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradford D. Dahms', 'age': 35, 'title': 'President, CFO & Director', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 480950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristine  Callahan CPA', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§3.994
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.94
+exchange§NMS
+quoteType§EQUITY
+shortName§Theseus Pharmaceuticals, Inc.
+longName§Theseus Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1633613400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aeb74a7f-09da-3f98-b34a-9ada5fad9e14
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§3.5
+targetMeanPrice§5.25
+targetMedianPrice§5.25
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§29.291
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 10:33:51.601864
+address1§555 West Adams
+city§Chicago
+state§IL
+zip§60661
+country§United States
+phone§312 985 2000
+website§https://www.transunion.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§TransUnion operates as a global consumer credit reporting agency that provides risk and information solutions. The company operates in three segments: U.S. Markets, International, and Consumer Interactive. The U.S. Markets segment provides consumer reports, actionable insights, and analytic services to businesses, which uses its services to acquire new customers; assess consumer ability to pay for services; identify cross-selling opportunities; measure and manage debt portfolio risk; collect debt; verify consumer identities; and mitigate fraud risk. This segment serves various industry vertical markets, including financial services, technology, commerce and communications, insurance, media, services and collections, tenant and employment, and public sectors. The International segment offers credit reports, analytics, technology solutions, and other value-added risk management services; consumer services, which help consumers to manage their personal finances; consumer credit reporting, insurance and auto information solutions, and commercial credit information services. This segment serves customers in financial services, retail credit, insurance, automotive, collections, public sector, and communications industries through direct and indirect channels.  The company was formerly known as TransUnion Holding Company, Inc. and changed its name to TransUnion in March 2015. TransUnion was founded in 1968 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§12200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher A. Cartwright', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1899947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd M. Cello CPA', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1075552, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Venkat  Achanta', 'age': 50, 'title': 'Executive VP and Chief Technology, Data & Analytics Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 878519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Chaouki', 'age': 50, 'title': 'President of U.S. Markets & Consumer Interactive', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 987223, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Dane Mauldin', 'age': 52, 'title': 'Executive VP & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer A. Williams', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron H. Hoffman', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather J. Russell J.D.', 'age': 51, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 974991, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Krause', 'age': 47, 'title': 'Executive VP, Chief Strategy & Communications Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan W. Muigai', 'age': 53, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.42
+dividendYield§0.0064999997
+exDividendDate§1700092800
+payoutRatio§0.3784
+fiveYearAvgDividendYield§0.44
+beta§1.578
+priceToSalesTrailing12Months§3.3311887
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.62
+pegRatio§2.3
+exchange§NYQ
+quoteType§EQUITY
+shortName§TransUnion
+longName§TransUnion
+firstTradeDateEpochUtc§1435239000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§01ec1b15-90e6-3285-ac06-b872cf46c30b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§81.0
+targetLowPrice§47.0
+targetMeanPrice§68.28
+targetMedianPrice§70.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§1.227
+grossMargins§0.65389997
+ebitdaMargins§0.31077
+trailingPegRatio§0.6469

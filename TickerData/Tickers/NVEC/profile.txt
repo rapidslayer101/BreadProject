@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 15:46:19.692839
+address1§11409 Valley View Road
+city§Eden Prairie
+state§MN
+zip§55344-3617
+country§United States
+phone§952 829 9217
+fax§952 829 9189
+website§https://www.nve.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§NVE Corporation develops and sells devices that use spintronics, a nanotechnology that relies on electron spin to acquire, store, and transmit information in the United States and internationally. The company manufactures spintronic products, including sensors and couplers for use in acquiring and transmitting data. Its products comprise standard sensors to detect the presence of a magnetic or metallic material to determine position, rotation, or speed for the factory automation market; and custom and medical sensors for medical devices to replace electromechanical magnetic switches. The company also offers spintronic couplers for power conversion and industrial Internet of Things (IIoT) market; and DC-to-DC convertors for use in power conversion systems and industrial networks for the IIoT. In addition, it undertakes contracts for research and development, and licensing of spintronic magnetoresistive random access memory technology. NVE Corporation was founded in 1989 and is headquartered in Eden Prairie, Minnesota.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Daniel A. Baker Ph.D.', 'age': 65, 'title': 'CEO, President & Director', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 1029398, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Nelson', 'age': 37, 'title': 'Accounting Manager & Principal Financial Officer', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 62232, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter G. Eames', 'age': 47, 'title': 'Vice President of Advanced Technology', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 289743, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John K. Myers', 'age': 74, 'title': 'Vice President of New Business Development', 'yearBorn': 1949, 'fiscalYear': 2023, 'totalPay': 135625, 'exercisedValue': 2748985, 'unexercisedValue': 194950}]
+auditRisk§1
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§4.0
+dividendYield§0.0547
+exDividendDate§1698364800
+payoutRatio§0.89489996
+fiveYearAvgDividendYield§6.14
+beta§1.172
+priceToSalesTrailing12Months§9.764619
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.83
+exchange§NCM
+quoteType§EQUITY
+shortName§NVE Corporation
+longName§NVE Corporation
+firstTradeDateEpochUtc§801235800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§88b9d43c-8008-3960-be27-03c7564cb392
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§18.661
+earningsGrowth§-0.224
+grossMargins§0.78744006
+ebitdaMargins§0.66155
+trailingPegRatio§None

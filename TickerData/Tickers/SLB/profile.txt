@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 03:33:14.147488
+address1§5599 San Felipe
+address2§17th Floor
+city§Houston
+state§TX
+zip§77056
+country§United States
+phone§713 513 2000
+website§https://www.slb.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Schlumberger Limited engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems. The company provides field development and hydrocarbon production, carbon management, integration of adjacent energy systems; reservoir interpretation and data processing services for exploration data; and well construction and production improvement services and products. It also offers subsurface geology and fluids evaluation information; open and cased hole services; exploration and production pressure, and flow-rate measurement services; and pressure pumping, well stimulation, and coiled tubing equipment solutions. In addition, the company offers mud logging, directional drilling, measurement-while-drilling, and logging-while-drilling services, as well as engineering support services; supplies drilling fluid systems; designs, manufactures, and markets roller cone and fixed cutter drill bits; bottom-hole-assembly and borehole enlargement technologies; well cementing products and services; well planning, well drilling, engineering, supervision, logistics, procurement, and contracting of third parties, as well as drilling rig management solutions; and drilling equipment and services, as well as land drilling rigs and related services. Further, it provides artificial lift production equipment and optimization services; supplies packers, safety valves, sand control technology, and various intelligent well completions technology and equipment; designs and manufactures valves, chokes, actuators, and surface trees; and OneSubsea an integrated solutions, products, systems, and services, including wellheads, subsea trees, manifolds and flowline connectors, control systems, connectors, and services. The company was formerly known as Socie´te´ de Prospection E´lectrique. Schlumberger Limited was founded in 1926 and is based in Houston, Texas.
+fullTimeEmployees§99000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Olivier  Le Peuch', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3713808, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephane  Biguet', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1679977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dianne B. Ralston', 'age': 56, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1425432, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ashok  Belani', 'age': 64, 'title': 'Senior Strategic Advisor', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1173494, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Khaled  Al Mogharbel', 'age': 52, 'title': 'Executive Vice President of Geographies', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1801201, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Abdellah  Merad', 'age': 49, 'title': 'Executive Vice President of Core Services & Equipment', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1698366, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Guild', 'age': 51, 'title': 'Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Demosthenis  Pafitis', 'age': 55, 'title': 'Chief Technology Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sebastien  Lehnherr', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James R. McDonald', 'age': 44, 'title': 'Senior Vice President of Investor Relations and Industry Affairs', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.019299999
+exDividendDate§1701734400
+payoutRatio§0.32119998
+fiveYearAvgDividendYield§3.43
+beta§1.658
+priceToSalesTrailing12Months§2.3133354
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.59
+pegRatio§0.61
+exchange§NYQ
+quoteType§EQUITY
+shortName§Schlumberger N.V.
+longName§Schlumberger Limited
+firstTradeDateEpochUtc§378657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2f075ba1-caa4-361d-9c63-7402224be4bf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§81.0
+targetLowPrice§61.0
+targetMeanPrice§69.39
+targetMedianPrice§70.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§28
+quickRatio§0.941
+earningsGrowth§0.238
+grossMargins§0.19792
+ebitdaMargins§0.21993999
+trailingPegRatio§0.9833

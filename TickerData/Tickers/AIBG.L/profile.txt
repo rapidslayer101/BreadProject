@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 22:35:24.807740
+address1§10 Molesworth Street
+city§Dublin
+zip§2
+country§Ireland
+phone§353 1 660 0311
+website§https://aib.ie/group
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§AIB Group plc provides banking and financial products and services to retail, business, and corporate customers in the Republic of Ireland and the United Kingdom. It operates through Retail Banking, AIB Capital Markets, and AIB UK, and Group segments. The company offers current and savings accounts, demand deposits, notice deposits, fixed term deposits, junior/student saver deposits, and currency deposits. It also provides personal, car, home improvement, education, business, farm development, startup, farm investment, future growth, and brexit loans; graduate, corporate, asset, energy efficiency, forestry, invoice, prompt pay and insurance premium, debt, real estate, and trade finance; business and farmer credit line, government credit guarantees, and overdrafts; and venture capital funds, as well as mortgages. In addition, the company offers credit and debit cards; investment funds; life, home, car, travel, and business succession insurance products; and pension products. Further, it provides payment, merchant, cash management, FX rates, foreign currency and interest rate risk management, exporting, international cash flow management, foreign exchange, and interest rate fluctuation management services; and trade finance products, such as documentary collections, import and export letter of credit, standby letter of credit, and bank guarantees. The company was formerly known as Allied Irish Banks, p.l.c. and changed its name to AIB Group plc in December 2017. AIB Group plc was founded in 1825 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§10133
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. J. Colin Hunt BComm, MEconSc, Ph.D.', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 516630, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donal  Galvin', 'age': 50, 'title': 'CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 514047, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  McFarlane', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham  Fagan', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Niamh  Hore', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen  Dooley LLB', 'age': 54, 'title': 'Group General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paddy  McDonnell', 'title': 'Head of Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terence  Liston', 'title': 'Head of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  McCormack', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Donall  O'Shea", 'title': 'Head of Real Estate Finance, Wholesale, Institutional & Corporate Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.0149
+exDividendDate§1680134400
+payoutRatio§0.1527
+beta§1.681
+priceToSalesTrailing12Months§2.8022244
+currency§GBp
+lastDividendValue§6.2
+lastDividendDate§1680134400
+exchange§LSE
+quoteType§EQUITY
+shortName§AIB GROUP PLC ORD EUR0.625 (CDI
+longName§AIB Group plc
+firstTradeDateEpochUtc§1650265200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§50eb4fe8-a7c5-3f35-a91f-90ec6aca50e1
+messageBoardId§finmb_324875
+recommendationKey§none
+earningsGrowth§0.883
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

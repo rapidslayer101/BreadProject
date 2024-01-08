@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 15:46:58.327664
+address1§17101 Armstrong Avenue
+address2§Suite 100
+city§Irvine
+state§CA
+zip§92614
+country§United States
+phone§714 430 6400
+website§https://rgp.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§Resources Connection, Inc. provides consulting services to business customers under the Resources Global Professionals name in North America, Europe, and the Asia Pacific. The company offers services in the areas of transactions, including integration and divestitures, bankruptcy/restructuring, going public readiness and support, financial process optimization, and system implementation; and regulations, such as accounting regulations, internal audit and compliance, data privacy and security, healthcare compliance, and regulatory compliance. It provides transformations services comprising finance transformation, digital transformation, supply chain management, cloud migration, and data design and analytics. The company was formerly known as RC Transaction Corp. and changed its name to Resources Connection, Inc. in August 2000. Resources Connection, Inc. was founded in 1996 and is headquartered in Irvine, California.
+fullTimeEmployees§850
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald B. Murray', 'age': 76, 'title': 'Co-Founder & Independent Chairman', 'yearBorn': 1947, 'fiscalYear': 2023, 'totalPay': 400000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate W. Duchene', 'age': 60, 'title': 'CEO, Interim COO, President & Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1913938, 'exercisedValue': 171500, 'unexercisedValue': 175500}, {'maxAge': 1, 'name': 'Ms. Jennifer Y. Ryu', 'age': 48, 'title': 'CFO & Executive VP', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1001246, 'exercisedValue': 0, 'unexercisedValue': 3150}, {'maxAge': 1, 'name': 'Mr. Michael  Allen', 'title': 'Vice President of F&A and Technology & Digital', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith  Golden', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lauren A. Elkerson', 'title': 'Corporate Secretary & Chief Legal Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julie  Shaver', 'title': 'Senior Vice President of Corporate Development & Strategy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katy  Conway', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Stanton', 'age': 62, 'title': 'Senior Vice President of Revenue', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joni  Noel', 'title': 'Senior Vice President of Healthcare & Private Equity', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.56
+dividendYield§0.0427
+exDividendDate§1700006400
+payoutRatio§0.7089
+fiveYearAvgDividendYield§3.68
+beta§0.668
+priceToSalesTrailing12Months§0.62448394
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.88
+pegRatio§1.7
+exchange§NMS
+quoteType§EQUITY
+shortName§Resources Connection, Inc.
+longName§Resources Connection, Inc.
+firstTradeDateEpochUtc§976890600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a3f7c11a-014d-375d-a4b7-c5d6aee29f48
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§16.33
+targetMedianPrice§15.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§2.697
+earningsGrowth§-0.725
+grossMargins§0.39431
+ebitdaMargins§0.07377
+trailingPegRatio§None

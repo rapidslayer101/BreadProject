@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 11:44:50.275958
+address1§41 University Drive
+address2§Suite 400
+city§Newtown
+state§PA
+zip§18940
+country§United States
+phone§267 225 6263
+website§https://forian.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§Forian Inc. provides software and information solutions, proprietary data driven insights, and predictive analytics to optimize and measure the operational, clinical, and financial performance of its life science and healthcare customers. It operates through three segments: Information & Software, Services, and Other. The company's products include BioTrack, a vertically integrated point of sale, manufacturing, delivery, and cultivator software solution for dispensaries, cultivators, manufacturers, and distributors; and Cannalytics, a Software as a Service based analytics solution that provides customers with a presentation of business performance. Its products also comprise BioTrack seed-to-sale compliance traceability platform, which is used to manage the tracking and tracing of various cannabis products from cultivation to sale; and BioTrack State Traceability & Enforcement Monitoring System to ensure transparency and accountability throughout cannabis supply chain. In addition, the company offers security monitoring and web marketing services. Forian Inc. was incorporated in 2020 and is headquartered in Newtown, Pennsylvania. Forian Inc.
+fullTimeEmployees§102
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Vesey', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 457000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward Francis Spaniel Jr.', 'age': 53, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 395800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max C. Wygod', 'age': 35, 'title': 'Co-Founder, CEO, President & Executive Chairman of the Board', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 46875, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam H. Dublin', 'age': 57, 'title': 'Co-Founder, Chief Strategy Officer & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 113699, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Holden', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rebecca  Adams', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Reuscher', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.982
+priceToSalesTrailing12Months§2.484316
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.07
+exchange§NCM
+quoteType§EQUITY
+shortName§Forian Inc.
+longName§Forian Inc.
+firstTradeDateEpochUtc§1614781800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d9a3aae6-5025-31ff-99fb-e71750ac6bb1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§7.673
+grossMargins§0.78174
+ebitdaMargins§-0.33310002
+trailingPegRatio§0.5644

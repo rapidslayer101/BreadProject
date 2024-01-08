@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 16:37:59.748948
+address1§Glanbia House
+address2§Ring Road
+city§Kilkenny
+zip§R95 E866
+country§Ireland
+phone§353 56 777 2200
+website§https://www.glanbia.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Glanbia plc operates as a nutrition company worldwide. The company manufactures and sells sports nutrition and lifestyle nutrition products in various formats, including powders, ready-to-eat bars and snacking foods, and ready-to-drink beverages through various channels, such as specialty retail, online, and gyms, as well the food, drug, mass, and club channels. It also engages in the manufacture and sale of cheese, dairy, and non-dairy nutritional and functional ingredients; and vitamin and mineral premixes. In addition, the company engages in the financing, research and development, property and land dealing, receivables management, management, property leasing, business service, weight management, and bioactive solutions businesses. It operates a portfolio of brands, including Optimum Nutrition, BSN, Isopure, Nutramino, SlimFast, think!, Amazing Grass, Body & Fit, and LevlUp brands. Glanbia plc was founded in 1964 and is headquartered in Kilkenny, Ireland.
+fullTimeEmployees§6163
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark A. Garvey', 'age': 59, 'title': 'Group Finance Director & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1948000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Siobhan  Talbot B.Comm, FCA', 'age': 59, 'title': 'Executive Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 4113000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hugh  McGuire Dip Finance, M.Sc', 'age': 51, 'title': 'CEO, Director & Chief Executive Officer of Glanbia Performance Nutrition', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Liam  Hennigan', 'title': 'Group Secretary, Head of Investor Relations & Grp. Dir. of Strategic Planning and Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Martha  Kavanagh', 'title': 'Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Doyle', 'age': 45, 'title': 'Chief Corporate Development Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sue  Sweem', 'age': 58, 'title': 'Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Patten', 'age': 61, 'title': 'Chief ESG & Corporate Affairs Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Tench', 'age': 52, 'title': 'Chief Operating Officer of Glanbia Nutritionals', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Phelan', 'age': 56, 'title': 'Chief Executive Officer of Glanbia Nutritionals', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.34
+dividendYield§0.0229
+exDividendDate§1692835200
+payoutRatio§0.3469
+fiveYearAvgDividendYield§2.34
+beta§0.533
+priceToSalesTrailing12Months§0.6767584
+currency§EUR
+forwardEps§0.99
+exchange§LSE
+quoteType§EQUITY
+shortName§GLANBIA PLC ORD EUR0.06 (CDI)
+longName§Glanbia plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bbc49c05-791f-3a9a-a8c9-aee6164d160c
+targetHighPrice§19.0
+targetLowPrice§19.0
+targetMeanPrice§19.0
+targetMedianPrice§19.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.97
+earningsGrowth§-0.009
+grossMargins§0.17864001
+ebitdaMargins§0.075050004
+trailingPegRatio§7.769

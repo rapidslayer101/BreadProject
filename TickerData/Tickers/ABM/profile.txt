@@ -1,0 +1,62 @@
+# reload+after+2024-01-22 06:26:08.263401
+address1§One Liberty Plaza
+address2§7th Floor
+city§New York
+state§NY
+zip§10006
+country§United States
+phone§212 297 0200
+website§https://www.abm.com
+industry§Specialty Business Services
+industryKey§specialty-business-services
+industryDisp§Specialty Business Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§ABM Industries Incorporated, through its subsidiaries, engages in the provision of integrated facility, infrastructure, and mobility solutions in the United States and internationally. It operates through Business & Industry, Manufacturing & Distribution, Education, Aviation, and Technical Solutions segments. The company offers janitorial, facilities engineering, and parking services for commercial real estate properties, including corporate offices for high tech clients, sports and entertainment venues, and traditional hospitals and non-acute healthcare facilities; provides vehicle maintenance and other services to rental car providers. It also offers integrated facility services, engineering, and other specialized services in various types of manufacturing, distribution, and data center facilities. In addition, the company delivers custodial and landscaping and grounds for public school districts, private schools, colleges, and universities. Further, it supports airlines and airports with services comprising passenger assistance, catering logistics, air cabin maintenance, and transportation services. Additionally, the company provides electric vehicle power design, installation, and maintenance, as well as microgrid systems installations. ABM Industries Incorporated was founded in 1909 and is headquartered in New York, New York.
+fullTimeEmployees§123000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott B. Salmirs', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2836800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Earl Ray Ellis', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1592903, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rene  Jacobsen', 'age': 62, 'title': 'Executive VP & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1788638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea R. Newborn Esq.', 'age': 60, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1030514, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua H. Feinberg', 'age': 49, 'title': 'Executive VP and Chief Strategy & Transformation Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1438506, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dean A. Chin', 'age': 55, 'title': 'Senior VP, Chief Accounting Officer, Corporate Controller & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1034369, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie  Kirkwood Ruiz', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul E. Goldberg', 'age': 59, 'title': 'Senior Vice President of Investor Relations', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nadeen A. Ayala', 'title': 'Chief Culture & Communication Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cary  Bainbridge', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.9
+dividendYield§0.0212
+exDividendDate§1704240000
+payoutRatio§0.2322
+fiveYearAvgDividendYield§1.87
+beta§1.148
+priceToSalesTrailing12Months§0.3295852
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.62
+pegRatio§3.59
+lastDividendValue§0.225
+lastDividendDate§1704240000
+exchange§NYQ
+quoteType§EQUITY
+shortName§ABM Industries Incorporated
+longName§ABM Industries Incorporated
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§39a8e755-839f-397a-9b0c-6dba2a1dfb84
+messageBoardId§finmb_250079
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§42.0
+targetMeanPrice§51.83
+targetMedianPrice§51.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.292
+earningsGrowth§0.314
+grossMargins§0.13949001
+ebitdaMargins§0.05689
+trailingPegRatio§None

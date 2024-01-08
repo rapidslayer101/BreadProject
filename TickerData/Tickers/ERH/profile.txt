@@ -1,0 +1,36 @@
+# reload+after+2024-01-23 07:29:08.546415
+address1§1415 Vantage Park Drive
+address2§3rd Floor
+city§Charlotte
+state§NC
+zip§28203
+country§United States
+phone§833-568-4255
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Allspring Utilities and High Income Fund is a closed-ended balanced mutual fund launched and managed by Wells Fargo Funds Management LLC. It is co-managed by Crow Point Partners, LLC and Wells Capital Management Incorporated. The fund invests in the public equity and fixed income markets of the United States. It primarily invests in stocks of companies across all market capitalizations operating in utility sector including water, gas, electric, and telecommunications companies. For the fixed income component of its portfolio the fund seeks to invest in non-investment grade securities. Allspring Utilities and High Income Fund was formed on April 28, 2004 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Timothy Paul O'Brien CFA", 'age': 69, 'title': 'Portfolio Manager', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew P. Cestone', 'age': 53, 'title': 'Portfolio Manager', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.84
+dividendYield§0.08930001
+exDividendDate§1705017600
+payoutRatio§1.7288
+fiveYearAvgDividendYield§7.37
+priceToSalesTrailing12Months§16.24818
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§40135
+longName§Allspring Utilities and High Income Fund
+firstTradeDateEpochUtc§1083159000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§17b5b35e-c8a7-359a-b099-6ae8346deca7
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.072
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

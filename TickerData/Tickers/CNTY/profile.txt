@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 02:44:09.201311
+address1§455 East Pikes Peak Avenue
+address2§Suite 210
+city§Colorado Springs
+state§CO
+zip§80903
+country§United States
+phone§719 527 8300
+fax§719 213 2643
+website§https://www.cnty.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Century Casinos, Inc. operates as a casino entertainment company in the United States, Canada, and Poland. The company develops and operates gaming establishments, as well as related lodging, restaurant, and horse racing including, off-track betting; and entertainment facilities. Century Casinos, Inc. was founded in 1992 and is based in Colorado Springs, Colorado.
+fullTimeEmployees§2292
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Erwin  Haitzmann', 'age': 69, 'title': 'Chairman & Co-CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 894473, 'exercisedValue': 0, 'unexercisedValue': 891000}, {'maxAge': 1, 'name': 'Mr. Peter  Hoetzinger', 'age': 60, 'title': 'Vice Chairman, Co-CEO & President', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 921211, 'exercisedValue': 0, 'unexercisedValue': 891000}, {'maxAge': 1, 'name': 'Ms. Margaret  Stapleton', 'age': 61, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 378930, 'exercisedValue': 422000, 'unexercisedValue': 49500}, {'maxAge': 1, 'name': 'Mr. Timothy  Wright', 'age': 53, 'title': 'Chief Accounting Officer & Corporate Controller', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 337469, 'exercisedValue': 0, 'unexercisedValue': 59400}, {'maxAge': 1, 'name': 'Mr. Andreas  Terler', 'age': 54, 'title': 'MD of CRM GmbH & Executive VP of Operations \x96 United States', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 334230, 'exercisedValue': 0, 'unexercisedValue': 99000}, {'maxAge': 1, 'name': 'Mr. Nikolaus  Strohriegel', 'age': 54, 'title': 'MD of CRM GmbH & Executive VP of Operations - Canada & Europe', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 251391, 'exercisedValue': 0, 'unexercisedValue': 49500}, {'maxAge': 1, 'name': 'Nicholas  Muscari', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'William  Beaumont', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey Donald-Cumming Smith', 'age': 52, 'title': 'Senior Vice President of Operations - Canada', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.631
+priceToSalesTrailing12Months§0.2808672
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.26
+pegRatio§-0.23
+exchange§NCM
+quoteType§EQUITY
+shortName§Century Casinos, Inc.
+longName§Century Casinos, Inc.
+firstTradeDateEpochUtc§752941800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b28a1d1f-516e-38a9-b437-01e4cb173c57
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§7.0
+targetMeanPrice§7.67
+targetMedianPrice§8.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§2.198
+grossMargins§0.44904998
+ebitdaMargins§0.19770999
+trailingPegRatio§None

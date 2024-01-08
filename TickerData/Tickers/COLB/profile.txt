@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 06:44:10.275453
+address1§1301 A Street
+address2§Suite 800 P.O. Box 2156
+city§Tacoma
+state§WA
+zip§98402-4200
+country§United States
+phone§253 305 1900
+website§https://www.columbiabankingsystem.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Columbia Banking System, Inc. operates as the holding company of Umpqua Bank that provides commercial and retail banking services. The company offers deposit products, including interest-bearing checking, savings, money market, and certificate of deposit accounts. It also provides home mortgages for purchases and refinances, home equity loans and lines of credit, and other personal loans; and agricultural loans, asset-based loans, builder and other commercial real estate loans, and loans guaranteed by the SBA, as well as offer a suite of business edge loans designed for small businesses to expand, purchase equipment, or in need of working capital. In addition, the company offers debit and credit cards, foreign currency, treasury management, merchant card services, international banking, private banking, trust and investment, and other financial services. It operates in Arizona, California, Colorado, Idaho, Nevada, Oregon, Utah, and Washington states. The company serves high net worth individuals and families, select non-profits, and professional services firms. The company was founded in 1953 and is headquartered in Tacoma, Washington.
+fullTimeEmployees§3500
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Cort Lane O'Haver", 'age': 60, 'title': 'Executive Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2314245, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald L. Farnsworth Jr., CPA', 'age': 52, 'title': 'Executive VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1009800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David F. Shotwell', 'age': 64, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 708448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Torran B. Nixon', 'age': 61, 'title': 'Senior Executive Vice President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1446800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clint E. Stein', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  White', 'age': 40, 'title': 'Principal Accounting Officer & Corporate Controller', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Drew K. Anderson CPA', 'age': 37, 'title': 'Chief Administrative Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacquelynne  Bohlen C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kumi Yamamoto Baruffi', 'age': 52, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Moore Devine', 'age': 44, 'title': 'Executive VP & Chief Marketing Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.44
+dividendYield§0.0555
+exDividendDate§1700611200
+payoutRatio§0.0
+beta§0.943
+priceToSalesTrailing12Months§3.3252792
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.11
+pegRatio§1.12
+exchange§NMS
+quoteType§EQUITY
+shortName§Columbia Banking System, Inc.
+longName§Columbia Banking System, Inc.
+firstTradeDateEpochUtc§708701400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§778da4b3-dae4-3ea6-90e0-7cad9404a1b8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§20.0
+targetMeanPrice§27.71
+targetMedianPrice§28.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§12
+earningsGrowth§0.0
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

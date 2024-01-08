@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 23:28:00.767690
+address1§151 North Franklin Street
+address2§Floor 9
+city§Chicago
+state§IL
+zip§60606
+country§United States
+phone§312-822-5000
+website§https://www.cna.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§CNA Financial Corporation provides commercial property and casualty insurance products in the United States and internationally. It operates through Specialty, Commercial, International, Life & Group, and Corporate & Other segments. The company offers professional liability coverages and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; directors and officers, employment practices, fiduciary, and fidelity and cyber coverages to small and mid-size firms, public and privately held firms, and not-for-profit organizations; professional and general liability, as well as associated casualty coverages for healthcare industry; surety and fidelity bonds; and warranty and alternative risks products. It also provides property insurance products, such as standard and property, marine, boiler, and machinery coverages; casualty insurance products comprising workers' compensation, general and product liability, commercial auto, umbrella, and excess and surplus coverages; specialized loss-sensitive insurance programs and total risk management services; and run-off long term care policies. CNA Financial Corporation operates as a subsidiary of Loews Corporation.
+fullTimeEmployees§6100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dino Ennio Robusto', 'age': 65, 'title': 'Chairman & CEO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 9568397, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Robert Lindquist CPA', 'age': 59, 'title': 'Executive VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 4484922, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Paul Franzetti', 'age': 56, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2549071, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Merle Worman B.A.', 'age': 55, 'title': 'Executive VP & Global Head of Underwriting', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 4881808, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Caroline Adams B.B.A., CPA, M.B.A.', 'title': 'Senior Vice President of Investments & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Marie Smith', 'age': 44, 'title': 'Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane Elizabeth Possell', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ralitza  Todorova C.F.A.', 'title': 'Vice President of Investor Relations & Rating Agencies', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Ann Stone', 'age': 61, 'title': 'Executive VP & General Counsel', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Pang', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§10
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.68
+dividendYield§0.0387
+exDividendDate§1699574400
+payoutRatio§0.35099998
+fiveYearAvgDividendYield§3.69
+beta§0.658
+priceToSalesTrailing12Months§0.91067076
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.07
+pegRatio§1.93
+exchange§NYQ
+quoteType§EQUITY
+shortName§CNA Financial Corporation
+longName§CNA Financial Corporation
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§68b3177c-ae96-3fde-a25c-197ecb4fd253
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§46.0
+targetLowPrice§37.0
+targetMeanPrice§41.5
+targetMedianPrice§41.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.181
+grossMargins§0.35813
+ebitdaMargins§0.13842
+trailingPegRatio§None

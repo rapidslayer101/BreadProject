@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 20:29:57.416592
+address1§Brookfield Place, TD Canada Trust Tower
+address2§Suite 3700 161 Bay Street
+city§Toronto
+state§ON
+zip§M5J 2S1
+country§Canada
+phone§416-861-9911
+website§https://www.barrick.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Barrick Gold Corporation engages in the exploration, mine development, production, and sale of gold and copper properties. It has ownership interests in producing gold mines that are located in Argentina, Canada, Côte d'Ivoire, the Democratic Republic of Congo, the Dominican Republic, Mali, Tanzania, and the United States. The company also has ownership interests in producing copper mines located in Chile, Saudi Arabia, and Zambia; and various other projects located throughout the Americas, Asia, and Africa. Barrick Gold Corporation was founded in 1983 and is headquartered in Toronto, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Lawson Thornton', 'age': 69, 'title': 'Non-Independent Executive Chairman & Member of International Advisory Board', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 2767951, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dennis Mark Bristow', 'age': 64, 'title': 'President, CEO, Member of International Advisory Board & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 6002917, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham Patrick Shuttleworth', 'age': 54, 'title': 'Senior EVP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2919034, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. Thomson', 'age': 66, 'title': 'Senior Executive Vice President of Strategic Matters', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2731437, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark F. Hill B.Eng', 'age': 58, 'title': 'Chief Operating Officer of Latin America & Asia Pacific', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2341290, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Keener', 'age': 47, 'title': 'Chief Operating Officer of North America', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 3301811, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lois V. Wark', 'age': 67, 'title': 'Group Corporate Communications & Investor Relations Executive', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Poupak  Bahamin', 'age': 52, 'title': 'General Counsel', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darian Kevin Rich', 'age': 62, 'title': 'Human Resources Executive', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Estes', 'title': 'Chief Financial Officer of Barrick Nevada', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.0229
+exDividendDate§1701216000
+payoutRatio§15.0
+fiveYearAvgDividendYield§1.85
+beta§0.346
+priceToSalesTrailing12Months§2.764355
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.08
+pegRatio§3.16
+exchange§NYQ
+quoteType§EQUITY
+shortName§Barrick Gold Corporation
+longName§Barrick Gold Corporation
+firstTradeDateEpochUtc§477153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2c089882-2ab3-3af7-b93b-ea86648adb26
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§15.44
+targetMeanPrice§21.59
+targetMedianPrice§22.23
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§1.994
+earningsGrowth§0.538
+grossMargins§0.28429002
+ebitdaMargins§0.41981998
+trailingPegRatio§None

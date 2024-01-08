@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 18:46:29.763004
+address1§Jagaregatan 4
+city§Malmö
+zip§211 19
+country§Sweden
+phone§46 4 18 47 55 00
+website§https://www.oatly.com
+industry§Beverages—Non-Alcoholic
+sector§Consumer Defensive
+longBusinessSummary§Oatly Group AB, an oatmilk company, provides a range of plant-based dairy products made from oats in Sweden. It offers Barista edition oatmilk, oatgurts, frozen desserts, ice-creams, and yogurts; cooking products, including cooking cream, in regular and organic, Crème Fraiche, whipping cream, vanilla custard and spreads in a variety of flavors; and ready-to-go drinks. The company was formerly known as Havre Global AB and changed its name to Oatly Group AB in March 2021. The company was founded in 1994 and is headquartered in Malmö, Sweden.
+fullTimeEmployees§1644
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jean-Christophe  Flatin', 'age': 54, 'title': 'Chief Executive Officer', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marie-Jose  David', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Ordonez', 'age': 54, 'title': 'Chief Operating Officer', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Kearney', 'title': 'Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christel  Kinning', 'age': 61, 'title': 'Chief Transformation & People Officer', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ashley  Allen', 'title': 'Chief Sustainability Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Schoolcraft', 'title': 'Chief Creative Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sofia  Ehlde', 'title': 'Executive Vice President of Food Innovation', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Messersmith', 'title': 'President of North America', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Zhang', 'title': 'President of Asia', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.31
+priceToSalesTrailing12Months§0.9040187
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.18
+pegRatio§-0.1
+exchange§NMS
+quoteType§EQUITY
+shortName§Oatly Group AB
+longName§Oatly Group AB
+firstTradeDateEpochUtc§1621517400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§198faa54-68b4-3d5d-b21d-e1d362afc965
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§0.63
+targetMeanPrice§2.06
+targetMedianPrice§2.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.812
+grossMargins§0.17481
+ebitdaMargins§-0.34429002
+trailingPegRatio§None

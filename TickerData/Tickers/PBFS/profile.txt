@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 09:46:32.836086
+address1§652 Albany Shaker Road
+city§Albany
+state§NY
+zip§12211
+country§United States
+phone§518 730 3025
+website§https://www.pioneerny.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Pioneer Bancorp, Inc. operates as a holding company for Pioneer Savings Bank that provides various banking products and services in New York. The company accepts various deposit products, such as demand, savings, and money market accounts, as well as certificates of deposit accounts. Its loan products include commercial real estate, commercial and industrial, commercial construction, residential mortgage lending, consumer loans, and home equity lines of credit. The company also invests in the U.S. governmental securities, fixed rate collateralized mortgage obligations, mortgage-backed securities, fixed-rate investment grade bonds, and equity securities. In addition, the company offers personal and commercial insurance products, including homeowners, automobile, and comprehensive business insurance; employee benefit products and services, such as group health, dental, disability, and life insurance products, as well as defined contribution, defined benefit administration, and human resource management services; and wealth management services comprising investment advice, retirement income planning, estate planning, business succession, and employer retirement planning. The company was founded in 1889 and is based in Albany, New York. Pioneer Bancorp, Inc. operates as a subsidiary of Pioneer Bancorp, MHC.
+fullTimeEmployees§263
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas L. Amell', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1027531, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick J. Hughes', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 464647, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesse A. Tomczak', 'age': 50, 'title': 'Executive VP & Chief Banking Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 417176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Harry Signor CPA', 'age': 55, 'title': 'Executive VP & Chief Administration Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan M. Hollister', 'age': 57, 'title': 'Executive VP, Chief Human Resources Officer & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelli  Arnold', 'age': 53, 'title': 'Executive VP and Chief Strategy & Innovations Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Murphy', 'age': 63, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.464
+priceToSalesTrailing12Months§3.1545556
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Pioneer Bancorp, Inc.
+longName§Pioneer Bancorp, Inc.
+firstTradeDateEpochUtc§1563456600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f1c09e15-31b7-35d4-acea-8f71423e5c54
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.348
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 08:39:44.019018
+address1§National Express House
+address2§Birmingham Coach Station Mill Lane Digbeth
+city§Birmingham
+zip§B5 6DD
+country§United Kingdom
+phone§44 8450 130 130
+website§https://www.mobicogroup.com
+industry§Railroads
+sector§Industrials
+longBusinessSummary§Mobico Group Plc engages in providing public transport services in the United Kingdom, Germany, Spain, Morocco, Switzerland, the United States, Canada, France, and Portugal. The company operates through UK, German Rail, ALSA, and North America segments. It owns and leases vehicles. The company also provides student transportation, urban bus, regional/long haul coach, rail, and charter and other services; transit and scheduled coach services; and private hire and commuter coach travel services. In addition, it operates alternative fuel technologies, such as propane, electric, and hydrogen; and offers shuttle services. The company has a fleet of approximately 28,000 vehicles. It provides its services to cities, businesses, and education providers, as well as direct to customers. The company was formerly known as National Express Group PLC and changed its name to Mobico Group Plc in June 2023. Mobico Group Plc was incorporated in 1991 and is based in Birmingham, the United Kingdom.
+fullTimeEmployees§46200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jose Ignacio Garat Perez', 'age': 55, 'title': 'Group CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1218000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Robert Stamp', 'age': 50, 'title': 'Group CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 498681, 'exercisedValue': 18298, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Gale', 'title': 'Group Operations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emer  McNally', 'title': 'Group Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Louise  Richardson', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Callander', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Myers', 'age': 46, 'title': 'Group HR & Corporate Communications Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Hardy', 'title': 'Managing Director of Coach', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Barker', 'title': 'Head of Safety - UK Coach', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ian  Fraser', 'title': 'Managing Director of Kings Ferry', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.04
+exDividendDate§1691020800
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.59
+beta§1.487
+priceToSalesTrailing12Months§0.1701883
+currency§GBp
+forwardEps§13.2
+pegRatio§1.64
+exchange§LSE
+quoteType§EQUITY
+shortName§MOBICO GROUP PLC ORD 5P
+longName§Mobico Group Plc
+firstTradeDateEpochUtc§1686553200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d72a264a-0536-3472-835e-30f1a44449ab
+targetHighPrice§150.0
+targetLowPrice§100.0
+targetMeanPrice§115.63
+targetMedianPrice§107.5
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§8
+quickRatio§0.537
+grossMargins§0.43622002
+ebitdaMargins§0.102180004
+trailingPegRatio§None

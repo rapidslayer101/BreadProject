@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 23:46:34.527002
+address1§11501 Northlake Drive
+city§Cincinnati
+state§OH
+zip§45249-1667
+country§United States
+phone§513 554 1110
+fax§513 554 1820
+website§https://www.phillipsedison.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§Phillips Edison & Company, Inc. (PECO) is one of the nation's largest owners and operators of omni-channel grocery-anchored shopping centers. Founded in 1991, PECO has generated strong results through its vertically-integrated operating platform and national footprint of well-occupied shopping centers. PECO's centers feature a mix of national and regional retailers providing necessity-based goods and services in fundamentally strong markets throughout the United States. PECO's top grocery anchors include Kroger, Publix, Albertsons and Ahold Delhaize. As of September 30, 2023, PECO managed 295 shopping centers, including 275 wholly-owned centers comprising 31.4 million square feet across 31 states and 20 shopping centers owned in one institutional joint venture. PECO is exclusively focused on creating great omni-channel, grocery-anchored shopping experiences and improving communities, one neighborhood shopping center at a time.
+fullTimeEmployees§290
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey S. Edison', 'age': 62, 'title': 'Chairman & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2710780, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert F. Myers', 'age': 49, 'title': 'President', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1203777, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Caulfield', 'age': 41, 'title': 'CFO, Executive VP & Treasurer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 755822, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tanya E. Brady J.D.', 'age': 54, 'title': 'Executive VP, Chief Ethics and Compliance Officer, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 665388, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Devin Ignatius Murphy', 'age': 63, 'title': 'Managing Director of Investment Management', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1213729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph G. Schlosser', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Robison', 'age': 46, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. McCann', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kim  Green', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cherilyn K. Megill CMD, CRX', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.17
+dividendYield§0.0327
+exDividendDate§1705017600
+payoutRatio§2.2935
+beta§0.276
+priceToSalesTrailing12Months§7.9523716
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.51
+pegRatio§8.87
+exchange§NMS
+quoteType§EQUITY
+shortName§Phillips Edison & Company, Inc.
+longName§Phillips Edison & Company, Inc.
+firstTradeDateEpochUtc§1614263400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2265433c-906e-37e1-b82e-1c743bf60c04
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§32.0
+targetMeanPrice§37.38
+targetMedianPrice§39.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.912
+earningsGrowth§0.118
+grossMargins§0.71459
+ebitdaMargins§0.63025004
+trailingPegRatio§None

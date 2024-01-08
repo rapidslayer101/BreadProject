@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 10:47:31.294990
+address1§2951 28th Street
+address2§Suite 1000
+city§Santa Monica
+state§CA
+zip§90405
+country§United States
+phone§310 566 1000
+fax§310 899 4950
+website§https://www.tcpcapital.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock TCP Capital Corp. is a business development company specializing in direct equity and debt investments in middle-market, small businesses, debt securities, senior secured loans, junior loans, originated loans, mezzanine, senior debt instruments, bonds, and secondary-market investments. It typically invests in communication services, public relations services, television, wireless telecommunication services, apparel, textile mills, restaurants, retailing, energy, oil and gas extraction, Patent owners and Lessors, Federal and Federally- Sponsored Credit agencies, insurance, hospital and healthcare centers, Biotechnology, engineering services, heavy electrical equipment, tax accounting, scientific and related consulting services, charter freight air transportation, Information technology consulting, application hosting services, software diagram and design, computer aided design, communication equipment, electronics manufacturing equipment, computer components, chemicals. It seeks to invest in the United States. The fund typically invests between $10 million and $35 million in companies with enterprise values between $100 million and $1500 million including complex situations. It prefers to make equity investments in companies for an ownership stake.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rajneesh  Vig CPA', 'age': 52, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip M. Tseng', 'age': 47, 'title': 'COO & President', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Eric Leitner', 'age': 55, 'title': 'Managing Partner', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Keith Holdsworth', 'age': 58, 'title': 'Managing Partner', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik L. Cuellar CPA', 'age': 52, 'title': 'CFO & Controller', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen  McGlynn', 'title': 'Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laurence D. Paredes Esq.', 'age': 55, 'title': 'General Counsel & Secretary', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. DiPaolo CPA', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason A. Mehring', 'age': 51, 'title': 'Managing Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.36
+dividendYield§0.1145
+exDividendDate§1702512000
+payoutRatio§18.8571
+fiveYearAvgDividendYield§10.83
+beta§1.494
+priceToSalesTrailing12Months§3.344912
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.79
+pegRatio§0.53
+exchange§NMS
+quoteType§EQUITY
+shortName§BlackRock TCP Capital Corp.
+longName§BlackRock TCP Capital Corp.
+firstTradeDateEpochUtc§1333546200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§50f6cc34-3d0e-37fb-9cac-102ebc7213d1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.5
+targetLowPrice§11.0
+targetMeanPrice§12.5
+targetMedianPrice§12.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§8.578
+earningsGrowth§-0.511
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

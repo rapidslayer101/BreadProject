@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 23:44:20.557921
+address1§1265 South Cochran Ave
+city§Los Angeles
+state§CA
+zip§90019
+country§United States
+phone§844 857 3283
+website§https://dave.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Dave Inc. provides a suite of financial products and services through its financial service online platform. The company offers Budget, personal financial management tool that helps members understand their spending and savings habits and learn better financial management; ExtraCash, a short-term liquidity alternative, which allows members to advance funds to their account and avoid a fee; and Side Hustle, a job application portal. It also provides Dave Banking, a digital checking and demand deposit account; and Surveys that allows members to take paid surveys anytime within the Dave mobile application. The company was founded in 2015 and is headquartered in Los Angeles, California.
+fullTimeEmployees§320
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason  Wilk', 'age': 37, 'title': 'Co-Founder, CEO, President & Chairman', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 654337, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle  Beilman', 'age': 35, 'title': 'CFO & Secretary', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 598491, 'exercisedValue': 0, 'unexercisedValue': 219750}, {'maxAge': 1, 'name': 'Gopi  Kuchimanchi', 'title': 'Vice President  of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brittany  Radice', 'title': 'Director of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joan  Aristei', 'age': 63, 'title': 'Chief Legal Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon  Sullivan', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grahame  Fraser', 'title': 'Head of Product Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Imai', 'title': 'Director & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§2.743
+currency§USD
+exchange§NGM
+quoteType§EQUITY
+shortName§Dave Inc. Warrants
+longName§Dave Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§39ac7993-89b6-341c-ab00-661154226547
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§4.869
+grossMargins§0.60713
+ebitdaMargins§-0.26791
+trailingPegRatio§None

@@ -1,0 +1,23 @@
+# reload+after+2024-01-22 02:32:33.467125
+longBusinessSummary§The fund is an exchange-traded fund (“ETF”) that uses a “passive management” (or indexing) approach to track the performance, before fees and expenses, of the index. The index employs a rules-driven approach, without the use of leverage, with the goal of identifying a portfolio of written put options on the S&P 500 Index, that when sold in accordance with the index’s rules driven approach, will collectively provide over the long term a total return that will exceed that of the S&P 500 Index with lower volatility and drawdown.
+maxAge§86400
+priceHint§2
+totalAssets§30009272
+navPrice§20.998
+currency§USD
+category§Large Blend
+ytdReturn§-0.0031505001
+beta3Year§0.0
+fundFamily§Validus
+fundInceptionDate§1690848000
+legalType§Exchange Traded Fund
+exchange§BTS
+quoteType§ETF
+shortName§Return Stacked Bonds & Managed 
+longName§Cboe(R) Validus S&P 500(R) Dynamic Putwrite Index ETF
+firstTradeDateEpochUtc§1690896600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bbdda8f1-7a7b-3326-9d63-398a457caf54
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

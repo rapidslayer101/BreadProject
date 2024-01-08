@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 00:28:29.761529
+address1§Bldg 6, No. 39 Ren'an Rd
+address2§Pudong New Area Xinzhihui Financial Tech Ind. Park
+city§Shanghai
+zip§200125
+country§China
+phone§86 21 6858 5011
+website§https://www.100.me
+industry§Grocery Stores
+sector§Consumer Defensive
+longBusinessSummary§Dingdong (Cayman) Limited operates an e-commerce company in China. The company offers fresh groceries, including vegetables, meat and eggs, fruits, and seafood; prepared food, and other food products, such as dairy and bakery products, snacks, oil, seasonings, and beverages. It also operates as a self-operated online retail business primarily through Dingdong Fresh app. Dingdong (Cayman) Limited was founded in 2017 and is headquartered in Shanghai, China.
+fullTimeEmployees§3363
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Liang  Changlin', 'age': 51, 'title': 'Founder, CEO & Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Song  Wang', 'age': 40, 'title': 'CFO, SVP & Director', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ding  Yi', 'age': 36, 'title': 'COO & Director', 'yearBorn': 1987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jiang  Xu', 'age': 51, 'title': 'Chief Technology Officer', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hongli  Gong', 'title': 'Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xu  Zhijian', 'age': 51, 'title': 'Chief Merchandising Officer', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.127
+priceToSalesTrailing12Months§0.015321548
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.15
+pegRatio§111.65
+exchange§NYQ
+quoteType§EQUITY
+shortName§Dingdong (Cayman) Limited
+longName§Dingdong (Cayman) Limited
+firstTradeDateEpochUtc§1624973400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§35b615a7-0e0c-352f-9ba9-a94ec544e72b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.54
+targetLowPrice§2.01
+targetMeanPrice§4.64
+targetMedianPrice§4.42
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.837
+grossMargins§0.31335
+ebitdaMargins§0.00926
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 13:36:14.462597
+address1§1020 Eskdale Road
+address2§Winnersh Triangle
+city§Wokingham
+zip§RG41 5TS
+country§United Kingdom
+phone§44 11 8927 3800
+website§https://www.corporate.ferguson.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§Ferguson plc distributes plumbing and heating products in the United States and Canada. It offers plumbing and heating solutions to customers in the residential, commercial, civil/infrastructure, and industrial end markets. The company also provides expertise, solutions, and products, including infrastructure, plumbing, appliances, fire, fabrication, and others, as well as heating, ventilation, and air conditioning products under the Ferguson brand name. In addition, it supplies pipes, valves, fittings, plumbing supplies, water and wastewater treatment products, and refrigeration products under Wolseley brand name. Further, the company provides after-sales support comprising warranty, credit, project-based billing, returns, maintenance, repair, and operations support. It sells its products through wholesale distributors, supply houses, retail enterprises, and online. Ferguson plc was founded in 1953 and is headquartered in Wokingham, the United Kingdom.
+fullTimeEmployees§35000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin  Murphy', 'age': 53, 'title': 'Group CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2294908, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Brundage', 'age': 47, 'title': 'Group CFO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 1170355, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian Thomas Graham', 'age': 55, 'title': 'Chief Legal Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1032639, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Thees', 'age': 56, 'title': 'Senior Vice President of Business & Sales', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1028570, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha J. Long', 'age': 55, 'title': 'Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1035565, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard  Winckler', 'title': 'Chief Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Paisley', 'age': 55, 'title': 'Chief Digital & Information Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian C. Lantz', 'age': 60, 'title': 'Vice President IR & Communications', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Ward', 'title': 'Head of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria  Morrissey', 'age': 57, 'title': 'Chief Marketing Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§2.47
+dividendYield§0.0168
+exDividendDate§1702512000
+payoutRatio§0.33240002
+fiveYearAvgDividendYield§2.2
+beta§1.191
+priceToSalesTrailing12Months§1.0452992
+currency§GBp
+forwardEps§8.33
+pegRatio§-6.17
+exchange§LSE
+quoteType§EQUITY
+shortName§FERGUSON PLC ORD 10P
+longName§Ferguson plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§901f0816-f366-3dc3-8543-90e19f54e46f
+targetHighPrice§206.95
+targetLowPrice§103.48
+targetMeanPrice§136.82
+targetMedianPrice§133.18
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.784
+earningsGrowth§-0.106
+grossMargins§0.30277002
+ebitdaMargins§0.102060005
+trailingPegRatio§3.3485

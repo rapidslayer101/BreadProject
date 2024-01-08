@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 18:31:00.489339
+address1§900 West Hastings Street
+address2§Suite 300
+city§Vancouver
+state§BC
+zip§V6C 1E5
+country§Canada
+phone§778-653-8092
+website§https://www.lithium-argentina.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Lithium Americas (Argentina) Corp. operates as a resource company. The company explores for lithium deposits. The company owns interests in the Cauchari-Olaroz project located in Jujuy province of Argentina. It also has a pipeline of development and exploration stage projects, including the Pastos Grandes project and the Sal de la Puna project located in Salta Province in northwestern Argentina. Lithium Americas (Argentina) Corp. is headquartered in Vancouver, Canada.
+fullTimeEmployees§749
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan D. Evans', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 844751, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Anthony Kanellitsas B.S., M.B.A.', 'age': 61, 'title': 'Executive Vice Chair', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 635840, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ignacio  Celorrio', 'age': 50, 'title': 'President of Latin America', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 617708, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Gerspacher', 'age': 49, 'title': 'Senior Vice President of Capital Projects', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 977741, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pablo G. Mercado', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Virginia  Morgan', 'title': 'Vice President of Investor Relations & ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Grandy', 'age': 55, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rona  Sellers', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aubree  Barnum P.H.R.', 'age': 38, 'title': 'Vice President of Human Resources', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis P. Bryan P.E.', 'title': 'Senior Vice President of Development', 'fiscalYear': 2022, 'totalPay': 232142, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.555
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.39
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lithium Americas (Argentina) Co
+longName§Lithium Americas (Argentina) Corp.
+firstTradeDateEpochUtc§1221744600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§da79f416-a641-3bd1-aec0-a1235f561f5f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.5
+targetLowPrice§7.0
+targetMeanPrice§19.95
+targetMedianPrice§15.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§3.093
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

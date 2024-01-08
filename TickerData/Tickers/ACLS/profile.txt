@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 09:43:08.347733
+address1§108 Cherry Hill Drive
+city§Beverly
+state§MA
+zip§01915-1088
+country§United States
+phone§978 787 4000
+fax§978 787 3000
+website§https://www.axcelis.com
+industry§Semiconductor Equipment & Materials
+sector§Technology
+longBusinessSummary§Axcelis Technologies, Inc. designs, manufactures, and services ion implantation and other processing equipment used in the fabrication of semiconductor chips in the United States, Europe, and Asia Pacific. The company offers high energy, high current, and medium current implanters for various application requirements. It also provides aftermarket lifecycle products and services, including used tools, spare parts, equipment upgrades, maintenance services, and customer training. It sells its equipment and services to semiconductor chip manufacturers through its direct sales force. Axcelis Technologies, Inc. was founded in 1978 and is headquartered in Beverly, Massachusetts.
+fullTimeEmployees§1388
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Mary G. Puma', 'age': 65, 'title': 'Executive Chairperson', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1794433, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Russell J. Low Ph.D.', 'age': 52, 'title': 'CEO, President & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 798549, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. Brewer', 'age': 64, 'title': 'Executive VP of Finance & Operations', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 995680, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynnette C. Fallon', 'age': 63, 'title': 'Executive VP of Human Resources & Legal, General Counsel and Corporate Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 793662, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas A. Lawson', 'age': 62, 'title': 'Executive Vice President of Corporate Marketing & Strategy', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 707308, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James G. Coogan', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Redinbo Ph.D.', 'age': 58, 'title': 'Executive Vice President of Marketing & Applications', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald M. Blumenstock', 'title': 'Executive Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christopher  Tatnall Ph.D.', 'title': 'Executive Vice President of Global Customer Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.694
+priceToSalesTrailing12Months§3.5518734
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.02
+pegRatio§0.8
+exchange§NMS
+quoteType§EQUITY
+shortName§Axcelis Technologies, Inc.
+longName§Axcelis Technologies, Inc.
+firstTradeDateEpochUtc§963322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6650331a-aa66-3db9-83af-0fe4f88e5c66
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§215.0
+targetLowPrice§134.0
+targetMeanPrice§174.8
+targetMedianPrice§175.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.502
+earningsGrowth§0.645
+grossMargins§0.42611998
+ebitdaMargins§0.23023
+trailingPegRatio§None

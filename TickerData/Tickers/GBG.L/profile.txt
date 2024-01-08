@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 00:37:58.331472
+address1§The Foundation
+address2§Herons Way Chester Business Park
+city§Chester
+zip§CH4 9GB
+country§United Kingdom
+phone§44 12 4465 7333
+website§https://www.gbgplc.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§GB Group plc, together with its subsidiaries, provides digital identity products and services in the United Kingdom, the United States of America, Australia, and internationally. The company operates through three segments: Location, Identity, and Fraud. It provides identity products comprising ID3global, an identity verification, IDscan, a ID document verification, IDscan core, a personalized document verification, Scannet, a venue ID verification, investigate, a search subject analysis, and ProID, a no-code industry verification solution. In addition, the company offers location data products, which includes Address Capture, a real-time global address look-up, Address Verify, an address data parsing, standardizing, and cleansing solution, Data Cleanse, a data validation, and deduping, suppressing, and screening solution, as well as bank verification, geocode, and email verification solutions. Further, it provides fraud and compliance products including Predator, a transaction and anti-money laundering solution; and Instinct, a fraud risk management platform, as well as mobile intelligence, which uses mobile data to enable identity verification and fraud prevention. The company serves banking, financial services and fintech, gaming, nightclubs, crypto and FX, pensions, retail and ecommerce, and insurance industries. GB Group plc was formerly known as Telme Group plc and changed its name to GB Group plc in February 2002. The company was incorporated in 1989 and is based in Chester, the United Kingdom.
+fullTimeEmployees§1183
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher Graham Clark', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 637000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Mathew Ward', 'age': 46, 'title': 'CFO & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 427000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Stansfield', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Mamone', 'age': 54, 'title': 'Group Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tyler  Brock', 'title': 'Vice President of Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Boaz', 'title': 'Chief Marketing Officer of Loqate', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Miller', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Green', 'title': 'Managing Director of Location Intelligence Services', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gus  Tomlinson', 'title': 'Chief Product Officer of Identity & Fraud', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Duling', 'title': 'Senior Vice President and Commercial Director for GBG Loqate', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.015
+exDividendDate§1687392000
+payoutRatio§3.81
+fiveYearAvgDividendYield§0.57
+beta§0.272
+priceToSalesTrailing12Months§2.495257
+currency§GBp
+forwardEps§17.25
+pegRatio§3.07
+exchange§LSE
+quoteType§EQUITY
+shortName§GB GROUP PLC ORD 2.5P
+longName§GB Group plc
+firstTradeDateEpochUtc§738918000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c7d81266-b6ad-3026-bec8-d1b99503113a
+targetHighPrice§550.0
+targetLowPrice§300.0
+targetMeanPrice§380.0
+targetMedianPrice§370.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.808
+grossMargins§0.70058
+ebitdaMargins§-0.32173002
+trailingPegRatio§None

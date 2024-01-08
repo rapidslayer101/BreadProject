@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 04:32:26.564627
+address1§50 North Third Street
+address2§P.O. Box 3500
+city§Newark
+state§OH
+zip§43058-3500
+country§United States
+phone§740 349 8451
+website§https://www.parknationalcorp.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Park National Corporation operates as the bank holding company for Park National Bank that provides commercial banking and trust services in small and medium population areas. The company offers deposits for demand, savings, and time accounts; trust and wealth management services; cash management services; safe deposit operations; electronic funds transfers; Internet and mobile banking solutions with bill pay service; credit cards; and various additional banking-related services for individual customers. It also provides commercial loans, including financing for industrial and commercial properties, financing for equipment, inventory and accounts receivable, acquisition financing, and commercial leasing, as well as for consumer finance companies; commercial real estate loans comprising mortgage loans to developers and owners of commercial real estate; originates financing leases primarily for the purchase of commercial vehicles, operating/manufacturing equipment, and municipal vehicles/equipment; consumer loans, such as automobile loans; consumer finance services; home equity lines of credit; and residential real estate and construction loans, as well as installment loans and commercial loans. In addition, the company offers aircraft financing and asset management services; and ParkDirect, a personal banking application. Park National Corporation was founded in 1908 and is headquartered in Newark, Ohio.
+fullTimeEmployees§1632
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David L. Trautman', 'age': 61, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1460712, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew R. Miller CPA', 'age': 44, 'title': 'President & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 992474, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brady T. Burt CPA', 'age': 51, 'title': 'CFO, Secretary & Treasurer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 776802, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly A. Herreman CPA', 'age': 40, 'title': 'Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bethany  Lewis', 'title': 'Vice President of Marketing & Communication', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.2
+dividendYield§0.0326
+exDividendDate§1700092800
+payoutRatio§0.5048
+fiveYearAvgDividendYield§3.82
+beta§0.731
+priceToSalesTrailing12Months§4.3958187
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.43
+pegRatio§3.91
+exchange§ASE
+quoteType§EQUITY
+shortName§Park National Corporation
+longName§Park National Corporation
+firstTradeDateEpochUtc§652109400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e4acf9e3-2d0d-3f7e-b149-7e13a23b0ba7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§115.0
+targetLowPrice§108.0
+targetMeanPrice§111.5
+targetMedianPrice§111.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+earningsGrowth§-0.113
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

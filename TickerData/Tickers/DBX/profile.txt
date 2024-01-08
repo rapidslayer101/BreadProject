@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 02:44:20.913583
+address1§1800 Owens Street
+city§San Francisco
+state§CA
+zip§94158
+country§United States
+phone§415 857 6800
+website§https://www.dropbox.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Dropbox, Inc. provides a content collaboration platform worldwide. The company's platform allows individuals, families, teams, and organizations to collaborate and sign up for free through its website or app, as well as upgrade to a paid subscription plan for premium features. It serves customers in professional services, technology, media, education, industrial, consumer and retail, and financial services industries. The company was formerly known as Evenflow, Inc. and changed its name to Dropbox, Inc. in October 2009. Dropbox, Inc. was incorporated in 2007 and is headquartered in San Francisco, California.
+fullTimeEmployees§3118
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew W. Houston', 'age': 40, 'title': 'Co-Founder, Interim President, CEO & Chairman', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1146000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy J. Regan CPA', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 794333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart E. Volkmer Esq.', 'age': 48, 'title': 'Chief Legal Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 726000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Karan  Kapoor', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Saman  Asheer', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie  Collins', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.832
+priceToSalesTrailing12Months§3.9917524
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.06
+pegRatio§0.99
+exchange§NMS
+quoteType§EQUITY
+shortName§Dropbox, Inc.
+longName§Dropbox, Inc.
+firstTradeDateEpochUtc§1521811800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5fbfc9a3-585a-3585-80a5-f9a274c7403a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§25.0
+targetMeanPrice§30.89
+targetMedianPrice§32.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.147
+earningsGrowth§0.435
+grossMargins§0.80843
+ebitdaMargins§0.21234
+trailingPegRatio§1.6044

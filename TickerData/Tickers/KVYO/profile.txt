@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 04:31:00.000275
+address1§Floor 6
+address2§125 Summer Street
+city§Boston
+state§MA
+zip§02111
+country§United States
+phone§(617) 213-1788
+website§https://www.klaviyo.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Klaviyo, Inc., a technology company that provides a software-as-a-service platform to enable its customers to send the right messages at the right time across email, short message service (SMS), and push notifications. The company offers Klaviyo, a marketing automation platform that sends personalized and targeted messages. Its products include email marketing solution to track every click and purchase to optimize campaigns; SMS, a text marketing solution for ecommerce growth and retention; and mobile push solution that reaches customers directly on their lock screen with mobile push notifications. The company also provides Review solution to get the product reviews; and a customer data platform that helps store, analyze, and use data at scale. It serves individuals, small and medium enterprises, and companies in North America, Western Europe, Canada, the United Kingdom, Australia, and New Zealand. The was incorporated in 2012 and is based in Boston, Massachusetts.
+fullTimeEmployees§1640
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Bialecki', 'age': 37, 'title': 'Co-Founder, CEO & Chairperson', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 81817, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Hallen', 'age': 41, 'title': 'Co-Founder, Chief Product Officer & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda  Whalen', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 422336, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Landon  Edmond', 'age': 53, 'title': 'Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1928976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Eric Rowland', 'age': 54, 'title': 'President', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen M. Chaves Jr.', 'age': 55, 'title': 'Chief Technology Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jamie  Domenici', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lisa  Maronski', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  McLaughlin', 'title': 'Chief Customer Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kim  Peretti', 'title': 'Senior VP of Global Customer Success & Support', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§10.610219
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.43
+exchange§NYQ
+quoteType§EQUITY
+shortName§Klaviyo, Inc. Series A
+longName§Klaviyo, Inc.
+firstTradeDateEpochUtc§1695303000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2e863629-20fa-32d1-bea3-381df18572de
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§33.0
+targetMeanPrice§38.58
+targetMedianPrice§39.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§6.191
+grossMargins§0.73654
+ebitdaMargins§-0.43291
+trailingPegRatio§None

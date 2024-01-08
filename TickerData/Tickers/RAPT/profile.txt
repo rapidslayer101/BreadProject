@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 16:46:53.696271
+address1§561 Eccles Avenue
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§650 489 9000
+website§https://www.rapt.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§RAPT Therapeutics, Inc., a clinical-stage immunology-based biopharmaceutical company, focuses on discovery, development, and commercialization of oral small molecule therapies for patients with unmet needs in oncology and inflammatory diseases in the United States. Its lead inflammation drug candidate is RPT193, a C-C motif chemokine receptor 4 (CCR4) antagonist that selectively inhibit the migration of type 2 T helper cells into inflamed tissues. The company's lead oncology drug candidate is FLX475, an oral small molecule CCR4 antagonist that is in the Phase 1/2 clinical trial to investigate as a monotherapy and in combination with pembrolizumab in patients with advanced cancer. It also focuses on the development of hematopoietic progenitor kinase 1 inhibitor. The company was formerly known as FLX Bio, Inc. and changed its name to RAPT Therapeutics, Inc. in May 2019. RAPT Therapeutics, Inc. was incorporated in 2015 and is headquartered in South San Francisco, California.
+fullTimeEmployees§129
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Brian Russell Wong M.D., Ph.D.', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 797500, 'exercisedValue': 0, 'unexercisedValue': 4138545}, {'maxAge': 1, 'name': 'Mr. Rodney K. B. Young', 'age': 60, 'title': 'CFO, Principal Accounting Officer & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 585000, 'exercisedValue': 0, 'unexercisedValue': 7763}, {'maxAge': 1, 'name': 'Dr. William  Ho', 'age': 57, 'title': 'Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 590000, 'exercisedValue': 0, 'unexercisedValue': 73783}, {'maxAge': 1, 'name': 'Steve  Young Ph.D.', 'title': 'Vice President of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dirk G. Brockstedt Ph.D.', 'age': 54, 'title': 'Chief Scientific Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 490250, 'exercisedValue': 0, 'unexercisedValue': 525943}, {'maxAge': 1, 'name': 'Mr. Michael  Listgarten', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gwen R. Carscadden', 'age': 62, 'title': 'Chief Human Resources Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul  Kassner', 'age': 56, 'title': 'Senior Vice President of Quantitative & Computational Biology', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David  Wustrow', 'age': 64, 'title': 'Senior Vice President of Drug Discovery & Preclinical Development', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Nicholson', 'title': 'Senior Vice President of Regulatory Affairs & Quality Assurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.66
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.48
+exchange§NGM
+quoteType§EQUITY
+shortName§RAPT Therapeutics, Inc.
+longName§RAPT Therapeutics, Inc.
+firstTradeDateEpochUtc§1572528600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§df5438bf-a4f8-3204-a2d5-0ba1aa7bd1f1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§61.0
+targetLowPrice§31.0
+targetMeanPrice§42.3
+targetMedianPrice§41.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§8.457
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 08:45:39.031631
+address1§5310 Maryland Way
+city§Brentwood
+state§TN
+zip§37027
+country§United States
+phone§615 872 4800
+website§https://www.kirklands.com
+industry§Home Improvement Retail
+sector§Consumer Cyclical
+longBusinessSummary§Kirkland's, Inc. operates as a specialty retailer of home décor and furnishings in the United States. Its stores provide various merchandise, including holiday décor, furniture, textiles, ornamental wall décor, decorative accessories, art, mirrors, home fragrance, lighting, floral, housewares, and gifts. The company operates its stores under the Kirkland's, Kirkland's Home, Kirkland's Home Outlet, Kirkland's Outlet, and The Kirkland Collection names. It operates physical stores and an e-commerce website, www.kirklands.com. Kirkland's, Inc. was founded in 1966 and is headquartered in Brentwood, Tennessee.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Ann E. Joyce', 'age': 58, 'title': 'Interim CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 68750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy A. E. Sullivan', 'age': 44, 'title': 'President & COO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1512978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Michael Madden', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 420114, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Maureen  Minard', 'title': 'VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carter R. Todd', 'age': 66, 'title': 'General Counsel, VP & Corporate Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anna  Wilhoit', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1433289600
+payoutRatio§0.0
+beta§2.241
+priceToSalesTrailing12Months§0.0833391
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.48
+pegRatio§-0.24
+exchange§NMS
+quoteType§EQUITY
+shortName§Kirkland's, Inc.
+longName§Kirkland's, Inc.
+firstTradeDateEpochUtc§1028035800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1895101f-fc7e-3ac0-a8fa-5ac818f74ce0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§2.5
+targetMeanPrice§4.75
+targetMedianPrice§4.75
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.053
+grossMargins§0.24558
+ebitdaMargins§-0.04814
+trailingPegRatio§None

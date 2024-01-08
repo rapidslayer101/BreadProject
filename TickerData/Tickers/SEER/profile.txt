@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 03:47:09.286654
+address1§3800 Bridge Parkway
+address2§Suite 102
+city§Redwood City
+state§CA
+zip§94065
+country§United States
+phone§650 453 0000
+website§https://seer.bio
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Seer, Inc., a life sciences company, engages in developing and commercializing products to decode the secrets of the proteome. It develops Proteograph Product Suite, an integrated solution that comprises consumables, an automation instrumentation, and software that allows researchers to conduct proteomic studies in therapeutic and diagnostic research, and clinical trials. The company intends to sell its products for research purposes, which cover academic institutions, life sciences, and research laboratories, as well as biopharmaceutical and biotechnology companies for non-diagnostic and non-clinical purposes. Seer, Inc. has a collaboration agreement with Oregon Health & Science University; The Broad Institute of MIT and Harvard; Discovery Life Sciences, LLC. and the Salk Institute for Biological Studies. The company was formerly known as Seer Biosciences, Inc. and changed its name to Seer, Inc. in July 2018. Seer, Inc. was incorporated in 2017 and is headquartered in Redwood City, California.
+fullTimeEmployees§164
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Omid C. Farokhzad M.D., Ph.D.', 'age': 54, 'title': 'Founder, CEO, & Chair of the Board of Directors', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1228793, 'exercisedValue': 0, 'unexercisedValue': 4952000}, {'maxAge': 1, 'name': 'Mr. David R. Horn', 'age': 56, 'title': 'President,Treasurer & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 593381, 'exercisedValue': 0, 'unexercisedValue': 2084085}, {'maxAge': 1, 'name': 'Ms. Elona  Kogan Esq., J.D.', 'age': 54, 'title': 'Chief Legal Officer,General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 548419, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Laws', 'title': 'Chief Technology Officer and Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kenny  Ross', 'title': 'Chief Operations & Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Possemato', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marissa  Dixon', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Serafim  Batzoglou Ph.D.', 'title': 'Chief Data Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Goldberg Ph.D.', 'title': 'Senior Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Asim  Siddiqui Ph.D.', 'title': 'Senior Vice President of Research & Tech Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.614
+priceToSalesTrailing12Months§6.94082
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.33
+pegRatio§0.11
+exchange§NMS
+quoteType§EQUITY
+shortName§Seer, Inc.
+longName§Seer, Inc.
+firstTradeDateEpochUtc§1607092200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§83978bb5-a69b-3b5a-b7ba-eeadd8f768ba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§10.0
+targetMeanPrice§10.0
+targetMedianPrice§10.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§27.097
+grossMargins§0.52294
+ebitdaMargins§0.0
+trailingPegRatio§None

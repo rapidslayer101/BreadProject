@@ -1,0 +1,36 @@
+# reload+after+2024-01-21 20:36:20.081336
+address1§47-48 Piccadilly
+address2§First Floor
+city§London
+zip§W1J 0DT
+country§United Kingdom
+phone§44 20 7389 5010
+website§https://firsttin.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§First Tin Plc engages in the mining and development of tin in Germany and Australia. Its flagship assets include the Tellerhäuser Project in Saxony, Germany; and the Taronga Project in New South Wales, Australia. The company was incorporated in 2012 and is based in London, the United Kingdom.
+fullTimeEmployees§27
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Alan Scotting', 'age': 65, 'title': 'CEO & Director', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Kidd', 'title': 'General Manager of Operations of Taronga', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Truelove', 'title': 'Technical Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthias  Faust', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross George James Ainger', 'age': 46, 'title': 'Company Secretary & Non-Executive Director', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§FIRST TIN PLC ORD GBP0.001
+longName§First Tin Plc
+firstTradeDateEpochUtc§1649401200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§51fb04ae-37dd-39a2-842e-32effba4e4d8
+targetHighPrice§5.7
+targetLowPrice§5.7
+targetMeanPrice§5.7
+targetMedianPrice§5.7
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§5.918
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

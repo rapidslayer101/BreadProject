@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 03:47:28.197819
+address1§200 Research Drive
+city§Wilmington
+state§MA
+zip§01887
+country§United States
+phone§978 284 2800
+website§https://www.symbotic.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Symbotic Inc., an automation technology company, provides robotics and technology to improve efficiency for retailers and wholesalers in the United States. The company offers Symbotic system, an end-to-end warehouse automation system for product distribution. It also designs, assemblies, and installs modular inventory management systems and performs configuration of embedded software. The company is headquartered in Wilmington, Massachusetts.
+fullTimeEmployees§1300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard B. Cohen', 'age': 70, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Ernst Jr.', 'age': 54, 'title': 'Principal Accounting Officer & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 654678, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Dunn', 'age': 50, 'title': 'Senior VP of Sales, Marketing & Product Strategy', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 712870, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol J. Hibbard', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George  Dramalis', 'age': 63, 'title': 'Chief Technology Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey K. Evanson', 'title': 'Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Corey C. DuFresne', 'age': 51, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Miriam  Ort', 'age': 42, 'title': 'Chief Human Resources Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Boyd III', 'age': 56, 'title': 'Chief Strategy Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Krattiger', 'title': 'Senior Vice President of Customer Experience & System Performance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.047
+priceToSalesTrailing12Months§20.544466
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.6
+exchange§NGM
+quoteType§EQUITY
+shortName§Symbotic Inc.
+longName§Symbotic Inc.
+firstTradeDateEpochUtc§1615300200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f61acac3-c771-34ed-ad54-a7cf519208db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§40.0
+targetMeanPrice§56.69
+targetMedianPrice§58.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.718
+grossMargins§0.17802
+ebitdaMargins§-0.16327
+trailingPegRatio§None

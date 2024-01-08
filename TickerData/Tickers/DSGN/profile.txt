@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 13:44:26.245873
+address1§6005 Hidden Valley Road
+address2§Suite 110
+city§Carlsbad
+state§CA
+zip§92011
+country§United States
+phone§858 293 4900
+website§https://www.designtx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Design Therapeutics, Inc. a preclinical-stage biopharmaceutical company, engages in the development of therapies for the treatment of genetic diseases caused by nucleotide repeat expansions. The company's portfolio of products comprises Friedreich Ataxia, a monogenic, autosomal recessive, progressive multi-system disease that affects organ systems dependent on mitochondrial function, eventually leading to neurological, cardiac, and metabolic dysfunction; and Myotonic Dystrophy Type-1 (DM1), a dominantly-inherited, monogenic progressive neuromuscular disease affecting skeletal muscle, heart, brain, and other organs. It is also developing GeneTAC product candidate portfolio for the treatment of other nucleotide repeat expansion-driven monogenic diseases, such as Fragile X syndrome, spinocerebellar ataxias, amyotrophic lateral sclerosis, frontotemporal dementia, Huntington disease, and spinobulbar muscular atrophy. The company was incorporated in 2017 and is headquartered in Carlsbad, California.
+fullTimeEmployees§57
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pratik  Shah Ph.D.', 'age': 53, 'title': 'Co-Founder, President, CEO, Principal Financial Officer & Executive Chairperson', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 638460, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sean  Jeffries Ph.D.', 'age': 43, 'title': 'Chief Operating Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 572210, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Aseem Z. Ansari Ph.D.', 'title': 'Co-Founder & Scientific Advisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie D. Burgess CPA', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Elizabeth  Gordon Ph.D.', 'title': 'Senior Vice President of Regulatory Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jae B. Kim FACC, M.D.', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn  Giangiulio', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.659
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.4
+exchange§NMS
+quoteType§EQUITY
+shortName§Design Therapeutics, Inc.
+longName§Design Therapeutics, Inc.
+firstTradeDateEpochUtc§1617024600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§334bfad0-1826-3cb5-ba7e-3a834e43b6bd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§4.0
+targetMeanPrice§4.75
+targetMedianPrice§4.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§23.579
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 03:29:58.567141
+address1§713 Market Drive
+city§Oklahoma City
+state§OK
+zip§73114
+country§United States
+phone§405 252 4600
+website§https://www.gulfportenergy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Gulfport Energy Corporation engages in the acquisition, exploration, development, and production of natural gas, crude oil, and natural gas liquids in the United States. Its principal properties include Utica Shale covering an area of approximately 188,000 net reservoir acres primarily located in Eastern Ohio; and SCOOP covering an area of approximately 73,000 net reservoir acres primarily located in Garvin, Grady, and Stephens. The company was incorporated in 1997 and is headquartered in Oklahoma City, Oklahoma.
+fullTimeEmployees§223
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick K. Craine', 'age': 50, 'title': 'Executive VP, Chief Legal & Administrative Officer and Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 992520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lester  Zitkus', 'age': 57, 'title': 'Senior Vice President of Land', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 854676, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Sluiter', 'age': 50, 'title': 'Senior Vice President of Reservoir Engineering', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 667438, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John K. Reinhart', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Hodges CPA', 'age': 44, 'title': 'Executive VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew H. Rucker', 'age': 38, 'title': 'Senior Vice President of Operations', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matthew  Willrath', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica R. Antle', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.555
+priceToSalesTrailing12Months§1.7632293
+currency§USD
+dateShortInterest§1702598400
+forwardEps§23.88
+exchange§NYQ
+quoteType§EQUITY
+shortName§Gulfport Energy Corporation
+longName§Gulfport Energy Corporation
+firstTradeDateEpochUtc§1621344600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9387c4c8-8f96-3c9a-9109-b8cb0d80d2b9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§200.0
+targetLowPrice§140.0
+targetMeanPrice§159.88
+targetMedianPrice§160.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.34
+grossMargins§0.69806
+ebitdaMargins§1.36727
+trailingPegRatio§None

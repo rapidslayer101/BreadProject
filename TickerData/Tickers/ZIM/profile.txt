@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 02:34:39.653531
+address1§9 Andrei Sakharov Street
+address2§PO Box 15067 Matam
+city§Haifa
+zip§3190500
+country§Israel
+phone§972 4 865 2111
+website§https://www.zim.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§ZIM Integrated Shipping Services Ltd., together with its subsidiaries, provides container shipping and related services in Israel and internationally. It provides door-to-door and port-to-port transportation services for various types of customers, including end-users, consolidators, and freight forwarders. The company also offers ZIMonitor, a premium reefer cargo tracking service. As of December 31, 2022, it operated a fleet of 150 vessels, which included 139 container vessels and 11 vehicle transport vessels, of which nine vessels were owned by it and 141 vessels are chartered-in; and network of 67 weekly lines. The company was incorporated in 1945 and is headquartered in Haifa, Israel.
+fullTimeEmployees§4830
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eliyahu  Glickman', 'age': 62, 'title': 'President & CEO', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xavier  Destriau', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Alteras Arbel', 'age': 63, 'title': 'Executive VP & COO', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eyal  Ben-Amram', 'age': 60, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elana  Holzman', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noam  Nativ', 'age': 52, 'title': 'Executive VP, General Counsel & Company Secretary', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yair  Teitelbaum', 'title': 'Executive Vice President of Global Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guillermo  Codner', 'age': 55, 'title': 'Executive Vice President of HR & Organization', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Saar  Dotan', 'age': 53, 'title': 'Executive Vice President of Countries & Business Development', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nissim  Yochai', 'age': 64, 'title': 'Executive Vice President of ZIM USA President', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+exDividendDate§1680566400
+payoutRatio§1.3055999
+beta§1.898
+priceToSalesTrailing12Months§0.2854757
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.15
+pegRatio§0.01
+exchange§NYQ
+quoteType§EQUITY
+shortName§ZIM Integrated Shipping Service
+longName§ZIM Integrated Shipping Services Ltd.
+firstTradeDateEpochUtc§1611844200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c29debcd-d5c4-3df0-a67c-8cd0f909f235
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.5
+targetLowPrice§5.0
+targetMeanPrice§8.32
+targetMedianPrice§8.2
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.976
+grossMargins§0.33999002
+ebitdaMargins§0.080970004
+trailingPegRatio§None

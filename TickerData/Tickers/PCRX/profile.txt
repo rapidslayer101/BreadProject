@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 19:46:33.371218
+address1§5401 West Kennedy Boulevard
+address2§Suite 890
+city§Tampa
+state§FL
+zip§33609
+country§United States
+phone§813 553 6680
+website§https://www.pacira.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Pacira BioSciences, Inc. provides non-opioid pain management and regenerative health solutions for healthcare practitioners and their patients in the United States. The company offers EXPAREL, a bupivacaine liposome injectable suspension; ZILRETTA, a triamcinolone acetonide extended-release injectable suspension; and iovera system, a non-opioid handheld cryoanalgesia device used to produce controlled doses of cold temperature only to targeted nerves. It also develops proprietary multivesicular liposome, a drug delivery technology that encapsulates drugs without altering their molecular structure. The company was formerly known as Pacira Pharmaceuticals, Inc. and changed its name to Pacira BioSciences, Inc. in April 2019. Pacira BioSciences, Inc. was incorporated in 2006 and is headquartered in Tampa, Florida.
+fullTimeEmployees§715
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles A. Reinhart III, CPA, M.B.A.', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 780582, 'exercisedValue': 0, 'unexercisedValue': 107960}, {'maxAge': 1, 'name': 'Mr. Daryl  Gaugler', 'age': 61, 'title': 'Chief Operating Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 778775, 'exercisedValue': 115000, 'unexercisedValue': 11525}, {'maxAge': 1, 'name': 'Ms. Kristen  Williams J.D.', 'age': 49, 'title': 'Chief Administrative Officer & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 799634, 'exercisedValue': 857704, 'unexercisedValue': 768}, {'maxAge': 1, 'name': 'Mr. Anthony  Molloy III, Esq.', 'age': 49, 'title': 'Chief Legal & Compliance Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 581410, 'exercisedValue': 802073, 'unexercisedValue': 3099}, {'maxAge': 1, 'name': 'Mr. David M. Stack', 'age': 73, 'title': 'Advisor', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 1543910, 'exercisedValue': 4368755, 'unexercisedValue': 419865}, {'maxAge': 1, 'name': 'Mr. Frank D. Lee', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lauren Bullaro Riker', 'age': 44, 'title': 'Principal Accounting Officer & VP of Finance', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 288815, 'exercisedValue': 196600, 'unexercisedValue': 1271722}, {'maxAge': 1, 'name': 'Susan  Mesco', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Kahr', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis  McLoughlin', 'age': 57, 'title': 'Chief Customer Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 535873, 'exercisedValue': 0, 'unexercisedValue': 37503}]
+auditRisk§1
+boardRisk§6
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.745
+priceToSalesTrailing12Months§2.3906357
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.45
+pegRatio§0.94
+exchange§NMS
+quoteType§EQUITY
+shortName§Pacira BioSciences, Inc.
+longName§Pacira BioSciences, Inc.
+firstTradeDateEpochUtc§1296743400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§050afc8c-af85-375d-b389-8ab4bab1ead0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§57.0
+targetLowPrice§38.0
+targetMeanPrice§48.64
+targetMedianPrice§50.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§3.551
+grossMargins§0.60538
+ebitdaMargins§0.23298
+trailingPegRatio§None

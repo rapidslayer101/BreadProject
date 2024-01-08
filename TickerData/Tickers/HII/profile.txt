@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 19:30:11.204752
+address1§4101 Washington Avenue
+city§Newport News
+state§VA
+zip§23607
+country§United States
+phone§757 380 2000
+website§https://www.huntingtoningalls.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Huntington Ingalls Industries, Inc. engages in designing, building, overhauling, and repairing military ships in the United States. It operates through three segments: Ingalls, Newport News, and Mission Technologies. The company is involved in the design and construction of non-nuclear ships comprising amphibious assault ships; expeditionary warfare ships; surface combatants; and national security cutters for the U.S. Navy and U.S. Coast Guard. It also provides nuclear-powered ships, such as aircraft carriers and submarines, as well as refueling and overhaul, and inactivation services of nuclear-powered aircraft carriers. In addition, the company offers naval nuclear support services, including fleet services comprising design, construction, maintenance, and disposal activities for in-service the U.S. Navy nuclear ships; and maintenance services on nuclear reactor prototypes. Further, it provides life-cycle sustainment services to the U.S. Navy fleet and other maritime customers; high-end information technology and mission-based solutions for Department of Defense (DoD), intelligence, and federal civilian customers; nuclear management and operations and environmental management services for the Department of Energy, DoD, state and local governments, and private sector companies; fleet sustainment; nuclear and environmental services; and unmanned systems. Huntington Ingalls Industries, Inc. was founded in 1886 and is headquartered in Newport News, Virginia.
+fullTimeEmployees§44000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher D. Kastner', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2978538, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas E. Stiehle', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1355940, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad N. Boudreaux', 'age': 49, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1407402, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer R. Boykin', 'age': 59, 'title': 'Executive VP & President of Newport News Shipbuilding', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1079944, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kara R. Wilkinson', 'age': 48, 'title': 'Executive VP & President of Ingalls Shipbuilding Division', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1199649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas G. Schuck', 'age': 49, 'title': 'Corporate VP, Chief Accounting Officer  & Controller', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd A. Borkey', 'age': 59, 'title': 'Executive VP & CTO', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Soong', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xavier  Beale', 'title': 'Vice President of Human Resources & Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christie  Thomas', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.2
+dividendYield§0.020599999
+exDividendDate§1700611200
+payoutRatio§0.3743
+fiveYearAvgDividendYield§2.1
+beta§0.594
+priceToSalesTrailing12Months§0.90451646
+currency§USD
+dateShortInterest§1702598400
+forwardEps§16.65
+pegRatio§2.19
+exchange§NYQ
+quoteType§EQUITY
+shortName§Huntington Ingalls Industries, 
+longName§Huntington Ingalls Industries, Inc.
+firstTradeDateEpochUtc§1300800600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ecffb2b0-d1b1-3b4b-b04a-7e9fb1d466e6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§300.0
+targetLowPrice§195.0
+targetMeanPrice§250.58
+targetMedianPrice§251.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.812
+earningsGrowth§0.076
+grossMargins§0.13473
+ebitdaMargins§0.09739
+trailingPegRatio§1.162

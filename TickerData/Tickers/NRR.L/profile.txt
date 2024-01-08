@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 17:39:56.334877
+address1§89 Whitfield Street
+city§London
+zip§W1T 4DE
+country§United Kingdom
+phone§44 20 3328 5800
+website§https://www.nrr.co.uk
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§NewRiver REIT plc ('NewRiver') is a leading Real Estate Investment Trust specialising in buying, managing and developing resilient retail assets throughout the UK. Our £0.6 billion UK wide portfolio covers 7 million sq ft and comprises 26 community shopping centres and 12 conveniently located retail parks occupied by tenants predominately focused on essential goods and services. Our objective is to own and manage the most resilient retail portfolio in the UK, focused on retail parks, core shopping centres, and regeneration opportunities in order to deliver long-term attractive recurring income returns and capital growth for our shareholders. NewRiver has a Premium Listing on the Main Market of the London Stock Exchange (ticker: NRR).
+fullTimeEmployees§46
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Allan  Lockhart', 'age': 58, 'title': 'Founder, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1029601, 'exercisedValue': 0, 'unexercisedValue': 101896}, {'maxAge': 1, 'name': 'Mr. William Thomas Hobman', 'age': 40, 'title': 'CFO & Director', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 674918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Edith  Monfries', 'title': 'Chief Operating & People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence  Fisher', 'title': 'Head of Corporate Finance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucy  Mitchell', 'title': 'Director of Corporate Communications, PR & Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Spooner', 'title': 'Head of Capital Markets', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma  MacKenzie', 'title': 'Head of Asset Management & Head of ESG', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jackie  Tracey', 'title': 'Head of Commercial Partnerships', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Connor', 'title': 'Head of FP&A', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annabelle  Cooper', 'title': 'Group Financial Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.0789
+exDividendDate§1701907200
+payoutRatio§0.8222
+fiveYearAvgDividendYield§10.56
+beta§1.062
+priceToSalesTrailing12Months§4.053333
+currency§GBp
+forwardEps§7.8
+pegRatio§-3.47
+exchange§LSE
+quoteType§EQUITY
+shortName§NEWRIVER REIT PLC ORD 1P
+longName§NewRiver REIT plc
+firstTradeDateEpochUtc§1251874800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§72874bea-10f6-3cba-9919-cfdc185d8d73
+targetHighPrice§117.0
+targetLowPrice§90.0
+targetMeanPrice§101.8
+targetMedianPrice§102.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§4.415
+grossMargins§0.60876
+ebitdaMargins§0.41941002
+trailingPegRatio§None

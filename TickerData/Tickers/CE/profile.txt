@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 20:27:44.167397
+address1§222 West Las Colinas Boulevard
+address2§Suite 900N
+city§Irving
+state§TX
+zip§75039-5421
+country§United States
+phone§972 443 4000
+website§https://www.celanese.com
+industry§Chemicals
+sector§Basic Materials
+longBusinessSummary§Celanese Corporation, a chemical and specialty materials company, manufactures and sells high performance engineered polymers in the United States and internationally. It operates through Engineered Materials and Acetyl Chain. The Engineered Materials segment develops, produces, and supplies specialty polymers for automotive and medical applications, as well as for use in industrial products and consumer electronics. It also offers acesulfame potassium for the food and beverage industry, and food protection ingredients, such as potassium sorbate and sorbic acid. The Acetyl Chain segment produces and supplies acetyl products, including acetic acid, vinyl acetate monomers, acetic anhydride, and acetate esters that are used as starting materials for colorants, paints, adhesives, coatings, and pharmaceuticals; and organic solvents and intermediates for pharmaceutical, agricultural, and chemical products. It also offers vinyl acetate-based emulsions for use in paints and coatings, adhesives, construction, glass fiber, textiles, and paper applications; and ethylene vinyl acetate resins and compounds, as well as low-density polyethylene for use in flexible packaging films, lamination film products, hot melt adhesives, automotive parts, and carpeting applications. In addition, it provides redispersible powders (RDP) for use in construction applications, including flooring, plasters, insulation, tiling, and waterproofing. Celanese Corporation was founded in 1918 and is headquartered in Irving, Texas.
+fullTimeEmployees§13000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lori J. Ryerkerk BS', 'age': 60, 'title': 'Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2967974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Richardson', 'age': 46, 'title': 'Executive VP & COO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1452650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Puckett', 'age': 60, 'title': 'Executive Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1276397, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Francis Kelly', 'age': 58, 'title': 'Senior Vice President of Engineered Materials', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1396391, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chuck B. Kyrish', 'age': 51, 'title': 'Senior VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron M. McGilvray', 'age': 47, 'title': 'VP of Finance, Controller & Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sameer  Purao', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Ayache', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ashley B. Duffie', 'age': 49, 'title': 'Senior VP & General Counsel', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vanessa A. Dupuis', 'age': 49, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.8
+dividendYield§0.0187
+exDividendDate§1698364800
+payoutRatio§0.1506
+fiveYearAvgDividendYield§2.18
+beta§1.339
+priceToSalesTrailing12Months§1.52462
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.9
+pegRatio§-4.64
+exchange§NYQ
+quoteType§EQUITY
+shortName§Celanese Corporation
+longName§Celanese Corporation
+firstTradeDateEpochUtc§1106317800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7a861313-38bf-355e-8a56-311f264aa6aa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§170.0
+targetLowPrice§120.0
+targetMeanPrice§142.57
+targetMedianPrice§141.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§21
+quickRatio§0.903
+earningsGrowth§3.964
+grossMargins§0.22148001
+ebitdaMargins§0.15953
+trailingPegRatio§16.0472

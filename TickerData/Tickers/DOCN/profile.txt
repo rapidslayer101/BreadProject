@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:28:41.843121
+address1§101 6th Avenue
+city§New York
+state§NY
+zip§10013
+country§United States
+phone§646 827 4366
+website§https://www.digitalocean.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§DigitalOcean Holdings, Inc., through its subsidiaries, operates a cloud computing platform in North America, Europe, Asia, and internationally. Its platform provides on-demand infrastructure and platform tools for developers, start-ups, and small and medium size businesses. The company offers infrastructure solutions across compute, storage, and networking, as well as enables developers to extend the native capabilities of its cloud with fully managed application, container, and database offerings. Its users include software engineers, researchers, data scientists, system administrators, students, and hobbyists. The company's customers use its platform in various industry verticals and for a range of use cases, such as web and mobile applications, website hosting, e-commerce, media and gaming, personal web projects, managed services, and others. DigitalOcean Holdings, Inc. was incorporated in 2012 and is headquartered in New York, New York.
+fullTimeEmployees§1204
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Warren J. Adelman', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yancey L. Spruill', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 797179, 'exercisedValue': 3198340, 'unexercisedValue': 56862972}, {'maxAge': 1, 'name': 'Mr. Jeffrey Scott Guy', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 615131, 'exercisedValue': 727757, 'unexercisedValue': 4132613}, {'maxAge': 1, 'name': 'Mr. Matthew  Steinfort', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cherie  Barrett', 'age': 51, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Bradley IRC', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Shapiro', 'age': 54, 'title': 'General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 664537, 'exercisedValue': 0, 'unexercisedValue': 20252508}, {'maxAge': 1, 'name': 'Mr. Matthew  Norman', 'age': 50, 'title': 'Chief People Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan  Wood', 'age': 39, 'title': 'Chief Strategy Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaqib  Gadit', 'age': 36, 'title': 'Chief Revenue Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.803
+priceToSalesTrailing12Months§4.5029902
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.62
+pegRatio§0.61
+exchange§NYQ
+quoteType§EQUITY
+shortName§DigitalOcean Holdings, Inc.
+longName§DigitalOcean Holdings, Inc.
+firstTradeDateEpochUtc§1616592600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cff515a7-fa40-34a8-8327-f6cb3432ef8e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§47.0
+targetLowPrice§25.0
+targetMeanPrice§33.6
+targetMedianPrice§35.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§2.411
+earningsGrowth§1.525
+grossMargins§0.60039
+ebitdaMargins§0.19610001
+trailingPegRatio§None

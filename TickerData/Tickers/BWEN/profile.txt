@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 12:43:51.652818
+address1§3240 S. Central Avenue
+city§Cicero
+state§IL
+zip§60804
+country§United States
+phone§708 780 4800
+fax§708 298 1012
+website§https://www.bwen.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Broadwind, Inc. manufactures and sells structures, equipment, and components for clean tech and other specialized applications primarily in the United States. It operates through three segments: Heavy Fabrications, Gearing, and Industrial Solutions. The Heavy Fabrications segment provides fabrications to various industrial markets. It offers steel towers and adapters primarily to wind turbine manufacturers. The Gearing segment provides gearing, and gearboxes and systems for onshore and offshore oil and gas fracking and drilling, surface and underground mining, wind energy, steel, material handling, and other infrastructure markets. This segment also offers heat treat services for aftermarket and original equipment manufacturer applications. The Industrial Solutions segment provides supply chain solutions for offering instrumentation and controls, valve assemblies, sensor devices, fuel system components, electrical junction boxes and wiring, energy storage services, and electromechanical devices; light fabrication, inventory management, and kitting and assembly services; packaging solutions; and fabricating services for panels and sub-assemblies to combined cycle natural gas turbine market. Broadwind, Inc. sells its products to the energy, mining, and infrastructure sector customers through its direct sales force and independent sales agents. The company was formerly known as Broadwind Energy, Inc. and changed its name to Broadwind, Inc. in May 2020. Broadwind, Inc. is headquartered in Cicero, Illinois.
+fullTimeEmployees§499
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric B. Blashford', 'age': 59, 'title': 'CEO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 544636, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Ciccone', 'age': 48, 'title': 'VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 253450, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel E. Schueller', 'age': 60, 'title': 'President of Broadwind Heavy Fabrications, Inc.', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 327849, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hayes M. Kennedy', 'age': 60, 'title': 'Chief Human Resource Officer & VP', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gilbert M. Mayo', 'age': 61, 'title': 'President of Broadwind Industrial Solutions, LLC', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Arlene  McKenzie', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.367
+priceToSalesTrailing12Months§0.27405235
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.09
+pegRatio§0.36
+exchange§NCM
+quoteType§EQUITY
+shortName§Broadwind, Inc.
+longName§Broadwind, Inc.
+firstTradeDateEpochUtc§1131633000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3e476124-bf1e-3751-8855-6f4aaea4cf37
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§4.0
+targetMeanPrice§6.25
+targetMedianPrice§6.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.668
+grossMargins§0.14234
+ebitdaMargins§0.06608
+trailingPegRatio§None

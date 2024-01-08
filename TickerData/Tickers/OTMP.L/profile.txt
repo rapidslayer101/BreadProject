@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 10:39:59.631586
+address1§2-6 Boundary Row
+city§London
+zip§SE1 8HP
+country§United Kingdom
+phone§44 8081 202877
+website§https://plc.onthemarket.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§OnTheMarket plc provides online property portal services to businesses in the estate and lettings agency industry in the United Kingdom. The company operates OnTheMarket.com website and apps, which is a property search platform for property seekers. It also offers OnTheMarket Software that includes TecLet, an automated pre-tenancy and property management platform; TecCRM, which allows agents to manage prospecting and marketing for securing and managing new business for sales and letting; TecHub that allows consumers to transact directly with the platforms to bring automation and 24/7 transacting to agency businesses; and TecWeb, which provides agents with an interactive website solution that includes SEO and pay per click services. The company was founded in 2015 and is based in London, the United Kingdom. As of December 12, 2023, OnTheMarket plc operates as a subsidiary of CoStar UK Limited.
+fullTimeEmployees§195
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason  Tebb', 'age': 46, 'title': 'CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 313000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen Fiona Whiteley', 'title': 'Chief Commercial Officer & Executive Director', 'fiscalYear': 2023, 'totalPay': 240000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Richard James Carter', 'age': 40, 'title': 'CFO & Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Morgan  Ross', 'title': 'Product & Technology Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'R.  Almond', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.408
+priceToSalesTrailing12Months§2.6885557
+currency§GBp
+forwardEps§4.57
+exchange§LSE
+quoteType§EQUITY
+shortName§ONTHEMARKET PLC ORD 0.2P
+longName§OnTheMarket plc
+firstTradeDateEpochUtc§1518163200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§18613993-4528-3496-9741-a2390347047d
+targetHighPrice§189.0
+targetLowPrice§189.0
+targetMeanPrice§189.0
+targetMedianPrice§189.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§2.241
+grossMargins§1.0
+ebitdaMargins§0.018609999
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 00:30:44.034830
+address1§4 Batterymarch Park
+city§Quincy
+state§MA
+zip§02169
+country§United States
+phone§617 376 4300
+website§https://www.jjill.com
+industry§Apparel Retail
+sector§Consumer Cyclical
+longBusinessSummary§J.Jill, Inc. operates as an omnichannel retailer for women's apparel under the J.Jill brand in the United States. It offers casual wear, athletic wear, and loungewear; footwear; and accessories, including scarves and jewelry. The company markets its products through retail stores, website, and catalogs. The company was founded in 1959 and is headquartered in Quincy, Massachusetts.
+fullTimeEmployees§1115
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Claire  Spofford', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2949041, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark W. Webb', 'age': 51, 'title': 'Executive VP and Chief Financial & Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1710325, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Guido', 'age': 57, 'title': 'VP, Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria D. Martinez', 'age': 55, 'title': 'Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelley  Liebsch', 'title': 'Senior VP & Chief Merchandising Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elliot  Staples', 'title': 'Creative Director & Senior VP of Design', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1552867200
+payoutRatio§0.0
+beta§0.92
+priceToSalesTrailing12Months§0.42807144
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.22
+pegRatio§-0.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§J. Jill, Inc.
+longName§J.Jill, Inc.
+firstTradeDateEpochUtc§1489069800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§45b43627-1871-3fd1-a50c-e64cd3f793be
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.0
+targetLowPrice§32.0
+targetMeanPrice§35.0
+targetMedianPrice§35.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.517
+earningsGrowth§0.29
+grossMargins§0.69978994
+ebitdaMargins§0.17682
+trailingPegRatio§None

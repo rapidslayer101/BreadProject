@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 13:46:36.161672
+address1§711 High Street
+city§Des Moines
+state§IA
+zip§50392
+country§United States
+phone§515 247 5111
+website§https://www.principal.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Principal Financial Group, Inc. provides retirement, asset management, and insurance products and services to businesses, individuals, and institutional clients worldwide. The company operates through Retirement and Income Solutions, Principal Global Investors, Principal International, and U.S. Insurance Solutions segments. The Retirement and Income Solutions segment provides retirement, and related financial products and services. It offers products and services for defined contribution plans, including 401(k) and 403(b) plans, defined benefit plans, nonqualified executive benefit plans, employee stock ownership plans, equity compensation, and pension risk transfer services; individual retirement accounts; investment only products; and mutual funds, individual variable annuities, and bank products, as well as trust and custody services. The Principal Global Investors segment provides equity, fixed income, real estate, and other alternative investments, as well as asset allocation, stable value management, and other structured investment strategies. The Principal International segment offers pension accumulation products and services, mutual funds, asset management, income annuities, and life insurance accumulation products, as well as voluntary savings plans in Brazil, Chile, Mexico, China, Hong Kong Special Administrative Region, and Southeast Asia. The U.S. Insurance Solutions segment provides specialty benefits, such as group dental and vision insurance, group life insurance, and group and individual disability insurance, as well as administers group dental, disability, and vision benefits; and individual life insurance products comprising universal, variable universal, indexed universal, and term life insurance products in the United States. It also offers insurance solutions for small and medium-sized businesses and their owners, as well as executives. Principal Financial Group, Inc. was founded in 1879 and is based in Des Moines, Iowa.
+fullTimeEmployees§19300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Joseph Houston', 'age': 61, 'title': 'Chairman, CEO & President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 4664910, 'exercisedValue': 38178876, 'unexercisedValue': 6827139}, {'maxAge': 1, 'name': 'Ms. Deanna Dawnette Strable-Soethout', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1892021, 'exercisedValue': 1147445, 'unexercisedValue': 11082816}, {'maxAge': 1, 'name': 'Ms. Natalie  Lamarque', 'age': 46, 'title': 'EVP, General Counsel & Company Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1227068, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick Gregory Halter', 'age': 63, 'title': 'President of Asset Management SM', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2674805, 'exercisedValue': 4825349, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Christine Friedrich', 'age': 52, 'title': 'President of Benefits & Protection', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1534875, 'exercisedValue': 0, 'unexercisedValue': 5668679}, {'maxAge': 1, 'name': 'Ms. Kathleen B. Kay', 'age': 60, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Humphrey  Lee', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noreen M. Fierro', 'age': 58, 'title': 'Senior VP and Enterprise Chief Ethics & Compliance Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bethany A. Wood', 'age': 59, 'title': 'Executive VP & Chief Marketing Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon N. Couture', 'age': 57, 'title': 'Executive VP of Principal Global Services & Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.68
+dividendYield§0.0332
+exDividendDate§1701302400
+payoutRatio§0.4028
+fiveYearAvgDividendYield§3.95
+beta§1.271
+priceToSalesTrailing12Months§1.3683721
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.43
+pegRatio§1.36
+exchange§NMS
+quoteType§EQUITY
+shortName§Principal Financial Group Inc
+longName§Principal Financial Group, Inc.
+firstTradeDateEpochUtc§1003843800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§070c5788-dc34-3cbc-b653-cb6187401064
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§86.0
+targetLowPrice§62.0
+targetMeanPrice§74.82
+targetMedianPrice§75.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§0.479
+earningsGrowth§-0.023
+grossMargins§0.48409
+ebitdaMargins§0.14969
+trailingPegRatio§None

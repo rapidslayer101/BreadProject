@@ -1,0 +1,50 @@
+# reload+after+2024-01-24 00:33:17.890460
+address1§106 East Babcock Street
+address2§Suite 3A
+city§Bozeman
+state§MT
+zip§59715
+country§United States
+phone§844 766 9355
+website§https://www.snowflake.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Snowflake Inc. provides a cloud-based data platform for various organizations in the United States and internationally. Its platform offers Data Cloud, which enables customers to consolidate data into a single source of truth to drive meaningful business insights, build data-driven applications, and share data and data products. The company was formerly known as Snowflake Computing, Inc. and changed its name to Snowflake Inc. in April 2019. Snowflake Inc. was incorporated in 2012 and is based in Bozeman, Montana.
+fullTimeEmployees§6783
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Frank  Slootman', 'age': 64, 'title': 'Chairman & CEO', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 887483, 'exercisedValue': 0, 'unexercisedValue': 1764646272}, {'maxAge': 1, 'name': 'Dr. Benoit  Dageville', 'age': 56, 'title': 'Co-Founder, President of Product Division & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 454172, 'exercisedValue': 0, 'unexercisedValue': 253510000}, {'maxAge': 1, 'name': 'Mr. Michael P. Scarpelli', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 710128, 'exercisedValue': 28340000, 'unexercisedValue': 327479744}, {'maxAge': 1, 'name': 'Mr. Christopher W. Degnan', 'age': 48, 'title': 'Chief Revenue Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 710128, 'exercisedValue': 0, 'unexercisedValue': 73228824}, {'maxAge': 1, 'name': 'Mr. Thierry  Cruanes', 'title': 'Co-Founder', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcin  Zukowski', 'title': 'Co-Founder and Vice President of Engineering', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sundeep  Bedi', 'age': 49, 'title': 'Chief Information & Data Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jimmy  Sexton', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derk  Lupinek', 'title': 'Secretary & General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise  Axelsson-Persson', 'age': 49, 'title': 'Chief Marketing Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.969
+priceToSalesTrailing12Months§23.726574
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.13
+pegRatio§3.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§Snowflake Inc.
+longName§Snowflake Inc.
+firstTradeDateEpochUtc§1600263000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b93646a-c0dd-3c8a-b3c0-d78a094d0fc3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§600.0
+targetLowPrice§120.0
+targetMeanPrice§218.32
+targetMedianPrice§213.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§40
+quickRatio§2.009
+grossMargins§0.67094004
+ebitdaMargins§-0.36541
+trailingPegRatio§2.4693

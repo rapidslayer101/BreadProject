@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 13:47:37.923739
+address1§248 East Capitol Street
+city§Jackson
+state§MS
+zip§39201
+country§United States
+phone§601 208 5111
+website§https://www.trustmark.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Trustmark Corporation operates as the bank holding company for Trustmark National Bank that provides banking and other financial solutions to individuals and corporate institutions in the United States. The company operates through three segments: General Banking, Wealth Management, and Insurance. It offers checking, savings, and money market accounts; certificates of deposits and individual retirement accounts; financing for commercial and industrial projects, income-producing commercial real estate, owner-occupied real estate, and construction and land development; and installment and real estate loans, and lines of credit, as well as treasury management services. The company also provides mortgage banking services, including construction financing, production of conventional and government-insured mortgages, and secondary marketing and mortgage servicing. In addition, it provides wealth management and trust services, such as administration of personal trusts and estates; management of investment accounts for individuals, employee benefit plans, and charitable foundations; and corporate trust and institutional custody, securities brokerage, financial and estate planning, retirement plan, and investment management services. Further, the company offers business insurance products and services for medical professionals, construction, manufacturing, hospitality, real estate, and group life and health plans; and life and health insurance, and personal line policies for individual customers. The company was founded in 1889 and is headquartered in Jackson, Mississippi.
+fullTimeEmployees§2756
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Duane Arthur Dewey CFP, M.A.', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1939538, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Owens', 'age': 58, 'title': 'Principal Financial Officer & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 751081, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Granville  Tate Jr.', 'age': 66, 'title': 'Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 842695, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George T. Chambers Jr.', 'age': 62, 'title': 'Principal Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. F. Joseph Rein Jr.', 'title': 'Senior VP & Assistant Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie A. Morgan', 'title': 'Senior VP & Director of Corporate Communications & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.92
+dividendYield§0.0336
+exDividendDate§1701302400
+payoutRatio§0.5897
+fiveYearAvgDividendYield§3.23
+beta§0.855
+priceToSalesTrailing12Months§2.2748463
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.26
+pegRatio§1.45
+exchange§NMS
+quoteType§EQUITY
+shortName§Trustmark Corporation
+longName§Trustmark Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ec188c99-a57f-3719-b6e5-e0a047c8a49c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§23.0
+targetMeanPrice§27.2
+targetMedianPrice§29.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§-0.192
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

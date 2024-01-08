@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 16:47:22.425057
+address1§215 First Street
+address2§Suite 415
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§617 274 4000
+website§https://www.sarepta.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Sarepta Therapeutics, Inc., a commercial-stage biopharmaceutical company, focuses on the discovery and development of RNA-targeted therapeutics, gene therapies, and other genetic therapeutic modalities for the treatment of rare diseases. It offers EXONDYS 51 injection to treat duchenne muscular dystrophy (duchenne) in patients with confirmed mutation of the dystrophin gene that is amenable to exon 51 skipping; VYONDYS 53 for the treatment of duchenne in patients with confirmed mutation of the dystrophin gene that is amenable to exon 53 skipping; and AMONDYS 45 for the treatment of duchenne in patients with confirmed mutation of the dystrophin gene. The company is also developing SRP-5051, a peptide conjugated PMO that binds exon 51 of dystrophin pre-mRNA; SRP-9001, a DMD micro-dystrophin gene therapy program that is under Phase 1/2a clinical trial; and SRP-9003, a limb-girdle muscular dystrophies gene therapy program. It has collaboration and license agreements with F. Hoffman-La Roche Ltd; Nationwide Children's Hospital; Genevant Sciences; University of Florida; Dyno Therapeutics; Selecta Biosciences; Hansa Biopharma; Lysogene; Duke University; Genethon; and StrideBio. The company was incorporated in 1980 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§1162
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Douglas S. Ingram Esq.', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1623876, 'exercisedValue': 0, 'unexercisedValue': 156634496}, {'maxAge': 1, 'name': 'Mr. Ian Michael Estepan', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 917530, 'exercisedValue': 0, 'unexercisedValue': 6152940}, {'maxAge': 1, 'name': 'Dr. Louise R. Rodino-Klapac Ph.D.', 'age': 45, 'title': 'Executive VP, Chief Scientific Officer and Head of Research & Development', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1035318, 'exercisedValue': 0, 'unexercisedValue': 3321063}, {'maxAge': 1, 'name': 'Mr. Ryan E. Brown J.D.', 'age': 45, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 823360, 'exercisedValue': 0, 'unexercisedValue': 2750296}, {'maxAge': 1, 'name': 'Mr. Bilal  Arif', 'age': 51, 'title': 'Executive VP & Chief Technical Operations Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Francesca T. Nolan', 'title': 'Executive Director of Investor Relations and Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Nasisi', 'title': 'Executive VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Diane L. Berry Ph.D.', 'title': 'Executive VP and Chief of Global Policy & Advocacy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dallan  Murray', 'title': 'Executive VP & Chief Customer Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Will  Tilton', 'title': 'Senior VP, Head of Strategy & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.004
+priceToSalesTrailing12Months§8.240709
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.42
+pegRatio§-0.16
+exchange§NMS
+quoteType§EQUITY
+shortName§Sarepta Therapeutics, Inc.
+longName§Sarepta Therapeutics, Inc.
+firstTradeDateEpochUtc§865431000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a2cf71a4-bc1e-31eb-ba87-88708e94f662
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§224.0
+targetLowPrice§80.0
+targetMeanPrice§137.89
+targetMedianPrice§130.93
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§4.632
+grossMargins§0.0709
+ebitdaMargins§-0.31652
+trailingPegRatio§None

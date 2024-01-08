@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 09:46:25.493227
+address1§3052 Orchard Drive
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§669 231 8200
+website§https://www.outsetmedical.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Outset Medical, Inc., a medical technology company, develops a hemodialysis system for dialysis. It provides the Tablo Hemodialysis System, which comprises a compact console with integrated water purification, on-demand dialysate production, and software and connectivity capabilities for dialysis care in acute and home settings. The company was formerly known as Home Dialysis Plus, Ltd. and changed its name to Outset Medical, Inc. in January 2015. Outset Medical, Inc. was incorporated in 2003 and is headquartered in San Jose, California.
+fullTimeEmployees§518
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Leslie L. Trigg', 'age': 52, 'title': 'President, CEO & Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1223483, 'exercisedValue': 8360050, 'unexercisedValue': 17075750}, {'maxAge': 1, 'name': 'Mr. Nabeel  Ahmed', 'age': 47, 'title': 'CFO, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 654738, 'exercisedValue': 15817, 'unexercisedValue': 333859}, {'maxAge': 1, 'name': 'Mr. John L. Brottem', 'age': 49, 'title': 'General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 594154, 'exercisedValue': 937513, 'unexercisedValue': 60131}, {'maxAge': 1, 'name': 'Mr. Steven S. Williamson', 'age': 50, 'title': 'Chief Commercial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 788508, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marc  Nash', 'title': 'Senior Vice President of Operations and R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Olivier  Racine', 'age': 41, 'title': 'Chief Technology Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 540928, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James S. Mazzola', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicole  Shannon', 'title': 'Director of Marketing Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey L. Porter', 'age': 47, 'title': 'Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Aragon M.D.', 'title': 'Chief Medical  Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.065
+priceToSalesTrailing12Months§2.1204739
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.05
+pegRatio§-0.08
+exchange§NMS
+quoteType§EQUITY
+shortName§Outset Medical, Inc.
+longName§Outset Medical, Inc.
+firstTradeDateEpochUtc§1600176600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bfbebc07-8222-3b0f-8f99-1f1405ec537d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§3.0
+targetMeanPrice§7.5
+targetMedianPrice§6.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§4.328
+grossMargins§0.20141001
+ebitdaMargins§-1.26337
+trailingPegRatio§None

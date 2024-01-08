@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 19:36:09.840310
+address1§Kent House
+address2§3rd Floor North 14-17 Market Place
+city§London
+zip§W1W 8AJ
+country§United Kingdom
+phone§44 20 3435 7400
+fax§44 20 7629 0370
+website§https://www.ecora-resources.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Ecora Resources PLC operates as a natural resource royalty and streaming company. It has royalties and investments in mining and exploration interests in cobalt, steelmaking coal, iron ore, copper, nickel, vanadium, uranium, calcium carbonate, chromite, gold, and silver primarily in Australia, North and South America, Europe, and internationally. The company was formerly known as Anglo Pacific Group plc and changed its name to Ecora Resources PLC in October 2022. Ecora Resources PLC was incorporated in 1967 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc Bishop Lafleche', 'age': 39, 'title': 'CEO & Executive Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 621910, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Flynn', 'age': 43, 'title': 'CFO & Executive Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 542000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbora  Rocke', 'title': 'Investment Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas  Slade', 'title': 'Head of Technical', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoff  Callow', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alice  England', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Dare', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Gray', 'title': 'Group Financial Controller & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.0699
+exDividendDate§1704931200
+payoutRatio§0.15609999
+fiveYearAvgDividendYield§5.8
+beta§0.747
+priceToSalesTrailing12Months§2.831936
+currency§GBp
+forwardEps§0.11
+pegRatio§0.32
+exchange§LSE
+quoteType§EQUITY
+shortName§ECORA RESOURCES PLC ORD 2P
+longName§Ecora Resources PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0f5057f4-01be-3f4f-8db7-1346739cf845
+targetHighPrice§1.89
+targetLowPrice§1.49
+targetMeanPrice§1.74
+targetMedianPrice§1.79
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.448
+grossMargins§0.86157995
+ebitdaMargins§0.86202
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 21:46:14.351808
+address1§101 Hubbard Street
+city§Blacksburg
+state§VA
+zip§24062-9002
+country§United States
+phone§540 951 6300
+website§https://www.nationalbankshares.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§National Bankshares, Inc. operates as the bank holding company for the National Bank of Blacksburg that provides retail and commercial banking products and services to individuals, businesses, non-profits, and local governments. The company accepts interest-bearing and non-interest bearing demand deposit accounts, money market deposit accounts, savings accounts, certificates of deposit, health savings accounts, and individual retirement accounts. Its loan products include commercial and agricultural, commercial real estate, residential real estate, home equity, and various consumer loan products, as well as loans for the construction of commercial and residential properties. The company also provides business and consumer debit and credit cards; letters of credit, night depository services, safe deposit boxes, utility payment services, and automatic funds transfer; wealth management, trust, and estate services; non-deposit investment and insurance products; and telephone, mobile, and Internet banking services. The company was founded in 1891 and is headquartered in Blacksburg, Virginia.
+fullTimeEmployees§231
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. F. Brad Denardo', 'age': 70, 'title': 'Chairman, President & CEO', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 813972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lora M. Jones', 'age': 45, 'title': 'Treasurer & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 190150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lara E. Ramsey', 'age': 54, 'title': 'Executive VP & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 213080, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David K. Skeens', 'age': 56, 'title': 'Senior VP and Senior Operations, Risk & Technology Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 265365, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul M. Mylum', 'age': 56, 'title': 'Executive VP & Chief Lending Officer of The National Bank of Blacksburg', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 312475, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelby  Evans', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Lamm', 'title': 'Senior Vice President of Credit Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph W. Beury', 'title': 'Senior VP & Trust Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.56
+dividendYield§0.0473
+exDividendDate§1700179200
+payoutRatio§0.4302
+fiveYearAvgDividendYield§4.25
+beta§0.472
+priceToSalesTrailing12Months§3.5297613
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.05
+exchange§NCM
+quoteType§EQUITY
+shortName§National Bankshares, Inc.
+longName§National Bankshares, Inc.
+firstTradeDateEpochUtc§944058600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d7053be5-fb42-36c4-9697-ab2d724c2813
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.5
+targetLowPrice§26.5
+targetMeanPrice§26.5
+targetMedianPrice§26.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+earningsGrowth§-0.495
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

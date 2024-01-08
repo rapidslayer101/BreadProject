@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 17:27:25.224617
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240191/blackrock-limited-duration-income-trust-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Limited Duration Income Trust is a close ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income securities of the United States. It invests in securities of companies operating across diversified sectors. The fund primarily invests in investment grade corporate bonds, mortgage-related securities, asset-backed securities, US Government and agency securities, and senior, secured floating rate loans. It has an average portfolio duration of less than five years. The fund benchmarks the performance of its portfolio against the Lehman Brothers U.S. Aggregate Index. BlackRock Limited Duration Income Trust was formed on July 31, 2003 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Edward Keenan C.F.A.', 'age': 47, 'title': 'Portfolio Manager', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leland Tiffany Hart', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Adrian Marshall CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell S. Garfin C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.22
+dividendYield§0.0867
+exDividendDate§1704931200
+payoutRatio§0.8851
+fiveYearAvgDividendYield§7.74
+beta§0.72
+priceToSalesTrailing12Months§11.106872
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Limited Duration Inco
+longName§BlackRock Limited Duration Income Trust
+firstTradeDateEpochUtc§1059485400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f15d3936-bca9-302d-9f6c-f99202a7c151
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.063
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

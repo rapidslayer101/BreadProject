@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 17:46:32.547159
+address1§911 Panorama Trail South
+city§Rochester
+state§NY
+zip§14625-2396
+country§United States
+phone§585 385 6666
+website§https://www.paychex.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§Paychex, Inc. provides integrated human capital management solutions for human resources (HR), payroll, benefits, and insurance services for small to medium-sized businesses in the United States, Europe, and India. It offers payroll processing services; payroll tax administration services; employee payment services; and regulatory compliance services, such as new-hire reporting and garnishment processing. The company also provides HR solutions, including payroll, employer compliance, HR and employee benefits administration, risk management outsourcing, and the on-site availability of a professionally trained HR representative; and retirement services administration, including plan implementation, ongoing compliance with government regulations, employee and employer reporting, participant and employer online access, electronic funds transfer, and other administrative services. In addition, it offers cloud-based HR administration software products for employee benefits management and administration, time and attendance, digital communication solutions, recruiting, and onboarding solutions; plan administration outsourcing and state unemployment insurance services; various business services to small to medium-sized businesses comprising payroll funding and outsourcing services, which include payroll processing, invoicing, and tax preparation; and payment processing services, financial fitness programs, and a small-business loan resource center. Further, the company provides insurance services for property and casualty coverage, such as workers' compensation, business-owner policies, cyber security protection, and commercial auto, as well as health and benefits coverage, including health, dental, vision, and life. It markets and sells its services primarily through its direct sales force. The company was founded in 1971 and is headquartered in Rochester, New York.
+fullTimeEmployees§16000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John B. Gibson Jr.', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 2180269, 'exercisedValue': 0, 'unexercisedValue': 2619031}, {'maxAge': 1, 'name': 'Mr. B. Thomas Golisano', 'age': 81, 'title': 'Founder & Director', 'yearBorn': 1942, 'fiscalYear': 2023, 'totalPay': 272500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie L. Schaeffer', 'age': 53, 'title': 'VP, Chief Legal & Ethics Officer and Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 730360, 'exercisedValue': 0, 'unexercisedValue': 2328368}, {'maxAge': 1, 'name': 'Mr. Mark A. Bottini', 'age': 62, 'title': 'Senior Vice President of Sales', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1378154, 'exercisedValue': 0, 'unexercisedValue': 15186805}, {'maxAge': 1, 'name': 'Mr. Michael E. Gioja', 'age': 65, 'title': 'Senior Vice President of Product Development & Information Technology', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 1286339, 'exercisedValue': 0, 'unexercisedValue': 8170697}, {'maxAge': 1, 'name': 'Mr. Robert Lewis Schrader', 'age': 51, 'title': 'Senior VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Roaldsen', 'age': 51, 'title': 'Senior Vice President of Operations & Customer Experience', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Simmons', 'title': 'VP, Controller, Treasurer & Principal Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley J. Schaufenbuel J.D., L.L.M.', 'age': 50, 'title': 'VP & Chief Information Security Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank  Fiorille', 'title': 'Vice President of Risk, Compliance & Data Analytics', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§3.56
+dividendYield§0.030199999
+exDividendDate§1699833600
+payoutRatio§0.7689
+fiveYearAvgDividendYield§2.72
+beta§0.96
+priceToSalesTrailing12Months§8.235872
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.02
+pegRatio§2.93
+exchange§NMS
+quoteType§EQUITY
+shortName§Paychex, Inc.
+longName§Paychex, Inc.
+firstTradeDateEpochUtc§430752600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§df67ae23-54f3-3af9-a30f-14e6fe5e33be
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§130.0
+targetLowPrice§105.0
+targetMeanPrice§121.38
+targetMedianPrice§123.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§0.42
+earningsGrowth§0.091
+grossMargins§0.71539
+ebitdaMargins§0.44274
+trailingPegRatio§3.0957

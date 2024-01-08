@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 09:32:22.917421
+address1§2503 South Hanley Road
+city§Saint Louis
+state§MO
+zip§63144
+country§United States
+phone§314 644 7600
+website§https://www.postholdings.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Post Holdings, Inc. operates as a consumer packaged goods holding company in the United States and internationally. It operates through four segments: Post Consumer Brands, Weetabix, Foodservice, and Refrigerated Retail. The Post Consumer Brands segment manufactures, markets, and sells branded and private label ready-to-eat (RTE) cereals under Honey Bunches of Oats, Pebbles, and Malt-O-Meal brand names; hot cereal; peanut butter under the Peter Pan brand; and branded and private label dog and cat food products under Rachael Ray Nutrish, Nature's Recipe, 9Lives, Kibbles 'n Bits and Gravy Train brand names. The Weetabix segment primarily manufactures, markets, and distributes branded and private label RTE cereal under Weetabix and Alpen brands; hot cereals and other cereal-based food products; breakfast drinks; protein-based shakes under the UFIT brand, and nutritional snacks, such as muesli. The Foodservice segment produces and distributes egg products primarily under Papetti's and Abbotsford Farms brands, as well as potato products in the foodservice and food ingredient channels. The segment also manufactures certain meat products. The Refrigerated Retail segment produces and distributes side dish, potato, sausage products under Bob Evans, Bob Evans Farms, and Simply Potatoes brands; eggs and egg products under Bob Evans Egg Whites and Egg Beaters brands; and cheese, and other dairy and refrigerated products under Crystal Farms brand. It serves grocery stores, mass merchandise customers, supercenters, club stores, natural/specialty stores, dollar stores, discounters, wholesalers, convenience stores, pet supply retailers, drug store customers, foodservice distributors, and national restaurant chains, as well as sells its products in the military, ecommerce, and foodservice channels. The company was founded in 1895 and is headquartered in Saint Louis, Missouri.
+fullTimeEmployees§11430
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeff A. Zadoks', 'age': 58, 'title': 'Executive VP, Interim President, CEO & COO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 732196, 'exercisedValue': 0, 'unexercisedValue': 684827}, {'maxAge': 1, 'name': 'Mr. Matthew J. Mainer', 'age': 52, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 470990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diedre J. Gray', 'age': 45, 'title': 'Executive VP, General Counsel, Chief Administrative Officer & Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 686991, 'exercisedValue': 322892, 'unexercisedValue': 358311}, {'maxAge': 1, 'name': 'Mr. Robert V. Vitale', 'age': 57, 'title': 'President, CEO & Director (Leave of Absence)', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1351553, 'exercisedValue': 11823950, 'unexercisedValue': 17107678}, {'maxAge': 1, 'name': 'Mr. Mark W. Westphal', 'age': 57, 'title': 'President of Foodservice', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 637981, 'exercisedValue': 0, 'unexercisedValue': 1787427}, {'maxAge': 1, 'name': 'Mr. Nicolas  Catoggio', 'age': 49, 'title': 'President & CEO of Post Consumer Brands', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 747423, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradly A. Harper', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Schonhoff', 'title': 'Senior Vice President of Integrated Supply Chain for Bob Evans Foods & Michael Foods', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally  Abbott', 'title': 'Managing Director of Weetabix Food Company', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Maureen  Mazurek', 'title': 'Head of Environmental, Social & Governance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.599
+priceToSalesTrailing12Months§0.79022247
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.75
+pegRatio§0.37
+exchange§NYQ
+quoteType§EQUITY
+shortName§Post Holdings, Inc.
+longName§Post Holdings, Inc.
+firstTradeDateEpochUtc§1327674600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a02439ec-229d-3be0-a74b-0c1602392310
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§115.0
+targetLowPrice§50.0
+targetMeanPrice§99.3
+targetMedianPrice§105.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.765
+earningsGrowth§-0.237
+grossMargins§0.26916
+ebitdaMargins§0.15321
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 16:46:29.183069
+address1§2235 Enterprise Street
+address2§Suite 110
+city§Escondido
+state§CA
+zip§92029
+country§United States
+phone§760 745 9883
+website§https://www.onestopsystems.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§One Stop Systems, Inc. designs, manufactures, and markets high-performance compute and storage hardware, software, and systems for edge deployments in the United States and internationally. The company's systems are built using the graphical processing unit and solid-state flash technologies. It provides custom servers, data acquisition platforms, compute accelerators, solid-state storage arrays, PCIe expansion products, and system I/O expansion systems, as well as edge optimized industrial and panel PCs. The company also offers ruggedized mobile tablets and handhelds that meet the specialized requirement for devices deployed at the edge in a diverse set of environmental conditions. It sells its products to multinational companies, governmental agencies, military contractors, and technology providers through its website, web store, direct sales team, and original equipment manufacturer focused sales, as well as through a network of resellers and distributors. The company was founded in 1998 and is headquartered in Escondido, California.
+fullTimeEmployees§104
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John W. Morrison Jr.', 'age': 65, 'title': 'CFO, Treasurer & Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 502233, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Ison', 'age': 53, 'title': 'Chief Product Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 430103, 'exercisedValue': 0, 'unexercisedValue': 153212}, {'maxAge': 1, 'name': 'Mr. Michael  Knowles', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Hester', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Reardon', 'title': 'Vice President of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Kalebaugh', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Stiborski', 'title': 'Managing Director of Bressner Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy G. Jones', 'age': 70, 'title': 'Strategic Consultant', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 7875, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.208
+priceToSalesTrailing12Months§0.66815954
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.03
+exchange§NCM
+quoteType§EQUITY
+shortName§One Stop Systems, Inc.
+longName§One Stop Systems, Inc.
+firstTradeDateEpochUtc§1517495400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c58f0b56-aeb6-3762-9d6c-64ea63b3b7e0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§2.0
+targetMeanPrice§3.75
+targetMedianPrice§3.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§2.084
+grossMargins§0.28032
+ebitdaMargins§-0.00802
+trailingPegRatio§None

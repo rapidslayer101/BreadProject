@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 07:36:07.067247
+address1§73 Watling Street
+city§London
+zip§EC4M 9BJ
+country§United Kingdom
+phone§44 20 3405 0475
+website§https://www.distil.uk.com
+industry§Beverages - Wineries & Distilleries
+industryKey§beverages-wineries-distilleries
+industryDisp§Beverages - Wineries & Distilleries
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Distil Plc, together its subsidiaries, engages in the marketing and sale of spirits. The company offers its products under various brands, including RedLeg Spiced Rum, Blackwoods Vintage Gin, Blackwoods Vodka, Blavod Original Black Vodka, TRØVE Botanical Spirit, and Diva Vodka. It markets and sells its products in the United Kingdom, the United States, Germany, Spain, Australia, and Russia. The company was formerly known as Blavod Wines and Spirits plc and changed its name to Distil Plc in April 2014. Distil Plc was incorporated in 1999 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Don  Goulding', 'age': 69, 'title': 'Executive Chairman', 'yearBorn': 1954, 'fiscalYear': 2023, 'totalPay': 172000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shaun  Claydon ACA', 'age': 54, 'title': 'Secretary & Non-Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 33000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adebola  Adebo', 'title': 'Head of Finance & Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Kingsbury', 'title': 'Marketing Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.716
+priceToSalesTrailing12Months§3.6398687
+currency§GBp
+forwardEps§0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§DISTIL PLC ORD 0.1P
+longName§Distil Plc
+firstTradeDateEpochUtc§983174400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§24b6c142-c668-30e9-aa75-a5493e627d25
+messageBoardId§finmb_8057083
+recommendationKey§none
+quickRatio§1.264
+grossMargins§0.50737
+ebitdaMargins§-0.36661997
+trailingPegRatio§None

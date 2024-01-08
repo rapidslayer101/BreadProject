@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 20:45:04.054651
+address1§1095 Broken Sound Parkway
+address2§Suite 300
+city§Boca Raton
+state§FL
+zip§33487
+country§United States
+phone§877 292 7660
+website§https://www.gnln.com
+industry§Tobacco
+sector§Consumer Defensive
+longBusinessSummary§Greenlane Holdings, Inc. develops and distributes cannabis accessories, vape solutions, and lifestyle products in the United States, Canada, and Europe. It operates in two segments, Consumer Goods and Industrial Goods. The company provides consumption accessories, vaporizers, pipes, rolling papers, grinders, and apparel lines, as well as bubblers, rigs, other smoking and vaporization related accessories, and merchandise. It offers its products under the Groove, Eyce, DaVinci, Higher Standards, Pollen Gear, Marley Natural, and Keith Haring brands. The company also operates e-commerce websites, such as Vapor.com, Vaposhop.com, DaVinciVaporizer.com, PuffItUp.com, HigherStandards.com, EyceMolds.com, and MarleyNaturalShop.com. It serves customers through smoke shops, cannabis dispensaries, and specialty retailers. The company was founded in 2005 and is headquartered in Boca Raton, Florida.
+fullTimeEmployees§145
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Craig  Snyder', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 224904, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  LoCascio', 'age': 38, 'title': 'Co-Founder & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 65000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lana  Reeve', 'age': 56, 'title': 'Chief Financial & Legal Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 192614, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas  Kovacevich', 'age': 37, 'title': 'Chief Corporate Development Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 516451, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara  Sher', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amir  Sadr', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.878
+priceToSalesTrailing12Months§0.013940872
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-5.51
+exchange§NGM
+quoteType§EQUITY
+shortName§Greenlane Holdings, Inc.
+longName§Greenlane Holdings, Inc.
+firstTradeDateEpochUtc§1555594200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§272f7eed-76b7-3c1d-9647-87b33e52d579
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.219
+grossMargins§0.22298001
+ebitdaMargins§-0.32403
+trailingPegRatio§None

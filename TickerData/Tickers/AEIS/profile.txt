@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 23:43:11.506659
+address1§1595 Wynkoop Street
+address2§Suite 800
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§970 221 0108
+website§https://www.advancedenergy.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§Advanced Energy Industries, Inc. designs, manufactures, sells, and supports precision power conversion, measurement, and control solutions worldwide. It offers plasma power solutions, including direct current (DC), pulsed DC, low frequency alternating current, and high voltage systems, as well as radio frequency (RF) power supplies, RF matching networks, and RF instrumentation products; and remote plasma sources for reactive gas applications. The company also provides power control modules and thermal instrumentation products for etch, deposition, thermal processing, epitaxy, crystal growing, and chemical processing, as well as metal, carbon fiber, and glass manufacturing and other industrial power applications; high voltage DC-DC products for semiconductor equipment, electrostatic clamping of substrates, scientific instrumentation, mass spectrometry, and x-ray systems for industrial and analytical applications; low voltage board mounted power solutions for a range of industrial applications; and programmable DC power supplies for use in a range of test, measurement, and scientific research applications. In addition, it offers embedded power products for medical equipment or International Electrotechnical Commission 60950-1 for information technology equipment. Further, the company provides calibration, conversions, upgrades, and refurbishments and used equipment to companies, as well as repair services. It offers its products through a direct sales force, independent sales representatives, channel partners, and distributors. Advanced Energy Industries, Inc. was incorporated in 1981 and is headquartered in Denver, Colorado.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen D. Kelley', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2517798, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul R. Oldham', 'age': 60, 'title': 'Executive VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1221877, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo Bernal Acebedo', 'age': 56, 'title': 'Executive VP & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1158280, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth Karpinski Vonne', 'title': 'Executive VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 679740, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Donaghey', 'title': 'Executive VP & Global Head of Sales', 'fiscalYear': 2022, 'totalPay': 936266, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bernard R. Colpitts Jr.', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Heckman', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Rory G. O'Byrne", 'title': 'Senior VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William George Trupkiewicz', 'age': 59, 'title': 'Vice President and Corporate Controller', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 366224, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Gillespie', 'title': 'Senior Vice President of Strategic & Corporate Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.004
+exDividendDate§1700179200
+payoutRatio§0.1096
+beta§1.606
+priceToSalesTrailing12Months§2.159622
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.42
+pegRatio§4.5
+exchange§NMS
+quoteType§EQUITY
+shortName§Advanced Energy Industries, Inc
+longName§Advanced Energy Industries, Inc.
+firstTradeDateEpochUtc§816618600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§827e6f90-5158-32c1-b7f4-8ea8d083f62b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§130.0
+targetLowPrice§95.0
+targetMeanPrice§110.5
+targetMedianPrice§110.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§3.991
+earningsGrowth§-0.561
+grossMargins§0.36178002
+ebitdaMargins§0.1383
+trailingPegRatio§None

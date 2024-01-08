@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 04:47:53.090455
+address1§15 West 38th St
+address2§12th Floor
+city§New York
+state§NY
+zip§10018
+country§United States
+phone§917 292 2685
+website§https://www.theglimpsegroup.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§The Glimpse Group, Inc., a virtual reality (VR) and augmented reality (AR) platform company, provides enterprise-focused software, services, and solutions in the United States. It offers QReal, a software that creates and distributes photorealistic 3D interactive digital models and experiences in AR; Immersive Health Group, a VR/AR platform for evidence-based and outcome driven healthcare solutions; and Foretell Reality, a social VR platform for behavioral health, support groups, collaboration, and soft skills training. The company also provides Glimpse Turkey for developing and creating 3D models for QReal; XR Terra that provides immersive technologies for teaching courses and training; Sector 5 Digital for corporate immersive experiences and events; PulpoAR, an AR try-on technology that targets the beauty and cosmetics industry; and Brightline Interactive, which offers immersive and interactive experiences, training scenarios, and simulations for government and commercial customers. The company was incorporated in 2016 and is headquartered in New York, New York.
+fullTimeEmployees§150
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lyron Live Bentovim', 'age': 53, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 232206, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maydan  Rothblum', 'age': 50, 'title': 'Co-Founder, CFO, COO, Secretary, Treasurer & Non Independent Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 216122, 'exercisedValue': 0, 'unexercisedValue': 265000}, {'maxAge': 1, 'name': 'Mr. David J. Smith', 'age': 47, 'title': 'Chief Creative Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 190120, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Meisner', 'age': 61, 'title': 'Chief Revenue Officer & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 202602, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tyler  Gates', 'age': 37, 'title': 'Chief Futurist Officer & Board Observer', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 195162, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Watson', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Ceccarelli', 'title': 'Financial Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.16
+priceToSalesTrailing12Months§1.5865916
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.23
+exchange§NCM
+quoteType§EQUITY
+shortName§The Glimpse Group, Inc.
+longName§The Glimpse Group, Inc.
+firstTradeDateEpochUtc§1625146200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b5226d62-2def-372c-b815-9021a87e4332
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§4.15
+targetMeanPrice§5.08
+targetMedianPrice§5.08
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.457
+grossMargins§0.66502
+ebitdaMargins§-0.88883
+trailingPegRatio§None

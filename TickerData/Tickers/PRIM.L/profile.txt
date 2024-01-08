@@ -1,0 +1,33 @@
+# reload+after+2024-01-22 08:40:07.973611
+address1§48 Chancery Lane
+city§London
+zip§WC2A 1JF
+country§United Kingdom
+phone§44 20 8154 7909
+website§https://www.primorusinvestments.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Primorus Investments plc is a private equity firm specializing in buyout investments in small and mid cap firms. The firm focuses to invest in financial services, natural resources, energy, clean technology, financial technology, business technology, infrastructure, property, consultancy, brand licensing and leisure sectors. The firm seeks to take majority stakes in its portfolio companies. Primorus Investments plc was incorporated in 1999 and is based in London, United Kingdom.
+fullTimeEmployees§3
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rupert  Labrum', 'age': 56, 'title': 'Executive Chairman', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 48000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Paul Beardmore', 'age': 44, 'title': 'CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 60000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon William Holden Esq.', 'age': 47, 'title': 'Company Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1051056000
+payoutRatio§0.0
+beta§1.08
+priceToSalesTrailing12Months§-20.610926
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§PRIMORUS INVESTMENTS PLC ORD 0.
+longName§Primorus Investments plc
+firstTradeDateEpochUtc§976608000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f9a5396b-b64b-3cc3-83f5-f1b865eb5cca
+recommendationKey§none
+quickRatio§11.203
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

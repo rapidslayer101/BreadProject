@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 17:27:18.211456
+longBusinessSummary§In seeking to track the performance of the index, the fund employs a sampling strategy, which means that the fund is not required to purchase all of the securities represented in the index. The index is designed to measure the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to 3 months and less than 12 months.
+maxAge§86400
+priceHint§2
+yield§0.0498
+totalAssets§2933410560
+navPrice§99.17217
+currency§USD
+category§Ultrashort Bond
+ytdReturn§0.0006053
+beta3Year§0.02
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1600905600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0191172
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Bloomberg 3-12 Month T-Bil
+longName§SPDR Bloomberg 3-12 Month T-Bill ETF
+firstTradeDateEpochUtc§1602077400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§72359bc9-885d-3e8d-8520-bb73ccc93741
+messageBoardId§finmb_683063742
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

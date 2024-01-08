@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 01:45:37.230996
+address1§219 Terry Ave. N
+address2§Suite 300
+city§Seattle
+state§WA
+zip§98109
+country§United States
+phone§206 378 0400
+website§https://kinetabio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kineta, Inc., a clinical-stage biotechnology company, develops immunotherapies in the field of immuno-oncology, cancer, neurology, and arenaviruses. The company is developing KVA12123, an anti-VISTA antagonist mAb immunotherapy, which is in Phase 1/2 clinical trials for the treatment of solid tumors, including non-small cell lung cancer, ovarian cancer, colorectal cancer, colon cancer, pancreatic cancer, and gastric cancer. It is also developing anti-CD27 agonist mAb immunotherapy, which is in Phase 1 clinical trials for the treatment of advanced solid tumors, such as renal cell carcinoma, ovarian cancer, and colorectal cancer. In addition, the company develops immunotherapies for pain management and anti-viral therapy for the treatment of emerging diseases. Kineta, Inc. has collaboration and license agreements with MSD International Business GmbH, and GigaGen, Inc. The company was formerly known as Lecura, Inc. Kineta, Inc. was founded in 2007 and is headquartered in Seattle, Washington.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Shawn P.  Iadonato Ph.D.', 'age': 53, 'title': 'Chair of the Board & CEO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 628659, 'exercisedValue': 0, 'unexercisedValue': 8582}, {'maxAge': 1, 'name': 'Mr. Craig W. Philips', 'age': 62, 'title': 'President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 485787, 'exercisedValue': 0, 'unexercisedValue': 8582}, {'maxAge': 1, 'name': 'Ms. Pauline  Kenny Esq., J.D.', 'age': 50, 'title': 'General Counsel & Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 349716, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith A. Baker', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thierry  Guillaudeux Ph.D.', 'age': 56, 'title': 'Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacques  Bouchy', 'age': 54, 'title': 'Executive Vice President of Investor Relations & Business Development', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth R. North', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§5.259032
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.15
+exchange§NCM
+quoteType§EQUITY
+shortName§Kineta, Inc.
+longName§Kineta, Inc.
+firstTradeDateEpochUtc§1455201000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§709960ac-3b08-3407-99b9-a14d0009bc3c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.5
+targetLowPrice§8.0
+targetMeanPrice§10.75
+targetMedianPrice§10.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.993
+grossMargins§1.51358
+ebitdaMargins§0.0
+trailingPegRatio§None

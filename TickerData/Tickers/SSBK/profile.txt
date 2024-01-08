@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 08:47:22.805099
+address1§615 Quintard Avenue
+city§Anniston
+state§AL
+zip§36201
+country§United States
+phone§256 241 1092
+fax§256 241 1095
+website§https://southernstatesbank.net
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Southern States Bancshares, Inc. operates as the bank holding company for Southern States Bank that provides community banking services to businesses and individuals. It offers various deposit products, such as savings, money market, and noninterest-bearing demand accounts; certificates of deposit; and time deposits. The company also provides real estate loan products, including loans for real estate construction and development, residential mortgages, and commercial real estate mortgage loans; commercial and industrial loans; and direct consumer installment loans, overdrafts, and other revolving credit loans. In addition, it offers online and mobile banking, and ATM services. The company was founded in 2007 and is headquartered in Anniston, Alabama.
+fullTimeEmployees§187
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark A. Chambers', 'age': 58, 'title': 'CEO, President & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 714867, 'exercisedValue': 0, 'unexercisedValue': 781848}, {'maxAge': 1, 'name': 'Ms. Lynn J. Joyce', 'age': 59, 'title': 'Senior EVP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 556948, 'exercisedValue': 0, 'unexercisedValue': 306587}, {'maxAge': 1, 'name': 'Mr. Jack  Swift', 'age': 62, 'title': 'Senior EVP & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory B. Smith', 'age': 59, 'title': 'Senior EVP & Chief Risk Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Garnet  Reynolds', 'title': 'President of Coweta & Fayette Counties, GA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sheila  Wells', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0128999995
+exDividendDate§1698883200
+payoutRatio§0.0963
+beta§0.187
+priceToSalesTrailing12Months§2.8854432
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.0
+exchange§NMS
+quoteType§EQUITY
+shortName§Southern States Bancshares, Inc
+longName§Southern States Bancshares, Inc.
+firstTradeDateEpochUtc§1628775000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a010dd72-5fe6-3df9-b07b-ef00f35aa649
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§26.0
+targetMeanPrice§26.0
+targetMedianPrice§26.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+earningsGrowth§-0.029
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

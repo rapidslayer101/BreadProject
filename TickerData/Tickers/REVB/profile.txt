@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 00:46:57.257987
+address1§4660 La Jolla Village Drive
+address2§Suite 100
+city§San Diego
+state§CA
+zip§92122
+country§United States
+phone§650 800 3717
+website§https://www.revbiosciences.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Revelation Biosciences, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of immune system therapeutics and diagnostics. The company engages in developing therapeutic product candidates, including REVTx-100, a potential therapy for the prevention and treatment of healthcare-associated bacterial infection resulting from surgery, severe burns, urinary tract infection, sepsis, and antibiotic resistance; REVTx-200, a potential intranasal therapy; and REVTx-300, a potential therapy for the treatment of chronic organ disease, including chronic kidney disease. It is also developing REVTx-99b, a treatment for food allergies; REVTx-99a, an anti-viral nasal drop solution for the potential prevention or treatment of respiratory viral infection; and REVDx-501, a rapid test kit, which is a point of care in vitro diagnostic test that has the potential to detect respiratory viral infections, such as SARS-CoV-2, influenza A, influenza B, parainfluenza, or respiratory syncytial virus. The company was founded in 2020 and is based in San Diego, California.
+fullTimeEmployees§6
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James M. Rolke', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 400000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chester Stanley Zygmont III', 'age': 43, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 320000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra  Vedrick', 'title': 'Vice President of Human Resources & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Odle', 'title': 'Senior Director of Clinical Projects', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.398
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.54
+exchange§NCM
+quoteType§EQUITY
+shortName§Revelation Biosciences, Inc.
+longName§Revelation Biosciences, Inc.
+firstTradeDateEpochUtc§1605623400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f994477e-3690-3dde-965e-6f9faa0f03d6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§7.9
+targetMeanPrice§11.45
+targetMedianPrice§11.45
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§2.592
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

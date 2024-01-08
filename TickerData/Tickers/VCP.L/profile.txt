@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 00:41:06.034014
+address1§Worcester Six Business Park
+city§Worcester
+zip§WR4 0AE
+country§United Kingdom
+website§https://www.victoriaplc.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Victoria PLC, together with its subsidiaries, designs, manufactures, and distributes flooring products primarily in the United Kingdom, Spain, Italy, the Netherlands, Germany, Belgium, Turkey, the United States, and Australia. The company operates through four segments: UK & Europe Soft Flooring, UK & Europe Ceramic Tiles, Australia, and North America. It offers a range of wool and synthetic broadloom carpets, ceramic and porcelain tiles, flooring underlays, luxury vinyl tiles (LVT), hardwood flooring products, artificial grass, carpet tiles, and flooring accessories. The company also offers logistics services. It provides its products under various brands. The company was founded in 1895 and is headquartered in Worcester, the United Kingdom.
+fullTimeEmployees§6750
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Geoffrey  Wilding B.Sc', 'age': 60, 'title': 'Executive Chairman', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 65000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philippe  Hamers', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 857000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Morgan', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 376576, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Shirt', 'title': 'Managing Director of Westex Carpets', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Cooper', 'title': 'Managing Director of Interflor', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phil  Smith', 'title': 'Managing Director of Victoria Carpets - Australia', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan  Debrouwere', 'title': 'Managing Director of UK Carpets', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. José Luis Lanuza Quilez', 'title': 'Chief Commercial Officer & Head of Ceramic Tiles', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrea  Bordignon', 'title': 'Managing Director of Victoria Ceramics Italy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Bosveld', 'title': 'Managing Director of Estillon', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1405468800
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.36
+beta§0.875
+priceToSalesTrailing12Months§0.25760993
+currency§GBp
+forwardEps§39.83
+exchange§LSE
+quoteType§EQUITY
+shortName§VICTORIA PLC ORD 5P
+longName§Victoria PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ef9826ef-6942-3483-8fba-5ebb39713a9d
+targetHighPrice§685.0
+targetLowPrice§400.0
+targetMeanPrice§561.67
+targetMedianPrice§600.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.759
+grossMargins§0.31746
+ebitdaMargins§0.13618
+trailingPegRatio§None

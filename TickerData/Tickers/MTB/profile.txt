@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 10:31:31.710951
+address1§One M&T Plaza
+city§Buffalo
+state§NY
+zip§14203
+country§United States
+phone§716 635 4000
+website§https://www3.mtb.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§M&T Bank Corporation operates as a bank holding company for Manufacturers and Traders Trust Company and Wilmington Trust, National Association that offer retail and commercial banking products and services in the United States. The company's Business Banking segment offers deposit, lending, cash management, and other financial services to small businesses and professionals. Its Commercial Banking segment provides deposit products, commercial lending and leasing, letters of credit, and cash management services for middle-market and large commercial customers. The company's Commercial Real Estate segment originates, sells, and services commercial real estate loans; and offers deposit, and credit services. Its Discretionary Portfolio segment provides deposits, securities, residential real estate loans, and other assets; and short and long term borrowed funds, as well as foreign exchange services. The company's Residential Mortgage Banking segment offers residential real estate loans for consumers and sells those loans in the secondary market; and purchases servicing rights to loans, and sub-services residential real estate loans for others. Its Retail Banking segment offers demand, savings, and time accounts; consumer installment loans, automobile and recreational finance loans, home equity loans and lines of credit, and credit cards; mutual funds and annuities; and other services. The company also provides trust and wealth management; fiduciary and custodial; insurance agency; institutional brokerage and securities; and investment management and advisory services; financial management, and planning, leasing, and financing services. It offers its services through banking offices, business banking centers, telephone and internet banking, and automated teller machines. M&T Bank Corporation was founded in 1856 and is headquartered in Buffalo, New York.
+fullTimeEmployees§22424
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rene F. Jones CPA', 'age': 58, 'title': 'Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3515429, 'exercisedValue': 0, 'unexercisedValue': 116382}, {'maxAge': 1, 'name': 'Mr. Kevin J. Pearson', 'age': 61, 'title': 'Vice Chairman', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2332979, 'exercisedValue': 0, 'unexercisedValue': 63315}, {'maxAge': 1, 'name': 'Mr. Darren J. King', 'age': 53, 'title': 'Sr. Executive VP of Retail Banking, Business Banking, Mortgage & Indirect Dealer of Consumer Lending', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1877599, 'exercisedValue': 0, 'unexercisedValue': 38198}, {'maxAge': 1, 'name': 'Mr. Christopher E. Kay J.D.', 'age': 58, 'title': 'Senior Executive VP & Head of Enterprise Platforms', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1786015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daryl N. Bible', 'age': 62, 'title': 'Senior EVP & Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hugh  Giorgio', 'title': 'Head of Investment Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Wisler', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy S. Woodrow', 'age': 49, 'title': 'Senior EVP & Chief Administrative Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Paul Klock', 'title': 'Senior VP and Head of Markets & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Laura P. O'Hara", 'age': 63, 'title': 'Senior EVP & Chief Legal Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.2
+dividendYield§0.0376
+exDividendDate§1701302400
+payoutRatio§0.2924
+fiveYearAvgDividendYield§3.18
+beta§0.832
+priceToSalesTrailing12Months§2.4550471
+currency§USD
+dateShortInterest§1702598400
+forwardEps§14.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§M&T Bank Corporation
+longName§M&T Bank Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§842d2b8b-d74e-3927-b4ed-510ba13c1515
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+earningsGrowth§0.128
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§1.3161

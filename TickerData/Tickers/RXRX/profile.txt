@@ -1,0 +1,50 @@
+# reload+after+2024-01-19 22:47:04.514891
+address1§41 South Rio Grande Street
+city§Salt Lake City
+state§UT
+zip§84101
+country§United States
+phone§385 269 0203
+fax§801 821 2872
+website§https://www.recursion.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Recursion Pharmaceuticals, Inc. operates as a clinical-stage biotechnology company, engages in the decoding biology by integrating technological innovations across biology, chemistry, automation, data science, and engineering to industrialize drug discovery. The company develops REC-994, which is in Phase 2 clinical trial to treat cerebral cavernous malformation; REC-2282, which is in Phase 2/3 clinical trial for the treatment of neurofibromatosis type 2; REC-4881, which is in Phase 2 clinical trial to treat familial adenomatous polyposis; REC-3964, which is in Phase 1 clinical trial to treat Clostridioides difficile infection; and REC-4881, which is in Phase 1b/2 clinical trial to treat AXIN1 or APC mutant cancers. Its preclinical stage product includes RBM39 to treat HR-proficient ovarian cancer; REC-64151 for the treatment of immune checkpoint resistance; and Anti-PD-(L)1, an orally bioavailable small molecule to improve sensitivity to immune checkpoint inhibitors in non-small cell lung cancer and additional tumors. The company has collaboration and agreement with Bayer AG; the University of Utah Research Foundation; Ohio State Innovation Foundation; Chromaderm, Inc.; Roche & Genentech; and Takeda Pharmaceutical Company Limited. Recursion Pharmaceuticals, Inc. was incorporated in 2013 and is headquartered in Salt Lake City, Utah.
+fullTimeEmployees§550
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Christopher C. Gibson Ph.D.', 'age': 40, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 695178, 'exercisedValue': 2794936, 'unexercisedValue': 163438}, {'maxAge': 1, 'name': 'Ms. Tina Marriott Larson', 'age': 48, 'title': 'COO & President', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 612689, 'exercisedValue': 757472, 'unexercisedValue': 4404300}, {'maxAge': 1, 'name': 'Dr. Blake C. Borgeson Ph.D.', 'age': 41, 'title': 'Co-Founder & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 39999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Secora Ph.D.', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 524188, 'exercisedValue': 0, 'unexercisedValue': 6742406}, {'maxAge': 1, 'name': 'Dr. Shafique  Virani M.D.', 'age': 52, 'title': 'Chief Corporate Development Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 681839, 'exercisedValue': 259458, 'unexercisedValue': 1455289}, {'maxAge': 1, 'name': 'Kevin  Leggat', 'title': 'Vice President of Finance & Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Mabey M.S.', 'age': 40, 'title': 'Chief Technology Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jared  Allenbach', 'title': 'Senior Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathan  Hatfield', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Kelly', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.629
+priceToSalesTrailing12Months§54.378735
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.9
+pegRatio§-0.56
+exchange§NMS
+quoteType§EQUITY
+shortName§Recursion Pharmaceuticals, Inc.
+longName§Recursion Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1618579800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b61b6c65-adf4-3158-aa09-6b9439d85de8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§9.0
+targetMeanPrice§12.33
+targetMedianPrice§12.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§4.149
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

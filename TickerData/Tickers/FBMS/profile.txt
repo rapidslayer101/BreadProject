@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 22:44:41.791158
+address1§6480 U.S. Highway 98 West
+address2§Suite A
+city§Hattiesburg
+state§MS
+zip§39402
+country§United States
+phone§601 268 8998
+website§https://www.thefirstbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§The First Bancshares, Inc. operates as the bank holding company for The First Bank that provides general commercial and retail banking services. The company operates through three segments: Commercial/Retail Bank, Mortgage Banking Division, and Holding Company. It offers deposit services, including checking, NOW, and savings accounts; other time deposits, such as daily money market accounts and longer-term certificates of deposit; and individual retirement and health savings accounts. The company also provides commercial loans comprising secured and unsecured loans for working capital, business expansion, and purchase of equipment and machinery; consumer loans consisting of equity lines of credit, as well as secured and unsecured loans for financing automobiles, home improvements, education, and personal investments; and real estate construction and acquisition loans. In addition, it originates loans to purchase existing residential homes or construct new homes, and to refinance existing mortgages; and provides financial and wealth management services. Further, the company offers internet banking services, automated teller machines, voice response telephone inquiry services, commercial sweep accounts, cash management services, safe deposit boxes, merchant, mobile deposit, direct deposit of payroll and social security checks, automatic drafts for various accounts, and credit card services. It primarily serves small to medium-sized businesses, professional concerns, individuals, associations, organizations, and governmental authorities. The company operates in Mississippi, Alabama, Florida, Georgia, and Louisiana. The First Bancshares, Inc. was incorporated in 1995 and is headquartered in Hattiesburg, Mississippi.
+fullTimeEmployees§870
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Milton Ray Cole Jr.', 'age': 61, 'title': 'Chairman, President & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 986215, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Donna T. Lowery CPA', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 445611, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dawn  Ard', 'title': 'Compliance Officer & Compliance Officer of The First, A National Banking Association', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marsie  White', 'title': 'Vice President of Human Resource', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Lee Noonan', 'title': 'Executive VP & Chief Credit Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chandra B. Kidd', 'title': 'VP & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ray L. Wesson Jr.', 'title': 'President of Southern Region - The First, A National Banking Association', 'fiscalYear': 2022, 'totalPay': 205267, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Eric Waldron', 'title': 'President of Northern Region - The First, A National Banking Association', 'fiscalYear': 2022, 'totalPay': 204627, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol M. Daniel', 'title': 'Credit Administrator of The First, A National Banking  Association', 'fiscalYear': 2022, 'totalPay': 179880, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hayden  Mitchell', 'title': 'Chief Retail Banking Officer & Executive VP of The First, A National Banking Association', 'fiscalYear': 2022, 'totalPay': 194232, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.9
+dividendYield§0.0319
+exDividendDate§1699315200
+payoutRatio§0.3173
+fiveYearAvgDividendYield§1.76
+beta§0.892
+priceToSalesTrailing12Months§3.1491416
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.75
+exchange§NGM
+quoteType§EQUITY
+shortName§The First Bancshares, Inc.
+longName§The First Bancshares, Inc.
+firstTradeDateEpochUtc§1041517800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e651e148-eb7f-30d2-9dce-88a5df067e20
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.5
+targetLowPrice§27.5
+targetMeanPrice§31.7
+targetMedianPrice§33.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§0.262
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

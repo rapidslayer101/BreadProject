@@ -1,0 +1,34 @@
+# reload+after+2024-01-23 17:40:05.058780
+address1§Bee House
+address2§140 Eastern Avenue Milton Park
+city§Oxford
+zip§OX14 4SB
+country§United Kingdom
+phone§44 123 5841575
+website§https://www.physiomics.co.uk
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Physiomics Plc provides consulting services to pharmaceutical companies in the areas of outsourced quantitative pharmacology and computational biology in the United Kingdom, the United States, and the European Union Switzerland. The company offers modeling, simulation, and data analysis services covering various ranges of oncology research and development using its proprietary Virtual Tumour predictive software. It also develops technology for use in the field of personalized medicine. The company was incorporated in 2001 and is based in Oxford, the United Kingdom.
+fullTimeEmployees§10
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. James Simon Millen', 'age': 54, 'title': 'CEO & Executive Chairman', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 138606, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christophe D. Chassagnole Ph.D.', 'title': 'Chief Scientific Officer & Executive Director', 'fiscalYear': 2023, 'totalPay': 87477, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. David  Fell', 'title': 'Co-Founder & Member of Scientific Advisory Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony Louis Clayden ACA, BSc (Hons), MSI', 'age': 55, 'title': 'Head of Finance & Company Secretary', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter  Sargent', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hayley  Close', 'title': 'Head of Business Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Venkata  Putcha', 'title': 'Head of Biostatistics', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark  Middleton M.D., Ph.D.', 'title': 'Consultant & Member of Scientific Advisory Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert  Jackson Ph.D.', 'age': 79, 'title': 'Consultant & Member of Scientific Advisory Board', 'yearBorn': 1944, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.724
+priceToSalesTrailing12Months§4.1375127
+currency§GBp
+forwardEps§-0.34
+exchange§LSE
+quoteType§EQUITY
+shortName§PHYSIOMICS PLC ORD 0.4P
+longName§Physiomics Plc
+firstTradeDateEpochUtc§1103529600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§61ec36d0-cb43-3d4c-9451-136bba646249
+recommendationKey§none
+quickRatio§3.936
+grossMargins§-0.91106004
+ebitdaMargins§-0.92927
+trailingPegRatio§None

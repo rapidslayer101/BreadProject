@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 02:30:14.683358
+address1§100 Federal Street
+address2§19th Floor
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617 772 8500
+fax§617 772 8577
+website§https://www.teklacap.com/hql.html
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Abrdn Life Sciences Investors is a closed-ended equity mutual fund launched and managed by Tekla Capital Management LLC. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating in the life sciences sector, including the biotechnology, pharmaceutical, diagnostics, managed healthcare, medical equipment, hospitals, healthcare information technology and services, devices and supplies industries, and in agriculture and environmental management industries. The fund primarily invests in growth stocks of small cap companies. It employs fundamental analysis with a focus on factors such as market position for services or products, experience of business management, technological expertise, and the ability either to generate funds internally to finance growth or to secure outside sources of capital to create its portfolio. The fund benchmarks the performance of its portfolio against the NASDAQ Biotech Index and the S&P 500 Index. It was formerly known as H&Q Life Sciences Investors fund. Abrdn Life Sciences Investors was formed on February 20, 1992 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Daniel R. Omstead M.S, Ph.D.', 'age': 70, 'title': 'Principal Executive Officer, President and Trustee', 'yearBorn': 1953, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Branner', 'title': 'Chief Investment Officer', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§1.27
+dividendYield§0.091400005
+exDividendDate§1700524800
+payoutRatio§1.6202999
+fiveYearAvgDividendYield§9.09
+beta§0.761
+priceToSalesTrailing12Months§105.931786
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§TeklaLife Sciences Investors
+longName§abrdn Life Sciences Investors
+firstTradeDateEpochUtc§704727000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d7b9a6c2-6256-3906-a700-e69a97801494
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.001
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

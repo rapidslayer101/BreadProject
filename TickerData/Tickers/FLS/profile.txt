@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 08:29:31.976542
+address1§5215 North O'Connor Boulevard
+address2§Suite 700
+city§Irving
+state§TX
+zip§75039
+country§United States
+phone§972 443 6500
+website§https://www.flowserve.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Flowserve Corporation  designs, manufactures, distributes, and services industrial flow management equipment in the United States, the Middle East, Africa, Asia Pacific, and Europe. It operates through Flowserve Pump Division (FPD) and Flow Control Division (FCD) segments. The FPD segment offers custom and pre-configured pumps and pump systems, mechanical seals, auxiliary systems, replacement parts, upgrades, and related aftermarket services, including installation and commissioning services, seal systems spare parts, repairs, advanced diagnostics, re-rate and upgrade solutions, retrofit programs, and machining and asset management solutions, as well as manufactures a gas-lubricated mechanical seal for use in high-speed compressors for gas pipelines. The FCD segment provides engineered and industrial valve and automation solutions, including isolation and control valves, actuation, controls, and related equipment, as well as equipment maintenance services for flow control systems, including advanced diagnostics, repair, installation, commissioning, retrofit programs, and field machining capabilities. This segment's products are used to control, direct, and manage the flow of liquids, gases, and multi-phase fluids. It primarily serves oil and gas, chemical and pharmaceuticals, power generation, and water management markets, as well as general industries, including mining and ore processing, pulp and paper, food and beverage, and other smaller applications. The company distributes its products through direct sales, distributors, and sales representatives. Flowserve Corporation was incorporated in 1912 and is headquartered in Irving, Texas.
+fullTimeEmployees§16000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Scott Rowe', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2382789, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy B. Schwetz', 'age': 48, 'title': 'Senior VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1166316, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth L. Burger', 'age': 52, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 805476, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott K. Vopni', 'age': 55, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Short', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John E. Roueche III', 'age': 56, 'title': 'VP of Investor Relations & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 520127, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Claire Hudson', 'age': 46, 'title': 'Senior VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lars E. Rosene', 'age': 55, 'title': 'Vice President of Corporate Communications & Public Affairs', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk R. Wilson', 'age': 56, 'title': 'President of Flow Control Division', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lamar L. Duhon', 'age': 51, 'title': 'President of Flowserve Pumps Division, Aftermarket Services & Solutions', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.02
+exDividendDate§1703721600
+payoutRatio§0.4278
+fiveYearAvgDividendYield§2.23
+beta§1.488
+priceToSalesTrailing12Months§1.2494135
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.53
+pegRatio§1.96
+exchange§NYQ
+quoteType§EQUITY
+shortName§Flowserve Corporation
+longName§Flowserve Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§12bc3bff-0165-35bb-a134-97aa795a4c95
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§38.0
+targetMeanPrice§46.2
+targetMedianPrice§46.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.22
+earningsGrowth§0.207
+grossMargins§0.29883
+ebitdaMargins§0.11703
+trailingPegRatio§1.5976

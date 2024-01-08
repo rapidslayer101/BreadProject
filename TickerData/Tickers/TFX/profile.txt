@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 01:33:40.619657
+address1§550 East Swedesford Road
+address2§Suite 400
+city§Wayne
+state§PA
+zip§19087-1603
+country§United States
+phone§610 225 6800
+website§https://www.teleflex.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§Teleflex Incorporated designs, develops, manufactures, and supplies single-use medical devices for common diagnostic and therapeutic procedures in critical care and surgical applications worldwide. It provides vascular access products that comprise Arrow branded catheters, catheter navigation and tip positioning systems, and intraosseous access systems for the administration of intravenous therapies, the measurement of blood pressure, and the withdrawal of blood samples through a single puncture site. The company also offers interventional products, which consists of various coronary catheters, structural heart therapies, and peripheral intervention and cardiac assist products that are used by interventional cardiologists and radiologists, and vascular surgeons; and Arrow branded catheters, Guideline, Turnpike, and Trapliner catheters, the Manta Vascular Closure, and Arrow Oncontrol devices. It provides anesthesia products, such as airway and pain management products to support hospital, emergency medicine, and military channels; and surgical products, including metal and polymer ligation clips, and fascial closure surgical systems that are used in laparoscopic surgical procedures, percutaneous surgical systems, and other surgical instruments. The company also offers interventional urology products comprising the UroLift System, an invasive technology for treating lower urinary tract symptoms due to benign prostatic hyperplasia; and respiratory products, including oxygen and aerosol therapies, spirometry, and ventilation management products for use in various care settings. It provides urology products, such as catheters, urine collectors, and catheterization accessories and products for operative endourology; and bladder management services. The company serves hospitals and healthcare providers, medical device manufacturers, and home care markets. The company was incorporated in 1943 and is headquartered in Wayne, Pennsylvania.
+fullTimeEmployees§15500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Liam J. Kelly', 'age': 56, 'title': 'Chairman, President & CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2004523, 'exercisedValue': 2794817, 'unexercisedValue': 15683604}, {'maxAge': 1, 'name': 'Mr. Thomas E. Powell', 'age': 61, 'title': 'Executive VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1037826, 'exercisedValue': 0, 'unexercisedValue': 6406163}, {'maxAge': 1, 'name': 'Mr. Cameron P. Hicks', 'age': 58, 'title': 'Corporate Vice President of Human Resources & Communications', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 564684, 'exercisedValue': 0, 'unexercisedValue': 2010027}, {'maxAge': 1, 'name': 'Mr. Jay  White', 'age': 49, 'title': 'Corporate VP & President of Global Commercial', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 866863, 'exercisedValue': 0, 'unexercisedValue': 783836}, {'maxAge': 1, 'name': 'Mr. John R. Deren', 'title': 'Corporate VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy F. Duffy', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Hsu C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel V. Logue', 'age': 49, 'title': 'Corporate VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Cyr', 'title': 'Corporate VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Ferguson', 'title': 'President & GM of Surgical', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.36
+dividendYield§0.0057
+exDividendDate§1699920000
+payoutRatio§0.1591
+fiveYearAvgDividendYield§0.46
+beta§1.134
+priceToSalesTrailing12Months§3.8034756
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.91
+pegRatio§1.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§Teleflex Incorporated
+longName§Teleflex Incorporated
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cfc736f9-d56d-3ff4-b535-f0f0e38e3037
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§285.0
+targetLowPrice§225.0
+targetMeanPrice§255.17
+targetMedianPrice§263.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§2.347
+earningsGrowth§0.342
+grossMargins§0.55992
+ebitdaMargins§0.27306998
+trailingPegRatio§1.6965

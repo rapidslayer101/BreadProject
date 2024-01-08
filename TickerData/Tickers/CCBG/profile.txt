@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 13:43:55.924773
+address1§217 North Monroe Street
+city§Tallahassee
+state§FL
+zip§32301
+country§United States
+phone§850 402 7821
+website§https://www.ccbg.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Capital City Bank Group, Inc. operates as the financial holding company for Capital City Bank that provides a range of banking services to individual and corporate clients. The company offers financing for commercial business properties, equipment, inventories, and accounts receivable, as well as commercial leasing and letters of credit; treasury management services; and merchant credit card transaction processing services. It also provides commercial and residential real estate lending products, as well as fixed- and adjustable-rate residential mortgage loans; personal, automobile, boat/RV, and home equity loans; and credit card programs. In addition, the company offers institutional banking services, including customized checking and savings accounts, cash management systems, tax-exempt loans, lines of credit, and term loans to meet the needs of state and local governments, public schools and colleges, charities, membership, and not-for-profit associations. Further, it provides consumer banking services comprising checking accounts, savings programs, interactive/automated teller machines, debit/credit cards, night deposit services, safe deposit facilities, and online and mobile banking services. Additionally, the company provides asset management for individuals through agency, personal trust, IRA, and personal investment management accounts; and various retail securities products, such as the U.S. government bonds, tax-free municipal bonds, stocks, mutual funds, unit investment trusts, annuities, life insurance, and long-term health care, as well as business, estate, financial, insurance and business planning, tax planning, and asset protection advisory services. The company was founded in 1895 and is headquartered in Tallahassee, Florida.
+fullTimeEmployees§992
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Godfrey Smith Jr.', 'age': 70, 'title': 'Chairman, President & CEO', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 955104, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Barron', 'age': 70, 'title': 'Treasurer & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 867886, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeptha E. Larkin', 'age': 58, 'title': 'Executive VP, CFO & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bethany H. Corum', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marsha S. Crowle', 'age': 61, 'title': 'Executive Vice President of Compliance', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela  Gay', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dale A. Thompson', 'title': 'Executive VP & Chief Credit Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl B. Thompson', 'title': 'Executive Vice President of Banking Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. B. Randall Sharpton', 'title': 'Executive Vice President of Internal Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brooke W. Hallock', 'title': 'Executive VP & Chief Brand Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.028099999
+exDividendDate§1701388800
+payoutRatio§0.2186
+fiveYearAvgDividendYield§2.15
+beta§0.543
+priceToSalesTrailing12Months§2.2299058
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.94
+pegRatio§1.49
+exchange§NMS
+quoteType§EQUITY
+shortName§Capital City Bank Group
+longName§Capital City Bank Group, Inc.
+firstTradeDateEpochUtc§770909400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§de26bb37-6039-316f-b8a8-4d8028276f4b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§32.0
+targetMeanPrice§33.25
+targetMedianPrice§32.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§0.307
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

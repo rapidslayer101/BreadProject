@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 19:27:22.867571
+address1§13241 Woodland Park Road
+address2§Suite 300
+city§Herndon
+state§VA
+zip§20171
+country§United States
+phone§571 267 1571
+website§https://www.blacksky.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§BlackSky Technology Inc. provides geospatial intelligence, imagery and related data analytic products and services, and mission systems that include the development, integration, and operations of satellite and ground systems to government and commercial customers in North America, the Middle East, Asia, and internationally. The company's Spectra AI software platform processes a range of observations from its satellite constellation and external data sources, including imaging, radar and radio frequency satellites, environmental sensors, asset tracking sensors, Internet-of-Things (IoT) connected devices, internet-enabled narrative sources, and a variety of geotemporal data feeds. It offers a range of services comprising object, change, and anomaly detection; site monitoring; analytical solutions; develops and delivers launch vehicles, satellites, and payload systems; and engineering services. The company's products and services are used in national and homeland security, supply chain intelligence, crisis management, critical infrastructure monitoring, economic intelligence, and other applications. BlackSky Technology Inc. was incorporated in 2018 and is headquartered in Herndon, Virginia.
+fullTimeEmployees§259
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Brian E. O'Toole", 'age': 59, 'title': 'CEO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1113077, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry Edward Dubois', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 890484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christiana L. Lin Esq.', 'age': 53, 'title': 'General Counsel, Chief Administrative Officer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 626431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas  Merski', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy M. Ward', 'age': 45, 'title': 'Controller & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Patrick  O'Neil", 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin  Rioles', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aly  Bonilla', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anthony  Porco', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Stephenson', 'title': 'Senior Vice President of Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.996
+priceToSalesTrailing12Months§2.3344681
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.29
+pegRatio§0.05
+exchange§NYQ
+quoteType§EQUITY
+shortName§BlackSky Technology Inc.
+longName§BlackSky Technology Inc.
+firstTradeDateEpochUtc§1576852200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c01b7c9e-4965-3bdd-9492-03c36383d64c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§1.5
+targetMeanPrice§2.79
+targetMedianPrice§2.88
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.401
+grossMargins§0.62921
+ebitdaMargins§-0.34954
+trailingPegRatio§None

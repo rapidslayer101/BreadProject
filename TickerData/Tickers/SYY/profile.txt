@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 23:33:33.069498
+address1§1390 Enclave Parkway
+city§Houston
+state§TX
+zip§77077-2099
+country§United States
+phone§281 584 1390
+website§https://www.sysco.com
+industry§Food Distribution
+sector§Consumer Defensive
+longBusinessSummary§Sysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and related products to the foodservice or food-away-from-home industry in the United States, Canada, the United Kingdom, France, and internationally. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments. The company distributes frozen food, such as meat, seafood, fully prepared entrées, fruits, vegetables, and desserts; canned and dry food products; fresh meat and seafood products; dairy products; beverages; imported specialties; and fresh produce products. It also supplies various non-food items, including paper products comprising disposable napkins, plates, and cups; tableware consisting of glassware and silverware; cookware, such as pots, pans, and utensils; restaurant and kitchen equipment and supplies; and cleaning supplies. The company serves restaurants, hospitals and nursing facilities, schools and colleges, hotels and motels, industrial caterers, and other foodservice venues. Sysco Corporation was incorporated in 1969 and is headquartered in Houston, Texas.
+fullTimeEmployees§72000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin P. Hourican', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 3265717, 'exercisedValue': 1735617, 'unexercisedValue': 4578127}, {'maxAge': 1, 'name': 'Mr. Kenny K. Cheung', 'age': 41, 'title': 'CFO & Executive VP', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 937454, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg D. Bertrand', 'age': 59, 'title': 'Executive VP & Global Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1745783, 'exercisedValue': 0, 'unexercisedValue': 3428860}, {'maxAge': 1, 'name': 'Mr. Thomas R. Peck Jr.', 'age': 56, 'title': 'Executive VP, Chief Information & Digital Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1381226, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil A. Russell', 'age': 52, 'title': 'Chief Administrative Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1085616, 'exercisedValue': 235390, 'unexercisedValue': 16}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Johnson', 'age': 50, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. Kim', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eve M. Mcfadden', 'age': 47, 'title': 'Senior VP of Legal, General Counsel & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose  Colondres', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald L. Phillips', 'age': 58, 'title': 'Executive VP & Chief HR Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.026400002
+exDividendDate§1704326400
+payoutRatio§0.5577
+fiveYearAvgDividendYield§2.46
+beta§1.139
+priceToSalesTrailing12Months§0.4967012
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.74
+pegRatio§1.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sysco Corporation
+longName§Sysco Corporation
+firstTradeDateEpochUtc§105715800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e0cf2875-acb2-38f7-b3f5-96be2b2ce9aa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§87.0
+targetLowPrice§73.0
+targetMeanPrice§80.31
+targetMedianPrice§80.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.699
+earningsGrowth§0.088
+grossMargins§0.18372999
+ebitdaMargins§0.04601
+trailingPegRatio§1.5421

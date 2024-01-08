@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 08:29:13.790114
+longBusinessSummary§The fund will invest at least 80% of its total assets in component securities of the index. The index, constructed and maintained by MSCI, targets companies that are currently members of the MSCI Europe Index ("MSCI Europe") and have increased dividend payments each year for at least 10 years.
+maxAge§86400
+priceHint§2
+yield§0.0186
+totalAssets§9264559
+navPrice§46.5926
+currency§USD
+category§Europe Stock
+ytdReturn§-0.0234406
+beta3Year§1.0
+fundFamily§ProShares
+fundInceptionDate§1441756800
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.012216601
+fiveYearAverageReturn§0.0675008
+exchange§BTS
+quoteType§ETF
+shortName§ProShares MSCI Europe Dividend 
+longName§ProShares MSCI Europe Dividend Growers ETF
+firstTradeDateEpochUtc§1441978200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§38f852dc-e31a-3741-8f47-8b5626a4d118
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

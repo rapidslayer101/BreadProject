@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 09:34:16.083088
+address1§Aviation House
+address2§125 Kingsway
+city§London
+zip§WC2B 6NH
+country§United Kingdom
+website§https://www.vtex.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§VTEX provides software-as-a-service digital commerce platform for enterprise brands and retailers. Its platform enables customers to execute their commerce strategy, including building online stores, integrating, and managing orders across channels, and creating marketplaces to sell products from third-party vendors. It has operations in Brazil, Argentina, Chile, Colombia, France, Italy, Mexico, Peru, Portugal, Romania, Spain, the United Kingdom, and the United States. VTEX was founded in 2000 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1349
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Geraldo  do Carmo Thomaz Jr.', 'age': 45, 'title': 'Co-founder, Co-CEO, Co-Chairman & Chief Technology Officer', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mariano  Gomide de Faria', 'age': 44, 'title': 'Co-founder, Co-CEO & Co-Chairman', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ricardo Camatta Sodre', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julia Vater Fernandez', 'title': 'Investor Relations Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andre  Spolidoro Ferreira Gomes', 'age': 46, 'title': 'Chief Strategy Officer', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amit R. Shah', 'age': 49, 'title': 'Head of M&A', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rafael do Amaral Forte', 'age': 42, 'title': 'Head of B2B Solution', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Santiago Alvarez Naranjo', 'age': 40, 'title': 'Chief Revenue Officer', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.407
+priceToSalesTrailing12Months§7.6024957
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.06
+pegRatio§-1.42
+exchange§NYQ
+quoteType§EQUITY
+shortName§VTEX
+longName§VTEX
+firstTradeDateEpochUtc§1626874200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8726b903-cddf-3a52-8f20-70aeb7ee30dd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§5.5
+targetMeanPrice§7.86
+targetMedianPrice§8.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§3.853
+grossMargins§0.67959
+ebitdaMargins§-0.10779
+trailingPegRatio§None

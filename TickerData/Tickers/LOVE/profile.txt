@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:45:50.570590
+address1§Two Landmark Square
+address2§Suite 300
+city§Stamford
+state§CT
+zip§06901
+country§United States
+phone§888 636 1223
+website§https://www.lovesac.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§The Lovesac Company designs, manufactures, and sells furniture. It offers sactionals, such as seats and sides; sacs, including foam beanbag chairs; and other products comprising drink holders, footsac blankets, decorative pillows, fitted seat tables, and ottomans. The company markets its products primarily through lovesac.com website, as well as showrooms at top tier malls, lifestyle centers, mobile concierges, kiosks, and street locations in 40 states of the United States; and in store pop-up- shops and shop-in-shops. The Lovesac Company was founded in 1995 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§769
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shawn David Nelson', 'age': 46, 'title': 'Founder, CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 731825, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary  Fox', 'age': 50, 'title': 'President & COO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1119691, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith Robert Siegner', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Jensen', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carly  Kawaja', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John A. Legg', 'age': 61, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.868
+priceToSalesTrailing12Months§0.56593144
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.13
+pegRatio§0.56
+exchange§NGM
+quoteType§EQUITY
+shortName§The Lovesac Company
+longName§The Lovesac Company
+firstTradeDateEpochUtc§1530106200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c9122fd7-bae0-381b-a2a3-9ddfc1c7fb19
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§24.0
+targetMeanPrice§41.4
+targetMedianPrice§44.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.479
+grossMargins§0.56238
+ebitdaMargins§0.05811
+trailingPegRatio§0.2983

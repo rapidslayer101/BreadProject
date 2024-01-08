@@ -1,0 +1,58 @@
+# reload+after+2024-01-22 17:36:07.933749
+address1§Drax Power Station
+city§Selby
+zip§YO8 8PH
+country§United Kingdom
+phone§44 17 5761 8381
+website§https://www.drax.com
+industry§Utilities - Renewable
+industryKey§utilities-renewable
+industryDisp§Utilities - Renewable
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§Drax Group plc, together with its subsidiaries, engages in renewable power generation in the United Kingdom. It operates through three segments: Pellet Production, Generation, and Customers. The Pellet Production segment produces and sells biomass pellets. The Generation segment provides renewable, dispatchable power, and system support services to the electricity grid. The Customers segment supplies electricity and gas to non-domestic customers. The company owns and operates Drax Power Station with an installed capacity of 3,906 megawatts (MW) located in Selby, North Yorkshire; Cruachan Power Station, a pumped storage hydro station, with an installed capacity of 440 MW located in Argyll and Bute; and Lanark and Galloway hydro-electric power stations with an installed capacity of 126 MW located in southwest Scotland. It also owns and operates Daldowie fuel plant that processes sludge, a plant that converts it into dry low-odour fuel pellets. In addition, the company manufactures and sells compressed wood pellets; and supplies renewable electricity. Drax Group plc was incorporated in 2005 and is based in Selby, the United Kingdom.
+fullTimeEmployees§3003
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dwight Daniel Willard Gardiner', 'age': 58, 'title': 'Group CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1742000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Skelton', 'age': 51, 'title': 'CFO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1008000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Penny  Small', 'title': 'Interim Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Strafford', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hillary  Berger', 'title': 'Group General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen  McKeever', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Sheffield', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Esa  Heiskanen', 'title': 'Chief Officer Capital Projects', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim  Cole', 'title': 'Head of Customer Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  White', 'title': 'Executive Vice President of Pellet Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.22
+dividendYield§0.044499997
+exDividendDate§1692835200
+payoutRatio§0.4667
+fiveYearAvgDividendYield§4.29
+beta§1.15
+priceToSalesTrailing12Months§0.22671746
+currency§GBp
+forwardEps§125.87
+pegRatio§0.53
+lastDividendValue§9.2
+lastDividendDate§1692835200
+exchange§LSE
+quoteType§EQUITY
+shortName§DRAX GROUP PLC ORD 11 16/29P
+longName§Drax Group plc
+firstTradeDateEpochUtc§1134633600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7b1a6110-5a5c-393b-b8d3-ac1e30386854
+messageBoardId§finmb_11323462
+targetHighPrice§1200.0
+targetLowPrice§474.0
+targetMeanPrice§816.13
+targetMedianPrice§800.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.441
+earningsGrowth§0.682
+grossMargins§0.14187999
+ebitdaMargins§0.065409996
+trailingPegRatio§None

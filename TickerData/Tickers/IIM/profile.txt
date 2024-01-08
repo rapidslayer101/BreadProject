@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 04:30:27.433705
+address1§1331 Spring Street, NW
+address2§Suite 2500
+city§Atlanta
+state§GA
+zip§30309
+country§United States
+phone§(404) 892-0896
+website§https://www.invesco.com/portal/site/us/investors/closed-end/product-detail?productId=30291
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Invesco Value Municipal Income Trust is a closed-ended fixed income mutual fund launched by Invesco Ltd. The fund is co-managed by Invesco Advisers, Inc., INVESCO Asset Management (Japan) Limited, INVESCO Asset Management Deutschland GmbH, INVESCO Asset Management Limited, Invesco Canada Ltd., Invesco Hong Kong Limited, and INVESCO Senior Secured Management, Inc. It invests in the fixed income markets of the United States. The fund primarily invests in investment grade municipal securities which include municipal bonds, municipal notes, municipal commercial paper, and lease obligations. It employs fundamental analysis with bottom-up security selection approach to create its portfolio. The fund was previously known as Invesco Insured Municipal Income Trust. Invesco Value Municipal Income Trust was formed on February 26, 1993 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Russell C. Burk', 'age': 65, 'title': 'Senior Vice President and Senior Officer', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Stryker CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James D. Phillips', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julius D. Williams', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark E. Paris', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Connelly', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Tim  O'Reilly", 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.53
+dividendYield§0.045100003
+exDividendDate§1705363200
+payoutRatio§28.83
+fiveYearAvgDividendYield§5.01
+beta§0.589
+priceToSalesTrailing12Months§12.130808
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Invesco Value Municipal Income 
+longName§Invesco Value Municipal Income Trust
+firstTradeDateEpochUtc§730132200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e3a3464a-7e7e-3fc3-9b8b-710304e13c9b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.974
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

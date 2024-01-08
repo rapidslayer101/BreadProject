@@ -1,0 +1,61 @@
+# reload+after+2024-01-20 11:26:41.216598
+address1§9 West 57th Street
+address2§42nd Floor
+city§New York
+state§NY
+zip§10019
+country§United States
+phone§212 515 3200
+website§https://www.apollo.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Apollo Global Management, Inc. is a private equity firm specializing in investments in credit, private equity and real estate markets. The firm's private equity investments include traditional buyouts, recapitalization, distressed buyouts and debt investments in real estate, corporate partner buyouts, distressed asset, corporate carve-outs, middle market, growth capital, turnaround, bridge, corporate restructuring, special situation, acquisition, and industry consolidation transactions. The firm provides its services to endowment and sovereign wealth funds, as well as other institutional and individual investors. It manages client focused portfolios. The firm launches and manages hedge funds for its clients. It also manages real estate funds and private equity funds for its clients. The firm invests in the fixed income and alternative investment markets across the globe. Its fixed income investments include income-oriented senior loans, bonds, collateralized loan obligations, structured credit, opportunistic credit, non-performing loans, distressed debt, mezzanine debt, and value oriented fixed income securities. The firm seeks to invest in chemicals, commodities, consumer and retail, oil and gas, metals, mining, agriculture, commodities, distribution and transportation, financial and business services, manufacturing and industrial, media distribution, cable, entertainment and leisure, telecom, technology, natural resources, energy, packaging and materials, and satellite and wireless industries. It also focuses on clean energy, sustainable industry, climate solutions, energy transition, industrial decarbonization, sustainable mobility, sustainable resource use, and sustainable real estate. It seeks to invest in companies based in across Africa, North America with a focus on United States, and Europe. The firm also makes investments outside North America, primarily in Western Europe and Asia. It employs a combination of contrarian, value, and distressed strategies to make its investments. The firm seeks to make investments in the range of $10 million and $1500 million. The firm seeks to invest in companies with Enterprise value between $750 million to $2500 million. The firm conducts an in-house research to create its investment portfolio. It seeks to acquire minority and majority positions in its portfolio companies. Apollo Global Management, Inc. was founded in 1990 and is headquartered in New York, New York with additional offices in North America, Asia, India and Europe.
+fullTimeEmployees§4739
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc Jeffrey Rowan', 'age': 60, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 310011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Bernard Kelly', 'age': 55, 'title': 'CFO & Partner', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2491637, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Suydam J.D.', 'age': 63, 'title': 'Senior Advisor & Partner', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 4428714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott M. Kleinman', 'age': 50, 'title': 'Co-President of Apollo Asset Management Inc. & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 8181234, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Richard Belardi', 'age': 66, 'title': 'Co-Founder, CEO & Chief Investment Officer of Athene and Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 38266580, 'exercisedValue': 0, 'unexercisedValue': 11659038}, {'maxAge': 1, 'name': 'Richard  Ressler', 'title': 'Co-owner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Byron C. Vielehr', 'age': 60, 'title': 'Partner, COO & COO of Asset Management Business', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Louis-Jacques  Tanguy', 'title': 'Partner of Finance in New York, Chief Accounting Officer & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamey  Lamanna', 'title': 'Partner & Chief Information Officer of Global Technology in New York', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noah  Gunn', 'title': 'MD & Global Head of Investor Relations in New York', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.72
+dividendYield§0.018099999
+exDividendDate§1700092800
+payoutRatio§0.63060004
+fiveYearAvgDividendYield§3.94
+beta§1.65
+priceToSalesTrailing12Months§2.091862
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.97
+pegRatio§0.73
+lastDividendValue§0.43
+lastDividendDate§1700092800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Apollo Global Management, Inc. 
+longName§Apollo Global Management, Inc.
+firstTradeDateEpochUtc§1301491800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§00a9c800-9936-3042-bfd6-448cd911c598
+messageBoardId§finmb_18833
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§115.0
+targetLowPrice§89.0
+targetMeanPrice§102.08
+targetMedianPrice§103.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.755
+grossMargins§0.28211
+ebitdaMargins§0.0
+trailingPegRatio§None

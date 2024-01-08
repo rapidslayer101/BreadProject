@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 22:43:43.849852
+address1§9540 Towne Centre Drive
+address2§Suite 100
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 888 7600
+website§https://bionano.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§Bionano Genomics, Inc. provides genome analysis software that enables genomics labs to analyze and interpret data across a range of platforms to generate informative data visualizations for streamlined and simple reporting of causal variants. It offers Saphyr, a sample-to-result solution for structural variation analysis by optical genome mapping for genome analysis and understanding of genetic variation and function; Saphyr instrument, a single-molecule imager; Saphyr Chip, a consumable that packages the nanochannel arrays for DNA linearization; and Bionano Prep Kits and DNA labeling kits, which provide the reagents and protocols for extracting and labeling ultra-high molecular weight. The company also provides Saphyr and Bionano compute servers; and NxClinical software, which offers one system for analysis and interpretation of genomic variants from microarray and next-generation sequencing data for cytogenetics and molecular genetics. In addition, it offers testing and laboratory services comprising FirstStepDx PLUS, a chromosomal microarray for identifying an underlying genetic cause in individuals with autism spectrum disorder, developmental delay, and intellectual disability; Fragile X syndrome (FXS) testing services; NextStepDx PLUS, a exome sequencing test to identify genetic variants that are associated with disorders of childhood development; EpiPanelDx PLUS, a genetic testing panel for patients who have experienced seizures, infantile spasms, encephalopathy, or febrile seizures; PGx test, which identifies over 60 alleles in 11 genes. The company was founded in 2003 and is headquartered in San Diego, California.
+fullTimeEmployees§388
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Robert Erik Holmlin M.B.A., Ph.D.', 'age': 55, 'title': 'President, CEO, Secretary & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 834572, 'exercisedValue': 0, 'unexercisedValue': 101674}, {'maxAge': 1, 'name': 'Mr. Mark  Oldakowski', 'age': 49, 'title': 'Chief Operating Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 603824, 'exercisedValue': 0, 'unexercisedValue': 55875}, {'maxAge': 1, 'name': 'Dr. Alka  Chaubey FACMG, Ph.D.', 'age': 50, 'title': 'Chief Medical Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 558829, 'exercisedValue': 0, 'unexercisedValue': 167100}, {'maxAge': 1, 'name': 'Ms. Gulsen  Kama M.B.A.', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Adamchak CPA', 'title': 'VP of Accounting & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Dixon J.D.', 'age': 48, 'title': 'General Counsel', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stanislas  Marin M.B.A., M.S.', 'title': 'Vice President of Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Donna  Polizio', 'title': 'Global Head of Market Access', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cory  Kreeck', 'title': 'Global Head of People Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Klint  Rose Ph.D.', 'title': 'Head of Research & Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.219
+priceToSalesTrailing12Months§1.9183248
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.46
+exchange§NCM
+quoteType§EQUITY
+shortName§Bionano Genomics, Inc.
+longName§Bionano Genomics, Inc.
+firstTradeDateEpochUtc§1534858200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b62a5cf8-b7ae-336a-8f8b-f6a25125d0d8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§6.0
+targetMeanPrice§12.33
+targetMedianPrice§7.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.805
+grossMargins§0.26578
+ebitdaMargins§0.0
+trailingPegRatio§None

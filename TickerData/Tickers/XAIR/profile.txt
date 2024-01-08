@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 03:48:02.974629
+address1§900 Stewart Avenue
+address2§Suite 301
+city§Garden City
+state§NY
+zip§11530
+country§United States
+phone§516 665 8200
+website§https://www.beyondair.net
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Beyond Air, Inc. operates as a commercial-stage medical device and biopharmaceutical company in the United States. The company engages in the development of LungFit platform, a nitric oxide generator and delivery system. It offers LungFit PH for the treatment of persistent pulmonary hypertension of the newborn. The company is also developing LungFit PRO for the treatment of viral lung infections, such as community-acquired viral pneumonia, including COVID-19, as well as bronchiolitis in hospitalized patients; and LungFit GO for the treatment of nontuberculous mycobacteria. The company was formerly known as AIT Therapeutics, Inc. and changed its name to Beyond Air, Inc. in June 2019. Beyond Air, Inc. is based in Garden City, New York.
+fullTimeEmployees§98
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven Adam Lisi', 'age': 52, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 650000, 'exercisedValue': 0, 'unexercisedValue': 1692575}, {'maxAge': 1, 'name': 'Mr. Amir  Avniel', 'age': 49, 'title': 'President, Chief Business Officer & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 400000, 'exercisedValue': 0, 'unexercisedValue': 1255900}, {'maxAge': 1, 'name': 'Mr. Michael A. Gaul', 'age': 68, 'title': 'Chief Operating Officer', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 350000, 'exercisedValue': 0, 'unexercisedValue': 66300}, {'maxAge': 1, 'name': 'Mr. Douglas Quinton Larson', 'age': 52, 'title': 'CFO, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 274955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Edward  Barger', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Van Doren', 'title': 'Head of Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kori-Ann  Taylor', 'title': 'Head of Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrew R. Colin M.D.', 'title': 'Senior Medical Director Global Clinical Leadership & Member of Scientific Advisory Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duncan  Fatkin', 'title': 'Chief Commercial Officer', 'fiscalYear': 2023, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 62688}, {'maxAge': 1, 'name': 'Dr. Jeff  Myers M.D., Ph.D.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.191
+priceToSalesTrailing12Months§188.83028
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.79
+exchange§NCM
+quoteType§EQUITY
+shortName§Beyond Air, Inc.
+longName§Beyond Air, Inc.
+firstTradeDateEpochUtc§1528810200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§84c5f7c5-4229-3962-bff7-e86fa2577eb7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§7.0
+targetMeanPrice§12.0
+targetMedianPrice§10.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.137
+grossMargins§-2.72819
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 10:28:17.996506
+address1§3 Bethesda Metro Center
+address2§Suite 700
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§301 961 4895
+website§https://www.castellumus.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Castellum, Inc. provides services in the areas of cybersecurity, information technology, electronic and information warfare, and information operations. Its services include intelligence analysis, software development, software engineering, program management, strategic and mission planning, information assurance, cybersecurity and policy support, and data analytics services. It serves customers in the federal government, financial services, healthcare, and other data application sectors. Castellum, Inc. is based in Bethesda, Maryland.
+fullTimeEmployees§207
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark C. Fuller', 'age': 67, 'title': 'President, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 428793, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay Oscar Wright', 'age': 53, 'title': 'Vice Chair, General Counsel, Secretary,Treasurer & Chief Strategy Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 428317, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David T. Bell', 'age': 52, 'title': 'CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 341181, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glen R. Ives', 'age': 67, 'title': 'Chief Operating Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 208866, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Gerrard', 'title': 'Head of Corporate Finance & Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Emil  Kaunitz', 'age': 79, 'title': 'President of SSI', 'yearBorn': 1944, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Amanda  Douglas', 'title': 'Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.276
+priceToSalesTrailing12Months§0.3092659
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.08
+exchange§ASE
+quoteType§EQUITY
+shortName§Castellum, Inc.
+longName§Castellum, Inc.
+firstTradeDateEpochUtc§1665667800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b58bd45d-d935-3e73-b64f-3c2a5e7a37ef
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.15
+targetLowPrice§1.15
+targetMeanPrice§1.15
+targetMedianPrice§1.15
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.58
+grossMargins§0.41235
+ebitdaMargins§-0.23523001
+trailingPegRatio§None

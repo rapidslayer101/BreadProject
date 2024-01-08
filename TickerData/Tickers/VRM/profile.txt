@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 14:47:53.454004
+address1§3600 West Sam Houston Pkwy South
+address2§4th Floor
+city§Houston
+state§TX
+zip§77042
+country§United States
+phone§518 535 9125
+website§https://www.vroom.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Vroom, Inc. operates an end-to-end ecommerce platform for buying and selling vehicles. The company operates through three segments: Ecommerce, Wholesale, and Retail Financing segments. It also offers digital retailing services to dealers, automotive financial services companies, and others in the automotive industry; and vehicle financing solutions. The company was formerly known as Auto America, Inc. and changed its name to Vroom, Inc. in July 2015. Vroom, Inc. was incorporated in 2012 and is based in Houston, Texas.
+fullTimeEmployees§1322
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas H. Shortt', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 3183753, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert R. Krakowiak', 'age': 52, 'title': 'CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 913750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia  Moran J.D., Esq.', 'age': 63, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 641313, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Agnieszka  Zakowicz', 'age': 50, 'title': 'Senior VP & Principal Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Liam J. Harrington', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Mahoney', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol Denise Stott', 'age': 55, 'title': 'Chief People & Culture Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 300000, 'exercisedValue': 4469949, 'unexercisedValue': 49350}, {'maxAge': 1, 'name': 'Allen  Miller', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.064
+priceToSalesTrailing12Months§0.084663965
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.72
+pegRatio§0.02
+exchange§NMS
+quoteType§EQUITY
+shortName§Vroom, Inc.
+longName§Vroom, Inc.
+firstTradeDateEpochUtc§1591709400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§56f3cca0-1d44-3753-922e-9346c2fd546b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.25
+targetLowPrice§1.0
+targetMeanPrice§1.06
+targetMedianPrice§1.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.772
+grossMargins§0.18735
+ebitdaMargins§-0.21223
+trailingPegRatio§None

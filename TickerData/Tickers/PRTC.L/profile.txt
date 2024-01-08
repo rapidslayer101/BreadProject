@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 13:40:09.225566
+address1§6 Tide Street
+address2§Suite 400
+city§Boston
+state§MA
+zip§02210
+country§United States
+phone§617 482 2333
+fax§617 482 3337
+website§https://www.puretechhealth.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§PureTech Health plc, a clinical stage biotherapeutics company, engages in the discovery, development, and commercialization of biotechnology and pharmaceutical solutions in the United States. The company is developing LYT-100, currently under Phase 3 stage, to treat idiopathic pulmonary fibrosis (IPF); and LYT-200, a IgG4 monoclonal antibody, currently under Phase 1/2 stage, to inhibit the activity of galectin-9 for treating solid tumors and hematological malignancies. It is also developing LYT-300, an oral allopregnanolone, currently completed Phase 1 stage, to treat depression, anxiety, and related indications; and LYT-310, an oral cannabidiol, currently under preclinical stage, to treat epilepsies and other neurological indications. In addition, the company is developing LYT-503/IMB-150, a non-opioid inflammation targeted disease immunomodulation for the potential treatment of interstitial cystitis, or bladder pain syndrome; and Glyph technology platform, a lymphatic-targeting chemistry platform, which leverages the body's natural lipid absorption and transports the process to orally administer drugs via the lymphatic system. The company was incorporated in 2015 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§111
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Daphne  Zohar', 'age': 52, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 790673, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bharatt M. Chowrira J.D., Ph.D.', 'age': 58, 'title': 'President, Secretary, Chief Business Finance & Operating Officer and Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 629166, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert S. Langer Jr., Ph.D.', 'age': 74, 'title': 'Co-Founder & Non-Executive Director', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 113958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David R. Elmaleh Ph.D.', 'age': 75, 'title': 'Co-Founder & Senior Advisor', 'yearBorn': 1948, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison Mead Talbot', 'title': 'Head of Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Spencer  Ball', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Eric  Elenko Ph.D.', 'age': 50, 'title': 'Chief Innovation & Strategy Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aleksandra  Filipovic M.D., Ph.D.', 'title': 'Head of Oncology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheryl  Murphy Ph.D.', 'title': 'Head of Grants Management & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anita  Terpstra J.D., Ph.D.', 'title': 'Senior VP & Head of Intellectual Property', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.914
+priceToSalesTrailing12Months§47.911762
+currency§GBp
+forwardEps§-0.54
+exchange§LSE
+quoteType§EQUITY
+shortName§PURETECH HEALTH PLC ORD 1P
+longName§PureTech Health plc
+firstTradeDateEpochUtc§1434697200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6c1dd907-d932-3eb5-8f7b-f19280efd842
+targetHighPrice§9.26
+targetLowPrice§3.68
+targetMeanPrice§5.7
+targetMedianPrice§4.18
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§7.162
+grossMargins§3.6781101
+ebitdaMargins§0.0
+trailingPegRatio§None

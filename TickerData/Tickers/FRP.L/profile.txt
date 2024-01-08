@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 02:37:56.507696
+address1§110 Cannon Street
+city§London
+zip§EC4N 6EU
+country§United Kingdom
+phone§44 20 3005 4000
+fax§44 20 3005 4400
+website§https://www.frpadvisory.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§FRP Advisory Group plc, together with its subsidiaries, provides business advisory services to companies, lenders, investors, individuals, and other stakeholders. The company's services include corporate finance advisory services comprising mergers and acquisitions (M&A), strategic advisory and valuations, capital raising, special situations M&A, partial exits, and financial due diligence; and debt advisory services, such as asset based lending, raising and refinancing debt, debt amendments and extensions, restructuring debt, and corporate and leveraged debt advisory. Its services comprise forensic services, including forensic investigations, dispute, compliance and risk advisory, and forensic technology services; pensions advisory services; and restructuring advisory services, such as corporate financial advisory, formal insolvency appointments, informal restructuring advisory, personal insolvency, and general advice to various stakeholders. FRP Advisory Group plc was founded in 2010 and is based in London, the United Kingdom.
+fullTimeEmployees§622
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Geoffrey Paul Rowley', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1384205, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gavin Richard Jones', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 487842, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  French', 'age': 64, 'title': 'COO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 710253, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aimee  Pryor', 'title': 'Account Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Kinnison', 'title': 'Technical & Compliance Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Mardon', 'title': 'Director & Legal Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lyn  Watson', 'title': 'HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Keehan', 'title': 'Director & Head of Creditor Services Restructuring Advisory - Brentwood', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Miller', 'title': 'Director & Head of Finance of Central Services Group - Brentwood', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.0361
+exDividendDate§1708560000
+payoutRatio§0.71099997
+beta§0.435
+priceToSalesTrailing12Months§2.923486
+currency§GBp
+forwardEps§9.17
+exchange§LSE
+quoteType§EQUITY
+shortName§FRP ADVISORY GROUP PLC ORD 0.1P
+longName§FRP Advisory Group plc
+firstTradeDateEpochUtc§1583481600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§449e1e8a-2b96-3c71-ba88-16e58e58d018
+targetHighPrice§212.0
+targetLowPrice§160.0
+targetMeanPrice§179.5
+targetMedianPrice§175.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.826
+earningsGrowth§0.456
+grossMargins§0.42630002
+ebitdaMargins§0.20388001
+trailingPegRatio§None

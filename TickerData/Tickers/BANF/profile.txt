@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 13:43:35.078032
+address1§100 North Broadway Avenue
+city§Oklahoma City
+state§OK
+zip§73102
+country§United States
+phone§405 270 1086
+website§https://www.bancfirst.bank
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§BancFirst Corporation operates as the bank holding company for BancFirst that provides a range of commercial banking services to retail customers, and small to medium-sized businesses. The company operates through Metropolitan Banks, Community Banks, Pegasus, Worthington, and Other Financial Services segments. It offers checking accounts, negotiable order of withdrawal accounts, savings accounts, money market accounts, sweep accounts, club accounts, individual retirement accounts, and certificates of deposit, as well as overdraft protection and auto draft services. The company also provides commercial and agricultural non-real estate loans for working capital, facilities acquisition or expansion, purchase of equipment, and other needs; lending services that include private banking, energy, commercial and residential real estate, and commercial and industrial loans; and loans to finance purchases of consumer goods, such as automobiles, boats, household goods, vacations, and education. In addition, it engages in the investment management and administration of trusts for individuals, corporations, and employee benefit plans, as well as bond trustee and paying agent business for various Oklahoma municipalities and governmental entities; and provision of item processing, research, and other correspondent banking services. Further, the company is involved in real estate investment and insurance agency services; and providing depository and funds transfer, collection, safe deposit box, cash management, and other services. It serves customers in non-metropolitan trade centers and cities in the metropolitan statistical areas of Oklahoma. The company was formerly known as United Community Corporation and changed its name to BancFirst Corporation in November 1988. BancFirst Corporation was incorporated in 1984 and is headquartered in Oklahoma City, Oklahoma.
+fullTimeEmployees§2051
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David E. Rainbolt', 'age': 67, 'title': 'Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2015, 'totalPay': 557990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David R. Harlow', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2015, 'totalPay': 824431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Lawrence', 'age': 44, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1979, 'fiscalYear': 2015, 'totalPay': 440770, 'exercisedValue': 1870021, 'unexercisedValue': 2794000}, {'maxAge': 1, 'name': 'Mr. B. Scott Copeland', 'age': 58, 'title': 'Executive VP & Head of Operations - BancFirst', 'yearBorn': 1965, 'fiscalYear': 2015, 'totalPay': 537355, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy P. Foraker', 'age': 67, 'title': 'Executive VP, Chief Risk Officer & Secretary', 'yearBorn': 1956, 'fiscalYear': 2015, 'totalPay': 202782, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Wade Pierson', 'age': 67, 'title': 'Senior VP & Assistant Secretary', 'yearBorn': 1956, 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer C. Weast', 'age': 59, 'title': 'Senior VP & Controller', 'yearBorn': 1964, 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry Maxson Smith', 'title': 'President of Pegasus Bank', 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roy C. Ferguson', 'age': 76, 'title': 'Executive VP & Chief Credit Officer of BancFirst', 'yearBorn': 1947, 'fiscalYear': 2015, 'totalPay': 166935, 'exercisedValue': 0, 'unexercisedValue': 266250}, {'maxAge': 1, 'name': 'Ms. Laura J. Ratliff', 'title': 'Advisory Director', 'fiscalYear': 2015, 'totalPay': 18000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1451520000
+maxAge§86400
+priceHint§2
+dividendRate§1.72
+dividendYield§0.0186
+exDividendDate§1703721600
+payoutRatio§0.2477
+fiveYearAvgDividendYield§2.1
+beta§1.115
+priceToSalesTrailing12Months§5.014826
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.43
+pegRatio§2.11
+exchange§NMS
+quoteType§EQUITY
+shortName§BancFirst Corporation
+longName§BancFirst Corporation
+firstTradeDateEpochUtc§638461800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§79219fa6-9088-3ba7-ad43-f73ae1ab0bb9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§95.0
+targetLowPrice§87.0
+targetMeanPrice§91.25
+targetMedianPrice§91.5
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.079
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

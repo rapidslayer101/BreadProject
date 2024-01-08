@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 17:43:55.988001
+address1§490 Arsenal Way
+address2§Suite120
+city§Watertown
+state§MA
+zip§02472
+country§United States
+phone§617 231 0700
+website§https://www.c4therapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§C4 Therapeutics, Inc., a clinical-stage biopharmaceutical company, develops novel therapeutic candidates to degrade disease-causing proteins for the treatment of cancer, neurodegenerative conditions, and other diseases. Its lead product candidate is CFT7455, an orally bioavailable MonoDAC degrader of protein that is in Phase 1/2 trial targeting IKZF1 and IKZF3 for multiple myeloma and non-Hodgkin lymphomas, including peripheral T-cell lymphoma and mantle cell lymphoma. The company is also developing CFT8634, an orally bioavailable BiDAC degrader of BRD9, a protein target for synovial sarcoma and SMARCB1-deleted solid tumors; CFT1946, an orally bioavailable BiDAC degrader targeting V600X mutant BRAF to treat melanoma, non-small cell lung cancer (NSCLC), colorectal cancer, and other solid malignancies; CFT8919, an orally bioavailable, allosteric, and mutant-selective BiDAC degrader of epidermal growth factor receptor, or EGFR, with an L858R mutation in NSCLC; and earlier stage programs comprising RET degraders for the treatment of various cancers. C4 Therapeutics, Inc. has strategic collaborations with F. Hoffmann-La Roche Ltd and Hoffmann-La Roche Inc.; Biogen MA, Inc.; and Calico Life Sciences LLC. The company was incorporated in 2015 and is headquartered in Watertown, Massachusetts.
+fullTimeEmployees§146
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew J. Hirsch M.B.A.', 'age': 52, 'title': 'CEO, President & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 970995, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kenneth C. Anderson M.D., Ph.D.', 'age': 72, 'title': 'Co-Founder, Independent Director & Member of Scientific Advisory Board', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 39026, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stewart  Fisher', 'age': 56, 'title': 'Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 657342, 'exercisedValue': 0, 'unexercisedValue': 155810}, {'maxAge': 1, 'name': 'Mr. Scott N. Boyle M.B.A., Ph.D.', 'age': 45, 'title': 'Chief Business Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 672778, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nathanael S. Gray Ph.D.', 'title': 'Co-Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kendra  Adams', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Mossler', 'age': 50, 'title': 'Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jolie M. Siegel J.D.', 'age': 46, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 610400, 'exercisedValue': 1063000, 'unexercisedValue': 1335958}, {'maxAge': 1, 'name': 'Ms. Kelly A. Schick', 'age': 43, 'title': 'Chief People Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Isabel  Chiu Ph.D.', 'title': 'Senior Vice President of Strategic Alliances & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.005
+priceToSalesTrailing12Months§15.4994545
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.48
+pegRatio§-0.11
+exchange§NMS
+quoteType§EQUITY
+shortName§C4 Therapeutics, Inc.
+longName§C4 Therapeutics, Inc.
+firstTradeDateEpochUtc§1601645400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b41c1949-bef0-3b7c-8399-8d0a5d83bcc2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§1.0
+targetMeanPrice§10.56
+targetMedianPrice§11.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§7.171
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

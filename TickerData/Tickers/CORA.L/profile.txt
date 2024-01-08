@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 17:36:01.420139
+address1§Rodus Building
+address2§Road Reef Marina PO Box 3093 Tortola
+city§Road Town
+zip§VG1110
+country§British Virgin Islands
+website§https://www.coragold.com
+industry§Gold
+industryKey§gold
+industryDisp§Gold
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Cora Gold Limited, together with its subsidiaries, explores for and develops mineral projects in United States and West Africa. The company primarily explores for gold deposits. Its flagship project is the Sanankoro Gold project located in the southern Mali; Yanfolila Gold Belt, located in Southern Mali. Cora Gold Limited was incorporated in 2012 and is based in Road Town, British Virgin Islands.
+fullTimeEmployees§32
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert John Ewart Monro', 'age': 39, 'title': 'CEO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 170183, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig Michael Banfield', 'title': 'CFO & Company Secretary', 'fiscalYear': 2022, 'totalPay': 111358, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Djibril  Sanogo', 'title': 'ESG Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Murray  Paterson', 'age': 52, 'title': 'Head of Geology', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.653
+currency§GBp
+forwardEps§-0.47
+exchange§LSE
+quoteType§EQUITY
+shortName§CORA GOLD LIMITED ORD NPV (DI)
+longName§Cora Gold Limited
+firstTradeDateEpochUtc§1507532400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7a06d1cd-4a57-3684-b4c7-6264f6d75471
+messageBoardId§finmb_381343219
+targetHighPrice§0.19
+targetLowPrice§0.15
+targetMeanPrice§0.17
+targetMedianPrice§0.17
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.113
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

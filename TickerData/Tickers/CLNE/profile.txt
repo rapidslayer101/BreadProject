@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 16:44:05.289868
+address1§4675 MacArthur Court
+address2§Suite 800
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 437 1000
+fax§949 724 1397
+website§https://www.cleanenergyfuels.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§Clean Energy Fuels Corp. provides natural gas as an alternative fuel for vehicle fleets and related fueling solutions in the United States and Canada. It supplies renewable natural gas (RNG), compressed natural gas (CNG), and liquefied natural gas (LNG) for medium and heavy-duty vehicles; and offers operation and maintenance services for public and private vehicle fleet customer stations. The company also designs, builds, operates, and maintains vehicle fueling stations; and sells and services compressors and other equipment that are used in RNG production and fueling stations. In addition, it transports and sells CNG, RNG, and LNG through virtual natural gas pipelines and interconnects; sells U.S. federal, state, and local government credits, such as RNG as a vehicle fuel, including Renewable Identification Numbers and Low Carbon Fuel Standards credits; and obtains federal, state, and local credits, grants, and incentives. Further, the company focuses on developing, owning, and operating dairy and other livestock waste RNG projects. It serves heavy-duty trucking, airports, refuse, public transit, industrial, and institutional energy users, as well as government fleets. As of December 31, 2022, the company served approximately 1,000 fleet customers operating approximately 50,000 vehicles. Clean Energy Fuels Corp. was incorporated in 2001 and is headquartered in Newport Beach, California.
+fullTimeEmployees§496
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew J. Littlefair', 'age': 62, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1124658, 'exercisedValue': 0, 'unexercisedValue': 2233375}, {'maxAge': 1, 'name': 'Mr. Robert M. Vreeland', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 606456, 'exercisedValue': 0, 'unexercisedValue': 1036142}, {'maxAge': 1, 'name': 'Mr. Mitchell W. Pratt', 'age': 64, 'title': 'Chief Technology Development Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 698389, 'exercisedValue': 159476, 'unexercisedValue': 300451}, {'maxAge': 1, 'name': 'Mr. Barclay F. Corbus', 'age': 56, 'title': 'Senior VP of Strategic Development & Head of Renewable Fuels', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 644521, 'exercisedValue': 0, 'unexercisedValue': 984524}, {'maxAge': 1, 'name': 'Ms. Barbara  Johnson Bechthold', 'title': 'Vice President of Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jim  Systma', 'title': 'VP, Corporate Secretary & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Foster', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad M. Lindholm', 'title': 'Senior Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.114
+priceToSalesTrailing12Months§1.8634374
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.04
+pegRatio§-0.52
+exchange§NMS
+quoteType§EQUITY
+shortName§Clean Energy Fuels Corp.
+longName§Clean Energy Fuels Corp.
+firstTradeDateEpochUtc§1180099800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b189cf18-c75f-3dbb-88f6-e703c1a77841
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§5.0
+targetMeanPrice§8.27
+targetMedianPrice§7.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§2.118
+grossMargins§0.18986
+ebitdaMargins§-0.08247
+trailingPegRatio§None

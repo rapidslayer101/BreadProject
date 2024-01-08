@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 15:27:36.539363
+address1§345 Park Avenue
+address2§24th Floor
+city§New York
+state§NY
+zip§10154
+country§United States
+phone§212 655 0220
+website§https://www.blackstonemortgagetrust.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Blackstone Mortgage Trust, Inc., a real estate finance company, originates senior loans collateralized by commercial properties in North America, Europe, and Australia. The company, together with its subsidiaries, originates and acquires commercial mortgage loans and related investments. It operates as a real estate investment trust for federal income tax purposes. The company was formerly known as Capital Trust, Inc. and changed its name to Blackstone Mortgage Trust, Inc. in May 2013. Blackstone Mortgage Trust, Inc. was incorporated in 1998 and is headquartered in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael B. Nash', 'age': 62, 'title': 'Executive Chairman of the Board', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katharine A. Keenan', 'age': 38, 'title': 'CEO, President & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony Francis Marone Jr., CPA', 'age': 40, 'title': 'CFO, Treasurer & Assistant Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Lee Pollack', 'age': 46, 'title': 'Senior MD, Global Head of Real Estate Credit & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan D. Gray CIMA', 'age': 54, 'title': 'BX President, COO & Senior MD', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Austin  Pena', 'age': 37, 'title': 'Executive VP of Investments & MD', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Kolodziej', 'age': 44, 'title': 'Head of Accounting', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Paul Hayes Jr.', 'age': 32, 'title': 'Vice President of Shareholder Relations', 'yearBorn': 1991, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leon  Volchyok', 'age': 39, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen D. Plavin', 'age': 64, 'title': 'Senior Managing Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.48
+dividendYield§0.1168
+exDividendDate§1703721600
+payoutRatio§2.1378999
+fiveYearAvgDividendYield§9.19
+beta§1.456
+priceToSalesTrailing12Months§9.5098715
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.32
+pegRatio§3.27
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackstone Mortgage Trust, Inc.
+longName§Blackstone Mortgage Trust, Inc.
+firstTradeDateEpochUtc§346948200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§57592b40-e995-30a1-8815-51c1b6980a86
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§20.0
+targetMeanPrice§22.07
+targetMedianPrice§22.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§72.021
+earningsGrowth§-0.711
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

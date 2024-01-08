@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 03:47:42.530336
+address1§125 Highway 515 East
+city§Blairsville
+state§GA
+zip§30512
+country§United States
+phone§706 781 2265
+website§https://www.ucbi.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§United Community Banks, Inc. operates as the financial holding company for United Community Bank that provides financial products and services to commercial, retail, government, education, energy, health care, and real estate sectors. It accepts various deposit products, including checking, savings, money market, and other deposit accounts. The company also offers lending services, including real estate, consumer, and commercial loans, to individuals, small businesses, mid-sized commercial businesses, and non-profit organizations, as well as secured and unsecured, and mortgage loans. In addition, it originates loans partially guaranteed by the SBA and USDA loan programs. Further, the company provides wealth management services comprising financial planning, customized portfolio management, and investment advice; trust services to manage fiduciary assets; non-deposit investment products; and insurance products, including life insurance, long-term care insurance, and tax-deferred annuities, as well as invests in residential and commercial mortgage-backed securities, asset-backed securities, the U.S. treasury, the U.S. agency, and municipal obligations. Additionally, it offers reinsurance on a property insurance contract; insurance agency services; brokerage services; and payment processing, merchant, wire transfer, private banking, and other related financial services. The company was founded in 1950 and is headquartered in Blairsville, Georgia.
+fullTimeEmployees§3151
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Herbert Lynn Harton', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2538380, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard William Bradshaw', 'age': 61, 'title': 'President & Chief Banking Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1066705, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jefferson Lee Harralson C.F.A.', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1048701, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melinda Davis Lux', 'age': 49, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 743027, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert A. Edwards', 'age': 58, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 829200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan H. Kumler', 'title': 'Chief Accounting Officer, Senior VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Aaron Terry', 'age': 56, 'title': 'Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol A. Chastain', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Abraham A. Cox', 'title': 'Executive VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Holly  Berry', 'age': 49, 'title': 'Chief Human Resources Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.72
+dividendYield§0.0744
+exDividendDate§1701216000
+beta§1.026
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§United Community Banks, Inc. - 
+longName§United Community Banks, Inc.
+firstTradeDateEpochUtc§1591277400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0bc200f5-6013-30e1-82b7-a824aab68107
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.473
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

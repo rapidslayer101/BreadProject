@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 00:46:06.109125
+address1§50 Minuteman Road
+city§Andover
+state§MA
+zip§01810
+country§United States
+phone§978 256 1300
+fax§978 256 3599
+website§https://www.mrcy.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Mercury Systems, Inc., a technology company, manufactures and sells components, products, modules, and subsystems for aerospace and defense industries in the United States, Europe, and the Asia Pacific. Its products and solutions are deployed in approximately 300 programs with 25 defense contractors and commercial aviation customers. The company offers components, including power amplifiers and limiters, switches, oscillators, filters, equalizers, digital and analog converters, chips, monolithic microwave integrated circuits, and memory and storage devices; modules and sub-assemblies, such as embedded processing boards, switched fabrics and boards, digital receivers, multi-chip modules, integrated radio frequency and microwave multi-function assemblies, tuners, and transceivers, as well as graphics and video boards; and integrated subsystems. It also designs and develops digital radio frequency memory units for various modern electronic warfare applications; radar environment simulation and test systems for defense and intelligence applications; and signals intelligence payloads and EO/IR technologies for small UAV platforms, as well as onboard UAV processor systems for real-time wide area motion imagery. The company was formerly known as Mercury Computer Systems, Inc. and changed its name to Mercury Systems, Inc. in November 2012. The company was incorporated in 1981 and is headquartered in Andover, Massachusetts.
+fullTimeEmployees§2596
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. William L. Ballhaus', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 320967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Roger Wells IV', 'age': 51, 'title': "Executive VP & President of Mercury's Microelectronics Division", 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 661729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine Fox Harbison', 'age': 57, 'title': 'Executive VP & Chief Growth Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 399968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David E. Farnsworth', 'age': 63, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher C. Cambria', 'age': 64, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 556241, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie  Georges', 'title': 'Executive VP & Chief Communications Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Ratner', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen  Couture', 'age': 55, 'title': 'Executive Vice President of Execution Excellence', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.796
+priceToSalesTrailing12Months§2.136367
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.59
+pegRatio§7.48
+exchange§NMS
+quoteType§EQUITY
+shortName§Mercury Systems Inc
+longName§Mercury Systems, Inc.
+firstTradeDateEpochUtc§886170600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§678b3050-814b-3459-9024-7a32f32b13ac
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§61.0
+targetLowPrice§30.0
+targetMeanPrice§39.75
+targetMedianPrice§37.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§2.773
+earningsGrowth§-0.347
+grossMargins§0.31183
+ebitdaMargins§0.06855
+trailingPegRatio§None

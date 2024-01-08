@@ -1,0 +1,37 @@
+# reload+after+2024-01-20 08:29:08.435449
+address1§1415 Vantage Park Drive
+address2§3rd Floor
+city§Charlotte
+state§NC
+zip§28203
+country§United States
+phone§833-568-4255
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Allspring Multi-Sector Income Fund is a closed-ended fixed income mutual fund launched and managed by Wells Fargo Funds Management, LLC. The fund is co-managed by First International Advisors, Inc. and Wells Capital Management Incorporated. It invests in fixed income markets across the globe. The fund primarily invests in a mix of non-investment-grade corporate debt securities, including bank loan securities, foreign and emerging markets debt securities, adjustable and fixed-rate mortgages, and investment-grade corporate bonds. Allspring Multi-Sector Income Fund was formed on June 25, 2003 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter Malcolm Wilson', 'title': 'Chief Operating Officer, Managing Director, Senior Portfolio Manager and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony John Norris', 'title': 'Chief Investment Officer, Managing Director, Senior Portfolio Manager and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael William Lee', 'title': 'Director of Trading and Senior Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Alexander Geoffrey Perrin', 'title': 'Director of Research and Senior Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Y. Kauffman C.F.A., CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher A. Wightman', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noah  Wise C.F.A.', 'title': 'Portfolio Manager & Research Analyst', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.79
+dividendYield§0.0837
+exDividendDate§1705017600
+payoutRatio§1.1296
+fiveYearAvgDividendYield§10.02
+beta§0.73
+priceToSalesTrailing12Months§9.438964
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§109188
+longName§Allspring Multi-Sector Income Fund
+firstTradeDateEpochUtc§1056547800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c52ccf2a-bd07-340a-ad57-57d880d7eadf
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.062
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 03:36:02.306531
+address1§1 Tanfield
+city§Edinburgh
+zip§EH3 5DA
+country§United Kingdom
+phone§44 13 1550 3100
+fax§44 13 1550 3101
+website§https://www.thecranewaregroup.com
+industry§Health Information Services
+industryKey§health-information-services
+industryDisp§Health Information Services
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Craneware plc, together with its subsidiaries, develops, licenses, and supports computer software for the healthcare industry in the United States. The company provides solutions, such as Trisus pricing transparency software; Trisus Pricing Analyzer, a solution that simplifies and automates the price modeling process; Trisus Chargemaster, an automated chargemaster management solution; InSight Medical Necessity, a solution that offers medical necessity for the United States payors; Trisus Claims Informatics, a retrospective charge capture analytical application that identifies areas of risk for its team to investigate; Trisus Supply, a solution that improves supplies reimbursement; and InSight Audit, an audit management solution for government and commercial payors. It also offers Trisus Decision Support; Trisus Labor Productivity; Trisus Medication Analytic solutions; and Trisus supplies assistant solutions. In addition, the company provides Sentinel, a drug tracking solution; Sentrex, a SaaS-based solution that helps covered entities expand medication access; Referral Verification System; and Central Pharmacy Distribution, a centralized purchasing application. Further, it offers appeal, professional, and pharmacy professional services. Craneware plc was incorporated in 1999 and is headquartered in Edinburgh, the United Kingdom.
+fullTimeEmployees§734
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Keith  Neilson', 'age': 54, 'title': 'Co-Founder, CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 536575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig Thomas Preston ACA', 'age': 52, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 395562, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabel  Urquhart', 'age': 55, 'title': 'Chief People Officer & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 273473, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Abhilesh  Gandhi', 'title': 'Group Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek William Paterson', 'age': 55, 'title': 'Chief Information Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Carter', 'title': 'Chief Legal Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Montgomery', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Seth  Droe', 'title': 'Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Bowden RHIA', 'title': 'Executive Vice President of Customer Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lidia A. Rodriguez-Hupp', 'title': 'Chief Customer Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.29
+dividendYield§0.0162
+exDividendDate§1700697600
+payoutRatio§1.3025
+fiveYearAvgDividendYield§1.44
+beta§0.184
+priceToSalesTrailing12Months§3.575252
+currency§GBp
+forwardEps§0.75
+lastDividendValue§16.0
+lastDividendDate§1700697600
+exchange§LSE
+quoteType§EQUITY
+shortName§CRANEWARE PLC ORD 1P
+longName§Craneware plc
+firstTradeDateEpochUtc§1189666800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ff600ed8-4b75-3dea-aa74-637699ee8ee6
+messageBoardId§finmb_684244
+targetHighPrice§28.56
+targetLowPrice§18.91
+targetMeanPrice§24.18
+targetMedianPrice§24.63
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.83
+earningsGrowth§0.137
+grossMargins§0.85303
+ebitdaMargins§0.24430001
+trailingPegRatio§None

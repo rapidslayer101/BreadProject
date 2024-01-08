@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 04:44:59.662648
+address1§500 West Monroe Street
+city§Chicago
+state§IL
+zip§60661
+country§United States
+phone§617 443 3400
+website§https://www.gehealthcare.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§GE HealthCare Technologies Inc. engages in the development, manufacture, and marketing of products, services, and complementary digital solutions used in the diagnosis, treatment, and monitoring of patients in the United States, Canada, Europe, the Middle East, Africa, China, Taiwan, Mongolia, Hong Kong, and internationally. The company operates through four segments: Imaging, Ultrasound, Patient Care Solutions, and Pharmaceutical Diagnostics. The Imaging segment offers molecular imaging, computed tomography (CT) scanning, magnetic resonance (MR) imaging, image-guided therapy, and X-ray systems, as well as women's health products. The Ultrasound segment provides screening, diagnosis, treatment, and monitoring of certain diseases through radiology and primary care, women's health, cardiovascular, and point of care and handheld ultrasound solutions, as well as surgical visualization and guidance products. The Patient Care Solutions segment involved in the provision of medical devices, consumable products, services, and digital solutions through patient monitoring, anesthesia delivery and respiratory care, diagnostic cardiology, and maternal infant care products. The Pharmaceutical Diagnostics supplies diagnostic agents, including CT, angiography and X-ray, MR, single-photon emission computed tomography, positron emission tomography, and ultrasound to the radiology and nuclear medicine industry. The segment also provides contrast media pharmaceuticals, administered to a patient prior to certain diagnostic scans to increase the visibility of tissues or structures during imaging exams; and molecular imaging agents, or radiopharmaceuticals, which are molecular tracers labeled with radioisotopes that are injected into a patient prior to a diagnostic imaging scan. The company was incorporated in 2022 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§50000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter J. Arduini', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2261145, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank R. Jimenez Esq.', 'age': 58, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1851539, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Betty D. Larson', 'age': 47, 'title': 'Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1780006, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan  Makela', 'age': 54, 'title': 'President & CEO of Imaging', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 955058, 'exercisedValue': 0, 'unexercisedValue': 51909}, {'maxAge': 1, 'name': 'Mr. James K. Saccaro', 'age': 50, 'title': 'VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Andrew Newcomb', 'age': 56, 'title': 'Controller & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Taha  Kass-Hout M.D., M.S.', 'age': 51, 'title': 'Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Westrick', 'age': 54, 'title': 'Chief Executive Officer of Patient Care Solutions', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth R. Stacherski', 'age': 51, 'title': 'Chief Global Supply Chain & Service Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elie  Chaillot', 'title': 'President & CEO of Intercontinental', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.0016
+exDividendDate§1705017600
+payoutRatio§0.0178
+priceToSalesTrailing12Months§1.8087907
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.22
+exchange§NMS
+quoteType§EQUITY
+shortName§GE HealthCare Technologies Inc.
+longName§GE HealthCare Technologies Inc.
+firstTradeDateEpochUtc§1671114600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5049484e-cf95-3e3c-a4f5-8fcbdec47bf1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§97.0
+targetLowPrice§66.0
+targetMeanPrice§83.04
+targetMedianPrice§84.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.854
+earningsGrowth§-0.232
+grossMargins§0.39918998
+ebitdaMargins§0.18186001
+trailingPegRatio§17.6952

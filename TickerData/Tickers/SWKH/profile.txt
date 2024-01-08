@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 05:47:27.279509
+address1§14755 Preston Road
+address2§Suite 105
+city§Dallas
+state§TX
+zip§75254
+country§United States
+phone§972 687 7250
+fax§972 687 7255
+website§https://www.swkhold.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§SWK Holdings Corporation, a specialty finance company that focuses on the healthcare sector. It operates in two segments, Finance Receivables and Pharmaceutical Development. The company provides customized financing solutions to a range of life science companies, including companies in the biotechnology, medical device, medical diagnostics and related tools, animal health, and pharmaceutical industries, as well as institutions and inventors. It also offers non-discretionary investment advisory services to institutional clients in separately managed accounts to invest in life science finance. In addition, the company engages in the pharmaceutical development, formulation and manufacturing, and licensing business through the Peptelligence platform. Further, it intends to out-license its internal product pipeline to create novel formulations using its proprietary technology to develop treatments for patients and caregivers. The company was formerly known as Kana Software, Inc. and changed its name to SWK Holdings Corporation in December 2009. SWK Holdings Corporation was founded in 1996 and is headquartered in Dallas, Texas.
+fullTimeEmployees§23
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jody. D Staggs', 'age': 41, 'title': 'CEO & President', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1090307, 'exercisedValue': 0, 'unexercisedValue': 216825}, {'maxAge': 1, 'name': 'Ms. Yvette  Heinrichson', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 544337, 'exercisedValue': 0, 'unexercisedValue': 96375}, {'maxAge': 1, 'name': 'David R. Earhart', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John David Tamas', 'title': 'Director of Underwriting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.327
+priceToSalesTrailing12Months§6.474133
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.45
+pegRatio§0.66
+exchange§NGM
+quoteType§EQUITY
+shortName§SWK Holdings Corporation
+longName§SWK Holdings Corporation
+firstTradeDateEpochUtc§938093400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§42ee7300-b1fc-3ee2-b5f6-df7a6fbc0717
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§10.511
+earningsGrowth§-0.3
+grossMargins§0.86359
+ebitdaMargins§0.0
+trailingPegRatio§None

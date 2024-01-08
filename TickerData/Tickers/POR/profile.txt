@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 19:32:22.358282
+address1§121 South West Salmon Street
+city§Portland
+state§OR
+zip§97204
+country§United States
+phone§503 464 8000
+fax§503 464 2507
+website§https://www.portlandgeneral.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Portland General Electric Company, an integrated electric utility company, engages in the generation, wholesale purchase, transmission, distribution, and retail sale of electricity in the state of Oregon. It operates six thermal plants, three wind farms, and seven hydroelectric facilities. As of December 31, 2022, the company owned an electric transmission system consisting of 1,255 circuit miles, including 269 circuit miles of 500 kilovolt line, 413 circuit miles of 230 kilovolt line, and 573 miles of 115 kilovolt line; and served 926 thousand retail customers in 51 cities. It also has 28,481 circuit miles of distribution lines. The company was founded in 1889 and is headquartered in Portland, Oregon.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Maria MacGregor Pope', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2374272, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Teeruk Kochavatr', 'age': 49, 'title': 'VP of Customer & Digital Solutions and Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 750224, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria Angelica Espinosa', 'age': 45, 'title': 'Senior VP and Chief Legal & Compliance Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 835542, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry N. Bekkedahl', 'age': 62, 'title': 'Senior Vice President of Strategy & Advanced Energy Delivery', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 773556, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph R. Trpik Jr.', 'age': 53, 'title': 'Senior VP of Finance & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin F. Felton', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Gustin Blosser', 'age': 52, 'title': 'Vice President of Public Affairs', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne Frances Mersereau', 'age': 60, 'title': 'Vice President of Human Resources, Diversity, Equity & Inclusion', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher  Liddle', 'title': 'Controller & Assistant Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sujata  Pagedar', 'title': 'Company Secretary & Assistant General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.9
+dividendYield§0.0432
+exDividendDate§1703203200
+payoutRatio§0.83940005
+fiveYearAvgDividendYield§3.45
+beta§0.604
+priceToSalesTrailing12Months§1.5426228
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.05
+pegRatio§3.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§Portland General Electric Co
+longName§Portland General Electric Company
+firstTradeDateEpochUtc§1143815400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7b47bb0f-9f8c-32f8-8d89-1e8e22a1fb92
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§43.0
+targetMeanPrice§47.67
+targetMedianPrice§45.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.646
+earningsGrowth§-0.292
+grossMargins§0.45926997
+ebitdaMargins§0.28388
+trailingPegRatio§2.8916

@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 17:33:15.998434
+address1§12121 Wickchester Lane
+address2§Suite 500
+city§Houston
+state§TX
+zip§77079
+country§United States
+phone§346 980 1700
+fax§281 589 0255
+website§https://seacormarine.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§SEACOR Marine Holdings Inc. provides marine and support transportation services to offshore oil, natural gas, and windfarm facilities worldwide. Its offshore support and specialty vessels deliver cargo and personnel to offshore installations, including offshore wind farms; handle anchors and mooring equipment for offshore rigs and platforms; assist offshore operations for production and storage facilities; provide construction, well work-over, and offshore wind farm installation and decommissioning support; and carry and launch equipment used underwater in drilling and well installation, maintenance, inspection, and repair, as well as offer accommodations for technicians and specialists, safety support, and emergency response services. As of December 31, 2022, the company operated a fleet of 60 support vessels, of which 58 were owned or leased-in, and two were managed on behalf of unaffiliated third parties. It serves integrated national and international oil companies, independent oil and natural gas exploration and production companies, and oil field service and construction companies, as well as offshore wind farm operators and offshore wind farm installation and maintenance companies. The company was founded in 1989 and is headquartered in Houston, Texas.
+fullTimeEmployees§1286
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John M. Gellert', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1210675, 'exercisedValue': 0, 'unexercisedValue': 96251}, {'maxAge': 1, 'name': 'Mr. Jesús  Llorca', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 885675, 'exercisedValue': 0, 'unexercisedValue': 68751}, {'maxAge': 1, 'name': 'Mr. Gregory S. Rossmiller', 'age': 53, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 685675, 'exercisedValue': 0, 'unexercisedValue': 41250}, {'maxAge': 1, 'name': 'Mr. Andrew H. Everett II', 'age': 40, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 735675, 'exercisedValue': 0, 'unexercisedValue': 41250}]
+auditRisk§3
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.226
+priceToSalesTrailing12Months§1.2194256
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.55
+exchange§NYQ
+quoteType§EQUITY
+shortName§SEACOR Marine Holdings Inc.
+longName§SEACOR Marine Holdings Inc.
+firstTradeDateEpochUtc§1496410200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e73970c4-ba30-3c34-8ced-718c932e92db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§17.0
+targetMeanPrice§17.0
+targetMedianPrice§17.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.53
+grossMargins§0.38766
+ebitdaMargins§0.20163
+trailingPegRatio§None

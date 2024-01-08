@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 12:30:54.227040
+address1§1900 Avenue of the Stars
+address2§Suite 1500
+city§Los Angeles
+state§CA
+zip§90067
+country§United States
+phone§310-552-1834
+website§https://www.kornferry.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§Korn Ferry, together with its subsidiaries, provides organizational consulting services worldwide. It operates through four segments: Consulting, Digital, Executive Search, and Recruitment Process Outsourcing (RPO) & Professional Search. The company provides executive search services to recruit board level, chief executive, other senior executive, and general management talent of organizations. It also offers organizational strategy, assessment and succession, leadership and professional development, and total reward services. In addition, the company provides RPO, business project, professional search, and outsource recruiting solutions. Further, the company offers tech-enabled solutions that identify structures, roles, capabilities, and behaviors to drive businesses. It serves public and private companies, and middle market and emerging growth companies, as well as government and non-profit organizations. The company was formerly known as Korn/Ferry International and changed its name to Korn Ferry in January 2019. Korn Ferry was founded in 1969 and is based in Los Angeles, California.
+fullTimeEmployees§10697
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary D. Burnison', 'age': 62, 'title': 'President, CEO & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 2181527, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert P. Rozek', 'age': 62, 'title': 'Executive VP, CFO & Chief Corporate Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1240173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Distefano', 'age': 53, 'title': 'CEO of Professional Search & Interim and President of Search Innovation & Delivery Team', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 948860, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Arian', 'age': 62, 'title': 'Chief Executive Officer of Consulting', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1027187, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Navnit  Singh', 'title': 'Chairman & Country Head of India', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Newhall', 'title': 'Managing Partner', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan  Ackermann', 'title': 'Chief Information Officer and Senior Vice President', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gregg  Kvochak', 'title': 'Senior Vice President of Finance, Treasury, Tax & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stewart  Goldman', 'title': 'Senior Client Partner and Global Co-Head Of Risk & Compliance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan M. Kuai', 'title': 'General Counsel, MD of Business Affairs & ESG and Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.84
+dividendYield§0.0152
+exDividendDate§1703030400
+payoutRatio§0.33330002
+fiveYearAvgDividendYield§0.99
+beta§1.486
+priceToSalesTrailing12Months§1.0297865
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.45
+pegRatio§0.93
+exchange§NYQ
+quoteType§EQUITY
+shortName§Korn Ferry
+longName§Korn Ferry
+firstTradeDateEpochUtc§918743400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d324e6f5-7a89-3db0-bf52-8260baaa6183
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§64.0
+targetLowPrice§55.0
+targetMeanPrice§60.5
+targetMedianPrice§61.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.695
+grossMargins§0.21699
+ebitdaMargins§0.115380004
+trailingPegRatio§None

@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 04:46:48.360500
+address1§300 Market Street
+address2§PO Box 967
+city§Williamsport
+state§PA
+zip§17703-0967
+country§United States
+phone§570 322 1111
+website§https://www.pwod.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Penns Woods Bancorp, Inc. operates as the bank holding company for Jersey Shore State Bank, which provides commercial and retail banking services to individuals, partnerships, non-profit organizations, and corporations. It accepts time, demand, and savings deposits, including super NOW accounts, statement savings accounts, money market accounts, and certificates of deposit, as well as checking and IRAs accounts. The company also offers loan products comprising residential, commercial, and construction real estate loans; agricultural loans for the purchase or improvement of real estate; commercial loans for the acquisition and improvement of real estate, purchase of equipment, and working capital purposes; letters of credit; consumer loans, such as construction and residential mortgages, home equity loans and lines, automobile financing, personal loans and lines of credit, and overdraft and check lines; and revolving credit loans with overdraft protection. In addition, it provides securities brokerage and financial planning services, which include the sale of life insurance products, annuities, and estate planning services; property and casualty, and auto insurance products; safe deposit services; ATM services; and Internet and telephone banking services. Further, the company engages in real estate transactions and investment activities. It operates through a network of offices located in Clinton, Lycoming, Centre, Montour, Union, Blair, and Luzerne Counties, Pennsylvania. The company was founded in 1934 and is headquartered in Williamsport, Pennsylvania.
+fullTimeEmployees§302
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard Allen Grafmyre CFP', 'age': 69, 'title': 'CEO & Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1261535, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian L. Knepp CGMA, CPA', 'age': 48, 'title': 'President, CFO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 523513, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aron M. Carter', 'age': 50, 'title': 'Senior VP & Chief Risk Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 234351, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle M. Karas CFMP, PCm', 'age': 56, 'title': 'Senior VP, Secretary & Chief Data Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 252779, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Beatty', 'title': 'Chief Information Officer & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine M. Barto', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack W. Jones', 'title': 'Senior VP & Chief Banking Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald J. Seman', 'title': 'President of Mortgage Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.28
+dividendYield§0.0591
+exDividendDate§1702252800
+payoutRatio§0.5899
+fiveYearAvgDividendYield§5.17
+beta§0.462
+priceToSalesTrailing12Months§2.4403908
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Penns Woods Bancorp, Inc.
+longName§Penns Woods Bancorp, Inc.
+firstTradeDateEpochUtc§770563800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b110f870-f7db-31ab-8c4d-91aa15f792af
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.581
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

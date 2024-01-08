@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 11:44:28.367649
+address1§109 Meco Lane
+city§Oak Ridge
+state§TN
+zip§37830
+country§United States
+website§https://www.daxor.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§Daxor Corporation, a medical device company, provides blood volume measurement technology focused on blood volume testing. The company develops and markets BVA-100 Blood Volume Analyzer, a diagnostic blood test to provide safe, accurate, objective quantification of blood volume status and composition compared to patient-specific norms for used in a broad range of medical and surgical conditions. The company was formerly known as Idant Corporation and changed its name to Daxor Corporation in May 1973. Daxor Corporation was incorporated in 1971 and is headquartered in Oak Ridge, Tennessee.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Richard Feldschuh', 'age': 54, 'title': 'Chairman, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 100000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Adam Feldschuh', 'age': 58, 'title': 'Chief Scientific Officer & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 127920, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Michel CPA, CPA, M.B.A.', 'age': 66, 'title': 'CFO, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda  Cooper', 'title': 'Vice President of Development & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathryn A. Kornafel', 'title': 'Vice President of Marketing & Commercial Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guido  Manzo', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jean  Oertel', 'title': 'Senior Vice President Commercialization & Customer Experience', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1515110400
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.52
+beta§-0.113
+priceToSalesTrailing12Months§266.13492
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Daxor Corporation
+longName§Daxor Corporation
+firstTradeDateEpochUtc§427987800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b0f2764-6b68-3bec-b0a1-3fc94471643a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§22.0
+targetMeanPrice§23.0
+targetMedianPrice§23.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 11:28:47.646453
+address1§2000 16th Street
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§720 631 2100
+website§https://www.davita.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§DaVita Inc. provides kidney dialysis services for patients suffering from chronic kidney failure in the United States. The company operates kidney dialysis centers and provides related lab services in outpatient dialysis centers. It also offers outpatient, hospital inpatient, and home-based hemodialysis services; operates clinical laboratories that provide routine laboratory tests for dialysis and other physician-prescribed laboratory tests for ESRD patients; and management and administrative services to outpatient dialysis centers. In addition, the company offers integrated care and disease management services to patients in risk-based and other integrated care arrangements; clinical research programs; physician services; and comprehensive kidney care services. Further, it engages in the provision of acute inpatient dialysis services and related laboratory services; and transplant software business. The company was formerly known as DaVita HealthCare Partners Inc. and changed its name to DaVita Inc. in September 2016. DaVita Inc. was incorporated in 1994 and is headquartered in Denver, Colorado.
+fullTimeEmployees§70000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Javier J. Rodriguez', 'age': 52, 'title': 'CEO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2984581, 'exercisedValue': 2494759, 'unexercisedValue': 9326725}, {'maxAge': 1, 'name': 'Mr. Joel  Ackerman', 'age': 58, 'title': 'CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1192925, 'exercisedValue': 0, 'unexercisedValue': 1696144}, {'maxAge': 1, 'name': 'Ms. Kathleen Alyce Waters', 'age': 55, 'title': 'Chief Legal & Public Affairs Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1077714, 'exercisedValue': 653403, 'unexercisedValue': 1173510}, {'maxAge': 1, 'name': 'Mr. James O. Hearty', 'age': 54, 'title': 'Chief Compliance Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 768286, 'exercisedValue': 101320, 'unexercisedValue': 776693}, {'maxAge': 1, 'name': 'Mr. Michael David Staffieri', 'age': 49, 'title': 'Chief Operating Officer of Kidney Care', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1653896, 'exercisedValue': 0, 'unexercisedValue': 4270670}, {'maxAge': 1, 'name': 'Mr. Christopher Michael Berry', 'age': 48, 'title': 'Group VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Gustafson', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth Gardner Smith', 'age': 42, 'title': 'Chief People Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Misha  Palecek', 'title': 'Chief Transformation Officer of U.S. Kidney Care Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeffrey Allen Giullian', 'title': 'Chief Medical Officer of Kidney Care', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§9
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.006
+priceToSalesTrailing12Months§0.82242656
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.59
+pegRatio§0.74
+exchange§NYQ
+quoteType§EQUITY
+shortName§DaVita Inc.
+longName§DaVita Inc.
+firstTradeDateEpochUtc§815149800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9a98f945-67ed-31a1-b380-e8d4ee6cc270
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§120.0
+targetLowPrice§90.0
+targetMeanPrice§108.33
+targetMedianPrice§112.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.119
+earningsGrowth§1.319
+grossMargins§0.3057
+ebitdaMargins§0.18613
+trailingPegRatio§0.4277

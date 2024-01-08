@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 08:31:15.402839
+address1§8750 West Bryn Mawr Avenue
+address2§Suite 1000
+city§Chicago
+state§IL
+zip§60631-3518
+country§United States
+phone§708 867 6777
+website§https://www.methode.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Methode Electronics, Inc. designs, engineers, and produces mechatronic products worldwide. It operates through four segments: Automotive, Industrial, Interface, and Medical. The Automotive segment supplies electronic and electro-mechanical devices, and related products to automobile original equipment manufacturers directly or through their tiered suppliers. Its products include integrated center consoles, hidden and ergonomic switches, transmission lead-frames, complex insert molded solutions, LED-based lighting solutions, and sensors, which incorporate magneto-elastic sensing, eddy current, or other sensing technologies that monitor the operation or status of a component or system. The Industrial segment manufactures external lighting solutions comprising driving, work, and signal lights; industrial safety radio remote controls; braided flexible cables; current-carrying laminated and powder-coated busbars; high-voltage high current connector and contracts; custom power-product assemblies, such as PowerRail solution; and high-current low-voltage flexible power cabling systems that are used in aerospace, cloud computing, commercial vehicles, construction equipment, industrial, military, power conversion, and transportation markets and applications. The Interface segment provides various copper-based transceivers and related accessories for the cloud computing hardware equipment and telecommunications broadband equipment markets; user interface solutions for the appliance, commercial food service, and point-of-sale equipment markets; and fluid-level sensors for the marine/recreational vehicle and sump pump markets. The Medical segment offers Dabir Surfaces, a surface support technology aimed at pressure injury prevention for use by patients who are immobilized or otherwise at risk for pressure injuries, including patients undergoing long-duration surgical procedures. Methode Electronics, Inc. was incorporated in 1946 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§6700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald W. Duda', 'age': 68, 'title': 'President, CEO & Director', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 3088086, 'exercisedValue': 405995, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald L.G. Tsoumas', 'age': 62, 'title': 'VP of Corporate Finance & CFO', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1237876, 'exercisedValue': 0, 'unexercisedValue': 31840}, {'maxAge': 1, 'name': 'Ms. Andrea Jean Barry', 'age': 60, 'title': 'Chief Administrative Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1062130, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kerry A. Vyverberg', 'age': 54, 'title': 'General Counsel', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 528767, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amit N. Patel', 'title': 'Chief Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert K. Cherry', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristine  Walczak', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Shermetaro', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anil V. Shetty', 'age': 57, 'title': 'President of Dabir Surfaces, Inc.', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 652194, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.56
+dividendYield§0.026700001
+exDividendDate§1704931200
+payoutRatio§0.36360002
+fiveYearAvgDividendYield§1.4
+beta§0.934
+priceToSalesTrailing12Months§0.6444136
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.7
+pegRatio§3.86
+exchange§NYQ
+quoteType§EQUITY
+shortName§Methode Electronics, Inc.
+longName§Methode Electronics, Inc.
+firstTradeDateEpochUtc§403968600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§27425df9-353a-34cd-a6d2-3648503fe5fa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§24.0
+targetMeanPrice§28.0
+targetMedianPrice§28.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.977
+grossMargins§0.20336
+ebitdaMargins§0.09551
+trailingPegRatio§None

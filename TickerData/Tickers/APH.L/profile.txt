@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 08:35:25.775240
+address1§Avonbridge House
+address2§Bath Road
+city§Chippenham
+zip§SN15 2BB
+country§United Kingdom
+phone§44 12 4946 6966
+fax§44 12 4946 6977
+website§https://www.alliancepharmaceuticals.com
+industry§Drug Manufacturers - Specialty & Generic
+industryKey§drug-manufacturers-specialty-generic
+industryDisp§Drug Manufacturers - Specialty & Generic
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Alliance Pharma plc operates as a pharmaceutical company in Europe, the Middle East, Africa, the Asia Pacific, China, and the Americas. The company acquires, markets, and distributes consumer healthcare and prescription medicine products. The company also offers medicines, medical devices, food supplements, and cosmetics. It provides its products under the Aloclair, Anbesol, Asthon and Parsons, Forceval, Hydromol, Kelo-cote, Macushield, Vamousse, Nizoral, and Amberen brand names. Alliance Pharma plc was incorporated in 1996 and is headquartered in Chippenham, the United Kingdom.
+fullTimeEmployees§285
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew Timothy Franklin', 'age': 57, 'title': 'Interim CEO, CFO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 271520, 'exercisedValue': 0, 'unexercisedValue': 61525}, {'maxAge': 1, 'name': 'Mr. Peter Jonathan Butterfield', 'age': 47, 'title': 'CEO & Executive Director (Leave of Absence)', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 399832, 'exercisedValue': 0, 'unexercisedValue': 27500}, {'maxAge': 1, 'name': 'Mr. Jeyan  Heper (Hons), BA', 'title': 'COO & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Kidner', 'title': 'Chief Scientific Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cora Maeve McCallum C.F.A.', 'title': 'Head of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christodoulos Theoclis Chrysanthou', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Duggan', 'title': 'Chief Commercial & Corporate Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janice  Timberlake', 'title': 'Chief People & Infrastructure Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chris  Delafield', 'title': 'Global Marketing Head of Kelo-Cote', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rhodri  Smith', 'title': 'Head of Sourcing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0375
+exDividendDate§1687392000
+payoutRatio§10.1176
+fiveYearAvgDividendYield§2.02
+beta§0.57
+priceToSalesTrailing12Months§1.3072698
+currency§GBp
+forwardEps§5.4
+pegRatio§0.94
+lastDividendValue§1.184
+lastDividendDate§1687392000
+exchange§LSE
+quoteType§EQUITY
+shortName§ALLIANCE PHARMA PLC ORD 1P
+longName§Alliance Pharma plc
+firstTradeDateEpochUtc§1006416000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d6fe235b-1da0-3464-a15c-a52d15c43bd5
+messageBoardId§finmb_8515825
+targetHighPrice§105.0
+targetLowPrice§53.0
+targetMeanPrice§81.57
+targetMedianPrice§88.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.7
+grossMargins§0.60737
+ebitdaMargins§0.2173
+trailingPegRatio§None

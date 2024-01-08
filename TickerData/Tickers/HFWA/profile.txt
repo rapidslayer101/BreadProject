@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 14:45:12.294955
+address1§201 Fifth Avenue SW
+city§Olympia
+state§WA
+zip§98501
+country§United States
+phone§360 943 1500
+website§https://www.hf-wa.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Heritage Financial Corporation operates as the bank holding company for Heritage Bank that provides various financial services to small and medium sized businesses and individuals in the United States. The company accepts various deposit products, such as noninterest demand deposits, interest bearing demand deposits, money market accounts, savings accounts, personal checking accounts, and certificates of deposit. Its loan portfolio includes commercial and industrial loans, owner-occupied and non-owner occupied commercial real estate loans, one-to-four family residential loans, real estate construction and land development loans, consumer loans, commercial business loans, lines of credit, term equipment financing, and term real estate loans, as well as commercial business loans to a range of businesses in industries that include real estate and rental and leasing, healthcare, accommodation and food services, retail trade, and construction. The company also originates loans that are guaranteed by the U.S. Small Business Administration; and offers trust services, as well as objective advice. The company was formerly known as Heritage Financial Corporation, M.H.C. and changed its name to Heritage Financial Corporation in 1998. Heritage Financial Corporation was founded in 1927 and is headquartered in Olympia, Washington.
+fullTimeEmployees§814
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian L. Vance', 'age': 69, 'title': 'Chairman of the Board', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 103500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Deuel', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1245507, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald J. Hinson CPA', 'age': 62, 'title': 'Executive VP & CFO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 645321, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cindy M. Hirman', 'age': 59, 'title': 'Executive VP & Chief Banking Officer of Heritage Bank', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 520235, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony W. Chalfant', 'age': 61, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 580171, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan D. McDonald', 'age': 51, 'title': 'President & COO of Heritage Bank', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 781561, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William K. Glasby', 'title': 'Executive VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sabrina C. Robison', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kaylene M. Lahn', 'age': 51, 'title': 'Senior VP & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew T. Ray', 'title': 'Executive VP & Chief Lending Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.88
+dividendYield§0.0427
+exDividendDate§1698710400
+payoutRatio§0.3937
+fiveYearAvgDividendYield§3.38
+beta§0.574
+priceToSalesTrailing12Months§2.7851324
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.77
+pegRatio§1.44
+exchange§NMS
+quoteType§EQUITY
+shortName§Heritage Financial Corporation
+longName§Heritage Financial Corporation
+firstTradeDateEpochUtc§894547800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§389e3142-1f0f-30b1-903c-106e9165fbcf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§20.0
+targetMeanPrice§22.6
+targetMedianPrice§22.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§-0.136
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

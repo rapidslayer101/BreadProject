@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 15:33:42.127685
+address1§14201 Dallas Parkway
+city§Dallas
+state§TX
+zip§75254
+country§United States
+phone§469 893 2200
+website§https://www.tenethealth.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Tenet Healthcare Corporation operates as a diversified healthcare services company. The company operates through three segments: Hospital Operations, Ambulatory Care, and Conifer. Its general hospitals offer acute care services, operating and recovery rooms, radiology and respiratory therapy services, clinical laboratories, and pharmacies. The company also provides intensive and critical care, and/or coronary care units; cardiovascular, digestive disease, neurosciences, musculoskeletal, and obstetrics services; outpatient services, including physical therapy; cardiothoracic surgery, complex spinal surgery, neonatal intensive care, and neurosurgery services; quaternary care services in heart and kidney transplants; and limb-salvaging vascular procedure, acute level 1 trauma, intravascular stroke care, minimally invasive cardiac valve replacement, imaging, and telemedicine access services. In addition, it operates ambulatory surgery centers, imaging centers, surgical hospitals, off-campus emergency departments, and micro-hospitals. Further, the company offers end-to-end and focused-point business process services in the areas of hospital and physician revenue cycle management, patient communications and engagement support, and value-based care solutions to hospitals, health systems, physician practices, employers, and other customers. Tenet Healthcare Corporation was founded in 1967 and is headquartered in Dallas, Texas.
+fullTimeEmployees§75776
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Saumya  Sutaria M.D.', 'age': 50, 'title': 'Chairman & CEO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 4199870, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paola M. Arbour', 'age': 59, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1022363, 'exercisedValue': 0, 'unexercisedValue': 668195}, {'maxAge': 1, 'name': 'Mr. Thomas W. Arnst', 'age': 60, 'title': 'EVP, Chief Administrative Officer, Chief Risk Officer, General Counsel & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1481105, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa Y. Foo', 'age': 32, 'title': 'Executive Vice President of Commercial Operations', 'yearBorn': 1991, 'fiscalYear': 2022, 'totalPay': 1446383, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sun K. Park', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  McDowell III', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jana  Durfee', 'title': 'Senior VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael T. Maloney', 'title': 'Executive Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clint  Hailey', 'age': 58, 'title': 'Chief Managed Care Officer & Senior VP', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Liz  Johnson', 'title': 'Chief Applied Clinical Informatics Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§952905600
+payoutRatio§0.0
+fiveYearAvgDividendYield§2.75
+beta§2.136
+priceToSalesTrailing12Months§0.38240054
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.82
+exchange§NYQ
+quoteType§EQUITY
+shortName§Tenet Healthcare Corporation
+longName§Tenet Healthcare Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d302cb11-523e-3b05-856c-616be4be5c36
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§1.118
+earningsGrowth§-0.188
+grossMargins§0.37183997
+ebitdaMargins§0.17803
+trailingPegRatio§1.07

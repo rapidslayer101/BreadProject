@@ -1,0 +1,24 @@
+# reload+after+2024-01-23 12:32:55.744844
+phone§+1 8884938631
+longBusinessSummary§The fund invests at least 80% of its net assets in the securities of the index or in investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities, either individually or in the aggregate. The index measures the performance of a covered call strategy that holds a theoretical portfolio of the underlying stocks of the Russell 2000 Index and "writes" (or sells) a succession of one-month ATM covered call options on the Reference Index.
+maxAge§86400
+priceHint§2
+yield§0.057800002
+totalAssets§12147075
+navPrice§24.62
+currency§USD
+ytdReturn§-0.0303057
+beta3Year§0.0
+fundFamily§Global X Funds
+fundInceptionDate§1664841600
+legalType§Exchange Traded Fund
+exchange§PCX
+quoteType§ETF
+shortName§Global X Funds Global X Russell
+longName§Global X Russell 2000 Covered Call & Growth ETF
+firstTradeDateEpochUtc§1664976600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7c522f75-189e-3284-ac3b-6af1c2be5d9e
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

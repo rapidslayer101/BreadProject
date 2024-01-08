@@ -1,0 +1,52 @@
+# reload+after+2024-01-24 00:29:21.465582
+address1§555 12th Street NW
+address2§Suite 700
+city§Washington
+state§DC
+zip§20004
+country§United States
+phone§202 312 9100
+fax§202 312 9101
+website§https://www.fticonsulting.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§FTI Consulting, Inc. provides business advisory services to manage change, mitigate risk, and resolve disputes worldwide. The company operates through five segments: Corporate Finance & Restructuring, Forensic and Litigation Consulting, Economic Consulting, Technology, and Strategic Communications. The Corporate Finance & Restructuring segment provides business transformation and strategy, transactions, and turnaround and restructuring services. The Forensic and Litigation Consulting segment offers construction and environmental solutions, data and analytics, disputes, health solutions, and risk and investigation services. The Economic Consulting segment provides antitrust and competition economics, financial economics, and international arbitration services. The Technology segment offers corporate legal department consulting; e-discovery and expertise; and information governance, privacy, and security services. The Strategic Communications segment provides corporate reputation, financial communications, and public affairs services. The company serves aerospace and defense, agriculture, airlines and aviation, automotive and industrial, construction, energy, power and products, environmental solutions, financial services, healthcare and life sciences, hospitality, gaming and leisure, insurance, mining, private equity, public sector and government contracts, real estate, retail and consumer products, telecom, media and technology, and transportation and logistics industries. FTI Consulting, Inc. was incorporated in 1982 and is headquartered in Washington, the District of Columbia.
+fullTimeEmployees§8089
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven H. Gunby J.D.', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2515093, 'exercisedValue': 0, 'unexercisedValue': 33730192}, {'maxAge': 1, 'name': 'Mr. Ajay  Sabherwal', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1386795, 'exercisedValue': 0, 'unexercisedValue': 1547419}, {'maxAge': 1, 'name': 'Mr. Curtis Pey-Lin Lu', 'age': 57, 'title': 'General Counsel', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1503461, 'exercisedValue': 0, 'unexercisedValue': 1648112}, {'maxAge': 1, 'name': 'Ms. Holly  Paul', 'age': 52, 'title': 'Chief Human Resources Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1386795, 'exercisedValue': 0, 'unexercisedValue': 293376}, {'maxAge': 1, 'name': 'Mr. Paul Alderman Linton', 'age': 52, 'title': 'Chief Strategy & Transformation Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1386795, 'exercisedValue': 0, 'unexercisedValue': 11321995}, {'maxAge': 1, 'name': 'Mr. Brendan J. Keating Ph.D.', 'age': 59, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raed  Masri', 'title': 'Managing Director in Corporate Finance & Restructuring', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mollie  Hawkes', 'title': 'Vice President of Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew B. Pachman', 'age': 58, 'title': 'VP and Chief Risk & Compliance Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey S. Amling J.D.', 'age': 69, 'title': 'Head of Corporate Business Development & Chief Marketing Officer', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.109
+priceToSalesTrailing12Months§2.070821
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.14
+pegRatio§3.49
+exchange§NYQ
+quoteType§EQUITY
+shortName§FTI Consulting, Inc.
+longName§FTI Consulting, Inc.
+firstTradeDateEpochUtc§831648600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e172afd2-47b4-3fbc-b6ae-bbbb75c981d9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§240.0
+targetLowPrice§207.0
+targetMeanPrice§223.5
+targetMedianPrice§223.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.987
+earningsGrowth§0.088
+grossMargins§0.32119
+ebitdaMargins§0.11841
+trailingPegRatio§None

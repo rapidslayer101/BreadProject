@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 21:35:36.152433
+address1§Tempus Wharf
+address2§29A Bermondsey Wall West
+city§London
+zip§SE16 4SA
+country§United Kingdom
+phone§44 20 7934 0175
+website§https://aquilaservicesgroup.co.uk
+industry§Consulting Services
+industryKey§consulting-services
+industryDisp§Consulting Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Aquila Services Group plc, together with its subsidiaries, provides specialist housing, sport, charity, and educational and treasury management consultancy services in the United Kingdom, Europe, and internationally. It operates through two segments, Consultancy and Treasury Management Services. The company advises on various aspects of the development and management of affordable housing; treasury policy, debt, capital market finance, banking, and card merchant services. It serves housing associations, local authorities, government agencies, multi academy trusts, and other non-profit organizations. The company was incorporated in 2014 and is based in London, the United Kingdom.
+fullTimeEmployees§108
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Fiona May Underwood', 'age': 61, 'title': 'Group CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 206647, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claire Elizabeth Banks', 'age': 52, 'title': 'Group Finance Director, Company Secretary & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 126791, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hugh  Coll', 'title': 'Head of Financial Modelling', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Palmer', 'title': 'Head of Interim Management and Executive Search', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0366
+exDividendDate§1701907200
+payoutRatio§0.9146
+fiveYearAvgDividendYield§2.39
+beta§0.361
+priceToSalesTrailing12Months§0.6661416
+currency§GBp
+lastDividendValue§0.25
+lastDividendDate§1701907200
+exchange§LSE
+quoteType§EQUITY
+shortName§AQUILA SERVICES GROUP PLC ORD 5
+longName§Aquila Services Group plc
+firstTradeDateEpochUtc§1409209200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§dbe72aaa-23a2-361f-967f-e55ec84c72e5
+messageBoardId§finmb_307248597
+recommendationKey§none
+quickRatio§2.418
+earningsGrowth§-0.733
+grossMargins§0.20873
+ebitdaMargins§0.04789
+trailingPegRatio§None

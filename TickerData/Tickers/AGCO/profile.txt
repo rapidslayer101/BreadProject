@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 05:26:18.559663
+address1§4205 River Green Parkway
+city§Duluth
+state§GA
+zip§30096
+country§United States
+phone§770 813 9200
+website§https://www.agcocorp.com
+industry§Farm & Heavy Construction Machinery
+industryKey§farm-heavy-construction-machinery
+industryDisp§Farm & Heavy Construction Machinery
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§AGCO Corporation manufactures and distributes agricultural equipment and related replacement parts worldwide. It offers horsepower tractors for row crop production, soil cultivation, planting, land leveling, seeding, and commercial hay operations; utility tractors for small- and medium-sized farms, as well as for dairy, livestock, orchards, and vineyards; and compact tractors for small farms, specialty agricultural industries, landscaping, equestrian, and residential uses. The company also provides grain storage bins and related drying and handling equipment systems; seed-processing systems; swine and poultry feed storage and delivery; ventilation and watering systems; and egg production systems and broiler production equipment. In addition, it offers round and rectangular balers, loader wagons, self-propelled windrowers, forage harvesters, disc mowers, spreaders, rakes, tedders, and mower conditioners for harvesting and packaging vegetative feeds used in the beef cattle, dairy, horse, and renewable fuel industries. Further, the company provides implements, including disc harrows leveling seed beds and mixing chemicals with the soils; heavy tillage to break up soil and mix crop residue into topsoil; field cultivators that prepare smooth seed bed and destroy weeds; drills for small grain seeding; planters and other planting equipment; and loaders. Additionally, it offers combines for harvesting grain crops, such as corn, wheat, soybeans, and rice; and application equipment, such as self-propelled, three- and four-wheeled vehicles, and related equipment for liquid and dry fertilizers and crop protection chemicals, and for after crops emerge from the ground, as well as produces diesel engines, gears, and generating sets. The company markets its products under the Challenger, Fendt, GSI, Massey Ferguson, and Valtra brands through a network of independent dealers and distributors. The company was founded in 1990 and is headquartered in Duluth, Georgia.
+fullTimeEmployees§25600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric P. Hansotia', 'age': 54, 'title': 'Chairman, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 4412998, 'exercisedValue': 0, 'unexercisedValue': 648931}, {'maxAge': 1, 'name': 'Mr. Damon J. Audia', 'age': 52, 'title': 'Senior VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1584559, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert B. Crain', 'age': 63, 'title': 'SVP and  GM of Grain & Protein', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1602316, 'exercisedValue': 0, 'unexercisedValue': 620335}, {'maxAge': 1, 'name': 'Mr. Torsten Rudolf-Willi Dehner', 'age': 55, 'title': 'Senior VP & GM of Fendt/Valtra', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1395426, 'exercisedValue': 146192, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lara T. Long', 'age': 53, 'title': 'VP & Chief Accounting Officer (Leave of Absence)', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Peterson', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger Neil Batkin', 'age': 54, 'title': 'Senior VP, General Counsel, Chief ESG Officer, & Corporate Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cristiane  Masina', 'title': 'Global Corporate Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ivory Marie Harris-Brown', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luis Fernando Sartini Felli', 'age': 57, 'title': 'Senior VP & GM of Massey Ferguson', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.16
+dividendYield§0.0095
+exDividendDate§1699920000
+payoutRatio§0.0689
+fiveYearAvgDividendYield§0.78
+beta§1.373
+priceToSalesTrailing12Months§0.62961537
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.34
+pegRatio§2.22
+lastDividendValue§0.29
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§AGCO Corporation
+longName§AGCO Corporation
+firstTradeDateEpochUtc§703431000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8311e179-5d2e-3b27-8096-b2994bbbbb08
+messageBoardId§finmb_317519
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§155.0
+targetLowPrice§112.0
+targetMeanPrice§140.0
+targetMedianPrice§144.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.564
+earningsGrowth§0.176
+grossMargins§0.25741
+ebitdaMargins§0.14142999
+trailingPegRatio§1.606

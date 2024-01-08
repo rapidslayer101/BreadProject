@@ -1,0 +1,57 @@
+# reload+after+2024-01-20 18:35:44.058795
+address1§1 Churchill Place
+city§London
+zip§E14 5HP
+country§United Kingdom
+phone§44 20 7116 1000
+website§https://home.barclays
+industry§Banks - Diversified
+industryKey§banks-diversified
+industryDisp§Banks - Diversified
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Barclays PLC provides various financial services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through two segments, Barclays UK and Barclays International divisions. It offers financial services, such as retail banking, credit cards, wholesale banking, investment banking, wealth management, and investment management services. The company also engages in securities dealing activities. The company was formerly known as Barclays Bank Limited and changed its name to Barclays PLC in January 1985. Barclays PLC was founded in 1690 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§87400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Coimbatore Sundararajan Venkatakrishnan', 'age': 57, 'title': 'Group CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 5197000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela Anna Cross', 'age': 53, 'title': 'Group Finance Director & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2592620, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alistair  Currie', 'title': 'Group COO & Chief Executive of Barclays Execution Services (BX)', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susannah Hall Parden', 'title': 'Group Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Reid  Marsh', 'title': 'Global Chairman of Investment Banking & Acting Head of European Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marco  Valla', 'title': 'Global Head of Technology, Media & Telecoms and Consumer & Retail Investment Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Adam  Kelleher', 'title': 'Chief Data Scientist for Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Bright', 'age': 57, 'title': 'Chief Information Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Victor Shapiro', 'title': 'Group General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kirsty  Everett', 'age': 46, 'title': 'Group Chief Compliance Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0495
+exDividendDate§1691625600
+payoutRatio§0.22780001
+fiveYearAvgDividendYield§2.92
+beta§1.359
+priceToSalesTrailing12Months§0.9926984
+currency§GBp
+forwardEps§31.6
+pegRatio§-1.98
+lastDividendValue§2.7
+lastDividendDate§1691625600
+exchange§LSE
+quoteType§EQUITY
+shortName§BARCLAYS PLC ORD 25P
+longName§Barclays PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8cde842e-616e-3437-9dd2-41970a5bd6d9
+messageBoardId§finmb_323899
+targetHighPrice§300.0
+targetLowPrice§141.0
+targetMeanPrice§210.73
+targetMedianPrice§220.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§15
+earningsGrowth§-0.113
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

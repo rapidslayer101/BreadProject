@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 20:30:21.501254
+address1§8800 Health Science Center Parkway
+city§Bryan
+state§TX
+zip§77807-1107
+country§United States
+phone§302 355 0650
+website§https://www.ibioinc.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§iBio, Inc., a biotechnology company, engages in the development of precision antibodies in the United States. It offers IBIO-100, a preclinical anti-fibrotic program for the treatment of systemic scleroderma and idiopathic pulmonary fibrosis; and EngageTx platform, which provides an optimized CD3 T-cell engager antibody panel. The company is also developing vaccine candidates, including IBIO-101, an antibody to reduce tumor growth; Endostatin E4 peptide for use in chemotherapy and immunotherapy; Trop-2 for the treatment Trop-2 positive cancers; MUC16, a tumor-associated epitope; anti-EGFRvIII antibody to treat glioblastoma and other cancers; CCR8 protein candidate for treatment of various cancers; PD-1 agonist for the treatment of rheumatoid arthritis and other inflammatory diseases; and IBIO-400 for the treatment of classical swine fever. iBio, Inc. has agreement with The Texas A&M University System for designing and manufacturing of plant-made biopharmaceuticals; and a research collaboration with the National Institute of Allergy and Infectious Diseases to investigate the potential of the company's AI-driven epitope steering platform for the development of a vaccine for Lassa fever. The company was incorporated in 2008 and is headquartered in Bryan, Texas.
+fullTimeEmployees§26
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Martin B. Brenner D.V.M., Ph.D.', 'age': 52, 'title': 'CEO & Chief Scientific Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 577311, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Felipe  Duran', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 1072087, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephen  Kilmer', 'title': 'Investor Relations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Banjak J.D.', 'title': 'General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert B. Kay', 'age': 83, 'title': 'Interim Secretary & Interim Treasurer', 'yearBorn': 1940, 'fiscalYear': 2023, 'totalPay': 92692, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-3.704
+priceToSalesTrailing12Months§51.73002
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.4
+exchange§ASE
+quoteType§EQUITY
+shortName§iBio, Inc.
+longName§iBio, Inc.
+firstTradeDateEpochUtc§1219152600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f0a2faf7-8166-3ef6-9b69-f7e5c346e13d
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.071
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

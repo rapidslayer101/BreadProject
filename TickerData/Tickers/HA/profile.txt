@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 02:45:09.522537
+address1§3375 Koapaka Street
+address2§Suite G-350
+city§Honolulu
+state§HI
+zip§96819
+country§United States
+phone§808 835 3700
+website§https://www.hawaiianairlines.com
+industry§Airlines
+sector§Industrials
+longBusinessSummary§Hawaiian Holdings, Inc., through its subsidiary, Hawaiian Airlines, Inc., engages in the scheduled air transportation of passengers and cargo. It provides daily services on North America routes between the State of Hawai'i and Long Beach, Los Angeles, Oakland, Sacramento, San Diego, San Francisco, and San Jose, California; Las Vegas, Nevada; Seattle, Washington; Portland, Oregon; Phoenix, Arizona; New York City, New York; Austin, Texas; and Boston, Massachusetts. The company also offers provides daily service on its Neighbor Island routes among the four major islands of the State of Hawai'i. In addition, it offers scheduled service on its international routes between the State of Hawai'i and Tokyo (Narita), Japan, Osaka, Japan; Sydney, Australia; Auckland, New Zealand; Pago Pago, American Samoa; Papeete, Tahiti; and Seoul, South Korea, as well as operates various ad hoc charters. The company distributes its tickets through various distribution channels, including its website hawaiianairlines.com primarily for North America and Neighbor Island routes, as well as through travel agencies and wholesale distributors for its international routes. As of December 31, 2022, its fleet consisted of 19 Boeing 717-200 aircraft for the Neighbor Island routes; 24 Airbus A330-200 aircraft; and 18 Airbus A321neo for the North America and international routes. The company was incorporated in 1929 and is headquartered in Honolulu, Hawaii.
+fullTimeEmployees§7347
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter R. Ingram', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1535286, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon Lei Okinaka', 'age': 48, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 898921, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron J. Alter', 'age': 65, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 819360, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan D. Snook', 'age': 57, 'title': 'Executive VP & COO of Hawaiian Airlines Inc', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1111594, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel P. Wong', 'title': 'Senior Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alanna  James', 'title': 'Managing Director of Sustainability Initiatives - Hawaiian Airlines', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1581552000
+payoutRatio§0.0
+beta§2.431
+priceToSalesTrailing12Months§0.25740293
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.03
+pegRatio§0.02
+exchange§NMS
+quoteType§EQUITY
+shortName§Hawaiian Holdings, Inc.
+longName§Hawaiian Holdings, Inc.
+firstTradeDateEpochUtc§803741400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§594c16ca-0695-3666-9d7c-f4971707adf6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§3.0
+targetMeanPrice§7.0
+targetMedianPrice§4.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§1.019
+grossMargins§0.08270001
+ebitdaMargins§-0.03271
+trailingPegRatio§None

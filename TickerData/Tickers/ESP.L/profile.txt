@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 00:36:11.085925
+address1§1st Floor Hop Yard Studios
+address2§72 Borough High Street
+city§London
+zip§SE1 1XF
+country§United Kingdom
+phone§44 20 8078 8791
+website§https://www.empiric.co.uk
+industry§REIT—Residential
+sector§Real Estate
+longBusinessSummary§Empiric Student Property plc is a leading provider and operator of modern, predominantly direct-let, premium student accommodation located in high-demand university towns and cities across the UK. Investing in both operating and development assets, Empiric is a fully integrated operational student property business focused on premium studio-led accommodation managed through its Hello Student operating platform, that is attractive to a growing number of student segments. The Company is an internally managed real estate investment trust ("REIT") incorporated in England and Wales, listed on the premium listing segment of the Official List of the Financial Conduct Authority and was admitted to trading on the main market for listed securities of the London Stock Exchange in June 2014.
+fullTimeEmployees§340
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Duncan  Garrood', 'age': 65, 'title': 'CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 736453, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald A. Grant C.A.', 'age': 50, 'title': 'Chief Financial & Sustainability Officer and Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 306733, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joanne  Pollard', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charles  Taylor', 'title': 'Consultant and Acquisitions Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martyn  Roe MBA, MRICS, Dip Proj Man', 'title': 'Consultant', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0396
+exDividendDate§1700092800
+payoutRatio§0.8393
+fiveYearAvgDividendYield§5.43
+beta§0.992
+priceToSalesTrailing12Months§7.26886
+currency§GBp
+forwardEps§4.72
+pegRatio§0.61
+exchange§LSE
+quoteType§EQUITY
+shortName§EMPIRIC STUDENT PROPERTY PLC OR
+longName§Empiric Student Property Plc
+firstTradeDateEpochUtc§1404111600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§dea5b3ce-e1a3-32b8-86c8-59e474596d13
+targetHighPrice§120.0
+targetLowPrice§101.0
+targetMeanPrice§112.75
+targetMedianPrice§115.0
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.911
+earningsGrowth§-0.655
+grossMargins§0.67853
+ebitdaMargins§0.51334
+trailingPegRatio§2.9765

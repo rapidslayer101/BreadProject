@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 13:35:34.798484
+address1§Moorside
+address2§Monks Cross
+city§York
+zip§YO32 9LB
+country§United Kingdom
+phone§44 1904 487 687
+fax§44 1904 487 611
+website§https://www.animalcaregroup.com
+industry§Drug Manufacturers - Specialty & Generic
+industryKey§drug-manufacturers-specialty-generic
+industryDisp§Drug Manufacturers - Specialty & Generic
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Animalcare Group plc develops, sells, and distributes licensed veterinary pharmaceuticals and identification products, and services for companion and production animals, and equine veterinary markets. The company also offers microchipping and other associated services. It operates in Belgium, the Netherlands, the United Kingdom, Germany, Spain, Italy, Portugal, other European countries, Asia, the Middle East, Africa, and internationally. Animalcare Group plc is based in York, the United Kingdom.
+fullTimeEmployees§220
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Jennifer Ann Julia Winter B.Sc.', 'age': 63, 'title': 'CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 351000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher James Brewster', 'age': 46, 'title': 'CFO, Company Secretary & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 266000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Carla De Schepper', 'title': 'Group HR Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Martin  Gore', 'title': 'Head of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.025899999
+exDividendDate§1697673600
+payoutRatio§2.4444
+fiveYearAvgDividendYield§1.96
+beta§0.519
+priceToSalesTrailing12Months§1.4588879
+currency§GBp
+forwardEps§13.41
+lastDividendValue§2.0
+lastDividendDate§1697673600
+exchange§LSE
+quoteType§EQUITY
+shortName§ANIMALCARE GROUP PLC ORD 20P
+longName§Animalcare Group plc
+firstTradeDateEpochUtc§1200384000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fb5426dd-0a5b-37ae-8508-a2609b7565a0
+messageBoardId§finmb_26745328
+targetHighPrice§340.0
+targetLowPrice§300.0
+targetMeanPrice§320.0
+targetMedianPrice§320.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.075
+earningsGrowth§-0.35
+grossMargins§0.57588
+ebitdaMargins§0.12605
+trailingPegRatio§None

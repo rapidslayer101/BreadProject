@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 14:38:25.796699
+address1§49-63 Spencer Street
+address2§Hockley
+city§Birmingham
+zip§B18 6DE
+country§United Kingdom
+website§https://www.hummingbirdresources.co.uk
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Hummingbird Resources PLC, a mining company, engages in the exploration, evaluation, and development of mineral properties in West Africa. The company primarily explores for gold ores. It principally holds interests in the Yanfolila gold mine located in Mali; the Kouroussa gold project located in Guinea; and the Dugbe gold project located in Liberia. The company was incorporated in 2005 and is headquartered in Birmingham, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Edward Betts', 'age': 48, 'title': 'Co-Founder, CEO, MD & Interim Executive Chairman', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 447972, 'exercisedValue': 0, 'unexercisedValue': 165113}, {'maxAge': 1, 'name': 'Mr. Thomas Rowland Hill', 'age': 47, 'title': 'Finance Director & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 301006, 'exercisedValue': 0, 'unexercisedValue': 121023}, {'maxAge': 1, 'name': 'Mr. Timothy  Huskinson', 'title': 'Group Finance Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Montgomery', 'title': 'Managing Director of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke  Main', 'title': 'Managing Director of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  Broux', 'title': 'Managing Director of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  Fung', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.681
+priceToSalesTrailing12Months§0.35821885
+currency§GBp
+forwardEps§0.04
+exchange§LSE
+quoteType§EQUITY
+shortName§HUMMINGBIRD RESOURCES PLC ORD 1
+longName§Hummingbird Resources PLC
+firstTradeDateEpochUtc§1291968000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§68dad791-6c7e-394b-a3d3-6477b0c59651
+targetHighPrice§0.22
+targetLowPrice§0.22
+targetMeanPrice§0.22
+targetMedianPrice§0.22
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.339
+grossMargins§0.34709
+ebitdaMargins§0.2542
+trailingPegRatio§None

@@ -1,0 +1,60 @@
+# reload+after+2024-01-23 13:36:00.841683
+address1§Compass House
+address2§Guildford Street
+city§Chertsey
+zip§KT16 9BQ
+country§United Kingdom
+phone§44 1932 573 000
+fax§44 1932 569 956
+website§https://www.compass-group.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Compass Group PLC operates as a food and support services company in North America, Europe, and internationally. The company offers support services, such as cleaning in hospitals; reception services at corporate headquarters; managing remote camps; grounds and facilities services at schools and universities; and others. It serves business and industry; healthcare and senior living market; education; sports and leisure; and defense, offshore, and remote sectors. Compass Group PLC was founded in 1941 and is based in Chertsey, the United Kingdom.
+fullTimeEmployees§550000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dominic  Blakemore', 'age': 54, 'title': 'Group CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 3376000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Palmer Brown', 'age': 52, 'title': 'Group COO of North America & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 2271000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dev  Amritesh', 'age': 48, 'title': 'Managing Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Petros  Parras', 'title': 'Group CFO & Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison R. Yapp', 'age': 57, 'title': 'Group General Counsel & Company Secretary', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Young OBE', 'title': 'Director of Corporate Policy and Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah  Lee', 'age': 49, 'title': 'Group Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robin  Mills', 'age': 56, 'title': 'Regional Managing Director of UK & Ireland', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Meaney', 'age': 59, 'title': 'Regional Managing Director of Latin America', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gareth  Sharpe', 'title': 'Chief Financial Officer of UK & Ireland', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.43
+dividendYield§0.0202
+exDividendDate§1705536000
+payoutRatio§0.4927
+fiveYearAvgDividendYield§2.22
+beta§0.724
+priceToSalesTrailing12Months§1.1826446
+currency§GBp
+forwardEps§106.3
+pegRatio§1.9
+lastDividendValue§28.1
+lastDividendDate§1705536000
+exchange§LSE
+quoteType§EQUITY
+shortName§COMPASS GROUP PLC ORD 11 1/20P
+longName§Compass Group PLC
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§425cbc24-ce61-3d00-8f3c-1a06efb7905e
+messageBoardId§finmb_692472
+targetHighPrice§2600.0
+targetLowPrice§1925.0
+targetMeanPrice§2308.16
+targetMedianPrice§2320.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.65
+earningsGrowth§0.085
+grossMargins§0.06588
+ebitdaMargins§0.07564
+trailingPegRatio§1.152

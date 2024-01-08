@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 16:43:36.370722
+address1§12265 El Camino Real
+address2§Suite 210
+city§San Diego
+state§CA
+zip§92130
+country§United States
+phone§858 847 4720
+fax§858 847 4701
+website§https://www.banksocal.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Southern California Bancorp operates as the holding company for Bank of Southern California, N.A. that provides various financial products to individuals, professionals, and small-to medium-sized businesses. The company offers checking, personal and business savings, and money market accounts, as well as certificates of deposit. It also provides home equity lines of credit, business loans and lines of credit, commercial real estate and construction loans, small business administration loans, letters of credit, and personal and business credit cards. In addition, the company provides cash vault, sweep accounts, and remote deposit capture services; online and mobile banking services; courier service; lockbox services; and merchant services. It operates branches in San Diego, Orange, Ventura, Los Angeles, and Riverside counties, as well as the Inland Empire. The company was founded in 2001 and is headquartered in San Diego, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David I. Rainer', 'age': 66, 'title': 'CEO & Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1620179, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Hernandez', 'age': 48, 'title': 'President', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 802919, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas G. Dolan', 'age': 63, 'title': 'Executive VP, CFO & COO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 588476, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank D. Di Tomaso Jr.', 'age': 65, 'title': 'Executive Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 319058, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joann  Yeung', 'age': 48, 'title': 'Senior VP & Principal Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffery T. Hurtik', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Manisha K. Merchant', 'age': 47, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher D. Maggio', 'title': 'Senior VP & Credit Team Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Liska', 'age': 54, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Nutz', 'age': 59, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.514
+priceToSalesTrailing12Months§3.1141093
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.25
+exchange§NCM
+quoteType§EQUITY
+shortName§Southern California Bancorp
+longName§Southern California Bancorp
+firstTradeDateEpochUtc§1131633000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§64c72b1a-afb7-3757-bf9a-9b093fde9608
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§18.0
+targetMeanPrice§19.0
+targetMedianPrice§19.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+earningsGrowth§-0.079
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

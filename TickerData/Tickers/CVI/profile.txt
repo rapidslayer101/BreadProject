@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 07:28:21.968385
+address1§2277 Plaza Drive
+address2§Suite 500
+city§Sugar Land
+state§TX
+zip§77479
+country§United States
+phone§281 207 3200
+website§https://www.cvrenergy.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§CVR Energy, Inc., together with its subsidiaries, engages in the petroleum refining and nitrogen fertilizer manufacturing activities in the United States. It operates in two segments, Petroleum and Nitrogen Fertilizer. The Petroleum segment refines and markets gasoline, diesel fuel, and other refined products. It also owns and operates a coking medium-sour crude oil refinery in southeast Kansas; and a crude oil refinery in Wynnewood, Oklahoma, as well as supporting logistics assets. This segment primarily serves retailers, railroads, farm co-operatives, and other refiners/marketers. The Nitrogen Fertilizer segment owns and operates a nitrogen fertilizer plant in North America that utilizes a pet coke gasification process to produce nitrogen fertilizer products; and a nitrogen fertilizer facility in East Dubuque, Illinois that produces nitrogen fertilizers in the form of ammonia and urea ammonium nitrate (UAN). It primarily markets UAN products to agricultural customers; and ammonia products to agricultural and industrial customers. The company was founded in 1906 and is based in Sugar Land, Texas. CVR Energy, Inc. is a subsidiary of Icahn Enterprises L.P.
+fullTimeEmployees§1470
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David L. Lamp', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 3073412, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dane J. Neumann', 'age': 38, 'title': 'Executive VP, CFO, Treasurer & Assistant Secretary', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 1118940, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael H. Wright Jr.', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1203420, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa M. Buhrig', 'age': 47, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1504044, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Pytosh', 'age': 58, 'title': 'Executive Vice President of Corporate Services', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1480115, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Conaway', 'age': 47, 'title': 'VP, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Roberts Jr.', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl D. Findley', 'title': 'Director of Labor Relations & Manufacturing Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Puddy', 'title': 'Senior Vice President of Refined Products & Risk Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Douglas Johnson', 'age': 58, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 950655, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0641
+exDividendDate§1699574400
+payoutRatio§0.24200001
+fiveYearAvgDividendYield§8.85
+beta§1.614
+priceToSalesTrailing12Months§0.32242283
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.77
+pegRatio§-0.16
+exchange§NYQ
+quoteType§EQUITY
+shortName§CVR Energy Inc.
+longName§CVR Energy, Inc.
+firstTradeDateEpochUtc§1193146200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d66368fb-beff-352b-b773-b5b0837371b6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§37.0
+targetLowPrice§28.0
+targetMeanPrice§31.67
+targetMedianPrice§30.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.919
+earningsGrowth§2.815
+grossMargins§0.17501
+ebitdaMargins§0.15856
+trailingPegRatio§None

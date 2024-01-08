@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 13:29:21.234845
+address1§601 Philadelphia Street
+city§Indiana
+state§PA
+zip§15701
+country§United States
+phone§724 349 7220
+website§https://www.fcbanking.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Commonwealth Financial Corporation, a financial holding company, provides various consumer and commercial banking services in the United States. Its consumer services include personal checking accounts, interest-earning checking accounts, savings and health savings accounts, insured money market accounts, debit cards, investment certificates, fixed and variable rate certificates of deposit, mortgage loans, secured and unsecured installment loans, construction and real estate loans, safe deposit facilities, credit cards, credit lines with overdraft checking protection, IRA accounts, and automated teller machine (atm) services, as well as internet, mobile, and telephone banking services. The company's commercial banking services comprise commercial lending, business checking accounts, online account management services, payroll direct deposits, commercial cash management services, and repurchase agreements, as well as ACH origination services. In addition, it offers various trust and asset management services; auto, home, and business insurance, as well as term life insurance; and annuities, mutual funds, and stock and bond brokerage services through a broker-dealer and insurance brokers. First Commonwealth Financial Corporation was founded in 1934 and is headquartered in Indiana, Pennsylvania.
+fullTimeEmployees§1481
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Michael Price', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1049625, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James R. Reske CFA', 'age': 59, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 792946, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Norman J. Montgomery', 'age': 55, 'title': 'Executive Vice President of Business Integration', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 665600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Grebenc', 'age': 64, 'title': 'Executive VP, Chief Revenue Officer & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 893188, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian G. Karrip', 'age': 62, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 712965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan M. Thomas', 'age': 42, 'title': 'Vice President / Finance and Investor Relations', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew C. Tomb', 'age': 46, 'title': 'Executive VP, Chief Risk Officer, General Counsel & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 453540, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda D. Metzmaier', 'title': 'Chief Compliance Officer, Chief Compliance Officer & Senior VP of First Commonwealth Bank', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan E. Longwill', 'title': 'Vice President of Communications & Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie L. Riggle', 'age': 53, 'title': 'Executive Vice President of Human Resources', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0337
+exDividendDate§1698883200
+payoutRatio§0.32889998
+fiveYearAvgDividendYield§3.5
+beta§0.907
+priceToSalesTrailing12Months§3.3758976
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.52
+pegRatio§1.24
+exchange§NYQ
+quoteType§EQUITY
+shortName§First
+longName§First Commonwealth Financial Corporation
+firstTradeDateEpochUtc§708183000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3e3b7430-72ca-331d-8321-29a15e816b00
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§14.0
+targetMeanPrice§15.25
+targetMedianPrice§14.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§6
+earningsGrowth§0.056
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

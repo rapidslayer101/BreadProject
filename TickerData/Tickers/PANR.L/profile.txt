@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 18:40:02.617946
+address1§Golden Cross House
+address2§8 Duncannon Street
+city§London
+zip§WC2N 4JF
+country§United Kingdom
+phone§44 20 7484 5361
+website§https://www.pantheonresources.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Pantheon Resources Plc, through its subsidiaries, engages in the exploration and production of oil and gas in the United States. Its primary assets are the Alkaid project that covers that covers 40,000 acres located in Alaska; and the Kodiak project covering an area of approximately 124,000 acres located in Alaska. Pantheon Resources Plc was incorporated in 2005 and is based in London, the United Kingdom.
+fullTimeEmployees§15
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Alan Hobbs', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 8932, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Bishop Cheatham', 'age': 74, 'title': 'CEO & Director', 'yearBorn': 1949, 'fiscalYear': 2023, 'totalPay': 412734, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin George Hondris Asia, BBus', 'age': 54, 'title': 'Executive Director of Finance & Corporate Development, Investment Manager and Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 352814, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert John Rosenthal B.Sc., M.Sc.', 'age': 70, 'title': 'Technical Director & Executive Director', 'yearBorn': 1953, 'fiscalYear': 2023, 'totalPay': 292667, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Michael Duncan', 'title': 'Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick S. Galvin', 'title': 'Chief Commercial Officer & General Counsel of Alaska', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ben  Harber', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.116
+priceToSalesTrailing12Months§297.34006
+currency§GBp
+forwardEps§-0.67
+exchange§LSE
+quoteType§EQUITY
+shortName§PANTHEON RESOURCES PLC ORD 1P
+longName§Pantheon Resources Plc
+firstTradeDateEpochUtc§1144220400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a5941d98-caa8-32df-862f-fc93561467b5
+targetHighPrice§105.0
+targetLowPrice§0.0
+targetMeanPrice§65.67
+targetMedianPrice§92.0
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.242
+grossMargins§0.16225
+ebitdaMargins§0.0
+trailingPegRatio§None

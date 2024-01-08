@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 11:30:14.230853
+address1§11601 Wilshire Boulevard
+address2§Ninth Floor
+city§Los Angeles
+state§CA
+zip§90025-1745
+country§United States
+phone§310 445 5700
+fax§310 445 5710
+website§https://www.HudsonPacificProperties.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Hudson Pacific Properties (NYSE: HPP) is a real estate investment trust serving dynamic tech and media tenants in global epicenters for these synergistic, converging and secular growth industries. Hudson Pacific's unique and high-barrier tech and media focus leverages a full-service, end-to-end value creation platform forged through deep strategic relationships and niche expertise across identifying, acquiring, transforming and developing properties into world-class amenitized, collaborative and sustainable office and studio space.
+fullTimeEmployees§885
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Victor J. Coleman', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1967382, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark T. Lammas', 'age': 56, 'title': 'President & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1236647, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harout Krikor Diramerian', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 865511, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kay Lee Tidwell', 'age': 46, 'title': 'Executive VP, General Counsel, Secretary & Chief Risk Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 959694, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arthur X. Suazo', 'age': 58, 'title': 'Executive Vice President of Leasing', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 899395, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Jaffe J.D.', 'age': 61, 'title': 'Executive Vice President of Business Affairs', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 988080, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Wattula', 'age': 47, 'title': 'Chief Operating Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Drew B. Gordon', 'age': 56, 'title': 'Chief Investment Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eunice  Wong', 'title': 'Senior Vice President of Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Campbell', 'title': 'Executive Vice President of Investor Relations & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0714
+exDividendDate§1686873600
+payoutRatio§25.0
+fiveYearAvgDividendYield§6.25
+beta§1.407
+priceToSalesTrailing12Months§1.3930789
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.0
+pegRatio§-0.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Hudson Pacific Properties, Inc.
+longName§Hudson Pacific Properties, Inc.
+firstTradeDateEpochUtc§1277386200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eb1f4a7c-d475-315f-84e7-c90c280928b4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§4.5
+targetMeanPrice§8.63
+targetMedianPrice§7.55
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§1.459
+grossMargins§0.55267
+ebitdaMargins§0.43708
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 02:45:15.737792
+address1§111 Springhall Drive
+city§Goose Creek
+state§SC
+zip§29445
+country§United States
+phone§843 723 7400
+fax§843 577 5742
+website§https://www.hirequest.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§HireQuest, Inc. provides temporary staffing solutions in the United States. It offers staffing services, including skilled and semi-skilled industrial and construction personnel, clerical and administrative personnel, and permanent placement services. The company also specializes in commercial and non-CDL drivers. It serves construction, recycling, warehousing, logistics, auctioneering, manufacturing, hospitality, landscaping, retail industries, as well as dental practices. HireQuest, Inc. was founded in 2002 and is headquartered in Goose Creek, South Carolina.
+fullTimeEmployees§103
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard F. Hermanns', 'age': 59, 'title': 'Chairman, President & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1556745, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John D. McAnnar', 'age': 40, 'title': 'VP, Chief Legal Officer & Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 298200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven G. Crane', 'age': 66, 'title': 'Chief Financial Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dave  Gerstner', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cory  Smith', 'age': 47, 'title': 'Chief Accounting Officer & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 291983, 'exercisedValue': 0, 'unexercisedValue': 61490}, {'maxAge': 1, 'name': 'Mr. David  Hartley', 'title': 'Director of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Monica  Reese', 'title': 'Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Heidi  Windmueller', 'title': 'Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.24
+dividendYield§0.0167
+exDividendDate§1701302400
+payoutRatio§0.3934
+beta§1.082
+priceToSalesTrailing12Months§5.5060534
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.86
+exchange§NCM
+quoteType§EQUITY
+shortName§HireQuest, Inc.
+longName§HireQuest, Inc.
+firstTradeDateEpochUtc§1065533400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a81a11ba-a711-3544-aacd-23d80d6c6323
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§21.0
+targetMeanPrice§23.0
+targetMedianPrice§23.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.383
+earningsGrowth§-0.649
+grossMargins§1.0
+ebitdaMargins§0.37478
+trailingPegRatio§None

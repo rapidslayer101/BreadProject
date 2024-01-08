@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 10:30:13.723288
+address1§3700 West Juneau Avenue
+city§Milwaukee
+state§WI
+zip§53208
+country§United States
+phone§414 342 4680
+website§https://www.harley-davidson.com
+industry§Recreational Vehicles
+sector§Consumer Cyclical
+longBusinessSummary§Harley-Davidson, Inc. manufactures and sells motorcycles in the United States and internationally. The company operates in three segments: Harley-Davidson Motor Company, LiveWire, and Harley-Davidson Financial Services. The Harley-Davidson Motor Company segment designs, manufactures, and sells motorcycles, including cruiser, trike, touring, standard, sportbike, and dual models, as well as motorcycle parts, accessories, and apparel, as well as licenses its trademarks and related services. This segment sells its products to retail customers through a network of independent dealers, as well as e-commerce channels. The LiveWire segment sells electric motorcycles, balance bikes for kids, parts and accessories, apparel, and related parts and services. The Harley-Davidson Financial Services segment provides wholesale financing services, such as floorplan and open account financing of motorcycles, and parts and accessories; and retail financing services, such as installment lending for the purchase of new and used Harley-Davidson motorcycles, as well as point-of-sale protection products comprising motorcycle insurance, extended service contracts, and motorcycle maintenance protection. This segment also licenses third-party financial institutions that issue credit cards bearing the Harley-Davidson brand. Harley-Davidson, Inc. was founded in 1903 and is based in Milwaukee, Wisconsin.
+fullTimeEmployees§6300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jochen  Zeitz', 'age': 60, 'title': 'Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4917329, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jagdish  Krishnan', 'age': 48, 'title': 'Chief Digital & Operations Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 892418, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul J. Krause', 'age': 45, 'title': 'VP, Chief Legal & Compliance Officer and Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 819768, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Edel  O'Sullivan", 'age': 43, 'title': 'Chief Commercial Officer of Harley-Davidson Motor Company', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 992215, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan R. Root', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark R. Kornetzke', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn Michael Collins', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'George  Prassas', 'title': 'Vice President of Communications & Corporate Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Theo  Keetell', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tori  Termaat', 'age': 45, 'title': 'Chief Human Resources Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.66
+dividendYield§0.0187
+exDividendDate§1701993600
+payoutRatio§0.13239999
+fiveYearAvgDividendYield§2.58
+beta§1.414
+priceToSalesTrailing12Months§0.8287265
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.36
+pegRatio§1.47
+exchange§NYQ
+quoteType§EQUITY
+shortName§Harley-Davidson, Inc.
+longName§Harley-Davidson, Inc.
+firstTradeDateEpochUtc§521213400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea6928c3-6321-32c7-a17c-85b1ee8293a1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§29.0
+targetMeanPrice§40.0
+targetMedianPrice§40.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.607
+earningsGrowth§-0.225
+grossMargins§0.31440002
+ebitdaMargins§0.17268999
+trailingPegRatio§None

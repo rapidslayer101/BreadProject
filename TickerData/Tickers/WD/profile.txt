@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 04:34:19.777390
+address1§7272 Wisconsin Avenue
+address2§Suite 1300
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§301 215 5500
+website§https://www.walkerdunlop.com
+industry§Mortgage Finance
+sector§Financial Services
+longBusinessSummary§Walker & Dunlop, Inc., through its subsidiaries, originates, sells, and services a range of multifamily and other commercial real estate financing products and services for owners and developers of real estate in the United States. The company offers first mortgage, second trust, supplemental, construction, mezzanine, preferred equity, and small-balance loans. It also provides finance for multifamily, manufactured housing communities, student housing, affordable housing, and senior housing properties under the Fannie Mae's DUS program; and construction and permanent loans to developers and owners of multifamily housing, affordable housing, senior housing, and healthcare facilities. In addition, the company acts as a debt broker to work with life insurance companies, banks, and other institutional lenders to find debt and/or equity solution for the borrowers' needs; and offers property sales brokerage services to owners and developers of multifamily properties, and commercial real estate and multifamily property appraisals for various investors. Further, it provides appraisal and valuation services; and real estate-related investment banking and advisory services, including housing market research. Additionally, the company offers servicing and asset-managing the portfolio of loans; originates loans through its principal lending and investing activities; and manages third-party capital invested in tax credit equity funds focused on the affordable housing and other commercial real estate sectors. Walker & Dunlop, Inc. was founded in 1937 and is headquartered in Bethesda, Maryland.
+fullTimeEmployees§1451
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Mallory Walker', 'age': 56, 'title': 'Chairman & CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1692000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory A. Florkowski', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 848130, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen P. Theobald', 'age': 61, 'title': 'Executive VP & COO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 692000, 'exercisedValue': 852480, 'unexercisedValue': 3311128}, {'maxAge': 1, 'name': 'Mr. Richard M. Lucas', 'age': 58, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 629500, 'exercisedValue': 163745, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula A. Pryor', 'age': 44, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 504500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron J. Perlis', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelsey  Duffey', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nina H. von Waldegg', 'title': 'Vice President of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  McNerney', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan O. Weber', 'title': 'Executive Vice President of Community Engagement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.52
+dividendYield§0.0254
+exDividendDate§1700611200
+payoutRatio§0.71550006
+fiveYearAvgDividendYield§2.24
+beta§1.551
+priceToSalesTrailing12Months§3.284758
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.44
+pegRatio§2.77
+exchange§NYQ
+quoteType§EQUITY
+shortName§Walker & Dunlop, Inc
+longName§Walker & Dunlop, Inc.
+firstTradeDateEpochUtc§1292423400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a8522b77-0693-36c1-8a26-f3aeeec134a9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§130.0
+targetLowPrice§105.0
+targetMeanPrice§120.0
+targetMedianPrice§125.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.725
+earningsGrowth§-0.542
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

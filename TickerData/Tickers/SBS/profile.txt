@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 21:32:59.245527
+address1§Rua Costa Carvalho, nº 300
+address2§Pinheiros
+city§São Paulo
+state§SP
+zip§05429-900
+country§Brazil
+website§https://www.sabesp.com.br
+industry§Utilities—Regulated Water
+sector§Utilities
+longBusinessSummary§Companhia de Saneamento Básico do Estado de São Paulo  SABESP provides basic and environmental sanitation services in the São Paulo State, Brazil. The company supplies treated water and sewage services to residential, commercial, and industrial private customers, as well as public. As of December 31, 2022, it provided water services through 10.1 million water connections; and sewage services through 8.6 million sewage connections in 375 municipalities of the São Paulo State. The company was founded in 1954 and is headquartered in São Paulo, Brazil.
+fullTimeEmployees§11606
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andre Gustavo Salcedo Teixeira Mendes', 'title': 'CEO, Member of Executive Board & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catia Cristina Teixeira Pereira', 'title': 'Chief Economic, Financial, & Investor Relations Officer and Member of Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sabrina  De Menezes Correa Furstenau Sabino', 'title': 'People & Corporate Management Officer and Member of Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Bruno Magalhaes D'Abadia", 'title': 'Regulation & New Business Officer and Member of Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula Alessandra Bonin Costa Violante', 'title': 'Engineering & Innovation Officer and Member of Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roberval Tavares de Souza', 'title': 'Operation & Maintenance Officer and Member of Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Caio Marcelo M. de Medeiros Melo', 'age': 50, 'title': 'Chief Customer Officer & Member of Executive Board', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marcelo  Miyagui', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luiz Roberto Tiberio', 'title': 'Head of Capital Markets & Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marialve  De Sousa Martins', 'title': 'Executive Secretary of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+dividendRate§0.27
+dividendYield§0.018
+exDividendDate§1682985600
+payoutRatio§0.3047
+fiveYearAvgDividendYield§2.17
+beta§0.719
+priceToSalesTrailing12Months§0.41707116
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Companhia de saneamento Basico 
+longName§Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+firstTradeDateEpochUtc§1021037400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9ae60886-5860-3452-a68b-578c7c1e70d2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.27
+targetLowPrice§13.16
+targetMeanPrice§14.71
+targetMedianPrice§14.71
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.942
+earningsGrowth§-0.217
+grossMargins§0.35044998
+ebitdaMargins§0.3229
+trailingPegRatio§None

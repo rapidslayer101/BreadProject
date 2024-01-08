@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 07:47:03.630914
+address1§1222 Demonbreun Street
+address2§Suite 2000
+city§Nashville
+state§TN
+zip§37203
+country§United States
+phone§615 724 7755
+fax§510 742 3401
+website§https://www.revance.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Revance Therapeutics, Inc., a biotechnology company, engages in the development, manufacture, and commercialization of neuromodulators for various aesthetic and therapeutic indications in the United States and internationally. The company's lead drug candidate is DaxibotulinumtoxinA for injection, which has completed phase III clinical trials for the treatment of glabellar (frown) lines and cervical dystonia; is in phase II clinical trials to treat upper facial lines, moderate or severe dynamic forehead lines, and moderate or severe lateral canthal lines; and has completed Phase II clinical trials for the treatment of adult upper limb spasticity and plantar fasciitis. It is also developing OnabotulinumtoxinA, a biosimilar to BOTOX. The company also offers Resilient Hyaluronic Acid (RHA) dermal filler for the correction of moderate to severe dynamic facial wrinkles; RHA Redensity, a dermal filler for the treatment of moderate to severe dynamic perioral rhytids; and OPUL Relational Commerce Platform, a financial technology platform. It has a collaboration and license agreement with Viatris Inc. to develop, manufacture, and commercialize onabotulinumtoxinA. The company was formerly known as Essentia Biosystems, Inc. and changed its name to Revance Therapeutics, Inc. in April 2005. Revance Therapeutics, Inc. was incorporated in 1999 and is headquartered in Nashville, Tennessee.
+fullTimeEmployees§534
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark J. Foley', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1328701, 'exercisedValue': 0, 'unexercisedValue': 3890465}, {'maxAge': 1, 'name': 'Mr. Dustin S. Sjuts', 'age': 43, 'title': 'President', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 911668, 'exercisedValue': 0, 'unexercisedValue': 75947}, {'maxAge': 1, 'name': 'Mr. Tobin C. Schilke', 'age': 48, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 753684, 'exercisedValue': 0, 'unexercisedValue': 112452}, {'maxAge': 1, 'name': 'Mr. Dwight  Moxie', 'age': 47, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 743774, 'exercisedValue': 0, 'unexercisedValue': 76321}, {'maxAge': 1, 'name': 'Jessica  Serra', 'title': 'Head of Investor Relations & ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeanie D. Herbert', 'title': 'Senior Director of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Taryn  Conway', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amie  Krause', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Conor  Gallagher', 'title': 'Head of Medical Affairs & Aesthetics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David A. Hollander M.B.A., M.D.', 'age': 49, 'title': 'Chief Medical Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.92
+priceToSalesTrailing12Months§3.4237764
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.93
+pegRatio§-0.21
+exchange§NGM
+quoteType§EQUITY
+shortName§Revance Therapeutics, Inc.
+longName§Revance Therapeutics, Inc.
+firstTradeDateEpochUtc§1391697000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§314464b1-77ff-3813-807b-b0498e551d76
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§9.0
+targetMeanPrice§25.18
+targetMedianPrice§25.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§3.964
+grossMargins§0.17846
+ebitdaMargins§-0.99742997
+trailingPegRatio§None

@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 03:32:18.924452
+address1§1775 Tysons Boulevard
+address2§7th Floor
+city§Tysons
+state§VA
+zip§22102-4285
+country§United States
+phone§(571) 302-5757
+fax§(703) 442-0370
+website§https://www.pkhotelsandresorts.com
+industry§REIT—Hotel & Motel
+sector§Real Estate
+longBusinessSummary§Park is one of the largest publicly-traded lodging REITs with a diverse portfolio of iconic and market-leading hotels and resorts with significant underlying real estate value. Park's portfolio currently consists of 43 premium-branded hotels and resorts (excluding the Hilton San Francisco Hotels) with over 26,000 rooms primarily located in prime city center and resort locations.
+fullTimeEmployees§91
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Jeremiah Baltimore Jr.', 'age': 60, 'title': 'Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 3511698, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Sean M. Dell'Orto", 'age': 48, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1404017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Morey', 'age': 51, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1344017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nancy M. Vu', 'age': 47, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 991861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl A. Mayfield', 'age': 59, 'title': 'Executive Vice President of Design & Construction', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1277474, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren W. Robb', 'age': 46, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian C. Weissman', 'title': 'Senior Vice President of Corporate Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill C. Olander', 'age': 49, 'title': 'Executive Vice President of Human Resources', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 521976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott D. Winer', 'title': 'Senior Vice President of Tax', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diem T. Larsen', 'title': 'Senior VP of Financial Planning & Analysis', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.38
+dividendYield§0.0861
+exDividendDate§1703721600
+payoutRatio§0.3818
+beta§2.026
+priceToSalesTrailing12Months§1.2356988
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.68
+pegRatio§-7.87
+exchange§NYQ
+quoteType§EQUITY
+shortName§Park Hotels & Resorts Inc.
+longName§Park Hotels & Resorts Inc.
+firstTradeDateEpochUtc§1483540200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d71bdd22-c8bb-33b8-9287-dce6f46aed25
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§13.0
+targetMeanPrice§17.19
+targetMedianPrice§16.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.86
+earningsGrowth§-0.151
+grossMargins§0.29699
+ebitdaMargins§0.22687
+trailingPegRatio§0.1687

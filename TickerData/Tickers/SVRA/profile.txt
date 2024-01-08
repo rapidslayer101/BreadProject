@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 13:47:26.731729
+address1§Building III
+address2§Suite 201 6836 Bee Cave Road
+city§Austin
+state§TX
+zip§78746
+country§United States
+phone§512 614 1848
+website§https://www.savarapharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Savara Inc., a clinical stage biopharmaceutical company, focuses on rare respiratory diseases. The company's lead product candidate is molgramostim, an inhaled granulocyte-macrophage colony-stimulating factor, which is in Phase 3 development stage for the treatment of autoimmune pulmonary alveolar proteinosis. Savara Inc. is headquartered in Austin, Texas.
+fullTimeEmployees§28
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew  Pauls J.D., M.B.A.', 'age': 52, 'title': 'Chairman & CEO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 894537, 'exercisedValue': 0, 'unexercisedValue': 273515}, {'maxAge': 1, 'name': 'Mr. David L. Lowrance CPA', 'age': 55, 'title': 'CFO, Chief Administrative Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 613750, 'exercisedValue': 0, 'unexercisedValue': 55827}, {'maxAge': 1, 'name': 'Dr. Raymond Dennis Pratt FACP, M.D.', 'age': 72, 'title': 'Chief Medical Officer', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 91889, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Lutz M.B.A.', 'age': 54, 'title': 'Chief Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  McCabe', 'title': 'Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Erickson', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Maurer', 'title': 'Head of Clinical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  LaPree', 'title': 'Senior Vice President of Global Regulatory Affairs & Quality Assurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter  Clarke Ph.D.', 'age': 63, 'title': 'Executive Vice President of Global Technical Operations', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott L. Wilhoit', 'age': 59, 'title': 'Executive Vice President of Global Commercial', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.728
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.36
+exchange§NMS
+quoteType§EQUITY
+shortName§Savara, Inc.
+longName§Savara Inc.
+firstTradeDateEpochUtc§1493386200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0ef43f0b-2e93-36b5-9cec-47503322ea03
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§3.0
+targetMeanPrice§5.75
+targetMedianPrice§6.25
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§6
+quickRatio§18.896
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 00:44:31.343826
+address1§7830 Old Georgetown Road
+address2§Third Floor
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§301 986 1800
+website§https://www.eaglebankcorp.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Eagle Bancorp, Inc. operates as the bank holding company for EagleBank that provides commercial and consumer banking services primarily in the United States. The company also offers various commercial and consumer lending products comprising commercial loans for working capital, equipment purchases, real estate lines of credit, and government contract financing; asset based lending and accounts receivable financing; construction and commercial real estate loans; business equipment financing; consumer home equity lines of credit, personal lines of credit, and term loans; consumer installment loans, such as auto and personal loans; personal credit cards; and residential mortgage loans. In addition, it provides online and mobile banking services; and other services, including cash management services, business sweep accounts, lock boxes, remote deposit captures, account reconciliation services, merchant card services, safety deposit boxes, and automated clearing house origination, as well as after-hours depositories and ATM services. Further, the company offers insurance products and services through a referral program. The company serves sole proprietors, small and medium-sized businesses, partnerships, corporations, non-profit organizations and associations, and individuals, as well as investors. Eagle Bancorp, Inc. was incorporated in 1997 and is headquartered in Bethesda, Maryland.
+fullTimeEmployees§452
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Norman R. Pozez', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 3722858, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan G. Riel', 'age': 73, 'title': 'President, CEO & Director', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 2508780, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janice L. Williams J.D.', 'age': 66, 'title': 'Executive Vice President', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1222146, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lindsey S. Rheaume', 'age': 62, 'title': 'Executive Vice President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 950168, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric R. Newell C.F.A.', 'age': 43, 'title': 'Executive VP & CFO', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David G. Danielson', 'title': 'Senior VP and Director of Investor Relations & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Saltzman Esq., J.D.', 'age': 62, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan A. Riel', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane E. Cornett', 'title': 'VP & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.8
+dividendYield§0.0615
+exDividendDate§1704844800
+payoutRatio§0.3418
+beta§1.068
+priceToSalesTrailing12Months§2.823181
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.63
+pegRatio§1.21
+exchange§NCM
+quoteType§EQUITY
+shortName§Eagle Bancorp, Inc.
+longName§Eagle Bancorp, Inc.
+firstTradeDateEpochUtc§931959000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8fbc1738-e550-32ce-b5bb-78ea95897ace
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§22.0
+targetMeanPrice§24.92
+targetMedianPrice§25.75
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+earningsGrowth§-0.216
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

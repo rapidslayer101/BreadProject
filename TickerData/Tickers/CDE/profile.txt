@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 08:27:42.874779
+address1§200 South Wacker Drive
+address2§Suite 2100
+city§Chicago
+state§IL
+zip§60606
+country§United States
+phone§312 489 5800
+website§https://www.coeur.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Coeur Mining, Inc. explores for precious metals in the United States, Canada, and Mexico. It primarily explores for gold, silver, zinc, and lead properties. The company holds 100% interests in the Palmarejo gold and silver mine covering an area of approximately 67,279 net acres located in the State of Chihuahua in Northern Mexico; the Rochester silver and gold mine that covers an area of approximately 43,441net acres situated in northwestern Nevada; the Kensington gold mine comprising 3,972 net acres located to the north of Juneau, Alaska; the Wharf gold mine covering an area of approximately 3,243 net acres situated in the northern Black Hills of western South Dakota; and the Silvertip silver-zinc-lead mine comprising 97,298 net acres located in northern British Columbia, Canada. Further, it markets and sells its concentrates to third-party customers, smelters, under off-take agreements. The company was formerly known as Coeur d'Alene Mines Corporation and changed its name to Coeur Mining, Inc. in May 2013. Coeur Mining, Inc. was incorporated in 1928 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§2107
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mitchell J. Krebs', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1860442, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas S. Whelan', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 866742, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Routledge', 'age': 52, 'title': 'Senior VP & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1026285, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Casey M. Nault', 'age': 51, 'title': 'Senior VP, General Counsel, Company Secretary & Chief ESG Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 805609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emilie C. Schouten', 'age': 44, 'title': 'Senior VP of Human Resources & Chief Human Resources Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 668541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth J. Watkinson', 'age': 54, 'title': 'VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Wilhoit', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aoife Mairead McGrath B.Sc., M.AIG., M.Sc.', 'age': 46, 'title': 'Senior Vice President of Exploration', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John  Scott', 'title': 'VP & Principal Geologist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Beckelheimer', 'title': 'Vice President of Tax & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§828489600
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.87
+beta§1.799
+priceToSalesTrailing12Months§1.4076198
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.07
+pegRatio§0.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Coeur Mining, Inc.
+longName§Coeur Mining, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8e054e3-416d-372e-8744-92e25c38b3ec
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§2.75
+targetMeanPrice§3.78
+targetMedianPrice§3.75
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.32
+grossMargins§0.16694
+ebitdaMargins§0.09788
+trailingPegRatio§None

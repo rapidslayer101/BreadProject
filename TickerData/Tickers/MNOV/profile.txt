@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 09:46:03.826556
+address1§4275 Executive Square
+address2§Suite 300
+city§La Jolla
+state§CA
+zip§92037
+country§United States
+phone§858 373 1500
+fax§858 404 0048
+website§https://www.medicinova.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§MediciNova, Inc., a biopharmaceutical company, focuses on developing novel and small molecule therapeutics for the treatment of serious diseases with unmet medical needs in the United States. It is developing MN-166 (ibudilast), an oral anti-inflammatory and neuroprotective agent for treating neurological and other disorders, such as primary and secondary progressive multiple sclerosis, amyotrophic lateral sclerosis, chemotherapy-induced peripheral neuropathy, degenerative cervical myelopathy, glioblastoma, and substance dependence and addiction. The company's product pipeline also includes MN-221 (bedoradrine), a selective beta-2-adrenergic receptor agonist for the treatment of acute exacerbations of asthma; MN-001 (tipelukast), an orally bioavailable small molecule compound to treat fibrotic and other diseases, including nonalcoholic steatohepatitis and idiopathic pulmonary fibrosis; and MN-029 (denibulin), a tubulin binding agent for treating solid tumor cancers. It has collaboration agreements with Kissei Pharmaceutical Co., Ltd.; Kyorin Pharmaceutical Co., Ltd; Angiogene Pharmaceuticals Ltd.; and Meiji Seika Kaisha Ltd. The company was incorporated in 2000 and is headquartered in La Jolla, California.
+fullTimeEmployees§13
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Yuichi  Iwaki M.D., Ph.D.', 'age': 73, 'title': 'Co-Founder, President, CEO & Executive Director', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 933046, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kazuko  Matsuda M.D., M.P.H., Ph.D.', 'age': 57, 'title': 'Chief Medical Officer & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 653654, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason J. Kruger CPA', 'age': 46, 'title': 'CFO & Principal Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David H. Crean M.B.A., Ph.D.', 'age': 58, 'title': 'Chief Business Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. John  O'Neil CPA", 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.783
+priceToSalesTrailing12Months§75.53114
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-45.24
+pegRatio§-0.37
+exchange§NGM
+quoteType§EQUITY
+shortName§MediciNova, Inc.
+longName§MediciNova, Inc.
+firstTradeDateEpochUtc§1165588200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c2932104-58fe-3a03-8298-c9f1617dc654
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§6.0
+targetMeanPrice§16.5
+targetMedianPrice§16.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§18.741
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

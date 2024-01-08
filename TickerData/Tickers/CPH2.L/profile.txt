@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 01:35:59.404904
+address1§Parkside Business Park
+address2§Unit D Spinners Road
+city§Doncaster
+zip§DN2 4BL
+country§United Kingdom
+phone§44 13 0232 8075
+website§https://cph2.com
+industry§Specialty Industrial Machinery
+industryKey§specialty-industrial-machinery
+industryDisp§Specialty Industrial Machinery
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Clean Power Hydrogen plc, a green hydrogen technology and manufacturing company, engages in the development of hydrogen and oxygen production solutions. The company provides membrane-free electrolyser technology, which produces green hydrogen and oxygen in medical grade purity. It serves power, industry and manufacturing, transportation and machinery, commercial and retail, and hydroculture markets. The company was formerly known as CPH2 Group PLC and changed its name to Clean Power Hydrogen plc in October 2021. Clean Power Hydrogen plc was founded in 2012 and is headquartered in Doncaster, the United Kingdom.
+fullTimeEmployees§55
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan Richard Duffy', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 430000, 'exercisedValue': 0, 'unexercisedValue': 746323}, {'maxAge': 1, 'name': 'Mr. James Graham Hobson', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 8000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arash  Selahi', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Cassidy', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Scott', 'title': 'Managing Director of CPH2 Ireland', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CLEAN POWER HYDROGEN PLC ORD GB
+longName§Clean Power Hydrogen Plc
+firstTradeDateEpochUtc§1644998400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9da17ee4-a6fb-3955-8ddd-9f2b415875b7
+messageBoardId§finmb_640308450
+targetHighPrice§0.97
+targetLowPrice§0.8
+targetMeanPrice§0.89
+targetMedianPrice§0.89
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§5.429
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

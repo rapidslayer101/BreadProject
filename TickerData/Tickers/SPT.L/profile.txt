@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 18:40:26.562628
+address1§Origin One
+address2§108 High Street
+city§Crawley
+zip§RH10 1BD
+country§United Kingdom
+phone§44 12 9376 7676
+website§https://corporate.spirent.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Spirent Communications plc offers automated test and assurance solutions in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company operates in Lifecycle Service Assurance and Networks & Security segments. The Lifecycle Service Assurance segment provides testing solutions for 5G mobile core networks, and cellular and Wi-Fi devices in the lab, as well as live solutions. The Networks & Security segment develops test methodologies, tools, and services for virtualised networks, cloud, and proactive security validation; and offers Ethernet/IP performance testing solutions, as well as provides navigation satellite system test and simulation solutions while addressing opportunities in the broader positioning, navigation, and timing market. The company was formerly known as Spirent plc and changed its name to Spirent Communications plc in May 2006. Spirent Communications plc was founded in 1936 and is headquartered in Crawley, the United Kingdom.
+fullTimeEmployees§1656
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric Allen Updyke', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1268800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula  Bell CGMA, FCMA', 'age': 56, 'title': 'Chief Financial & Operations Officer and Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 803300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Larson', 'title': 'CTO and GM of Cloud & IP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Angus Edward Iveson', 'title': 'Company Secretary & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Wright', 'title': 'Executive Vice President of Marketing, Strategy & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manuel  Zepeda', 'title': 'Executive Vice President of Global Sales & Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Menard', 'title': 'Global Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  VanBrunt', 'title': 'President & CEO of Spirent Federal Systems', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Klaassen', 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Rouanne', 'age': 60, 'title': 'Chief Network Officer of Dish Wireless', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.06
+dividendYield§0.053000003
+exDividendDate§1691625600
+payoutRatio§0.65809995
+fiveYearAvgDividendYield§2.3
+beta§0.502
+priceToSalesTrailing12Months§1.2941601
+currency§GBp
+forwardEps§0.06
+pegRatio§-3.71
+exchange§LSE
+quoteType§EQUITY
+shortName§SPIRENT COMMUNICATIONS PLC ORD 
+longName§Spirent Communications plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§845ae481-2dea-360b-b911-197220bb6c03
+targetHighPrice§1.94
+targetLowPrice§1.0
+targetMeanPrice§1.51
+targetMedianPrice§1.54
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.421
+earningsGrowth§-0.846
+grossMargins§0.71920997
+ebitdaMargins§0.1754
+trailingPegRatio§None

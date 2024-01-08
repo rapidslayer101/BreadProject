@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 18:28:59.618764
+address1§2500 Innovation Way
+city§Greenfield
+state§IN
+zip§46140
+country§United States
+phone§877 352 6261
+website§https://www.elanco.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Elanco Animal Health Incorporated, an animal health company, innovates, develops, manufactures, and markets products for pets and farm animals. It offers pet health disease prevention products, such as parasiticide and vaccine products that protect pets from worms, fleas, and ticks under the Seresto, Advantage, Advantix, and Advocate brands; pet health therapeutics for pain, osteoarthritis, ear infections, cardiovascular, and dermatology indications in canines and felines under the Galliprant and Claro brands; vaccines, antibiotics, parasiticides, and other products for use in poultry and aquaculture production, as well as nutritional health products, including enzymes, probiotics, and prebiotics; and a range of vaccines, antibiotics, implants, parasiticides, and other products used in ruminant and swine production under the Rumensin and Baytril brands. The company sells its products to third-party distributors; veterinarians; and farm animal producers, including beef and dairy farmers, as well as pork, poultry, and aquaculture operations. The company was founded in 1954 and is headquartered in Greenfield, Indiana.
+fullTimeEmployees§9000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey N. Simmons', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2513601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd S. Young', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1144462, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ramiro Martin Cabral', 'age': 52, 'title': 'Executive Vice President of Elanco International', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 972818, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ellen  de Brabander Ph.D.', 'age': 60, 'title': 'Executive Vice President of Innovation, Regulatory & Business Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1131995, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajeev  Modi', 'age': 42, 'title': 'Executive Vice President of U.S. Pet Health & Global Digital Transformation', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1322404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Meer', 'age': 53, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Keeley', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David S. Kinard', 'age': 56, 'title': 'Executive Vice President of Human Resources, Corporate Communications & Administration', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 722576, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katy  Grissom', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Shiv  O'Neill", 'title': 'Interim Executive VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.229
+priceToSalesTrailing12Months§1.743469
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.89
+pegRatio§-2.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Elanco Animal Health Incorporat
+longName§Elanco Animal Health Incorporated
+firstTradeDateEpochUtc§1537450200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a5861b57-5b0a-3cea-90c2-eb94168560e1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§10.0
+targetMeanPrice§14.11
+targetMedianPrice§14.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.189
+grossMargins§0.57339
+ebitdaMargins§0.22281
+trailingPegRatio§None

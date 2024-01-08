@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 00:36:07.540695
+address1§Nova North
+address2§2nd Floor 11 Bressenden Place
+city§London
+zip§SW1E 5BY
+country§United Kingdom
+phone§44 204 5513 3833
+website§https://www.dowlais.com
+industry§Auto Manufacturers
+industryKey§auto-manufacturers
+industryDisp§Auto Manufacturers
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Dowlais Group Plc manufactures and sells automotive parts in the Americas, Europe, and Asia. The company engages in developing, manufacturing, and supplying automotive drive systems for conventional and electric vehicles. It manufactures sideshafts, propshafts, and constant velocity joints for passenger vehicles; and AWD systems and eDrive systems, as well as provides component solutions to systems, including control software. The company is also involved in the production of metal powders and powder metal parts for the automotive and industrial sectors, as well as the provision of hydrogen storage solutions. The company was formerly known as Dowlais Group Headquarters Plc and changed its name to Dowlais Group Plc in February 2023. Dowlais Group Plc was incorporated in 2023 and is based in London, the United Kingdom.
+fullTimeEmployees§24257
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Liam David Butterworth', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roberto  Fioroni', 'age': 53, 'title': 'CFO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John David Nicholson', 'title': 'General Counsel & Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen  Redfern', 'title': 'Chief People of Sustainability & Communications Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey Peter Martin ACA, BA', 'age': 55, 'title': 'Executive Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Pedder', 'title': 'Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.027
+exDividendDate§1695254400
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.29533646
+currency§GBp
+lastDividendValue§1.4
+lastDividendDate§1695254400
+exchange§LSE
+quoteType§EQUITY
+shortName§DOWLAIS GROUP PLC ORD 1P
+longName§Dowlais Group plc
+firstTradeDateEpochUtc§1681974000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e6b1680c-7bb0-30af-9e7b-8ce3db0e1b53
+messageBoardId§finmb_1824762455
+targetHighPrice§200.0
+targetLowPrice§90.0
+targetMeanPrice§144.5
+targetMedianPrice§147.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.699
+grossMargins§0.15068
+ebitdaMargins§0.057010002
+trailingPegRatio§None

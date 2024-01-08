@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 14:36:00.898463
+address1§Plantain Place
+address2§Unit 2 Crosby Row London Bridge
+city§London
+zip§SE1 1YN
+country§United Kingdom
+phone§44 20 7486 1111
+website§https://www.comptoirlibanais.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Comptoir Group PLC owns and operates restaurants under the Comptoir Libanais and Shawa brand names in the United Kingdom. The company offers Lebanese and Eastern Mediterranean cuisine dining. It operates 27 restaurants that includes 5 franchises. The company was formerly known as Levant Restaurants Group Limited and changed its name to Comptoir Group PLC in June 2016. Comptoir Group PLC was founded in 2000 and is based in London, the United Kingdom.
+fullTimeEmployees§597
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nicholas John Ayerst', 'age': 57, 'title': 'CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 239451, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Toon', 'age': 46, 'title': 'Finance Director, CFO, Director & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 124007, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Conrad  Patterson', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicole  Goodwin', 'title': 'Marketing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gemma  Hambley', 'title': 'Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Victoria  Gunter', 'title': 'Head of Procurement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Jones', 'title': 'Executive Chef', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.861
+priceToSalesTrailing12Months§0.29349196
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§COMPTOIR GROUP PLC ORD 1P
+longName§Comptoir Group PLC
+firstTradeDateEpochUtc§1466492400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§eecf2778-9e54-37e4-8b2d-cfd24193cb3e
+messageBoardId§finmb_346361531
+recommendationKey§none
+quickRatio§1.193
+grossMargins§0.78066003
+ebitdaMargins§0.01249
+trailingPegRatio§None

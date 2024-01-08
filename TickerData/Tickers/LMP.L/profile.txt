@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 17:39:35.491432
+address1§One Curzon Street
+city§London
+zip§W1J 5HB
+country§United Kingdom
+phone§44 20 7484 9000
+fax§44 20 7484 9001
+website§https://www.londonmetric.com
+industry§REIT—Diversified
+sector§Real Estate
+longBusinessSummary§LondonMetric is a FTSE 250 REIT that owns one of the UK's leading listed logistics platforms alongside a grocery-led long income portfolio, with 17 million sq ft under management. It owns and manages desirable real estate that meets occupiers' demands, delivers reliable, repetitive and growing income-led returns and outperforms over the long term.
+fullTimeEmployees§35
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew Marc Jones BSc (Hons), MRICS', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1497000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Francis McGann ACA, B.Sc (Hons)', 'age': 62, 'title': 'Finance Director & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 919000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jackie E. Jessop', 'age': 54, 'title': 'Head of Finance', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Valentine Tristram Beresford', 'age': 58, 'title': 'Investment Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 474000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gareth  Price', 'title': 'Head of Investor Relations & Sustainability', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Andrew Stirling', 'age': 60, 'title': 'Asset Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 469000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Evers', 'title': 'Head of Long Income', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jadzia  Duzniak', 'age': 56, 'title': 'Company Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Smith', 'title': 'Strategy Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ritesh  Patel', 'title': 'Forecasting & Corporate Finance Executive', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.052800003
+exDividendDate§1701302400
+payoutRatio§0.3652
+fiveYearAvgDividendYield§4.18
+beta§0.858
+priceToSalesTrailing12Months§14.252534
+currency§GBp
+forwardEps§10.82
+pegRatio§2.45
+exchange§LSE
+quoteType§EQUITY
+shortName§LONDONMETRIC PROPERTY PLC ORD 1
+longName§LondonMetric Property Plc
+firstTradeDateEpochUtc§1194422400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§014d8f56-e29b-36e0-95af-a1622459e495
+targetHighPrice§210.0
+targetLowPrice§159.0
+targetMeanPrice§190.0
+targetMedianPrice§195.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.289
+grossMargins§0.99044
+ebitdaMargins§0.88251
+trailingPegRatio§None

@@ -1,0 +1,58 @@
+# reload+after+2024-01-21 00:26:37.921255
+address1§220 Alhambra Circle
+city§Coral Gables
+state§FL
+zip§33134
+country§United States
+phone§305 460 8728
+website§https://www.amerantbank.com
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Amerant Bancorp Inc. operates as the bank holding company for Amerant Bank, N.A. that provides banking products and services to individuals and businesses in the United States and internationally. It offers checking, savings, business, and money market accounts; cash management services; and certificates of deposits. The company also provides variable and fixed rate commercial real estate loans; and consumer loans and overdrafts, such as automobile, personal, or loans secured by cash or securities and revolving credit card agreements. In addition, it offers trust and estate planning products and services to high-net-worth customers, brokerage and investment advisory services in global capital markets, and wealth management and fiduciary services. Further, the company provides debit and credit cards, night depositories, direct deposits, cashier's checks, safe deposit boxes, letters of credit, and treasury management services, including wire transfer, remote deposit capture, and automated clearinghouse services; derivative instruments; and online and mobile banking, account balances, statements and other documents, online transfers and bill payment, and electronic delivery of customer statements services, as well as automated teller machines, and banking by mobile devices, telephone, and mail. It operates banking centers in Florida and Texas; and loan production office in Tampa, Florida. The company was formerly known as Mercantil Bank Holding Corporation and changed its name to Amerant Bancorp Inc. in June 2019. Amerant Bancorp Inc. was founded in 1979 and is headquartered in Coral Gables, Florida. Amerant Bancorp Inc. (NasdaqGS:AMTB) was formerly a subsidiary of Mercantil Servicios Financieros, C.A.
+fullTimeEmployees§700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gerald Paul Plush C.M.A., CPA', 'age': 65, 'title': 'Chairman, President & CEO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1964884, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos  Iafigliola', 'age': 46, 'title': 'Senior EVP & COO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 697577, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alberto Manuel Capriles Santander', 'age': 55, 'title': 'Senior EVP & Chief Risk Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 690748, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Levine', 'age': 51, 'title': 'Senior EVP & Head of Consumer Banking', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 633701, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharymar Calderon Yepez CPA', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Armando D. Fleitas', 'age': 46, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Rossi', 'title': 'Senior VP, Head of Investor Relations & Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mariola  Sanchez', 'age': 50, 'title': 'Senior Executive VP & Chief People Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julio V. Pena', 'title': 'Senior VP of Securities Counsel & Assistant Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0148
+exDividendDate§1699833600
+payoutRatio§0.1706
+beta§1.004
+priceToSalesTrailing12Months§2.6611457
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.06
+lastDividendValue§0.09
+lastDividendDate§1699833600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Amerant Bancorp Inc.
+longName§Amerant Bancorp Inc.
+firstTradeDateEpochUtc§1539869400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§52213758-5f41-3520-803f-eaf832fa0c4f
+messageBoardId§finmb_4920873
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§29.0
+targetLowPrice§23.0
+targetMeanPrice§25.0
+targetMedianPrice§25.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§0.269
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

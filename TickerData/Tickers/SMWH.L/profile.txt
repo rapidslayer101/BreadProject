@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 03:41:08.641793
+address1§Greenbridge Road
+city§Swindon
+zip§SN3 3RX
+country§United Kingdom
+phone§44 1793 616161
+website§https://www.whsmithplc.co.uk
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§WH Smith PLC operates as a retailer in the United Kingdom and internationally. It operates in two segments, Travel and High Street. The Travel segment offers news, books, and convenience for travelling customers. It operates stores in airports, hospitals, railway stations, and motorway service areas. The High Street segment sells stationery products, including greeting cards, general stationery, art and craft, and gifting products; news and impulse products, such as newspapers, magazines, confectionery, and drinks; and books. The company sells its products through digital channels, such as whsmith.co.uk, funkypigeon.com, cultpens.com and dottyaboutpaper.co.uk. The company was founded in 1792 and is based in Swindon, the United Kingdom.
+fullTimeEmployees§14935
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Carl David Cowling', 'age': 50, 'title': 'Group Chief Executive & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1660000, 'exercisedValue': 125152, 'unexercisedValue': 79535}, {'maxAge': 1, 'name': 'Mr. Robert James Moorhead', 'age': 59, 'title': 'Group CFO, COO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1275000, 'exercisedValue': 151381, 'unexercisedValue': 51694}, {'maxAge': 1, 'name': 'Mr. Ian  Houghton', 'age': 58, 'title': 'Legal Director & Company Secretary', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.29
+dividendYield§0.0222
+exDividendDate§1704931200
+payoutRatio§0.2876
+fiveYearAvgDividendYield§2.83
+beta§1.59
+priceToSalesTrailing12Months§0.9739944
+currency§GBp
+forwardEps§98.79
+pegRatio§0.52
+exchange§LSE
+quoteType§EQUITY
+shortName§WH SMITH PLC ORD 22 6/67P
+longName§WH Smith PLC
+firstTradeDateEpochUtc§1087542000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§14b5b479-743c-366b-bc89-1fd41534a9dd
+targetHighPrice§2300.0
+targetLowPrice§1450.0
+targetMeanPrice§1727.92
+targetMedianPrice§1700.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.287
+earningsGrowth§0.362
+grossMargins§0.61963004
+ebitdaMargins§0.12380999
+trailingPegRatio§None

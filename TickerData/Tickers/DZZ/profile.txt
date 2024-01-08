@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 06:28:49.577567
+longBusinessSummary§The index is intended to reflect changes in the market value of certain gold futures contracts and is comprised of a single unfunded gold futures contract.
+maxAge§86400
+priceHint§4
+yield§0.0
+totalAssets§4235532
+navPrice§2.40485
+currency§USD
+category§Trading--Inverse Commodities
+ytdReturn§0.007874
+beta3Year§-0.23
+fundFamily§Deutsche Bank AG
+fundInceptionDate§1204070400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0117281
+fiveYearAverageReturn§-0.1504532
+exchange§PCX
+quoteType§ETF
+shortName§DB Gold Double Short ETN due Fe
+longName§DB Gold Double Short ETN
+firstTradeDateEpochUtc§1204209000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§16c6d323-3ca1-3495-92a5-0dd911d6e238
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

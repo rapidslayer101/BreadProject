@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 21:34:24.809674
+address1§3900 McCarty Lane
+city§Lafayette
+state§IN
+zip§47905
+country§United States
+phone§765 771 5310
+website§https://onewabash.com
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§Wabash National Corporation designs, manufactures, and distributes connected solutions for the transportation, logistics, and distribution industries primarily in the United States. The company operates through two segments, Transportation Solutions and Parts & Services. The Transportation Solutions segment provides dry van and platform trailers; refrigerated trailers; converter dollies; van bodies for dry-freight transportation; cargo and cargo XL bodies for commercial applications; insulated van bodies; stake bodies; platform truck bodies; refrigerated truck bodies; and used trailers, as well as laminated hardwood oak flooring products. This segment also offers stainless steel and aluminum tank trailers for the dairy, food and beverage, oil, gas, and chemical end markets; dry bulk trailers; and fiberglass reinforced poly tank trailers. The Parts & Services segment provides aftermarket parts and services; steel flatbed bodies, truck body mounting, shelving for package delivery, partitions, roof racks, hitches, liftgates, and thermal solutions; and door repair and replacement, collision repair, and basic maintenance services. This segment also offers stainless steel storage tanks and silos, mixers, and processors for the dairy, food and beverage, pharmaceutical, chemical, craft brewing, and biotech end markets; and composite products, including truck bodies, overhead doors, and other industrial application products. The company offers its products under the Wabash, DuraPlate, DuraPlateHD, DuraPlate AeroSkirt, and AeroSkirt CX brands, as well as EcoNex brand. It distributes its products directly, as well as through its retail operations and independent dealers to truckload common carriers, leasing companies, private fleet carriers, less-than-truckload common carriers, and package carriers. Wabash National Corporation was founded in 1985 and is headquartered in Lafayette, Indiana.
+fullTimeEmployees§6900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brent L. Yeagy', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2298212, 'exercisedValue': 93997, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael N. Pettit', 'age': 48, 'title': 'Senior VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 986839, 'exercisedValue': 0, 'unexercisedValue': 17393}, {'maxAge': 1, 'name': 'Mr. Dustin T. Smith', 'age': 46, 'title': 'COO & Senior VP', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 970231, 'exercisedValue': 0, 'unexercisedValue': 19778}, {'maxAge': 1, 'name': 'Ms. Mary Kristin Glazner', 'age': 45, 'title': 'Senior VP, Chief Administrative & Human Resources Officer, General Counsel & Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 859525, 'exercisedValue': 0, 'unexercisedValue': 6330}, {'maxAge': 1, 'name': 'Mr. Kevin J. Page', 'age': 61, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 859722, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ryan  Reed', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dana  Stelsel', 'title': 'Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Don  Hurtt', 'title': 'Treasurer and Vice President of Tax', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0127
+exDividendDate§1704240000
+payoutRatio§0.070199996
+fiveYearAvgDividendYield§2.03
+beta§1.542
+priceToSalesTrailing12Months§0.44777173
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.76
+pegRatio§0.35
+exchange§NYQ
+quoteType§EQUITY
+shortName§Wabash National Corporation
+longName§Wabash National Corporation
+firstTradeDateEpochUtc§689610600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§097239ef-61d6-34d0-8476-53ac2ff1fc7f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§22.0
+targetMeanPrice§25.0
+targetMedianPrice§23.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.834
+earningsGrowth§0.589
+grossMargins§0.18652001
+ebitdaMargins§0.13512999
+trailingPegRatio§None

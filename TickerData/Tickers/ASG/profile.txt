@@ -1,0 +1,47 @@
+# reload+after+2024-01-23 05:26:46.614630
+address1§1290 Broadway
+address2§Suite 1000
+city§Denver
+state§CO
+zip§80203
+country§United States
+phone§303 623 2577
+fax§303 623 7850
+website§https://www.all-starfunds.com/fundfacts-asg.php
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Liberty All-Star Growth Fund, Inc. is a closed-ended equity mutual fund launched and managed by ALPS Advisers, Inc. It is co-managed by Weatherbie Capital, LLC, Congress Asset Management Company, and Sustainable Growth Advisers, LP. The fund invests in the public equity markets of the United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in growth stocks of companies across all market capitalizations. It employs fundamental analysis with a bottom-up stock picking approach to create its portfolio. The fund benchmarks the performance of its portfolio against the NASDAQ Composite Index, Russell 3000 Growth Index, and the S&P 500 Index. It conducts in-house research to make its investments. The fund was previously known as Charles Allmon Trust, Inc. Liberty All-Star Growth Fund, Inc. was formed on March 14, 1986 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edmund Joseph Burke', 'age': 62, 'title': 'Vice President and Director', 'yearBorn': 1961, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald Adair Sauer', 'title': 'Senior Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig C. Blum C.F.A., CFA', 'title': 'Group Managing Director and Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua Daniel Bennett C.F.A., CFA', 'age': 48, 'title': 'Co-Portfolio Manager of Fund', 'yearBorn': 1975, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Patrice Fraise', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gordon Michael Marchand CFA, CIC', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang  Lee', 'title': 'Portfolio manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Olson CFA', 'title': 'Portfolio manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Lawrence Rohn', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd W. Solomon C.F.A., CFA', 'age': 53, 'title': 'Vice President and Portfolio Manager', 'yearBorn': 1970, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.078099996
+exDividendDate§1700092800
+payoutRatio§0.5733
+fiveYearAvgDividendYield§9.44
+beta§1.3
+priceToSalesTrailing12Months§153.85889
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.1
+lastDividendDate§1700092800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Liberty All-Star Growth Fund, I
+longName§Liberty All-Star Growth Fund, Inc.
+firstTradeDateEpochUtc§510503400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d0b3ef57-c476-3cfd-9d0d-4660709ef9b9
+messageBoardId§finmb_3590559
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.902
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

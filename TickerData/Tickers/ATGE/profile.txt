@@ -1,0 +1,60 @@
+# reload+after+2024-01-23 23:26:50.749298
+address1§500 West Monroe Street
+address2§Suite 13
+city§Chicago
+state§IL
+zip§60661
+country§United States
+phone§312 651 1400
+website§https://www.adtalem.com
+industry§Education & Training Services
+industryKey§education-training-services
+industryDisp§Education & Training Services
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Adtalem Global Education Inc. provides workforce solutions worldwide. It operates through three segments, Chamberlain, Walden, and Medical and Veterinary. The Chamberlain segment offers degree and non-degree programs in the nursing and health professions postsecondary education industry. This segment operates Chamberlain University. The Walden segment offers online certificates, bachelor's, master's, and doctoral degrees, including nursing, education, counseling, business, psychology, public health, social work and human services, public administration and public policy, and criminal justice. This segment also operates Walden University. The Medical and Veterinary segment provides degree and non-degree programs in the medical and veterinary postsecondary education industry. This segment operates American University of the Caribbean School of Medicine, Ross University School of Medicine, and Ross University School of Veterinary Medicine. The company was formerly known as DeVry Education Group Inc. and changed its name to Adtalem Global Education Inc. in May 2017. Adtalem Global Education Inc. was incorporated in 1987 and is based in Chicago, Illinois.
+fullTimeEmployees§10000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen W. Beard', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 2245137, 'exercisedValue': 0, 'unexercisedValue': 43571}, {'maxAge': 1, 'name': 'Mr. Robert J. Phelan', 'age': 57, 'title': 'Senior VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1057372, 'exercisedValue': 0, 'unexercisedValue': 4505}, {'maxAge': 1, 'name': 'Mr. Douglas G. Beck', 'age': 56, 'title': 'Senior VP of Institutional Support Services, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1108005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maurice  Herrera', 'age': 53, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 966666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven K. Tom', 'age': 42, 'title': 'Senior VP & Chief Customer Officer', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 1429585, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Heidi  Chumley M.D., MBA', 'title': 'Executive Dean', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sean  Callanan CertVR, DipECVP, FRCPath, MRCVS, MVB, Ph.D.', 'title': 'Dean', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. William F. Owen Jr.', 'age': 67, 'title': 'Dean & Chancellor - Ross University School of Medicine', 'yearBorn': 1956, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manjunath  Gangadharan', 'age': 40, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Blake  Simpson', 'title': 'Senior Vice President of Sustainability & Chief Communications Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1480464000
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.11
+beta§0.922
+priceToSalesTrailing12Months§1.54677
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.8
+pegRatio§0.91
+lastDividendValue§0.18
+lastDividendDate§1480464000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Adtalem Global Education Inc.
+longName§Adtalem Global Education Inc.
+firstTradeDateEpochUtc§677511000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2c588662-c6f0-3b06-b8c0-74aab03ee6c1
+messageBoardId§finmb_27536
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§53.0
+targetMeanPrice§54.33
+targetMedianPrice§55.0
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§0.828
+earningsGrowth§17.02
+grossMargins§0.55135
+ebitdaMargins§0.2021
+trailingPegRatio§None

@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 10:26:17.709413
+address1§501 Commerce Street
+city§Nashville
+state§TN
+zip§37203
+country§United States
+phone§615 622 0000
+fax§212 969 2293
+website§https://www.alliancebernstein.com/funds/us/closed-end/fixed-income/national-municipal-income-fund.htm
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§AllianceBernstein National Municipal Income Fund, Inc. is a closed-ended fixed income mutual fund launched and managed by AllianceBernstein L.P. The fund invests in the fixed income markets of the United States. It primarily invests in investment-grade municipal securities which pay interest that is exempt from federal income tax. The fund seeks to invest in bonds rated Baa/BBB or higher. It employs both quantitative and fundamental analysis to create its portfolio. AllianceBernstein National Municipal Income Fund, Inc. was formed on November 9, 2001 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Terrance T. Hults', 'age': 56, 'title': 'Portfolio Manager', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fred S. Cohen', 'age': 65, 'title': 'Portfolio Manager', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael G. Brooks', 'age': 75, 'title': 'Portfolio Manager', 'yearBorn': 1948, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.39
+dividendYield§0.0363
+exDividendDate§1704326400
+payoutRatio§0.66580003
+fiveYearAvgDividendYield§4.42
+beta§0.501
+priceToSalesTrailing12Months§12.583605
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.033
+lastDividendDate§1704326400
+exchange§NYQ
+quoteType§EQUITY
+shortName§AllianceBernstein National Muni
+longName§AllianceBernstein National Municipal Income Fund, Inc.
+firstTradeDateEpochUtc§1012314600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2296c849-bfc6-32f4-b9fd-549af801237f
+messageBoardId§finmb_3603743
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§5.317
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

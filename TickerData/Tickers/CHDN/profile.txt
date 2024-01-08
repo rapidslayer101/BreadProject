@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 06:44:01.647636
+address1§600 North Hurstbourne Parkway
+address2§Suite 400
+city§Louisville
+state§KY
+zip§40222
+country§United States
+phone§502 636 4400
+website§https://www.churchilldownsincorporated.com
+industry§Gambling
+sector§Consumer Cyclical
+longBusinessSummary§Churchill Downs Incorporated operates as a racing, online wagering, and gaming entertainment company in the United States. It operates through Live and Historical Racing, TwinSpires, and Gaming segments. The company operates pari-mutuel gaming entertainment venues; TwinSpires, an online wagering platform for horse racing, sports, and iGaming; retail sportsbooks; and casino gaming. It also offers streaming video of live horse races, replays, and an assortment of racing and handicapping information; and provides the Bloodstock Research Information Services platform for horse racing statistical data. In addition, the company manufactures and operates pari-mutuel wagering systems for racetracks, off-track betting facilities, and other pari-mutuel wagering businesses. Churchill Downs Incorporated was founded in 1875 and is headquartered in Louisville, Kentucky.
+fullTimeEmployees§5500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William C. Carstanjen', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 5554689, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William E. Mudd', 'age': 52, 'title': 'President & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 3231931, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marcia Ann Dall CPA', 'age': 59, 'title': 'Executive VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2284613, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley K. Blackwell', 'age': 51, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1385467, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maureen  Adams', 'age': 59, 'title': 'Executive Vice President of Gaming Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1264902, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jon E. Rauch', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nate  Simon', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kaitlin  Buzzetto', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Sauer', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katherine  Armstrong', 'title': 'Senior VP of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.38
+dividendYield§0.003
+exDividendDate§1701302400
+payoutRatio§0.0756
+fiveYearAvgDividendYield§0.36
+beta§1.051
+priceToSalesTrailing12Months§3.9835486
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.99
+pegRatio§14.14
+exchange§NMS
+quoteType§EQUITY
+shortName§Churchill Downs, Incorporated
+longName§Churchill Downs Incorporated
+firstTradeDateEpochUtc§733415400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§382a5ba5-95f8-35a9-af18-942029eae4b2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§152.0
+targetLowPrice§135.0
+targetMeanPrice§143.11
+targetMedianPrice§144.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.355
+earningsGrowth§0.068
+grossMargins§0.32176998
+ebitdaMargins§0.29824
+trailingPegRatio§None

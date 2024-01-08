@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 05:31:09.499828
+address1§5500 Haven Street
+city§Las Vegas
+state§NV
+zip§89119
+country§United States
+phone§702 923 9000
+website§https://www.sands.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Las Vegas Sands Corp., together with its subsidiaries, develops, owns, and operates integrated resorts in Macao and Singapore. It owns and operates The Venetian Macao Resort Hotel, the Londoner Macao, The Parisian Macao, The Plaza Macao and Four Seasons Hotel Macao, Cotai Strip, and the Sands Macao in Macao, the People's Republic of China; and Marina Bay Sands in Singapore. The company's integrated resorts feature accommodations, gaming, entertainment and retail malls, convention and exhibition facilities, celebrity chef restaurants, and other amenities. Las Vegas Sands Corp. was founded in 1988 and is based in Las Vegas, Nevada.
+fullTimeEmployees§35500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Glen Goldstein', 'age': 67, 'title': 'Chairman, CEO & Treasurer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 11410263, 'exercisedValue': 0, 'unexercisedValue': 9184140}, {'maxAge': 1, 'name': 'Mr. Patrick  Dumont', 'age': 48, 'title': 'President, COO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 11623680, 'exercisedValue': 0, 'unexercisedValue': 6888105}, {'maxAge': 1, 'name': 'Mr. Randy A. Hyzak', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2726692, 'exercisedValue': 0, 'unexercisedValue': 2296035}, {'maxAge': 1, 'name': 'Mr. D. Zachary Hudson', 'age': 43, 'title': 'Executive VP, Global General Counsel & Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2552780, 'exercisedValue': 0, 'unexercisedValue': 2296035}, {'maxAge': 1, 'name': 'Mr. Daniel J. Briggs', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald  Reese', 'title': 'Senior Vice President of Global Communications, Corporate Affairs & Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Reese Sylvester', 'age': 59, 'title': 'Executive Vice President of Global Retail', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kwan Lock Chum', 'age': 47, 'title': 'Executive VP of Asia Operations & Senior VP of Global Gaming Strategy', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wing T. Chao', 'title': 'Advisor', 'fiscalYear': 2022, 'totalPay': 10467, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.007900001
+exDividendDate§1699228800
+payoutRatio§0.2299
+fiveYearAvgDividendYield§4.75
+beta§1.18
+priceToSalesTrailing12Months§4.4645066
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.8
+pegRatio§3.76
+exchange§NYQ
+quoteType§EQUITY
+shortName§Las Vegas Sands Corp.
+longName§Las Vegas Sands Corp.
+firstTradeDateEpochUtc§1103121000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§76ae2e1c-04e5-3e1c-b855-24a20193b25c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§77.0
+targetLowPrice§52.0
+targetMeanPrice§64.45
+targetMedianPrice§65.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§1.454
+grossMargins§0.59167
+ebitdaMargins§0.30219
+trailingPegRatio§1.2701

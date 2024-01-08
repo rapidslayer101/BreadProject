@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 03:40:17.954696
+address1§Two Pancras Square
+address2§Fifth Floor
+city§London
+zip§N1C 4AG
+country§United Kingdom
+phone§44 20 7239 8400
+website§https://www.rsgroup.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§RS Group plc, together with its subsidiaries, distributes various electronics and industrial products and solutions in the United Kingdom, the United States, France, Germany, Italy, Mexico, and internationally. The company provides industrial interconnect and test, industrial automation and control, board-level electronics, and single-board computing products; and tools, consumables, and facilities maintenance products, such as personal protective equipment, site safety products, and 3D printing products. It offers DesignSpark, a software tool, for design engineers; procurement solutions for buyers; and onsite stock solutions for maintenance engineers, as well as provides value added solutions, such as design, procurement, inventory, and maintenance. The company offers its products under the RS, RS Safety Solutions, RS Integrated Supply, RS PRO, DesignSpark, and OKdo brands to designers, builders, and maintainers of industrial equipment and operations. It serves manufacturing, services, and infrastructure industries. The company was formerly known as Electrocomponents plc. RS Group plc was founded in 1928 and is based in London, the United Kingdom.
+fullTimeEmployees§8768
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Simon  Pryce', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 80676, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Ringrose', 'title': 'CFO & Executive Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lucy  Sharma', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lynn  Webster-Scott', 'title': 'Head of Corporate Public Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Titchener', 'title': 'Head of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Izquierdo', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Fredericks', 'title': 'President of Asia Pacific - RS', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pete  Malpas', 'title': 'President of EMEA - RS', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ellen  Li', 'title': 'Chief Financial Officer of Asia Pacific RS Components', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elaine  Pointon', 'title': 'Chief Finance Officer of EMEA RS Components', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.22
+dividendYield§0.0276
+exDividendDate§1700697600
+payoutRatio§0.4188
+fiveYearAvgDividendYield§1.99
+beta§0.927
+priceToSalesTrailing12Months§1.3072889
+currency§GBp
+forwardEps§55.68
+pegRatio§3.06
+exchange§LSE
+quoteType§EQUITY
+shortName§RS GROUP PLC ORD 10P
+longName§RS Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§327f41fd-a713-3246-b267-e5586967004a
+targetHighPrice§1175.0
+targetLowPrice§770.0
+targetMeanPrice§889.62
+targetMedianPrice§875.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.147
+earningsGrowth§-0.346
+grossMargins§0.44483003
+ebitdaMargins§0.12575
+trailingPegRatio§None

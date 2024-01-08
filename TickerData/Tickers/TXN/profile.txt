@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 08:47:41.645825
+address1§12500 TI Boulevard
+city§Dallas
+state§TX
+zip§75243
+country§United States
+phone§214 479 3773
+website§https://www.ti.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§Texas Instruments Incorporated designs, manufactures, and sells semiconductors to electronics designers and manufacturers in the United States and internationally. It operates in two segments, Analog and Embedded Processing. The Analog segment offers power products to manage power requirements across various voltage levels, including battery-management solutions, DC/DC switching regulators, AC/DC and isolated controllers and converters, power switches, linear regulators, voltage references, and lighting products. This segment also provides signal chain products that sense, condition, and measure signals to allow information to be transferred or converted for further processing and control, including amplifiers, data converters, interface products, motor drives, clocks, and logic and sensing products. The Embedded Processing segment offers microcontrollers that are used in electronic equipment; digital signal processors for mathematical computations; and applications processors for specific computing activity. This segment offers products for use in various markets, such as industrial, automotive, personal electronics, communications equipment, enterprise systems, and calculators and other. The company also provides DLP products primarily for use in project high-definition images; calculators; and application-specific integrated circuits. It markets and sells its semiconductor products through direct sales and distributors, as well as through its website. Texas Instruments Incorporated was founded in 1930 and is headquartered in Dallas, Texas.
+fullTimeEmployees§33000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Haviv  Ilan', 'age': 54, 'title': 'CEO, President & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 3291834, 'exercisedValue': 0, 'unexercisedValue': 14959472}, {'maxAge': 1, 'name': 'Mr. Rafael R. Lizardi', 'age': 50, 'title': 'CFO and Senior VP of Finance & Operations', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2255280, 'exercisedValue': 0, 'unexercisedValue': 2864838}, {'maxAge': 1, 'name': 'Mr. Kyle M. Flessner', 'age': 52, 'title': 'Senior Vice President of Technology & Manufacturing Group', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2472176, 'exercisedValue': 2961183, 'unexercisedValue': 4322290}, {'maxAge': 1, 'name': 'Mr. Hagop H. Kozanian', 'age': 40, 'title': 'Senior Vice President of Analog Signal Chain', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 2417047, 'exercisedValue': 1784340, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie C. Knecht', 'age': 50, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ahmad R. S.  Bahai Ph.D.', 'age': 60, 'title': 'Senior VP & CTO', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Krunali  Patel', 'title': 'Senior VP of Information Technology (IT) Solutions & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Pahl', 'title': 'Head of Investor Relations & VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cynthia Hoff Trochu', 'age': 59, 'title': 'Senior VP of Legal, Secretary, General Counsel & Chief Compliance Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine A. Witzsche', 'age': 38, 'title': 'Senior Vice President of Communications & Investor Relations', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.2
+dividendYield§0.0315
+exDividendDate§1698624000
+payoutRatio§0.6425
+fiveYearAvgDividendYield§2.61
+beta§1.029
+priceToSalesTrailing12Months§8.278737
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.59
+pegRatio§2.34
+exchange§NMS
+quoteType§EQUITY
+shortName§Texas Instruments Incorporated
+longName§Texas Instruments Incorporated
+firstTradeDateEpochUtc§76253400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a06516ec-4e7b-3444-b29a-1e4ac0c3f046
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§210.0
+targetLowPrice§120.0
+targetMeanPrice§164.31
+targetMedianPrice§165.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§26
+quickRatio§4.119
+earningsGrowth§-0.249
+grossMargins§0.6446
+ebitdaMargins§0.48863
+trailingPegRatio§5.0159

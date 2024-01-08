@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 11:43:39.148710
+address1§2525 East El Segundo Boulevard
+city§El Segundo
+state§CA
+zip§90245
+country§United States
+phone§310 536 0611
+website§https://www.big5sportinggoods.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Big 5 Sporting Goods Corporation operates as a sporting goods retailer in the western United States. Its products include athletic shoes, apparel, and accessories. The company also offers a selection of outdoor and athletic equipment for team sports, fitness, camping, hunting, fishing, tennis, golf, and winter and summer recreation, as well as home recreation. It also provides private label items, such as shoes, apparel, camping equipment, fishing supplies, and snow sport equipment. The company sells private label merchandise under its trademarks comprising Golden Bear, Harsh, Pacifica, and Rugged Exposure. It also operates an e-commerce platform under the Big 5 Sporting Goods name. The company was founded in 1955 and is headquartered in El Segundo, California.
+fullTimeEmployees§2500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven G. Miller', 'age': 71, 'title': 'Chairman, President & CEO', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 954001, 'exercisedValue': 0, 'unexercisedValue': 109657}, {'maxAge': 1, 'name': 'Mr. Barry D. Emerson', 'age': 65, 'title': 'Executive VP, CFO, Treasurer & Assistant Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 676662, 'exercisedValue': 0, 'unexercisedValue': 52785}, {'maxAge': 1, 'name': 'Ian R. Landgreen', 'age': 46, 'title': 'Senior VP of Business Affairs, General Counsel & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 463739, 'exercisedValue': 0, 'unexercisedValue': 38558}, {'maxAge': 1, 'name': 'Mr. Jeffrey L. Fraley', 'age': 66, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 384732, 'exercisedValue': 95293, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Boyd O. Clark', 'age': 65, 'title': 'Executive VP & Chief Merchandising Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 633431, 'exercisedValue': 0, 'unexercisedValue': 52785}, {'maxAge': 1, 'name': 'Mr. Shane O. Starr', 'age': 65, 'title': 'Senior Vice President of Operations', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Shinagawa', 'title': 'Senior VP of Information Technology & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Peter C. Mulvaney', 'title': 'Senior Vice President of Advertising & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth F. Chambers', 'age': 69, 'title': 'Acting Controller', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John L. Lucero', 'title': 'Senior Vice President, Controller & Assistant Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.087
+exDividendDate§1701302400
+payoutRatio§6.25
+fiveYearAvgDividendYield§8.33
+beta§2.511
+priceToSalesTrailing12Months§0.13950445
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.07
+pegRatio§4.4
+exchange§NMS
+quoteType§EQUITY
+shortName§Big 5 Sporting Goods Corporatio
+longName§Big 5 Sporting Goods Corporation
+firstTradeDateEpochUtc§1025011800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§16d46e77-33b1-36b2-8007-bbee56faba81
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.5
+targetLowPrice§5.5
+targetMeanPrice§5.5
+targetMedianPrice§5.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.134
+earningsGrowth§-0.724
+grossMargins§0.33035
+ebitdaMargins§0.02286
+trailingPegRatio§None

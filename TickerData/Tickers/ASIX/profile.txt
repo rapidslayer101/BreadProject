@@ -1,0 +1,61 @@
+# reload+after+2024-01-20 01:26:47.091603
+address1§300 Kimball Drive
+address2§Suite 101
+city§Parsippany
+state§NJ
+zip§07054
+country§United States
+phone§973 526 1800
+fax§973 581 1890
+website§https://www.advansix.com
+industry§Chemicals
+industryKey§chemicals
+industryDisp§Chemicals
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§AdvanSix Inc. manufactures and sells polymer resins in the United States and internationally. It offers Nylon 6, a polymer resin, which is a synthetic material used to produce fibers, filaments, engineered plastics, and films. The company also provides caprolactam to manufacture polymer resins; ammonium sulfate fertilizers to distributors, farm cooperatives, and retailers; and acetone that are used in the production of adhesives, paints, coatings, solvents, herbicides, and engineered plastic resins, as well as other intermediate chemicals, including phenol, monoisopropylamine, dipropylamine, monoallylamine, alpha-methylstyrene, cyclohexanone, methyl ethyl ketoxime, acetaldehyde oxime, 2-pentanone oxime, cyclohexanol, sulfuric acid, ammonia, and carbon dioxide. It offers its products under the Aegis, Capran, Sulf-N, Nadone, Naxol, and EZ-Blox brands. The company sells its products directly, as well as through distributors. AdvanSix Inc. was incorporated in 2016 and is headquartered in Parsippany, New Jersey.
+fullTimeEmployees§1458
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Erin N. Kane', 'age': 46, 'title': 'CEO, President & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 2026438, 'exercisedValue': 0, 'unexercisedValue': 2415784}, {'maxAge': 1, 'name': 'Mr. Michael  Preston', 'age': 51, 'title': 'CFO & Senior VP', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 857247, 'exercisedValue': 0, 'unexercisedValue': 724323}, {'maxAge': 1, 'name': 'Mr. Achilles B. Kintiroglou', 'age': 44, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 695618, 'exercisedValue': 0, 'unexercisedValue': 384795}, {'maxAge': 1, 'name': 'Ms. Kelly J. Slieter', 'age': 48, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 605656, 'exercisedValue': 0, 'unexercisedValue': 23787}, {'maxAge': 1, 'name': 'Mr. Christopher  Gramm', 'age': 53, 'title': 'VP & Controller', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 453999, 'exercisedValue': 166272, 'unexercisedValue': 267093}, {'maxAge': 1, 'name': 'Ms. Jacqueline  Grunwald', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Adam  Kressel', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0227
+exDividendDate§1699833600
+payoutRatio§0.18030001
+beta§1.796
+priceToSalesTrailing12Months§0.4895307
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.74
+pegRatio§1.32
+lastDividendValue§0.16
+lastDividendDate§1699833600
+exchange§NYQ
+quoteType§EQUITY
+shortName§AdvanSix Inc.
+longName§AdvanSix Inc.
+firstTradeDateEpochUtc§1473946200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§77cd04d7-a843-39c1-80d5-7a64f563469c
+messageBoardId§finmb_337702440
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§36.0
+targetMeanPrice§40.67
+targetMedianPrice§38.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.546
+grossMargins§0.13859001
+ebitdaMargins§0.12476
+trailingPegRatio§None

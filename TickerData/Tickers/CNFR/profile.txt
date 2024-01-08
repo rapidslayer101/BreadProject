@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 12:44:08.379849
+address1§3001 West Big Beaver Road
+address2§Suite 200
+city§Troy
+state§MI
+zip§48084
+country§United States
+phone§248 559 0840
+website§https://www.cnfrh.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Conifer Holdings, Inc., an insurance holding company, engages in the sale of property and casualty insurance products. It offers insurance coverage in specialty commercial and personal product lines. The company underwrites various specialty insurance products, including property, general liability, liquor liability, automobile, and homeowners and dwelling policies. It serves the commercial insurance needs of owner-operated businesses in the markets, such as hospitality, which includes restaurants, bars, taverns, and bowling centers, as well as small grocery and convenience stores; artisan contractors comprising plumbers, painters, carpenters, electricians, and other independent contractors; and security service providers, including companies that provide security guard services, security alarm products and services, and private investigative services. The company also offers specialty homeowners insurance products, such as low- value dwelling insurance tailored for owners of lower valued homes in Illinois, Indiana, Louisiana, and Texas; and wholesale agency services comprising commercial and personal lines insurance products for its insurance company subsidiaries, as well as third party insurers. Conifer Holdings, Inc. markets and sells its insurance products through a network of approximately 4,900 independent agents in 50 states in the United States. The company was incorporated in 2009 and is headquartered in Troy, Michigan.
+fullTimeEmployees§109
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nicholas James Petcoff', 'age': 42, 'title': 'Executive VP, CEO, Secretary & Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 437200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Joseph Roney B.A., B.S., M.B.A.', 'age': 58, 'title': 'President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 437200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James George Petcoff', 'age': 67, 'title': 'Executive Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 612200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harold James Meloche', 'age': 61, 'title': 'Treasurer & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Gulis', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Joseph Fiato', 'title': 'Corporate Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.759
+priceToSalesTrailing12Months§0.16016595
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.07
+pegRatio§-0.11
+exchange§NGM
+quoteType§EQUITY
+shortName§Conifer Holdings, Inc.
+longName§Conifer Holdings, Inc.
+firstTradeDateEpochUtc§1439472600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d2f8c0f2-aeab-3a89-9a8d-94c3a5e40ffb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§0.61
+targetLowPrice§0.61
+targetMeanPrice§0.61
+targetMedianPrice§0.61
+recommendationMean§4.0
+recommendationKey§underperform
+numberOfAnalystOpinions§1
+quickRatio§0.326
+grossMargins§0.0648
+ebitdaMargins§-0.11896
+trailingPegRatio§None

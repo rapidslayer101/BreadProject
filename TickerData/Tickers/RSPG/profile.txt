@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 10:32:53.221582
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of all of the components of the S&P 500® Energy Index, an index that contains the common stocks of all companies included in the S&P 500® Index that are classified as members of the energy sector, as defined according to the Global Industry Classification Standard ("GICS").
+maxAge§86400
+priceHint§2
+yield§0.028399998
+totalAssets§565210816
+navPrice§73.99
+currency§USD
+category§Equity Energy
+ytdReturn§0.0032556
+beta3Year§0.74
+fundFamily§Invesco
+fundInceptionDate§1162339200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.3517085
+fiveYearAverageReturn§0.13592081
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Equal Weight En
+longName§Invesco S&P 500 Equal Weight Energy ETF
+firstTradeDateEpochUtc§1162909800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a8967d14-440b-37b0-8daa-b53bfab9de8e
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 01:32:53.610660
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of all of the components of the S&P 500® Utilities Plus Index, an index that contains the common stocks of all companies included in the S&P 500® Index that are classified as members of the utilities sector, as defined according to the Global Industry Classification Standard ("GICS").
+maxAge§86400
+priceHint§2
+yield§0.0292
+totalAssets§269949504
+navPrice§55.47
+currency§USD
+category§Utilities
+ytdReturn§0.0164025
+beta3Year§0.79
+fundFamily§Invesco
+fundInceptionDate§1162339200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0707108
+fiveYearAverageReturn§0.0756208
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Equal Weight Ut
+longName§Invesco S&P 500 Equal Weight Utilities ETF
+firstTradeDateEpochUtc§1162909800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97ea13ba-59fc-3df5-ab4e-a11ec0dd1268
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

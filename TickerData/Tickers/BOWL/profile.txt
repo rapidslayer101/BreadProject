@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 20:27:30.718545
+address1§7313 Bell Creek Road
+city§Mechanicsville
+state§VA
+zip§23111
+country§United States
+phone§804 417 2000
+website§https://www.bowlerocorp.com
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§Bowlero Corp. operates bowling entertainment centers under the AMF, Bowlmor Lanes, and Bowlero brand names. The company also provides hosting and overseeing professional and non-professional bowling tournaments and related broadcasting. It operates bowling centers in the United States, Mexico, and Canada. The company is headquartered in Mechanicsville, Virginia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas F. Shannon', 'age': 58, 'title': 'Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 3162986, 'exercisedValue': 0, 'unexercisedValue': 73819520}, {'maxAge': 1, 'name': 'Mr. Brett I. Parker', 'age': 45, 'title': 'Executive Vice Chairman & Secretary', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 2560397, 'exercisedValue': 0, 'unexercisedValue': 15689906}, {'maxAge': 1, 'name': 'Mr. Robert  Lavan', 'age': 42, 'title': 'CFO, Treasurer & Principal Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 159673, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.446
+priceToSalesTrailing12Months§1.9886428
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.52
+exchange§NYQ
+quoteType§EQUITY
+shortName§Bowlero Corp.
+longName§Bowlero Corp.
+firstTradeDateEpochUtc§1619184600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§86ddaae5-10cb-3dda-9034-217ea05814ad
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§14.0
+targetMeanPrice§18.25
+targetMedianPrice§17.25
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.228
+grossMargins§0.31143
+ebitdaMargins§0.27025
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 17:44:03.314564
+address1§Building 4
+address2§Suite 1200, 12th Floor 2445 Technology Forest Boulevard
+city§The Woodlands
+state§TX
+zip§77381
+country§United States
+phone§281 403 5772
+website§https://www.championx.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§ChampionX Corporation provides chemistry solutions, and engineered equipment and technologies to oil and gas companies worldwide. The company operates through four segments: Production Chemical Technologies, Production & Automation Technologies, Drilling Technologies, and Reservoir Chemical Technologies. The Production Chemical Technologies segment offers onshore and offshore chemical solutions, such as corrosion inhibitors, scale inhibitors, emulsion breakers, and biocides to oil and natural gas production and midstream markets to manage and control corrosion, oil and water separation, flow assurance, sour gas treatment, and water-related issues. The Production & Automation Technologies segment provides artificial lift equipment, end-to-end automation and digital solutions, and other production equipment, including electrical submersible pumping systems, gas lift systems, jet pumps, multiplex surface pumps, plunger lift equipment, progressive cavity pumping systems, downhole rod lift systems, emissions monitoring solutions, chemical injection systems, flow control valves, and gauges under the Harbison-Fischer, Norris, Alberta Oil Tool, Oil Lift Technology, PCS Ferguson, Pro-Rod, Upco, Unbridled ESP, Norriseal-Wellmark, Quartzdyne, Spirit, Theta, Timberline, and Windrock brands. The Drilling Technologies segment offers polycrystalline diamond cutter inserts, bearings, valves, and mining tools under the US Synthetic brand for use in oil and gas drill bits, renewable energy applications, mixers, and agitators; and high-density ceramic roof bolt mining tools for underground mining operations. The Reservoir Chemical Technologies segment provides chemistry-oriented solutions and technologies for well drilling, cementing, fracturing, acidizing, and other well interventions, as well as fracturing fluid packages, drilling and cement additives, and products for acidizing activities. The company was founded in 1882 and is headquartered in The Woodlands, Texas.
+fullTimeEmployees§7300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sivasankaran  Somasundaram', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1975747, 'exercisedValue': 516060, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth M. Fisher', 'age': 61, 'title': 'Executive VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1228865, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deric D. Bryant', 'age': 50, 'title': 'COO & President of Chemical Technologies', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1209232, 'exercisedValue': 1267894, 'unexercisedValue': 18259152}, {'maxAge': 1, 'name': 'Ms. Julia  Wright', 'age': 47, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 836493, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul E. Mahoney', 'age': 59, 'title': 'President of Production & Automation Technologies', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 959847, 'exercisedValue': 0, 'unexercisedValue': 104706}, {'maxAge': 1, 'name': 'Mr. Antoine  Marcos', 'age': 53, 'title': 'VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Eley', 'title': 'Senior VP of Marketing & Technology, Chemical Technologies and Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alina  Parast', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Byron Keith Pope C.F.A.', 'title': 'Vice President of ESG & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Zweig', 'age': 53, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.34
+dividendYield§0.012200001
+exDividendDate§1704326400
+payoutRatio§0.2185
+beta§2.478
+priceToSalesTrailing12Months§1.4295094
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.06
+pegRatio§0.63
+exchange§NMS
+quoteType§EQUITY
+shortName§ChampionX Corporation
+longName§ChampionX Corporation
+firstTradeDateEpochUtc§1524835800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bbaed2e7-9586-3be5-aba8-4a55266a84e9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§32.0
+targetMeanPrice§38.05
+targetMedianPrice§39.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.014
+earningsGrowth§2.545
+grossMargins§0.29531
+ebitdaMargins§0.19421
+trailingPegRatio§0.5546

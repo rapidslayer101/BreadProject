@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 04:29:00.801326
+address1§301 Merritt Seven
+city§Norwalk
+state§CT
+zip§06851-1092
+country§United States
+phone§203 849 7800
+website§https://www.emcorgroup.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§EMCOR Group, Inc. provides electrical and mechanical construction, and facilities services primarily in the United States and the United Kingdom. It offers design, integration, installation, start-up, operation, and maintenance services related to electrical power transmission, distribution, and generation systems; energy solutions; premises electrical and lighting systems; process instrumentation in the refining, chemical processing, and food processing industries; low-voltage systems, such as fire alarm, security, and process control systems; voice and data communications systems; roadway and transit lighting, signaling, and fiber optic lines; heating, ventilation, air conditioning, refrigeration, and geothermal solutions; clean-room process ventilation systems; fire protection and suppression systems; plumbing, process, and high-purity piping systems; controls and filtration systems; water and wastewater treatment systems; central plant heating and cooling systems; crane and rigging services; millwright services; and steel fabrication, erection, and welding services. The company also provides building services that cover commercial and government site-based operations and maintenance; facility management, maintenance, and services; outage services to utilities and industrial plants; military base operations support services; mobile mechanical maintenance and services; services for indoor air quality; floor care and janitorial services; landscaping, lot sweeping, and snow removal services; vendor management and call center services; installation and support for building systems; program development, management, and maintenance for energy systems; technical consulting and diagnostic services; infrastructure and building projects; small modification and retrofit projects; and other building services. It offers industrial services to oil, gas, and petrochemical industries. The company was incorporated in 1987 and is headquartered in Norwalk, Connecticut.
+fullTimeEmployees§35500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony J. Guzzi', 'age': 59, 'title': 'Chairman, President & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 8776762, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Pompa', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4161243, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maxine Lum Mauricio Esq.', 'age': 51, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2595644, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Kevin Matz', 'age': 64, 'title': 'Executive Vice President of Shared Services', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 3016470, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason R. Nalbandian', 'title': 'Senior VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew G. Backman', 'age': 55, 'title': 'Vice President of Investor Relations', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven H. Fried', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan N. Masters Esq.', 'title': 'VP of Human Resources & Assistant General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Laura M. D'Entrone", 'title': 'VP & Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Bordes', 'title': 'CEO & President of EMCOR Building Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0034
+exDividendDate§1705017600
+payoutRatio§0.057600003
+fiveYearAvgDividendYield§0.4
+beta§1.02
+priceToSalesTrailing12Months§0.8264443
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.13
+pegRatio§17.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§EMCOR Group, Inc.
+longName§EMCOR Group, Inc.
+firstTradeDateEpochUtc§789748200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7c5f364d-f8d7-3838-95f1-35c7f801e5c6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§250.0
+targetLowPrice§250.0
+targetMeanPrice§250.0
+targetMedianPrice§250.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.209
+earningsGrowth§0.653
+grossMargins§0.15929
+ebitdaMargins§0.07293
+trailingPegRatio§None

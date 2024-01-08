@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 11:30:59.459366
+address1§875 Third Avenue
+city§New York
+state§NY
+zip§10022
+country§United States
+phone§212 454 4500
+website§https://fundsus.deutscheam.com/EN/products/deutsche-municipal-income-trust.jsp?core-key=309
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Deutsche Municipal Income Trust is a closed-ended fixed income mutual fund launched and managed by Deutsche Investment Management Americas, Inc. It invests in the fixed income markets of the United States. The fund primarily invests in investment-grade tax-exempt municipal securities which are exempt from federal income tax. It seeks to invest in securities that are rated Baa or BBB or better by Moody's or S&P. The fund benchmarks the performance of its portfolio against the Barclays Municipal Bond Index. It was formerly known as DWS Municipal Income Trust. Deutsche Municipal Income Trust was formed on October 20, 1988 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'George  Catrambone', 'title': 'Director of Investment Adviser', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Generazo', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca L. Flinn', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.31
+dividendYield§0.035
+exDividendDate§1702598400
+payoutRatio§0.9164
+fiveYearAvgDividendYield§4.48
+beta§0.45
+priceToSalesTrailing12Months§13.134569
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§DWS Municipal Income Trust
+longName§DWS Municipal Income Trust
+firstTradeDateEpochUtc§593703000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f5278525-ea62-3d3c-b8ca-60f4c75e63f2
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.18
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

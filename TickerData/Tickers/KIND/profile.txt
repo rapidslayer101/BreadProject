@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 07:30:55.305010
+address1§420 Taylor Street
+city§San Francisco
+state§CA
+zip§94102
+country§United States
+phone§415 344 0333
+website§https://nextdoor.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§Nextdoor Holdings, Inc. operates a neighborhood network that connects neighbors, businesses, and public services in the United States and internationally. It enables small and mid-sized businesses, large brands, public agencies, and nonprofits to receive information, give and get help, and build connections with neighborhood stakeholders. The company is headquartered in San Francisco, California.
+fullTimeEmployees§704
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Sarah J. Friar', 'age': 50, 'title': 'CEO, President & Chairperson of the Board', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 466924, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Orta', 'age': 55, 'title': 'Head of Legal & Corporate & Business Development and Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 445008, 'exercisedValue': 464523, 'unexercisedValue': 151034}, {'maxAge': 1, 'name': 'Ms. Heidi  Andersen', 'age': 44, 'title': 'Head of Revenue & Marketing', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 745008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Anderson', 'title': 'CFO & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan  Power', 'title': 'Head of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Lisowski', 'title': 'Head of Data, Information Systems & Trust', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antonio  Silveira', 'title': 'Head of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennie  Sager', 'title': 'Global Head of Brand & Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Srikiran  Prasad', 'title': 'Head of Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose  Gaztelu', 'title': 'Head of Global Market Operations & Corporate Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.772
+priceToSalesTrailing12Months§3.0307915
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nextdoor Holdings, Inc.
+longName§Nextdoor Holdings, Inc.
+firstTradeDateEpochUtc§1636381800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bdfba937-2b6e-39a5-89ed-072aa9965043
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.5
+targetLowPrice§1.75
+targetMeanPrice§2.63
+targetMedianPrice§2.6
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§16.446
+grossMargins§0.81052
+ebitdaMargins§-0.71807
+trailingPegRatio§None

@@ -1,0 +1,37 @@
+# reload+after+2024-01-23 04:30:44.576289
+address1§333 West Wacker Drive
+city§Chicago
+state§IL
+zip§60606-1220
+country§United States
+phone§312 917 7700
+website§https://www.nuveen.com/CEF/Product/Overview.aspx?fundcode=JMM
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Nuveen Multi-Market Income Fund is a closed-ended fixed income mutual fund launched by Nuveen Investments, Inc. The fund is co-managed by Nuveen Fund Advisors LLC and Nuveen Asset Management, LLC. It invests in the fixed income markets of the United States. The fund seeks to invest in securities of companies operating across diversified sectors. It primarily invests in investment grade debt securities such as U.S. agency and privately issued mortgage-backed securities, corporate debt securities, and asset-backed securities. The fund was formerly known as American Income Fund, Inc. Nuveen Multi-Market Income Fund was formed on December 30, 1988 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John T. Fruit C.F.A., CFA', 'title': 'Senior Vice President, Head of High-Yield Credit Sector Team and Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Jason J. O'Brien C.F.A., CFA", 'title': 'Senior Vice President, Head of the Securitized Debt Sector Team and Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter L. Agrimson C.F.A., CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.33
+dividendYield§0.0561
+exDividendDate§1704931200
+payoutRatio§2.0147
+fiveYearAvgDividendYield§5.22
+beta§0.469
+priceToSalesTrailing12Months§15.785676
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nuveen Multi-Market Income Fund
+longName§Nuveen Multi-Market Income Fund
+firstTradeDateEpochUtc§599322600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§996f3972-b79b-309f-a709-a23121c68606
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.035
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 19:39:14.014900
+address1§No. 13-01 Springleaf Tower
+address2§3 Anson Road
+city§Singapore
+zip§079909
+country§Singapore
+phone§65 6324 0359
+website§https://www.jadestone-energy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Jadestone Energy plc operates as an independent oil and gas development and production company in the Asia Pacific region. The company holds 100% operated working interests in the Stag oilfield and Montara project located in offshore Western Australia; and Block 46/07 and Block 51 PSCs development blocks in the Malay Basin, offshore southwest Vietnam. It also holds a 90% interest in the Lemang production sharing contract (PSC) located in onshore Sumatra, Indonesia. In addition, the company holds interests in PenMal Assets, including a 70% interest in the PM329 PSC that comprises the East Piatu field; and a 60% interest in the PM323 PSC, which consists of the East Belumut, West Belumut, and Chermingat fields. Jadestone Energy plc was founded in 1988 and is headquartered in Singapore.
+fullTimeEmployees§369
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander Paul  Blakeley', 'age': 69, 'title': 'President, CEO & Executive Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 971393, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bert-Jaap  Dijkstra', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 602773, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Craig', 'title': 'Group Operations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Goulding', 'title': 'Vice President of Technical', 'fiscalYear': 2022, 'totalPay': 371096, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Corbett', 'title': 'Investor Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Prendergast', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Horn', 'title': 'Executive VP of Corporate Business & Development', 'fiscalYear': 2022, 'totalPay': 733886, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucy  Dean', 'title': 'Group HR Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Derren  Parsons', 'title': 'Group Finance Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1664409600
+payoutRatio§0.9739
+beta§1.49
+priceToSalesTrailing12Months§0.6983852
+currency§GBp
+forwardEps§0.07
+exchange§LSE
+quoteType§EQUITY
+shortName§JADESTONE ENERGY PLC ORD GBP0.0
+longName§Jadestone Energy plc
+firstTradeDateEpochUtc§1533711600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§689e914d-3a8a-393a-832a-1f7d339b25a6
+targetHighPrice§0.9
+targetLowPrice§0.55
+targetMeanPrice§0.75
+targetMedianPrice§0.77
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§1.259
+grossMargins§0.15657
+ebitdaMargins§-0.03773
+trailingPegRatio§None

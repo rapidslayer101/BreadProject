@@ -1,0 +1,31 @@
+# reload+after+2024-01-20 04:40:17.549647
+address1§71-75 Shelton Street
+address2§Covent Garden
+city§London
+zip§WC2H 9JQ
+country§United Kingdom
+website§https://ross-group.co.uk
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§Ross Group Plc, through its subsidiaries, provides supply chain management services. The company was incorporated in 1913 and is based in London, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Barry Richard Pettitt', 'age': 65, 'title': 'Chairman, CEO & Group MD', 'yearBorn': 1958, 'fiscalYear': 2021, 'totalPay': 1, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shashi C. Mehta B.Sc.', 'age': 66, 'title': 'Executive Director', 'yearBorn': 1957, 'fiscalYear': 2021, 'totalPay': 1, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Michael Fisher', 'age': 70, 'title': 'Executive Director', 'yearBorn': 1953, 'fiscalYear': 2021, 'totalPay': 1, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§4
+exDividendDate§773280000
+payoutRatio§0.0
+beta§0.476
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§ROSS GROUP PLC ORD 0.1P
+longName§Ross Group Plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1da442af-8a09-3aee-a476-551665d6e3a4
+recommendationKey§none
+quickRatio§0.014
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

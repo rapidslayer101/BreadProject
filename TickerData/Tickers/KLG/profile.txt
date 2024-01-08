@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 11:30:55.798035
+address1§One Kellogg Square
+city§Battle Creek
+state§MI
+zip§49016-3599
+country§United States
+phone§269 961 2800
+website§https://www.unleashingourpotential.com/en/wk-kellogg-co
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§WK Kellogg Co operates as a food company in the United States, Canada, and the Caribbean. It offers ready-to-eat cereal products primarily under the Frosted Flakes, Special K, Froot Loops, Raisin Bran, Frosted Mini-Wheats, and Kashi brands. The company was formerly known as North America Cereal Co. and changed its name to WK Kellogg Co in March 2023. The company was incorporated in 2022 and is based in Battle Creek, Michigan.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary H. Pilnick', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2122468, 'exercisedValue': 1714453, 'unexercisedValue': 1869685}, {'maxAge': 1, 'name': 'Mr. David  McKinstray', 'age': 38, 'title': 'Chief Financial Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 712458, 'exercisedValue': 94987, 'unexercisedValue': 57760}, {'maxAge': 1, 'name': 'Mr. Bruce  Brown', 'age': 59, 'title': 'Chief Customer Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 805989, 'exercisedValue': 118782, 'unexercisedValue': 74931}, {'maxAge': 1, 'name': 'Mr. Doug  Vandevelde', 'age': 57, 'title': 'Chief Growth Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1064029, 'exercisedValue': 357533, 'unexercisedValue': 159056}, {'maxAge': 1, 'name': 'Ms. Sherry  Brice-Williamson', 'age': 47, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 604338, 'exercisedValue': 84338, 'unexercisedValue': 13699}, {'maxAge': 1, 'name': 'Ms. Lisa  Walter', 'age': 50, 'title': 'Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bill  Rex', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Norma  Barnes-Euresti', 'age': 55, 'title': 'Chief Legal Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Christensen', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon  Bible', 'title': 'Chief Transformation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0478
+exDividendDate§1701302400
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.41111624
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.51
+exchange§NYQ
+quoteType§EQUITY
+shortName§WK Kellogg Co
+longName§WK Kellogg Co
+firstTradeDateEpochUtc§1696253400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ef127d03-80cd-3daa-8019-b2f25fd51b2e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.5
+targetLowPrice§11.0
+targetMeanPrice§12.27
+targetMedianPrice§11.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§0.422
+earningsGrowth§0.826
+grossMargins§0.26604998
+ebitdaMargins§0.02582
+trailingPegRatio§None

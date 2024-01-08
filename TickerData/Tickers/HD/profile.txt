@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 04:30:07.400956
+address1§2455 Paces Ferry Road
+city§Atlanta
+state§GA
+zip§30339
+country§United States
+phone§770 433 8211
+website§https://www.homedepot.com
+industry§Home Improvement Retail
+sector§Consumer Cyclical
+longBusinessSummary§The Home Depot, Inc. operates as a home improvement retailer. It sells various building materials, home improvement products, lawn and garden products, and décor products, as well as facilities maintenance, repair, and operations products. The company also offers installation services for flooring, water heaters, bath, garage doors, cabinets, cabinet makeovers, countertops, sheds, furnaces and central air systems, and windows. In addition, it provides tool and equipment rental services. The company primarily serves homeowners; and professional renovators/remodelers, general contractors, maintenance professionals, handymen, property managers, and building service contractors, as well as specialty tradesmen, such as electricians, plumbers, and painters. It also sells its products through websites, including homedepot.com; homedepot.ca and homedepot.com.mx; blinds.com, an online site for custom window coverings; and thecompanystore.com, an online site for textiles and décor products, as well as through The Home Depot stores. The Home Depot, Inc. was incorporated in 1978 and is based in Atlanta, Georgia.
+fullTimeEmployees§470000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward P. Decker', 'age': 60, 'title': 'Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4316043, 'exercisedValue': 10184488, 'unexercisedValue': 19560360}, {'maxAge': 1, 'name': 'Mr. Richard V. McPhail', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1834528, 'exercisedValue': 0, 'unexercisedValue': 6538627}, {'maxAge': 1, 'name': 'Mr. Matthew A. Carey', 'age': 58, 'title': 'Executive Vice President of Customer Experience', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1809547, 'exercisedValue': 0, 'unexercisedValue': 6308432}, {'maxAge': 1, 'name': 'Ms. Ann-Marie  Campbell', 'age': 57, 'title': 'Senior Executive Vice President', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1872465, 'exercisedValue': 1796322, 'unexercisedValue': 7742751}, {'maxAge': 1, 'name': 'Ms. Angie  Brown', 'title': 'Senior Vice President of Technology', 'fiscalYear': 2022, 'totalPay': 85000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Haydn  Chilcott', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly R. Scardino', 'age': 52, 'title': 'SVP of Finance, Chief Accounting Officer & Controller', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fahim  Siddiqui', 'age': 57, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabel  Janci', 'title': 'VP of Investor Relations & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa Wynn Roseborough', 'age': 64, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§8.36
+dividendYield§0.024400001
+exDividendDate§1701216000
+payoutRatio§0.5237
+fiveYearAvgDividendYield§2.29
+beta§0.977
+priceToSalesTrailing12Months§2.220456
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.62
+pegRatio§12.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§Home Depot, Inc. (The)
+longName§The Home Depot, Inc.
+firstTradeDateEpochUtc§370013400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§27178471-f2c4-319c-872d-1545a0f154c7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§395.0
+targetLowPrice§245.0
+targetMeanPrice§337.03
+targetMedianPrice§338.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§33
+quickRatio§0.254
+earningsGrowth§-0.101
+grossMargins§0.33424
+ebitdaMargins§0.16570999
+trailingPegRatio§2.1013

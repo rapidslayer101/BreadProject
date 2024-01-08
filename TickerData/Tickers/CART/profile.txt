@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 16:43:54.458754
+address1§50 Beale St
+address2§Suite 600
+city§San Francisco
+state§CA
+zip§94105
+country§United States
+phone§888-246-7822
+website§https://www.instacart.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Maplebear Inc., doing business as Instacart, provides online grocery shopping services to households in North America. It sells and delivers a range of products, such as food, alcohol, consumer health, pet care, ready-made meals, and others. The company offers its services through a mobile application and website. It also provides software-as-a-service solutions to retailers. The company was incorporated in 2012 and is based in San Francisco, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Fidji  Simo', 'age': 37, 'title': 'CEO & Chair', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 1512565, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Giovanni', 'age': 47, 'title': 'CFO & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 812565, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Asha  Sharma', 'age': 34, 'title': 'Chief Operating Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 812565, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Morgan William Fong', 'age': 47, 'title': 'General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 872565, 'exercisedValue': 0, 'unexercisedValue': 6225053}, {'maxAge': 1, 'name': 'Mr. Mike  Dee', 'title': 'Co-founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Ramsay', 'age': 53, 'title': 'Chief Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Varouj  Chitilian', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rebecca  Yoshiyama', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Jones', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christina  Hall', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§2.097879
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.34
+exchange§NMS
+quoteType§EQUITY
+shortName§Maplebear Inc.
+longName§Maplebear Inc.
+firstTradeDateEpochUtc§1695130200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0ea7f052-4356-3a13-b5ca-a0bed0994b1e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§26.0
+targetMeanPrice§35.15
+targetMedianPrice§35.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§4.256
+grossMargins§0.75
+ebitdaMargins§-0.68558
+trailingPegRatio§20.7878

@@ -1,0 +1,28 @@
+# reload+after+2024-01-20 12:43:15.587942
+address1§10 East 53rd Street
+address2§Suite 3001
+city§New York
+state§NY
+zip§10022
+country§United States
+industry§Shell Companies
+sector§Financial Services
+longBusinessSummary§AI Transportation Acquisition Corp focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses or entities. It intends to focus on businesses in the transportation field, including logistics, new energy vehicles, smart parking, on-board chips and AI algorithms, automotive services, and related areas of intelligent transportation. The company was incorporated in 2022 and is based in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yongjin  Chen', 'age': 44, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yun  Wu', 'age': 40, 'title': 'CFO & Executive Director', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§AI TRANSPORTATION ACQUISITION C
+longName§AI Transportation Acquisition Corp
+firstTradeDateEpochUtc§1699540200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ab38b816-6b63-3688-bef5-27d0ea312e8f
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,60 @@
+# reload+after+2024-01-20 01:26:22.274323
+address1§Vertigo Naos Building
+address2§6, Rue EugEne Ruppert
+city§Luxembourg City
+zip§2453
+country§Luxembourg
+phone§352 2644 9372
+website§https://www.adecoagro.com
+industry§Farm Products
+industryKey§farm-products
+industryDisp§Farm Products
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Adecoagro S.A. operates as an agro-industrial company in South America. The company mainly operates through three segments: Farming; Sugar, Ethanol and Energy; and Land Transformation. It engages in farming crops, rice and other agricultural products, dairy operations, and land transformation activities, as well as sugar, ethanol, and energy production activities. The company is involved in the planting, harvesting, and sale of grains, oilseeds, and fibers, including wheat, corn, soybeans, peanuts, cotton, sunflowers, and others; provision of grain warehousing/conditioning, handling, and drying services to third parties; and purchase and sale of crops produced by third parties. It also plants, harvests, processes, and markets rice; and produces and sells raw milk, UHT, cheese, and powder milk. In addition, the company engages in the cultivating and transforming of sugarcane into ethanol, sugar, and electricity. Further, it is involved in the identification and acquisition of underdeveloped and undermanaged farmland, and the realization of value through the strategic disposition of assets. Adecoagro S.A. was founded in 2002 and is based in Luxembourg, Luxembourg.
+fullTimeEmployees§8896
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mariano  Bosch', 'age': 53, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ezequiel  Garbers', 'age': 57, 'title': 'Co-Founder and Country Manager of Argentina & Uruguay', 'yearBorn': 1966, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Emilio Federico Gnecco', 'age': 47, 'title': 'CFO & Chief Legal Officer', 'yearBorn': 1976, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Victoria  Cabello', 'title': 'Investor Relations Officer', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alejandro López Moriena', 'title': 'Chief Sustainability Officer', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Renato Junqueira-Santos Pereira', 'age': 46, 'title': 'Vice President of Sugar, Ethanol & Energy Business', 'yearBorn': 1977, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1356912000
+maxAge§86400
+priceHint§2
+dividendRate§0.33
+dividendYield§0.030299999
+exDividendDate§1699401600
+payoutRatio§0.2361
+beta§1.116
+priceToSalesTrailing12Months§0.8180476
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.58
+pegRatio§-13.65
+lastDividendValue§0.165
+lastDividendDate§1699401600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Adecoagro S.A.
+longName§Adecoagro S.A.
+firstTradeDateEpochUtc§1296225000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c513faea-7b7a-3d4f-8162-ced97e32f2e0
+messageBoardId§finmb_118300828
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§9.75
+targetMeanPrice§12.96
+targetMedianPrice§13.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.828
+earningsGrowth§2.439
+grossMargins§0.32758
+ebitdaMargins§0.30857
+trailingPegRatio§None

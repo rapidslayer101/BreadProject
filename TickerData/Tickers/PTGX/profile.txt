@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 12:46:46.747828
+address1§7707 Gateway Boulevard
+address2§Suite 140
+city§Newark
+state§CA
+zip§94560-1160
+country§United States
+phone§510 474 0170
+website§https://www.protagonist-inc.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Protagonist Therapeutics, Inc., a biopharmaceutical company, develops peptide-based drugs for hematology and blood disorders, and inflammatory and immunomodulatory diseases. It is developing Rusfertide (PTG-300), an injectable hepcidin mimetic that is in Phase II clinical trials for the treatment of erythrocytosis, iron overload, and other blood disorders; and JNJ-2113, an orally delivered investigational drug to block biological pathways that is in Phase II clinical trials for the treatment of moderate-to-severe plaque psoriasis; and PN-943, an orally delivered, gut-restricted alpha 4 beta 7 specific integrin antagonist, which is in Phase II clinical trials for inflammatory bowel disease. The company has a license and collaboration agreement with Janssen Biotech, Inc. Protagonist Therapeutics, Inc. was incorporated in 2006 and is headquartered in Newark, California.
+fullTimeEmployees§111
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Dinesh V. Patel Ph.D.', 'age': 66, 'title': 'CEO, President, Secretary & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 883462, 'exercisedValue': 0, 'unexercisedValue': 1524887}, {'maxAge': 1, 'name': 'Dr. Suneel K. Gupta Ph.D.', 'age': 65, 'title': 'Chief Development Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 640894, 'exercisedValue': 0, 'unexercisedValue': 550887}, {'maxAge': 1, 'name': 'Dr. Mark  Smythe Ph.D.', 'age': 58, 'title': 'Founder & VP Technology', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Asif  Ali', 'age': 49, 'title': 'Executive VP & Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mohammad  Masjedizadeh Ph.D.', 'title': 'Executive VP & Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew M. Gosling', 'age': 52, 'title': 'Executive VP & General Counsel', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carena  Spivey', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ashok  Bhandari Ph.D.', 'age': 59, 'title': 'Executive VP & Chief Drug Discovery and Preclinical Development Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Scott Eric Plevy M.D.', 'title': 'Executive VP & Therapeutic Head of Gastroenterology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carter J. King', 'age': 52, 'title': 'Senior Vice President of Business Development', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.016
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.6
+exchange§NGM
+quoteType§EQUITY
+shortName§Protagonist Therapeutics, Inc.
+longName§Protagonist Therapeutics, Inc.
+firstTradeDateEpochUtc§1470922200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§db1f1c69-f5b8-3245-b848-39f5038697fa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.0
+targetLowPrice§37.0
+targetMeanPrice§41.4
+targetMedianPrice§41.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§11.512
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

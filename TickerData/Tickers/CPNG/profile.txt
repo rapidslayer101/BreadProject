@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 13:28:10.127487
+address1§720 Olive Way
+address2§Suite 600
+city§Seattle
+state§WA
+zip§98101
+country§United States
+phone§206 333 3839
+website§https://www.aboutcoupang.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Coupang, Inc., together with its subsidiaries owns and operates in e-commerce business through its mobile applications and Internet websites primarily in South Korea. The company operates through two segments, Product Commerce and Developing Offerings. It sells various products and services in the categories of home goods and décor products, apparel, beauty products, fresh food and groceries, sporting goods, electronics, and everyday consumables, as well as travel, and restaurant order and delivery services. The company also offers Rocket Fresh, which offers fresh groceries; Coupang Eats, a restaurant ordering and delivery services; and Coupang Play, an online content streaming services, as well as advertising products. It also performs operations and support services in the United States, Japan, Taiwan, Singapore, and China. Coupang, Inc. was incorporated in 2010 and is headquartered in Seattle, Washington.
+fullTimeEmployees§63000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bom Suk  Kim', 'age': 44, 'title': 'Founder, CEO & Chairman', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1931296, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gaurav  Anand', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1437081, 'exercisedValue': 0, 'unexercisedValue': 6868800}, {'maxAge': 1, 'name': 'Mr. Harold L.  Rogers', 'age': 46, 'title': 'General Counsel & Chief Administrative Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1131786, 'exercisedValue': 0, 'unexercisedValue': 7064255}, {'maxAge': 1, 'name': 'Mr. Jonathan  Lee', 'age': 45, 'title': 'Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Parker', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Wong', 'title': 'Head of Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily Tabak  Epstein', 'age': 45, 'title': 'Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.198
+priceToSalesTrailing12Months§1.2156084
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.42
+pegRatio§0.68
+exchange§NYQ
+quoteType§EQUITY
+shortName§Coupang, Inc.
+longName§Coupang, Inc.
+firstTradeDateEpochUtc§1615473000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§017fadff-92b8-3262-a448-dae34a4de0c0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§11.6
+targetMeanPrice§20.64
+targetMedianPrice§20.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.796
+earningsGrowth§0.0
+grossMargins§0.25004998
+ebitdaMargins§0.02938
+trailingPegRatio§None

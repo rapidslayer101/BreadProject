@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 21:45:50.878254
+address1§2603 Challenger Tech Court
+address2§Suite 100
+city§Orlando
+state§FL
+zip§32826
+country§United States
+phone§407 382 4003
+website§https://www.lightpath.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§LightPath Technologies, Inc. designs, develops, manufactures, and distributes optical components and assemblies. The company offers precision molded glass aspheric optics, molded and diamond-turned infrared aspheric lenses, and other optical components used to produce products that manipulate light; and infrared products, including catalog and custom infrared optics. Its products are used in defense products, medical devices, laser aided industrial tools, automotive safety applications, barcode scanners, optical data storage, hybrid fiber coax datacom, telecommunications, machine vision and sensors, and other sectors. The company sells its products directly to customers in Europe and Asia. LightPath Technologies, Inc. was founded in 1985 and is headquartered in Orlando, Florida.
+fullTimeEmployees§320
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shmuel  Rubin', 'age': 49, 'title': 'President, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 381957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Albert  Miranda', 'age': 56, 'title': 'CFO, Secretary & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 251195, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Greif', 'title': 'Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Palvino', 'title': 'Vice President of Global Sales & Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.425
+priceToSalesTrailing12Months§1.3715674
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.05
+exchange§NCM
+quoteType§EQUITY
+shortName§LightPath Technologies, Inc.
+longName§LightPath Technologies, Inc.
+firstTradeDateEpochUtc§824999400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§20e51fea-a5f2-3b09-91df-3383eb9f77a4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.099
+grossMargins§0.33208
+ebitdaMargins§-0.01169
+trailingPegRatio§None

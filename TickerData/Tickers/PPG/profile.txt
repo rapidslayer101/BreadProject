@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 03:32:23.215913
+address1§One PPG Place
+city§Pittsburgh
+state§PA
+zip§15272
+country§United States
+phone§412 434 3131
+website§https://www.ppg.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§PPG Industries, Inc. manufactures and distributes paints, coatings, and specialty materials worldwide. The company operates through Performance Coatings and Industrial Coatings. The Performance Coatings segment offers coatings, solvents, adhesives, sealants, sundries, and software for automotive and commercial transport/fleet repair and refurbishing, light industrial coatings, and specialty coatings for signs; and coatings, sealants, transparencies, transparent armor, adhesives, engineered materials, and packaging and chemical management services for commercial, military, regional jet, and general aviation aircraft. The Industrial Coatings segment offers coatings, adhesives and sealants, and metal pretreatments, as well as services and coatings applications for appliances, agricultural and construction equipment, consumer electronics, automotive parts and accessories, building products, kitchenware, and transportation vehicles and other finished products; and on-site coatings services. It also provides coatings for metal cans, closures, plastic tubes, and promotional and specialty packaging; amorphous precipitated silica for tire, battery separator, and other end-uses; TESLIN substrates for labels, e-passports, drivers' licenses, breathable membranes, and loyalty and identification cards; and organic light emitting diode materials, displays and lighting lens materials, optical lenses, color-change products, and photochromic dyes. The company was incorporated in 1883 and is headquartered in Pittsburgh, Pennsylvania.
+fullTimeEmployees§50000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy M. Knavish', 'age': 57, 'title': 'President, CEO & Chairman', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1663960, 'exercisedValue': 0, 'unexercisedValue': 273600}, {'maxAge': 1, 'name': 'Mr. Vincent J. Morales', 'age': 57, 'title': 'Senior VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1434310, 'exercisedValue': 0, 'unexercisedValue': 1079319}, {'maxAge': 1, 'name': 'Mr. Ramaparasad  Vadlamannati', 'age': 60, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1082978, 'exercisedValue': 0, 'unexercisedValue': 276205}, {'maxAge': 1, 'name': 'Ms. Anne M. Foulkes', 'age': 60, 'title': 'Senior VP & General Counsel', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 988873, 'exercisedValue': 0, 'unexercisedValue': 397652}, {'maxAge': 1, 'name': 'Ms. Malesia  Dunn', 'title': 'Executive Director of PPG Foundation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Richard Williams', 'title': 'VP, Global Director of Finance for Automotive Refinish and Controller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David Stanley Bem Ph.D.', 'age': 53, 'title': 'Senior VP of Science & Technology and CTO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bhaskar  Ramachandran', 'title': 'VP & CIO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Peg  Curry', 'title': 'Head of Corporate Business Communications & Administrative Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey C. Davies', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.6
+dividendYield§0.0178
+exDividendDate§1699488000
+payoutRatio§0.42040002
+fiveYearAvgDividendYield§1.71
+beta§1.274
+priceToSalesTrailing12Months§1.9032496
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.43
+pegRatio§1.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§PPG Industries, Inc.
+longName§PPG Industries, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8b414d7-958e-34ec-b7db-674d40192c8a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§175.0
+targetLowPrice§135.0
+targetMeanPrice§157.55
+targetMedianPrice§158.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§22
+quickRatio§0.961
+earningsGrowth§0.288
+grossMargins§0.40302
+ebitdaMargins§0.15032
+trailingPegRatio§1.5029

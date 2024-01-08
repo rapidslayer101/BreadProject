@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 14:27:21.056798
+address1§350 Campus Drive
+city§Marlborough
+state§MA
+zip§01752
+country§United States
+phone§774 512 7400
+website§https://www.bjs.com
+industry§Discount Stores
+sector§Consumer Defensive
+longBusinessSummary§BJ's Wholesale Club Holdings, Inc., together with its subsidiaries, operates warehouse clubs on the eastern half of the United States. It provides perishable, general merchandise, gasoline, coupon books, promotions, and other ancillary services. The company sells its products through the websites BJs.com, BerkleyJensen.com, and Wellsleyfarms.com, as well as the mobile app. The company was formerly known as Beacon Holding Inc. and changed its name to BJ's Wholesale Club Holdings, Inc. in February 2018. BJ's Wholesale Club Holdings, Inc. was founded in 1984 and is headquartered in Westborough, Massachusetts.
+fullTimeEmployees§34000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert W. Eddy', 'age': 50, 'title': 'President, CEO & Chairman', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 5249188, 'exercisedValue': 0, 'unexercisedValue': 30872660}, {'maxAge': 1, 'name': 'Ms. Laura L. Felice CPA, CGMA', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1531848, 'exercisedValue': 0, 'unexercisedValue': 7685813}, {'maxAge': 1, 'name': 'Mr. Jeff  Desroches', 'age': 46, 'title': 'Executive VP & COO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1868803, 'exercisedValue': 0, 'unexercisedValue': 7043855}, {'maxAge': 1, 'name': 'Mr. Paul  Cichocki', 'age': 53, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2202108, 'exercisedValue': 0, 'unexercisedValue': 8010951}, {'maxAge': 1, 'name': 'Ms. Anjana  Harve', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine  Park', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham N. Luce', 'age': 53, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Poulliot', 'age': 48, 'title': 'Executive Vice President of Enterprise Analytics', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 795506, 'exercisedValue': 2029598, 'unexercisedValue': 3951979}, {'maxAge': 1, 'name': 'Mr. William C. Werner', 'age': 45, 'title': 'Executive Vice President of Strategy & Development', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1311751, 'exercisedValue': 1280590, 'unexercisedValue': 3536073}, {'maxAge': 1, 'name': 'Ms. Monica  Schwartz', 'age': 48, 'title': 'Executive VP & Chief Digital Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.292
+priceToSalesTrailing12Months§0.44530863
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.97
+pegRatio§4.3
+exchange§NYQ
+quoteType§EQUITY
+shortName§BJ's Wholesale Club Holdings, I
+longName§BJ's Wholesale Club Holdings, Inc.
+firstTradeDateEpochUtc§1530192600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ddd70bba-f5be-35e1-a9ca-ded444c03095
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§97.0
+targetLowPrice§58.0
+targetMeanPrice§76.11
+targetMedianPrice§74.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.094
+earningsGrowth§0.022
+grossMargins§0.18333
+ebitdaMargins§0.05104
+trailingPegRatio§1.6229

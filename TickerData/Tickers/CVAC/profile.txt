@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 07:44:17.771532
+address1§Friedrich-Miescher-Strasse 15
+city§Tübingen
+zip§72076
+country§Germany
+phone§49 7071 9883 0
+fax§49 7071 9883 1101
+website§https://www.curevac.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§CureVac N.V., a clinical-stage biopharmaceutical company, focuses on developing various transformative medicines based on messenger ribonucleic acid (mRNA). It is developing prophylactic vaccines, such as mRNA-based vaccine candidates CV2CoV, which is in Phase 1 clinical trial against SARS-CoV-2; CV7202, a prophylactic mRNA-based vaccine, which has completed Phase 1 clinical trial for rabies virus glycoprotein; and CVSQIV, which is in Phase 1 clinical trial against influenza, as well as vaccine for lassa fever, yellow fever, respiratory syncytial virus, rotavirus, malaria, and universal influenza. The company also develops RNA-based cancer therapies, including CV8102, which is in Phase 1 clinical trial for treating cutaneous melanoma and adenoidcystic carcinoma, as well as squamous cell cancer of skin, head, and neck. CureVac N.V. was founded in 2000 and is headquartered in Tübingen, Germany.
+fullTimeEmployees§904
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pierre  Kemula B.Sc.', 'age': 48, 'title': 'MD, CFO & Member of Management Board', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 601395, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Malte  Greune Ph.D.', 'age': 58, 'title': 'COO, Member of Management Board & MD', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 467712, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ulrike  Gnad-Vogt M.D., Ph.D.', 'age': 50, 'title': 'Senior VP & Area Head of Oncology', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 384005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Antony  Blanc Ph.D.', 'age': 53, 'title': 'MD, Chief Business Officer & Chief Commercial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 511879, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Alexander  Zehnder M.B.A., M.D.', 'age': 53, 'title': 'CEO, MD & Member of Management Board', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Myriam  Mendila M.D.', 'age': 57, 'title': 'Chief Development Officer, MD & Member of the Management Board', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sarah  Fakih', 'title': 'Vice President Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marco  Rau L.L.M., Ph.D.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thorsten  Schuller', 'title': 'Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Slavica  Stevanovic-Heck', 'title': 'Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.589
+priceToSalesTrailing12Months§22.66395
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.96
+pegRatio§0.35
+exchange§NGM
+quoteType§EQUITY
+shortName§CureVac N.V.
+longName§CureVac N.V.
+firstTradeDateEpochUtc§1597411800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§340ff847-a470-30d6-90e0-0760c5ece1e8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.07
+targetLowPrice§6.42
+targetMeanPrice§13.97
+targetMedianPrice§15.05
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.225
+grossMargins§-1.93253
+ebitdaMargins§0.0
+trailingPegRatio§None

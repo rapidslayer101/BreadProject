@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 06:35:39.104761
+address1§Central Point One
+address2§Central Park Drive
+city§Rugby
+zip§CV23 0WE
+country§United Kingdom
+phone§44 17 8857 8300
+website§https://autins.com
+industry§Auto Parts
+industryKey§auto-parts
+industryDisp§Auto Parts
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Autins Group plc, an investment holding company, designs, manufactures, and supplies acoustic and thermal management solutions in the United Kingdom and internationally. It offers a range of materials, such as non-woven PET/PP, thermoplastics, PUR, and laminates; various processes, which include manufacturing, research and development, program management, and conversion, as well as tooling and component design and testing; and technical support that includes acoustics and thermal experts, diagnosis, tailored solutions. The company is also involved in the supply of noise vibration and harshness insulation materials primarily to the automotive industry. It serves automotive, flooring, office, commercial vehicles, and healthcare industries. The company was founded in 1966 and is headquartered in Rugby, the United Kingdom.
+fullTimeEmployees§174
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gareth  Kaminski-Cook', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 284000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kamran  Munir', 'age': 49, 'title': 'Group CFO, Company Secretary & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 219000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Northwood', 'title': 'Group Human Resources Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthias  Migl', 'title': 'Managing Director of Autins GmbH', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henrik  Pettersson', 'title': 'Managing Director of Autins AB', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1531353600
+payoutRatio§0.0
+beta§1.012
+priceToSalesTrailing12Months§0.28208548
+currency§GBp
+lastDividendValue§0.4
+lastDividendDate§1531353600
+exchange§LSE
+quoteType§EQUITY
+shortName§AUTINS GROUP PLC ORD GBP0.02
+longName§Autins Group plc
+firstTradeDateEpochUtc§1471849200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6cd54480-5e4e-38a6-8be1-77bafff86b84
+messageBoardId§finmb_311382069
+recommendationKey§none
+quickRatio§1.079
+grossMargins§0.24330999
+ebitdaMargins§-0.06554
+trailingPegRatio§None

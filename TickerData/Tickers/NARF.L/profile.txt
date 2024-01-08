@@ -1,0 +1,31 @@
+# reload+after+2024-01-20 10:39:54.559960
+address1§5 Fleet Place
+city§London
+zip§EC4M 7RD
+country§United Kingdom
+website§https://www.narfindustries.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Narf Industries Plc is involved in the advanced cybersecurity research and development projects for government agencies and enterprises in the United States. It offers custom designs, architecture, and implementation services for security applications; and app security management services. The company also provides incident response, technical and security translation and localization, forensic discovery and due diligence, and penetration testing services. Narf Industries Plc was incorporated in 2018 and is based in London, the United Kingdom.
+fullTimeEmployees§17
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John  Herring', 'age': 66, 'title': 'Group Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2021, 'totalPay': 44444, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Bassi', 'age': 38, 'title': 'CEO & Director', 'yearBorn': 1985, 'fiscalYear': 2021, 'totalPay': 44444, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher P. Heier', 'age': 44, 'title': 'Independent Non-Executive Director & Company Secretary', 'yearBorn': 1979, 'fiscalYear': 2021, 'totalPay': 120000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Thompson', 'title': 'Interim Chief Financial Officer of the Group', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.598
+priceToSalesTrailing12Months§3.5391936
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§NARF INDUSTRIES PLC ORD GBP0.00
+longName§Narf Industries Plc
+firstTradeDateEpochUtc§1615190400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§34295f73-ca3b-3a07-9f66-da149c96c842
+recommendationKey§none
+quickRatio§1.502
+grossMargins§0.50795
+ebitdaMargins§-0.37472
+trailingPegRatio§None

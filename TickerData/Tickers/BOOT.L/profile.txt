@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 15:35:48.677303
+address1§Banner Cross Hall
+address2§Ecclesall Road South
+city§Sheffield
+zip§S11 9PD
+country§United Kingdom
+phone§44 11 4255 5444
+website§https://www.henryboot.co.uk
+industry§Real Estate - Diversified
+industryKey§real-estate-diversified
+industryDisp§Real Estate - Diversified
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Henry Boot PLC engages in property investment and development, land promotion, and construction activities in the United Kingdom. The company operates through three segments: Property Investment and Development, Land Promotion, and Construction. It engages in the housebuilding and associated trading; and land management, development, and trading activities. In addition, the company engages in the construction and civil engineering activities; hires and sells construction equipment, such as temporary accommodation, powered access equipment, tools, and non-man operated plant; and operates and maintains the A69 trunk road between Carlisle and Newcastle upon Tyne. Henry Boot PLC was founded in 1886 and is headquartered in Sheffield, the United Kingdom.
+fullTimeEmployees§477
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy A. Roberts BSc, MRICS', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 873000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren Louis Littlewood', 'age': 48, 'title': 'CFO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 583000, 'exercisedValue': 29465, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Louise Stanbridge', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Boot', 'title': 'Group Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  White', 'title': 'Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren  Stubbs', 'age': 53, 'title': 'Managing Director of Stonebridge Homes Limited', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Duckworth MRTPI', 'age': 55, 'title': 'Managing Director of Hallam Land Management Limited', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Hutchinson', 'title': 'Managing Director of Henry Boot Developments Limited', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Shaw', 'title': 'Managing Director of Henry Boot Construction Limited', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Fisher', 'title': 'Managing Director of Banner Plant Limited', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§9
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.033
+exDividendDate§1695859200
+payoutRatio§0.4562
+fiveYearAvgDividendYield§2.63
+beta§0.848
+priceToSalesTrailing12Months§0.74681455
+currency§GBp
+forwardEps§17.91
+pegRatio§-15.89
+lastDividendValue§2.93
+lastDividendDate§1695859200
+exchange§LSE
+quoteType§EQUITY
+shortName§BOOT (HENRY) PLC ORD 10P
+longName§Henry Boot PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3f9a1b27-43c6-39c7-a116-5fb50af50179
+messageBoardId§finmb_875627
+recommendationMean§1.3
+recommendationKey§strong_buy
+quickRatio§0.547
+earningsGrowth§-0.422
+grossMargins§0.20849001
+ebitdaMargins§0.10825
+trailingPegRatio§None

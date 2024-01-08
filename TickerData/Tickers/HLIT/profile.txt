@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 05:45:13.523608
+address1§2590 Orchard Parkway
+city§San Jose
+state§CA
+zip§95131
+country§United States
+phone§408 542 2500
+fax§408 542 2521
+website§https://www.harmonicinc.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§Harmonic Inc., together with its subsidiaries, provide video delivery software, products, system solutions, and services worldwide. The company operates in two segments, Video and Broadband. The Video segment sells video processing, production, and playout solutions and services to broadband operators, and satellite and telecommunications Pay-TV service providers, as well as to broadcast and media, including streaming media companies. This segment's video processing appliance solutions include network management and application software, and hardware products, such as encoders, video servers, high-density stream processing systems, and edge processors. This segment also provides software-as-a-service (SaaS) solutions, which enables the packaging and delivery of streaming services, including live streaming, video-on-demand, catch-up TV, start-over TV, network-DVR, and cloud-DVR services through HTTP streaming to various device along with dynamic and personal ad insertion. The Broadband segment offers CableOS software-based broadband access solutions; and CableOS central cloud services primarily to broadband operators. Its products enable customers to create, prepare, store, playout, and deliver a range of broadcast and streaming video services to consumer devices, including televisions, personal computers, laptops, tablets, and smart phones. The company also provides technical support and professional services, such as maintenance and support, consulting, implementation, program management, technical design and planning, building and site preparation, integration and equipment installation, end-to-end system testing, and training, as well as SaaS-related support and deployment. It sells its products through its direct sales force, as well as through independent resellers and systems integrators. Harmonic Inc. was incorporated in 1988 and is headquartered in San Jose, California.
+fullTimeEmployees§1354
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Patrick J. Harshman', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1714979, 'exercisedValue': 1375001, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Graham', 'age': 62, 'title': 'Senior Vice President of Global Sales & Video Services', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 803180, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neven  Haltmayer', 'age': 58, 'title': 'Senior Vice President of Video R&D', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 744460, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nimrod  Ben-Natan', 'age': 55, 'title': 'Senior VP & GM of Broadband Business', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 767653, 'exercisedValue': 545905, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Walter F. Jankovic', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Marc  Guiot', 'title': 'Senior Vice President of Operations & IT', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Smiley', 'title': 'Finance & Investor Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy C. Chu', 'age': 50, 'title': 'General Counsel, Senior VP of Human Resources & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Crystele  Trevisan-Jallu', 'title': 'Senior Vice President of Corporate Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shahar  Bar', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.847
+priceToSalesTrailing12Months§2.3211124
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.76
+pegRatio§0.95
+exchange§NMS
+quoteType§EQUITY
+shortName§Harmonic Inc.
+longName§Harmonic Inc.
+firstTradeDateEpochUtc§801235800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§71921a07-9cdb-3176-8217-54e3010d88cf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§14.0
+targetMeanPrice§16.83
+targetMedianPrice§18.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.715
+grossMargins§0.52472
+ebitdaMargins§0.07337
+trailingPegRatio§None

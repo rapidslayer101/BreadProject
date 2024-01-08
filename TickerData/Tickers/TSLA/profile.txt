@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 03:47:39.436225
+address1§1 Tesla Road
+city§Austin
+state§TX
+zip§78725
+country§United States
+phone§512 516 8177
+website§https://www.tesla.com
+industry§Auto Manufacturers
+sector§Consumer Cyclical
+longBusinessSummary§Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. It operates in two segments, Automotive, and Energy Generation and Storage. The Automotive segment offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty after-sales vehicle, used vehicles, retail merchandise, and vehicle insurance services. This segment also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. The Energy Generation and Storage segment engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners; and provision of service and repairs to its energy product customers, including under warranty, as well as various financing options to its solar customers. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas.
+fullTimeEmployees§127855
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Elon R. Musk', 'age': 51, 'title': 'Technoking of Tesla, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 27819718656}, {'maxAge': 1, 'name': 'Mr. Andrew D. Baglino', 'age': 42, 'title': 'Senior Vice President of Powertrain & Energy Engineering', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 303000, 'exercisedValue': 33866368, 'unexercisedValue': 57355632}, {'maxAge': 1, 'name': 'Mr. Vaibhav  Taneja', 'age': 45, 'title': 'CFO, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Viecha', 'title': 'Senior Director for Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Prescott', 'age': 44, 'title': 'Vice President of Legal', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Arnold', 'title': 'Senior Director of Global Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Scelfo', 'title': 'Senior Director of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Brian Straubel', 'age': 47, 'title': 'Independent Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 250560, 'exercisedValue': 9413986, 'unexercisedValue': 60867856}, {'maxAge': 1, 'name': 'Mr. Franz  von Holzhausen', 'title': 'Chief Designer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xiaotong  Zhu', 'age': 43, 'title': 'Senior Vice President of Automotive', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.316
+priceToSalesTrailing12Months§7.870415
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.79
+pegRatio§94.41
+exchange§NMS
+quoteType§EQUITY
+shortName§Tesla, Inc.
+longName§Tesla, Inc.
+firstTradeDateEpochUtc§1277818200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ec367bc4-f92c-397c-ac81-bf7b43cffaf7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§380.0
+targetLowPrice§24.33
+targetMeanPrice§226.77
+targetMedianPrice§250.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§38
+quickRatio§1.08
+earningsGrowth§-0.442
+grossMargins§0.19805999
+ebitdaMargins§0.15796
+trailingPegRatio§2.7802

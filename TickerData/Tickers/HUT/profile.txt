@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 13:45:18.824968
+address1§1101 Brickell Avenue
+address2§N-1500
+city§Miami
+state§FL
+zip§33131
+country§United States
+phone§647 256 1992
+website§https://www.hut8.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Hut 8 Corp. provides digital asset mining and high-performance computing infrastructure solutions in Canada. It operates computing infrastructure sites mines Bitcoin, as well as delivers cloud, colocation, and computing services to enterprise customers. The company was founded in 2017 and is based in Miami, Florida.
+fullTimeEmployees§98
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Asher Kevin Genoot', 'age': 28, 'title': 'Co-Founder, President & Director', 'yearBorn': 1995, 'fiscalYear': 2023, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Ho', 'age': 30, 'title': 'Co- Founder, Chief Strategy Officer & Director', 'yearBorn': 1993, 'fiscalYear': 2023, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jaime  Leverton', 'age': 45, 'title': 'Chief Executive Officer & Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shenif  Visram C.M.A., CPA', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Beer', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aniss  Amdiss', 'age': 38, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1985, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Dermer', 'title': 'Senior Vice President of Communications & Culture', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Ennis', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Prusak', 'age': 30, 'title': 'Chief Innovation Officer', 'yearBorn': 1993, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§1
+compensationRisk§10
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§16.864082
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.27
+exchange§NMS
+quoteType§EQUITY
+shortName§Hut 8 Corp.
+longName§Hut 8 Corp.
+firstTradeDateEpochUtc§1520519400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§12c1a211-7ae8-3f3b-8753-a5850158a3b0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.37
+targetLowPrice§10.0
+targetMeanPrice§14.87
+targetMedianPrice§11.25
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.186
+grossMargins§0.41849
+ebitdaMargins§0.045689996
+trailingPegRatio§None

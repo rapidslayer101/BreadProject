@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 14:46:59.680705
+address1§234 Church Street
+address2§Suite 1020
+city§New Haven
+state§CT
+zip§06510
+country§United States
+phone§203 859 3820
+website§https://www.rallybio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Rallybio Corporation, a clinical-stage biotechnology company, engages in identifying, accelerating, and development of life-transforming therapies for patients suffering from severe and rare diseases. Its lead product candidate is RLYB212, a monoclonal anti-HPA-1a antibody that is in Phase I clinical trial for the prevention of fetal and neonatal alloimmune thrombocytopenia (FNAIT). The company is also developing RLYB211, a polyclonal anti-HPA-1a antibody that is in a Phase 1/2 clinical trial for the prevention of FNAIT; RLYB114, a pegylated complement factor 5 (C5)-targeted Affibody molecule in preclinical development for the treatment of complement-mediated ophthalmic diseases; RLYB116, a subcutaneously administered inhibitor of C5 for the treatment of patients with paroxysmal nocturnal hemoglobinuria and generalized myasthenia gravis; and RLYB331, a preclinical antibody, for the treatment of severe anemia with ineffective erythropoiesis and iron overload. Rallybio has collaboration with Exscientia for the development of small molecule therapeutics for rare diseases. Rallybio Corporation was founded in 2018 and is headquartered in New Haven, Connecticut.
+fullTimeEmployees§44
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Martin W. MacKay Ph.D.', 'age': 67, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 707066, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen  Uden M.B, M.D.', 'age': 65, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 707066, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan I. Lieber M.B.A.', 'age': 53, 'title': 'CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ami  Bavishi', 'title': 'Head of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven W. Ryder F.A.C.P, M.D.', 'age': 71, 'title': 'Chief Medical Officer', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.992
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.0
+exchange§NMS
+quoteType§EQUITY
+shortName§Rallybio Corporation
+longName§Rallybio Corporation
+firstTradeDateEpochUtc§1627565400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§49dd8bea-3b9a-369d-b66d-d25eaa1b0182
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§7.0
+targetMeanPrice§16.5
+targetMedianPrice§15.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§12.91
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

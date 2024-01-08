@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 15:47:33.280777
+address1§75 Castilian Drive
+city§Goleta
+state§CA
+zip§93117
+country§United States
+phone§805 456 1300
+website§https://www.transphormusa.com
+industry§Semiconductor Equipment & Materials
+sector§Technology
+longBusinessSummary§Transphorm, Inc., a semiconductor company, develops, manufactures, and sells gallium nitride (GaN) semiconductor components for high voltage power conversion applications in Mainland China, Hong Kong, Taiwan, the United States, Japan, South Korea, India, and Europe. The company's products include GaN field effect transistors in various packages. Its GaN devices allows customers to design power systems creating functional value in various end products, including smartphone power adapters/fast-chargers, power supplies for datacenter servers/communication, industrial power converters, chargers/converters/inverters for electric vehicles, and other applications. The company offers its products through regional distributors and sales representatives. Transphorm, Inc. was founded in 2007 and is headquartered in Goleta, California.
+fullTimeEmployees§129
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Primit A. Parikh Ph.D.', 'age': 51, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 390663, 'exercisedValue': 0, 'unexercisedValue': 5840}, {'maxAge': 1, 'name': 'Mr. Cameron  McAulay', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 350663, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Umesh K. Mishra Ph.D.', 'age': 65, 'title': 'Chairman & CTO', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 180000, 'exercisedValue': 0, 'unexercisedValue': 874342}, {'maxAge': 1, 'name': 'Mr. Philip  Zuk', 'title': 'Senior Vice President of Business Development & Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tushar  Dhayagude', 'title': 'Vice President of Worldwide Sales & FAE', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Berg', 'title': 'Human Resources Leader', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sal  Barlett', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.436
+priceToSalesTrailing12Months§12.415285
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.29
+pegRatio§-0.57
+exchange§NCM
+quoteType§EQUITY
+shortName§Transphorm, Inc.
+longName§Transphorm, Inc.
+firstTradeDateEpochUtc§1596029400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§68b9bc88-8162-3c55-970f-0a8fe5b85a14
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§5.0
+targetMeanPrice§6.33
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.286
+grossMargins§0.041339997
+ebitdaMargins§-1.63645
+trailingPegRatio§None

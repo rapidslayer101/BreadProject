@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 12:33:22.226490
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of U.S. corporate bonds that have a maturity of greater than or equal to 10 years.
+maxAge§86400
+priceHint§2
+yield§0.046
+totalAssets§778100160
+navPrice§23.13235
+currency§USD
+category§Long-Term Bond
+ytdReturn§-0.0252207
+beta3Year§2.17
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1236643200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0714601
+fiveYearAverageReturn§0.020001499
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Portfolio Long Term Corpor
+longName§SPDR Portfolio Long Term Corporate Bond ETF
+firstTradeDateEpochUtc§1236778200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eb847fa7-5b91-3298-a6d5-944f5897f52d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

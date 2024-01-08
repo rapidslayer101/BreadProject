@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 10:45:28.081708
+address1§700 US Highway 202/206
+city§Bridgewater
+state§NJ
+zip§08807
+country§United States
+phone§908 977 9900
+website§https://www.insmed.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Insmed Incorporated, a biopharmaceutical company, develops and commercializes therapies for patients with serious and rare diseases. The company offers ARIKAYCE for the treatment of Mycobacterium avium complex lung disease as part of a combination antibacterial drug regimen for adult patients. It is also developing Brensocatib, an oral reversible inhibitor of dipeptidyl peptidase 1 for the treatment of patients with bronchiectasis, cystic fibrosis, and other neutrophil-mediated diseases; and Treprostinil Palmitil Inhalation Powder, an inhaled formulation of a treprostinil prodrug treprostinil palmitil for the treatment of pulmonary hypertension associated with interstitial lung disease and pulmonary arterial hypertension. The company was founded in 1988 and is headquartered in Bridgewater, New Jersey.
+fullTimeEmployees§736
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William H. Lewis J.D., M.B.A.', 'age': 54, 'title': 'President, CEO & Chairman', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1291949, 'exercisedValue': 6480258, 'unexercisedValue': 9481805}, {'maxAge': 1, 'name': 'Ms. Sara M. Bonstein M.B.A.', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 684180, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger  Adsett M.B.A.', 'age': 54, 'title': 'Chief Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 894695, 'exercisedValue': 0, 'unexercisedValue': 2441028}, {'maxAge': 1, 'name': 'Mr. John Drayton Wise M.B.A.', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'totalPay': 749999, 'exercisedValue': 0, 'unexercisedValue': 730630}, {'maxAge': 1, 'name': 'Dr. Martina  Flammer M.B.A., M.D.', 'age': 59, 'title': 'Chief Medical Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 763620, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian K. Kaspar Ph.D.', 'age': 49, 'title': 'Chief Scientific Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eleanor  Barisser', 'title': 'Associate Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Alexander Smith J.D.', 'age': 45, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mandy  Fahey', 'title': 'Executive Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. S. Nicole Schaeffer M.B.A.', 'age': 55, 'title': 'Chief People Strategy Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 660810, 'exercisedValue': 1175284, 'unexercisedValue': 4393954}]
+auditRisk§6
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.265
+priceToSalesTrailing12Months§14.95244
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.46
+exchange§NMS
+quoteType§EQUITY
+shortName§Insmed Incorporated
+longName§Insmed Incorporated
+firstTradeDateEpochUtc§959866200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c5250e99-b287-307b-8d73-594ed03cb1d9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§35.0
+targetMeanPrice§42.38
+targetMedianPrice§40.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§4.176
+grossMargins§0.78563005
+ebitdaMargins§-2.36115
+trailingPegRatio§None

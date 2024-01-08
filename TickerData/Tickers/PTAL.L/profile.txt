@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 17:40:04.595555
+address1§16200 Park Row
+address2§Suite 310
+city§Houston
+state§TX
+zip§77084
+country§United States
+phone§713 609 9101
+website§https://petrotalcorp.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§PetroTal Corp. engages in the appraisal, development, and exploration of oil and natural gas in Peru, South America. Its flagship asset is its 100% owned Bretana oil field located in the Maranon Basin of northern Peru. The company was formerly known as Sterling Resources Ltd. and changed its name to PetroTal Corp. in June 2018. PetroTal Corp. is headquartered in Houston, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Manuel Pablo Zuniga-Pflucker', 'age': 61, 'title': 'President, CEO, Corporate Secretary & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 630894, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Charles Urch B.Comm., CMA', 'age': 64, 'title': 'Executive VP & CFO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 357788, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dewi  Jones', 'title': 'Vice President of Exploration & Development', 'fiscalYear': 2022, 'totalPay': 309160, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose L. Contreras', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glen  Priestley', 'title': 'Vice President of Treasury & Planning', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.1014
+exDividendDate§1701216000
+payoutRatio§0.2857
+beta§1.942
+priceToSalesTrailing12Months§1.5976053
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§PETROTAL CORPORATION COM SHS NP
+longName§PetroTal Corp.
+firstTradeDateEpochUtc§1545638400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c94d9bf4-d58e-34f6-9684-e6ba99e46fa4
+recommendationKey§none
+quickRatio§2.75
+earningsGrowth§8.607
+grossMargins§0.84465
+ebitdaMargins§0.78372
+trailingPegRatio§None

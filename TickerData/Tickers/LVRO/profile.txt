@@ -1,0 +1,41 @@
+# reload+after+2024-01-19 21:45:53.514997
+address1§Av. Dr. Cardoso de Melo, 1450
+address2§4th floor, office 401
+city§São Paulo
+state§SP
+zip§04548-005
+country§Brazil
+phone§55 11 4280 0709
+website§https://www.lavoroagro.com
+industry§Agricultural Inputs
+sector§Basic Materials
+longBusinessSummary§Lavoro Limited operates as an agricultural inputs retailer. The company operates through three segments: Brazil Cluster, LATAM Cluster, and Crop Care Cluster. It distributes agricultural inputs, such as crop protection, seeds, fertilizers, foliar fertilizers, biologicals, adjuvants, organominerals, and others for the agricultural industry. The company also produces specialty fertilizers, crop protection products, and biological crop inputs. It operates in Brazil, Colombia, and Uruguay. The company sells its products through its physical stores and digital channel. Lavoro Limited was founded in 2017 and is headquartered in Sao Paulo, Brazil.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ruy  Cunha', 'age': 49, 'title': 'Chief Executive Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian Garrido Del Val Neto', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. André  Rizk', 'age': 49, 'title': 'Chief Legal & Compliance Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen Christiane Ramirez Chaves de Mello', 'age': 47, 'title': 'Chief Human Resources Officer', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gustavo  Modenesi', 'age': 39, 'title': 'Chief Strategy Officer', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luiz Henrique Spinardi', 'title': 'Head of M&A', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rafael Ughini Villarroel', 'age': 50, 'title': 'Business Unit Brazil President', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcelo  Pessanha', 'age': 39, 'title': 'Crop Care Chief Executive Officer', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.227
+priceToSalesTrailing12Months§0.10366639
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.32
+exchange§NGM
+quoteType§EQUITY
+shortName§Lavoro Limited
+longName§Lavoro Limited
+firstTradeDateEpochUtc§1635773400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4f317a10-713d-3927-9d28-5dcb7715450e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§7.0
+targetMeanPrice§9.67
+targetMedianPrice§10.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.651
+grossMargins§0.18516001
+ebitdaMargins§0.03214
+trailingPegRatio§None

@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 03:32:44.716201
+address1§520 Broad Street
+city§Newark
+state§NJ
+zip§07102
+country§United States
+phone§212 658 1450
+website§https://www.rafaelholdings.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Rafael Holdings, Inc. primarily engages in holding interests in clinical and early-stage pharmaceutical companies, and commercial real estate assets in the United States and Israel. It operates in two segments, Healthcare and Real Estate. The company engages in the development and commercialization of therapies that exploit the metabolic differences between normal cells and cancer cells. Its lead drug candidate is CPI-613 (devimistat), currently under Phase III clinical study for the treatment of metastatic pancreatic cancer and acute myeloid leukemia. The company is also involved in developing Promitil, a molecule designed for the targeted delivery of mitomycin-C in a proprietary prodrug form, completed Phase 1B clinical studies; Folate-targeted Promitil (Promi-Fol) which is aimed at local treatment (intravesical) of superficial bladder cancer; and Promi-Dox, a highly potent dual drug liposome with MLP and doxorubicin targeting a potential basket of tumors. In addition, it engages in the development of surgical and procedural devices, including orthopedic arthroscopy instrumentation. Rafael Holdings, Inc. was incorporated in 2017 and is headquartered in Newark, New Jersey.
+fullTimeEmployees§13
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Howard S. Jonas', 'age': 67, 'title': 'Founder & Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 40000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Conkling', 'age': 51, 'title': 'CEO & President', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 751949, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. Polinsky Esq.', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 363300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara A. Ryan', 'age': 63, 'title': 'Investor Relations Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gus  Kodersha', 'title': 'Chief Technical Operations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Rick  Ewing', 'title': 'Head of Drug Discovery', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John Mayer Goldberg M.D.', 'age': 50, 'title': 'Chief Medical Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joyce J. Mason Esq.', 'age': 64, 'title': 'Corporate Secretary', 'yearBorn': 1959, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§168.09581
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Rafael Holdings, Inc.
+longName§Rafael Holdings, Inc.
+firstTradeDateEpochUtc§1522157400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c56da667-0419-3199-bc5f-75ba0a7e1338
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§14.827
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

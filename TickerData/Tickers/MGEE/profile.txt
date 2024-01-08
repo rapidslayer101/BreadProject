@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 04:46:00.819885
+address1§133 South Blair Street
+city§Madison
+state§WI
+zip§53788
+country§United States
+phone§608 252 7000
+website§https://www.mgeenergy.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§MGE Energy, Inc., through its subsidiaries, operates as a public utility holding company primarily in Wisconsin. It operates through Regulated Electric Utility Operations; Regulated Gas Utility Operations; Nonregulated Energy Operations; Transmission Investments; and All Other segments. The company generates, purchases, and distributes electricity and natural gas in Wisconsin and Iowa; and plans, constructs, operates, maintains, and expands transmission facilities to provide transmission services. It also generates electricity from coal-fired, gas-fired, and renewable energy sources. MGE Energy, Inc. founded in 2001 and is headquartered in Madison, Wisconsin.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey M. Keebler', 'age': 51, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1155665, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jared Joseph Bushek', 'age': 42, 'title': 'VP, CFO & Treasurer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 699080, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tamara Jean Johnson', 'age': 58, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 416670, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cari Anne Renlund', 'age': 49, 'title': 'VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 887598, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn K. Hobbie', 'age': 64, 'title': 'Executive Vice President of Marketing & Communications', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 544729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bryan R. Sullivan', 'age': 50, 'title': 'Assistant VP & Chief Information Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Frassetto', 'title': 'Director - Shareholder Services and Treasury Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Melissa T. Garner', 'age': 41, 'title': 'Assistant Vice President of Human Resources', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.67
+dividendYield§0.0233
+exDividendDate§1701302400
+payoutRatio§0.503
+fiveYearAvgDividendYield§2.06
+beta§0.717
+priceToSalesTrailing12Months§3.6941862
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.73
+pegRatio§3.92
+exchange§NMS
+quoteType§EQUITY
+shortName§MGE Energy Inc.
+longName§MGE Energy, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§782e9afb-23bb-3d4b-9da4-2246b90f91e9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§72.0
+targetLowPrice§65.0
+targetMeanPrice§68.5
+targetMedianPrice§68.5
+recommendationMean§4.0
+recommendationKey§underperform
+numberOfAnalystOpinions§2
+quickRatio§0.79
+earningsGrowth§0.126
+grossMargins§0.38437
+ebitdaMargins§0.3498
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 00:36:04.282614
+address1§Burton Court
+address2§4th Floor Burton Hall Drive Sandyford
+city§Dublin
+zip§18
+country§Ireland
+phone§353 1 206 9400
+fax§353 1 206 9401
+website§https://dalatahotelgroup.com
+industry§Lodging
+industryKey§lodging
+industryDisp§Lodging
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Dalata Hotel Group plc owns and operates hotels under the Maldron Hotels and Clayton Hotels brand names in Dublin, Regional Ireland, and the United Kingdom. The company operates three-star and four-star hotels. It also operates Grain & Grill restaurants; Club Vitae health leisure clubs; and Red Bean Roastery coffee shop. In addition, the company engages in the financing, catering, hotel management, management, and property investment and holding activities. Dalata Hotel Group plc was founded in 2007 and is based in Dublin, Ireland.
+fullTimeEmployees§5487
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dermot  Crowley', 'age': 56, 'title': 'CEO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 914435, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Phelan', 'title': 'CFO & Director', 'fiscalYear': 2022, 'totalPay': 536434, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shane  Casserly', 'age': 54, 'title': 'Corporate Development Director & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 536434, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Des  McCann', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Graham  White', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  McKeon', 'age': 56, 'title': 'Company Secretary and Head of Risk & Compliance', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patrice  Lennon', 'age': 44, 'title': 'Group Director of Sales', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adrian  Sherry', 'title': 'Head of Marketing Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn  Wynne', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  McGuigan', 'title': 'Head of Procurement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.0179
+exDividendDate§1694649600
+payoutRatio§0.0
+beta§1.651
+priceToSalesTrailing12Months§1.4817494
+currency§GBp
+lastDividendValue§4.0
+lastDividendDate§1694649600
+exchange§LSE
+quoteType§EQUITY
+shortName§DALATA HOTEL GROUP PLC ORD EUR0
+longName§Dalata Hotel Group plc
+firstTradeDateEpochUtc§1395216000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§657e93a9-fcf6-34bc-9715-066a2229972e
+messageBoardId§finmb_62590007
+recommendationKey§none
+quickRatio§1.22
+earningsGrowth§-0.11
+grossMargins§0.61447
+ebitdaMargins§0.30186
+trailingPegRatio§None

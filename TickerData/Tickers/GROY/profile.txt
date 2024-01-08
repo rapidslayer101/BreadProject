@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 02:30:00.038061
+address1§1030 West Georgia Street
+address2§Suite 1830
+city§Vancouver
+state§BC
+zip§V6E 2Y3
+country§Canada
+website§https://www.goldroyalty.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Gold Royalty Corp., a precious metals-focused royalty company, provides financing solutions to the metals and mining industry. It focuses on acquiring royalties, streams, and similar interests at varying stages of the mine life cycle to build a portfolio offering near, medium, and longer-term attractive returns for its investors. The company's portfolio consists of net smelter return royalties ranging from 0.5% to 2.0% on 17 gold properties. Gold Royalty Corp. was incorporated in 2020 and is headquartered in Vancouver, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Garofalo B.Com., B.Comm, C.A., C.P.A., ICD.D', 'age': 58, 'title': 'CEO, President & Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 502761, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Griffith B.Com.', 'age': 55, 'title': 'Chief Development Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 319489, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel  Mah M.A.Sc., P.Eng.', 'age': 53, 'title': 'Vice President of  Evaluations', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 274419, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew W. Gubbels', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Hass', 'title': 'Manager of Operations and FP&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edmund  Borketey', 'title': 'Director of Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alastair  Still B.Sc., M.Sc., P.Geo.', 'age': 51, 'title': 'Director of Technical Services', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Behncke', 'title': 'Director of Corporate Development & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katherine  Arblaster', 'title': 'Vice President of Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.04
+dividendYield§0.026700001
+exDividendDate§1686873600
+payoutRatio§0.0
+beta§1.054
+priceToSalesTrailing12Months§209.28229
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.02
+exchange§ASE
+quoteType§EQUITY
+shortName§Gold Royalty Corp.
+longName§Gold Royalty Corp.
+firstTradeDateEpochUtc§1615300200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§42da0405-eaf5-3a7d-9527-9504b676975d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.5
+targetLowPrice§1.52
+targetMeanPrice§3.36
+targetMedianPrice§3.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.168
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

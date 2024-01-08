@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 01:41:16.237710
+address1§Phoenix House
+address2§1 Station Hill
+city§Reading
+zip§RG1 1NB
+country§United Kingdom
+phone§44 11 8918 5000
+website§https://www.xpsgroup.com
+industry§Personal Services
+sector§Consumer Cyclical
+longBusinessSummary§XPS Pensions Group plc, together with its subsidiaries, provides employee benefit consultancy and related business services in the United Kingdom. The company offers advisory services to pension schemes and corporate sponsors; independent investment advisory services; DB and DC master trust schemes; and self-invested personal pension (SIPP) and SSAS pension services. It also provides administer services, such as scheme administration, outsourcing and member communication, scam identification and protection, payroll, pension scheme accounting, de-risking projects, technical consultancy, GMP equalization, data audits and cleansing, trustee secretarial, and pension management services. The company was formerly known as Xafinity Plc and changed its name to XPS Pensions Group Plc in May 2018. The company was incorporated in 2012 and is based in Reading, the United Kingdom.
+fullTimeEmployees§1570
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ben  Bramhall', 'age': 45, 'title': 'Co-CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 863582, 'exercisedValue': 202147, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Cuff', 'age': 46, 'title': 'Co-CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 863382, 'exercisedValue': 202147, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Snehal  Shah', 'age': 48, 'title': 'Partner, CFO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 625790, 'exercisedValue': 167403, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simeon  Willis', 'title': 'Partner & Chief Investment Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Marchant', 'title': 'Partner & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Zoe  Adlam', 'title': 'Partner, General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mary  McGrath', 'title': 'Partner and Head of Marketing & Business Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Gillion', 'title': 'Partner & HR Director - Reading', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Macbeth', 'age': 52, 'title': 'Partner & Head of Pensions of Reading', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  McCoy', 'title': 'Partner & Head of Advisory', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.09
+dividendYield§0.0382
+exDividendDate§1704931200
+payoutRatio§1.2
+fiveYearAvgDividendYield§4.97
+beta§0.471
+priceToSalesTrailing12Months§2.6073966
+currency§GBp
+forwardEps§16.38
+exchange§LSE
+quoteType§EQUITY
+shortName§XPS PENSIONS GROUP PLC ORD GBP0
+longName§XPS Pensions Group plc
+firstTradeDateEpochUtc§1487232000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fd49ab8d-0a60-3123-b3b8-a4ceeb02a2a7
+targetHighPrice§280.0
+targetLowPrice§225.0
+targetMeanPrice§261.0
+targetMedianPrice§270.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.375
+earningsGrowth§-0.107
+grossMargins§0.44904
+ebitdaMargins§0.19908
+trailingPegRatio§None

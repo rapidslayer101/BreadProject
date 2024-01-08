@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 14:31:08.216900
+address1§11720 Plaza America
+address2§9th Floor
+city§Reston
+state§VA
+zip§20190
+country§United States
+phone§703 483 7000
+website§https://www.stridelearning.com
+industry§Education & Training Services
+sector§Consumer Defensive
+longBusinessSummary§Stride, Inc., a technology-based education service company, provides proprietary and third-party online curriculum, software systems, and educational services to facilitate individualized learning for students primarily in kindergarten through 12th grade (K-12) in the United States and internationally. Its technology-based products and services enable clients to attract, enroll, educate, track progress, and support students. The company offers integrated package of systems, services, products, and professional expertise to support a virtual or blended public school; individual online courses and supplemental educational products; and products and services for the general education market focused on subjects, including math, English, science, and history for kindergarten through twelfth grade students. It also provides career learning products and services that are focused on developing skills to enter in industries, including information technology, health care, and business; and focused post-secondary career learning programs, which include skills training for software engineering, healthcare, and medical fields to adult learners under Galvanize, Tech Elevator, and MedCerts brand names, as well as provides staffing and talent development services to employers. It serves public and private schools, school districts, charter boards, consumers, employers, and government agencies. The company was formerly known as K12 Inc. and changed its name to Stride, Inc. in December 2020. Stride, Inc. was founded in 2000 and is headquartered in Reston, Virginia.
+fullTimeEmployees§7800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James J. Rhyu', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2591547, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Donna M. Blackman', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1245921, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Les  Ottolenghi', 'age': 61, 'title': 'Chief Information & Technology Officer and Executive VP', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1004874, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent Winslow Mathis', 'age': 59, 'title': 'Executive VP, General Counsel, Legal & Secretary', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1065938, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Timothy  Casey', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily  Riordan', 'title': 'Director of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah S. Hannah', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Valerie  Maddy', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Kwitowski', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter G. Stewart', 'age': 55, 'title': 'Senior Vice President of School Development', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.355
+priceToSalesTrailing12Months§1.326173
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.48
+pegRatio§0.76
+exchange§NYQ
+quoteType§EQUITY
+shortName§Stride, Inc.
+longName§Stride, Inc.
+firstTradeDateEpochUtc§1197556200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fe551a61-d0f8-3b96-9f8c-1dcb271d631f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§71.0
+targetLowPrice§60.0
+targetMeanPrice§67.75
+targetMedianPrice§70.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§3.308
+earningsGrowth§1.083
+grossMargins§0.36446
+ebitdaMargins§0.13498001
+trailingPegRatio§0.7385

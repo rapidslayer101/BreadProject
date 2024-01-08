@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 13:32:52.479216
+address1§16100 N. 71st Street
+address2§Suite 400
+city§Scottsdale
+state§AZ
+zip§85254
+country§United States
+phone§480 564 5700
+fax§213 687 8792
+website§https://www.rsac.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Reliance Steel & Aluminum Co. operates as a diversified metal solutions provider and the metals service center company in the United States, Canada, and internationally. The company distributes a line of approximately 100,000 metal products, including alloy, aluminum, brass, copper, carbon steel, stainless steel, titanium, and specialty steel products; and provides metals processing services to general manufacturing, non-residential construction, transportation, aerospace, energy, electronics and semiconductor fabrication, and heavy industries. It sells its products directly to original equipment manufacturers, which primarily include small machine shops and fabricators. The company was founded in 1939 and is based in Scottsdale, Arizona.
+fullTimeEmployees§14500
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Karla R. Lewis', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 4338972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arthur  Ajemyan', 'age': 47, 'title': 'CFO & Senior VP', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2337848, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen P. Koch', 'age': 56, 'title': 'Executive VP & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2871513, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William A. Smith II', 'age': 55, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2628629, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James D. Hoffman', 'age': 64, 'title': 'Director & Senior Advisor to the CEO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 7743896, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne M. Bonner', 'age': 48, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vandy C. Lupton', 'title': 'Vice President of Health & Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Wayne Durham', 'age': 60, 'title': 'Senior Vice President of Operations', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean Michael Mollins', 'age': 44, 'title': 'Senior Vice President of Operations', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael R. Hynes', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.0
+dividendYield§0.014400001
+exDividendDate§1700092800
+payoutRatio§0.16239999
+fiveYearAvgDividendYield§1.87
+beta§0.889
+priceToSalesTrailing12Months§1.0581524
+currency§USD
+dateShortInterest§1702598400
+forwardEps§19.12
+pegRatio§-5.76
+exchange§NYQ
+quoteType§EQUITY
+shortName§Reliance Steel & Aluminum Co.
+longName§Reliance Steel & Aluminum Co.
+firstTradeDateEpochUtc§779722200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8cee5050-eeb7-3783-a8bf-aa73003ced3a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§310.0
+targetLowPrice§280.0
+targetMeanPrice§294.0
+targetMedianPrice§295.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§3.009
+earningsGrowth§-0.226
+grossMargins§0.30927
+ebitdaMargins§0.14064
+trailingPegRatio§None

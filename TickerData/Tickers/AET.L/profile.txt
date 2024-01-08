@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 11:35:24.458503
+address1§High Holborn House
+address2§52-54 High Holborn
+city§London
+zip§WC1V 6RL
+country§United Kingdom
+phone§44 20 7405 4133
+website§https://www.afentraplc.com
+industry§Oil & Gas E&P
+industryKey§oil-gas-e-p
+industryDisp§Oil & Gas E&P
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Afentra plc, together with its subsidiaries, operates as an upstream oil and gas company primarily in Africa. The company is involved in the appraisal, exploration, development, and production of oil and gas. It holds 34% interest in an exploration project covering approximately 22,840 square kilometers located in Somaliland. The company was formerly known as Sterling Energy plc and changed its name to Afentra plc in May 2021. Afentra plc was incorporated in 1983 and is based in London, the United Kingdom.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul  McDade', 'age': 60, 'title': 'CEO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 744999, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anastasia  Deulina', 'age': 50, 'title': 'CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 606468, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Cloke', 'age': 51, 'title': 'COO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 602055, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.122
+currency§GBp
+forwardEps§0.13
+exchange§LSE
+quoteType§EQUITY
+shortName§AFENTRA PLC ORD 10P
+longName§Afentra plc
+firstTradeDateEpochUtc§871282800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2d44a84c-d5c6-326f-94a0-e481417356cc
+messageBoardId§finmb_882764
+targetHighPrice§0.6
+targetLowPrice§0.53
+targetMeanPrice§0.57
+targetMedianPrice§0.57
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.711
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

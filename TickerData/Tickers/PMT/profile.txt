@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 08:32:20.553182
+address1§3043 Townsgate Road
+city§Westlake Village
+state§CA
+zip§91361
+country§United States
+phone§818 224 7442
+website§https://www.pennymacmortgageinvestmenttrust.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§PennyMac Mortgage Investment Trust, a specialty finance company, primarily invests in mortgage-related assets in the United States. It operates through four segments: Credit Sensitive Strategies, Interest Rate Sensitive Strategies, Correspondent Production, and Corporate. The company's Credit Sensitive Strategies segment invests in credit risk transfer (CRT) agreements, CRT securities, distressed loans, real estate, and non-agency subordinated bonds. Its Interest Rate Sensitive Strategies segment engages in investing in mortgage servicing rights, excess servicing spreads, and agency and senior non-agency mortgage-backed securities (MBS), as well as related interest rate hedging activities. The company's Correspondent Production segment is involved in purchasing, pooling, and reselling newly originated prime credit residential loans directly or in the form of MBS. PNMAC Capital Management, LLC acts as the manager of PennyMac Mortgage Investment Trust. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its shareholders. PennyMac Mortgage Investment Trust was founded in 2009 and is headquartered in Westlake Village, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Spector', 'age': 60, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Edward Jones', 'age': 66, 'title': 'President, Chief Mortgage Banking Officer & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Stanley Perotti', 'age': 42, 'title': 'Senior MD & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek W. Stark J.D.', 'age': 55, 'title': 'Senior MD, Chief Legal Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Chang', 'title': 'Senior MD & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory L. Hendry', 'age': 62, 'title': 'Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Chamberlain', 'title': 'Executive Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Follette', 'age': 50, 'title': 'Senior MD & Chief Mortgage Operations Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Bridges', 'title': 'Senior Managing Director of Consumer Direct Lending Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela K. Marsh CPA', 'title': 'MD & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.1079
+exDividendDate§1703721600
+payoutRatio§1.4778999
+fiveYearAvgDividendYield§10.88
+beta§1.438
+priceToSalesTrailing12Months§2.5033398
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.38
+pegRatio§2.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§PennyMac Mortgage Investment Tr
+longName§PennyMac Mortgage Investment Trust
+firstTradeDateEpochUtc§1248960600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§412b54f6-62be-36d9-8a3c-518fc71e4568
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§12.5
+targetMeanPrice§14.19
+targetMedianPrice§14.25
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.272
+earningsGrowth§50.468
+grossMargins§0.74224
+ebitdaMargins§0.0
+trailingPegRatio§None

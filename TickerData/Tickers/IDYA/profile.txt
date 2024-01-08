@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 23:45:22.638660
+address1§7000 Shoreline Court
+address2§Suite 350
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§650 443 6209
+website§https://www.ideayabio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§IDEAYA Biosciences, Inc., a synthetic lethality-focused precision medicine oncology company, focuses on the discovery and development of targeted therapeutics for patient populations selected using molecular diagnostics. The company's lead product candidates include IDE397, a methionine adenosyltransferase 2a inhibitor that is in Phase II clinical trial for patients with solid tumors having methylthioadenosine phosphorylase gene deletions; and IDE196, a protein kinase C inhibitor that is in Phase I/II clinical trial for genetically defined cancers having GNAQ or GNA11 gene mutations. Its preclinical pipeline includes various synthetic lethality programs targeting PARG inhibitor in tumors for patients having tumors with a defined biomarker based on genetic mutations and/or molecular signatures; Pol Theta inhibitors in tumors with BRCA or other homologous recombination deficiency mutations; and WRN inhibitors in tumors with high microsatellite instability. The company has a research collaboration agreement with Cancer Research UK and the University of Manchester todevelop small molecule inhibitors of Poly (ADP-ribose) glycohydrolase; and a clinical trial collaboration and supply agreement with Pfizer Inc. for Phase II/III study in metastatic uveal melanoma, as well as a strategic partnership with GlaxoSmithKline plc. IDEAYA Biosciences, Inc. was incorporated in 2015 and is headquartered in South San Francisco, California.
+fullTimeEmployees§122
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yujiro S. Hata', 'age': 49, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 851700, 'exercisedValue': 0, 'unexercisedValue': 9729266}, {'maxAge': 1, 'name': 'Dr. Michael A. White Ph.D.', 'age': 57, 'title': 'Chief Scientific Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 613849, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Darrin M. Beaupre M.D., Ph.D.', 'age': 56, 'title': 'Chief Medical Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 152637, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeffrey  Hager Ph.D.', 'age': 58, 'title': 'Co -Founder', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andres Ruiz Briseno CPA', 'age': 37, 'title': 'Principal Accounting Officer, Senior VP and Head of Finance & Investor Relations', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul A. Barsanti Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason S. Throne Esq., J.D.', 'age': 51, 'title': 'Chief Legal Officer & Company Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 425563, 'exercisedValue': 0, 'unexercisedValue': 152906}, {'maxAge': 1, 'name': "Mr. Mick  O'Quigley", 'title': 'Senior Vice President of Development Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.815
+priceToSalesTrailing12Months§94.14353
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.36
+exchange§NMS
+quoteType§EQUITY
+shortName§IDEAYA Biosciences, Inc.
+longName§IDEAYA Biosciences, Inc.
+firstTradeDateEpochUtc§1558618200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5a0bbfba-0289-3587-8e76-6a2418bad8f3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.0
+targetLowPrice§35.0
+targetMeanPrice§38.4
+targetMedianPrice§38.5
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§10
+quickRatio§19.1
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

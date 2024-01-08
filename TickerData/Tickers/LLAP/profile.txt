@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 03:31:05.577896
+address1§6800 Broken Sound Parkway NW
+address2§Suite 200
+city§Boca Raton
+state§FL
+zip§33487
+country§United States
+phone§561 988 1704
+website§https://terranorbital.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Terran Orbital Corporation manufactures and sells satellites for aerospace and defense industry in the United States. It operates through two segments, Satellite Solutions and Earth Observation Solutions. The Satellite Solutions segment offers end-to-end satellite solutions, including spacecraft design, development, launch services, and on-orbit operations for critical missions across a range of applications in various orbits to governmental agencies and commercial businesses. The Earth Observation Solutions segment develops, builds, launches, and operates a constellation of earth observation satellites that has synthetic aperture radar capabilities to provide earth observation data and mission solutions. The company was founded in 2013 and is headquartered in Boca Raton, Florida.
+fullTimeEmployees§480
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc H. Bell', 'age': 56, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2987881, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marco  Villa', 'age': 48, 'title': 'Chief Revenue Officer & Executive VP', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 473016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary A. Hobart', 'age': 55, 'title': 'Chief Transformation Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 762446, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mathieu  Riffel', 'age': 38, 'title': 'Acting CFO, Senior VP & Corporate Controller', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Gingiss', 'age': 53, 'title': 'Chief Operating Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Austin  Williams', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Bays', 'age': 53, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Black', 'age': 51, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Siegmann C.F.A., CFA', 'age': 47, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Santina  Michel', 'age': 42, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.182
+priceToSalesTrailing12Months§1.6271931
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.48
+pegRatio§-0.04
+exchange§NYQ
+quoteType§EQUITY
+shortName§Terran Orbital Corporation
+longName§Terran Orbital Corporation
+firstTradeDateEpochUtc§1619443800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7c678b69-eb0a-36d5-afb8-8da75ca28759
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§2.5
+targetMeanPrice§6.13
+targetMedianPrice§5.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.802
+grossMargins§-0.02784
+ebitdaMargins§-0.95655
+trailingPegRatio§None

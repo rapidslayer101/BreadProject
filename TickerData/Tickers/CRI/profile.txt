@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 04:28:11.658304
+address1§Phipps Tower
+address2§Suite 1800 3438 Peachtree Road NE
+city§Atlanta
+state§GA
+zip§30326
+country§United States
+phone§678 791 1000
+website§https://www.carters.com
+industry§Apparel Retail
+sector§Consumer Cyclical
+longBusinessSummary§Carter's, Inc., together with its subsidiaries, designs, sources, and markets branded childrenswear under the Carter's, OshKosh, Skip Hop, Child of Mine, Just One You, Simple Joys, little planet, and other brands in the United States and internationally. The company operates through three segments: U.S. Retail, U.S. Wholesale, and International. Its Carter's products include babies and young children products, such as bodysuits, pants, dresses, layette essentials, tops and t-shirts, multi-piece sets, sleep and play products, and sleepwear; and OshKosh brand products comprise playclothes, such as denim apparel products, overalls, core bottoms, knit tops, t-shirts, and layering pieces. The company also provides products for playtime, travel, mealtime, bath time, and home gear, as well as kid's bags under the Skip Hop brand. In addition, it offers bedding, home décor, cribs and baby furniture, diaper bags, footwear, gift sets, hair accessories, jewelry, outerwear, paper goods, socks, shoes, swimwear, and toys. The company operates wholesale locations, including department stores, national chain stores, and specialty stores, as well as retail stores. It also sells its products through its eCommerce websites, such as carters.com, oshkosh.com, and skiphop.com, as well as other international wholesale accounts and licensees. The company was founded in 1865 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§15500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael D. Casey', 'age': 62, 'title': 'Chairman & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2106618, 'exercisedValue': 787995, 'unexercisedValue': 183600}, {'maxAge': 1, 'name': 'Mr. Brian J. Lynch', 'age': 60, 'title': 'President & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1208403, 'exercisedValue': 59933, 'unexercisedValue': 45900}, {'maxAge': 1, 'name': 'Mr. Richard F. Westenberger', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 928700, 'exercisedValue': 0, 'unexercisedValue': 23256}, {'maxAge': 1, 'name': 'Ms. Kendra D. Krugman', 'age': 45, 'title': 'Executive VP of Retail & Chief Merchandising Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 824660, 'exercisedValue': 50090, 'unexercisedValue': 12240}, {'maxAge': 1, 'name': 'Mr. Benjamin L. Pivar', 'age': 56, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antonio D. Robinson', 'age': 51, 'title': 'Senior VP of Corporate Social Responsibility, General Counsel, Secretary & Chief Compliance Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lindsay  Rider', 'title': 'Senior Director of Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Julie A. D'Emilio", 'age': 56, 'title': 'Executive Vice President of Global Sales', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey M. Jenkins', 'age': 45, 'title': 'Executive Vice President of Global Marketing', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill A. Wilson', 'age': 56, 'title': 'Senior Vice President of Human Resources & Talent Development', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.0
+dividendYield§0.0403
+exDividendDate§1701043200
+payoutRatio§0.5515
+fiveYearAvgDividendYield§1.66
+beta§1.277
+priceToSalesTrailing12Months§0.9132977
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.25
+pegRatio§-10.12
+exchange§NYQ
+quoteType§EQUITY
+shortName§Carter's, Inc.
+longName§Carter's, Inc.
+firstTradeDateEpochUtc§1067351400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§45f48a2b-3043-355f-82d9-1dea527bf9f9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§84.0
+targetLowPrice§60.0
+targetMeanPrice§68.71
+targetMedianPrice§70.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§0.882
+earningsGrowth§0.065
+grossMargins§0.46446
+ebitdaMargins§0.12624
+trailingPegRatio§None

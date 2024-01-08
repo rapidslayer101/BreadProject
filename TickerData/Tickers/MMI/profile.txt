@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 16:31:23.425321
+address1§23975 Park Sorrento
+address2§Suite 400
+city§Calabasas
+state§CA
+zip§91302
+country§United States
+phone§818 212 2250
+website§https://www.marcusmillichap.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Marcus & Millichap, Inc., an investment brokerage company, provides real estate investment brokerage and financing services to sellers and buyers of commercial real estate in the United States and Canada. The company offers commercial real estate investment sales, financing, research, and advisory services for multifamily, retail, office, industrial, single-tenant net lease, seniors housing, self-storage, hospitality, medical office, and manufactured housing, as well as capital markets. It also operates as a financial intermediary that provides commercial real estate capital markets solutions, including senior debt, mezzanine debt, joint venture, and preferred equity, as well as loan sales and consultative/due diligence services to commercial real estate owners, developers, investors, and capital providers. In addition, the company provides various ancillary services, which includes opinions of value, operating and financial performance benchmarking analysis, specific asset buy-sell strategies, market and submarket analysis and ranking, portfolio strategies by property type, market strategy, development and redevelopment feasibility studies, and other services for developers, lenders, owners, real estate investment trusts, high-net-worth individuals, pension fund advisors, and other institutions. Marcus & Millichap, Inc. was founded in 1971 and is headquartered in Calabasas, California.
+fullTimeEmployees§887
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. George M. Marcus', 'age': 82, 'title': 'Founder & Chairman', 'yearBorn': 1941, 'fiscalYear': 2022, 'totalPay': 65000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hessam  Nadji', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3036750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven F. DeGennaro', 'age': 60, 'title': 'Executive VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1317125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory A. LaBerge', 'age': 52, 'title': 'Senior VP & Chief Administrative Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 828125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard D. Matricaria', 'age': 44, 'title': 'Executive VP & COO of Western Division', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1859478, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John David Parker', 'age': 42, 'title': 'Executive VP & COO of Eastern Division', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1871312, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt Henry Schwarz', 'age': 64, 'title': 'First VP of Finance & Chief Accounting Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Sayward', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Cortell', 'title': 'Senior VP & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Strockis', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0126
+exDividendDate§1694649600
+payoutRatio§1.3514
+beta§1.266
+priceToSalesTrailing12Months§2.0538805
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.12
+pegRatio§-7.37
+exchange§NYQ
+quoteType§EQUITY
+shortName§Marcus & Millichap, Inc.
+longName§Marcus & Millichap, Inc.
+firstTradeDateEpochUtc§1383226200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§00a1e5ba-ba6f-3ae6-b680-de00ca1bd0a5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§20.0
+targetMeanPrice§20.0
+targetMedianPrice§20.0
+recommendationMean§4.0
+recommendationKey§underperform
+numberOfAnalystOpinions§1
+quickRatio§3.64
+grossMargins§0.3506
+ebitdaMargins§-0.03082
+trailingPegRatio§None

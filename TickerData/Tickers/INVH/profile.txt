@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 23:30:31.285508
+address1§1717 Main Street
+address2§Suite 2000
+city§Dallas
+state§TX
+zip§75201-4657
+country§United States
+phone§972 421 3600
+website§https://www.invitationhomes.com
+industry§REIT—Residential
+sector§Real Estate
+longBusinessSummary§Invitation Homes, an S&P 500 company, is the nation's premier single-family home leasing company, meeting changing lifestyle demands by providing access to high-quality, updated homes with valued features such as close proximity to jobs and access to good schools. The company's mission, "Together with you, we make a house a home," reflects its commitment to providing homes where individuals and families can thrive and high-touch service that continuously enhances residents' living experiences.
+fullTimeEmployees§1511
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dallas B. Tanner', 'age': 42, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 2143076, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles D. Young', 'age': 55, 'title': 'President & COO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1347354, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Solls', 'age': 66, 'title': 'Executive VP - Legal, Chief Legal Officer & Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 876662, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ernest M. Freedman CPA', 'age': 52, 'title': 'Advisor', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1347354, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan S. Olsen', 'title': 'Executive VP, CFO & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott G. Eisen', 'title': 'Executive VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly K. Norrell', 'title': 'Executive VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Virginia L. Suliman', 'title': 'Executive VP and Chief Information & Digital Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  McLaughlin CPA', 'title': 'Senior Vice President of Investor Relations & Tax', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristi  DesJarlais', 'title': 'Senior Vice President of Communications & Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.12
+dividendYield§0.033099998
+exDividendDate§1703548800
+payoutRatio§1.2346
+fiveYearAvgDividendYield§2.15
+beta§0.963
+priceToSalesTrailing12Months§8.768282
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.72
+pegRatio§3.22
+exchange§NYQ
+quoteType§EQUITY
+shortName§Invitation Homes Inc.
+longName§Invitation Homes Inc.
+firstTradeDateEpochUtc§1485959400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4d81b072-2bf4-359d-959e-ddbc837ed8d9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§33.0
+targetMeanPrice§37.06
+targetMedianPrice§37.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§2.583
+earningsGrowth§0.623
+grossMargins§0.59766
+ebitdaMargins§0.56567
+trailingPegRatio§5.8398

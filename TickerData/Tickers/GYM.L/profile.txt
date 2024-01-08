@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 17:40:41.832715
+address1§OneCroydon
+address2§5th Floor 12-16 Addiscombe Road
+city§Croydon
+zip§CR0 0XT
+country§United Kingdom
+website§https://www.tggplc.com
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§The Gym Group plc, together with its subsidiaries, engages in operation of a chain of gym facilities under the Gym Group brand name in the United Kingdom. The company was founded in 2007 and is based in Croydon, the United Kingdom.
+fullTimeEmployees§2035
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John  Treharne', 'age': 69, 'title': 'Founder & Chairman of the Board', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 126423, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke Logan Tait', 'age': 50, 'title': 'CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 662760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann-Marie  Murphy', 'age': 51, 'title': 'COO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 220693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William John Orr', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Milan  Juza', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emily  Kortlang', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Shelmerdine', 'title': 'Director of Strategy & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ruth  Jackson', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Melhuish', 'title': 'Chief Development & Sustainability Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Krishan  Pandit', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1567641600
+payoutRatio§0.0
+beta§1.478
+priceToSalesTrailing12Months§1.0067366
+currency§GBp
+forwardEps§-3.81
+pegRatio§-0.82
+exchange§LSE
+quoteType§EQUITY
+shortName§THE GYM GROUP PLC ORD 0.01P
+longName§The Gym Group plc
+firstTradeDateEpochUtc§1447056000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fe650ac9-1307-3751-bdc0-a651cc6ef49b
+targetHighPrice§225.0
+targetLowPrice§110.0
+targetMeanPrice§165.0
+targetMedianPrice§180.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.158
+grossMargins§0.98621005
+ebitdaMargins§0.19576
+trailingPegRatio§None

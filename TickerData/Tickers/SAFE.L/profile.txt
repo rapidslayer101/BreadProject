@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 09:40:18.656050
+address1§Brittanic House
+address2§Stirling Way
+city§Borehamwood
+zip§WD6 2BT
+country§United Kingdom
+phone§44 20 8732 1500
+fax§44 20 8732 1510
+website§https://www.safestore.com
+industry§REIT—Industrial
+sector§Real Estate
+longBusinessSummary§Safestore is the UK's largest self storage group with 185 stores on 30 April 2023, comprising 132 wholly owned stores in the UK (including 73 in London and the South East with the remainder in key metropolitan areas such as Manchester, Birmingham, Glasgow, Edinburgh, Liverpool, Sheffield, Leeds, Newcastle, and Bristol), 29 wholly owned stores in the Paris region, 8 stores in Spain, 10 stores in the Netherlands and 6 stores in Belgium. Safestore operates more self storage sites inside the M25 and in central Paris than any competitor providing more proximity to customers in the wealthiest and more densely populated UK and French markets. Safestore was founded in the UK in 1998. It acquired the French business "Une Pièce en Plus" ("UPP") in 2004 which was founded in 1998 by the current Safestore Group CEO Frederic Vecchioli. Safestore has been listed on the London Stock Exchange since 2007. It entered the FTSE 250 index in October 2015. The Group provides storage to around 90,000 personal and business customers. As at 30 April 2023, Safestore had a maximum lettable area ("MLA") of 7.990 million sq ft (excluding the expansion pipeline stores) of which 6.124 million sq ft was occupied. Safestore employs around 750 people in the UK, Paris, Spain, the Netherlands and Belgium.
+fullTimeEmployees§750
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Frederic  Vecchioli', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1190000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew B. Jones', 'age': 56, 'title': 'CFO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 856000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Davies', 'title': 'Business Development Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David Gibson Orr', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.036
+exDividendDate§1688601600
+payoutRatio§0.2282
+fiveYearAvgDividendYield§2.51
+beta§0.809
+priceToSalesTrailing12Months§8.700181
+currency§GBp
+forwardEps§47.27
+pegRatio§1.83
+exchange§LSE
+quoteType§EQUITY
+shortName§SAFESTORE HOLDINGS PLC ORD 1P
+longName§Safestore Holdings Plc
+firstTradeDateEpochUtc§1173427200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§50e2ecfe-e61e-3d79-b795-b2e5bd746912
+targetHighPrice§1425.0
+targetLowPrice§760.0
+targetMeanPrice§1005.64
+targetMedianPrice§975.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.799
+earningsGrowth§-0.657
+grossMargins§0.69134
+ebitdaMargins§0.59838
+trailingPegRatio§None

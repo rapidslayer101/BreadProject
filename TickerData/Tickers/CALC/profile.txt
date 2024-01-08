@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 20:43:53.403164
+address1§505 Coast Boulevard South
+address2§Suite 202
+city§La Jolla
+state§CA
+zip§92037
+country§United States
+phone§858-952-5500
+website§https://www.calcimedica.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§CalciMedica, Inc., a clinical-stage biotechnology company, focuses on developing therapies for life-threatening inflammatory diseases with unmet needs. Its proprietary technology targets the inhibition of calcium release-activated (CRAC) channels designs to modulate the immune response and protect against tissue cell injury in life-threatening inflammatory diseases. Its lead product candidate is Auxora, a proprietary intravenous-formulated CRAC channel inhibitor for the treatment of acute pancreatitis, asparaginase-associated acute pancreatitis, and acute kidney injury. The company is based in La Jolla, California.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. A. Rachel Leheny Ph.D.', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric W. Roberts', 'age': 59, 'title': 'Chief Business Officer & Vice Chairman of the Board', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Dunn MBA', 'age': 67, 'title': 'President & COO', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Anjana  Rao Ph.D.', 'title': 'Co-Founder and Scientific Advisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Patrick  Hogan Ph.D.', 'title': 'Co-Founder and Scientific Advisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stefan  Feske M.D.', 'title': 'Co-Founder and Scientific Advisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kenneth A. Stauderman Ph.D.', 'age': 70, 'title': 'Co-Founder & Chief Scientific Officer', 'yearBorn': 1953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel E. Geffken M.B.A.', 'age': 66, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cindy  Reiedenberg', 'title': 'Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. Dunn J.D.', 'age': 71, 'title': 'General Counsel', 'yearBorn': 1952, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.5
+exchange§NCM
+quoteType§EQUITY
+shortName§CalciMedica, Inc.
+longName§CalciMedica, Inc.
+firstTradeDateEpochUtc§1686749400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1dade7b1-4e24-37e4-9b8f-e0dde73c0e11
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§6.25
+targetMeanPrice§10.13
+targetMedianPrice§10.13
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§3.958
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

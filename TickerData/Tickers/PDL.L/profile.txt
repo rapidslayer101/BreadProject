@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 15:40:04.312695
+address1§15–17 Heddon Street
+address2§3rd Floor
+city§London
+zip§W1B 4BF
+country§United Kingdom
+phone§44 20 7494 8203
+website§https://www.petradiamonds.com
+industry§Other Precious Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Petra Diamonds Limited, an investment holding company, engages in the mining, processing, sorting, and sale of rough diamonds in South Africa and Tanzania. It also provides treasury, beneficiation, and other services. Petra Diamonds Limited was incorporated in 1997 and is based in London, the United Kingdom.
+fullTimeEmployees§3042
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard Neil Duffy BCom, MBA', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 893080, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacques  Breytenbach', 'age': 51, 'title': 'CFO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 593103, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jaison  Rajan', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juan  Kemp', 'title': 'Chief Technical Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Pittaway', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rupert  Rowland-Clark', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Thashmi  Doorasamy', 'title': 'Group HR & Public Affairs Executive', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  Stephenson', 'title': 'Sales & Marketing Executive', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vivek  Gadodia', 'title': 'Head of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Avhurengwi  Nengovhela', 'title': 'Head of Sustainability', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1444867200
+payoutRatio§0.0
+beta§1.451
+priceToSalesTrailing12Months§0.41789556
+currency§GBp
+forwardEps§0.18
+pegRatio§0.17
+exchange§LSE
+quoteType§EQUITY
+shortName§PETRA DIAMONDS LIMITED ORD GBP0
+longName§Petra Diamonds Limited
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a9b02ade-dc19-3fb2-b716-02c40200029b
+targetHighPrice§1.94
+targetLowPrice§1.07
+targetMeanPrice§1.44
+targetMedianPrice§1.41
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.713
+grossMargins§0.046729997
+ebitdaMargins§0.2739
+trailingPegRatio§None

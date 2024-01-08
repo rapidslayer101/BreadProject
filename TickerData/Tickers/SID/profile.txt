@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 13:33:11.302420
+address1§Av. Brigadeiro Faria Lima, 3400
+address2§19th and 20th Floors Itaim Bibi
+city§São Paulo
+state§SP
+zip§04538-132
+country§Brazil
+phone§55 11 3049 7100
+website§https://www.csn.com.br
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Companhia Siderúrgica Nacional operates as an integrated steel producer in Brazil and Latin America. It operates through five segments: Steel, Mining, Logistics, Energy, and Cement. The company offers flat steel products, such as high, medium, low carbon, micro-alloyed, ultra-low-carbon, and interstitial free slabs; hot-rolled products, including heavy and light-gauge hot-rolled coils and sheets; cold-rolled products comprising cold-rolled coils and sheets; galvanized products; tin mill products consisting of flat-rolled low-carbon steel coils or sheets; and profiles, channels, UPE sections, and steel sleepers for the distribution, packaging, automotive, home appliance, and construction industries. It primarily explores for iron ore reserves at Casa de Pedra and Engenho mines located in the city of Congonhas; and limestone and dolomite at the Bocaina mine located in the city of Arcos in the state of Minas Gerais, Brazil, as well as produces tin. In addition, the company operates railway and port facilities; produces and sells cement to construction material stores, home centers, concrete producers, construction companies, mortar industries, and cement artifact producers; and generates electric power from its thermoelectric co-generation and hydroelectric power plants. Companhia Siderúrgica Nacional was incorporated in 1941 and is headquartered in São Paulo, Brazil.
+fullTimeEmployees§24924
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Benjamin  Steinbruch', 'age': 70, 'title': 'President of Executive Board, Chairman & CEO', 'yearBorn': 1953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcelo Cunha Ribeiro', 'age': 46, 'title': 'Executive Director of Finance and Investor Relations & Member of Executive Board', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Moise Salama', 'age': 57, 'title': 'Executive Director of Insurance, Credit and Property & Member of Executive Board', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luis Fernando Barbosa Martinez', 'age': 60, 'title': 'Executive Director of Commercial and Logistics Area & Member of Executive Board', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephan Heinz Josef Victor Weber', 'age': 62, 'title': 'Executive Director of Investments & Member of Executive Board', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexandre  de Campos Lyra', 'title': 'Member of the Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claudia Maria Sarti', 'age': 53, 'title': 'Corporate Legal, Governance & Capital Market Manager', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Igor Estrada Gouvea', 'title': 'Director of Audit, Risks & Compliance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Leonardo  De Abreu', 'age': 44, 'title': 'People & Management Director', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Felipe  Steinbruch', 'age': 29, 'title': 'Head of CSN Inova', 'yearBorn': 1994, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§2
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§4
+dividendRate§0.27
+dividendYield§0.0691
+exDividendDate§1700611200
+payoutRatio§5.0804
+fiveYearAvgDividendYield§7.19
+beta§1.793
+priceToSalesTrailing12Months§0.11662233
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.36
+pegRatio§17.95
+exchange§NYQ
+quoteType§EQUITY
+shortName§Companhia Siderurgica Nacional 
+longName§Companhia Siderúrgica Nacional
+firstTradeDateEpochUtc§848327400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1c268456-6717-378c-9972-48bd9b26c55b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.12
+targetLowPrice§2.31
+targetMeanPrice§3.21
+targetMedianPrice§3.21
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.057
+grossMargins§0.2545
+ebitdaMargins§0.16888
+trailingPegRatio§None

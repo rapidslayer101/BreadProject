@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 00:47:47.634705
+address1§505 Odyssey Way
+city§Merritt Island
+state§FL
+zip§32953
+country§United States
+phone§254 244 5739
+website§https://www.vaxxinity.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Vaxxinity, Inc., a biotechnology company, focuses on developing product candidates for human use in the fields of neurology, cardiovascular diseases, and coronaviruses in the United States. The company engages in developing UB-311 that targets toxic forms of aggregated amyloid-b in the brain to fight Alzheimer's disease (AD) that is in phase 2 clinical trial; UB-312 that targets toxic forms of aggregated a-synuclein in the brain to fight Parkinson's disease and other synucleinopathies, such as Lewy body dementia and multiple system atrophy that is in phase 1 clinical trial; and VXX-301, an anti-tau product candidate for various neurodegenerative conditions, including AD. It is also developing UB-313 that targets calcitonin gene-related peptide to fight migraines; VXX-401 that targets proprotein convertase subtilisin/kexin type 9 serine protease to lower low-density lipoprotein cholesterol and reduce the risk of cardiac events; and UB-612 for neutralizing the SARS-CoV-2 virus, which is in phase 3 clinical trial. Vaxxinity, Inc. was founded in 2014 and is headquartered in Merritt Island, Florida.
+fullTimeEmployees§87
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Louis Garfield Reese IV', 'age': 41, 'title': 'Co-Founder & Executive Chairman of the Board', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 83276, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei Mei Hu J.D.', 'age': 40, 'title': 'CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 551731, 'exercisedValue': 0, 'unexercisedValue': 1781413}, {'maxAge': 1, 'name': 'Dr. Peter  Powchik M.D.', 'age': 66, 'title': 'Executive VP, Global Scientific Director and Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Pesile CPA, M.B.A.', 'age': 50, 'title': 'Senior Vice President of Finance & Accounting', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sumita  Ray J.D.', 'age': 49, 'title': 'Chief Legal & Administrative Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Harrison', 'title': 'Chief Government Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Joinnides MSE', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy B. Fix M.B.A., M.S., R.A.C.', 'title': 'Chief Regulatory Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jean-Cosme  Dodart Ph.D.', 'title': 'Senior Vice President of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dario  Mirski M.D.', 'title': 'Senior Vice President of Neuro / Chronic Diseases', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.44
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.38
+pegRatio§0.03
+exchange§NGM
+quoteType§EQUITY
+shortName§Vaxxinity, Inc.
+longName§Vaxxinity, Inc.
+firstTradeDateEpochUtc§1636641000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a263bcbc-70bc-3371-83f5-da14e228c592
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§7.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§2.002
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 16:47:24.869865
+address1§111 Oyster Point Boulevard
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§650 881 6500
+fax§650 553 9659
+website§https://www.sutrobio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Sutro Biopharma, Inc. operates as a clinical-stage oncology company. It develops site-specific and novel-format antibody drug conjugates (ADC) that enables its proprietary integrated cell-free protein synthesis platform, XpressCF and XpressCF+. The company's product candidates include STRO-001, an ADC directed against the cancer target CD74 for patients with multiple myeloma and non-Hodgkin lymphoma that is in Phase 1 clinical trials; and STRO-002, an ADC directed against folate receptor-alpha for patients with ovarian and endometrial cancers, which is in Phase 1 clinical trials. Its pre-clinical product candidate STRO-003, a ADC directed against an anti-receptor tyrosine kinase-like orphan receptor 1 (ROR1) for the treatment of solid tumors. It has collaboration and license agreements with Merck Collaboration to develop research programs focusing on cytokine derivatives for cancer and autoimmune disorders; Celgene Corporation to discover and develop bispecific antibodies and/or ADCs focused on the field of immuno-oncology; EMD Serono to develop ADCs for multiple cancer targets; and Astellas Pharma Inc. to develop ADC. The company was formerly known as Fundamental Applied Biology, Inc. Sutro Biopharma, Inc. was incorporated in 2003 and is headquartered in South San Francisco, California.
+fullTimeEmployees§298
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William J. Newell J.D.', 'age': 65, 'title': 'CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1072767, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Chung R.Ph.', 'age': 52, 'title': 'President & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 934637, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. James R. Swartz Ph.D., Sc.D.', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward C. Albini', 'age': 65, 'title': 'CFO & Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 596400, 'exercisedValue': 0, 'unexercisedValue': 877425}, {'maxAge': 1, 'name': 'Dr. Venkatesh  Srinivasan Ph.d.', 'title': 'Chief Technical Operations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hans-Peter  Gerber Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Pauling J.D., M.A.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda A. Fitzpatrick', 'age': 66, 'title': 'Chief People & Communications Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 595789, 'exercisedValue': 0, 'unexercisedValue': 1061110}, {'maxAge': 1, 'name': 'Dr. Nicki  Vasquez Ph.D.', 'age': 60, 'title': 'Chief Portfolio Strategy & Alliance Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brunilda  Shtylla M.B.A., M.S.', 'age': 49, 'title': 'Chief Business Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.949
+priceToSalesTrailing12Months§4.3733125
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.44
+pegRatio§0.11
+exchange§NGM
+quoteType§EQUITY
+shortName§Sutro Biopharma, Inc.
+longName§Sutro Biopharma, Inc.
+firstTradeDateEpochUtc§1538055000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7c91bd62-1255-319b-aa7f-8ec1ba93f2fa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§8.0
+targetMeanPrice§14.67
+targetMedianPrice§12.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§5.051
+grossMargins§-2.49071
+ebitdaMargins§0.0
+trailingPegRatio§None

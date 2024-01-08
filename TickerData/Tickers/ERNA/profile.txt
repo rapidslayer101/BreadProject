@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 22:44:35.681556
+address1§1035 Cambridge Street
+address2§Suite 18A
+city§Cambridge
+state§MA
+zip§02141
+country§United States
+phone§212 582 1199
+website§https://eternatx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Eterna Therapeutics Inc. operates as a preclinical-stage, biopharmaceutical company. The company offers Synthetic mRNA, ToRNAdo mRNA Delivery, mRNA Gene Editing, and mRNA Cell Reprogramming. It also develops therapies and medicines using gene-editing proteins and cell therapy technology for the treatment of oncology, blood disorder, and monogenic disease. The company was formerly known as Brooklyn ImmunoTherapeutics, Inc. and changed its name to Eterna Therapeutics Inc. in October 2022. Eterna Therapeutics Inc. is based in Cambridge, Massachusetts.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sanjeev  Luther', 'title': 'CEO, President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra M. Gurrola', 'age': 56, 'title': 'Principal Financial & Accounting Officer and VP of Finance', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan  Yung', 'title': 'Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§8.501
+priceToSalesTrailing12Months§203.62996
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-9.6
+exchange§NCM
+quoteType§EQUITY
+shortName§Eterna Therapeutics Inc.
+longName§Eterna Therapeutics Inc.
+firstTradeDateEpochUtc§683472600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§280db8c6-d665-3e8c-aebc-b7fe5ee139e0
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.657
+grossMargins§-2.33333
+ebitdaMargins§0.0
+trailingPegRatio§None

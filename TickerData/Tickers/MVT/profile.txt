@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 17:31:34.048091
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240207/blackrock-munivest-fund-ii-inc-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock MuniVest Fund II, Inc. is a closed ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets. It invests primarily in long-term municipal bonds exempt from federal income taxes. BlackRock MuniVest Fund II, Inc. was formed on March 29, 1993 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.61
+dividendYield§0.056599997
+exDividendDate§1704931200
+payoutRatio§0.6268
+fiveYearAvgDividendYield§4.92
+beta§0.633
+priceToSalesTrailing12Months§12.794622
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock MuniVest Fund II, Inc
+longName§BlackRock MuniVest Fund II, Inc.
+firstTradeDateEpochUtc§734621400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2cbb9b44-75a3-35f1-8f95-6ab36d2d07f6
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.236
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

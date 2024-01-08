@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 03:27:23.428638
+address1§14817 Oak Lane
+city§Miami Lakes
+state§FL
+zip§33016
+country§United States
+phone§305 569 2000
+website§https://www.bankunited.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§BankUnited, Inc. operates as the bank holding company for BankUnited, a national banking association that provides a range of banking services in the United States. The company offers deposit products, such as checking, money market deposit, and savings accounts; certificates of deposit; and treasury, commercial payment, and cash management services. Its loans portfolio includes commercial loans, including equipment loans, secured and unsecured lines of credit, formula-based lines of credit, owner-occupied commercial real estate term loans and lines of credit, mortgage warehouse lines, capital call lines, letters of credit, commercial credit cards, small business administration and U.S. department of agriculture product offerings, export-import bank financing products, trade finance, and business acquisition finance credit facilities; commercial real estate loans; residential mortgages; and other consumer loans. The company also offers online, mobile, and telephone banking services. It operates through a network of banking centers located in Florida counties and the New York metropolitan area, as well as Dallas, Texas. The company was formerly known as BU Financial Corporation. BankUnited, Inc. was incorporated in 2009 and is headquartered in Miami Lakes, Florida.
+fullTimeEmployees§1598
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rajinder P. Singh', 'age': 52, 'title': 'Chairman, President & CEO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2650134, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leslie N. Lunak', 'age': 65, 'title': 'Chief Financial Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 941089, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas M. Cornish', 'age': 64, 'title': 'Chief Operating Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1549957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rishi  Bansal', 'age': 49, 'title': 'Chief Investment Officer of BankUnited, National Association', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 900889, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay D. Richards', 'age': 52, 'title': 'Chief Risk Officer of BankUnited, National Association', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 788725, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Perry', 'title': 'Executive VP & Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claire  Raley', 'title': 'Senior VP & Community Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  DiSanti', 'title': 'Senior Vice President of Corporate Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Shim', 'title': 'Executive VP & Head of Consumer and Small Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Stacks', 'title': 'Executive VP & Manager of Commercial Real Estate Lending for North Region', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.08
+dividendYield§0.0346
+exDividendDate§1704931200
+payoutRatio§0.35369998
+fiveYearAvgDividendYield§2.98
+beta§1.387
+priceToSalesTrailing12Months§2.6118317
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.83
+pegRatio§1.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§BankUnited, Inc.
+longName§BankUnited, Inc.
+firstTradeDateEpochUtc§1296225000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b6667310-09da-39c4-9070-b8569447005e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.5
+targetLowPrice§23.5
+targetMeanPrice§30.25
+targetMedianPrice§31.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§12
+earningsGrowth§-0.441
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

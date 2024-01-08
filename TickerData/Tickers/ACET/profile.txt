@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 23:43:07.734815
+address1§200 Berkeley Street
+address2§19th Floor
+city§Boston
+state§MA
+zip§02116
+country§United States
+phone§650 503 9095
+website§https://www.adicetbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Adicet Bio, Inc., a clinical stage biotechnology company, discovers and develops allogeneic gamma delta T cell therapies for cancer and other diseases. The company offers gamma delta T cells engineered with chimeric antigen receptors and chimeric adaptors to enhance selective tumor targeting, facilitate innate and adaptive anti-tumor immune response, and enhance persistence for durable activity in patients. Its lead product in pipeline includes ADI-001, which is in Phase I clinical study for the treatment of non-Hodgkin's lymphoma. The company also develops ADI-002, which is undergoing preclinical studies for the treatment of various solid tumors; and ADI-925, a novel engineered CAd gamma delta T cell product candidate targeting tumor stress ligands. Adicet Bio, Inc. is based in Boston, Massachusetts.
+fullTimeEmployees§132
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Chen  Schor BA, CPA, M.B.A.', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 899576, 'exercisedValue': 0, 'unexercisedValue': 1843}, {'maxAge': 1, 'name': 'Dr. Aya  Jakobovits Ph.D.', 'age': 68, 'title': 'Founder & Independent Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 40000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Blake  Aftab Ph.D.', 'age': 42, 'title': 'Senior VP & Chief Scientific Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 675039, 'exercisedValue': 0, 'unexercisedValue': 22015}, {'maxAge': 1, 'name': 'Dr. Francesco  Galimi M.D., Ph.D.', 'age': 55, 'title': 'Chief Medical Officer & Senior VP', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 680365, 'exercisedValue': 0, 'unexercisedValue': 266029}, {'maxAge': 1, 'name': 'Mr. Brian Nicholas Harvey', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 596795, 'exercisedValue': 0, 'unexercisedValue': 84481}, {'maxAge': 1, 'name': 'Dr. Donald  Healey Ph.D.', 'age': 61, 'title': 'Chief Technology Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Locke', 'title': 'Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nancy L. Boman M.D., Ph.D.', 'title': 'Senior VP & Chief Regulatory Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.712
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.52
+pegRatio§-0.02
+exchange§NGM
+quoteType§EQUITY
+shortName§Adicet Bio, Inc.
+longName§Adicet Bio, Inc.
+firstTradeDateEpochUtc§1516977000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§65920c5d-73a6-39e2-8917-c1ab3dd20f9e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§5.0
+targetMeanPrice§15.5
+targetMedianPrice§14.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§9.271
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

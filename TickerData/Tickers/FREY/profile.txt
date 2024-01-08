@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 19:29:37.003210
+address1§22-24, boulevard Royal
+city§Luxembourg City
+zip§2449
+country§Luxembourg
+website§https://www.freyrbattery.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§FREYR Battery engages in the production and sale of battery cells for energy storage system, electric mobility, marine, and aviation applications in Europe and internationally. The company designs and manufactures lithium-ion based battery cell facilities. FREYR Battery was founded in 2018 and is based in Luxembourg.
+fullTimeEmployees§212
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tom-Einar Rysst Jensen', 'age': 52, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 653962, 'exercisedValue': 0, 'unexercisedValue': 18527618}, {'maxAge': 1, 'name': 'Mr. Balaz Peter Matrai', 'age': 50, 'title': 'Co-Founder & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 460000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oscar K. Brown', 'age': 52, 'title': 'Group Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 599850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan Arve Haugan', 'age': 66, 'title': 'Chief Operating Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 544968, 'exercisedValue': 0, 'unexercisedValue': 814616}, {'maxAge': 1, 'name': 'Mr. Jeremy T. Bezdek', 'age': 49, 'title': 'Executive VP of Global Corporate Development & President of FREYR Battery U.S.', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 125000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Birger K. Steen MBA', 'age': 57, 'title': 'CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori A. Papp', 'age': 50, 'title': 'Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andreas  Bentzen', 'age': 47, 'title': 'Chief Technology Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey David Spittel', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Are L. Brautaset', 'age': 52, 'title': 'Chief Legal Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.672
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.19
+exchange§NYQ
+quoteType§EQUITY
+shortName§FREYR Battery
+longName§FREYR Battery, Inc.
+firstTradeDateEpochUtc§1578666600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§122f4087-1429-3891-8a22-3d278efbdc12
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§1.9
+targetMeanPrice§2.97
+targetMedianPrice§2.0
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§6.193
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

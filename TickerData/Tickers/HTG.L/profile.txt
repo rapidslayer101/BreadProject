@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 01:38:25.864658
+address1§30 Panton Street
+address2§5th Floor
+city§London
+zip§SW1Y 4AJ
+country§United Kingdom
+phone§44 20 7321 0123
+fax§44 20 7839 2072
+website§https://www.huntingplc.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Hunting PLC, together with its subsidiaries, provides tools and components for oil and gas and energy industries. The company operates through Hunting Titan, North America, Europe, Middle East and Africa, and Asia Pacific segments. The Hunting Titan segment manufactures and distributes integrated and conventional gun systems and hardware related products. This segment also offers H-2 and H-3 gun systems, controlfire switches, powerset charges, EQUAfrac shaped charges, and T-Set tools. The North America segment offers subsea equipment, intervention tools, electronics and deep hole drilling and precision machining services, as well as connections and oil country tubular goods. The Europe, Middle East and Africa segment supplies threading, legacy pipe storage and related accessories. The Asia Pacific segment manufactures connections, accessories, and intervention equipment. Hunting PLC was founded in 1874 and is based in London, the United Kingdom.
+fullTimeEmployees§2258
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Arthur James Johnson', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2121188, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Ferguson', 'age': 50, 'title': 'Group Finance Director & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 800849, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rick  Bradley', 'age': 62, 'title': 'Chief Operating Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tarryn  Riley', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gregory T. Farmer', 'age': 56, 'title': 'Global Director of QAHSE/Compliance', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Liese  Borden', 'age': 61, 'title': 'Chief Human Resources Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Randy  Walliser', 'age': 62, 'title': 'Managing Director of Canada Operations', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jason  Mai', 'age': 54, 'title': 'Managing Director of Hunting Titan', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Tan', 'age': 59, 'title': 'Managing Director of Asia Pacific Operations', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Scott  George', 'age': 48, 'title': 'Managing Director of North America', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.029000001
+exDividendDate§1696464000
+payoutRatio§0.9821
+fiveYearAvgDividendYield§2.44
+beta§1.125
+priceToSalesTrailing12Months§0.56184155
+currency§GBp
+forwardEps§0.29
+pegRatio§0.3
+exchange§LSE
+quoteType§EQUITY
+shortName§HUNTING PLC ORD 25P
+longName§Hunting PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ca645ba6-b0bb-3508-999b-6aaff644f004
+targetHighPrice§4.42
+targetLowPrice§3.43
+targetMeanPrice§3.87
+targetMedianPrice§3.98
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.138
+grossMargins§0.24184
+ebitdaMargins§0.075619996
+trailingPegRatio§None

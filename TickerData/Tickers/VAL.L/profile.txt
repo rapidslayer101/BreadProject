@@ -1,0 +1,34 @@
+# reload+after+2024-01-21 13:40:55.196974
+address1§Eliot Park Innovation Centre
+address2§4 Barling Way
+city§Nuneaton
+zip§CV10 7RH
+country§United Kingdom
+phone§44 24 7679 6496
+website§https://www.valirx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§ValiRx plc, a biopharmaceutical company, engages in the development of oncology therapeutics and companion diagnostics in the United Kingdom. The company's lead drug candidates include VAL201, a short peptide that has completed Phase I/II trials for the treatment of prostate cancer; and VAL401, a reformulation of anti-psychotic drug risperidone, which has completed Phase II clinical trial for the treatment of end-stage non-small cell lung cancer. Its drug candidates also comprise VAL301, a peptide ingredient that in pre-clinical development for the treatment of endometriosis; and BC201, a combination of the peptide ingredient of VAL201/VAL301 with complementary active components for the treatment for patients suffering severe symptoms of Covid-19. ValiRx plc was incorporated in 2000 and is based in Nuneaton, the United Kingdom.
+fullTimeEmployees§8
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Suzanne J. Dilly B.Sc., BSc, Ph.D.', 'age': 45, 'title': 'CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 160850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Gerry Desler FCA', 'age': 67, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 53000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kumar  Nawani', 'title': 'Head of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Catherine Jane Tralau-Stewart Ph.D.', 'title': 'Chief Scientific Officer & Board Observer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tarquin  Edwards', 'title': 'Head of Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Treharne', 'title': 'Corporate Development Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.605
+currency§GBp
+forwardEps§-1.86
+exchange§LSE
+quoteType§EQUITY
+shortName§VALIRX PLC ORD 0.1P
+longName§ValiRx plc
+firstTradeDateEpochUtc§1010390400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§000c560d-4e7e-3c40-b7cd-daaaaab66571
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§13.372
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

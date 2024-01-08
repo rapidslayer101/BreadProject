@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 02:45:14.899939
+address1§855 South Mint Street
+city§Charlotte
+state§NC
+zip§28202
+country§United States
+phone§704 627 6200
+website§https://www.honeywell.com
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§Honeywell International Inc. operates as a diversified technology and manufacturing company worldwide. Its Aerospace segment offers auxiliary power units, propulsion engines, integrated avionics, environmental control and electric power systems, engine controls, flight safety, communications, navigation hardware, data and software applications, radar and surveillance systems, aircraft lighting, advanced systems and instruments, satellite and space components, and aircraft wheels and brakes; spare parts; repair, overhaul, and maintenance services; and thermal systems, as well as wireless connectivity and management services. The company's Honeywell Building Technologies segment provides software applications for building control and optimization; sensors, switches, control systems, and instruments for energy management; access control; video surveillance; fire products; and installation, maintenance, and upgrades of systems. Its Performance Materials and Technologies segment offers automation control, instrumentation, and software and related services; catalysts and adsorbents, equipment, and consulting; and materials to manufacture end products, such as bullet-resistant armor, nylon, computer chips, and pharmaceutical packaging, as well as provides materials based on hydrofluoro-olefin technology. The company's Safety and Productivity Solutions segment provides personal protection equipment, apparel, gear, and footwear; gas detection technology; cloud-based notification and emergency messaging; mobile devices and software; supply chain and warehouse automation equipment, and software solutions; custom-engineered sensors, switches, and controls; and data and asset management productivity software solutions. The company was founded in 1885 and is headquartered in Charlotte, North Carolina.
+fullTimeEmployees§97000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Darius E. Adamczyk', 'age': 57, 'title': 'Executive Chairman', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 5685333, 'exercisedValue': 33154778, 'unexercisedValue': 73994248}, {'maxAge': 1, 'name': 'Mr. Vimal M. Kapur', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2139578, 'exercisedValue': 464094, 'unexercisedValue': 8248974}, {'maxAge': 1, 'name': 'Mr. Gregory Peter Lewis', 'age': 52, 'title': 'Senior VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2018346, 'exercisedValue': 2113533, 'unexercisedValue': 13640018}, {'maxAge': 1, 'name': 'Ms. Anne T. Madden', 'age': 58, 'title': 'Senior VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2095520, 'exercisedValue': 5139664, 'unexercisedValue': 11979917}, {'maxAge': 1, 'name': 'Dr. Lucian  Boldea Ph.D.', 'age': 51, 'title': 'President and CEO of Industrial Automation, Performance Materials & Technologies Segment', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1230038, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harsh  Bansal', 'title': 'Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert D. Mailloux', 'age': 55, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Suresh  Venkatarayalu', 'title': 'Senior VP and Chief Technology & Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean Christopher Meakim C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Victor J. Miller', 'title': 'VP, Deputy General Counsel, Corporate Secretary & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.32
+dividendYield§0.0212
+exDividendDate§1699488000
+payoutRatio§0.5105
+fiveYearAvgDividendYield§1.99
+beta§1.048
+priceToSalesTrailing12Months§3.6853812
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.97
+pegRatio§2.95
+exchange§NMS
+quoteType§EQUITY
+shortName§Honeywell International Inc.
+longName§Honeywell International Inc.
+firstTradeDateEpochUtc§-252322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b586a6a4-876a-334e-8a5d-322e18a9cb87
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§250.0
+targetLowPrice§175.0
+targetMeanPrice§213.33
+targetMedianPrice§212.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§0.926
+earningsGrowth§-0.004
+grossMargins§0.33968
+ebitdaMargins§0.23932
+trailingPegRatio§2.0394

@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 06:47:56.766094
+address1§425 Pike Street
+city§Seattle
+state§WA
+zip§98101
+country§United States
+phone§206 624 7930
+website§https://www.wafdbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§WaFd, Inc operates as the bank holding company for Washington Federal Bank that provides lending, depository, insurance, and other banking services in the United States. The company offers deposit products, including business and personal checking accounts, and term certificates of deposit, as well as money market accounts and passbook savings accounts. It also provides single-family dwellings, construction, land acquisition and development, consumer lot, multi-family residential, commercial real estate, home equity, business, and consumer loans, as well as commercial and industrial loans. In addition, the company offers insurance brokerage services, such as individual and business insurance policies; holds and markets real estate properties; and debit and credit cards, as well as acts as the trustee. It serves consumers, mid-sized and large businesses, and owners and developers of commercial real estate. The company was formerly known as Washington Federal, Inc. and changed its name to WaFd, Inc in September 2023. WaFd, Inc was founded in 1917 and is headquartered in Seattle, Washington.
+fullTimeEmployees§2120
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brent J. Beardall CPA', 'age': 52, 'title': 'President, CEO & Vice Chairman', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 4741800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelli J. Holz CPA', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 2096152, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kim E. Robison', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 2262335, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan M. Mauer', 'age': 51, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 2411517, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James A. Endrizzi', 'age': 49, 'title': 'Executive VP & Chief Commercial Banker', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 2772492, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cathy E. Cooper', 'age': 57, 'title': 'Executive VP, Chief Consumer Banker & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1806599, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Blayne  Sanden', 'age': 46, 'title': 'Senior VP & Principal Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jim  Motz', 'title': 'Chief Information Officer & Executive VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad  Goode', 'title': 'Chief of Communications, Marketing & Community Relations and Senior VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lisa M. King', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0322
+exDividendDate§1700611200
+payoutRatio§0.26610002
+fiveYearAvgDividendYield§2.95
+beta§0.882
+priceToSalesTrailing12Months§2.8463252
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.46
+pegRatio§1.49
+exchange§NMS
+quoteType§EQUITY
+shortName§WaFd, Inc.
+longName§WaFd, Inc
+firstTradeDateEpochUtc§405700200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§47357a0f-f844-354d-a496-b2af3959213b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§39.0
+targetLowPrice§32.0
+targetMeanPrice§34.75
+targetMedianPrice§34.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§-0.328
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 08:34:04.114791
+longBusinessSummary§The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target. The index includes publicly-issued U.S. Treasury securities that have a remaining maturity greater than or equal to seven years and less than or equal to ten years and have $300 million or more of outstanding face value, excluding amounts held by the Federal Reserve. The fund is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.035
+totalAssets§17051860
+navPrice§44.4633
+currency§USD
+category§Trading--Leveraged Debt
+ytdReturn§-0.0229258
+beta3Year§2.29
+fundFamily§ProShares
+fundInceptionDate§1263859200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.1419815
+fiveYearAverageReturn§-0.0331412
+exchange§PCX
+quoteType§ETF
+shortName§ProShares Ultra 7-10 Year Treas
+longName§ProShares Ultra 7-10 Year Treasury
+firstTradeDateEpochUtc§1265121000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§445eb8b3-48db-3ef8-8701-1882b56df69e
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

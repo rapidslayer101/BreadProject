@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 19:26:33.998075
+address1§210 Route 4 East
+city§Paramus
+state§NJ
+zip§07652-5108
+country§United States
+phone§201 587 8541
+fax§201 708 6214
+website§https://www.alx-inc.com
+industry§REIT - Retail
+industryKey§reit-retail
+industryDisp§REIT - Retail
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Alexander's, Inc. is a real estate investment trust which has five properties in New York City.
+fullTimeEmployees§69
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven  Roth', 'age': 81, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1942, 'fiscalYear': 2022, 'totalPay': 118938, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary W. Hansen', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Macnow CPA', 'age': 77, 'title': 'Treasurer', 'yearBorn': 1946, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Steven J. Borenstein', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§18.0
+dividendYield§0.082399994
+exDividendDate§1698969600
+payoutRatio§0.92980003
+fiveYearAvgDividendYield§7.05
+beta§0.801
+priceToSalesTrailing12Months§5.1865335
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.01
+lastDividendValue§4.5
+lastDividendDate§1698969600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Alexander's, Inc.
+longName§Alexander's, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a202b7a-633a-38a0-aae7-9a3f3b708ab4
+messageBoardId§finmb_248975
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§160.0
+targetLowPrice§160.0
+targetMeanPrice§160.0
+targetMedianPrice§160.0
+recommendationMean§4.0
+recommendationKey§underperform
+numberOfAnalystOpinions§1
+quickRatio§14.545
+earningsGrowth§-0.289
+grossMargins§0.53897
+ebitdaMargins§0.49126998
+trailingPegRatio§None

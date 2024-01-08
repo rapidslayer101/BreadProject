@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 15:35:51.585511
+address1§Wessex House
+address2§One Chesham Street
+city§London
+zip§SW1X 8ND
+country§United Kingdom
+phone§44 0207 201 31 00
+fax§44 0207 201 31 01
+website§https://www.baitgroup.co.uk
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§British & American Investment Trust plc is a publically owned investment manager. The firm manages equity mutual fund for its clients. It invests in public equity markets of United Kingdom. The firm invests predominantly in investment trusts. British & American Investment Trust plc was founded in 1947 and is based in London, United Kingdom.
+fullTimeEmployees§7
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan Charles Woolf', 'age': 65, 'title': 'MD & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 79000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith James Williams A.C.A., ACA', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.1545
+exDividendDate§1670457600
+payoutRatio§0.1815
+fiveYearAvgDividendYield§15.76
+beta§1.22
+priceToSalesTrailing12Months§1.1238761
+currency§GBp
+lastDividendValue§0.0175
+lastDividendDate§1701907200
+exchange§LSE
+quoteType§EQUITY
+shortName§BRITISH & AMERICAN INVESTMENT T
+longName§British & American Ord
+firstTradeDateEpochUtc§820656000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§68aca8e7-9415-3cd3-8a97-c1122a4236df
+messageBoardId§finmb_877294
+recommendationKey§none
+quickRatio§0.168
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

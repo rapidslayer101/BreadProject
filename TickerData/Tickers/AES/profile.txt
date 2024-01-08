@@ -1,0 +1,62 @@
+# reload+after+2024-01-22 00:26:16.982728
+address1§4300 Wilson Boulevard
+address2§11th Floor
+city§Arlington
+state§VA
+zip§22203
+country§United States
+phone§703 522 1315
+website§https://www.aes.com
+industry§Utilities - Diversified
+industryKey§utilities-diversified
+industryDisp§Utilities - Diversified
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§The AES Corporation operates as a diversified power generation and utility company. It owns and/or operates power plants to generate and sell power to customers, such as utilities, industrial users, and other intermediaries. The company also owns and/or operates utilities to generate or purchase, distribute, transmit, and sell electricity to end-user customers in the residential, commercial, industrial, and governmental sectors; and generates and sells electricity on the wholesale market. It uses a range of fuels and technologies to generate electricity, including coal, gas, hydro, wind, solar, and biomass; and renewables, such as energy storage and landfill gas. The company owns and/or operates a generation portfolio of approximately 32,326 megawatts. It has operations in the United States, Puerto Rico, El Salvador, Chile, Colombia, Argentina, Brazil, Mexico, Central America, the Caribbean, Europe, and Asia. The company was formerly known as Applied Energy Services, Inc. and changed its name to The AES Corporation in April 2000. The AES Corporation was incorporated in 1981 and is headquartered in Arlington, Virginia.
+fullTimeEmployees§9100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andres Ricardo Gluski Weilert', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 3897506, 'exercisedValue': 18996284, 'unexercisedValue': 6302729}, {'maxAge': 1, 'name': 'Mr. Stephen  Coughlin', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1365902, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Letitia D. Mendoza', 'age': 47, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1353892, 'exercisedValue': 0, 'unexercisedValue': 1465843}, {'maxAge': 1, 'name': 'Mr. Bernerd  Da Santos', 'age': 59, 'title': 'Executive VP & President of Renewables', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1526336, 'exercisedValue': 0, 'unexercisedValue': 1117638}, {'maxAge': 1, 'name': 'Mr. Juan Ignacio Rubiolo', 'age': 45, 'title': 'Executive VP & President of Energy Infrastructure', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1785925, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ricardo Manuel Falu', 'age': 43, 'title': 'COO, Senior VP and President of New Energy Technologies', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sherry L. Kohan', 'age': 52, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Pasley Keppelman Harcourt', 'age': 40, 'title': 'Vice President of Investor Relations', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul L. Freedman', 'age': 53, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gail  Chalef', 'title': 'Senior Manager of Global Press & Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.67
+dividendYield§0.0356
+exDividendDate§1706659200
+payoutRatio§0.7626
+fiveYearAvgDividendYield§2.97
+beta§1.117
+priceToSalesTrailing12Months§0.9866006
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.9
+pegRatio§1.46
+lastDividendValue§0.166
+lastDividendDate§1698710400
+exchange§NYQ
+quoteType§EQUITY
+shortName§The AES Corporation
+longName§The AES Corporation
+firstTradeDateEpochUtc§677943000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§76b75934-57e2-3b50-befe-2dcd63cf388f
+messageBoardId§finmb_35312
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§18.0
+targetMeanPrice§22.07
+targetMedianPrice§22.31
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.461
+earningsGrowth§-0.458
+grossMargins§0.20165001
+ebitdaMargins§0.26732
+trailingPegRatio§1.434

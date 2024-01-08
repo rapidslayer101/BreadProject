@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 06:33:41.603704
+address1§555 E Lancaster Avenue
+address2§Suite 400
+city§Radnor
+state§PA
+zip§19087
+country§United States
+phone§610 251 1000
+website§https://www.triumphgroup.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Triumph Group, Inc. designs, engineers, manufactures, repairs, overhauls, and distributes aerostructures, aircraft components, accessories, subassemblies, and systems worldwide. It operates in two segments, Triumph Systems & Support, and Triumph Interiors. The company offers aircraft and engine-mounted accessory drives, thermal control systems and components, cargo hooks, high lift actuations, cockpit control levers, hydraulic systems and components, control system valve bodies, landing gear actuation systems, electronic engine controls, landing gear components and assemblies, exhaust nozzles and ducting, main engine gearbox assemblies, geared transmissions and drive train components, main fuel pumps, fuel-metering units, primary and secondary flight control systems, and vibration absorbers. It also provides thermo-acoustic insulation systems, environmental control system ducting, and other aircraft interior components. In addition, the company offers air cycle machines, blades and vanes, auxiliary power units, constant speed drives, combustors, engine and airframe accessories, stators, flight control surfaces, transition ducts, integrated drive generators, sidewalls, nacelles, light assemblies, remote sensors, overhead bins, thrust reversers, and fuel bladder cells, as well as cabin panes, shades, light lenses, and other components. It serves original equipment manufacturers of commercial, regional, and military aircraft. The company was incorporated in 1993 and is headquartered in Radnor, Pennsylvania.
+fullTimeEmployees§4937
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel J. Crowley', 'age': 60, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 2404546, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James F. McCabe Jr.', 'age': 60, 'title': 'Senior VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1293666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kai W. Kasiguran', 'age': 37, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 331368, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer H. Allen', 'age': 51, 'title': 'Senior VP, General Counsel, Secretary & Chief Administrative Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 961340, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Quigley III', 'age': 46, 'title': 'VP of Investor Relations, Mergers & Acquisitions and Treasurer', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 577900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig  Cooper', 'title': 'Vice President of Integrated Supply Chain & Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Moore', 'title': 'CEO of Staff Executive & Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. April  Harper', 'title': 'Director of Marketing & Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katie  Rykal', 'title': 'Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stacey W. Clapp', 'title': 'Chief Commercial Officer & VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1582848000
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.81
+beta§2.796
+priceToSalesTrailing12Months§0.8576359
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.84
+pegRatio§2.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§Triumph Group, Inc.
+longName§Triumph Group, Inc.
+firstTradeDateEpochUtc§846250200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4da7914a-54f1-3944-9fc5-7b6b244bf3e7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§13.0
+targetMeanPrice§15.75
+targetMedianPrice§15.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.412
+grossMargins§0.27797002
+ebitdaMargins§0.13742
+trailingPegRatio§None

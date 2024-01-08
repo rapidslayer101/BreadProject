@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 19:37:58.207594
+address1§One Eleven Edmund Street
+city§Birmingham
+zip§B3 2HJ
+country§United Kingdom
+phone§44 1212 340 000
+website§https://www.gateleyplc.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§Gateley (Holdings) Plc, together with its subsidiaries, provides commercial legal and consultancy services in the United Kingdom, Europe, the Middle East, North and South America, Asia, and internationally. It operates through four segments: Corporate, Business Services, People, and Property. The company offers a range of services, such as legal, banking, corporate, restructuring advisory, taxation, commercial, commercial dispute resolution, complex international litigation, reputation, media, and privacy law services. It also provides employment, pension, and private client services; and real estate, residential development, real estate dispute resolution, construction, and planning services. In addition, the company offers investment, tax incentive, and pension trustee services; specialist property, human capital, and investment consultancy services; architecture, building surveyance, civil and structural engineering services; consultancy, patent attorney, and employee benefit trust services; and corporate advisory, investment, and trustee services. It serves charitable organizations, housebuilders, in-house lawyers and general counsel, international businesses, lenders and financial institutions, pension trustees, retail and hospitality businesses, sports businesses and governing bodies, sureties, and turnaround and insolvency professionals, as well as entrepreneurs and business owners, international high-net-worth individuals, parents and families, and philanthropists. The company was formerly known as Gateley Plc and changed its name to Gateley (Holdings) Plc in May 2015. Gateley (Holdings) Plc was founded in 1808 and is based in Birmingham, the United Kingdom.
+fullTimeEmployees§1455
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Roderick Richard Waldie', 'age': 55, 'title': 'CEO, Partner & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 323000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil Andrew Smith', 'age': 47, 'title': 'CFO, Compliance Officer of Finance & Administration, Company Secretary and Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 240000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria L. Garrad', 'age': 49, 'title': 'COO, Partner, Member of Operations and Strategic Boards & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 225000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick J. Smith', 'age': 54, 'title': 'Head of Investor Relations, Acquisitions Director & Corporate Partner', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cara  Zachariou', 'title': 'Head of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  McGeever', 'age': 65, 'title': 'Partner, Head of Banking & Financial Services and Member of the Strategic Board', 'yearBorn': 1958, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Struckmeier', 'title': 'Partner & Head of Contentious Construction - Scotland', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Healey', 'title': 'Restructuring Litigation Partner & Member of Strategic Board', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Callum  Nuttall', 'age': 55, 'title': 'Partner & Member of the Strategic Board', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.060900003
+exDividendDate§1695859200
+payoutRatio§0.92440003
+beta§1.044
+priceToSalesTrailing12Months§1.2623224
+currency§GBp
+forwardEps§16.56
+exchange§LSE
+quoteType§EQUITY
+shortName§GATELEY (HOLDINGS) PLC ORD 10P
+longName§Gateley (Holdings) Plc
+firstTradeDateEpochUtc§1433746800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5479f07d-35d5-39e8-a9d0-7e230585266a
+targetHighPrice§290.0
+targetLowPrice§160.0
+targetMeanPrice§220.0
+targetMedianPrice§210.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.216
+earningsGrowth§-0.673
+grossMargins§0.40519002
+ebitdaMargins§0.17205
+trailingPegRatio§None

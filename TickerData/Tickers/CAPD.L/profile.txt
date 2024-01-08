@@ -1,0 +1,58 @@
+# reload+after+2024-01-22 10:35:54.395241
+address1§10/11 Park Place
+address2§Ground Floor
+city§London
+zip§SW1A 1LP
+country§United Kingdom
+phone§230 464 3250
+website§https://www.capdrill.com
+industry§Other Industrial Metals & Mining
+industryKey§other-industrial-metals-mining
+industryDisp§Other Industrial Metals & Mining
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Capital Limited, together with its subsidiaries, provides various drilling solutions to customers in the minerals industry. It offers exploration drilling services, including air core, reverse circulation, diamond core, deep hole diamond, directional, and underground diamond drilling; mineral geochemical analysis laboratory services; and grade control drilling services, such as advanced/deep grade control, shallow grade control, reverse circulation, and underground diamond drilling. The company also provides blast hole drilling services that include pre-splits, down the hole, and rotary top hammer services; load and haul, rehandling, equipment hire and maintenance, and management services; and hydraulic, general maintenance and fabrication, mining supplies, asset rentals, and asset and component rebuild services. In addition, it offers core orientation, rig alignment, borehole management, geophysical logging, and equipment rental and IT support services. The company was formerly known as Capital Drilling Limited and changed its name to Capital Limited in June 2020. Capital Limited was founded in 2004 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§2585
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jamie Phillip Boyton', 'age': 51, 'title': 'Executive Chairman', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 947815, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Stokes', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 440113, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Rudd', 'age': 59, 'title': 'Founder, Director of Business Development & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 523420, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rick  Robson', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Conor Peter Rowley', 'title': 'Investor Relations & Corporate Development Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jodie  North', 'title': 'Chief Operating Officer of Drilling', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Court', 'title': 'Chief Executive Officer of Mining', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dwayne  Symonds', 'title': 'Chief Operating Officer of Mining', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Thomson', 'title': 'Chief Executive Officer of MSALABS', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Catherine  Apthorpe', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0341
+exDividendDate§1693440000
+payoutRatio§0.2651
+fiveYearAvgDividendYield§2.75
+beta§0.605
+priceToSalesTrailing12Months§0.5815476
+currency§GBp
+forwardEps§0.16
+lastDividendValue§1.3
+lastDividendDate§1693440000
+exchange§LSE
+quoteType§EQUITY
+shortName§CAPITAL LIMITED COMM SHS USD0.0
+longName§Capital Limited
+firstTradeDateEpochUtc§1263283200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e1696733-530d-3248-88bd-43ea4ca702df
+messageBoardId§finmb_51829080
+targetHighPrice§1.72
+targetLowPrice§1.39
+targetMeanPrice§1.55
+targetMedianPrice§1.52
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.621
+earningsGrowth§0.889
+grossMargins§0.47081003
+ebitdaMargins§0.29209998
+trailingPegRatio§None

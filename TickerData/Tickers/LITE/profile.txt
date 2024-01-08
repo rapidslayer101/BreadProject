@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 22:45:48.602450
+address1§1001 Ridder Park Drive
+city§San Jose
+state§CA
+zip§95131
+country§United States
+phone§408 546 5483
+website§https://www.lumentum.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§Lumentum Holdings Inc. manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. The company operates through two segments: Optical Communications (OpComms) and Commercial Lasers (Lasers). The OpComms segment offers components, modules, and subsystems that enable the transmission and transport of video, audio, and data over high-capacity fiber optic cables. It offers tunable transponders, transceivers, and transmitter modules; tunable lasers, receivers, and modulators; transport products, such as reconfigurable optical add/drop multiplexers, amplifiers, and optical channel monitors, as well as components, including 980nm, multi-mode, and Raman pumps; and switches, attenuators, photodetectors, gain flattening filters, isolators, wavelength-division multiplexing filters, arrayed waveguide gratings, multiplex/de-multiplexers, and integrated passive modules. This segment also provides Super Transport Blade, which integrates optical transport functions into a single-slot blade; vertical-cavity surface-emitting lasers; directly modulated and electro-absorption modulated lasers; and laser illumination sources for 3D sensing systems. It serves customers in telecommunications, data communications, and consumer and industrial markets. The Commercial Lasers segment offers diode-pumped solid-state, fiber, diode, direct-diode, and gas lasers, such as argon-ion and helium-neon lasers for use in original equipment manufacturer applications. It serves customers in markets and applications, such as sheet metal processing, general manufacturing, biotechnology, solar cell processing, graphics and imaging, remote sensing, and precision machining. Lumentum Holdings Inc. was incorporated in 2015 and is headquartered in San Jose, California.
+fullTimeEmployees§7500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alan S. Lowe', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1377113, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wajid  Ali B.A., C.M.A., M.A., M.B.A.', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 712170, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judy G. Hamel', 'age': 57, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 611000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Reinhardt', 'age': 49, 'title': 'Executive VP & GM', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 614989, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent  Retort', 'age': 69, 'title': 'President of Industrial Tech', 'yearBorn': 1954, 'fiscalYear': 2023, 'totalPay': 727982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Misha  Rozenberg', 'age': 61, 'title': 'Senior VP of Global Operations & Chief Quality Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Joseph Sepe', 'title': 'VP of Finance, Corporate Controller & Chief Accounting Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kathryn  Ta', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher W. Coldren', 'age': 52, 'title': 'Senior VP and Chief Strategy & Corporate Development Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 587793, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Pan', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.173
+priceToSalesTrailing12Months§2.1431613
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.37
+pegRatio§2.5
+exchange§NMS
+quoteType§EQUITY
+shortName§Lumentum Holdings Inc.
+longName§Lumentum Holdings Inc.
+firstTradeDateEpochUtc§1437658200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c9a5c46c-20d1-3700-94c4-7dcf4c5eaf00
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§40.0
+targetMeanPrice§51.19
+targetMedianPrice§53.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§3.659
+grossMargins§0.35529998
+ebitdaMargins§0.101789996
+trailingPegRatio§None

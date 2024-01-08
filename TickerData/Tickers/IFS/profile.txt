@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 03:30:25.401074
+address1§Torre Interbank
+address2§Av. Carlos VillarAn 140 La Victoria
+city§Lima
+zip§13
+country§Peru
+phone§51 1 615 9011
+website§https://www.ifs.com.pe
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Intercorp Financial Services Inc. provides banking, insurance, wealth management, and payment services for retail and commercial clients in Peru. The company provides loans, credit facilities, deposits, and current accounts; life annuity products with single-premium payment and conventional life insurance products, as well as other retail insurance products; and brokerage and investment management services. It also engages in management, operation, and processing of credit and debit cards. The company was incorporated in 1897 and is based in Lima, Peru. Intercorp Financial Services Inc. operates as a subsidiary of Intercorp Perú Ltd.
+fullTimeEmployees§8076
+companyOfficers§[{'maxAge': 1, 'name': 'Lord Luis Felipe Castellanos Lopez-Torres B.B.A.', 'age': 53, 'title': 'CEO & GM', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michela  Casassa Ramat B.B.A.', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Liliana Elcira Vera Villacorta M.B.A.', 'age': 49, 'title': 'Chief Accounting Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ernesto Giancarlo Ferrero Merino M.B.A.', 'age': 50, 'title': 'Investor Relations Officer', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juan Antonio Castro Molina M.B.A.', 'age': 52, 'title': 'General Counsel', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katia Mercedes Lung Won B.B.A., M.B.A.', 'age': 55, 'title': 'Chief Compliance Officer', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gonzalo Jose Basadre Brazzini B.B.A.', 'age': 53, 'title': 'Deputy Chief Executive Officer', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Zelma Francisca Acosta-Rubio Rodríguez', 'age': 58, 'title': 'Chief Sustainability Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Moffat', 'title': 'Chief Customer Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos  Tori Grande', 'age': 47, 'title': 'Executive Vice President of Payments', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.18
+dividendYield§0.0533
+exDividendDate§1682553600
+payoutRatio§0.4459
+beta§0.834
+priceToSalesTrailing12Months§0.5845958
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.79
+pegRatio§1.09
+exchange§NYQ
+quoteType§EQUITY
+shortName§Intercorp Financial Services In
+longName§Intercorp Financial Services Inc.
+firstTradeDateEpochUtc§1561987800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§37e990e8-3e0a-31ff-8ddd-00a2ac769790
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.9
+targetLowPrice§25.0
+targetMeanPrice§28.18
+targetMedianPrice§26.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.655
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

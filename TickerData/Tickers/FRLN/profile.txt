@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 13:44:51.917585
+address1§Sycamore House
+address2§Gunnels Wood Road
+city§Stevenage
+zip§SG1 2BP
+country§United Kingdom
+phone§44 14 3890 6870
+website§https://www.freeline.life
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Freeline Therapeutics Holdings plc, a clinical-stage biotechnology company, develops transformative adeno-associated virus (AAV) vector-mediated gene therapies. It develops FLT180a for the treatment of hemophilia B.; FLT201 for the treatment of Type 1 Gaucher disease; and FLT190 for the treatment of Fabry disease. in addition, it has research programs for systemic gene therapy. The company was founded in 2015 and is headquartered in Stevenage, the United Kingdom.
+fullTimeEmployees§152
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael J. Parini J.D.', 'age': 48, 'title': 'CEO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 2160000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul M. Schneider', 'age': 52, 'title': 'CFO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Henning R. Stennicke Ph.D.', 'age': 55, 'title': 'Chief Scientific Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Jones SPHR', 'age': 52, 'title': 'Chief People Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Bircher', 'age': 55, 'title': 'Chief Technical Operations Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Pamela  Foulds M.D.', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Naomi  Aoki', 'title': 'Senior Vice President of Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy J. Spandau', 'age': 48, 'title': 'Interim Head of Finance', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.656
+priceToSalesTrailing12Months§44.420265
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-8.41
+exchange§NCM
+quoteType§EQUITY
+shortName§Freeline Therapeutics Holdings 
+longName§Freeline Therapeutics Holdings plc
+firstTradeDateEpochUtc§1596807000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§907903be-4309-3625-85aa-54f512b517d0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§6.5
+targetMeanPrice§8.25
+targetMedianPrice§8.25
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.847
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 23:43:21.134790
+address1§1017 Ranch Road 620 South
+address2§Suite 107
+city§Lakeway
+state§TX
+zip§78734
+country§United States
+phone§(512) 598-0931
+website§https://www.anebulo.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Anebulo Pharmaceuticals, Inc., a clinical-stage biotechnology company, engages in developing solutions for people suffering from acute cannabinoid intoxication (ACI) and substance addiction. The company's lead product candidate is ANEB-001, a small molecule cannabinoid receptor antagonist, which is in a Phase II clinical trial to address the unmet medical need for a specific antidote for ACI. Anebulo Pharmaceuticals, Inc. was incorporated in 2020 and is based in Lakeway, Texas.
+fullTimeEmployees§2
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Joseph F. Lawler M.D., Ph.D.', 'age': 51, 'title': 'Founder & Chairman', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 11000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kenneth C. Cundy Ph.D.', 'age': 64, 'title': 'Chief Scientific Officer', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 425150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Anthony Cunningham', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel V. George', 'age': 53, 'title': 'Principal Accounting Officer, Acting CFO & Secretary', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott L. Anderson', 'title': 'Head of Investor Relations & Public Affairs', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.097
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.61
+exchange§NCM
+quoteType§EQUITY
+shortName§Anebulo Pharmaceuticals, Inc.
+longName§Anebulo Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1620394200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc68cd91-6097-3786-8f7e-3d915060bcb8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§6.0
+targetMeanPrice§6.5
+targetMedianPrice§6.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§11.891
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

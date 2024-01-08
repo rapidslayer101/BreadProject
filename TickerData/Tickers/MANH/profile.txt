@@ -1,0 +1,51 @@
+# reload+after+2024-01-19 23:45:54.805209
+address1§2300 Windy Ridge Parkway
+address2§Tenth Floor
+city§Atlanta
+state§GA
+zip§30339
+country§United States
+phone§770 955 7070
+website§https://www.manh.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Manhattan Associates, Inc. develops, sells, deploys, services, and maintains software solutions to manage supply chains, inventory, and omni-channel operations. It offers Manhattan SCALE, a portfolio of logistics execution solutions that provide trading partner management, yard management, optimization, warehouse management, and transportation execution services; and Manhattan Active, a set of enterprise and omnichannel solution, which include enterprise solutions and omnichannel solutions for store. The company also provides inventory optimization, planning, and allocation solutions; technology platform including Manhattan Active Platform solutions, a cloud-native product designed to provide version-less product access; maintenance services, which offers comprehensive program that provides on-premises software licensees with software upgrades for additional or improved functionality and technological advances incorporating emerging supply chain and industry advances; and professional services, such as solutions planning and implementation, and related consulting services. In addition, it provides training and change management services; resells computer hardware, radio frequency terminal networks, radio frequency identification chip readers, bar code printers and scanners, and other peripherals. Further, the company offers products through direct sales personnel, as well as through partnership agreements with various organizations. It serves retail, consumer goods, food and grocery, logistics service providers, industrial and wholesale, high technology and electronics, life sciences, and government industries. The company operates in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. Manhattan Associates, Inc. was founded in 1990 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§4150
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eddie  Capel', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1628729, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Deepak  Raghavan Ph.D.', 'age': 56, 'title': 'Co-Founder & Independent Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 60000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis B. Story', 'age': 59, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 954198, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda C. Pinne', 'age': 49, 'title': 'Senior VP, Global Corporate Controller & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 424390, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce S. Richards', 'age': 68, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 680505, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Howell', 'age': 50, 'title': 'Executive Vice President of Americas', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 915123, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanjeev  Siotia', 'title': 'Executive VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann Sung Ruckstuhl', 'age': 60, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Hough', 'title': 'Senior VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raghav  Sibal', 'title': 'Managing Director of Australia & New Zealand', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.469
+priceToSalesTrailing12Months§13.813445
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.64
+pegRatio§3.8
+exchange§NMS
+quoteType§EQUITY
+shortName§Manhattan Associates, Inc.
+longName§Manhattan Associates, Inc.
+firstTradeDateEpochUtc§893338200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bca2d3cb-5792-36d8-9daa-75bfcd1248ab
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§245.0
+targetLowPrice§190.0
+targetMeanPrice§221.67
+targetMedianPrice§227.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.099
+earningsGrowth§0.0
+grossMargins§0.53421
+ebitdaMargins§0.22674
+trailingPegRatio§2.2

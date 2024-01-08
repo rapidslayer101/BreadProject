@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 10:43:33.143840
+address1§525 Washington Boulevard
+address2§Suite 1400
+city§Jersey City
+state§NJ
+zip§07310
+country§United States
+phone§201 793 1111
+website§https://www.avepoint.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§AvePoint, Inc. provides cloud-native software platform solutions. It also offers software-as-a-service solutions and productivity applications. The company offers modularity and cloud services architecture to address management of data to organizations that leverage third-party cloud vendors, including Microsoft, Salesforce, Google, AWS, Box, DropBox, and others. AvePoint, Inc. was incorporated in 2001 and is headquartered in Jersey City, New Jersey.
+fullTimeEmployees§2187
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Xunkai  Gong', 'age': 61, 'title': 'Co-founder & Executive Chairman', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 680000, 'exercisedValue': 0, 'unexercisedValue': 4132958}, {'maxAge': 1, 'name': 'Dr. Tianyi  Jiang', 'age': 48, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 702000, 'exercisedValue': 0, 'unexercisedValue': 2777856}, {'maxAge': 1, 'name': 'Mr. James  Caci', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 514500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Michael Brown', 'age': 50, 'title': 'Chief Legal & Compliance Officer, Secretary and Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 595000, 'exercisedValue': 0, 'unexercisedValue': 1508493}, {'maxAge': 1, 'name': 'Mr. Stuart  Robertson', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sophia  Wu', 'age': 47, 'title': 'Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei  Chen', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dana Louise Simberkoff J.D., Cipp', 'title': 'Chief Risk, Privacy and Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clara  Lim', 'title': 'Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Arestia', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.873
+priceToSalesTrailing12Months§5.471643
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.14
+exchange§NMS
+quoteType§EQUITY
+shortName§AvePoint, Inc.
+longName§AvePoint, Inc.
+firstTradeDateEpochUtc§1572964200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8f2cc5ec-5d63-3a41-afef-e846912b9c12
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§6.0
+targetMeanPrice§8.75
+targetMedianPrice§8.75
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.872
+grossMargins§0.71136004
+ebitdaMargins§-0.06279
+trailingPegRatio§None

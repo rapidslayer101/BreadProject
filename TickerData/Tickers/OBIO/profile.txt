@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 19:46:22.933072
+address1§150 Union Square Drive
+city§New Hope
+state§PA
+zip§18938
+country§United States
+phone§212 862 5797
+website§https://orchestrabiomed.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Orchestra BioMed Holdings, Inc. operates as a biomedical innovation company. The company's flagship product candidates include BackBeat Cardiac Neuromodulation Therapy (CNT) for the treatment of hypertension; and Virtue Sirolimus AngioInfusion Balloon (SAB) for the treatment of atherosclerotic artery disease. Its products also comprise FreeHold devices and minimally invasive surgery devices. The company has a strategic collaboration with Medtronic for the development and commercialization of BackBeat CNT for the treatment of hypertension in patients indicated for a cardiac pacemaker; and a strategic partnership with Terumo Corporation for the development and commercialization of Virtue SAB for the treatment of coronary and peripheral artery disease. Orchestra BioMed Holdings, Inc. is based in New Hope, Pennsylvania.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David P. Hochman', 'age': 48, 'title': 'Founder, Chairman of the Board of Directors & CEO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 790000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren R. Sherman', 'age': 52, 'title': 'Founder, President, COO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 790000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Lawrence Taylor M.B.A.', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Inessa R. Wheeler', 'title': 'Vice President of Strategy & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Reed Little', 'age': 52, 'title': 'Executive VP of Corporate Development & Strategy', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yuval Hay Mika D.Sc, Ph.D.', 'title': 'GM & CTO of Bioelectronic Therapies', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. George  Papandreou Ph.D.', 'title': 'Senior VP & GM of Focal Therapies', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hans-Peter  Stoll M.D., Ph.D.', 'title': 'Chief Clinical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Avraham Matityahu Fischer M.D.', 'age': 67, 'title': 'Senior Vice President of Medical Affairs & Innovation', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bob  Laughner', 'title': 'Senior Vice President of Regulatory & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.24
+priceToSalesTrailing12Months§74.04894
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.8
+exchange§NGM
+quoteType§EQUITY
+shortName§Orchestra BioMed Holdings, Inc.
+longName§Orchestra BioMed Holdings, Inc.
+firstTradeDateEpochUtc§1596547800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a402dddb-325d-39c3-9680-3a177cd14f95
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§15.0
+targetMeanPrice§17.0
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§5.073
+grossMargins§0.94668
+ebitdaMargins§0.0
+trailingPegRatio§None

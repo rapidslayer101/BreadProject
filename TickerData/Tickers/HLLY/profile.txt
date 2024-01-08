@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 15:30:12.586399
+address1§1801 Russellville Road
+city§Bowling Green
+state§KY
+zip§42101
+country§United States
+phone§270 782 2900
+website§https://www.holley.com
+industry§Auto Parts
+sector§Consumer Cyclical
+longBusinessSummary§Holley Inc. operates as designer, marketer, and manufacturer of automotive aftermarket products for car and truck enthusiasts. Its products span various automotive platforms and sells across multiple channels. The company's products include carburetors, fuel pumps, fuel injection systems, nitrous oxide injection systems, superchargers, exhaust headers, mufflers, distributors, ignition components, engine tuners, automotive performance plumbing products, and exhaust products as well as shifters, converters, transmission kits, transmissions, tuners, and automotive software. It also offers wheels, chassis and suspension products, helmets, head and neck restraints, seat belts, fire suits, and electronic control and monitoring systems. The company sells its products under the Holley, Holley EFI, APR, MSD, Flowmaster, Powerteq, Accel, and Simpson brands to retailers directly, as well as through distributors and online platform. It operates in the United States, Canada, Europe, and China. The company was founded in 1903 and is headquartered in Bowling Green, Kentucky.
+fullTimeEmployees§1622
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew E. Rubel', 'age': 65, 'title': 'Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 120000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Appelgate', 'age': 66, 'title': 'Head of Mergers & Acquisitions and Interim COO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 207128, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carly  Kennedy', 'age': 41, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 624700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew J. Stevenson', 'age': 45, 'title': 'President, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesse  Weaver', 'age': 41, 'title': 'Chief Financial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terrill M. Rutledge', 'age': 54, 'title': 'Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vinod  Nimmagadda', 'age': 29, 'title': 'Executive Vice President of Corporate Development & New Ventures', 'yearBorn': 1994, 'fiscalYear': 2022, 'totalPay': 518216, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick Lee Pierce', 'age': 42, 'title': 'Chief Human Resources Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean C. Crawford', 'age': 40, 'title': 'Chief Product Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 372163, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.606
+priceToSalesTrailing12Months§0.8321244
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+pegRatio§0.29
+exchange§NYQ
+quoteType§EQUITY
+shortName§Holley Inc.
+longName§Holley Inc.
+firstTradeDateEpochUtc§1606487400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c798caa7-7062-3173-bff1-bfd053c01253
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.0
+targetMeanPrice§7.75
+targetMedianPrice§8.75
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.948
+earningsGrowth§-0.976
+grossMargins§0.37622002
+ebitdaMargins§0.14452
+trailingPegRatio§None

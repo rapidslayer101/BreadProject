@@ -1,0 +1,24 @@
+# reload+after+2024-01-22 11:32:38.341459
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. S&P DJI compiles, maintains and calculates the index, which is designed to measure the performance of 90% of the stocks within the S&P 500® Index after excluding those with the lowest quality, value and momentum multi-factor score. The index is composed of securities with multi-factor scores representing the top 90% of the parent index, as determined by the index provider. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.014199999
+totalAssets§896597440
+navPrice§27.45
+currency§USD
+category§Large Blend
+ytdReturn§-0.0115844
+beta3Year§0.0
+fundFamily§Invesco
+fundInceptionDate§1624838400
+legalType§Exchange Traded Fund
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 QVM Multi-facto
+longName§Invesco S&P 500 QVM Multi-factor ETF
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§05896935-e63d-33a3-88f2-ce5f1dcab81d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

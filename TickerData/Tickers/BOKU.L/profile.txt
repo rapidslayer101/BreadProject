@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 18:35:48.486424
+address1§660 Market Street
+address2§Suite 400
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+website§https://www.boku.com
+industry§Software - Infrastructure
+industryKey§software-infrastructure
+industryDisp§Software - Infrastructure
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Boku, Inc. provides local payment solutions for merchants. The company offers mobile payments solutions, including mobile wallets, direct carrier billing, and real-time payments schemes. It also provides mobile identity and authentication solutions. The company connects its customers with mobile network operators. It operates in the United states, Europe, and internationally. The company was incorporated in 2008 and is headquartered in San Francisco, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Keith  Butcher ACA, Bsc', 'age': 60, 'title': 'CFO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 326972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart Paul Neal', 'age': 51, 'title': 'Chief Executive Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Newton-Smith', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Lee', 'age': 47, 'title': 'Chief Product Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Stannard', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.087
+priceToSalesTrailing12Months§5.725519
+currency§GBp
+forwardEps§0.05
+pegRatio§9.72
+exchange§LSE
+quoteType§EQUITY
+shortName§BOKU, INC. CMN SHS USD0.0001 (D
+longName§Boku, Inc.
+firstTradeDateEpochUtc§1511164800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§74c12423-3fc2-3509-ad7b-f45a6ded2b71
+messageBoardId§finmb_60268423
+targetHighPrice§3.06
+targetLowPrice§1.64
+targetMeanPrice§2.05
+targetMedianPrice§1.74
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§1.252
+earningsGrowth§-0.939
+grossMargins§0.97029
+ebitdaMargins§0.13404
+trailingPegRatio§None

@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 06:44:55.482963
+address1§19 South Second Street
+city§Oakland
+state§MD
+zip§21550-0009
+country§United States
+phone§800 470 4356
+website§https://mybank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First United Corporation operates as the bank holding company for First United Bank & Trust that provides various retail and commercial banking services to businesses and individuals. It offers various deposit products, which includes checking, savings, and money market deposit accounts, as well as certificates of deposit. The company loan portfolio includes commercial loans secured by real estate, commercial equipment, vehicles, or other assets of the borrower; commercial real estate loans for residential and commercial development, agricultural purpose properties, and service industry buildings; residential mortgage loans; home equity lines of credit; residential real estate construction loans; and indirect and direct auto loans, student loans, term loans, and other secured and unsecured lines of credit and term loans. It also offers access to multi-million-dollar certificates of deposit and the insured cash sweep program including multi-million-dollar savings and demand deposits to municipalities, businesses, and consumers; and treasury management, cash sweep, and various checking services. In addition, the company provides trust services, which includes personal trust, investment agency accounts, charitable trusts, retirement accounts including IRA roll-overs, 401(k) accounts and defined benefit plans, estate administration, and estate planning; and insurance products, brokerage services, and safe deposit and night depository facilities. First United Corporation was incorporated in 1984 and is headquartered in Oakland, Maryland.
+fullTimeEmployees§298
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Carissa L. Rodeheaver CPA, CFP', 'age': 57, 'title': 'Chairman, President & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 610459, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason B. Rush', 'age': 52, 'title': 'Senior VP & COO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 376765, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Fisher II', 'age': 54, 'title': 'Senior VP & Chief Revenue Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 393835, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tonya K. Sturm', 'age': 56, 'title': 'Senior VP, CFO, Corporate Secretary & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith R. Sanders M.B.A.', 'age': 53, 'title': 'Senior VP & Senior Trust Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 217827, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0343
+exDividendDate§1705449600
+payoutRatio§0.2417
+fiveYearAvgDividendYield§3.13
+beta§0.844
+priceToSalesTrailing12Months§2.0564294
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.25
+exchange§NMS
+quoteType§EQUITY
+shortName§First
+longName§First United Corporation
+firstTradeDateEpochUtc§715527000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1e49c8ad-07b6-3571-bfca-faf18ac9fa5b
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+earningsGrowth§-0.356
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

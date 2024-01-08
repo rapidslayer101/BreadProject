@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 10:44:04.787889
+address1§Perryville III Building
+address2§Suite 220 53 Frontage Road
+city§Hampton
+state§NJ
+zip§08827
+country§United States
+phone§908 200 7500
+fax§908 454 1911
+website§https://www.celldex.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Celldex Therapeutics, Inc., a biopharmaceutical company, engages in developing therapeutic monoclonal and bispecific antibodies for the treatment of various diseases. Its drug candidates include antibody-based therapeutics to treat patients with inflammatory diseases and various forms of cancer. The company's clinical development programs CDX-0159, a Phase II monoclonal antibody that binds the receptor tyrosine kinase KIT and inhibits its activity; CDX-1140, a human agonist monoclonal antibody targeted to CD40, a key activator of immune response, which is found on dendritic cells, macrophages, and B cells, as well as is expressed on various cancer cells; and CDX-527, a bispecific antibody, which uses the company's proprietary active anti-PD-L1 and CD27 human antibodies to couple CD27 costimulation with blockade of the PD-L1/PD-1 pathway to help prime and activate anti-tumor T cell responses through CD27 costimulation. It has research collaboration and license agreements with University of Southampton to develop human antibodies towards CD27; Amgen Inc. with exclusive rights to CDX-301 and CD40 ligand; and Yale University. The company was incorporated in 1983 and is headquartered in Hampton, New Jersey.
+fullTimeEmployees§148
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony S. Marucci M.B.A.', 'age': 61, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1139033, 'exercisedValue': 3905158, 'unexercisedValue': 8406907}, {'maxAge': 1, 'name': 'Dr. Tibor  Keler', 'age': 64, 'title': 'Founder, Chief Scientific Officer & Executive VP', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 739027, 'exercisedValue': 575740, 'unexercisedValue': 5392443}, {'maxAge': 1, 'name': 'Mr. Sam  Martin', 'age': 52, 'title': 'Senior VP, CFO, Secretary & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 617256, 'exercisedValue': 634899, 'unexercisedValue': 3165449}, {'maxAge': 1, 'name': 'Dr. Margo  Heath-Chiozzi M.D.', 'age': 66, 'title': 'Senior Vice President of Regulatory Affairs', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 614125, 'exercisedValue': 0, 'unexercisedValue': 4001729}, {'maxAge': 1, 'name': 'Dr. Diane C. Young M.D.', 'age': 66, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 643497, 'exercisedValue': 2042396, 'unexercisedValue': 1336031}, {'maxAge': 1, 'name': 'Prof. Joseph P. Schlessinger Ph.D.', 'age': 78, 'title': 'Co-Founder & Member of Scientific Advisory Board', 'yearBorn': 1945, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Cavanaugh', 'age': 48, 'title': 'Senior Vice President of Corporate Affairs & Administration', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Patrick  Till', 'title': 'Senior Director of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Freddy A. Jimenez Esq.', 'age': 54, 'title': 'Senior VP & General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 579698, 'exercisedValue': 0, 'unexercisedValue': 944122}, {'maxAge': 1, 'name': 'Dr. Ronald A. Pepin', 'age': 67, 'title': 'Chief Business Officer & Senior VP', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 441839, 'exercisedValue': 0, 'unexercisedValue': 2023453}]
+auditRisk§2
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.968
+priceToSalesTrailing12Months§497.15176
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.09
+exchange§NCM
+quoteType§EQUITY
+shortName§Celldex Therapeutics, Inc.
+longName§Celldex Therapeutics, Inc.
+firstTradeDateEpochUtc§516547800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§467427db-31ce-3688-87cf-dec0758b5a4b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§80.0
+targetLowPrice§19.0
+targetMeanPrice§55.71
+targetMedianPrice§65.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§8.464
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

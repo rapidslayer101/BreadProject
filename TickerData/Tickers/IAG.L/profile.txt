@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 17:38:29.059030
+address1§Waterside (HAA2)
+address2§PO Box 365
+city§Harmondsworth
+zip§UB7 0GB
+country§United Kingdom
+website§https://www.iairgroup.com
+industry§Airlines
+sector§Industrials
+longBusinessSummary§International Consolidated Airlines Group S.A., together with its subsidiaries, engages in the provision of passenger and cargo transportation services in the United Kingdom, Spain, Ireland, the United States, and rest of the world. It also provides aircraft leasing, aircraft maintenance, tour operation, call centre, ground handling, trustee, storage and custody, and airport infrastructure development services. The company operates under the British Airways, Iberia, Vueling, Aer Lingus, and LEVEL brands. It operates a fleet of 558 aircraft. The company was incorporated in 2009 and is headquartered in Harmondsworth, United Kingdom.
+fullTimeEmployees§52835
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Luis  Gallego Martin', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2605537, 'exercisedValue': 0, 'unexercisedValue': 430525}, {'maxAge': 1, 'name': 'Mr. Nicholas Theodore Cadbury FCA', 'age': 57, 'title': 'CFO & Interim Non-Executive Chairman of Cargo', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jorge  Saco', 'title': 'Chief Information, Procurement, Services & Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew James Light', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Clements', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Sullivan', 'title': 'Chief Transformation & Corporate Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carolina Sandra Martinoli', 'age': 53, 'title': 'Chief People, Corporate Affairs & Sustainability Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glenn  Morgan', 'title': 'Head of Digital Business Transformation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julio  Rodriguez', 'age': 48, 'title': 'Chief Commercial Strategy Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alvaro  Lopez-Jorrin Hernandez', 'title': 'Secretary of the Board of Directors', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1593648000
+payoutRatio§0.0
+fiveYearAvgDividendYield§5.05
+beta§2.267
+priceToSalesTrailing12Months§0.26626197
+currency§GBp
+forwardEps§0.33
+pegRatio§0.1
+exchange§LSE
+quoteType§EQUITY
+shortName§INTERNATIONAL CONSOLIDATED AIRL
+longName§International Consolidated Airlines Group S.A.
+firstTradeDateEpochUtc§1041494400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f7c1e4e8-c32e-3c99-bdae-02fa3c819354
+targetHighPrice§4.13
+targetLowPrice§1.38
+targetMeanPrice§2.24
+targetMedianPrice§2.07
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§17
+earningsGrowth§0.455
+grossMargins§0.2708
+ebitdaMargins§0.15461999
+trailingPegRatio§None

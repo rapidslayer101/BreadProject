@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 23:39:41.945569
+address1§Forward House
+address2§17 High Street
+city§Henley-in-Arden
+zip§B95 5AA
+country§United Kingdom
+phone§44 3302 231 430
+website§https://www.mercia.co.uk
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Mercia Asset Management PLC is a private equity and venture capital firm specializing in incubation, seed EIS, early stage, emerging growth, mid venture, late stage and growth capital investments. It invests in technology focusing on sectors such as digital entertainment, consumer services, media, retailing, energy, healthcare, industrials, materials, real estate, telecommunication services, gaming, internet, software, electronics and hardware, advanced materials, transportation, biosciences, engineering and specialist manufacturing, and life sciences. The firm invests in Midlands, North of the United Kingdom, the North of England, and Scotland. It typically invest between £1 million ($1.25 million) and £10 million ($12.52 million). The firm also makes equity investments in companies either directly or via its funds under management and can also provide investments in form of debt or convertible securities. It prefers to take majority or minority stake in its portfolio companies. It seeks board position in its portfolio companies. Mercia Asset Management PLC was founded in April, 2014 and is based in Henley-in-Arden, United Kingdom with additional offices in Europe.
+fullTimeEmployees§140
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Mark Andrew Payton Ph.D.', 'age': 55, 'title': 'CEO,MD & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 469000, 'exercisedValue': 0, 'unexercisedValue': 19877}, {'maxAge': 1, 'name': 'Mr. Raymond Kenneth Chamberlain', 'age': 78, 'title': 'Co-Founder & Non-Executive Director', 'yearBorn': 1945, 'fiscalYear': 2023, 'totalPay': 40000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin James Glanfield', 'age': 63, 'title': 'CFO & Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 384000, 'exercisedValue': 0, 'unexercisedValue': 17284}, {'maxAge': 1, 'name': 'Mr. Julian George Viggars', 'age': 55, 'title': 'Chief Investment Officer & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 383000, 'exercisedValue': 0, 'unexercisedValue': 17284}, {'maxAge': 1, 'name': 'Ms. Jocelyne  Bath', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul  Mattick Ph.D.', 'title': 'Head of Sales & Private Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah Louise Anne Williams L.L.B.', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rosie  Bhattacharjee', 'title': 'Compliance Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Dwyer', 'title': 'Head of Marketing & Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Heaselgrave', 'title': 'Head of People, Talent & Workspaces', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.028399998
+exDividendDate§1701907200
+payoutRatio§1.3175
+beta§1.233
+priceToSalesTrailing12Months§4.7803965
+currency§GBp
+forwardEps§1.08
+exchange§LSE
+quoteType§EQUITY
+shortName§MERCIA ASSET MANAGEMENT PLC ORD
+longName§Mercia Asset Management PLC
+firstTradeDateEpochUtc§1418889600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4046317e-a5da-3266-bf9f-01c9a70dc3a9
+targetHighPrice§66.1
+targetLowPrice§63.0
+targetMeanPrice§64.55
+targetMedianPrice§64.55
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.54
+earningsGrowth§-0.809
+grossMargins§1.0
+ebitdaMargins§0.15932
+trailingPegRatio§None

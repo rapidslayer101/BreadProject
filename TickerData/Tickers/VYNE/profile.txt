@@ -1,0 +1,44 @@
+# reload+after+2024-01-19 21:47:56.587543
+address1§685 Route 202/206 N
+address2§Suite 301
+city§Bridgewater
+state§NJ
+zip§08807
+country§United States
+phone§800 775 7936
+website§https://www.vynetherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§VYNE Therapeutics Inc., a clinical-stage biopharmaceutical company, focuses on developing proprietary and therapeutics for the treatment of immuno-inflammatory conditions. The company's lead product is VYN201, a locally administered pan-BET inhibitor soft drug to address diseases involving multiple, diverse inflammatory cell signaling pathways with low systemic exposure. It also develops VYN202, a BD2-selective oral small molecule bromodomain and extra-terminal inhibitor for the treatment of immuno-inflammatory indications; and FMX114, a combination gel formation of tofacitinib and fingolimod, which is in Phase IIa preclinical trial for the treatment of mild-to-moderate atopic dermatitis. The company was formerly known as Menlo Therapeutics Inc. and changed its name to VYNE Therapeutics Inc. in September 2020. VYNE Therapeutics Inc. was founded in 2003 and is based in Bridgewater, New Jersey.
+fullTimeEmployees§12
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David T. Domzalski', 'age': 56, 'title': 'CEO, President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 974916, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Iain A. Stuart Ph.D.', 'age': 50, 'title': 'Chief Scientific Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 577426, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mutya  Harsch J.D.', 'age': 48, 'title': 'General Counsel, Chief Legal Officer & Company Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 577910, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tyler  Zeronda', 'age': 37, 'title': 'CFO & Treasurer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Darrell S. Rigel Faad, M.D., Ms', 'age': 72, 'title': 'Consultant', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 40200, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.322
+priceToSalesTrailing12Months§85.16319
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.1
+pegRatio§0.0
+exchange§NCM
+quoteType§EQUITY
+shortName§VYNE Therapeutics Inc.
+longName§VYNE Therapeutics Inc.
+firstTradeDateEpochUtc§1516890600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6b428866-1c06-3cdf-aea1-c192e2cb997e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§5.0
+targetMeanPrice§5.58
+targetMedianPrice§5.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§2.434
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 07:45:49.721283
+address1§1200 Platt Street
+address2§Suite 1000
+city§Tampa
+state§FL
+zip§33602
+country§United States
+phone§813 222 8996
+website§https://www.lmfunding.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§LM Funding America, Inc. operates as a specialty finance company. It provides funding to nonprofit community associations (Associations) primarily located in the state of Florida, as well as in the states of Washington, Colorado, and Illinois. The company offers funding to Associations by purchasing their rights under delinquent accounts that are selected by the Associations arising from unpaid Association assessments. It is also involved in the business of purchasing delinquent accounts on various terms tailored to suit each Association's financial needs, including under its New Neighbor Guaranty program. The company was founded in 2008 and is based in Tampa, Florida.
+fullTimeEmployees§8
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bruce Martin Rodgers Esq.', 'age': 59, 'title': 'Chairman, CEO & President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 760571, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard D. Russell CGMA, CPA', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 532559, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan H. Duran', 'age': 38, 'title': 'Vice President of Operations', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 262367, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Valter  Pinto', 'title': 'Investor Contacts', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen D. Weclew', 'age': 43, 'title': 'Advisor to the Board', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 158484, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.184
+priceToSalesTrailing12Months§0.9411151
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.0
+exchange§NCM
+quoteType§EQUITY
+shortName§LM Funding America, Inc.
+longName§LM Funding America, Inc.
+firstTradeDateEpochUtc§1450362600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eed19429-464e-3d1b-bd89-5e96194e11dc
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§1.231
+grossMargins§0.1182
+ebitdaMargins§0.0
+trailingPegRatio§None

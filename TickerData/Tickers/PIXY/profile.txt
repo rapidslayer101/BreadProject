@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 02:46:38.376960
+address1§4101 NW 25th Street
+city§Miami
+state§FL
+zip§33142
+country§United States
+phone§888 798 9100
+website§https://www.shiftpixy.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§ShiftPixy, Inc., together with its subsidiaries, provides staffing solutions in the United States. It offers employment administrative services, such as payroll processing, human resources consulting, and workers' compensation administration and coverage. The company operates human resources information systems platform to assist in client acquisition for the onboarding of new clients into the company's closed proprietary operating and processing information system. It primarily serves restaurant and hospitality service industries. The company was incorporated in 2015 and is headquartered in Miami, Florida.
+fullTimeEmployees§31
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott W. Absher', 'age': 62, 'title': 'Co-Founder, Chairman, President & CEO', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 847000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas J. Beck CPA', 'age': 62, 'title': 'CFO & Treasurer', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 251200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda  Murphy', 'age': 39, 'title': 'COO & Executive Director', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 457000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Moss', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Wang', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rodney  Diekema', 'title': 'Chief Sales Officer of Quick Service Restaurants Markets', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo J. Dominguez', 'title': 'Chief Sales Officer of Staffing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Bissell', 'title': 'Chief Operating Officer of ShiftPixy Labs', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.264
+priceToSalesTrailing12Months§1.796187
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-46.56
+exchange§NCM
+quoteType§EQUITY
+shortName§ShiftPixy, Inc.
+longName§ShiftPixy, Inc.
+firstTradeDateEpochUtc§1498829400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cade47d0-4275-3f79-856f-7d1f822b1d3b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§31.2
+targetLowPrice§31.2
+targetMeanPrice§31.2
+targetMedianPrice§31.2
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.045
+grossMargins§0.05126
+ebitdaMargins§-1.72234
+trailingPegRatio§None

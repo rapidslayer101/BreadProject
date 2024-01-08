@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 09:44:06.043367
+address1§100 Campus Drive
+city§Florham Park
+state§NJ
+zip§07932
+country§United States
+phone§608 441 8120
+website§https://www.cellectar.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cellectar Biosciences, Inc., a clinical biopharmaceutical company, focuses on the discovery, development, and commercialization of drugs for the treatment of cancer. Its lead phospholipid drug conjugate (PDC) candidate is CLR 131 (iopofosine I-131), which is in Phase 2 clinical study for patients with B-cell malignancies; Phase 2a clinical study for patients with relapsed or refractory (r/r) Waldenstrom's macroglobulinemia cohort, r/r multiple myeloma (MM) cohort, and r/r non-Hodgkin's lymphoma cohort; Phase 1 clinical study for r/r pediatric patients with select solid tumors, lymphomas, and malignant brain tumors; and Phase 1 clinical study for r/r pediatric patients with head and neck cancer. The company also develops CLR 1900, a PDC chemotherapeutic program that is in the preclinical development stage to treat solid tumors. It has collaborative with Orano Med to develop CLR 12120 Series; and LegoChemBio. The company was founded in 2002 and is headquartered in Florham Park, New Jersey.
+fullTimeEmployees§15
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James V. Caruso', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 846475, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad J. Kolean CPA', 'age': 59, 'title': 'VP, CFO & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 453224, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jarrod  Longcor', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 625320, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darrell Shane Lea', 'age': 50, 'title': 'Chief Commercial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrei  Shustov M.D.', 'age': 52, 'title': 'Senior Vice President of Medical', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.011
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.83
+exchange§NCM
+quoteType§EQUITY
+shortName§Cellectar Biosciences, Inc.
+longName§Cellectar Biosciences, Inc.
+firstTradeDateEpochUtc§1131633000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d92a6d57-8c29-3e38-89dc-584b57cac7f0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§4.0
+targetMeanPrice§12.6
+targetMedianPrice§12.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.153
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

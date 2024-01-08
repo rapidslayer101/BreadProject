@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 00:46:59.432261
+address1§5950 Sherry Lane
+address2§Suite 215
+city§Dallas
+state§TX
+zip§75225
+country§United States
+phone§214 974 8921
+website§https://www.arcadiabio.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Arcadia Biosciences, Inc. produces and markets plant-based food and beverage products in the United States. The company develops crop improvements primarily in wheat to enhance farm economics by improving the performance of crops in the field, as well as their value as food ingredients. Its food, beverage, and body case products include GoodWheat, Zola coconut water, ProVault topical pain relief, and SoulSpring. The company was incorporated in 2002 and is headquartered in Dallas, Texas.
+fullTimeEmployees§30
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stanley E. Jacot Jr.', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 527900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Pitlik', 'age': 49, 'title': 'Chief Marketing Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 374000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Schaefer', 'age': 47, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Schaffer', 'title': 'Senior Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tracy  Baker', 'title': 'Senior Vice President of Seamless Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.744
+priceToSalesTrailing12Months§0.40432963
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-5.74
+pegRatio§-0.02
+exchange§NCM
+quoteType§EQUITY
+shortName§Arcadia Biosciences, Inc.
+longName§Arcadia Biosciences, Inc.
+firstTradeDateEpochUtc§1431696600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8d317f6b-ef15-347b-a87e-b38b16ef6b3e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§10.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§4.119
+grossMargins§0.15224
+ebitdaMargins§-2.18839
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 23:45:21.746607
+address1§3185 Laurelview Court
+city§Fremont
+state§CA
+zip§94538
+country§United States
+phone§510 897 5200
+website§https://www.ichorsystems.com
+industry§Semiconductor Equipment & Materials
+sector§Technology
+longBusinessSummary§Ichor Holdings, Ltd. engages in the design, engineering, and manufacture of fluid delivery subsystems and components for semiconductor capital equipment. It primarily offers gas and chemical delivery systems and subsystems that are used in the manufacturing of semiconductor devices. The company's gas delivery subsystems deliver, monitor, and control gases used in semiconductor manufacturing processes, such as etch and deposition; and chemical delivery subsystems blend and dispense the reactive liquid chemistries used in semiconductor manufacturing processes comprising chemical-mechanical planarization, electroplating, and cleaning. In addition, it manufactures precision machined components, weldments, electron beam, laser-welded components, precision vacuum and hydrogen brazing, surface treatment technologies, and other proprietary products. The company primarily markets its products to equipment OEMs in the semiconductor equipment in Japan. Ichor Holdings, Ltd. was incorporated in 1999 and is headquartered in Fremont, California.
+fullTimeEmployees§2280
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey S. Andreson', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1118684, 'exercisedValue': 0, 'unexercisedValue': 294868}, {'maxAge': 1, 'name': 'Mr. Philip  Barros', 'age': 43, 'title': 'Chief Technology Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 656281, 'exercisedValue': 0, 'unexercisedValue': 94019}, {'maxAge': 1, 'name': 'Mr. Christopher  Smith', 'age': 63, 'title': 'Chief Commercial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 585765, 'exercisedValue': 0, 'unexercisedValue': 78279}, {'maxAge': 1, 'name': 'Mr. Greg F. Swyt', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Ragsdale', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diana  Finucane', 'title': 'Chief HR Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.054
+priceToSalesTrailing12Months§1.0432407
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.93
+pegRatio§3.53
+exchange§NMS
+quoteType§EQUITY
+shortName§Ichor Holdings
+longName§Ichor Holdings, Ltd.
+firstTradeDateEpochUtc§1481293800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6e79a643-fbda-3cb5-96ee-e3a5093db736
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§30.0
+targetMeanPrice§32.5
+targetMedianPrice§32.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.55
+grossMargins§0.14738
+ebitdaMargins§0.05645
+trailingPegRatio§None

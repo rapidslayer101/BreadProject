@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 05:38:12.627569
+address1§West Terrace
+address2§Esh Winning
+city§Durham
+zip§DH7 9PT
+country§United Kingdom
+phone§44 19 1373 4485
+website§https://www.hsgplc.co.uk
+industry§Integrated Freight & Logistics
+sector§Industrials
+longBusinessSummary§Hargreaves Services Plc provides environmental and industrial services in the United Kingdom, Southeast Asia, and South Africa. The company operates through: Services, Hargreaves Land, and Hargreaves Raw Materials Services segments. It offers environmental services, such as carbon sequestration and forestry creation, land remediation, land restoration and aftercare, geotechnical assessment, environmental site survey, and waste management services; materials handling operation and maintenance, mechanical and electrical maintenance, and project engineering services; and earthmoving advisory and contracting services, including soils treatment services. The company engages in the logistics services and mining and quarrying services. In addition, it develops brownfield site for residential and commercial purposes; and engages in the trading of industrial raw materials, such as solid fuels, refractory minerals, and pig iron, as well as ferro-alloys and metals. Hargreaves Services Plc was founded in 1994 and is headquartered in Durham, the United Kingdom.
+fullTimeEmployees§1361
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gordon Frank Colenso Banham', 'age': 59, 'title': 'Group Chief Executive & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1149000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Robert Anderson BSc (Hons), MRICS', 'age': 56, 'title': 'Group Property Director & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 387000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Joseph Craigen', 'age': 40, 'title': 'CFO, Group Financial Controller & Director', 'yearBorn': 1983, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phil  Dryden', 'age': 66, 'title': 'Chief Operating Officer', 'yearBorn': 1957, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Hankin', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Nigel MacQuarrie', 'title': 'Planning Consultant', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.09
+dividendYield§0.0217
+exDividendDate§1695254400
+payoutRatio§0.1022
+fiveYearAvgDividendYield§2.17
+beta§0.92
+priceToSalesTrailing12Months§0.6421481
+currency§GBp
+forwardEps§44.55
+exchange§LSE
+quoteType§EQUITY
+shortName§HARGREAVES SERVICES PLC ORD 10P
+longName§Hargreaves Services Plc
+firstTradeDateEpochUtc§1133337600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§50b48d86-7df5-3bf1-8c1d-36aa4be1a4d1
+targetHighPrice§770.0
+targetLowPrice§770.0
+targetMeanPrice§770.0
+targetMedianPrice§770.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.74
+grossMargins§0.1847
+ebitdaMargins§0.04366
+trailingPegRatio§None

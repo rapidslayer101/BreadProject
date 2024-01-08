@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 20:30:10.515393
+address1§One Batesville Boulevard
+city§Batesville
+state§IN
+zip§47006
+country§United States
+phone§812 931 5000
+website§https://www.hillenbrand.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Hillenbrand, Inc. operates as an industrial company in the United States and internationally. The company operates through two segments, Advanced Process Solutions and Molding Technology Solutions. The Advanced Process Solutions segment designs, engineers, manufactures, markets, and services process and material handling equipment and systems comprising compounding, extrusion, and material handling equipment, equipment system design services, as well as offers mixing technology, ingredient automation, and portion process; and provides screening and separating equipment for various industries, including plastics, food and pharmaceuticals, chemicals, fertilizers, minerals, energy, wastewater treatment, forest products, and other general industrials. The Molding Technology Solutions segment offers injection molding and extrusion equipment; hot runner systems; process control systems; mold bases and components; maintenance and repair services; and aftermarket parts and service for various industries, including automotive, consumer goods, medical, packaging, construction, and electronics. The company was founded in 1906 and is headquartered in Batesville, Indiana.
+fullTimeEmployees§10400
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Kimberly K. Ryan', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2000891, 'exercisedValue': 0, 'unexercisedValue': 565062}, {'maxAge': 1, 'name': 'Mr. Robert M. VanHimbergen', 'age': 46, 'title': 'CFO & Senior VP', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 573575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas R. Farrell', 'age': 44, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1030319, 'exercisedValue': 64606, 'unexercisedValue': 126378}, {'maxAge': 1, 'name': 'Ms. Aneesha  Arora', 'age': 45, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1894349, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan A. Walke', 'age': 44, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bhavik N. Soni', 'age': 50, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sam  Mynsberge', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Whitmore', 'title': 'Manager of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Michael Whitted', 'age': 51, 'title': 'Senior Vice President of Strategy & Corporate Development', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1029186, 'exercisedValue': 0, 'unexercisedValue': 145997}, {'maxAge': 1, 'name': 'Ms. Tory  Flynn', 'title': 'Chief Sustainability Officer & VP of Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.89
+dividendYield§0.0197
+exDividendDate§1702512000
+payoutRatio§0.5752
+fiveYearAvgDividendYield§2.25
+beta§1.516
+priceToSalesTrailing12Months§1.1171095
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.25
+pegRatio§1.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Hillenbrand Inc
+longName§Hillenbrand, Inc.
+firstTradeDateEpochUtc§1206711000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bf8c1441-40b1-3bef-b8ce-662632a7b76e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§61.0
+targetMeanPrice§63.5
+targetMedianPrice§62.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.699
+earningsGrowth§-0.679
+grossMargins§0.34091
+ebitdaMargins§0.17097999
+trailingPegRatio§None

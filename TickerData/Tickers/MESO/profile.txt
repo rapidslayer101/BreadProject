@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 14:46:00.165921
+address1§55 Collins Street
+address2§Level 38
+city§Melbourne
+state§VIC
+zip§3000
+country§Australia
+phone§61 3 9639 6036
+fax§61 3 9639 6030
+website§https://www.mesoblast.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Mesoblast Limited engages in the development of regenerative medicine products in Australia, the United States, Singapore, and Switzerland. The company offers products in the areas of cardiovascular, spine orthopedic disorder, oncology, hematology, and immune-mediated and inflammatory diseases. Its proprietary regenerative medicine technology platform is based on specialized cells known as mesenchymal lineage cells. The company offers Remestemcel-L that is in Phase III clinical trials for the treatment of systemic inflammatory diseases, including steroid refractory acute graft versus host disease, acute respiratory distress syndrome, and biologic refractory inflammatory bowel disease; and Remestemcel-L, which is in Phase III clinical trials to treat chronic heart failure and chronic low back pain due to degenerative disc disease. It is also developing MPC-300-IV to treat biologic refractory rheumatoid arthritis diabetic nephropathy; and MPC-25-IC for the treatment or prevention of acute myocardial infarction. It has strategic partnerships with Tasly Pharmaceutical Group to offer MPC-150-IM for heart failure and MPC-25-IC for heart attacks in China; JCR Pharmaceuticals Co. Ltd. to treat wound healing in patients with epidermolysis bullosa; and Grünenthal to develops and commercializes cell therapy for the treatment of chronic low back pain. The company was incorporated in 2004 and is headquartered in Melbourne, Australia.
+fullTimeEmployees§83
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Silviu  Itescu FACP, FACRA, FRACP, MBBS (Hons)', 'age': 66, 'title': 'Founder, CEO, MD, Chairman of Scientific Advisory Board & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 759496, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Eric A. Rose M.D.', 'age': 72, 'title': 'Chief Medical Officer & Executive Director', 'yearBorn': 1951, 'fiscalYear': 2023, 'totalPay': 643036, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Chaponnel B.Com.', 'title': 'Interim Chief Finance Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter T. Howard B.Sc., L.L.B., LLB (Hons)', 'age': 55, 'title': 'General Counsel & Corporate Executive', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger D. Brown BA', 'title': 'Head of Spinal Orthopedic Disorders', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Schuster BSc, M.B.A., MS', 'age': 46, 'title': 'Head of Pharma Partnering', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Geraldine  Storton B.Sc., M.B.A., MMS', 'title': 'Head of Regulatory Affairs & Quality Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Horst B.S.', 'title': 'Head of Manufacturing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Niva  Sivakumar B.Com., L.L.B.', 'title': 'Joint Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Hughes BPHARM', 'title': 'Joint Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.423
+priceToSalesTrailing12Months§24.025274
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.4
+pegRatio§-0.05
+exchange§NMS
+quoteType§EQUITY
+shortName§Mesoblast Limited
+longName§Mesoblast Limited
+firstTradeDateEpochUtc§1231165800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cb226b99-e7ae-3bd6-b05f-2314b416f7a7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§2.0
+targetMeanPrice§9.5
+targetMedianPrice§9.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.854
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

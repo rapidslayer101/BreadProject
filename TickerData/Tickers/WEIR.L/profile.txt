@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 13:41:08.041475
+address1§1 West Regent Street
+city§Glasgow
+zip§G2 1RW
+country§United Kingdom
+phone§44 14 1637 7111
+website§https://www.global.weir
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§The Weir Group PLC produces and sells highly engineered original equipment worldwide. It operates in two segments, Minerals and ESCO. The Minerals segment offers engineering, manufacturing, and service processing technology for the use in abrasive high-wear mining applications; and differentiated technology for the use in infrastructure and general industrial markets. The ESCO segment provides ground engaging tools, attachments, artificial intelligence, and 3D rugged machine vision technologies that optimize productivity for customers in mining and infrastructure markets. This segment also manufactures and distributes highly engineered wear parts, mining buckets, and lip systems; and offers aftermarket services to the mining industry. The company offers its products under the Accumin, Aspir, Bucyrus Blades, Cavex, Delta Industrial, Enduron, ESCO, GEHO, Isogate, Lewis, Linacure, Linagard, Linard, Linatex, Motion Metrics, Multiflo, Nemisys, Production Master, ProFill, Sandmaster, Synertrex, Trio, Ultralok, Vulco, and Warman brands. The Weir Group PLC was founded in 1871 and is headquartered in Glasgow, the United Kingdom.
+fullTimeEmployees§12627
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan  Stanton', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1800156, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garry  Fingland', 'age': 58, 'title': 'Chief Information Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephen  Christie', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham  Vanhegan', 'age': 58, 'title': 'Company Secretary & Chief Legal Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond  Buchanan', 'title': 'Head of Communications & Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rosemary  McGinness', 'age': 59, 'title': 'Chief People Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Neilson', 'age': 47, 'title': 'President of Weir Minerals Division', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Morgan', 'age': 52, 'title': 'Senior Counsel', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula  Cousins', 'age': 49, 'title': 'Chief Strategy & Sustainability Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tayo  Oyinlola', 'title': 'Head of Internal Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.37
+dividendYield§0.02
+exDividendDate§1696464000
+payoutRatio§0.34669998
+fiveYearAvgDividendYield§2.86
+beta§1.448
+priceToSalesTrailing12Months§1.8299161
+currency§GBp
+forwardEps§124.31
+pegRatio§1.4
+exchange§LSE
+quoteType§EQUITY
+shortName§WEIR GROUP PLC ORD 12.5P
+longName§The Weir Group PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6aeb3a03-716f-3bbd-a595-5a6fecf4ba47
+targetHighPrice§2550.0
+targetLowPrice§1600.0
+targetMeanPrice§2236.44
+targetMedianPrice§2340.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§1.362
+earningsGrowth§0.366
+grossMargins§0.35918
+ebitdaMargins§0.15715
+trailingPegRatio§None

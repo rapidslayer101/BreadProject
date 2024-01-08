@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 22:46:28.761242
+address1§77 East King Street
+address2§P. O. Box 250
+city§Shippensburg
+state§PA
+zip§17257
+country§United States
+phone§717 532 6114
+website§https://www.orrstown.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Orrstown Financial Services, Inc. operates as the holding company for Orrstown Bank that provides commercial banking and financial advisory services in the United States. The company accepts various deposits, including checking, savings, time, demand, and money market deposits, as well as certificates of deposit. It also offers commercial loans, such as commercial real estate, equipment, construction, working capital, and other commercial purpose loans, as well as industrial loans; consumer loans comprising home equity and other consumer loans, as well as home equity lines of credit; residential mortgage loans; acquisition and development loans; municipal loans; and installment and other loans. In addition, the company provides renders services as trustee, executor, administrator, guardian, managing agent, custodian, and investment advisor, as well as other fiduciary services under the Orrstown Financial Advisors name; and retail brokerage services through a third-party broker/dealer arrangement. Further, it offers investment advisory, insurance, and brokerage services. Orrstown Financial Services, Inc. was founded in 1919 and is headquartered in Shippensburg, Pennsylvania.
+fullTimeEmployees§404
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Rodney Quinn Jr.', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1169482, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neelesh  Kalani CPA', 'age': 48, 'title': 'Executive VP, CFO & Head of Investor Relations', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 486598, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam L. Metz', 'age': 51, 'title': 'Executive VP & Chief Revenue Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 480211, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher D. Holt', 'age': 59, 'title': 'Executive VP & Market President for the Maryland Region', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 550526, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Coradi', 'age': 61, 'title': 'Executive VP, Chief Risk Officer & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 449543, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam D. Bonanno', 'age': 45, 'title': 'Executive VP, Chief Operations & Technology Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean P. Mulcahy CPA', 'age': 40, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Dyckman', 'age': 54, 'title': 'Executive VP & General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip E. Fague CPA', 'age': 63, 'title': 'Executive VP & Chief Trust Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 324981, 'exercisedValue': 0, 'unexercisedValue': 7104}, {'maxAge': 1, 'name': 'Mr. Jeffrey S. Gayman', 'age': 50, 'title': 'Executive VP & Chief Mortgage and Retail Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 186151, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0274
+exDividendDate§1699228800
+payoutRatio§0.2207
+fiveYearAvgDividendYield§3.37
+beta§0.896
+priceToSalesTrailing12Months§2.3370874
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.27
+exchange§NCM
+quoteType§EQUITY
+shortName§Orrstown Financial Services Inc
+longName§Orrstown Financial Services, Inc.
+firstTradeDateEpochUtc§926602200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a34ac191-3f9e-3fc9-bf6a-acf6c1cd1f33
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§31.0
+targetLowPrice§28.0
+targetMeanPrice§30.0
+targetMedianPrice§31.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

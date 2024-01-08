@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 15:40:41.891146
+address1§The Old Sawmill
+address2§Filleigh
+city§Barnstaple
+zip§EX32 0RN
+country§United Kingdom
+phone§44 20 7462 1415
+website§https://www.themission.co.uk
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§The Mission Group plc provides marketing and advertising related services in the United Kingdom, rest of Europe, Asia, and the United States. It operates through Advertising & Digital, Media Buying, Events, and Public Relations segments. The company offers marketing communications services specializing in the technology, medical, property, and automotive sector; and advertising, media buying, digital marketing, events, and training services. It also provides sales promotion services; sports, fitness, and entertainment marketing services; IIoT solutions; and pricing and market access services for the healthcare sector. The company was formerly known as The Mission Marketing Group plc and changed its name to The Mission Group plc in September 2019. The Mission Group plc was incorporated in 2006 and is based in Barnstaple, the United Kingdom.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Spencer Clifton', 'age': 51, 'title': 'Group CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 480000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giles Derek Lee', 'age': 53, 'title': 'Group CFO, Group Commercial Director & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fiona Elizabeth Ann Shepherd', 'title': 'COO & Executive Director', 'fiscalYear': 2022, 'totalPay': 357000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dylan  Bogg', 'title': 'Chief Creative Officer & Executive Director', 'fiscalYear': 2022, 'totalPay': 174000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Langford', 'title': 'Group Financial Controller & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0747
+exDividendDate§1698883200
+payoutRatio§245.4545
+fiveYearAvgDividendYield§3.0
+beta§1.472
+priceToSalesTrailing12Months§0.10653103
+currency§GBp
+forwardEps§6.32
+exchange§LSE
+quoteType§EQUITY
+shortName§THE MISSION GROUP PLC ORD 10P
+longName§The Mission Group plc
+firstTradeDateEpochUtc§1144911600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5bd7f2aa-13e7-3ba3-ab22-1a94a48b0112
+targetHighPrice§55.0
+targetLowPrice§55.0
+targetMeanPrice§55.0
+targetMedianPrice§55.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.088
+earningsGrowth§-0.998
+grossMargins§0.43268
+ebitdaMargins§0.04244
+trailingPegRatio§None

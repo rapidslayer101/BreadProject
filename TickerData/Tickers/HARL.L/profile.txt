@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 16:38:12.696673
+address1§Northern & Shell Building
+address2§8th Floor 10 Lower Thames Street
+city§London
+zip§EC3R 6AF
+country§United Kingdom
+phone§44 33 0124 0427
+website§https://www.harland-wolff.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Harland & Wolff Group Holdings Plc, a multisite fabrication company, provides offshore and maritime engineering services in the United Kingdom. It offers technical services, such as consultancy, basic design, detailed engineering, and through-life support services; fabrication and construction; and repair and maintenance services. The company also provides in-service support; conversion services, including feasibility studies, detail design, and fabrication and lifetime support; and decommissioning services. It serves clients in energy, defense, cruise and ferry, commercial, and renewables sectors. The company was formerly known as InfraStrata plc and changed its name to Harland & Wolff Group Holdings Plc in September 2021. Harland & Wolff Group Holdings Plc was founded in 1861 and is based in London, the United Kingdom.
+fullTimeEmployees§769
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John MacInnes Wood', 'age': 50, 'title': 'Group CEO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 399334, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arun Suri Raman', 'age': 44, 'title': 'Group CFO & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 385670, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Serge  Sehmi', 'title': 'Group Head of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Morton', 'title': 'Chief Head of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Jackson', 'title': 'Group Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phil  Gray', 'title': 'Group Head of Business Systems', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Mackenzie', 'title': 'Head of Grants', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charlotte  Davies', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.117
+priceToSalesTrailing12Months§0.6133358
+currency§GBp
+forwardEps§-13.6
+exchange§LSE
+quoteType§EQUITY
+shortName§HARLAND & WOLFF GROUP HOLDINGS 
+longName§Harland & Wolff Group Holdings Plc
+firstTradeDateEpochUtc§1087542000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5c27a390-c60e-3c44-b8f0-0745d2a73feb
+targetHighPrice§45.0
+targetLowPrice§45.0
+targetMeanPrice§45.0
+targetMedianPrice§45.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.134
+grossMargins§-0.07095
+ebitdaMargins§-1.56942
+trailingPegRatio§None

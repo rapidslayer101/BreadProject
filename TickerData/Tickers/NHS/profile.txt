@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 07:31:41.509934
+address1§1290 Avenue of the Americas
+city§New York
+state§NY
+zip§10104
+country§United States
+phone§212 476 9000
+fax§212 476 9862
+website§https://www.nb.com/Pages/Public/en-us/Products/high-yield-strategies-fund.aspx
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Neuberger Berman High Yield Strategies Fund Inc. is a closed-ended fixed income mutual fund launched by Neuberger Berman LLC. The fund is managed by Neuberger Berman Investment Advisers LLC. It invests in fixed income markets across the globe. The fund typically invests in high yield debt securities of various sectors, such as auto parts and equipment, airlines, automotive, electronics, health services, packaging, telecom-integrated/services, gaming, and gas distribution. It was formerly known as Neuberger Berman High Yield Strategies Fund. Neuberger Berman High Yield Strategies Fund Inc. was formed on July 28, 2003 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph Vincent Amato', 'age': 61, 'title': 'Director, CEO of Neuberger Berman Management LLC and President of Neuberger Berman Management LLC', 'yearBorn': 1962, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Thomas P. O'Reilly CFA", 'title': 'Co-Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Russell Covode', 'title': 'Co-Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Joseph Doyle CFA', 'title': 'Co-Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§1.09
+dividendYield§0.1378
+exDividendDate§1705017600
+payoutRatio§0.7098
+fiveYearAvgDividendYield§10.27
+beta§1.004
+priceToSalesTrailing12Months§9.857598
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Neuberger Berman High Yield Str
+longName§Neuberger Berman High Yield Strategies Fund Inc.
+firstTradeDateEpochUtc§1059485400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4459a7e7-83de-3f93-9c38-a03555f4191f
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.771
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

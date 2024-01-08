@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 22:33:06.776216
+address1§20451 Seneca Meadows Parkway
+city§Germantown
+state§MD
+zip§20876-7005
+country§United States
+phone§301 515 7260
+fax§833 552 7007
+website§https://www.senseonics.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Senseonics Holdings, Inc., a medical technology company, develops and commercializes continuous glucose monitoring (CGM) systems for people with diabetes in the United States, Europe, the Middle East, and Africa. The company's products include Eversense, Eversense XL, and Eversense E3 which are implantable CGM systems to measure glucose levels in people with diabetes through an under-the-skin sensor, a removable and rechargeable smart transmitter, and a convenient app for real-time diabetes monitoring and management for a period of up to six months. It serves healthcare providers and patients through a network of distributors and strategic fulfillment partners. The company has a collaboration agreement with the University Hospitals Accountable Care Organization. Senseonics Holdings, Inc. was founded in 1996 and is headquartered in Germantown, Maryland.
+fullTimeEmployees§121
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Timothy T. Goodnow Ph.D.', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1339413, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mukul  Jain', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 767646, 'exercisedValue': 0, 'unexercisedValue': 305351}, {'maxAge': 1, 'name': 'Mr. Kenneth L. Horton', 'age': 56, 'title': 'General Counsel & Corporate Development Advisor', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 702331, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Francine Ratner Kaufman M.D.', 'age': 72, 'title': 'Chief Medical Officer & Director', 'yearBorn': 1951, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederick T. Sullivan', 'age': 41, 'title': 'CFO, Secretary & Treasurer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.828
+priceToSalesTrailing12Months§14.087669
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.15
+pegRatio§0.16
+exchange§ASE
+quoteType§EQUITY
+shortName§Senseonics Holdings, Inc.
+longName§Senseonics Holdings, Inc.
+firstTradeDateEpochUtc§1450794600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§014548dd-5d76-32fe-913d-6cf389e16872
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.5
+targetLowPrice§0.4
+targetMeanPrice§1.63
+targetMedianPrice§2.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§7.564
+grossMargins§0.13149999
+ebitdaMargins§0.0
+trailingPegRatio§None

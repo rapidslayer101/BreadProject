@@ -1,0 +1,20 @@
+# reload+after+2024-01-21 02:40:12.570964
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§REGIONAL REIT LIMITED ORD NPV
+longName§Regional REIT Ord
+firstTradeDateEpochUtc§1446796800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fbce7848-43ab-3c9c-a755-87c214be710d
+targetHighPrice§60.0
+targetLowPrice§56.0
+targetMeanPrice§58.0
+targetMedianPrice§58.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+trailingPegRatio§None

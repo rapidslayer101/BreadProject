@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 14:46:07.799361
+address1§1850 Towers Crescent Plaza
+city§Tysons Corner
+state§VA
+zip§22182
+country§United States
+phone§703 848 8600
+fax§703 848 8610
+website§https://www.microstrategy.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§MicroStrategy Incorporated provides enterprise analytics software and services in the United States, Canada, Europe, the Middle East, Africa, and internationally. It offers MicroStrategy, an enterprise analytics software platform that enables users to create visualizations, customize apps, and embed analytics directly into workflows; and MicroStrategy Cloud Environment, a managed software-as-a-service solution, which offers always-on threat monitoring and enables rapid analytics development and deployment to deliver security and data privacy requirements. The company also provides MicroStrategy Support that helps customers to achieve their system availability and uptime goals, and to improve the overall experience through highly responsive troubleshooting and proactive technical product support. In addition, it offers MicroStrategy Consulting, which offers customers with architecture and implementation services to help them quickly realize results, as well as helps to achieve returns on investment derived from understanding of data; and MicroStrategy Education that provides free and paid learning options, as well as holds and acquires bitcoin. The company offers its services through enterprise sales force and channel partners. It serves companies from a range of industries, including banking, technology, consulting, manufacturing, insurance, healthcare, and telecommunications, as well as the public sector. The company was incorporated in 1989 and is headquartered in Tysons Corner, Virginia.
+fullTimeEmployees§1984
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael J. Saylor', 'age': 58, 'title': 'Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 670812, 'exercisedValue': 0, 'unexercisedValue': 8056000}, {'maxAge': 1, 'name': 'Mr. Phong Q. Le', 'age': 46, 'title': 'President, CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1849560, 'exercisedValue': 0, 'unexercisedValue': 200800}, {'maxAge': 1, 'name': 'Mr. Andrew  Kang', 'age': 47, 'title': 'Senior EVP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 843071, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Ming  Shao', 'age': 54, 'title': 'Senior EVP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1226487, 'exercisedValue': 0, 'unexercisedValue': 62750}, {'maxAge': 1, 'name': 'Ms. Jeanine J. Montgomery', 'age': 61, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ponna  Arumugam', 'title': 'Senior Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shirish  Jajodia', 'title': 'Senior Director of Treasury & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carla  Fitzgerald', 'age': 58, 'title': 'Executive VP & Chief Marketing Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joty  Paparello', 'title': 'Executive VP & Chief Human Resource Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Saurabh  Abhyankar', 'title': 'Executive VP & Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.53
+priceToSalesTrailing12Months§20.91433
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.67
+pegRatio§2.68
+exchange§NMS
+quoteType§EQUITY
+shortName§MicroStrategy Incorporated
+longName§MicroStrategy Incorporated
+firstTradeDateEpochUtc§897571800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§de1ea767-7a66-3fa0-88ae-72a03e814b2b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§791.0
+targetLowPrice§537.0
+targetMeanPrice§669.5
+targetMedianPrice§675.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.654
+grossMargins§0.78497005
+ebitdaMargins§-0.50090003
+trailingPegRatio§None

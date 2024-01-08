@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 05:47:36.567483
+address1§26 Main Street
+address2§Suite 101
+city§Chatham
+state§NJ
+zip§07928
+country§United States
+phone§862 799 8599
+fax§862 904 8163
+website§https://www.tonixpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Tonix Pharmaceuticals Holding Corp., a biopharmaceutical company, focuses on developing, discovering, commercializing, and licensing therapeutics to treat and prevent human disease and alleviate suffering. It markets Zembrace SymTouch and Tosymra for the treatment of acute migraine with or without aura in adults. The company's development portfolio includes central nervous system (CNS), rare disease, immunology, and infectious disease product candidates. Its CNS portfolio include small molecules and biologics to treat pain, neurologic, psychiatric, and addiction conditions, including TNX-102 SL, which is in mid-Phase 3 development for the management of fibromyalgia and Phase 2 development for Long COVID; TNX-601 ER for the treatment of major depressive disorder (MDD); TNX-4300, a small molecule oral therapeutic in preclinical development to treat MDD, Alzheimer's disease, and Parkinson's disease; TNX-1900 that is in development for preventing headaches in chronic migraine, as well as being studied in binge eating disorder, pediatric obesity, and social anxiety disorder; and TNX-1300 to treat cocaine intoxication. The company's rare disease development portfolio comprises TNX-2900 for the treatment of Prader-Willi syndrome. Its immunology development portfolio includes biologics to address organ transplant rejection, autoimmunity, and cancer comprising TNX-1500, which is a humanized monoclonal antibody targeting CD40-ligand being developed for the prevention of allograft rejection and for the treatment of autoimmune diseases. The company's infectious disease pipeline includes TNX-801, a vaccine in development to prevent smallpox and mpox, as well as serves as the live virus vaccine platform or recombinant pox vaccine platform for other infectious diseases; and TNX-3900 and TNX-4000, which are classes of broad-spectrum small molecule oral antivirals. Tonix Pharmaceuticals Holding Corp. was founded in 2007 and is headquartered in Chatham, New Jersey.
+fullTimeEmployees§117
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Seth  Lederman M.D.', 'age': 65, 'title': 'Co-Founder, President, CEO & Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1030000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley  Saenger CPA', 'age': 49, 'title': 'CFO & Treasurer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 597400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mrs. Jessica Edgar Morris', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'totalPay': 610175, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Gregory M. Sullivan M.D.', 'age': 57, 'title': 'Chief Medical Officer & Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 591120, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Herbert W. Harris M.D., Ph.D.', 'title': 'Executive Vice President of Translational Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bruce L. Daugherty M.B.A., Ph.D.', 'age': 65, 'title': 'Executive Vice President of Research', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 300385, 'exercisedValue': 0, 'unexercisedValue': 13860}, {'maxAge': 1, 'name': 'Ms. Siobhan  Fogarty B.Sc., M.Sc.', 'title': 'Executive Vice President of Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Darryl  Rideout Ph.D.', 'title': 'Executive Vice President of Experimental Chemistry', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sina  Bavari Ph.D.', 'title': 'Executive Vice President of Infectious Disease Research & Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Zeil  Rosenberg M.D., M.P.H.', 'title': 'Executive Vice President of Medical', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.179
+priceToSalesTrailing12Months§5.457373
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.59
+exchange§NCM
+quoteType§EQUITY
+shortName§Tonix Pharmaceuticals Holding C
+longName§Tonix Pharmaceuticals Holding Corp.
+firstTradeDateEpochUtc§1336656600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§99a890b3-8f0b-36fb-b33b-06470554e372
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§3.0
+targetMeanPrice§7.0
+targetMedianPrice§8.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.478
+grossMargins§0.40486
+ebitdaMargins§0.0
+trailingPegRatio§None

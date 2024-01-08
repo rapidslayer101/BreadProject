@@ -1,0 +1,36 @@
+# reload+after+2024-01-22 05:30:13.616753
+address1§60 State Street
+city§Boston
+state§MA
+zip§02109-1800
+country§United States
+phone§617-742-7825
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Pioneer Diversified High Income Fund, Inc. is a closed ended fixed income mutual fund launched and managed by Pioneer Investment Management, Inc. It invests in the fixed income markets across the globe. The fund seeks to invest in higher yielding asset classes, including high yield bonds, leveraged bank loans, and event-linked bonds .It employs a combination of fundamental and quantitative analysis to create its portfolio. The fund benchmarks the performance of its portfolio against a composite benchmark comprising of 50% Bank of America Merrill Lynch Global High Yield, Emerging Markets Plus Index and 50% the Credit Suisse Leveraged Loan Index. Pioneer Diversified High Income Fund, Inc. was formed on January 30, 2007 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Feltus CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan D. Sharkey', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin  Liu', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.08
+dividendYield§0.0999
+exDividendDate§1703721600
+payoutRatio§0.90760005
+fiveYearAvgDividendYield§9.6
+beta§0.787
+priceToSalesTrailing12Months§6.8938017
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Pioneer Diversified High Income
+longName§Pioneer Diversified High Income Fund, Inc.
+firstTradeDateEpochUtc§1180531800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ed655de3-abf2-3715-862f-0e318d8f64b2
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.077
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

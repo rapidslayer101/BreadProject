@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 00:30:37.792182
+address1§3025 Highland Parkway
+address2§Suite 350
+city§Downers Grove
+state§IL
+zip§60515-5506
+country§United States
+phone§855 377 0510
+fax§630 218 7357
+website§https://www.inventrustproperties.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§InvenTrust Properties Corp. (the "Company," "IVT," or "InvenTrust") is a premier Sun Belt, multi-tenant essential retail REIT that owns, leases, redevelops, acquires and manages grocery-anchored neighborhood and community centers as well as high-quality power centers that often have a grocery component. Management pursues the Company's business strategy by acquiring retail properties in Sun Belt markets, opportunistically disposing of retail properties, maintaining a flexible capital structure, and enhancing environmental, social and governance ("ESG") practices and standards. A trusted, local operator bringing real estate expertise to its tenant relationships, IVT has built a strong reputation with market participants across its portfolio. IVT is committed to leadership in ESG practices and has been a Global Real Estate Sustainability Benchmark ("GRESB") member since 2013.
+fullTimeEmployees§106
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel Joseph Busch', 'age': 41, 'title': 'CEO, President & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 2286760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Douglas Phillips CPA', 'age': 41, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1095173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy L. David', 'age': 44, 'title': 'COO, Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1216133, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Heimberger', 'title': 'Senior VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Bryson CPA', 'title': 'Senior VP, Chief Accounting Officer & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Puzon', 'title': 'Senior Vice President of Corporate Finance & Portfolio Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Lombardo', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lauren  Suva', 'title': 'Senior VP & Chief Talent Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Hagan', 'title': 'Senior Vice President of Asset Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.86
+dividendYield§0.0343
+exDividendDate§1703635200
+payoutRatio§28.39
+beta§-5.647
+priceToSalesTrailing12Months§5.930083
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.0
+pegRatio§605.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§InvenTrust Properties Corp.
+longName§InvenTrust Properties Corp.
+firstTradeDateEpochUtc§1393511400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e8c76769-8bb4-36f4-b725-bc58003fe034
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§25.0
+targetMeanPrice§26.67
+targetMedianPrice§27.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.086
+grossMargins§0.72871
+ebitdaMargins§0.59073
+trailingPegRatio§None

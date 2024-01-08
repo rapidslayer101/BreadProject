@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 21:32:53.167995
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of all of the components of the S&P 500® Financials Index (the “parent index”). The parent index is designed to measure the performance of common stocks of all companies included in the S&P 500® Index that are classified as members of the financials sector, as defined according to the Global Industry Classification Standard (“GICS®”).
+maxAge§86400
+priceHint§2
+yield§0.0216
+totalAssets§263101552
+navPrice§58.74
+currency§USD
+category§Financial
+ytdReturn§0.0025493
+beta3Year§1.02
+fundFamily§Invesco
+fundInceptionDate§1162339200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.095571496
+fiveYearAverageReturn§0.1201502
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Equal Weight Fi
+longName§Invesco S&P 500 Equal Weight Financials ETF
+firstTradeDateEpochUtc§1162909800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§408d3962-eb3a-306e-87e8-49ee66a83c0a
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

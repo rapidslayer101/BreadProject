@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 03:45:31.424907
+address1§1544 Wazee Street
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§303 586 7771
+website§https://www.inspirato.com
+industry§Travel Services
+sector§Consumer Cyclical
+longBusinessSummary§Inspirato Incorporated, together with its subsidiaries, operates as a subscription-based luxury travel company. The company provides affluent travelers access to a portfolio of curated luxury vacation homes, and accommodations at luxury hotels and resorts, as well as luxury safaris, cruises, custom-designed (bucket list) itineraries, and other experiences. It is also involved in solving critical pain points for hospitality suppliers seeking to monetize their property with rental income. In addition, the company offers Inspirato Real Estate, a platform to find, buy, own, and enjoy a luxury vacation home; Inspirato for Good, an easy-to-use, no-commitment platform designed to help nonprofit organizations accelerate funding results; Inspirato for Business, a business-to-business channel through which subscription and travel products are sold directly to businesses seeking to leverage luxury accommodations to recruit, retain, and reward their employees. The company was founded in 2010 and is headquartered in Denver, Colorado.
+fullTimeEmployees§671
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brad  Handler', 'age': 55, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Grosse', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 66400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David S. Kallery', 'age': 58, 'title': 'President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 659841, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent  Handler', 'age': 54, 'title': 'Co-Founder & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 805905, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Kaiden', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ashlee  Collins', 'title': 'Senior Vice President of Technology & Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent R. Wadman', 'age': 51, 'title': 'General Counsel', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dain  Rasmussen', 'title': 'Senior Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle  Probst', 'title': 'Senior Vice President of People Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Dutton', 'title': 'Senior Vice President of Finance, Analytics & Real Estate Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.19
+priceToSalesTrailing12Months§0.038975812
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-8.44
+exchange§NGM
+quoteType§EQUITY
+shortName§Inspirato Incorporated
+longName§Inspirato Incorporated
+firstTradeDateEpochUtc§1612881000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e632ceec-21ae-31e2-aaab-e1cf058f5623
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§4.0
+targetMeanPrice§26.0
+targetMedianPrice§26.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.216
+grossMargins§0.2953
+ebitdaMargins§-0.13442999
+trailingPegRatio§None

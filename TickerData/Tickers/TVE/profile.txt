@@ -1,0 +1,21 @@
+# reload+after+2024-01-22 12:33:53.548878
+maxAge§86400
+priceHint§2
+currency§USD
+exchange§NYQ
+quoteType§EQUITY
+shortName§Tennessee Valley Authority
+longName§Tennessee Valley Authority PARRS A 2029
+firstTradeDateEpochUtc§927120600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§07869bb5-158f-3ea0-8c8a-ca877152b426
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.75
+targetLowPrice§4.0
+targetMeanPrice§5.65
+targetMedianPrice§5.38
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§12
+trailingPegRatio§None

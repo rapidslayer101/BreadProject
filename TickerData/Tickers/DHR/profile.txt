@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 13:28:34.473610
+address1§2200 Pennsylvania Avenue, North West
+address2§Suite 800 West
+city§Washington
+state§DC
+zip§20037-1701
+country§United States
+phone§202 828 0850
+fax§202 828 0860
+website§https://www.danaher.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§Danaher Corporation designs, manufactures, and markets professional, medical, industrial, and commercial products and services worldwide. The Biotechnology segments offers bioprocess technologies, consumables, and services; lab filtration, separation, and purification; lab-scale protein purification and analytical tools; reagents, membranes and services; and healthcare filtration solutions. The Life Sciences segment provides mass spectrometers; flow cytometry, genomics, lab automation, centrifugation, particle counting and characterization; microscopes; genomics consumables; and Gene and Cell Therapy to the pharmaceutical and biopharmaceutical, food and beverage, medical, and life sciences companies, as well as universities, medical schools and research institutions, and various industrial manufacturers. The Diagnostics segment provides chemistry, immunoassay, microbiology, and automation systems, as well as hematology, molecular, acute care, and pathology diagnostics products. This segment offers clinical instruments, reagents, consumables, software, and services for hospitals, physicians' offices, reference laboratories, and other critical care settings. The Environmental & Applied Solutions segment offers instrumentation, consumables, software, services, and disinfection systems to analyze, treat, and manage ultra-pure, potable, industrial, waste, ground, source, and ocean water in residential, commercial, municipal, industrial, and natural resource applications. It also provides instruments, software, services, and consumables for various color and appearance management, packaging design and quality management, packaging converting, printing, marking, coding, and traceability applications for consumer, pharmaceutical, and industrial products. The company was formerly known as Diversified Mortgage Investors, Inc. and changed its name to Danaher Corporation in 1984. The company was founded in 1969 and is headquartered in Washington, the District of Columbia.
+fullTimeEmployees§79000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven M. Rales', 'age': 72, 'title': 'Co-Founder & Chairman', 'yearBorn': 1951, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rainer M. Blair', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 5927753, 'exercisedValue': 5826427, 'unexercisedValue': 23477132}, {'maxAge': 1, 'name': 'Mr. Mitchell P. Rales', 'age': 66, 'title': 'Co-Founder & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew R. McGrew', 'age': 51, 'title': 'CFO & Executive VP', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2851642, 'exercisedValue': 4118960, 'unexercisedValue': 16576741}, {'maxAge': 1, 'name': 'Dr. Jose-Carlos  Gutierrez-Ramos Ph.D.', 'age': 60, 'title': 'Senior VP & Chief Science Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2244112, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joakim  Weidemanis', 'age': 54, 'title': 'Executive Vice President', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 3130469, 'exercisedValue': 6281752, 'unexercisedValue': 38186504}, {'maxAge': 1, 'name': 'Mr. Christopher M. Bouda', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Bedford', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian W. Ellis', 'age': 56, 'title': 'Senior VP, General Counsel & Chief Compliance Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1933550, 'exercisedValue': 0, 'unexercisedValue': 6318938}, {'maxAge': 1, 'name': 'Mr. Daniel A. Raskas J.D.', 'age': 56, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.96
+dividendYield§0.0042
+exDividendDate§1703721600
+payoutRatio§0.0996
+fiveYearAvgDividendYield§0.38
+beta§0.871
+priceToSalesTrailing12Months§5.7555127
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.8
+pegRatio§-20.39
+exchange§NYQ
+quoteType§EQUITY
+shortName§Danaher Corporation
+longName§Danaher Corporation
+firstTradeDateEpochUtc§283789800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§295d410e-b8c1-3fcf-8a32-c618d752812e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§270.0
+targetLowPrice§205.0
+targetMeanPrice§241.9
+targetMedianPrice§250.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§1.766
+earningsGrowth§-0.281
+grossMargins§0.58682
+ebitdaMargins§0.3136
+trailingPegRatio§17.5088

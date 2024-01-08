@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 09:40:39.718645
+address1§7 Marjanishvili Street
+city§Tbilisi
+zip§0102
+country§Georgia
+phone§995 32 227 27 27
+fax§995 32 277 27 74
+website§https://www.tbcbankgroup.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§TBC Bank Group PLC, through its subsidiaries, provides banking, leasing, brokerage, insurance, and card processing services to corporate and individual customers in Georgia, Azerbaijan, and Uzbekistan. The company operates through Retail; Corporate; and Micro, Small and Medium Enterprises segments. It offers mortgage, digital, consumer, car, overdraft, and pawnshop loans; and term deposits, mortgage, credit cards; current, and nominee account services. In addition, the company provides internet, mobile, remote, and SMS banking; automatic, currency exchange, and wallet related services. Further, it offers payment protection, property, travel, critical illness, and auto insurance, as well as cashing order and safe deposit box services. Additionally, the company provides investment, brokerage, and corporate finance solutions, and card processing, leasing, PR and marketing, real estate management, asset management, computer and software, e-commerce, and postal services. TBC Bank Group PLC was founded in 1992 and is based in Tbilisi, Georgia.
+fullTimeEmployees§10267
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vakhtang  Butskhrikidze', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1358064, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giorgi  Megrelishvili', 'title': 'Deputy CEO & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bidzina  Matsaberidze', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Romelashvili', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Keeley', 'title': 'Director of Investor Relations & International Media', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gvantsa  Murghvliani', 'title': 'Head of HR', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nino  Kacheishvili', 'title': 'Head of the Retail Loans Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Japaridze', 'title': 'Head of Customer Experience', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alexander  Iskonyan', 'title': 'Deputy Head of Business Analysis and Quality Assurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Kukhalashvili', 'title': 'Head of Software Development Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.71
+dividendYield§0.0612
+exDividendDate§1694044800
+payoutRatio§0.29790002
+beta§1.061
+priceToSalesTrailing12Months§0.7210267
+currency§GBp
+forwardEps§23.04
+pegRatio§0.91
+exchange§LSE
+quoteType§EQUITY
+shortName§TBC BANK GROUP PLC ORD GBP0.01
+longName§TBC Bank Group PLC
+firstTradeDateEpochUtc§1470812400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1054202c-caf2-301b-b8db-21862c2d1aa4
+targetHighPrice§185.25
+targetLowPrice§110.84
+targetMeanPrice§132.67
+targetMedianPrice§118.02
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.051
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

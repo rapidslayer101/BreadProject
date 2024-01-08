@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 16:47:23.806689
+address1§450 Lexington Avenue
+address2§31st Floor
+city§New York
+state§NY
+zip§10017
+country§United States
+phone§212 351 6100
+fax§212 351 6101
+website§https://www.stepstonegroup.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§StepStone Group LP. is an investment firm specializing in direct, fund of funds, secondary direct, and secondary indirect investments. For direct investment, it seeks to invest in venture debt, incubation, mezzanine, distressed/vulture, seed/startup, early venture, mid venture, late venture, emerging growth, later stage, turnaround, growth capital, industry consolidation, recapitalization, private equity and buyout investments in mature and middle market companies. It prefers to invest in natural resources, technology, healthcare, services, materials, manufacturing, consumer durables, apparel, hotels, restaurants and leisure, media, retailing, consumer staples, financials, telecommunication services, energy, infrastructure, real estate, and real asset. The firm invests globally with a focus on United States, North America, Europe, Asia, Latin America, Middle East, Africa, Brazil, Mexico, Argentina, Colombia, New Zealand, China, India, Korea, Japan, Taiwan, and Australia region. It typically invests between $15 million and $200 million in firms with enterprise value between $150 million and $25000 million. The firm invests between 5% and 40% in emerging markets. For fund of fund investment, it seeks to invest in private equity funds, venture capital funds, Special situation funds, Real estate funds, Infrastructure funds, mezzanine funds, and turnaround/distressed funds. It considers investments in both domestic and international funds. It also seeks to make co-investments and follow-on investments and considers partial interests in funds. StepStone Group LP. was founded in 2007 and is based in New York, New York with additional offices across North America, South America, Europe, Australia,  Asia, LA Jolla, California.
+fullTimeEmployees§1001
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Monte M. Brem J.D.', 'age': 55, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2407602, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Hart', 'age': 43, 'title': 'CEO, Head of Private Equity, Director & Partner', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 2995258, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason Paul Ment J.D.', 'age': 46, 'title': 'Partner, President & Co-COO', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 2558336, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose A. Fernandez J.D.', 'age': 52, 'title': 'CO-COO, Director & Partner', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 3400239, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Keck', 'age': 57, 'title': 'Partner, Head of Research and Portfolio Management & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 3434299, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael I. McCabe', 'age': 54, 'title': 'Partner, Head of Strategy & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 4243574, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Y. Park', 'age': 49, 'title': 'CFO, Partner & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Keathley', 'age': 41, 'title': 'Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Seth  Weiss', 'title': 'Managing Director of Corporate Investor Relations - New York', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer Yayoi Ishiguro', 'title': 'Partner, Chief Legal Officer & Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.84
+dividendYield§0.026700001
+exDividendDate§1701216000
+payoutRatio§0.955
+beta§1.265
+priceToSalesTrailing12Months§6.621615
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.47
+pegRatio§2.81
+exchange§NMS
+quoteType§EQUITY
+shortName§StepStone Group Inc.
+longName§StepStone Group LP
+firstTradeDateEpochUtc§1600263000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§522f694f-92e6-39d8-b4a1-cc2b2616c3d7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.5
+targetLowPrice§27.0
+targetMeanPrice§30.42
+targetMedianPrice§29.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.132
+grossMargins§0.60375
+ebitdaMargins§0.41845
+trailingPegRatio§None

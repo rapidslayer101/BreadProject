@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 09:45:11.126710
+address1§101 Second Street
+address2§Suite 700
+city§San Francisco
+state§CA
+zip§94105
+country§United States
+phone§415 301 3227
+website§https://www.hashicorp.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§HashiCorp, Inc. provides multi-cloud infrastructure automation solutions worldwide. The company offers Terraform, an infrastructure provisioning product that applies an Infrastructure-as-Code approach, where processes and configuration required to support applications are codified and automated instead of being manual and ticket-based; and Vault, a secrets management and data protection product, which enables security teams to apply policies based on application and user identity to govern access to credentials and secure sensitive data. It also provides Consul, an application-centric networking automation product that enables practitioners to manage application traffic, security teams to secure and restrict access between applications, and operations teams to automate the underlying network infrastructure; and Nomad, a scheduler and workload orchestrator, which provides practitioners with a self-service interface to manage the application lifecycle. The company was founded in 2012 and is headquartered in San Francisco, California.
+fullTimeEmployees§2400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  McJannet', 'age': 50, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 982103, 'exercisedValue': 0, 'unexercisedValue': 114009224}, {'maxAge': 1, 'name': 'Mr. Armon  Dadgar', 'age': 31, 'title': 'Co-Founder, CTO & Director', 'yearBorn': 1992, 'fiscalYear': 2023, 'totalPay': 581723, 'exercisedValue': 0, 'unexercisedValue': 8832941}, {'maxAge': 1, 'name': 'Mr. Navam  Welihinda', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 616350, 'exercisedValue': 575406, 'unexercisedValue': 9689806}, {'maxAge': 1, 'name': 'Mr. Marc  Holmes', 'age': 47, 'title': 'Chief Marketing & Business Operations Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 499748, 'exercisedValue': 0, 'unexercisedValue': 10202584}, {'maxAge': 1, 'name': 'Ms. Susan  St. Ledger', 'age': 58, 'title': 'President of Worldwide Field Operations & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 41000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell  Hashimoto', 'age': 34, 'title': 'Co-Founder', 'yearBorn': 1989, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 9087347}, {'maxAge': 1, 'name': 'Mr. Alexander  Kurtz', 'age': 48, 'title': 'Head of Investor Relations', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul D. Warenski', 'age': 58, 'title': 'Chief Legal Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Harper', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gurpreet  Singh', 'title': 'Senior Vice President of Networking', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.315
+priceToSalesTrailing12Months§7.5995545
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.14
+pegRatio§4.84
+exchange§NMS
+quoteType§EQUITY
+shortName§HashiCorp, Inc.
+longName§HashiCorp, Inc.
+firstTradeDateEpochUtc§1639060200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c812dbb6-683b-3cff-bdde-bd554aa15055
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.0
+targetLowPrice§20.0
+targetMeanPrice§24.5
+targetMedianPrice§23.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§3.811
+grossMargins§0.81421995
+ebitdaMargins§-0.45213002
+trailingPegRatio§None

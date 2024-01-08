@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 08:44:52.886592
+address1§415 Holiday Drive
+address2§Suite 100
+city§Pittsburgh
+state§PA
+zip§15220
+country§United States
+phone§412 928 3400
+website§https://www.lbfoster.com
+industry§Railroads
+sector§Industrials
+longBusinessSummary§L.B. Foster Company provides engineered and manufactured products and services for the building and infrastructure projects worldwide. The company's Rail, Technologies, and Services segment offers new rail to passenger and short line freight railroads, industrial companies, and rail contractors; used rails; rail accessories, including track spikes and anchors, bolts, angle bars, tie plates, and other products; power rail, direct fixation fasteners, coverboards, and special accessories; and trackwork products, as well as engineers and manufactures insulated rail joints and related accessories. This segment also provides friction management products and application systems, railroad condition monitoring systems and equipment, wheel impact load detection systems, wayside data collection and management systems, track fasteners, and engineered concrete railroad ties; and aftermarket services. Its Precast Concrete Products segment offers precast products, such as sound walls, bridge beams, box culverts, septic tanks, and other custom pre-stressed products, as well as a range of specialty precast concrete products for use in transportation and general infrastructure markets. This segment also manufactures precast concrete buildings for use as restrooms, concession stands, and protective storage buildings in national, state, and municipal parks. The company's Steel Products and Measurement segment provides bridge decking, bridge railing, structural steel fabrications, expansion joints, bridge forms, and other products for highway construction and repair. This segment also produces threaded pipe products for industrial water well, irrigation, and oil and gas markets, as well as offers pipe coatings for oil and gas pipelines and utilities, and precision measurement systems for the oil and gas market. The company markets its products directly, as well as through a network of agents. L.B. Foster Company was founded in 1902 and is headquartered in Pittsburgh, Pennsylvania.
+fullTimeEmployees§1131
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John F. Kasel', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1250506, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William M. Thalman', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 589744, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian H. Kelly', 'age': 63, 'title': 'Executive Vice President of Human Resources & Administration', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 548500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick J. Guinee Esq.', 'age': 53, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 570574, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory W. Lippard', 'age': 54, 'title': 'Senior Vice President of Rail', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 570661, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean M. Reilly CPA', 'age': 50, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter David-Vaughan Jones', 'age': 56, 'title': 'Vice President of Technology Services & Solutions', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephanie  Listwak', 'title': 'Investor Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jake  Fuellhart', 'title': 'Marketing & Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William F. Treacy', 'age': 63, 'title': 'Executive VP & Chief Growth Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1473206400
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.58
+beta§0.791
+priceToSalesTrailing12Months§0.45214364
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.09
+pegRatio§13.19
+exchange§NMS
+quoteType§EQUITY
+shortName§L.B. Foster Company
+longName§L.B. Foster Company
+firstTradeDateEpochUtc§360941400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5a4dcccc-7c2a-3b58-b915-6cde6c762c9e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.25
+targetLowPrice§17.0
+targetMeanPrice§20.13
+targetMedianPrice§20.13
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.043
+grossMargins§0.20493001
+ebitdaMargins§0.057140004
+trailingPegRatio§None

@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 11:47:15.768851
+address1§4149 Liberty Canyon Road
+city§Agoura Hills
+state§CA
+zip§91301
+country§United States
+phone§805-730-0360
+website§https://www.acelyrin.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Acelyrin, Inc., a clinical biopharma company, focuses on identifying, acquiring, and accelerating the development and commercialization of transformative medicines. The company's lead product candidate is izokibep, a small protein therapeutic designed to inhibit IL-17A with high potency, which is in Phase 3 clinical trials for use in the treatment of Hidradenitis Suppurativa, Psoriatic Arthritis, and uveitis, as well as in Phase 2 clinical trials for use in the treatment of Axial Spondyloarthritis. It is also developing lonigutamab, a humanized immunoglobulin G1 (IgG1) monoclonal antibody against insulin-like growth factor 1 receptor, which is in Phase 1 clinical trials for use in the treatment of thyroid eye disease; and SLRN-517, a fully human IgG1 monoclonal antibody targeting c-KIT, which is in preclinical stage for use in the treatment of chronic urticaria. The company was incorporated in 2020 and is headquartered in Agoura Hills, California.
+fullTimeEmployees§108
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Shao-Lee  Lin M.D., Ph.D.', 'age': 56, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 846246, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie  Gloria B.S.N.', 'age': 45, 'title': 'Chief Operating Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 672581, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gilbert M. Labrucherie J.D.', 'age': 51, 'title': 'Chief Financial Officer, Principal Financial Officer & principal accounting officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mina  Kim', 'age': 49, 'title': 'Chief Legal & Administrative Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tyler  Marciniak', 'title': 'Head of Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron  Oyston', 'age': 53, 'title': 'Chief People Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul M. Peloso M.D., M.Sc.', 'age': 65, 'title': 'Chief Medical Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzy  Buckhalter CPA', 'title': 'Senior Director of Finance & Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth A. Lock', 'age': 49, 'title': 'Chief Commercial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shephard  Mpofu M.D.', 'title': 'Senior Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.2
+exchange§NMS
+quoteType§EQUITY
+shortName§ACELYRIN, INC.
+longName§Acelyrin, Inc.
+firstTradeDateEpochUtc§1683207000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§331b354b-7a4d-3b82-ac00-9819e1a01b9d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§8.0
+targetMeanPrice§23.67
+targetMedianPrice§12.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§11.821
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

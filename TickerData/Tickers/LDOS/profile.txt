@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 00:31:02.689015
+address1§1750 Presidents Street
+city§Reston
+state§VA
+zip§20190
+country§United States
+phone§571 526 6000
+website§https://www.leidos.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Leidos Holdings, Inc., together with its subsidiaries, provides services and solutions in the defense, intelligence, civil, and health markets in the United States and internationally. It operates through three segments: Defense Solutions, Civil, and Health. The Defense Solutions segment offers national security solutions and systems for air, land, sea, space, and cyberspace for the U.S. Intelligence Community, the Department of Defense, the space development agency, the National Aeronautics and Space Administration, defense information systems agency, military services, and government agencies of U.S. allies abroad, as well as other federal and commercial customers in the national security industry. Its solutions include technology, large-scale systems, command and control platforms, data analytics, logistics, and cybersecurity solutions, as well as intelligence analysis and operations support services to critical missions. The Civil segment provides systems integration services to air navigation service providers, including the federal aviation administration, the En route automation modernization, advanced technology oceanic procedure, time based flow management, terminal flight data management, geo-7, and future flight services, as well as enterprise-information display systems; and security detection and automation services. It also offers information technology (IT) solutions in cloud computing, mobility, application modernization, DevOps, data center, network modernization, asset management, help desk operations, and digital workplace enablement; and environment, energy, and infrastructure services. The Health segment offers solutions to federal and commercial customers responsible for health and well-being of people, include health information management, managed health, digital modernization, and life sciences research and development services. Leidos Holdings, Inc. was founded in 1969 and is headquartered in Reston, Virginia.
+fullTimeEmployees§47000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher R. Cage', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1230955, 'exercisedValue': 676497, 'unexercisedValue': 385226}, {'maxAge': 1, 'name': 'Mr. Jerald S. Howe Jr.', 'age': 67, 'title': 'Executive VP & General Counsel', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1176125, 'exercisedValue': 0, 'unexercisedValue': 1468718}, {'maxAge': 1, 'name': 'Ms. Maureen  Waterston', 'age': 58, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1242878, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerard A. Fasano', 'age': 57, 'title': 'Chief Growth Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1162719, 'exercisedValue': 0, 'unexercisedValue': 349557}, {'maxAge': 1, 'name': 'Mr. Thomas A. Bell', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel A. Atkinson IV', 'age': 45, 'title': 'SVP, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James F. Carlini', 'age': 57, 'title': 'Chief Technology Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. M. Stuart Davis', 'age': 64, 'title': 'Senior Vice President of Investor Relations', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Koskovich', 'title': 'SVP & Director of Corporate Communications and Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly S. Rupert', 'title': 'Senior VP & Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.52
+dividendYield§0.0139999995
+exDividendDate§1702512000
+payoutRatio§1.3585
+fiveYearAvgDividendYield§1.48
+beta§0.704
+priceToSalesTrailing12Months§0.9866316
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.59
+pegRatio§1.82
+exchange§NYQ
+quoteType§EQUITY
+shortName§Leidos Holdings, Inc.
+longName§Leidos Holdings, Inc.
+firstTradeDateEpochUtc§1161091800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e000b702-39a9-371a-ad83-aefdc778f735
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§136.0
+targetLowPrice§100.0
+targetMeanPrice§120.83
+targetMedianPrice§125.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.053
+grossMargins§0.14319
+ebitdaMargins§0.10373
+trailingPegRatio§None

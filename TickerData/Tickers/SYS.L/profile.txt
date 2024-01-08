@@ -1,0 +1,33 @@
+# reload+after+2024-01-23 13:40:37.694821
+address1§Walker House
+address2§Exchange Flags
+city§Liverpool
+zip§L2 3YL
+country§United Kingdom
+phone§44 15 1559 1777
+website§https://www.sysgroup.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§SysGroup plc, together with its subsidiaries, engages in the provision of managed information technology (IT) and cloud hosting services in the United Kingdom and internationally. The company operates through two segments, Managed IT Services and Value Added Resale. It offers consultancy services, such as strategic reviews, cloud consultancy, security assessments, incident response planning, platform migration, and architecture audits. The company's cloud solutions include SysCloud platform, which offer bespoke computing, storage, and software licensing services that help streamlining IT operations, free-up internal resource, and achieve efficiency and flexibility, as well as provides private, hybrid, and public cloud services. It also offers resilience solutions comprising cyber security solutions, business continuity services, and connectivity solutions. In addition, the company provides specialist managed services, including managed cloud, security, infrastructure, and IT support solutions, as well as sells IT hardware, licenses, and warranties from supplier partners. It serves charity, education, financial, government, healthcare, legal, leisure, manufacturing, retail, and tech industries. The company was formerly known as Daily Internet PLC and changed its name to SysGroup plc in July 2016. SysGroup plc was incorporated in 2007 and is headquartered in Liverpool, the United Kingdom.
+fullTimeEmployees§108
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin Richard Audcent', 'age': 49, 'title': 'CFO & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 226000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Heejae Richard Chae', 'age': 54, 'title': 'Executive Chairman', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Sullivan', 'age': 47, 'title': 'Chief Technology Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Baker', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicholas  Guite', 'title': 'Chief Sales Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Heinrich  Koorts', 'title': 'Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ross  Humphrey', 'title': 'Chief AI Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.332
+priceToSalesTrailing12Months§0.76999176
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§SYSGROUP PLC ORD 1P
+longName§SysGroup plc
+firstTradeDateEpochUtc§1358150400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6116e61f-0816-3b84-b6e2-b3215b678d75
+recommendationKey§none
+quickRatio§0.755
+grossMargins§0.51428
+ebitdaMargins§0.119540006
+trailingPegRatio§None

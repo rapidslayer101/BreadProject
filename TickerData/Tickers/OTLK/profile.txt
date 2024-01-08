@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 11:46:29.703390
+address1§Building F
+address2§Suite 320 485 Route 1 South
+city§Iselin
+state§NJ
+zip§08852
+country§United States
+phone§609 619 3990
+website§https://www.outlooktherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Outlook Therapeutics, Inc., operates as a clinical-stage biopharmaceutical company, focuses on developing and commercializing monoclonal antibodies for various ophthalmic indications. Its lead product candidate is ONS-5010, an ophthalmic formulation of bevacizumab product candidate that is in Phase-III clinical trial for the treatment of wet age-related macular degeneration and other retina diseases. Outlook Therapeutics, Inc. has collaboration and license agreements with BioLexis Pte. Ltd. and Zhejiang Huahai Pharmaceutical Co., Ltd. The company was formerly known as Oncobiologics, Inc. and changed its name to Outlook Therapeutics, Inc. in November 2018. Outlook Therapeutics, Inc. was incorporated in 2010 and is based in Iselin, New Jersey.
+fullTimeEmployees§24
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ralph H. Thurman', 'age': 74, 'title': 'Independent Executive Chairman', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 205513, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Russell Trenary III', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 819530, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lawrence A. Kenyon CPA', 'age': 57, 'title': 'Executive VP, CFO, Treasurer, Company Secretary & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Evanson', 'age': 54, 'title': 'Chief Commercial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 442231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alicia  Tozier', 'title': 'Senior Vice President, Marketing & Market Access', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Prieve', 'title': 'Senior Vice President of Licensing and M&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Surendra  Sharma M.D.', 'title': 'Senior Vice President of Medical Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jennifer M. Kissner Ph.D.', 'title': 'Senior Vice President of Clinical Development & Regulatory Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jedd  Comiskey', 'title': 'Senior VP - Head of Europe', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.216
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.21
+exchange§NCM
+quoteType§EQUITY
+shortName§Outlook Therapeutics, Inc.
+longName§Outlook Therapeutics, Inc.
+firstTradeDateEpochUtc§1465911000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f486d429-2fc2-35f2-aa9e-5e7b4dad8bf2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§1.0
+targetMeanPrice§4.0
+targetMedianPrice§2.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.501
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

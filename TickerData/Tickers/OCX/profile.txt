@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 13:46:24.258585
+address1§15 Cushing
+city§Irvine
+state§CA
+zip§92618
+country§United States
+phone§949 409 7600
+website§https://oncocyte.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§OncoCyte Corporation, a molecular diagnostics company, research, develops, and commercializes proprietary laboratory-developed tests for the detection of cancer in the United States and internationally. The company offers DetermaRx, a molecular test for early-stage adenocarcinoma of the lung; and DetermaIO, a proprietary gene expression assay. It also provides biomarker discovery testing, assay design and development, biopharma, and clinical trial support services, as well as various biomarker tests for pharmaceutical companies. The company has a collaboration agreement with Life Technologies Corporation to develop and collaborate in the commercialization of Oncomine Comprehensive Assay Plus and Determa IO assay for use with Ion Torrent Genexus integrated sequencer and purification system. OncoCyte Corporation was incorporated in 2009 and is based in Irvine, California.
+fullTimeEmployees§75
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joshua  Riggs', 'age': 40, 'title': 'President, CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 373197, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Liu', 'age': 27, 'title': 'Senior Director, Controller, Principal Accounting Officer & Interim Principal Financial Officer', 'yearBorn': 1996, 'fiscalYear': 2022, 'totalPay': 192484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ekkehard  Schutz M.D., Ph.D.', 'title': 'Chief Science Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuh-Min  Chiang Ph.D.', 'title': 'Senior Vice President of R&D and Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Sandra  O'Donald", 'title': 'Senior Vice President of Business Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael D. West Ph.D.', 'age': 70, 'title': 'Scientific Advisor, Co-CEO of Biotime,Inc. & President of Biotime,Inc.', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Peter  Hong', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sara  Riordan', 'title': 'Director of Medical Education', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.722
+priceToSalesTrailing12Months§19.028543
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.01
+exchange§NCM
+quoteType§EQUITY
+shortName§OncoCyte Corporation
+longName§OncoCyte Corporation
+firstTradeDateEpochUtc§1451485800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b57da45c-f76b-3b09-9f23-2fbd611aed8c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§3.0
+targetMeanPrice§3.9
+targetMedianPrice§3.8
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.005
+grossMargins§0.40465
+ebitdaMargins§0.0
+trailingPegRatio§None

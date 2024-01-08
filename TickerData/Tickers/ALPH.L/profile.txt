@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 09:35:25.997976
+address1§Brunel Building
+address2§2 Canalside Walk
+city§London
+zip§W2 1DG
+country§United Kingdom
+phone§44 20 3800 0120
+website§https://www.alphagroup.com
+industry§Capital Markets
+industryKey§capital-markets
+industryDisp§Capital Markets
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Alpha Group International plc provides foreign exchange risk management and alternative banking solutions in the United Kingdom and internationally. The company offers forward currency contracts, option contracts, foreign exchange spot transactions, and payments collections and currency accounts services. It serves corporates and institutions. The company was formerly known as Alpha FX Group PLC and changed its name to Alpha Group International plc in December 2022. Alpha Group International plc was founded in 2009 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§430
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Morgan J. Tillbrook', 'age': 41, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1008687, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy  Powell', 'age': 47, 'title': 'CFO & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 233664, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Nigel Butters', 'age': 41, 'title': 'Chief Risk Officer & Executive Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 204569, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Carey', 'title': 'Director of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jaspal Simon Kang', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Harvey  Coles', 'title': 'Head of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Samantha  Bartlett', 'title': 'Head of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Dowling', 'title': 'Group MD of Alternative Banking', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie  Beattie', 'title': 'Head of Strategic Alliances', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Maton', 'title': 'Managing Director of Luxembourg', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.0084
+exDividendDate§1695254400
+payoutRatio§0.1042
+beta§1.652
+priceToSalesTrailing12Months§5.0453634
+currency§GBp
+forwardEps§85.85
+lastDividendValue§3.7
+lastDividendDate§1695254400
+exchange§LSE
+quoteType§EQUITY
+shortName§ALPHA GROUP INTERNATIONAL PLC O
+longName§Alpha Group International plc
+firstTradeDateEpochUtc§1491548400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c9bcef53-5035-3587-805e-6f9a48ec86ba
+messageBoardId§finmb_426520456
+targetHighPrice§2900.0
+targetLowPrice§2880.0
+targetMeanPrice§2890.0
+targetMedianPrice§2890.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.197
+earningsGrowth§1.679
+grossMargins§0.80943
+ebitdaMargins§0.53306997
+trailingPegRatio§None

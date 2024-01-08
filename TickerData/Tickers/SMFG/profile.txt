@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 06:33:15.828643
+address1§1-2, Marunouchi 1-chome
+address2§Chiyoda-ku
+city§Tokyo
+zip§100-0005
+country§Japan
+website§https://www.smfg.co.jp
+industry§Banks—Diversified
+sector§Financial Services
+longBusinessSummary§Sumitomo Mitsui Financial Group, Inc., together with its subsidiaries, provides banking, leasing, securities, credit card, and consumer finance services in Japan, the Americas, Europe, the Middle East, Asia, and Oceania. It operates through Wholesale Business Unit, Retail Business Unit, Global Business Unit, and Global Markets Business Unit segments. The company was incorporated in 2002 and is headquartered in Tokyo, Japan.
+fullTimeEmployees§106000
+companyOfficers§[{'maxAge': 1, 'name': 'Jun  Uchikawa', 'age': 58, 'title': 'Senior Managing Corporate Executive Officer, Group CIO & GM of IT Planning Dept.', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 442496, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Toru  Nakashima', 'age': 60, 'title': 'President, Group CEO & Representative Executive Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fumihiko  Ito', 'title': 'Senior Managing Executive Officer, Group CFO, Group CSO & Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jun  Okahashi', 'title': 'General Manager of Financial & Accounting Department', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kohei  Ohashi', 'title': 'SVP (IR Department)', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yoshihiro  Hyakutome', 'age': 58, 'title': 'Senior Managing Executive Officer & Group Chief Compliance Officer', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Takashi  Kobayashi', 'age': 56, 'title': 'Senior Managing Corporate Executive Officer & Group Chief Human Resources Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajeev Veeravalli  Kannan', 'age': 51, 'title': 'Managing Executive Officer & Co-Head of Asia Pacific Division', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Takeshi  Mikami', 'age': 57, 'title': 'Senior Managing Corporate Executive Officers & Group Chief Audit Executive', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tetsuro  Imaeda', 'age': 61, 'title': 'Deputy President, Co-Head of Global Business Unit  & Representative Executive Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0359
+exDividendDate§1695859200
+payoutRatio§0.41759998
+fiveYearAvgDividendYield§4.66
+beta§0.645
+priceToSalesTrailing12Months§0.018769642
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.91
+pegRatio§1.78
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sumitomo Mitsui Financial Group
+longName§Sumitomo Mitsui Financial Group, Inc.
+firstTradeDateEpochUtc§1138372200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§787d32a3-34b0-34bf-bc65-060d1d334ceb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.19
+targetLowPrice§10.19
+targetMeanPrice§10.19
+targetMedianPrice§10.19
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+earningsGrowth§-0.187
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§1.04

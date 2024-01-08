@@ -1,0 +1,60 @@
+# reload+after+2024-01-21 01:26:53.995567
+address1§6363 S Fiddlers Green
+address2§Greenwood Village
+city§Greenwood
+state§CO
+zip§80111
+country§United States
+phone§303-889-0700
+website§https://www.anglogoldashanti.com
+industry§Gold
+industryKey§gold
+industryDisp§Gold
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§AngloGold Ashanti plc operates as a gold mining company in Africa, the Americas, and Australia. The company primarily explores for gold, as well as produces silver and sulphuric acid as by-products. Its flagship property is a 100% owned Geita project located in the Lake Victoria goldfields of the Mwanza region in north-western Tanzania. The company also owns 100% interest in the Iduapriem mine which covers 137 square kilometers located in the western region of Ghana; Obuasi project located in Ghana; AGA Mineração in Brazil; Serra Grande located in central Brazil in the state of Goiás; Greenfield Projects in the Beatty district in Nevada; and Sunrise Dam in Australia. It also holds 92.5% interest in the Cerro Vanguardia project situated in Argentina; 70% interest in the Tropicana property in Australia; and 85% interest in the Siguiri project in Guinea. The company also explores for silver and sulphuric acid. AngloGold Ashanti plc was incorporated in 1944 and is headquartered in Greenwood Village, Colorado.
+fullTimeEmployees§13995
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alberto Calderon Zuleta B.A., BA Econ, Econ, J.D., Law, M Phil Econ, M.A.', 'age': 63, 'title': 'CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1753934, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcelo C. Godoy Ph.D.', 'age': 51, 'title': 'Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 678001, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lizelle  Marwick L.L.B., L.L.M.', 'age': 45, 'title': 'Chief Legal Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 468831, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Ali B.Sc., M.B.A.', 'age': 55, 'title': 'Chief People Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 449169, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stewart D. Bailey', 'age': 49, 'title': 'Chief Sustainability & Corporate Affairs Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 503078, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terry  Briggs B.Sc.', 'age': 50, 'title': 'Chief Development Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 327193, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gillian  Doran FCCA', 'age': 46, 'title': 'Executive Director & CFO', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Jordinson', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Edwin Staples', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Erickson', 'title': 'Senior Vice President of Australia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.0041
+exDividendDate§1692748800
+payoutRatio§4.7085
+fiveYearAvgDividendYield§0.66
+beta§0.36
+priceToSalesTrailing12Months§1.6372492
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.38
+lastDividendValue§0.037
+lastDividendDate§1692835200
+exchange§NYQ
+quoteType§EQUITY
+shortName§AngloGold Ashanti PLC
+longName§AngloGold Ashanti plc
+firstTradeDateEpochUtc§902323800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6cc98ba2-045f-3409-8d24-356d14447085
+messageBoardId§finmb_392371
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§18.0
+targetMeanPrice§22.5
+targetMedianPrice§22.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§1.212
+grossMargins§0.2244
+ebitdaMargins§0.26236
+trailingPegRatio§None

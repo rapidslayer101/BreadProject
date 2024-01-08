@@ -1,0 +1,61 @@
+# reload+after+2024-01-20 06:27:07.857722
+address1§Three Limited Parkway
+city§Columbus
+state§OH
+zip§43230
+country§United States
+phone§614 415 7000
+website§https://www.bbwinc.com
+industry§Specialty Retail
+industryKey§specialty-retail
+industryDisp§Specialty Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Bath & Body Works, Inc. operates a specialty retailer of home fragrance, body care, and soaps and sanitizer products. It sells its products under the Bath & Body Works, White Barn, and other brand names through retail stores and e-commerce sites located in the United States and Canada, as well as through international stores operated by partners under franchise, license, and wholesale arrangements. The company was formerly known as L Brands, Inc. and changed its name to Bath & Body Works, Inc. in August 2021. Bath & Body Works, Inc. was founded in 1963 and is headquartered in Columbus, Ohio.
+fullTimeEmployees§8800
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Gina R. Boswell', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 3055967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael C. Wu', 'age': 56, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2970650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deon N. Riley', 'age': 55, 'title': 'Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3371785, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie B. Rosen', 'age': 57, 'title': 'President of Retail', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 4282161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eva C. Boratto', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thilina  Gunasinghe', 'title': 'Chief Digital & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Hollander', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian K. Leinbach', 'title': 'Executive VP & CIO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Mazurek', 'age': 56, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelie  Charles', 'title': 'VP & Chief Diversity Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0179
+exDividendDate§1700092800
+payoutRatio§0.2548
+fiveYearAvgDividendYield§5.47
+beta§1.817
+priceToSalesTrailing12Months§1.3641893
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.31
+pegRatio§2.91
+lastDividendValue§0.2
+lastDividendDate§1700092800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Bath & Body Works, Inc.
+longName§Bath & Body Works, Inc.
+firstTradeDateEpochUtc§386519400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§77136431-5a55-3c12-a10c-4d614e140ebe
+messageBoardId§finmb_285544
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§30.0
+targetMeanPrice§42.17
+targetMedianPrice§41.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§0.432
+earningsGrowth§0.303
+grossMargins§0.42512
+ebitdaMargins§0.20162001
+trailingPegRatio§1.4996

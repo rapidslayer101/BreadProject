@@ -1,0 +1,20 @@
+# reload+after+2024-01-23 07:40:08.721554
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§PRS REIT (THE) PLC ORD 1P
+longName§PRS REIT Ord
+firstTradeDateEpochUtc§1496214000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e1aa86e5-908c-3d79-bc5c-4c85f57c9f37
+targetHighPrice§130.0
+targetLowPrice§77.0
+targetMeanPrice§105.25
+targetMedianPrice§107.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+trailingPegRatio§None

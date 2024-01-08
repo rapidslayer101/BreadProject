@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 10:31:02.085418
+address1§2173 Salk Avenue
+address2§Suite 200
+city§Carlsbad
+state§CA
+zip§92008
+country§United States
+phone§442 287 8990
+website§https://lineagecell.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Lineage Cell Therapeutics, Inc., a clinical-stage biotechnology company, develops novel cell therapies for the treatment of degenerative diseases in the United States and internationally. The company develops OpRegen, an allogeneic retinal pigment epithelium cell replacement therapy, which is in Phase 2a clinical trial for the treatment of the dry age-related macular degeneration; OPC1, an allogeneic oligodendrocyte progenitor cell therapy that is in Phase 1/2a multicenter clinical trial for the treatment of cervical spinal cord injuries; and VAC2, an allogeneic cancer immunotherapy of antigen-presenting dendritic cells, which is in Phase I clinical trial to treat non-small cell lung cancer. It also offers ANP1, an allogeneic auditory neuron progenitor cell transplant, which is in preclinical development for the treatment of debilitating hearing loss; and PNC1, an allogeneic photoreceptor cell transplant, which is in preclinical development for the treatment of vision loss due to photoreceptor dysfunction or damage. In addition, the company engages in the research and development of therapeutic products for retinal diseases, neurological diseases, and disorders and oncology. Lineage Cell Therapeutics, Inc. has a collaboration with Immunomic Therapeutics, Inc., for the treatment of glioblastoma multiforme. The company was formerly known as BioTime, Inc. and changed its name to Lineage Cell Therapeutics, Inc. in August 2019. Lineage Cell Therapeutics, Inc. was incorporated in 1990 and is headquartered in Carlsbad, California.
+fullTimeEmployees§70
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian M. Culley M.A., M.B.A.', 'age': 52, 'title': 'CEO, President & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 944150, 'exercisedValue': 0, 'unexercisedValue': 262989}, {'maxAge': 1, 'name': 'Ms. Jill Ann Howe', 'age': 47, 'title': 'CFO & Principal Financial and Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 125519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George A. Samuel III, J.D.', 'age': 42, 'title': 'General Counsel & Company Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 560950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ioana C. Hone', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brandi L. Roberts CPA, M.B.A.', 'age': 49, 'title': 'Consultant', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 407450, 'exercisedValue': 0, 'unexercisedValue': 210356}, {'maxAge': 1, 'name': 'Mr. William  Annett MBA', 'age': 69, 'title': 'President & CEO of OncoCyte Corporation', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 53200, 'exercisedValue': 0, 'unexercisedValue': 292600}, {'maxAge': 1, 'name': 'Ms. Alexandra  Hernandez', 'title': 'Senior Director of Finance & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Harold D. Waitz', 'age': 81, 'title': 'Vice President of Regulatory Affairs & Quality Control', 'yearBorn': 1942, 'fiscalYear': 2022, 'totalPay': 90000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.418
+priceToSalesTrailing12Months§23.938032
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.12
+exchange§ASE
+quoteType§EQUITY
+shortName§Lineage Cell Therapeutics, Inc.
+longName§Lineage Cell Therapeutics, Inc.
+firstTradeDateEpochUtc§699805800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§abef1a81-b502-3ba6-9f85-66c1e0506b97
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§2.0
+targetMeanPrice§4.83
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.63
+grossMargins§0.94106
+ebitdaMargins§-2.37004
+trailingPegRatio§None

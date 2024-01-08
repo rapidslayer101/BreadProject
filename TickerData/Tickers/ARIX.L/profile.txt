@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 02:35:36.713678
+address1§Duke Street House
+address2§50 Duke Street
+city§London
+zip§W1K 6JL
+country§United Kingdom
+phone§44 20 7290 1050
+website§https://arixbioscience.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Arix Bioscience plc is a venture capital firm specializing in all stages of growth, seed stage, preclinical and clinical stage assets, startup, early stage, mid venture, late stage, growth capital investments as well as private and public equity. The firm seeks to invest in biotech companies, novel therapeutics, innovative technologies, medical innovation comprising healthcare and life sciences. It seeks to invest globally. The firm employs an evergreen approach to funding. It primarily makes investments from its own balance sheet. The firm prefers to take board seat. The firm exit when the optimum value has been reached. Arix Bioscience plc is formerly known as Perceptive Bioscience Investments Limited. Arix Bioscience plc was founded in 2015 and is based in London, United Kingdom.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tom  Davidson', 'title': 'Finance Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Craig', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tassos  Konstantinou Ph.D.', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jade  Fletcher', 'title': 'Financial Controller', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Felix  Breyer Ph.D.', 'title': 'Associate', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roy  Bartel-Taverner M.D.', 'title': 'Analyst', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.035
+priceToSalesTrailing12Months§11.583686
+currency§GBp
+forwardEps§0.0
+exchange§LSE
+quoteType§EQUITY
+shortName§ARIX BIOSCIENCE PLC ORD 0.001P
+longName§Arix Bioscience plc
+firstTradeDateEpochUtc§1487318400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§72b50ef1-e361-3522-a5c6-96bbb99b0917
+messageBoardId§finmb_326506476
+targetHighPrice§115.0
+targetLowPrice§115.0
+targetMeanPrice§115.0
+targetMedianPrice§115.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§71.42
+grossMargins§1.0
+ebitdaMargins§0.58921003
+trailingPegRatio§None

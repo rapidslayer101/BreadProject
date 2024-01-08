@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 02:32:53.275553
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of all of the components of the S&P 500® Health Care Index (the “parent index”). The parent index is designed to measure the performance of common stocks of all companies included in the S&P 500® Index that are classified as members of the health care sector, as defined according to the Global Industry Classification Standard (“GICS®”).
+maxAge§86400
+priceHint§2
+yield§0.0066000004
+totalAssets§965165248
+navPrice§29.85
+currency§USD
+category§Health
+ytdReturn§0.0030222
+beta3Year§0.96
+fundFamily§Invesco
+fundInceptionDate§1162339200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.050521202
+fiveYearAverageReturn§0.11582851
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Equal Weight He
+longName§Invesco S&P 500 Equal Weight Health Care ETF
+firstTradeDateEpochUtc§1162909800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e9d25eac-79a3-363c-950a-a6ca79777768
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

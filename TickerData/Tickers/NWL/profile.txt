@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 10:46:20.753911
+address1§6655 Peachtree Dunwoody Road
+city§Atlanta
+state§GA
+zip§30328
+country§United States
+phone§770 418 7000
+website§https://www.newellbrands.com
+industry§Household & Personal Products
+sector§Consumer Defensive
+longBusinessSummary§Newell Brands Inc. engages in the design, manufacture, sourcing, and distribution of consumer and commercial products worldwide. The company operates in five segments: Commercial Solutions, Home Appliances, Home Solutions, Learning and Development, and Outdoor and Recreation. The Commercial Solutions segment provides commercial cleaning and maintenance solutions; closet and garage organization products; hygiene systems and material handling solutions; and connected home and security products under the Mapa, Quickie, Rubbermaid, Rubbermaid Commercial Products, and Spontex brands. The Home Appliances segment offers kitchen appliances under the Calphalon, Crockpot, Mr. Coffee, Oster, and Sunbeam brands. The Home Solutions segment provides food and home storage; fresh preserving; vacuum sealing; and gourmet cookware, bakeware, cutlery, and home fragrance products under the Ball, Calphalon, Chesapeake Bay Candle, FoodSaver, Rubbermaid, Sistema, WoodWick, and Yankee Candle brands. The Learning and Development segment offers writing instruments, including markers and highlighters, pens, and pencils; art products; activity-based adhesive and cutting products; labeling solutions; and baby gear and infant care products under the Aprica, Baby Jogger, Dymo, Elmer's, EXPO, Graco, Mr. Sketch, NUK, Paper Mate, Parker, Prismacolor, Sharpie, Tigex, Waterman, and X-Acto brands. The Outdoor and Recreation segment provides outdoor and outdoor-related products under the Campingaz, Coleman, Contigo, ExOfficio, and Marmot brands. It serves warehouse clubs, department and drug/grocery stores, mass merchants, home centers, commercial products distributors, specialty retailers, office superstores and supply stores, contract stationers, e-commerce retailers, sporting goods, and travel retailers, as well as direct to consumers online, select contract customers, and other professional customers. Newell Brands Inc. was founded in 1903 and is based in Atlanta, Georgia.
+fullTimeEmployees§28000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher H. Peterson', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1264468, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradford R. Turner', 'age': 50, 'title': 'Chief Legal & Administrative Officer and Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 962342, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. McDermott', 'age': 53, 'title': 'Segment CEO of Home & Commercial Solutions', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 878623, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristine Kay Malkoski', 'age': 62, 'title': 'Segment CEO of Learning & Development', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1069765, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Erceg CFA', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey M. Sesplankis', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Gustafson', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sofya  Tsinis', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Beth  Stellato', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen B. Parsons', 'age': 58, 'title': 'Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.28
+dividendYield§0.033299997
+exDividendDate§1701216000
+payoutRatio§1.9574001
+fiveYearAvgDividendYield§5.43
+beta§0.979
+priceToSalesTrailing12Months§0.41757634
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.77
+pegRatio§-0.55
+exchange§NMS
+quoteType§EQUITY
+shortName§Newell Brands Inc.
+longName§Newell Brands Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a2db9625-b8c0-399e-a8f0-21ae25e65fde
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.0
+targetMeanPrice§8.0
+targetMedianPrice§8.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.533
+grossMargins§0.28626
+ebitdaMargins§0.08487
+trailingPegRatio§None

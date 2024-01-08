@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 03:47:01.921140
+address1§80 East Rich Street
+address2§Suite 500
+city§Columbus
+state§OH
+zip§43215
+country§United States
+phone§866 980 9431
+website§https://joinroot.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Root, Inc. provides insurance products and services in the United States. The company offers automobile, homeowners, and renters insurance products. The company operates a direct-to-consumer model and serves customers primarily through mobile applications, as well as through its website. Its direct distribution channels also cover digital, media, and referral channels, as well as distribution partners and agencies. The company was incorporated in 2015 and is headquartered in Columbus, Ohio.
+fullTimeEmployees§765
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander Edward Timm', 'age': 34, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 3009335, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Bonakdarpour', 'age': 36, 'title': 'Chief Technology Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 1603335, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan Nicole Binkley', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Alexander Allison', 'title': 'Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Patrick LaMalva', 'age': 37, 'title': 'Head of Investor Relations', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  Ruoff', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Kellett', 'title': 'Vice President of Product & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katelynn  Sandy', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  LeMaster', 'age': 54, 'title': 'Chief Claims & Customer Service Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Shapiro', 'title': 'Senior Vice President of Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.565
+priceToSalesTrailing12Months§0.46904978
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-9.77
+pegRatio§-0.02
+exchange§NMS
+quoteType§EQUITY
+shortName§Root, Inc.
+longName§Root, Inc.
+firstTradeDateEpochUtc§1603891800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea2adde5-c377-3b5e-89d1-4b71935c6f32
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§9.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§2.44
+grossMargins§0.13635
+ebitdaMargins§-0.33273
+trailingPegRatio§None

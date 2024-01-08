@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 06:44:00.907908
+address1§One Vanderbilt Avenue
+address2§Suite 3400
+city§New York
+state§NY
+zip§10017
+country§United States
+phone§212 813 4900
+website§https://carlylesecuredlending.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Carlyle Secured Lending, Inc. is business development company specializing in first lien debt, senior secured loans, second lien senior secured loan unsecured debt, mezzanine debt and investments in equities. It specializes in directly investing. It specializes in middle market. It targets healthcare and pharmaceutical, aerospace and defense, high tech industries, business services, software, beverage food and tobacco, hotel gamming and leisure, banking finance insurance and in real estate sector. The fund seeks to invest across United States of America, Luxembourg, Cayman Islands, Cyprus, and United Kingdom. It invests in companies with EBITDA between $25 million and $100 million.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Aren C. LeeKong', 'age': 47, 'title': 'CEO, President & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 101250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas M. Hennigan', 'title': 'CFO & Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nelson  Joseph', 'age': 43, 'title': 'Principal Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison  Rudary', 'title': 'Head, Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Lefkowitz', 'age': 76, 'title': 'Chief Compliance Officer & Secretary', 'yearBorn': 1947, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark David Jenkins', 'age': 56, 'title': 'Head of Carlyle Global Credit & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander I. Popov', 'title': 'VP & Head of Illiquid Credit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Hadley', 'title': 'VP & Head of Underwriting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Hahn', 'age': 38, 'title': 'Managing Director of Global Credit for Illiquid Credit', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Kurche', 'title': 'Associate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.76
+dividendYield§0.1125
+exDividendDate§1703721600
+payoutRatio§1.2105
+fiveYearAvgDividendYield§11.4
+beta§1.675
+priceToSalesTrailing12Months§3.3830552
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.97
+pegRatio§3.75
+exchange§NMS
+quoteType§EQUITY
+shortName§Carlyle Secured Lending, Inc.
+longName§Carlyle Secured Lending, Inc.
+firstTradeDateEpochUtc§1497447000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§98492cdb-48c7-3686-8086-76d53e0fdc9e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§14.0
+targetMeanPrice§15.42
+targetMedianPrice§16.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.133
+earningsGrowth§-0.19
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

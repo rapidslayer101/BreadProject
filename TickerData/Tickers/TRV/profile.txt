@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 14:33:51.672544
+address1§485 Lexington Avenue
+city§New York
+state§NY
+zip§10017
+country§United States
+phone§917 778 6000
+website§https://www.travelers.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§The Travelers Companies, Inc., through its subsidiaries, provides a range of commercial and personal property, and casualty insurance products and services to businesses, government units, associations, and individuals in the United States and internationally. It operates through three segments: Business Insurance, Bond & Specialty Insurance, and Personal Insurance. The Business Insurance segment offers workers' compensation, commercial automobile and property, general liability, commercial multi-peril, employers' liability, public and product liability, professional indemnity, marine, aviation, onshore and offshore energy, construction, terrorism, personal accident, and kidnap and ransom insurance products. This segment operates through select accounts, which serve small businesses; commercial accounts that serve mid-sized businesses; national accounts, which serve large companies; and national property and other that serve large and mid-sized customers, commercial trucking industry, and agricultural businesses, as well as markets and distributes its products through brokers, wholesale agents, and program managers. The Bond & Specialty Insurance segment provides surety, fidelity, management and professional liability, and other property and casualty coverages and related risk management services through independent agencies and brokers. The Personal Insurance segment offers property and casualty insurance covering personal risks, primarily automobile and homeowners' insurance to individuals through independent agencies and brokers. The Travelers Companies, Inc. was founded in 1853 and is based in New York, New York.
+fullTimeEmployees§30000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alan David Schnitzer', 'age': 57, 'title': 'Chairman & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 8173041, 'exercisedValue': 4286039, 'unexercisedValue': 48459016}, {'maxAge': 1, 'name': 'Mr. Daniel Stephen Frey', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3195484, 'exercisedValue': 976865, 'unexercisedValue': 2461975}, {'maxAge': 1, 'name': 'Mr. Avrohom J. Kess', 'age': 54, 'title': 'Vice Chairman & Chief Legal Officer for Travelers', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 4070028, 'exercisedValue': 0, 'unexercisedValue': 12295314}, {'maxAge': 1, 'name': 'Mr. Michael Frederick Klein', 'age': 55, 'title': 'Executive VP & President of Personal Insurance', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3308542, 'exercisedValue': 3418833, 'unexercisedValue': 5977856}, {'maxAge': 1, 'name': 'Mr. Gregory Cheshire Toczydlowski', 'age': 56, 'title': 'Executive VP & President of Business Insurance', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3687251, 'exercisedValue': 2830290, 'unexercisedValue': 7360915}, {'maxAge': 1, 'name': 'Ms. Mojgan Mehdian Lefebvre', 'age': 57, 'title': 'Executive VP, Chief Technology & Operations Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Donnay Rowland CFA', 'age': 57, 'title': 'Executive VP & Co-Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Tei-Hwa Yin', 'age': 57, 'title': 'Executive VP & Co-Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Edward Munson', 'age': 57, 'title': 'Senior VP of Finance, Corporate Controller & Principal Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy Francis Bessette', 'age': 69, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.0
+dividendYield§0.0207
+exDividendDate§1701907200
+payoutRatio§0.4168
+fiveYearAvgDividendYield§2.32
+beta§0.591
+priceToSalesTrailing12Months§1.1004168
+currency§USD
+dateShortInterest§1702598400
+forwardEps§17.45
+pegRatio§1.13
+exchange§NYQ
+quoteType§EQUITY
+shortName§The Travelers Companies, Inc.
+longName§The Travelers Companies, Inc.
+firstTradeDateEpochUtc§185466600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f9648b70-41f5-3bd8-a005-3a20a688b790
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§230.0
+targetLowPrice§167.0
+targetMeanPrice§194.95
+targetMedianPrice§188.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§19
+quickRatio§0.184
+earningsGrowth§-0.079
+grossMargins§0.19452
+ebitdaMargins§0.085939996
+trailingPegRatio§0.6379

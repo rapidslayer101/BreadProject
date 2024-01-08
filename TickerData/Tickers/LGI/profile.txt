@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 04:31:04.538316
+address1§30 Rockefeller Plaza
+city§New York
+state§NY
+zip§10112
+country§United States
+phone§212 632 6024
+fax§212 332 1703
+website§https://www.lazardnet.com/lam/us/closedfunds_lgi.shtml
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Lazard Global Total Return and Income Fund, Inc. is a closed ended balanced mutual fund launched and managed by Lazard Asset Management LLC. It invests in public equity and fixed income markets across the globe. The fund primarily invests in stocks of companies with market capitalization over $5 billion. It makes its fixed income investments in short duration market forward currency contracts and other market debt instruments. The fund typically employs fundamental analysis with a bottom-up stock picking approach using its global equity strategy and emerging income strategy to create its portfolio. It considers factors like financial condition, cash flows, strong balance sheets, sustainability of returns, quality of management, competitive position, sensitivity to economic and market cycles, margin and sales trends, brand name strength, geographical breakdown, and macro environment for selecting individual securities. The fund benchmarks the performance of its portfolio against the MSCI World Index. Lazard Global Total Return and Income Fund, Inc. was formed on January 27, 2004 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Laurence Carroll', 'age': 63, 'title': 'Chief Executive Officer, President and Interested Director', 'yearBorn': 1960, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Maitland Donald C.F.A., CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ardra  Belitz', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew D. Lacey', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Powers', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§1.26
+dividendYield§0.0842
+exDividendDate§1704844800
+payoutRatio§0.4578
+fiveYearAvgDividendYield§8.01
+beta§1.129
+priceToSalesTrailing12Months§38.30121
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lazard Global Total Return and 
+longName§Lazard Global Total Return and Income Fund, Inc.
+firstTradeDateEpochUtc§1083159000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c7cc9755-2e48-351c-9a75-d46156c9972d
+gmtOffSetMilliseconds§-18000000
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§0.047
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

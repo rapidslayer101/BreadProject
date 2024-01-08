@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 04:45:41.097807
+address1§17461 Derian Avenue
+address2§Suite 200
+city§Irvine
+state§CA
+zip§92614
+country§United States
+phone§657 333 4100
+website§https://www.kurasushi.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Kura Sushi USA, Inc. operates technology-enabled Japanese restaurants in the United States. The company was formerly known as Kula Sushi USA, Inc. and changed its name to Kura Sushi USA, Inc. in October 2017. The company was founded in 2008 and is headquartered in Irvine, California. Kura Sushi USA, Inc. is a subsidiary of Kura Sushi, Inc.
+fullTimeEmployees§3219
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hajime  Uba', 'age': 45, 'title': 'Chairman, President & CEO', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 628367, 'exercisedValue': 0, 'unexercisedValue': 7456661}, {'maxAge': 1, 'name': 'Mr. Jeff  Uttz', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 521998, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Allameh', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 392475, 'exercisedValue': 0, 'unexercisedValue': 593226}, {'maxAge': 1, 'name': 'Mr. Brent  Takao', 'age': 50, 'title': 'Chief Accounting Officer, Treasurer & Secretary', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 2850512, 'exercisedValue': 0, 'unexercisedValue': 1255734}, {'maxAge': 1, 'name': 'Benjamin  Porten', 'title': 'VP of Investor Relations & Business Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Arlene Estrada Petokas', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Kluger', 'title': 'Chief Development Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§4
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.009
+priceToSalesTrailing12Months§4.909132
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.76
+pegRatio§1.58
+exchange§NGM
+quoteType§EQUITY
+shortName§Kura Sushi USA, Inc.
+longName§Kura Sushi USA, Inc.
+firstTradeDateEpochUtc§1564666200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c7d14576-eab3-31e0-b80c-fd4149c84062
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§95.0
+targetLowPrice§63.0
+targetMeanPrice§76.86
+targetMedianPrice§76.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§2.445
+grossMargins§0.1924
+ebitdaMargins§0.042179998
+trailingPegRatio§None

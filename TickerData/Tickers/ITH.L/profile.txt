@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 20:39:13.023670
+address1§33 Cavendish Square
+city§London
+zip§W1G 0PP
+country§United Kingdom
+website§https://www.ithacaenergy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Ithaca Energy plc, together with its subsidiaries, engages in the exploration, development, and production of oil and gas in the North Sea. The company own a portfolio of assets located in Northern and Central North Sea, Moray Firth, and West of Shetland area of the UKCS. Ithaca Energy plc was formerly known as Delek North Sea Limited and changed its name to Ithaca Energy plc in October 2022. The company was incorporated in 2004 and is based in London, the United Kingdom. Ithaca Energy plc operates as a subsidiary of DKL Energy Limited.
+fullTimeEmployees§573
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gilad  Myerson', 'age': 47, 'title': 'Executive Chairman', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 7826000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan Alexander Bruce', 'age': 41, 'title': 'CEO & Executive Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 6036000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iain  Lewis', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 391000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Winton', 'age': 67, 'title': 'General Manager of Operations, Projects & Decommissioning', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Stanley', 'age': 49, 'title': 'General Manager of NOJV, Energy Transition, Technology & Innovation', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  McAteer', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.42
+dividendYield§0.2944
+exDividendDate§1693440000
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.6033802
+currency§GBp
+forwardEps§0.3
+pegRatio§0.42
+exchange§LSE
+quoteType§EQUITY
+shortName§ITHACA ENERGY PLC ORD 1P
+longName§Ithaca Energy plc
+firstTradeDateEpochUtc§1667980800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8701b03d-6b73-37f3-8a7b-68f8319b69bc
+targetHighPrice§2.26
+targetLowPrice§1.38
+targetMeanPrice§1.84
+targetMedianPrice§1.89
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.485
+grossMargins§0.45867002
+ebitdaMargins§0.77935
+trailingPegRatio§None

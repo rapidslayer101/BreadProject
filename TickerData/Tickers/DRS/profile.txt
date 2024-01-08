@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 04:44:25.943943
+address1§2345 Crystal Drive
+address2§Suite 1000
+city§Arlington
+state§VA
+zip§22202
+country§United States
+phone§703 416 8000
+website§https://www.leonardodrs.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Leonardo DRS, Inc., together with its subsidiaries, provides defense electronic products, systems, and military support service. It operates through Advanced Sensing and Computing (ASC) segment, and Integrated Mission Systems (IMS) segments. The ASC segment designs, develops, and manufacture sensing and network computing technology that enables real-time situational awareness required for enhanced operational decision making and execution; and offers sensing capabilities span applications, such as missions requiring advanced detection, precision targeting and surveillance sensing, long range electro-optic/infrared, signals intelligence, and other intelligence systems including electronic warfare, ground vehicle sensing, active electronically scanned array  tactical radars, dismounted soldier, and space sensing. This segment also provides network computing, which is utilized across a range of mission applications including platform computing on ground and shipboard for advanced battle management, combat systems, radar, command and control, tactical networks, tactical computing, and communications. Its IMS segment designs, develops, manufacture, and integrates power conversion, control, and distribution systems, ship propulsion systems, motors and variable frequency drives, force protection systems, transportation, and logistics systems for the U.S. and allied defense customers. This segment also offers naval power and propulsion systems, which includes power conversion, control, distribution, and propulsion systems, as well as power dense permanent magnet motors, energy storage systems and associated efficient, rugged and compact power conversion, electrical actuation systems, and cooling technologies; and motor controllers, instrumentation and control equipment, electrical actuation systems, and thermal management systems. The company was incorporated in 1968 and is based in Arlington, Virginia. Leonardo DRS, Inc. operates as a subsidiary of Leonardo S.p.a.
+fullTimeEmployees§6400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William J. Lynn III', 'age': 69, 'title': 'Chairman & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 5169258, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Dippold', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1515886, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John A. Baylouny', 'age': 62, 'title': 'Executive VP & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1775379, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Dorfman', 'age': 49, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1210419, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally A. Wallace', 'age': 56, 'title': 'Executive Vice President of Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1193189, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Vather', 'title': 'Vice President of Investor Relations & Corporate Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Philip  Perconti', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Mount', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Coulter', 'title': 'Senior VP of Corporate Business Development & President of International', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tami E. Gesiskie', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§1.8211564
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.83
+pegRatio§3.14
+exchange§NMS
+quoteType§EQUITY
+shortName§Leonardo DRS, Inc.
+longName§Leonardo DRS, Inc.
+firstTradeDateEpochUtc§488467800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f1e3446c-69e4-3872-b9ff-7863482f9dcb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§21.0
+targetMeanPrice§21.8
+targetMedianPrice§22.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.375
+earningsGrowth§-0.865
+grossMargins§0.22868
+ebitdaMargins§-0.02132
+trailingPegRatio§None

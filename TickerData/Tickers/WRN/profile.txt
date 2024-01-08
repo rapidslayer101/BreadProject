@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 23:34:27.342045
+address1§1166 Alberni Street
+address2§Suite 1200
+city§Vancouver
+state§BC
+zip§V6E 3Z3
+country§Canada
+phone§604 684 9497
+fax§604 669 2926
+website§https://www.westerncopperandgold.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Western Copper and Gold Corporation, an exploration stage company, engages in the exploration and development of mineral properties in Canada. The company explores for gold, copper, silver, and molybdenum deposits. Its principal property is the Casino mineral property that comprise 1,136 full and partial quartz claims, and 55 placer claims located in Yukon, Canada. The company was formerly known as Western Copper Corporation and changed its name to Western Copper and Gold Corporation in October 2011. The company was incorporated in 2006 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Paul  West-Sells', 'title': 'President & CEO', 'fiscalYear': 2022, 'totalPay': 353918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Varun  Prasad CPA, CGA', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 172099, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron  Brown P.Eng.', 'title': 'Special Technical Advisor', 'fiscalYear': 2022, 'totalPay': 208610, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shena  Shaw B.A.', 'title': 'Vice President of Environmental & Community Affairs', 'fiscalYear': 2022, 'totalPay': 187052, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandy  Noyes', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Clegg', 'title': 'Executive Vice President of Engineering', 'fiscalYear': 2022, 'totalPay': 60317, 'exercisedValue': 0, 'unexercisedValue': 37904}, {'maxAge': 1, 'name': 'Ms. Elena  Spivak B.E.', 'title': 'Paralegal & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.296
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.02
+exchange§ASE
+quoteType§EQUITY
+shortName§Western Copper and Gold Corpora
+longName§Western Copper and Gold Corporation
+firstTradeDateEpochUtc§1148045400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1b572d72-f920-3225-a4fe-60fb747a1055
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.75
+targetLowPrice§3.75
+targetMeanPrice§3.75
+targetMedianPrice§3.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§4.5
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

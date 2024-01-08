@@ -1,0 +1,51 @@
+# reload+after+2024-01-19 23:44:16.989735
+address1§151 Oyster Point Boulevard
+address2§Suite 400
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§650 515 3185
+fax§650 351 0353
+website§https://www.cytomx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§CytomX Therapeutics, Inc., a clinical-stage, oncology-focused biopharmaceutical company, focuses on developing novel conditionally activated biologics localized to the tumor microenvironment. The company's pipeline comprises therapeutic candidates across multiple treatment modalities, including antibody-drug conjugates (ADCs), T-cell engaging bispecific antibodies, and immune modulators, such as cytokines and checkpoint inhibitors. CX-2029 is an investigational conditional ADC directed toward CD71. Its clinical pipeline also includes cancer immunotherapeutic candidates against validated targets, such as the CTLA-4-targeting Probody therapeutic BMS-986288, partnered with Bristol Myers Squibb, as well as CX-904, a T-cell-engaging bispecific antibody targeting the epidermal growth factor receptor (EGFR) on tumor cells and the CD3 receptor on T cells, which is partnered with Amgen. In addition, it has a preclinical portfolio of wholly owned assets, including CX-801, an interferon alpha-2b Probody cytokine that has potential applicability in immuno-oncology sensitive, as well as insensitive (cold) tumors and CX-2051, an ADC directed toward EpCAM with potential applicability across multiple EpCAM-expressing epithelial cancers. The company has strategic collaborations with various leaders in oncology, including Amgen, Astellas, Bristol Myers Squibb, Regeneron, and Moderna. The company was founded in 2008 and is headquartered in South San Francisco, California.
+fullTimeEmployees§116
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Sean A. McCarthy DPHIL', 'age': 56, 'title': 'Chairman & CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1025446, 'exercisedValue': 0, 'unexercisedValue': 4289}, {'maxAge': 1, 'name': 'Mr. Lloyd A. Rowland Jr., J.D.', 'age': 66, 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 608718, 'exercisedValue': 0, 'unexercisedValue': 150}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Landau B.S., M.B.A.', 'age': 45, 'title': 'Senior VP, Head of Strategy & Chief Business Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 581683, 'exercisedValue': 0, 'unexercisedValue': 150}, {'maxAge': 1, 'name': 'Mr. Christopher W. Ogden', 'age': 39, 'title': 'Senior VP of Finance and Accounting, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marcia P. Belvin Ph.D.', 'title': 'Senior VP & Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chau  Cheng M.B.A., Ph.D.', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle  Olander-Moghadassian', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leslie  Robbins', 'title': 'Senior Vice President of Intellectual Property', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yu-Waye  Chu M.D.', 'age': 55, 'title': 'Chief Medical Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn  Benson', 'title': 'Senior Vice President of Quality & Product Manufacturing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§3
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.871
+priceToSalesTrailing12Months§1.0678058
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.22
+pegRatio§28.7
+exchange§NMS
+quoteType§EQUITY
+shortName§CytomX Therapeutics, Inc.
+longName§CytomX Therapeutics, Inc.
+firstTradeDateEpochUtc§1444311000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c5953a3e-48a3-3ef1-b8e7-58afa2ecd58e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.5
+targetLowPrice§1.6
+targetMeanPrice§2.61
+targetMedianPrice§2.63
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.339
+grossMargins§1.0
+ebitdaMargins§-0.05689
+trailingPegRatio§None

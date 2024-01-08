@@ -1,0 +1,50 @@
+# reload+after+2024-01-19 23:45:54.382956
+address1§101 North Brand Boulevard
+address2§11th Floor
+city§Glendale
+state§CA
+zip§91203
+country§United States
+phone§323 962 8600
+website§https://www.legalzoom.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§LegalZoom.com, Inc. operates an online platform for legal and compliance solutions in the United States. The company's platform offers products and services, including business formations, creating estate planning documents, protecting intellectual property, completing certain forms and agreements, providing access to independent attorney advice, and connecting customers with experts for tax preparation and bookkeeping services. It serves small businesses and individuals. LegalZoom.com, Inc. was incorporated in 1999 and is headquartered in Glendale, California.
+fullTimeEmployees§1383
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel A. Wernikoff', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 872200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noel B. Watson', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 692600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Preece', 'age': 47, 'title': 'Chief Operating Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 581816, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shrisha  Radhakrishna', 'age': 45, 'title': 'Chief Product Officer & CTO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 667800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Miller', 'age': 39, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 545231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Vivier', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Lysaught', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheily Chhabria Panchal', 'age': 39, 'title': 'Chief People Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathy  Tsitovich', 'age': 49, 'title': 'Chief Partnership Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.13
+priceToSalesTrailing12Months§3.0130165
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.46
+pegRatio§0.47
+exchange§NMS
+quoteType§EQUITY
+shortName§LegalZoom.com, Inc.
+longName§LegalZoom.com, Inc.
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§435aebf3-3c29-3789-bbc8-ae2a2b0f8b3b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§9.5
+targetMeanPrice§14.64
+targetMedianPrice§15.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.851
+grossMargins§0.64419997
+ebitdaMargins§0.044650003
+trailingPegRatio§None

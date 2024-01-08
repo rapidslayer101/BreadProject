@@ -1,0 +1,35 @@
+# reload+after+2024-01-21 03:46:35.802813
+address1§1500 Lakeview Loop
+city§Anaheim
+state§CA
+zip§92807
+country§United States
+phone§909 987 0815
+fax§909 987 2020
+website§https://www.phoenixmotorcars.com
+industry§Auto Manufacturers
+sector§Consumer Cyclical
+longBusinessSummary§Phoenix Motor Inc. designs, develops, manufactures, assembles, and integrates electric drive systems, and light and medium duty electric vehicles in the United States and internationally. It provides chargers, electric forklifts, shuttle buses, Type A school buses, utility and service trucks, flatbed and cargo trucks, and walk-in vans. The company offers its products under the Phoenix Motorcars and EdisonFuture brand names. It serves medium-duty fleet customers, including utilities, cities, municipalities, transit agencies, airports, hotels, seaports, school districts, parking companies, universities, and corporate campuses. The company was founded in 2003 and is headquartered in Anaheim, California. Phoenix Motor Inc. operates as a subsidiary of Edisonfuture Inc.
+fullTimeEmployees§60
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Xiaofeng  Peng', 'age': 48, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 156000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wenbing Christopher  Wangs', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 200000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lewis  Liu', 'age': 60, 'title': 'Senior Vice President of Operations', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Mark Hastings', 'age': 58, 'title': 'Chief Investment Officer, CS, Senior VP of Corp. Develop & Strategy, Head of Investor Relations', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Frank  Lee', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose Paul Plackal', 'age': 42, 'title': 'Chief Revenue Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bo  Yang', 'title': 'Head of Research & Development of Hydrogen Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§6.1163955
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Phoenix Motor Inc.
+longName§Phoenix Motor Inc.
+firstTradeDateEpochUtc§1654695000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§24c74f0a-0836-3baa-988e-3477fcbb5b44
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.206
+grossMargins§0.072519995
+ebitdaMargins§-2.5616698
+trailingPegRatio§None

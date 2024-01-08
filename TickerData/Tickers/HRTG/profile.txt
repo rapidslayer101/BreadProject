@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 13:30:15.021265
+address1§1401 North Westshore Blvd
+city§Tampa
+state§FL
+zip§33607
+country§United States
+phone§727 362 7200
+website§https://investors.heritagepci.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Heritage Insurance Holdings, Inc., through its subsidiaries, provides personal and commercial residential insurance products. The company offers personal residential property insurance for single-family homeowners and condominium owners; and rental property insurance in the states of Alabama, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Maryland, Massachusetts, Mississippi, New Jersey, New York, North Carolina, Rhode Island, South Carolina, and Virginia; commercial residential insurance for properties in Florida, New Jersey, and New York; and licensed in the state of Pennsylvania, as well as personal residential and wind-only property insurance. It also provides restoration, emergency, and recovery services; property management, and reinsurance services. In addition, the company provides personal line policies through a network of retail independent agents, wholesale agents, and a partnership with a direct agency, as well as distribute indirectly to retail locations through wholesale agency relationships. Further, it offers personal and commercial insurance policies through a network of independent agencies. Heritage Insurance Holdings, Inc. was founded in 2012 and is headquartered in Tampa, Florida.
+fullTimeEmployees§612
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ernesto Jose Garateix CPCU', 'age': 51, 'title': 'CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1365485, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk Howard Lusk', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1088300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy Michael Moura', 'age': 50, 'title': 'President of Narragansett Bay Insurance Company', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 999544, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon Ann Binnun', 'age': 61, 'title': 'Chief Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 588612, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph Rene Peiso', 'age': 64, 'title': 'Vice President of Compliance', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy E. Johns', 'age': 66, 'title': 'President of Zephyr Insurance Company', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 454445, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Lowell Rohde', 'age': 72, 'title': 'Advisory', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 959406, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1655078400
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.46
+beta§0.786
+priceToSalesTrailing12Months§0.26593217
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§Heritage Insurance Holdings, In
+longName§Heritage Insurance Holdings, Inc.
+firstTradeDateEpochUtc§1400851800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d11c2434-3390-3745-8f46-5831106b797f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§6.0
+targetMeanPrice§7.33
+targetMedianPrice§7.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.157
+grossMargins§0.16483
+ebitdaMargins§0.07096
+trailingPegRatio§None

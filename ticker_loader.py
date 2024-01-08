@@ -1,8 +1,7 @@
 from tickers_and_indexes import *
-from random import randint
-from datetime import datetime, timedelta
 from os import listdir
-import yfinance as yf
+from yfinance import Ticker
+import re
 
 # This file contains the TNS and other cache based functions
 # TNS links TICKERS, INDEXES and COMPANIES together
@@ -71,62 +70,6 @@ def tns_check(ticker, name):
     return ticker_live
 
 
-def _ticker_info_writer_(_ticker):
-    try:
-        t_object = yf.Ticker(_ticker)
-        t_info = t_object.info
-    except requests.exceptions.HTTPError:
-        print(f"Ticker {_ticker} profile failed to load: HTTPError")
-        return {}
-    ticker_profile = {}
-    with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
-        r_day_add, r_hour_add = randint(0, 3), randint(0, 23)
-        f.write(f"# reload+after+{datetime.now()+timedelta(days=12+r_day_add)+timedelta(hours=r_hour_add)}\n")
-        # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
-        ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
-                   "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
-                   "regularMarketVolume", "averageVolume", "averageVolume10days", "averageDailyVolume10Day", "bid",
-                   "ask", "bidSize", "askSize", "marketCap", "fiftyTwoWeekLow", "fiftyTwoWeekHigh", "fiftyDayAverage",
-                   "twoHundredDayAverage", "trailingAnnualDividendRate", "trailingAnnualDividendYield",
-                   "enterpriseValue", "profitMargins", "floatShares", "sharesOutstanding", "sharesShort",
-                   "sharesShortPriorMonth", "sharesShortPreviousMonthDate", "sharesPercentSharesOut",
-                   "heldPercentInsiders", "heldPercentInstitutions", "shortRatio", "shortPercentOfFloat",
-                   "impliedSharesOutstanding", "bookValue", "priceToBook", "lastFiscalYearEnd", "nextFiscalYearEnd",
-                   "mostRecentQuarter", "earningsQuarterlyGrowth", "netIncomeToCommon", "trailingEps",
-                   "lastSplitFactor", "lastSplitDate", "enterpriseToRevenue", "enterpriseToEbitda", "52WeekChange",
-                   "SandP52WeekChange", "symbol", "underlyingSymbol", "currentPrice", "totalCash", "totalCashPerShare",
-                   "ebitda", "totalDebt", "currentRatio", "totalRevenue", "debtToEquity", "revenuePerShare",
-                   "returnOnAssets", "returnOnEquity", "grossProfits", "freeCashflow", "operatingCashflow",
-                   "revenueGrowth", "operatingMargins", "financialCurrency"]
-
-        for _key in t_info.keys():
-            if _key not in ex_keys:
-                t_info[_key] = str(t_info[_key]).replace("\n", "")
-                f.write(f"{_key}§{t_info[_key]}\n")
-                ticker_profile.update({_key: t_info[_key]})
-    return ticker_profile
-
-
-# loads company profile from cache or downloads it, returns profile data
-def load_ticker_info(_ticker):
-    if exists(f"TickerData/Tickers/{_ticker}/profile.txt"):
-        with open(f"TickerData/Tickers/{_ticker}/profile.txt", "r", encoding="utf-8") as f:
-            file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
-            if file_time < datetime.now():
-                ticker_profile = _ticker_info_writer_(_ticker)
-                print(f"Reloaded ticker profile for {_ticker}")
-            else:
-                ticker_profile = {}
-                for line in f.readlines():
-                    key, value = line.replace("\n", "").split("§")
-                    ticker_profile.update({key: value})
-    else:
-        if not exists(f"TickerData/Tickers/{_ticker}"):
-            mkdir(f"TickerData/Tickers/{_ticker}")
-        ticker_profile = _ticker_info_writer_(_ticker)
-    return ticker_profile
-
-
 # code to generate ticker profile cache
 #counter = 0
 #for ticker_name in lse:
@@ -174,9 +117,15 @@ if __name__ == "__main__":
     # todo improve TNS for ETF type finder, eg ISF.L working (basically checking 2nd index)
     # nasdaq = ??? a mess of like 400 different types, more research needed
 
+    # todo list of functions that are not linked to a ticker
+
+    print(get_earnings_for_date("2021-10-20"))
+
+    input()
+
     while True:
-        c_name = input("Ticker name: ")
-        #c_name = "Tesla"
+        #c_name = input("Ticker name: ")
+        c_name = "Tesla"
         c_ticker, c_index = tns(c_name)
         if not c_ticker:
             print("Ticker not found: TNS failed to resolve ticker")
@@ -204,7 +153,7 @@ if __name__ == "__main__":
     #print(get_day_gainers())
 
     #input("Enter to fetch all data: ")
-    t_object = yf.Ticker(c_ticker[0][0])
+    t_object = Ticker(c_ticker[0][0])
 
     # todo testing and ordering in alphabetical order
     # Below are all the t_object functions
@@ -249,8 +198,6 @@ if __name__ == "__main__":
     #input("FINISHED.")
     #print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
 
-
-    #print(get_yf_rss('tsla'))
 
     # get live price of apple
     #print(get_live_price('aapl'))

@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 10:47:38.172432
+address1§35 Vantage Point Drive
+city§Rochester
+state§NY
+zip§14624
+country§United States
+phone§585 352 7777
+fax§800 395 0543
+website§https://www.transcat.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§Transcat, Inc. provides calibration and laboratory instrument services in the United States, Canada, and internationally. It operates through two segments: Service and Distribution. The Service segment offers calibration, repair, inspection, analytical qualification, preventative maintenance, consulting, and other related services. This segment also provides CalTrak, a proprietary document and asset management system that is used to manage the workflow of its calibration service centers and customers' assets; and Compliance, Control and Cost, an online customer portal that provides its customers with web-based asset management capability, as well as a safe and secure off-site archive of calibration and other service records. The Distribution segment sells and rents test, measurement, and control instruments for customers' test and measurement instrumentation needs, as well as value added services, such as calibration/certification of equipment purchase, equipment rental, used equipment for sale, and equipment kitting. This segment markets and sells its products through website, digital and print advertising, proactive outbound sales, and an inbound call center. The company provides services and products to highly regulated industries, principally life science, which includes companies in the pharmaceutical, biotechnology, medical device, and other FDA-regulated industries; and additional industries, including aerospace and defense industrial manufacturing, energy and utilities, and other industries that require accuracy in processes and confirmation of the capabilities of their equipment. Transcat, Inc. was incorporated in 1964 and is headquartered in Rochester, New York.
+fullTimeEmployees§1030
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lee D. Rudow', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 816455, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Barbato', 'age': 54, 'title': 'CFO & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 398087, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark A. Doheny', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 399693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Jenkins J.D.', 'age': 59, 'title': 'Chief Legal Officer, Corporate Development Officer & Corporate Secretary', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 403629, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa A. Conroy', 'age': 59, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 294660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott D. Deverell', 'age': 57, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marcy  Bosley', 'age': 44, 'title': 'Vice President of Sales', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. West', 'age': 52, 'title': 'Senior Vice President of Business Operations', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 410733, 'exercisedValue': 0, 'unexercisedValue': 1029250}]
+auditRisk§4
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.651
+priceToSalesTrailing12Months§3.612718
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.15
+pegRatio§2.97
+exchange§NGM
+quoteType§EQUITY
+shortName§Transcat, Inc.
+longName§Transcat, Inc.
+firstTradeDateEpochUtc§250180200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8631bf45-4f36-30ee-96dc-c55c2fe44487
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§112.0
+targetLowPrice§101.0
+targetMeanPrice§108.2
+targetMedianPrice§110.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.635
+earningsGrowth§-0.81
+grossMargins§0.30627
+ebitdaMargins§0.12489
+trailingPegRatio§None

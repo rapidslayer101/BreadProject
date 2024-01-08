@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 06:30:22.001683
+address1§ICICI Bank Towers
+address2§Bandra-Kurla Complex Bandra (East)
+city§Mumbai
+zip§400051
+country§India
+phone§91 22 2653 6173
+fax§91 22 2653 1122
+website§https://www.icicibank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§ICICI Bank Limited provides various banking products and services in India and internationally. It operates through Retail Banking, Wholesale Banking, Treasury, Other Banking, Life Insurance, and Others segments. The company offers savings, salary, pension, current, and other accounts; and time, fixed, recurring, and security deposits services. It also provides home, car, two-wheeler, personal, gold, and commercial business loans, as well as loans against securities and other loans; business loans, including working capital finance, term loans, collateral free loans, loans without financials, finance for importers and exporters, and overdraft facilities, as well as loans for new entities and card swipes; and credit, debit, prepaid, travel, forex, and corporate cards. In addition, the company offers pockets wallet; fixed income products; investment products, such as mutual funds, gold monetization schemes, initial public offerings, and other online investment services; and agri and rural business, farmer finance, tractor loans, and micro banking services, as well as other services to agri corporates. Further, it provides portfolio management, trade, foreign exchange, locker, private and NRI banking, and cash management services; family wealth and demat accounts; commercial and investment banking, capital market, custodial, and institutional banking services; health, personal accident, fire, and motor insurance, as well as distributes general and life insurance products; and Internet, mobile, and phone banking services. Additionally, the company offers securities investment, broking, trading, and underwriting services; and merchant banking, trusteeship, housing finance, pension fund management, asset management, investment advisory, points of presence, and private equity/venture capital fund management services. ICICI Bank Limited was founded in 1955 and is headquartered in Mumbai, India.
+fullTimeEmployees§157799
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sandeep  Bakhshi B.E.', 'age': 63, 'title': 'MD, CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1149875, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sandeep  Batra A.C.S., B.Com., CA, CS, F.C.A.', 'age': 57, 'title': 'President & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1025265, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anindya  Banerjee', 'title': 'Group CFO & Head of Investor Relations', 'fiscalYear': 2023, 'totalPay': 429103, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rakesh  Jha BE, PGDM', 'age': 51, 'title': 'Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 800187, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rajendra  Khandelwal', 'title': 'Chief Accountant', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Prachiti D. Lalingkar', 'title': 'Company Secretary & Compliance Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ajay  Gupta B.Com, CA', 'age': 56, 'title': 'Additional Whole-Time Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Prasanna  Balachander', 'age': 52, 'title': 'Head of Markets & Proprietory Trading and Group Executive', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Akshay  Chaturvedi', 'title': 'Country Head of USA', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vivek  Ranjan', 'title': 'Chief Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.19
+dividendYield§0.008
+exDividendDate§1691452800
+payoutRatio§0.1417
+fiveYearAvgDividendYield§1.01
+beta§0.8
+priceToSalesTrailing12Months§0.06425773
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.43
+pegRatio§0.85
+exchange§NYQ
+quoteType§EQUITY
+shortName§ICICI Bank Limited
+longName§ICICI Bank Limited
+firstTradeDateEpochUtc§954253800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7d57cba3-c474-3404-818e-6607e0f6fd99
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.9
+targetLowPrice§28.4
+targetMeanPrice§30.33
+targetMedianPrice§30.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+earningsGrowth§0.357
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

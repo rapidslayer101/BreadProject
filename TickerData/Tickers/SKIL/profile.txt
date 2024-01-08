@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 11:33:13.507901
+address1§300 Innovative Way
+address2§Suite 201
+city§Nashua
+state§NH
+zip§03062
+country§United States
+phone§603 324 3000
+website§https://www.skillsoft.com
+industry§Education & Training Services
+sector§Consumer Defensive
+longBusinessSummary§Skillsoft Corp. provides skillsoft content and global knowledge services in the United States and internationally. The company operates through two segments: Skillsoft Content and Global Knowledge. It provides content services, including leadership and business skills, technology and developer, and compliance; as well as cloud-based content on various open platform and talent management solutions. The company offers enterprise learning solutions to prepare organizations for the future of work, as well as enable them to overcome critical skill gaps, drive demonstrable behavior-change, and unlock the potential in their people. Skillsoft Corp. is headquartered in Nashua, New Hampshire.
+fullTimeEmployees§2324
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey R. Tarr', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 754000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Apratim  Purakayastha Ph.D.', 'age': 55, 'title': 'GM of Enterprise Solutions & Chief Product and Technology Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 497750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard G. Walker', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose A. Torres Jr.', 'age': 48, 'title': 'Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad W. Lyne', 'title': 'Senior Vice President of Strategic Finance & Investor Relations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle R. Boockoff-Bajdek', 'age': 52, 'title': 'Chief Marketing Officer & Chief Sustainability Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ciara  Harrington', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Glitzer', 'age': 55, 'title': 'Chief Revenue Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsey  Padrino', 'title': 'Chief Strategy Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§5
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.216
+priceToSalesTrailing12Months§0.2295063
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-10.04
+pegRatio§-0.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Skillsoft Corp.
+longName§Skillsoft Corp.
+firstTradeDateEpochUtc§1564147800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3d75a3ad-dd9d-313c-9716-e24766041843
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§66.0
+targetLowPrice§30.0
+targetMeanPrice§45.33
+targetMedianPrice§40.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.751
+grossMargins§0.71753997
+ebitdaMargins§0.10493
+trailingPegRatio§None

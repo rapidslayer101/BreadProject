@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 09:47:13.245623
+address1§1221 Avenue of the Americas
+address2§35th Floor
+city§New York
+state§NY
+zip§10020
+country§United States
+phone§212 584 5100
+website§https://www.siriusxm.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§Sirius XM Holdings Inc., an audio entertainment company, operates audio business including subscription entertainment services in the United States. It operates through Sirius XM, and Pandora and Off-platform segment. The company's Sirius XM segment provides music, sports, entertainment, comedy, news, traffic and weather channels, and other content, as well as podcast and infotainment services on subscription fee basis; and live, curated, and exclusive and on demand programming services through satellite radio system and streamed via applications for mobile and home devices, and other consumer electronic equipment. Its Pandora and Off-platform segment operates music and podcast streaming platform, which offers personalized experience for listener through computers, tablets, mobile devices, vehicle speakers, and connected devices. In addition, the company offers podcasts including true crime to politics, sports, comedy, and other podcasts under Stitcher brand. Further, it distributes satellite radios through automakers and retailers, as well as its website. The company also provides location-based services through two-way wireless connectivity, including safety, security, convenience, remote vehicles diagnostic, maintenance and data, and stolen or parked vehicle locator services. Additionally, it offers satellite television services, which offer music channels on the DISH Network satellite television service as a programming package; Travel Link, a suite of data services that include graphical weather, fuel prices, sports schedule and scores, and movie listings; and real-time traffic and weather services, as well as music programming and commercial-free music services for commercial, office, restaurants, and other business. The company was incorporated in 2013 and is headquartered in New York. Sirius XM Holdings Inc. is a subsidiary of Liberty Media Corporation.
+fullTimeEmployees§5869
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Jennifer C. Witz', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 7087004, 'exercisedValue': 0, 'unexercisedValue': 458082}, {'maxAge': 1, 'name': 'Mr. Joseph  Inzerillo', 'age': 50, 'title': 'Executive VP and Chief Product & Technology Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 3350738, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick L. Donnelly', 'age': 61, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2824208, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph A. Verbrugge', 'age': 54, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2532828, 'exercisedValue': 0, 'unexercisedValue': 102505}, {'maxAge': 1, 'name': 'Mr. Scott A. Greenstein', 'age': 63, 'title': 'President & Chief Content Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 4816193, 'exercisedValue': 0, 'unexercisedValue': 10389751}, {'maxAge': 1, 'name': 'Mr. Thomas D. Barry', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hooper  Stevens', 'title': 'Senior Vice President & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Casano-Antonellis', 'title': 'Senior VP & Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise  Karkos', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Faye  Tylee', 'title': 'Chief People & Culture Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.0195
+exDividendDate§1699228800
+payoutRatio§0.3025
+fiveYearAvgDividendYield§1.21
+beta§1.085
+priceToSalesTrailing12Months§2.3439803
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.31
+pegRatio§2.12
+exchange§NMS
+quoteType§EQUITY
+shortName§Sirius XM Holdings Inc.
+longName§Sirius XM Holdings Inc.
+firstTradeDateEpochUtc§779463000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5707d3f1-51a8-370a-8ac5-c7a3d09f7c02
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§3.5
+targetMeanPrice§4.95
+targetMedianPrice§4.75
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§0.225
+earningsGrowth§0.44
+grossMargins§0.49128
+ebitdaMargins§0.2937
+trailingPegRatio§1.3657

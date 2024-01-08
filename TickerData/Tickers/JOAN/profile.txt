@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 10:45:36.012666
+address1§5555 Darrow Road
+city§Hudson
+state§OH
+zip§44236
+country§United States
+phone§330 656 2600
+website§https://www.joann.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§JOANN Inc. operates as a specialty retailer of sewing and fabrics, and arts and crafts category products in the United States. The company products in sewing category include cotton fabrics; warm fabrics, such as fleece and flannel fabrics; home decorating and utility fabrics and accessories; fashion and sportswear fabrics; special occasion fabrics; pillow forms; stuffing, batting, and foams; seasonally themed and licensed fabric designs; and sewing construction supplies comprising cutting implements, threads, zippers, trims, tapes, pins, elastic, and buttons, as well as patterns for sewing projects. Its products in arts and crafts, home décor, and other categories consist of yarn and yarn accessories, and needlecraft kits and supplies; paper crafting components; craft materials; fine art materials; sewing machines, craft technology, lighting, irons, organizers, and other products; artificial floral products; seasonal décor and entertaining products; home décor accessories; ready-made frames; comprehensive assortment books and magazines; and non-merchandise services. The company offers its products through retail stores, as well as online. The company was formerly known as Jo-Ann Stores Holdings Inc. and changed its name to JOANN Inc. in February 2021. JOANN Inc. was founded in 1943 and is based in Hudson, Ohio.
+fullTimeEmployees§5000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott  Sekella', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 728646, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet  Duliga', 'age': 56, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 487068, 'exercisedValue': 0, 'unexercisedValue': 88628}, {'maxAge': 1, 'name': 'Mr. Christopher  DiTullio', 'age': 50, 'title': 'Executive VP & Chief Customer Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 489056, 'exercisedValue': 0, 'unexercisedValue': 88628}, {'maxAge': 1, 'name': 'Mr. Robert  Will', 'age': 45, 'title': 'Executive VP & Chief Merchandising Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 486006, 'exercisedValue': 0, 'unexercisedValue': 88628}, {'maxAge': 1, 'name': 'John Craig Stalcup', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ajay  Jain', 'title': 'Investor Relations Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Aber', 'age': 45, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Wittman-Smith', 'age': 57, 'title': 'Senior Vice President of Inventory Management & Business Insights', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Thibault', 'age': 55, 'title': 'Senior Vice President of Store Operations', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mario  Sampson', 'age': 35, 'title': 'Senior Vice President of Supply Chain', 'yearBorn': 1988, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+dividendRate§0.44
+dividendYield§0.48650002
+exDividendDate§1662595200
+payoutRatio§0.0
+beta§0.97
+priceToSalesTrailing12Months§0.008994219
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.39
+pegRatio§0.03
+exchange§NCM
+quoteType§EQUITY
+shortName§JOANN, Inc.
+longName§JOANN Inc.
+firstTradeDateEpochUtc§1615559400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b6dc6a6a-37ac-3527-9509-09f4286360e4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.5
+targetLowPrice§0.75
+targetMeanPrice§1.06
+targetMedianPrice§1.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.074
+grossMargins§0.49286
+ebitdaMargins§-0.01511
+trailingPegRatio§None

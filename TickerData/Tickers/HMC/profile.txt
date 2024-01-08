@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 13:30:13.064315
+address1§1-1, Minami-Aoyama, 2 chome
+address2§Minato-ku
+city§Tokyo
+zip§107-8556
+country§Japan
+phone§81 3 3423 1111
+website§https://www.honda.co.jp
+industry§Auto Manufacturers
+sector§Consumer Cyclical
+longBusinessSummary§Honda Motor Co., Ltd. develops, manufactures, and distributes motorcycles, automobiles, power, and other products in Japan, North America, Europe, Asia, and internationally. It operates through four segments: Motorcycle Business, Automobile Business, Financial Services Business, and Power Product and Other Businesses. The Motorcycle Business segment produces motorcycles, including sports, business, and commuter models; and various off-road vehicles, such as all-terrain vehicles and side-by-sides. Its Automobile Business segment offers passenger cars, light trucks, and mini vehicles. The Financial Services Business segment provides various financial services, including retail lending and leasing services to customers, as well as wholesale financing services to dealers. Its Power Product and Other Businesses manufactures and sells power products, such as general purpose engines, lawn mowers, generators, water pumps, brush cutters, tillers, outboard marine engines and snow throwers. This segment also offers HondaJet aircraft. The company also sells spare parts; and provides after-sale services through retail dealers directly, as well as through independent distributors and licensees. Honda Motor Co., Ltd. was founded in 1946 and is headquartered in Tokyo, Japan.
+fullTimeEmployees§197039
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Toshihiro  Mibe', 'age': 62, 'title': 'President, CEO, Representative Executive Officer & Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1320574, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shinji  Aoyama', 'age': 60, 'title': 'Executive VP, Representative Executive Officer, COO, Director & Risk Management Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 573862, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eiji  Fujimura', 'age': 53, 'title': 'Executive Officer, CFO & Chief Officer for Corporate Management Operations', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noriaki  Abe', 'age': 61, 'title': 'Chief Officer for Motorcycle & Power Products Ops., Managing Exec. Officer and Compliance Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matt  Watanabe', 'title': 'Manager of Corporate Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitsugu  Matsukawa', 'age': 61, 'title': 'Managing Executive Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noriya  Kaihara', 'age': 62, 'title': 'Director, Senior Managing Executive Officer & Chief Officer for Regional Operations (North America)', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Masayuki  Igarashi', 'age': 60, 'title': 'Managing Executive Officer & Chief Officer for Regional Operations (China)', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Katsushi  Inoue', 'age': 60, 'title': 'Senior Managing Exec. Officer & Chief Officer for Electrification Business Development Operations', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yoichiro  Ueno', 'age': 59, 'title': 'Chief Executive of Car Operations - India and President of Car Operations - India', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.87
+dividendYield§0.0275
+exDividendDate§1680048000
+payoutRatio§0.102299996
+fiveYearAvgDividendYield§3.6
+beta§0.626
+priceToSalesTrailing12Months§0.002788523
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.07
+exchange§NYQ
+quoteType§EQUITY
+shortName§Honda Motor Company, Ltd.
+longName§Honda Motor Co., Ltd.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§81ee8107-669b-326c-b4e7-903f6c2a323a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.54
+targetLowPrice§35.63
+targetMeanPrice§36.74
+targetMedianPrice§36.04
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§1.075
+earningsGrowth§0.393
+grossMargins§0.20833
+ebitdaMargins§0.12942
+trailingPegRatio§11.3858

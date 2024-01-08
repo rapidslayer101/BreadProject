@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 22:47:02.975228
+address1§200 Varick Street
+address2§Suite 801A
+city§New York
+state§NY
+zip§10014
+country§United States
+phone§212 675 0541
+website§https://www.reservoir-media.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§Reservoir Media, Inc. operates as a music publishing company. It operates through two segments, Music Publishing and Recorded Music. The Music Publishing segment acquires interests in music catalogs, as well as signs songwriters. The Recorded Music segment engages in the acquisition of sound recording catalogs; discovery and development of recording artists; and marketing, distribution, sale, and licensing of the music catalogs. The company was founded in 2007 and is headquartered in New York, New York.
+fullTimeEmployees§92
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Golnar  Khosrowshahi', 'age': 52, 'title': 'Founder, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 626070, 'exercisedValue': 0, 'unexercisedValue': 497614}, {'maxAge': 1, 'name': 'Mr. Rell  Lafargue', 'age': 50, 'title': 'President, COO & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 928238, 'exercisedValue': 0, 'unexercisedValue': 497614}, {'maxAge': 1, 'name': 'Mr. Jim  Heindlmeyer', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 535746, 'exercisedValue': 0, 'unexercisedValue': 79617}, {'maxAge': 1, 'name': 'Suzy  Arrabito', 'title': 'Vice President of Marketing & Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+beta§1.058
+currency§USD
+exchange§NGM
+quoteType§EQUITY
+longName§Reservoir Media, Inc.
+firstTradeDateEpochUtc§1611585000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7f2a67b2-467c-3f84-8377-21da98f28e42
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.821
+earningsGrowth§-0.882
+grossMargins§0.61486
+ebitdaMargins§0.34124002
+trailingPegRatio§None

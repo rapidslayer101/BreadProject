@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 01:46:03.999242
+address1§10089 Fairfax Boulevard
+city§Fairfax
+state§VA
+zip§22030
+country§United States
+phone§703 481 4567
+website§https://mstreetbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§MainStreet Bancshares, Inc. operates as the bank holding company for MainStreet Bank that provides various banking products and services for individuals, small to medium-sized businesses, and professional service organizations. The company offers demand, NOW, money market, savings, and sweep accounts, as well as certificates of deposit; business and consumer checking, interest-bearing checking, business account analysis, and other depository services; and cash management, wire transfer, check imaging, bill pay, remote deposit capture, and courier services. It also provides commercial loans, include government contract receivables, plant and equipment, general working capital, contract administration, and acquisition loans; commercial real estate, real estate construction, and residential real estate loans; and consumer loans comprising term loans and overdraft protection, as well as debit and credit cards. In addition, the company offers deposit insurance solutions; remote deposit of checks; and internet bill payment, online cash management, and online and mobile banking services. It operates in Herndon, Fairfax, McLean, Leesburg, Clarendon, and Washington D.C., as well as automated teller machines. MainStreet Bancshares, Inc. was incorporated in 2003 and is headquartered in Fairfax, Virginia.
+fullTimeEmployees§185
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeff W. Dick', 'age': 62, 'title': 'President, Chairman of the Board & CEO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 972381, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Chmelik', 'age': 60, 'title': 'Senior EVP, CFO, Corporate Secretary & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 355059, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Abdulhamid  Hersiburane', 'age': 61, 'title': 'President & Director of MainStreet Bank', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 455585, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacob  Hutchinson', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Alexander Vari', 'age': 34, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Floyd', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Rudolph', 'title': 'Executive VP & Senior Lender', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.017
+exDividendDate§1699228800
+payoutRatio§0.1114
+beta§0.537
+priceToSalesTrailing12Months§2.1854053
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.26
+exchange§NCM
+quoteType§EQUITY
+shortName§MainStreet Bancshares, Inc.
+longName§MainStreet Bancshares, Inc.
+firstTradeDateEpochUtc§1126013400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§59ac4344-b704-3e6d-86dc-762ef398eee2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.5
+targetLowPrice§25.0
+targetMeanPrice§26.75
+targetMedianPrice§26.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+earningsGrowth§-0.202
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 06:31:46.517370
+address1§9320 Lakeside Boulevard
+address2§Suite 100
+city§The Woodlands
+state§TX
+zip§77381
+country§United States
+phone§281 362 6800
+website§https://www.newpark.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Newpark Resources, Inc. provides products, rentals, and services primarily to the oil and natural gas exploration and production (E&P) industry. It operates through two segments, Fluids Systems and Industrial Solutions. The Fluids Systems segment provides drilling, completion, and stimulation fluids products and related technical services to customers primarily in the North America, Europe, the Middle East, and Africa, as well as other countries in the Asia Pacific and Latin America. The Industrial Solutions segment offers composite matting system rentals utilized for temporary worksite access; related site construction and services to customers in various markets, including power transmission, E&P, pipeline, renewable energy, petrochemical, construction, and other industries primarily in the United States and Europe; recyclable composite mats to customers worldwide; and access road construction, site planning and preparation, environmental protection, fluids and spill containment, erosion control, and site restoration services. The company was incorporated in 1932 and is headquartered in The Woodlands, Texas.
+fullTimeEmployees§1540
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew S. Lanigan', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1706238, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregg S. Piontek', 'age': 52, 'title': 'Senior VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1267885, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. Paterson', 'age': 52, 'title': 'Corporate VP & President of Fluids Systems', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 769257, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori A. Briggs', 'age': 50, 'title': 'Corporate VP & President of Industrial Solutions', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 642663, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas L. White CPA, CPA', 'age': 54, 'title': 'VP, Chief Accounting Officer & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Celeste  Fruge', 'age': 50, 'title': 'VP, General Counsel, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§413769600
+payoutRatio§0.0
+beta§2.78
+priceToSalesTrailing12Months§0.6737943
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+pegRatio§0.42
+exchange§NYQ
+quoteType§EQUITY
+shortName§Newpark Resources, Inc.
+longName§Newpark Resources, Inc.
+firstTradeDateEpochUtc§652627800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c3938dd8-1fe1-366e-93d2-e29a6ffe2005
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.45
+grossMargins§0.17097001
+ebitdaMargins§0.08808
+trailingPegRatio§None

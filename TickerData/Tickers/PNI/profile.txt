@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 03:32:21.550720
+address1§650 Newport Center Drive
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 720 6000
+fax§949 720 6361
+website§https://investments.pimco.com/Products/pages/668.aspx
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§PIMCO New York Municipal Income Fund II is a closed-ended fixed income mutual fund launched and managed by Pacific Investment Management Company LLC. It invests in the fixed income markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in municipal bonds that pay interest that is exempt from federal, New York State, and New York City income tax. It also invests in New York variable rate notes, New York variable rate demand notes, and U.S. treasury bills. The fund employs proprietary analytical models to make its investments. PIMCO New York Municipal Income Fund II was formed on March 29, 2002 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Hammer', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.35
+dividendYield§0.047
+exDividendDate§1704931200
+payoutRatio§6.7788
+fiveYearAvgDividendYield§4.91
+beta§0.713
+priceToSalesTrailing12Months§11.578021
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Pimco New York Municipal Income
+longName§PIMCO New York Municipal Income Fund II
+firstTradeDateEpochUtc§1025098200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c29d6c17-3327-30a2-b861-0789e09b24c1
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.58
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

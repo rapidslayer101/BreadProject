@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 16:45:24.979085
+address1§Kibbutz Glil Yam
+address2§Central District
+city§Tel Aviv
+zip§4690500
+country§Israel
+website§https://www.imcannabis.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§IM Cannabis Corp. engages in breeding, growing, and supply of medical cannabis products in Israel and Germany. It offers cannabis flowers and strain-specific cannabis extracts under the IMC brand; and dried flower, pre-rolls, minis, and full spectrum extracts offerings under the WAGNERS and BLKMKT brands. The company serves medical patients. IM Cannabis Corp. is headquartered in Tel Aviv, Israel.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc  Lustig M.B.A., M.Sc.', 'age': 49, 'title': 'Executive Chairman', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 211184, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oren  Shuster', 'title': 'CEO & Director', 'fiscalYear': 2022, 'totalPay': 378472, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Balla', 'title': 'CEO & Director of German Operations \x96 Adjupharm GmbH', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Ruscetta', 'age': 54, 'title': 'Chief Executive Officer of Trichome Financial Corp.', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 96065, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Steinberg C.F.A.', 'age': 58, 'title': 'Chief Executive Officer of TJAC & MYM', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 526830, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rinat  Efrima', 'age': 46, 'title': 'Chief Executive Officer of IMC Holdings Ltd.', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Uri  Birenberg', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Advocate Michal Lebovitz Nissimov', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.775
+priceToSalesTrailing12Months§0.093479596
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.24
+exchange§NCM
+quoteType§EQUITY
+shortName§IM Cannabis Corp.
+longName§IM Cannabis Corp.
+firstTradeDateEpochUtc§1589981400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1f476f83-d832-3b9b-881e-896090f11968
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.45
+targetLowPrice§3.45
+targetMeanPrice§3.45
+targetMedianPrice§3.45
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.576
+grossMargins§0.22082001
+ebitdaMargins§-0.14338
+trailingPegRatio§None

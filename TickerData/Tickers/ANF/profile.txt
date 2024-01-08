@@ -1,0 +1,58 @@
+# reload+after+2024-01-22 05:26:38.640380
+address1§6301 Fitch Path
+city§New Albany
+state§OH
+zip§43054
+country§United States
+phone§614 283 6500
+website§https://www.abercrombie.com
+industry§Apparel Retail
+industryKey§apparel-retail
+industryDisp§Apparel Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Abercrombie & Fitch Co., through its subsidiaries, operates as a specialty retailer in the United States, Europe, the Middle East, Asia, the Asia-Pacific, Canada, and internationally. The company operates through two segments, Hollister and Abercrombie. It offers an assortment of apparel, personal care products, and accessories for men, women, and kids under the Hollister, Gilly Hicks, Social Tourist, Abercrombie & Fitch, and abercrombie kids brands. The company sells products through its stores; various wholesale, franchise, and licensing arrangements; and e-commerce platforms. Abercrombie & Fitch Co. was founded in 1892 and is headquartered in New Albany, Ohio.
+fullTimeEmployees§7200
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Fran  Horowitz', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2808113, 'exercisedValue': 0, 'unexercisedValue': 327705}, {'maxAge': 1, 'name': 'Mr. Scott D. Lipesky', 'age': 48, 'title': 'Executive VP, COO & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1260558, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samir  Desai', 'age': 42, 'title': 'Executive VP and Chief Digital & Technology Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1135954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory J. Henchel', 'age': 55, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 899463, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin  Scott', 'age': 55, 'title': 'President of Global Brands & MD of Americas', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1888773, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kate  Wagner', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay  Rust', 'title': 'Executive Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James N. Bierbower', 'age': 58, 'title': 'Executive Vice President of Human Resources', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Levine', 'title': "Senior Vice President of Men's & Women's Design", 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Lopez', 'title': 'Senior Vice President of Environmental, Social & Governance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1583366400
+payoutRatio§0.0
+fiveYearAvgDividendYield§4.64
+beta§1.532
+priceToSalesTrailing12Months§1.1331146
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.87
+pegRatio§0.89
+lastDividendValue§0.2
+lastDividendDate§1583366400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Abercrombie & Fitch Company
+longName§Abercrombie & Fitch Co.
+firstTradeDateEpochUtc§843744600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0d6f6c74-055e-3415-ae36-ddb127070a54
+messageBoardId§finmb_353867
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§85.0
+targetLowPrice§68.0
+targetMeanPrice§78.6
+targetMedianPrice§82.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.727
+grossMargins§0.60784
+ebitdaMargins§0.12356
+trailingPegRatio§None

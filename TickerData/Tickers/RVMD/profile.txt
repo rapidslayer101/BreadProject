@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 03:47:03.510326
+address1§700 Saginaw Drive
+city§Redwood City
+state§CA
+zip§94063
+country§United States
+phone§650 481 6801
+website§https://www.revmed.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Revolution Medicines, Inc., a clinical-stage oncology company, developing novel targeted therapies for RAS-addicted cancers. The company's research and development pipeline comprises RAS(ON) Inhibitors designed to suppress oncogenic variants of RAS proteins, and RAS Companion Inhibitors for use in combination treatment strategies. The company's RAS(ON) Inhibitors RMC-6236 (RASMULTI), RMC-6291 (RASG12C), and RMC-9805 (RASG12D) are in clinical development. Its additional RAS(ON) Inhibitors in its pipeline include RMC-5127 (G12V), RMC-0708 (Q61H), and RMC-8839 (G13C), which are in IND-enabling development, and additional compounds targeting other RAS variants. The company has a collaboration agreement with Sanofi for the research and development of SHP2 inhibitors, including RMC-4630. Revolution Medicines, Inc. was incorporated in 2014 and is headquartered in Redwood City, California.
+fullTimeEmployees§338
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Mark A. Goldsmith Ph.D.', 'age': 61, 'title': 'CEO, President & Chairman', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1053567, 'exercisedValue': 470619, 'unexercisedValue': 25079758}, {'maxAge': 1, 'name': 'Mr. Jack  Anders', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 544800, 'exercisedValue': 0, 'unexercisedValue': 1620884}, {'maxAge': 1, 'name': 'Ms. Margaret A. Horn J.D.', 'age': 60, 'title': 'Chief Operating Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 775600, 'exercisedValue': 0, 'unexercisedValue': 7890083}, {'maxAge': 1, 'name': 'Dr. Stephen M. Kelsey FRC Path., FRCP, M.D.', 'age': 62, 'title': 'President of Research & Development', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 779000, 'exercisedValue': 0, 'unexercisedValue': 4615888}, {'maxAge': 1, 'name': 'Ms. Xiaolin  Wang', 'age': 52, 'title': 'Executive Vice President of Clinical Development', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 604100, 'exercisedValue': 0, 'unexercisedValue': 4985429}, {'maxAge': 1, 'name': 'Dr. Martin D. Burke M.D., Ph.D.', 'title': 'Co-Founder & Chairman of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael A. Fischbach Ph.D.', 'age': 42, 'title': 'Academic Co-Founder & Member of Scientific Advisory Board', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kevan M. Shokat Ph.D.', 'title': 'Academic Co-Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Walter  Reiher Ph.D.', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jan  Smith Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.537
+priceToSalesTrailing12Months§177.64287
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.27
+exchange§NMS
+quoteType§EQUITY
+shortName§Revolution Medicines, Inc.
+longName§Revolution Medicines, Inc.
+firstTradeDateEpochUtc§1581604200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2cb08d82-911b-38e3-94c5-2f2b3c1d7099
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.0
+targetLowPrice§26.0
+targetMeanPrice§35.0
+targetMedianPrice§36.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§9.51
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

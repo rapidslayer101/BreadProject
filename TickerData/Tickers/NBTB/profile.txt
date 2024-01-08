@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 16:46:10.904635
+address1§52 South Broad Street
+city§Norwich
+state§NY
+zip§13815
+country§United States
+phone§607 337 2265
+website§https://www.nbtbancorp.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§NBT Bancorp Inc., a financial holding company, provides commercial banking, retail banking, and wealth management services. Its deposit products include demand deposit, savings, negotiable order of withdrawal, money market deposit, and certificate of deposit accounts. The company's loan portfolio comprises commercial and industrial, commercial real estate, agricultural, and commercial construction loans; indirect and direct consumer, home equity, mortgages, business banking loans, and commercial loans; and residential real estate loans. It also provides trust and investment services; financial planning and life insurance services; and retirement plan consulting and recordkeeping services. In addition, the company offers insurance products comprising personal property and casualty, business liability, and commercial insurance, as well as other products and services through 24-hour online, mobile, and telephone channels that enable customers to check balances, make deposits, transfer funds, pay bills, access statements, apply for loans, and access various other products and services. It operates in central and upstate New York, northeastern Pennsylvania, southern New Hampshire, western Massachusetts, Vermont, southern Maine, and central Connecticut. NBT Bancorp Inc. was founded in 1856 and is headquartered in Norwich, New York.
+fullTimeEmployees§1861
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John H. Watt Jr.', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2140959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Kingsley CPA', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 971563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph R. Stagliano', 'age': 54, 'title': 'Executive VP, President of Retail Community Banking & Chief Information Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 809738, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin Randolph Sparks', 'age': 64, 'title': 'Executive VP, General Counsel, Chief Ethics Officer & Corporate Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 746230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ruth H. Mahoney', 'title': 'EVP, President of Wealth Management & Regional President for the Capital District and North Country', 'fiscalYear': 2022, 'totalPay': 749368, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth J. Entenmann C.F.A.', 'title': 'Senior VP, Chief Investment Officer & Chief Economist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annette L. Burns', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 418212, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Florence R. Doller', 'title': 'Senior VP & Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shaunastar M. Hyle', 'title': 'Executive Vice President of Consumer Lending', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leonard P. Chinski', 'title': 'Senior VP & Director of Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.28
+dividendYield§0.031600002
+exDividendDate§1701302400
+payoutRatio§0.42810002
+fiveYearAvgDividendYield§3.09
+beta§0.525
+priceToSalesTrailing12Months§3.9016657
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.13
+pegRatio§2.48
+exchange§NMS
+quoteType§EQUITY
+shortName§NBT Bancorp Inc.
+longName§NBT Bancorp Inc.
+firstTradeDateEpochUtc§700842600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d7e5d025-ca19-3ea2-b497-2402dfc8458a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§46.0
+targetLowPrice§34.0
+targetMeanPrice§40.0
+targetMedianPrice§40.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§6
+earningsGrowth§-0.4
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

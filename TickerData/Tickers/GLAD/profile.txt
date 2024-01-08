@@ -1,0 +1,49 @@
+# reload+after+2024-01-19 23:45:01.817036
+address1§1521 Westbranch Drive
+address2§Suite 100
+city§McLean
+state§VA
+zip§22102
+country§United States
+phone§703-287-5800
+fax§703-287-5901
+website§https://www.gladstonecapital.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Gladstone Capital Corporation is a business development company specializing in lower middle market, growth capital, add on acquisitions, change of control, buy & build strategies, debt refinancing, debt investments in senior term loans, revolving loans, secured first and second lien term loans, senior subordinated loans, unitranche loans, junior subordinated loans, and mezzanine loans and equity investments in the form of common stock, preferred stock, limited liability company interests, or warrants. It operates as a business development company. The fund also makes private equity investments in acquisitions, buyouts and recapitalizations, and refinancing existing debts. It targets small and medium-sized companies in United States. It is industry agnostic and seeks to invest in companies engaged in the business services, light and specialty manufacturing, niche industrial products and services, specialty consumer products and services, energy services, transportation and logistics, healthcare and education services, specialty chemicals, media and communications and aerospace and defense. The fund seeks to invest between $7 million and $30 million in companies that have between $20 million and $150 million in sales and EBITDA between $3 million and $25 million. It prefers to acquire minority stakes. It seeks to exit its investments through strategic acquisitions by other industry participants or financial buyers, initial public offerings of common stock, or other capital market transactions.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David John Gladstone', 'age': 81, 'title': 'Chairman & CEO', 'yearBorn': 1942, 'fiscalYear': 2005, 'exercisedValue': 3171994, 'unexercisedValue': 3070328}, {'maxAge': 1, 'name': 'Mr. Robert L. Marcotte', 'age': 65, 'title': 'President', 'yearBorn': 1958, 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Schaltenbrand CPA', 'age': 41, 'title': 'CFO & Treasurer', 'yearBorn': 1982, 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terry Lee Brubaker', 'age': 79, 'title': 'Assistant Secretary & COO', 'yearBorn': 1944, 'fiscalYear': 2005, 'exercisedValue': 741328, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karin  McLaughlin', 'title': 'Investor Relation Specialist', 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Anthony Dellafiora Jr., CPA', 'title': 'Chief Compliance Officer', 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Bernard LiCalsi Esq., J.D.', 'age': 53, 'title': 'General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula  Novara', 'age': 54, 'title': 'Head of Resource Management & Director', 'yearBorn': 1969, 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. R. Dullum', 'age': 75, 'title': 'Executive VP, President of Private Finance Mclean and Executive MD of Private Finance Mclean', 'yearBorn': 1948, 'fiscalYear': 2005, 'totalPay': 28000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Sateri', 'title': 'Managing Director of Private Finance', 'fiscalYear': 2005, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1135987200
+maxAge§86400
+priceHint§2
+dividendRate§0.99
+dividendYield§0.09060001
+exDividendDate§1702598400
+payoutRatio§0.8092
+fiveYearAvgDividendYield§8.7
+beta§1.307
+priceToSalesTrailing12Months§5.501912
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.17
+pegRatio§1.94
+exchange§NMS
+quoteType§EQUITY
+shortName§Gladstone Capital Corporation
+longName§Gladstone Capital Corporation
+firstTradeDateEpochUtc§1028295000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7289edaf-9298-34ed-9256-d3a9e5488176
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§9.5
+targetMeanPrice§10.5
+targetMedianPrice§10.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.234
+earningsGrowth§1.224
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

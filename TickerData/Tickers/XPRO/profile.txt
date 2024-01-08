@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 04:34:34.561047
+address1§1311 Broadfield Boulevard
+address2§Suite 400
+city§Houston
+state§TX
+zip§77084
+country§United States
+phone§713 463 9776
+website§https://www.expro.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Expro Group Holdings N.V. engages in the provision of energy services in North and Latin America, Europe and Sub-Saharan Africa, the Middle East and North Africa, and the Asia-Pacific. The company provides well construction services, such as technology solutions in drilling, tubular running services, and cementing and tubulars; and well management services, including well flow management, subsea well access, and well intervention and integrity services. It serves exploration and production companies in onshore and offshore environments in approximately 60 countries. The company was founded in 1938 and is based in Houston, Texas.
+fullTimeEmployees§7800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Jardon', 'age': 53, 'title': 'President, CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2548319, 'exercisedValue': 0, 'unexercisedValue': 671176}, {'maxAge': 1, 'name': 'Mr. Quinn P. Fanning', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 930375, 'exercisedValue': 0, 'unexercisedValue': 46880}, {'maxAge': 1, 'name': 'Mr. Alistair  Geddes', 'age': 60, 'title': 'Chief Operating Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1100746, 'exercisedValue': 0, 'unexercisedValue': 184572}, {'maxAge': 1, 'name': 'Mr. Steven J. Russell', 'age': 55, 'title': 'Chief Technology Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 811050, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lewis John W. McAlister', 'age': 57, 'title': 'Group General Counsel & Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 819748, 'exercisedValue': 0, 'unexercisedValue': 167793}, {'maxAge': 1, 'name': 'Mr. Michael  Bentham', 'age': 61, 'title': 'VP of Finance & Principal Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hannah  Rumbles', 'title': 'Global Marketing and Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natalie  Questell', 'age': 49, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.949
+priceToSalesTrailing12Months§1.2761257
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.2
+pegRatio§-1.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§Expro Group Holdings N.V.
+longName§Expro Group Holdings N.V.
+firstTradeDateEpochUtc§1376055000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§255f5129-6a8b-3ce0-9cda-7b26cdac2911
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§29.0
+targetLowPrice§17.0
+targetMeanPrice§23.67
+targetMedianPrice§24.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.553
+grossMargins§0.17503001
+ebitdaMargins§0.13686
+trailingPegRatio§None

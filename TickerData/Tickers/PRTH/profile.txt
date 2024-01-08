@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 23:46:44.772456
+address1§2001 Westside Parkway
+address2§Suite 155
+city§Alpharetta
+state§GA
+zip§30004
+country§United States
+phone§404 952 2107
+website§https://www.prth.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Priority Technology Holdings, Inc. operates as a payment technology company in the United States. It operates through three segments: Small and Medium-Sized Businesses (SMB) Payments, Business-To-Business Payments, and Enterprise Payments. The company offers MX product line, including MX Connect and MX Merchant products, such as MX Insights, MX Storefront, MX Retail, MX Invoice, MX B2B and ACH.com, and others, which provides flexible and customizable set of business applications that helps to manage critical business work functions and revenue performance to resellers and merchant clients using core payment processing. It also offers CPX, a platform that offers accounts payable automation solutions, including virtual card, purchase card, ACH +, dynamic discounting, or check. In addition, the company provides curated managed services; and payment-adjacent technologies to facilitate the acceptance of electronic payments from customers. Further, it offers embedded payment and banking solutions to enterprise customers to modernize legacy platforms and accelerate software partners' strategies to monetize payments; and managed services solutions that provide audience-specific programs for institutional partners and other third parties; and consulting and development solutions. It serves SMB, and enterprises, as well as distribution partners, including retail and wholesale independent sales organizations, financial institutions, and independent software vendors. The company was founded in 2005 and is headquartered in Alpharetta, Georgia.
+fullTimeEmployees§863
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Charles Priore', 'age': 54, 'title': 'Executive Chairman, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2138305, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Timothy  O'Leary", 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 449750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley J. Miller', 'age': 52, 'title': 'General Counsel, Chief Risk Officer & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 549940, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ranjana  Ram', 'age': 40, 'title': 'Chief Operating Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 422754, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajiv  Kumar', 'title': 'Senior VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Faupel', 'age': 52, 'title': 'Chief Marketing Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mayrov  Eagan', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean M. Kiewiet', 'age': 51, 'title': 'Chief Strategy Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anthony Martin Bonventre', 'title': 'Executive Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela  Tefft', 'title': 'Senior Vice President of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.855
+priceToSalesTrailing12Months§0.3543996
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.24
+exchange§NCM
+quoteType§EQUITY
+shortName§Priority Technology Holdings, I
+longName§Priority Technology Holdings, Inc.
+firstTradeDateEpochUtc§1481034600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§451b572f-d601-3f0e-a053-307ff1046c76
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§4.5
+targetMeanPrice§7.63
+targetMedianPrice§8.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.106
+grossMargins§0.35889998
+ebitdaMargins§0.19643
+trailingPegRatio§None

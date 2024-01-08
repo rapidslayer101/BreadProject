@@ -1,0 +1,59 @@
+# reload+after+2024-01-19 23:36:04.711389
+address1§24 Cheshire Avenue
+address2§Cheshire Business Park Lostock Gralam
+city§Northwich
+zip§CW9 7UA
+country§United Kingdom
+phone§44 1606 814730
+fax§44 1606 814731
+website§https://www.dechra.com
+industry§Drug Manufacturers - General
+industryKey§drug-manufacturers-general
+industryDisp§Drug Manufacturers - General
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Dechra Pharmaceuticals PLC develops, manufactures, regulates, markets, and sells veterinary pharmaceuticals and related products for veterinarians. It operates through three segments: European Pharmaceuticals, North American Pharmaceuticals, and Pharmaceuticals. The company offers various endocrinology, dermatology, analgesia and anesthesia, cardiovascular, internal medicine, and nutrition products supporting cats and dogs with various therapeutic conditions, such as allergies, obesity, heart, and kidney diseases. It also provides water soluble antibiotics, vaccines, lameness, pain management for poultry, pigs, and cattle; and lameness and pain management products for horses and ponies. In addition, the company distributes veterinary pharmaceuticals and equipment; markets pet diets; and develops, regulates, manufactures, and markets crop protection, as well as offers financial services. It markets its products through wholesaler and distributor networks. The company operates in the United Kingdom, Germany, rest of Europe, the United States, and internationally. Dechra Pharmaceuticals PLC was incorporated in 1997 and is headquartered in Northwich, the United Kingdom.
+fullTimeEmployees§2457
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian D. Page', 'age': 62, 'title': 'CEO, MD & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 848000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Nicholas Sandland MAAT, FCCA', 'age': 44, 'title': 'CFO & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 559000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Meeus', 'title': 'Chief Scientific Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamie  Adams', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katy  Clough', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Eldred', 'age': 53, 'title': 'President of North America', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melanie Jane Hall', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.45
+dividendYield§0.012
+exDividendDate§1678320000
+payoutRatio§1.2511001
+fiveYearAvgDividendYield§1.1
+beta§0.781
+priceToSalesTrailing12Months§5.7708383
+currency§GBp
+forwardEps§146.14
+pegRatio§4.87
+lastDividendValue§12.5
+lastDividendDate§1678320000
+exchange§LSE
+quoteType§EQUITY
+shortName§DECHRA PHARMACEUTICALS PLC ORD 
+longName§Dechra Pharmaceuticals PLC
+firstTradeDateEpochUtc§969519600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§83b47dbc-fbd2-3d06-819e-d3a387c882f3
+messageBoardId§finmb_137717
+targetHighPrice§5000.0
+targetLowPrice§3875.0
+targetMeanPrice§4117.14
+targetMedianPrice§4000.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.488
+grossMargins§0.56415004
+ebitdaMargins§0.08168
+trailingPegRatio§None

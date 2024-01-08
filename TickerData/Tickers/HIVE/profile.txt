@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 04:45:13.318978
+address1§789 West Pender Street
+address2§Suite 855
+city§Vancouver
+state§BC
+zip§V6C 1H2
+country§Canada
+phone§604-664-1078
+website§https://hivedigitaltechnologies.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§HIVE Digital Technologies Ltd. operates as a cryptocurrency mining company in Canada, Sweden, and Iceland. The company engages in the mining and sale of digital currencies, including Ethereum Classic, Bitcoin, and other coins. It also operates data centers; and offers infrastructure solutions. The company was formerly known as HIVE Blockchain Technologies Ltd. and changed its name to HIVE Digital Technologies Ltd. in July 2023. HIVE Digital Technologies Ltd. was incorporated in 1987 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§18
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Frank Edward Holmes', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 168900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aydin  Kilic', 'title': 'President & CEO', 'fiscalYear': 2023, 'totalPay': 327901, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darcy  Daubaras', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 364066, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Gray', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'totalPay': 181655, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabriel  Ibghy', 'title': 'General Counsel', 'fiscalYear': 2023, 'totalPay': 196027, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Johanna  Thornblad', 'title': 'Country President of Sweden', 'fiscalYear': 2023, 'totalPay': 234662, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke  Rossy', 'title': 'Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§4.302
+priceToSalesTrailing12Months§4.643344
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.96
+exchange§NCM
+quoteType§EQUITY
+shortName§HIVE Digital Technologies Ltd
+longName§HIVE Digital Technologies Ltd.
+firstTradeDateEpochUtc§1296657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§38bcf2ce-e3fd-3447-8f0a-923382793cd7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§3.5
+targetMeanPrice§4.79
+targetMedianPrice§4.87
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.471
+grossMargins§0.25678
+ebitdaMargins§0.10012
+trailingPegRatio§None

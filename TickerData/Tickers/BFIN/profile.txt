@@ -1,0 +1,47 @@
+# reload+after+2024-01-19 21:43:38.681852
+address1§60 North Frontage Road
+city§Burr Ridge
+state§IL
+zip§60527
+country§United States
+phone§800 894 6900
+website§https://www.bankfinancial.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§BankFinancial Corporation operates as the bank holding company for BankFinancial, National Association that provides various commercial, family, and personal banking products and services. The company accepts various deposit products, including savings, NOW, checking, money market, IRA, and other retirement accounts, as well as certificates of deposit. Its loan products include multi-family and nonresidential real estate, construction and land, and commercial loans and leases; one-to-four family residential mortgage loans, including home equity loans and lines of credit; and consumer loans. The company also provides cash management, funds transfer, bill payment, other online and mobile banking transactions, automated teller machines, safe deposit boxes, trust, wealth management, and general insurance agency services. In addition, it offers financial planning services; and sells property and casualty, and other insurance products on an agency basis. The company operates full-service banking offices located in Cook, DuPage, Lake, and Will Counties, Illinois. BankFinancial Corporation was founded in 1924 and is headquartered in Burr Ridge, Illinois.
+fullTimeEmployees§200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. F. Morgan Gasior', 'age': 59, 'title': 'Chairman, CEO & President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 633916, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John G. Manos', 'age': 62, 'title': 'President of Commercial Real Estate Division - BankFinancial FSB', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 409584, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marci L. Slagle', 'age': 53, 'title': 'President of Equipment Finance of BankFinancial, NA', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 412289, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul A. Cloutier', 'age': 59, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 361190, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark W. Collins', 'age': 72, 'title': 'Chief Information Officer', 'yearBorn': 1951, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregg T. Adams', 'age': 64, 'title': 'President of Marketing & Sales', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 260758, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald F. Stelter', 'age': 70, 'title': 'Executive Vice President of General Services Division-BankFinancial F.S.B.', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James J. Brennan', 'age': 72, 'title': 'Secretary', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 995326, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth A. Doolan', 'age': 59, 'title': 'Senior VP of Finance & Controller', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katie  Multon', 'title': 'Marketing Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.0394
+exDividendDate§1699488000
+payoutRatio§0.47619998
+fiveYearAvgDividendYield§3.99
+beta§0.473
+priceToSalesTrailing12Months§2.2404494
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.86
+pegRatio§1.61
+exchange§NMS
+quoteType§EQUITY
+shortName§BankFinancial Corporation
+longName§BankFinancial Corporation
+firstTradeDateEpochUtc§1119965400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a1542f83-e806-376e-9700-f6582d57f2c7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§10.0
+targetMeanPrice§10.5
+targetMedianPrice§10.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+earningsGrowth§-0.236
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

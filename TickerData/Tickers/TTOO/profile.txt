@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 13:47:40.377260
+address1§101 Hartwell Avenue
+city§Lexington
+state§MA
+zip§02421
+country§United States
+phone§781 761 4646
+fax§781 240 0464
+website§https://www.t2biosystems.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§T2 Biosystems, Inc., an in vitro diagnostics company, develops diagnostic products and product candidates in the United States and internationally. Its technology enables detection of pathogens, biomarkers, and other abnormalities in various unpurified patient sample types, including whole blood, plasma, serum, saliva, sputum, cerebral spinal fluid, and urine. The company also offers T2Dx Instrument, a bench-top instrument that runs various diagnostic tests from patient samples; T2Candida panel, a direct-from-blood test that identifies blood stream infections that causes sepsis and candidemia; T2Bacteria panel, a direct-from-blood test, which detects bacterial pathogens associated with sepsis; T2Resistance panel, a direct-from-blood test that identifies carbapenem resistance genes; and T2SARS-CoV-2 panel to detect SARS-CoV-2 virus. In addition, it is developing T2Biothreat panel for detection of biothreat pathogens; comprehensive sepsis panel to detect bloodstream infections caused by bacterial and Candida species, and antibiotic resistant markers; T2Cauris panel to provide direct detection of the emerging superbug Candida auris in patient skin, patient blood, and hospital environmental samples; and T2Lyme panel, a direct-from-blood test panel designed to run on the T2Dx Instrument to identify the bacteria that cause Lyme disease. The company was incorporated in 2006 and is headquartered in Lexington, Massachusetts.
+fullTimeEmployees§158
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John J. Sperzel III, B.Sc.', 'age': 60, 'title': 'President, CEO & Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 865500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. Sprague CPA', 'age': 65, 'title': 'Chief Financial Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 482333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Terrence Gibbs Esq.', 'age': 52, 'title': 'Senior VP, General Counsel & Company Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 487333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelley J. Morgan', 'age': 47, 'title': 'Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett A. Giffin', 'age': 64, 'title': 'Chief Commercial Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Roger  Smith Ph.D.', 'age': 58, 'title': 'Senior Vice President of Science Research & Development', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.208
+priceToSalesTrailing12Months§2.13619
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-8.44
+exchange§NCM
+quoteType§EQUITY
+shortName§T2 Biosystems, Inc.
+longName§T2 Biosystems, Inc.
+firstTradeDateEpochUtc§1407418200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f1bc2494-0bab-33c5-b4f8-3d62d4000348
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.35
+targetMeanPrice§8.68
+targetMedianPrice§8.68
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.459
+grossMargins§-2.8322299
+ebitdaMargins§0.0
+trailingPegRatio§None

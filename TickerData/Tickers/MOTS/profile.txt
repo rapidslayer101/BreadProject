@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 21:46:05.527735
+address1§1301 East Broward Boulevard
+address2§3rd Floor, Suite 310
+city§Fort Lauderdale
+state§FL
+zip§33301
+country§United States
+phone§954 541 8000
+fax§954 541 8265
+website§https://www.motusgi.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Motus GI Holdings, Inc. operates as a medical technology company in the United States. It develops Pure-Vu system, a medical device to facilitate the cleansing of a poorly prepared gastrointestinal tract during the colonoscopy and facilitates upper gastrointestinal endoscopy procedures. The company was formerly known as Eight-Ten Merger Corp. and changed its name to Motus GI Holdings, Inc. in November 2016. Motus GI Holdings, Inc. was founded in 2008 and is based in Fort Lauderdale, Florida.
+fullTimeEmployees§43
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Pomeranz', 'age': 61, 'title': 'Non-Independent Director & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 429311, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ravit  Ram', 'title': 'CFO & VP of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elad  Amor', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.486
+priceToSalesTrailing12Months§4.156077
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-11.66
+exchange§NCM
+quoteType§EQUITY
+shortName§Motus GI Holdings, Inc.
+longName§Motus GI Holdings, Inc.
+firstTradeDateEpochUtc§1518618600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§315c93a6-da5c-3f84-891c-66fddc702a72
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.3
+targetLowPrice§8.3
+targetMeanPrice§8.3
+targetMedianPrice§8.3
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.286
+grossMargins§-1.07143
+ebitdaMargins§0.0
+trailingPegRatio§None

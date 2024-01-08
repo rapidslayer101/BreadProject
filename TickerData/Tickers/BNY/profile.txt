@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 02:27:29.556541
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240237/blackrock-new-york-municipal-income-trust-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock New York Municipal Income Trust is a closed ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets. It invests primarily in the investment grade municipal bonds exempt from federal income taxes and New York State and New York City personal income taxes. BlackRock New York Municipal Income Trust was formed on July 26, 2001 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.52
+dividendYield§0.049000002
+exDividendDate§1704931200
+payoutRatio§0.6543
+fiveYearAvgDividendYield§4.5
+beta§0.517
+priceToSalesTrailing12Months§13.073212
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§BlackRock New York Municipal In
+longName§BlackRock New York Municipal Income Trust
+firstTradeDateEpochUtc§996240600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff44bd45-c7e2-3137-b415-c947503b456b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.56
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

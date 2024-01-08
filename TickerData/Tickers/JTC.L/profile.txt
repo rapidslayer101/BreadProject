@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 10:39:23.817978
+address1§JTC House
+address2§28 Esplanade PO Box 1075
+city§Saint Helier
+zip§JE4 2QP
+country§Jersey
+phone§44 1534 700 000
+fax§44 1534 700 007
+website§https://www.jtcgroup.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§JTC PLC provides fund, corporate, and private wealth services to institutional and private clients. The company operates through two segments, Institutional Client Services and Private Client Services. It offers fund services in a range of asset classes, including real estate, private equity, renewables, hedge, debt, and alternative asset classes, as well as other administration services. In addition, the company provides company secretarial and administration services to small and medium sized entities, public companies, multinationals, sovereign wealth funds, fund managers, HNW and UHNW, individuals, and families. Further, the company offers cash management, foreign exchange, and lending services, as well as the formation and administration of trusts, companies, cash and investments, partnerships, and other vehicles and structures. It operates in UK and Channel Islands, US, Rest of Europe, and Internationally. JTC PLC was founded in 1987 and is headquartered in Saint Helier, the United Kingdom.
+fullTimeEmployees§1291
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nigel Anthony Le Quesne', 'age': 62, 'title': 'Group CEO & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 674336, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Fotheringham', 'age': 58, 'title': 'Group Chief Financial Officer & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 469259, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Holley', 'age': 56, 'title': 'COO, Chief Sustainability Officer & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 326028, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Jeffries', 'title': 'Group Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Byrne', 'title': 'Chief Group Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Kittleson', 'title': 'Group Director of Risk & Compliance -Jersey', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Vieira', 'title': 'Chief Communications Officer & Group Head of Sustainability Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Graham', 'title': 'Group Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  McFarlane', 'title': 'Chief Operating Officer - Private Client Services Jersey', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenny  Rae', 'title': 'COO & Director - Institutional Client Services Jersey', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.013200001
+exDividendDate§1695254400
+payoutRatio§0.5809
+fiveYearAvgDividendYield§0.99
+beta§0.638
+priceToSalesTrailing12Months§5.9072165
+currency§GBp
+forwardEps§42.24
+exchange§LSE
+quoteType§EQUITY
+shortName§JTC PLC ORD GBP0.01
+longName§JTC PLC
+firstTradeDateEpochUtc§1521014400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f3828585-ffdc-3c5e-8434-8ff52454fdeb
+targetHighPrice§1080.0
+targetLowPrice§810.0
+targetMeanPrice§916.25
+targetMedianPrice§897.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§2.113
+earningsGrowth§-0.46
+grossMargins§0.49331
+ebitdaMargins§0.25994
+trailingPegRatio§None

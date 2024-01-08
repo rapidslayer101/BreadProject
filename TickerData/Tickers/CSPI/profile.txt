@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 21:44:15.680363
+address1§175 Cabot Street
+address2§Suite 210
+city§Lowell
+state§MA
+zip§01854
+country§United States
+phone§(978)-954-5038
+website§https://www.cspi.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§CSP Inc. develops and markets IT integration solutions, security products, managed IT services, cloud services, purpose-built network adapters, and cluster computer systems for commercial and defense customers worldwide. It operates in two segments, Technology Solutions and High Performance Products. The Technology Solutions segment provides third-party computer hardware and software as a value-added reseller to various customers in web and infrastructure hosting, education, telecommunications, healthcare services, distribution, financial and professional services, and manufacturing industries. This segment also offers professional IT consulting services, such as planning, designing, assessment, implementation, migration, optimization, and project management; storage and virtualization solutions; enterprise security intrusion prevention, network access control, and unified threat management services; and IT security compliance services. In addition, this segment provides unified communications, wireless, and routing and switching solutions; custom software applications and solutions development and support services; optimization, maintenance, and technical support services; and managed IT services, such as monitoring, reporting, and management of alerts for the resolution and preventive general IT, as well as IT security support tasks. Further, this segment offers managed and cloud services, such as proactive monitoring and remote management of IT infrastructure, managed and hosted unified communication services, security, and backup and replication. The High Performance Products segment offers ARIA Software-Defined Security, a cybersecurity solution; ARIA Zero Trust PROTECT that stopping the attacks that are used to attack critical infrastructure applications; Myricom network adapters; and multicomputer products for digital signal processing applications in the defense markets. CSP Inc. was incorporated in 1968 and is headquartered in Lowell, Massachusetts.
+fullTimeEmployees§112
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Victor J. Dellovo', 'age': 53, 'title': 'CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 922400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary W. Levine', 'age': 75, 'title': 'VP of Finance, CFO, Treasurer & Secretary', 'yearBorn': 1948, 'fiscalYear': 2023, 'totalPay': 332623, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Newbanks', 'age': 60, 'title': 'VP of Finance & Chief Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 286134, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Southwell', 'age': 61, 'title': 'VP & GM of High Performance Products Segment', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 253762, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.0082
+exDividendDate§1703116800
+payoutRatio§0.1284
+fiveYearAvgDividendYield§4.48
+beta§1.007
+priceToSalesTrailing12Months§1.3309478
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§CSP Inc.
+longName§CSP Inc.
+firstTradeDateEpochUtc§381162600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ad4bee6c-b255-37e7-a160-d18bc6b01c09
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.954
+earningsGrowth§-0.039
+grossMargins§0.33907002
+ebitdaMargins§0.03446
+trailingPegRatio§None

@@ -1,0 +1,25 @@
+# reload+after+2024-01-23 06:33:31.471516
+phone§(866) 261-0273
+longBusinessSummary§The index measures the daily inverse performance of a portfolio of first and second month VIX futures contracts. This theoretical portfolio is rolled each day to maintain a consistent time to maturity of the futures contracts. The index is calculated daily at 4:00 p.m. (Eastern time) and at a value calculated from the average price for the futures contracts between 3:45 p.m. (Eastern time) and 4:00 p.m. (Eastern time).
+maxAge§86400
+priceHint§2
+yield§0.0
+totalAssets§134530832
+navPrice§37.511
+currency§USD
+category§Trading--Inverse Equity
+ytdReturn§-0.006361
+beta3Year§0.0
+fundFamily§VS TRUST
+fundInceptionDate§1648425600
+legalType§Exchange Traded Fund
+exchange§BTS
+quoteType§ETF
+shortName§VS TR -1x Short VIX Futures ETF
+longName§-1x Short VIX Futures ETF
+firstTradeDateEpochUtc§1648647000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cb072e61-32b5-3342-ab77-0d108d7e613c
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

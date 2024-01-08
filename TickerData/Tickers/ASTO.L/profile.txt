@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 21:35:37.947186
+address1§30 Coleman Street
+city§London
+zip§EC2R 5AL
+country§United Kingdom
+website§https://www.assetco.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§AssetCo plc engages in acquiring, managing, and operating asset and wealth management activities and interests. It also offers investment management and advisory services, as well as is involved in the marketing of thematic exchange traded funds. The company was incorporated in 2003 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§68
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin James Gilbert C.A., L.L.B., LLD, M.A., MA LLB LLD CA', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 138000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter Archibald McKellar', 'age': 58, 'title': 'Executive Deputy Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 110000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary Robert Marshall', 'age': 62, 'title': 'Chief Financial & Operating Officer and Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nasser Suwaid Khamis Al Wahshi', 'title': 'Director of Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gordon Haig Brough', 'age': 64, 'title': 'General Counsel, Head of Risk & Company Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Thorneley', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sayed Shameem Cassim', 'age': 42, 'title': 'Human Resources & Administration Manager', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Abdullah Al Nouaimi', 'age': 50, 'title': 'Chief Fire Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephen Patrick Murphy', 'title': 'Financial Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yasser  Antar', 'age': 43, 'title': 'Deputy Chief Fire Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.027999999
+exDividendDate§1669852800
+payoutRatio§0.0
+beta§0.488
+priceToSalesTrailing12Months§4.3702335
+currency§GBp
+forwardEps§-0.84
+lastDividendValue§1.3
+lastDividendDate§1669852800
+exchange§LSE
+quoteType§EQUITY
+shortName§ASSETCO PLC ORD 1P
+longName§AssetCo plc
+firstTradeDateEpochUtc§1071216000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§17742e6e-316d-3c06-839f-3ee398e18b94
+messageBoardId§finmb_25106003
+targetHighPrice§130.0
+targetLowPrice§47.0
+targetMeanPrice§91.33
+targetMedianPrice§97.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.87
+grossMargins§1.11652
+ebitdaMargins§-1.4252601
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 14:44:50.642728
+address1§60 Acorn Park Drive
+city§Cambridge
+state§MA
+zip§02140
+country§United States
+phone§617 613 6000
+website§https://www.forrester.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§Forrester Research, Inc. operates as an independent research and advisory company in the United States and internationally. The company operates in three segments: Research, Consulting, and Events. The Research segment primary subscription research services include Forrester Decisions, Forrester Research, and SiriusDecisions Research, which are designed to provide business and technology leaders with a proven path to growth through customer obsession. This segment delivers content, such as future trends, predictions, and market forecasts; deep consumer and business buyer data and insights; curated best practice models and tools to run business functions; operational and performance benchmarking data; and technology and service market landscapes and vendor evaluations. The Consulting segment provides consulting projects, include conducting maturity assessments, prioritizing best practices, developing strategies, building business cases, selecting technology vendors, structuring organizations, developing content marketing strategies and collateral, and sales tools; and advisory services. The Events segment hosts events related to business-to-business marketing, sales and product leadership, customer experience, security and risk, new technology and innovation, and data strategies and insights. The company sells its products and services through direct sales force in various locations. Forrester Research, Inc. was incorporated in 1983 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§1750
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. George F. Colony', 'age': 69, 'title': 'Founder, Chairman, CEO & President', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 992630, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L. Christian Finn', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 577139, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie Johnson Fanlo', 'age': 47, 'title': 'Chief Product Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 615829, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharyn  Leaver', 'age': 48, 'title': 'Chief Research Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 508706, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott R. Chouinard', 'age': 54, 'title': 'Chief Accounting Officer & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 747025, 'exercisedValue': 213024, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven  Peltzman', 'age': 54, 'title': 'Chief Business Technology Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 448691, 'exercisedValue': 0, 'unexercisedValue': 27313}, {'maxAge': 1, 'name': 'Mr. Mike  Kasparian', 'age': 47, 'title': 'Chief Information Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell  Sweeney', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan D. Darrah', 'age': 51, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 653428, 'exercisedValue': 30880, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Symons', 'title': 'Vice President of Corporate Communications & Employee Experience', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1544486400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.72
+beta§0.958
+priceToSalesTrailing12Months§0.96622276
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.68
+pegRatio§2.64
+exchange§NMS
+quoteType§EQUITY
+shortName§Forrester Research, Inc.
+longName§Forrester Research, Inc.
+firstTradeDateEpochUtc§849105000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a5adaa23-469f-3868-98c2-e100c4c934b6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§28.0
+targetMeanPrice§28.0
+targetMedianPrice§28.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.707
+earningsGrowth§-0.538
+grossMargins§0.58225
+ebitdaMargins§0.09549
+trailingPegRatio§1.593

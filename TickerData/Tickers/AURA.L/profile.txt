@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 05:35:38.874202
+address1§35 Collins Street
+address2§Level 30
+city§Melbourne
+state§VIC
+zip§3000
+country§Australia
+phone§61 3 9101 8551
+website§https://www.auraenergy.com.au
+industry§Uranium
+industryKey§uranium
+industryDisp§Uranium
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Aura Energy Limited, together with its subsidiaries, engages in the evaluation, development, and exploration of mineral properties in Mauritania and Sweden. It primarily explores for uranium, vanadium, gold, and base metals. The company owns 100% interests in the Häggån Polymetallic project located in Sweden; and the Tiris uranium project located in Mauritania. Aura Energy Limited was incorporated in 2005 and is based in Melbourne, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Graham Woodall BSc, MSc', 'age': 63, 'title': 'MD, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 259984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil John Clifford BSc(hons), DIC, MSc', 'title': 'Chief Geologist & Exploration Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross James Kennedy ACA, B.Com, Grad. Dip', 'age': 63, 'title': 'Company Secretary', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.22
+priceToSalesTrailing12Months§7964.883
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§AURA ENERGY LIMITED ORD NPV (DI
+longName§Aura Energy Limited
+firstTradeDateEpochUtc§1473663600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2f0b54d1-7680-3cb9-898c-704dc31c690d
+messageBoardId§finmb_26631794
+targetHighPrice§0.3
+targetLowPrice§0.27
+targetMeanPrice§0.28
+targetMedianPrice§0.28
+recommendationKey§none
+numberOfAnalystOpinions§2
+quickRatio§7.204
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

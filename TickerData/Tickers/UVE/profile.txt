@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 12:34:04.859622
+address1§1110 West Commercial Boulevard
+address2§Suite 100
+city§Fort Lauderdale
+state§FL
+zip§33309
+country§United States
+phone§954 958 1200
+website§https://www.universalinsuranceholdings.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Universal Insurance Holdings, Inc., together with its subsidiaries, operates as an integrated insurance holding company in the United States. It develops, markets, and underwrites insurance products for personal residential insurance, such as homeowners, renters/tenants, condo unit owners, and dwelling/fire; and offers allied lines, coverage for other structures, and personal property, liability, and personal articles coverages. The company also advises on actuarial issues, oversees distribution, administers claims payments, performs policy administration and underwriting, and assists with reinsurance negotiations; places and manages reinsurance programs for the insurance entities; and operates Clovered.com, a digital agency for carrier partners and utilization of digital applications for adjusting claims. It offers its products through a network of independent agents, as well as direct-to-consumer online solutions, including digital insurance agency. The company was formerly known as Universal Heights, Inc. and changed its name to Universal Insurance Holdings, Inc. in January 2001. Universal Insurance Holdings, Inc. was incorporated in 1990 and is headquartered in Fort Lauderdale, Florida.
+fullTimeEmployees§1223
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sean Patrick Downes', 'age': 53, 'title': 'Executive Chairman', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1574984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Joseph Donaghy', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2520564, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank Crawford Wilcox', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 848864, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly Denice Campos', 'age': 45, 'title': 'Chief Information Officer, Chief Administrative Officer & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 442294, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Poloskey', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Luther', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary Lloyd Ropiecki', 'title': 'Principal Accounting Officer & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darryl Lamont Lewis', 'age': 58, 'title': 'Chief Legal Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 58333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason M. Burns', 'age': 43, 'title': 'President of Blue Atlantic', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew John Palmieri', 'age': 43, 'title': 'Chief Risk Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0385
+exDividendDate§1701907200
+payoutRatio§0.2712
+fiveYearAvgDividendYield§3.99
+beta§0.765
+priceToSalesTrailing12Months§0.36024737
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§UNIVERSAL INSURANCE HOLDINGS IN
+longName§Universal Insurance Holdings, Inc.
+firstTradeDateEpochUtc§1054906200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0b5e3cd0-f34a-3ee8-934f-81be88dc2d6e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§21.0
+targetMeanPrice§21.0
+targetMedianPrice§21.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.234
+grossMargins§0.30159
+ebitdaMargins§0.08104
+trailingPegRatio§None

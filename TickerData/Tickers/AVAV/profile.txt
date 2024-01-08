@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 01:43:32.479079
+address1§241 18th Street South
+address2§Suite 415
+city§Arlington
+state§VA
+zip§22202
+country§United States
+phone§805 520 8350
+website§https://www.avinc.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§AeroVironment, Inc. designs, develops, produces, delivers, and supports a portfolio of robotic systems and related services for government agencies and businesses in the United States and internationally. It operates through Small Unmanned Aircraft Systems (SUAS), Tactical Missile System (TMS), Medium Unmanned Aircraft Systems (MUAS), and High Altitude Pseudo-Satellite Systems (HAPS) segments. The company supplies UAS, TMS, unmanned ground vehicle, and related services primarily to organizations within the U.S. Department of Defense, other federal agencies, and to international allied governments. It also designs, engineers, tools, and manufactures unmanned aerial and aircraft systems, including airborne platforms, payloads and payload integration, ground control systems, and ground support equipment and other items and services related to unmanned aircraft systems. In addition, the company offers small UAS products, including training, spare parts, product repair, product replacement, and the customer contracted operation. Further, it develops high-altitude pseudo-satellite UAS systems. AeroVironment, Inc. was incorporated in 1971 and is headquartered in Arlington, Virginia.
+fullTimeEmployees§1259
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Wahid  Nawabi', 'age': 54, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1745583, 'exercisedValue': 2567400, 'unexercisedValue': 4821605}, {'maxAge': 1, 'name': 'Mr. Kevin Patrick McDonnell', 'age': 61, 'title': 'Senior VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 873488, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa Ann Brown J.D.', 'age': 46, 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 765017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Charles Shackley', 'age': 46, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 371888, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Scott  Newbern', 'title': 'VP & Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonah  Teeter-Balin', 'title': 'Senior Director of Corporate Development & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trace E. Stevenson', 'age': 49, 'title': 'Senior VP & GM of Unmanned Systems', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff E. Rodrian', 'age': 46, 'title': 'Senior VP of MacCready Works & GM of Advanced Systems Group', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett P. Hush', 'age': 62, 'title': 'Senior VP & GM of Loitering Munition Systems', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Church  Hutton', 'title': 'VP & Head of Government Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.452
+priceToSalesTrailing12Months§5.0923924
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.29
+pegRatio§2.43
+exchange§NMS
+quoteType§EQUITY
+shortName§AeroVironment, Inc.
+longName§AeroVironment, Inc.
+firstTradeDateEpochUtc§1169562600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1b9a68c5-9df5-3a1a-81c9-3512931c625d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§155.0
+targetLowPrice§108.0
+targetMeanPrice§142.33
+targetMedianPrice§147.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.949
+grossMargins§0.40762
+ebitdaMargins§0.19429001
+trailingPegRatio§None

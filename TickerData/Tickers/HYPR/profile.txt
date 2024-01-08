@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 23:45:19.539608
+address1§351 New Whitfield Street
+city§Guilford
+state§CT
+zip§06437
+country§United States
+phone§203 458 7100
+website§https://hyperfine.io
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Hyperfine, Inc., a medical device company, provides magnetic resonance imaging (MRI) products. Its products include Swoop Portable MR imaging system, which offers neuroimaging at the point of care. The company was incorporated in 2014 and is based in Guilford, Connecticut.
+fullTimeEmployees§136
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. R. Scott Huennekens CPA, M.B.A.', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1294479, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria  Sainz', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 340240, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jonathan M. Rothberg Ph.D.', 'age': 59, 'title': 'Founder & Vice Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 51370, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett  Hale', 'age': 49, 'title': 'Chief Administrative Officer, CFO, Chief Compliance Officer, Treasurer & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tom  Teisseyre Ph.D.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chip  Truwit FACR, M.D.', 'title': 'Vice President of Scientific Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.741
+priceToSalesTrailing12Months§7.768226
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.63
+exchange§NGM
+quoteType§EQUITY
+shortName§Hyperfine, Inc.
+longName§Hyperfine, Inc.
+firstTradeDateEpochUtc§1611844200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b97e8cca-668e-312e-a834-280d59b6eb10
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.1
+targetLowPrice§1.25
+targetMeanPrice§1.68
+targetMedianPrice§1.7
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§10.783
+grossMargins§0.41177
+ebitdaMargins§0.0
+trailingPegRatio§None

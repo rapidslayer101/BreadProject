@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 20:43:57.434538
+address1§400 North Abderdeen Street
+address2§Suite 900
+city§Chicago
+state§IL
+zip§60642
+country§United States
+phone§302 281 2147
+website§https://cardiodiagnosticsinc.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cardio Diagnostics Holdings, Inc., an artificial intelligence-powered precision cardiovascular medicine company, develops and commercializes epigenetics-based clinical tests for cardiovascular disease. It offers Epi+Gen CHD, a three-year symptomatic coronary heart disease (CHD) risk assessment test targeting CHD events, including heart attacks; and PrecisionCHD, an integrated epigenetic-genetic blood test for the early detection of coronary heart disease. The company was founded in 2017 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§7
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Meeshanthini V. Dogan Ph.D.', 'age': 34, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 433897, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elisa Michael Luqman Esq., J.D., M.B.A.', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 175833, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert A. Philibert M.D., Ph.D.', 'age': 61, 'title': 'Co-Founder, Chief Medical Officer & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timur  Dogan Ph.D.', 'age': 35, 'title': 'Chief Technology Officer', 'yearBorn': 1988, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Khullani  Abdullahi J.D.', 'age': 39, 'title': 'Vice President of Revenue & Strategy', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§3714.1965
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.74
+exchange§NCM
+quoteType§EQUITY
+shortName§Cardio Diagnostics Holdings Inc
+longName§Cardio Diagnostics Holdings, Inc.
+firstTradeDateEpochUtc§1642170600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b9cf1495-9333-3575-a79c-036cdcf1cc6c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§4.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.228
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 22:46:44.210710
+address1§4100 North Chapel Ridge Road
+address2§Suite 100
+city§Lehi
+state§UT
+zip§84043
+country§United States
+phone§888 848 0248
+website§https://purple.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Purple Innovation, Inc. designs and manufactures mattresses, pillows, and cushions. The company also offers bases, foundations, sheets, mattress protectors, bed frames, seat cushions, blankets, and duvets, as well as pet beds. It markets and sells its products through its e-commerce online channels, retail brick-and-mortar wholesale partners, and third-party online retailers, as well as through Purple retail showrooms. The company was founded in 2010 and is headquartered in Lehi, Utah.
+fullTimeEmployees§1600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert T. DeMartini', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 662373, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Haynor', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'totalPay': 759818, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Jack Roddy IV', 'age': 55, 'title': 'Chief People Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 548083, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd E. Vogensen', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Turner Ulrich', 'age': 62, 'title': 'Vice President of Accounting & Financial Reporting', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tricia McDermott Thompkins', 'age': 51, 'title': 'Chief Legal Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Misty  Bond', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Keira  Krausz', 'age': 57, 'title': 'Chief Marketing Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Hutchings', 'title': 'Chief Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffery Scott Kerby', 'age': 54, 'title': 'Chief of Owned Retail Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.73
+priceToSalesTrailing12Months§0.18946233
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.38
+pegRatio§-0.08
+exchange§NMS
+quoteType§EQUITY
+shortName§Purple Innovation, Inc.
+longName§Purple Innovation, Inc.
+firstTradeDateEpochUtc§1446125400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b3739658-369b-3ed6-b9c8-54109261c5fc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§0.8
+targetMeanPrice§2.9
+targetMedianPrice§1.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§0.581
+grossMargins§0.34369
+ebitdaMargins§-0.14048
+trailingPegRatio§None

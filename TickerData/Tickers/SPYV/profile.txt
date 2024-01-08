@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 05:33:25.089160
+longBusinessSummary§The fund employs a sampling strategy in seeking to track the performance of the S&P 500 Value Index. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index measures the performance of the large-capitalization value segment of the U.S. equity market.
+maxAge§86400
+priceHint§2
+yield§0.0175
+totalAssets§20072480768
+navPrice§46.62513
+currency§USD
+category§Large Value
+ytdReturn§0.0002145
+beta3Year§0.89
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§969840000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.1332393
+fiveYearAverageReturn§0.13826
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Series Trust SPDR Portfoli
+longName§SPDR Portfolio S&P 500 Value ETF
+firstTradeDateEpochUtc§970493400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea175779-773f-3024-a77b-c04e5f2d10f3
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

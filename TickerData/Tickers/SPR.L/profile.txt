@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 19:40:26.681692
+address1§Alexander Fleming House
+address2§8 Southfield Drive
+city§Elgin
+zip§IV30 6GR
+country§United Kingdom
+phone§44 13 4355 2550
+website§https://www.springfield.co.uk
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Springfield Properties PLC, together with its subsidiaries, engages in the house building business in the United Kingdom. The company offers in private, contract, and affordable housing. It is also involved in hiring plants and machineries, property development, buying and selling real estate, manufacturing timber kit, and management services. The company was founded in 1956 and is based in Elgin, the United Kingdom.
+fullTimeEmployees§805
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander William Adam', 'age': 67, 'title': 'Part Time Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 168000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Innes  Smith CA', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 336000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Iain Alexander James Logan', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Ross Todd', 'title': 'Group Director, General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Campbell', 'title': 'Group Corporate Communications Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tricia  Malek', 'title': 'Sales Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Henderson', 'title': 'Group HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Leggeat', 'title': 'Managing Director of Springfield Partnerships', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Egan', 'title': 'Chief Operating Officer of Private Central', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Main', 'title': 'Managing Director of North of Scotland Projects', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1667433600
+payoutRatio§0.4747
+fiveYearAvgDividendYield§4.26
+beta§1.403
+priceToSalesTrailing12Months§0.3106211
+currency§GBp
+forwardEps§8.93
+exchange§LSE
+quoteType§EQUITY
+shortName§SPRINGFIELD PROPERTIES PLC ORD 
+longName§Springfield Properties PLC
+firstTradeDateEpochUtc§1508137200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§5a2d5067-d862-3cbc-8b82-e061a75db7dc
+targetHighPrice§125.0
+targetLowPrice§65.0
+targetMeanPrice§95.0
+targetMedianPrice§95.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.423
+earningsGrowth§-0.374
+grossMargins§0.14439
+ebitdaMargins§0.06579
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 18:43:54.302985
+address1§2 Canal Park
+address2§4th Floor
+city§Cambridge
+state§MA
+zip§02141
+country§United States
+phone§617 354 0068
+website§https://www.cargurus.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§CarGurus, Inc. operates an online automotive marketplace connecting buyers and sellers of new and used cars in the United States and internationally. It operates through two segments, U.S. Marketplace and Digital Wholesale The company provides consumers an online automotive marketplace where they can search for new and used car listings from its dealers, as well as sell their car to dealers and other consumers. Its marketplace connects dealers to a large audience of informed and engaged consumers. The company operates online marketplaces under the CarGurus brand in Canada and the United Kingdom; Autolist and CarOffer brands in the United States; and PistonHeads brand in the United Kingdom. CarGurus, Inc. was founded in 2005 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§1403
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. E. Langley Steinert', 'age': 59, 'title': 'Founder & Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 10000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason M. Trevisan', 'age': 48, 'title': 'CEO, Treasurer & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1001838, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Todd Quinn', 'age': 51, 'title': 'Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 533597, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea Lee Eldridge', 'age': 47, 'title': 'Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 505763, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel  Zales', 'age': 59, 'title': 'COO & President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 913590, 'exercisedValue': 1920178, 'unexercisedValue': 8850304}, {'maxAge': 1, 'name': 'Ms. Elisa  Palazzo', 'age': 41, 'title': 'Chief Financial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yann Bruno Gellot', 'age': 51, 'title': 'Principal Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kirndeep  Singh', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Javier  Zamora', 'age': 52, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Kramer', 'title': 'Director of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.663
+priceToSalesTrailing12Months§2.5820897
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.28
+pegRatio§1.43
+exchange§NMS
+quoteType§EQUITY
+shortName§CarGurus, Inc.
+longName§CarGurus, Inc.
+firstTradeDateEpochUtc§1507815000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c6024627-61d3-39ee-8831-48958a4eec0b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§15.0
+targetMeanPrice§23.67
+targetMedianPrice§24.5
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§4.54
+earningsGrowth§0.166
+grossMargins§0.63468
+ebitdaMargins§0.12599
+trailingPegRatio§1.35

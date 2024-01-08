@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 11:36:14.231287
+address1§Brian Conlon House
+address2§3 Canal Quay
+city§Newry
+zip§BT35 6BP
+country§United Kingdom
+phone§44 28 3025 2242
+fax§44 28 3025 2060
+website§https://fdtechnologies.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§FD Technologies plc provides software and consulting services in the United Kingdom and internationally. The company operates through three segments: KX, First Derivative, and MRP. It provides KX, a real-time decision-making engine that captures data, from various location and format; First Derivative, a capital markets consulting solutions; and MRP Prelytix platform, an enterprise-class predictive account-based marketing solution. The company also licenses software. It serves finance, technology, retail, pharma, manufacturing, and energy markets. The company was formerly known as First Derivatives plc and changed its name to FD Technologies plc in July 2021. FD Technologies plc was incorporated in 1996 and is headquartered in Newry, the United Kingdom.
+fullTimeEmployees§2800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Seamus Declan Keating', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 687000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Ryan Preston', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 444000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Humphries', 'title': 'Global Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Thomas', 'age': 76, 'title': 'Chief Scientist', 'yearBorn': 1947, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Mitchell', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria  Shanks', 'title': 'Senior Vice President of Business Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine  Harrison', 'title': 'Group HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick Gerald Brazel MSc', 'age': 65, 'title': 'Chief Commercial Officer', 'yearBorn': 1958, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Dooher', 'title': 'Global Head of Product Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Murphy', 'title': 'Head of Research & Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1573689600
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.81
+beta§0.784
+priceToSalesTrailing12Months§1.1096224
+currency§GBp
+forwardEps§-10.1
+pegRatio§-4.16
+exchange§LSE
+quoteType§EQUITY
+shortName§FD TECHNOLOGIES PUBLIC LIMITED 
+longName§FD Technologies plc
+firstTradeDateEpochUtc§1017302400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3d0df90d-e1a2-3c89-9c76-7bffe01bf827
+targetHighPrice§3300.0
+targetLowPrice§1031.0
+targetMeanPrice§2082.75
+targetMedianPrice§2000.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.289
+grossMargins§0.41737
+ebitdaMargins§0.03292
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 08:33:36.747323
+address1§Toronto-Dominion Centre
+address2§King Street West and Bay Street
+city§Toronto
+state§ON
+zip§M5K 1A2
+country§Canada
+website§https://www.td.com
+industry§Banks—Diversified
+sector§Financial Services
+longBusinessSummary§The Toronto-Dominion Bank, together with its subsidiaries, provides various financial products and services in Canada, the United States, and internationally. It operates through four segments: Canadian Personal and Commercial Banking, U.S. Retail, Wealth Management and Insurance, and Wholesale Banking. The company offers personal deposits, such as chequing, savings, and investment products; financing, investment, cash management, international trade, and day-to-day banking services to businesses; and financing options to customers at point of sale for automotive and recreational vehicle purchases. It also provides credit cards and payments; real estate secured lending, auto finance, and consumer lending services; point-of-sale payment solutions for large and small businesses; wealth and asset management products, and advice to retail and institutional clients through direct investing, advice-based, and asset management businesses; and property and casualty insurance, as well as life and health insurance products. The company also provides capital markets, and corporate and investment banking products and services, including underwriting and distribution of new debt and equity issues; advice on strategic acquisitions and divestitures; and trading, funding, and investment services to corporations, governments, and institutions. It offers its products and services under the TD Bank and America's Most Convenient Bank brand names. The Toronto-Dominion Bank was founded in 1855 and is headquartered in Toronto, Canada.
+fullTimeEmployees§103257
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bharat B. Masrani', 'age': 66, 'title': 'Group President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 3179774, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kelvin Vi Luan Tran', 'title': 'Group Head & CFO', 'fiscalYear': 2022, 'totalPay': 1324582, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Riaz E. Ahmed', 'title': 'Group Head of Wholesale Banking', 'fiscalYear': 2022, 'totalPay': 2652620, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leovigildo  Salom', 'title': "Group Head U.S. Retail and President & CEO of America's Most Convenient Bank", 'fiscalYear': 2022, 'totalPay': 3452038, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Salma  Salman', 'title': 'Chief Accountant & Senior VP of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Keeley', 'title': 'Senior Executive Vice President of Technology & Platforms', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judy  Dinn', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brooke  Hales', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane A. Langford', 'title': 'Executive VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Renu  Gupta', 'title': 'Senior Vice President of Corporate Development, Strategy & Funding', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.0
+dividendYield§0.0466
+exDividendDate§1704758400
+payoutRatio§0.6857
+fiveYearAvgDividendYield§4.11
+beta§0.853
+priceToSalesTrailing12Months§2.3457174
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.33
+pegRatio§10.79
+exchange§NYQ
+quoteType§EQUITY
+shortName§Toronto Dominion Bank (The)
+longName§The Toronto-Dominion Bank
+firstTradeDateEpochUtc§841411800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc089489-555a-3e75-9954-8ff7f589f384
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§71.77
+targetLowPrice§56.77
+targetMeanPrice§65.2
+targetMedianPrice§65.89
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§-0.589
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

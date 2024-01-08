@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 19:33:47.746364
+address1§2755 Sand Hill Road
+address2§Suite 150
+city§Menlo Park
+state§CA
+zip§94025
+country§United States
+phone§650-854-2090
+fax§650-854-2094
+website§https://www.tpvg.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§TriplePoint Venture Growth BDC Corp. is a business development company specializing investments in venture capital-backed companies at the growth stage investments. It also provides debt financing to venture growth space companies which includes growth capital loans, secured and customized loans, equipment financings, revolving loans and direct equity investments. The fund seeks to invest in e-commerce, entertainment, technology and life sciences sector. Within technology the areas of focus include: Security, wireless communication equipments, network system and software, business applications software, conferencing equipments/services .big data, cloud computing, data storage, electronics, energy efficiency, hardware, information services, internet and media, networking, semiconductors, software, software as a service, and other technology related subsectors and within life sciences the areas of focus include: biotechnology, bio fuels/bio mass, diagnostic testing and bioinformatics, drug delivery, drug discovery, healthcare information systems, healthcare services, medical, surgical and therapeutic devices, pharmaceuticals and other life science related subsectors. Within growth capital loans it invests between $5 million and $50 million, for equipment financings it invests between $5 million and $25 million, for revolving loans it invests between $1 million and $25 million, and for direct equity investments it may invest between $0.1 million and $5 million (generally not exceeding 5% of the company's total equity). The debt financing products are typically structured as lines of credit and it invests through warrants and secured loans. It targeted returns between 10% and 18%. It does not take board seat in the company.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Peter Labe', 'age': 66, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sajal K. Srivastava', 'age': 47, 'title': 'Co-Founder, President, Chief Investment Officer, Secretary, Treasurer & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Mathieu', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Oshiki', 'title': 'Investor Relation - Abernathy MacGregor Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Mitchell Levinson', 'age': 56, 'title': 'Chief Compliance Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.1418
+exDividendDate§1702512000
+payoutRatio§8.4706
+fiveYearAvgDividendYield§11.49
+beta§1.856
+priceToSalesTrailing12Months§2.9557986
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.69
+pegRatio§1.35
+exchange§NYQ
+quoteType§EQUITY
+shortName§TriplePoint Venture Growth BDC 
+longName§TriplePoint Venture Growth BDC Corp.
+firstTradeDateEpochUtc§1394116200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§48b985ec-55c7-3de1-bc52-90000b273281
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.5
+targetLowPrice§9.25
+targetMeanPrice§10.66
+targetMedianPrice§10.75
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§5.408
+earningsGrowth§3.66
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

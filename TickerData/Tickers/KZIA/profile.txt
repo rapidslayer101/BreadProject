@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 13:45:42.357539
+address1§Three International Towers
+address2§Level 24 300 Barangaroo Avenue
+city§Sydney
+state§NSW
+zip§2000
+country§Australia
+website§https://www.kaziatherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kazia Therapeutics Limited operates as a biotechnology company, develops anti-cancer drugs. Its lead development candidate is Paxalisib, a small molecule, brain-penetrant inhibitor of the PI3K/AKT/mTOR pathway, which is developed as a potential therapy for glioblastoma, diffuse intrinsic pontine glioma/advanced solid tumors, atypical teratoid rhabdoid tumor, brain metastases, triple negative breast cancer, and primary central nervous system lymphoma. It is also developing EVT801, a small molecule targeted therapeutic vascular endothelial growth factor receptor 3 inhibitor. The company was formerly known as Novogen Limited and changed its name to Kazia Therapeutics Limited in November 2017. The company was incorporated in 1994 and is based in Sydney, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. John E. Friend II, M.D.', 'age': 53, 'title': 'CEO, MD &  Interim Chairman', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 741931, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen R. Krumeich', 'age': 69, 'title': 'Chief Financial Officer', 'yearBorn': 1954, 'fiscalYear': 2023, 'totalPay': 508183, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Sandham', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.246
+priceToSalesTrailing12Months§19004.03
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Kazia Therapeutics Limited
+longName§Kazia Therapeutics Limited
+firstTradeDateEpochUtc§915633000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1898cad7-893e-3eb8-a2ff-3751c401090e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§2.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.707
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

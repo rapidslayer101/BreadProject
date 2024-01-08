@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 10:28:30.258506
+address1§1600 Corporate Drive
+city§Birmingham
+state§AL
+zip§35242
+country§United States
+phone§205 408 0909
+fax§205 408 0870
+website§https://www.div.energy
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Diversified Energy Company PLC operates as an independent owner and operator of producing natural gas and oil wells primarily in the Appalachian Basin of the United States. The company is involved in the production, marketing, and transportation of natural gas, natural gas liquids, crude oil, and condensates. Its assets consist of conventional and unconventional natural gas, natural gas liquids, and oil producing wells; and natural gas gathering pipelines located in the states of Tennessee, Kentucky, Virginia, West Virginia, Ohio, and Pennsylvania. The company was formerly known as Diversified Gas & Oil PLC and changed its name to Diversified Energy Company PLC in May 2021. Diversified Energy Company PLC was founded in 2001 and is headquartered in Birmingham, Alabama.
+fullTimeEmployees§1582
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Russell Hutson Jr.', 'age': 54, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1841000, 'exercisedValue': 0, 'unexercisedValue': 912466}, {'maxAge': 1, 'name': 'Mr. Bradley Grafton Gray', 'age': 55, 'title': 'President & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1043000, 'exercisedValue': 0, 'unexercisedValue': 418213}, {'maxAge': 1, 'name': 'Mr. Maverick  Bentley', 'title': 'Executive Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. Garrett CPA', 'title': 'Senior VP of Accounting & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Myers', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin M. Sullivan', 'age': 44, 'title': 'Senior Executive VP, Chief Legal and Risk Officer & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark S. Kirkendall', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John William Crook', 'age': 64, 'title': 'Senior Vice President of Environmental, Health & Safety', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William M. Kurtz', 'age': 57, 'title': 'Senior Vice President of Land, Engineering & Measurement', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randall L. Barron', 'title': 'Senior Vice President of Strategy & Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.5
+dividendYield§0.22219999
+exDividendDate§1709164800
+payoutRatio§0.1675
+beta§0.148
+priceToSalesTrailing12Months§0.53843087
+currency§USD
+exchange§NYQ
+quoteType§EQUITY
+shortName§Diversified Energy Company plc
+longName§Diversified Energy Company PLC
+firstTradeDateEpochUtc§1702996200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§38344a4d-87bb-35ec-997f-26fad338b6ab
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.279
+grossMargins§0.71782994
+ebitdaMargins§1.16807
+trailingPegRatio§None

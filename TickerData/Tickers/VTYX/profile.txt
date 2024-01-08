@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 04:47:55.899314
+address1§662 Encinitas Blvd.
+address2§Suite 250
+city§Encinitas
+state§CA
+zip§92024
+country§United States
+phone§760 593 4832
+website§https://ventyxbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Ventyx Biosciences, Inc., a clinical-stage biopharmaceutical company, develops small molecule product candidates to address a range of inflammatory diseases. Its lead clinical product candidate is VTX958, a selective allosteric tyrosine kinase type 2 inhibitor for psoriasis, psoriatic arthritis, and Crohn's disease. It is also developing VTX002, a sphingosine 1 phosphate receptor modulator that is in Phase II clinical trials for the treatment of ulcerative colitis; and VTX2735, a peripheral-targeted NOD-like receptor protein 3 inflammasome inhibitor to treat patients with cryopyrin-associated periodic syndrome. In addition, the company develops VTX3232, a CNS-penetrant NLRP3 inhibitor. Ventyx Biosciences, Inc. was incorporated in 2018 and is based in Encinitas, California.
+fullTimeEmployees§99
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Sheila K. Gujrathi M.D.', 'age': 53, 'title': 'Executive Chairperson', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 125000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Raju S. Mohan Ph.D.', 'age': 66, 'title': 'Founder, CEO, President & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 989992, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John M. Nuss Ph.D.', 'age': 64, 'title': 'Chief Scientific Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 656990, 'exercisedValue': 0, 'unexercisedValue': 12014213}, {'maxAge': 1, 'name': 'Dr. Martin Douglas Auster M.D.', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher W. Krueger J.D., MBA', 'age': 55, 'title': 'Chief Business Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 568145, 'exercisedValue': 0, 'unexercisedValue': 2931221}]
+auditRisk§8
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.033
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.87
+exchange§NMS
+quoteType§EQUITY
+shortName§Ventyx Biosciences, Inc.
+longName§Ventyx Biosciences, Inc.
+firstTradeDateEpochUtc§1634823000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f523c464-d79a-3f62-beea-fdbd09f3b782
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§2.0
+targetMeanPrice§8.38
+targetMedianPrice§5.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§11.478
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

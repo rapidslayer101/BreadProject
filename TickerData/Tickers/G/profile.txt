@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 15:29:41.745748
+address1§Canon's, Court
+address2§22 Victoria Street
+city§Hamilton
+zip§HM 12
+country§Bermuda
+phone§441 298 3300
+website§https://www.genpact.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Genpact Limited provides business process outsourcing and information technology (IT) services in India, rest of Asia, North and Latin America, and Europe. It operates through three segments: Financial services; Consumer and Healthcare; and High Tech and Manufacturing. The company offers CFO advisory services; and environmental, social, and governance (ESG) services, such as data management, carbon accounting, human rights assessment, sustainability diligence, and ESG reporting. It also provides finance and accounting services, which include accounts payable, such as document management, invoice processing, approval and resolution management, and travel and expense processing; invoice-to-cash services, including customer master data management, credit and contract management, fulfillment, billing, collections, and dispute management services; record to report services comprising accounting, treasury, tax, product cost accounting, and closing and reporting services; financial planning and analysis consisting of budgeting, forecasting, and business performance reporting; and enterprise risk and compliance services, including operational risks and controls. In addition, the company provides supply chain advisory services, and after-sales services; sourcing and procurement services comprising direct and indirect strategic sourcing, category management, spend analytics, procurement operation, and master data management; and sales and commercial services, including campaign, order, and dispute management, lead generation, pricing, and promotion optimization. Further, it offers IT services, which comprise end-user computing support, infrastructure management; and transformation services that include digital solutions, consulting services, and analytics services and solutions. The company was founded in 1997 and is based in Hamilton, Bermuda.
+fullTimeEmployees§127000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nallicheri Vaidyanathan Tyagarajan', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1914253, 'exercisedValue': 12111496, 'unexercisedValue': 45415344}, {'maxAge': 1, 'name': 'Mr. Michael Hal Weiner C.F.A.', 'age': 51, 'title': 'Senior VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1126429, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Balkrishan  Kalra', 'age': 53, 'title': 'Senior Vice President OF Financial Services, Consumer & Healthcare', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1334305, 'exercisedValue': 0, 'unexercisedValue': 9175082}, {'maxAge': 1, 'name': 'Ms. Kathryn A. Vanpelt Stein', 'age': 45, 'title': 'Senior VP, Chief Strategy Officer and Global Business Leader of Enterprise Services & Analytics', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1168180, 'exercisedValue': 689206, 'unexercisedValue': 1935511}, {'maxAge': 1, 'name': 'Donald J. Klunk', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vidya  Rao', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Krista B. Bessinger', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather D. White', 'age': 50, 'title': 'Senior VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ezra  Baylin', 'title': 'Head of Corporate Development and Mergers & Acquisitions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caitlin  Blewett', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.55
+dividendYield§0.0161
+exDividendDate§1701907200
+payoutRatio§0.2327
+fiveYearAvgDividendYield§1.02
+beta§1.126
+priceToSalesTrailing12Months§1.399103
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.1
+pegRatio§1.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Genpact Limited
+longName§Genpact Limited
+firstTradeDateEpochUtc§1186061400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dfcf28d0-7345-39a6-a693-bc8194de62bf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§35.0
+targetMeanPrice§38.0
+targetMedianPrice§36.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§1.633
+earningsGrowth§0.255
+grossMargins§0.35115
+ebitdaMargins§0.16207
+trailingPegRatio§None

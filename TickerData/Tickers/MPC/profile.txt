@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 11:31:26.299418
+address1§539 South Main Street
+city§Findlay
+state§OH
+zip§45840-3229
+country§United States
+phone§419 422 2121
+website§https://www.marathonpetroleum.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company primarily in the United States. It operates in two segments, Refining & Marketing, and Midstream. The Refining & Marketing segment refines crude oil and other feedstocks at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the United States; and purchases refined products and ethanol for resale and distributes refined products, including renewable diesel, through transportation, storage, distribution, and marketing services. Its refined products include transportation fuels, such as reformulated gasolines and blend-grade gasolines; heavy fuel oil; and asphalt. This segment also manufactures propane, petrochemicals, and natural gas liquids. It sells refined products to wholesale marketing customers in the United States and internationally, buyers on the spot market, and independent entrepreneurs who operate primarily Marathon branded outlets, as well as through long-term fuel supply contracts to direct dealer locations primarily under the ARCO brand. The Midstream segment transports, stores, distributes, and markets crude oil and refined products through refining logistics assets, pipelines, terminals, towboats, and barges; gathers, processes, and transports natural gas; and gathers, transports, fractionates, stores, and markets natural gas liquids. The company was founded in 1887 and is headquartered in Findlay, Ohio.
+fullTimeEmployees§17800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael J. Hennigan', 'age': 64, 'title': 'CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 6767016, 'exercisedValue': 13423219, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maryann T. Mannen', 'age': 59, 'title': 'President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2831005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Gagle', 'age': 57, 'title': 'Senior VP of Government Affairs', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1804096, 'exercisedValue': 2217013, 'unexercisedValue': 6343487}, {'maxAge': 1, 'name': 'Mr. Timothy J. Aydt', 'age': 59, 'title': 'Executive Vice President of Refining', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1893662, 'exercisedValue': 2996217, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory Scott Floerke', 'age': 60, 'title': 'Executive VP & COO of MPLX', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1357903, 'exercisedValue': 1417060, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Quaid', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl Kristopher Hagedorn', 'age': 47, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristina Anna Kazarian', 'age': 40, 'title': 'Vice President of Finance & Investor Relations', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Molly R. Benson', 'age': 56, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fiona C. Laird', 'age': 62, 'title': 'Senior VP of Communications & Chief Human Resources Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.3
+dividendYield§0.0216
+exDividendDate§1700006400
+payoutRatio§0.113199994
+fiveYearAvgDividendYield§3.69
+beta§1.498
+priceToSalesTrailing12Months§0.3791277
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.32
+pegRatio§-0.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§Marathon Petroleum Corporation
+longName§Marathon Petroleum Corporation
+firstTradeDateEpochUtc§1308922200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d1738fdc-0b25-322b-98c8-32d0c0417080
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§191.0
+targetLowPrice§141.0
+targetMeanPrice§165.0
+targetMedianPrice§161.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§1.174
+earningsGrowth§-0.086
+grossMargins§0.15170999
+ebitdaMargins§0.12673001
+trailingPegRatio§None

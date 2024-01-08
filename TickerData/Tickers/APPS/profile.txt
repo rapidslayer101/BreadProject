@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 23:43:23.681854
+address1§110 San Antonio Street
+address2§Suite 160
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§512 387 7717
+website§https://www.digitalturbine.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Digital Turbine, Inc., through its subsidiaries, operates a mobile growth platform for advertisers, publishers, carriers, and device original equipment manufacturers (OEMs). The company operates through two segments, On Device Solutions and App Growth Platform. Its application media platform delivers mobile applications to various publishers, carriers, OEMs, and devices; and content media platform offers news, weather, sports, and other content, as well as programmatic advertising and media content delivery services, and sponsored and editorial content media. The company also provides direct campaign management products, such as the DT DSP and DT Offer Wall; ad monetization solutions allow mobile app publishers and developers to monetize their monthly active users via display, native, and video advertising; brands and agencies runs mobile brand-awareness campaigns on the direct mobile app inventory; and app developers and other performance-focused advertisers execute mobile user acquisition campaigns for their apps and products. It operates in the United States, Canada, Europe, the Middle East, Africa, the Asia Pacific, China, Mexico, Central America, and South America. The company is headquartered in Austin, Texas.
+fullTimeEmployees§777
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Gordon Stone III', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 716442, 'exercisedValue': 11856315, 'unexercisedValue': 3537288}, {'maxAge': 1, 'name': 'Mr. Matthew  Gillis', 'age': 51, 'title': 'President', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 436715, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barrett  Garrison', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 471385, 'exercisedValue': 0, 'unexercisedValue': 8608852}, {'maxAge': 1, 'name': 'Mr. Michael Benjamin Miller', 'age': 48, 'title': 'Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 340660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Senthilkumaran  Kanagaratnam', 'age': 49, 'title': 'Chief Technology Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 658597, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Bartholomew', 'title': 'Senior VP of Capital Markets & Strategy and Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Angeline  Tucker', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eva  Sayre', 'title': 'Chief of Staff', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Wesch', 'age': 36, 'title': 'Controller', 'yearBorn': 1987, 'fiscalYear': 2023, 'totalPay': 207198, 'exercisedValue': 2257000, 'unexercisedValue': 18560698}]
+auditRisk§10
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.683
+priceToSalesTrailing12Months§1.0745901
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.7
+pegRatio§5.81
+exchange§NCM
+quoteType§EQUITY
+shortName§Digital Turbine, Inc.
+longName§Digital Turbine, Inc.
+firstTradeDateEpochUtc§1152192600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§abe420fb-3df6-37ab-a3f3-a0eaa8abda17
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.0
+targetMeanPrice§6.8
+targetMedianPrice§5.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.036
+grossMargins§0.45905
+ebitdaMargins§0.12511
+trailingPegRatio§1.1418

@@ -1,0 +1,27 @@
+# reload+after+2024-01-21 22:27:09.451309
+longBusinessSummary§The index is a three-month forward version of the Bloomberg Commodity Index Total ReturnSM (“BCOMTR”), which reflects the return on a fully collateralized investment in the Bloomberg Commodity IndexSM (“BCOM”). The fund invests in exchange-traded commodity futures contracts through a wholly-owned subsidiary of the fund organized under the laws of the Cayman Islands (the “Subsidiary”). It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.045
+totalAssets§219204592
+navPrice§30.6081
+currency§USD
+category§Commodities Broad Basket
+ytdReturn§0.0003269
+beta3Year§0.93
+fundFamily§Aberdeen Standard Investments
+fundInceptionDate§1490832000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.1197164
+fiveYearAverageReturn§0.0977551
+exchange§PCX
+quoteType§ETF
+shortName§abrdn Bloomberg All Commodity L
+longName§abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
+firstTradeDateEpochUtc§1490967000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8539ef1f-ba74-370f-9a77-fcc3f25c1659
+messageBoardId§finmb_419196539
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

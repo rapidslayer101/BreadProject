@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 18:43:09.375750
+address1§259 Liberty Avenue
+city§Staten Island
+state§NY
+zip§10305
+country§United States
+phone§917 533 1469
+website§https://www.acurxpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Acurx Pharmaceuticals, Inc., a clinical stage biopharmaceutical company, develops antibiotics to treat bacterial infections. The company's lead antibiotic candidate is ibezapolstat, a novel mechanism of action that targets the polymerase IIIC enzyme that has completed Phase IIa clinical trial to treat patients with clostridium difficile infections. It is also developing ACX-375C, a potential oral and parenteral treatment targeting gram-positive bacteria, including methicillin-resistant staphylococcus aureus, vancomycin-resistant enterococcus, and penicillin-resistant streptococcus pneumonia. The company was incorporated in 2017 and is headquartered in Staten Island, New York.
+fullTimeEmployees§4
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert J. DeLuccia', 'age': 77, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 677186, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David P. Luci CPA, Esq., J.D.', 'age': 56, 'title': 'Co-Founder, President, CEO, Corporate Secretary & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 655000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Shawah CPA, CPA', 'age': 56, 'title': 'Co-Founder & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 375000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.807
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.83
+exchange§NCM
+quoteType§EQUITY
+shortName§Acurx Pharmaceuticals, Inc.
+longName§Acurx Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1624627800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f968c125-b6b8-3075-a306-c4b0f5d5bed0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§10.0
+targetMeanPrice§12.67
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§2.188
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

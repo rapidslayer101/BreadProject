@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 23:45:09.909985
+address1§Two Lincoln Centre
+address2§Suite 1100 5420 Lyndon B. Johnson Freeway
+city§Dallas
+state§TX
+zip§75240-2345
+country§United States
+phone§817 348 1600
+website§https://www.hallmarkgrp.com
+longBusinessSummary§Hallmark Financial Services, Inc. underwrites, markets, distributes, and services property/casualty insurance products to businesses and individuals in the United States. The company operates in three segments: Commercial Lines, Personal Lines, and Runoff. The Commercial Lines segment offers commercial property/casualty insurance products, including general liability, commercial automobile, commercial property, umbrella, commercial multi-peril, and business owners' insurance products, as well as aircraft and aircraft liability products. The Personal Lines segment provides personal automobile and renters insurance products and services. The Runoff segment offers senior care facilities liability insurance products and services. It markets its insurance products through independent general agents, retail agents, and specialty brokers. The company was incorporated in 1987 and is headquartered in Dallas, Texas.
+fullTimeEmployees§257
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Edward Schwarz', 'age': 63, 'title': 'Executive Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 975324, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher James Kenney CPA', 'age': 60, 'title': 'President, CEO, CFO & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 575778, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Joseph Curti', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pavinee  Hat', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris A. Miller C.P.C.U.', 'title': 'Senior Vice President of Commercial Claims', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Irvin Collins', 'title': 'President of Commercial Lines & Aviation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Robert Sadowski FCAS, MAAA', 'title': 'Senior VP & Chief Actuary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.147
+priceToSalesTrailing12Months§0.008985827
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.0
+exchange§NGM
+quoteType§EQUITY
+shortName§Hallmark Financial Services, In
+longName§Hallmark Financial Services, Inc.
+firstTradeDateEpochUtc§622128600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b06f7b36-4b2c-3f9f-8d5c-04c22f8c60ef
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.137
+grossMargins§0.07204
+ebitdaMargins§-0.55307996
+trailingPegRatio§None

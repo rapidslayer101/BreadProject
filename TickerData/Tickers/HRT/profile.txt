@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 16:30:14.964414
+address1§100 Centerview Drive
+address2§Suite 300
+city§Nashville
+state§TN
+zip§37214
+country§United States
+phone§615 320 9800
+website§https://www.hireright.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§HireRight Holdings Corporation provides technology-driven workforce risk management and compliance solutions worldwide. The company offers background screening, verification, identification, monitoring, and drug and health screening services for customers. It provides its services through software and data platform that integrates into its customers' human capital management systems enabling workflows for workforce hiring, onboarding, and monitoring. HireRight Holdings Corporation was incorporated in 1990 and is based in Nashville, Tennessee.
+fullTimeEmployees§3078
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Guy P. Abramo', 'age': 61, 'title': 'CEO, President & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1349402, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas M. Spaeth', 'age': 55, 'title': 'CFO & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 800700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Ensor', 'title': 'Senior VP & Global Head of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laurie J. Blanton', 'age': 69, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1954, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian W. Copple', 'age': 62, 'title': 'General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Losiewski', 'title': 'Head of Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Romero', 'age': 48, 'title': 'Chief Human Resources Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen R. Girdler', 'age': 60, 'title': 'Advisor', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Boardman', 'title': 'Senior Vice President of Revenue Operations & Enablement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Daxner', 'title': 'Executive VP & Global Head of Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.777
+priceToSalesTrailing12Months§1.173059
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.29
+pegRatio§3.03
+exchange§NYQ
+quoteType§EQUITY
+shortName§HireRight Holdings Corporation
+longName§HireRight Holdings Corporation
+firstTradeDateEpochUtc§1635514200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46344379-7f63-3b8b-841e-f04e88a89c0c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§11.0
+targetMeanPrice§12.62
+targetMedianPrice§12.38
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§1.595
+grossMargins§0.48064998
+ebitdaMargins§0.21691
+trailingPegRatio§None

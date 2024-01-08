@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 16:45:25.542505
+address1§997 Lenox Drive
+address2§Suite 100
+city§Lawrenceville
+state§NJ
+zip§08648
+country§United States
+phone§609 896 9100
+fax§609 896 2200
+website§https://www.imunon.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Imunon, Inc., a clinical stage biotechnology company, engages in the development of immunotherapies and vaccines to treat cancer and infectious diseases. The Company's lead clinical programs comprise IMNN-001, a DNA-based immunotherapy for the localized treatment of ovarian cancer that is in Phase II clinical development; and ThermoDox for the treatment of hepatocellular carcinoma. It also has two platform technologies, such as TheraPlas® platform for the development of immunotherapies and other anti-cancer nucleic acid-based therapies; and PLACCINE platform for the development of nucleic acid vaccines for infectious diseases and cancer. The company was formerly known as Celsion Corporation and changed its name to Imunon, Inc. in September 2022. Imunon, Inc. was founded in 1982 and is based in Lawrenceville, New Jersey.
+fullTimeEmployees§31
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael H. Tardugno', 'age': 72, 'title': 'Executive Chairman', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 1578891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Corinne M. Le Goff M.B.A., Pharm.D.', 'age': 58, 'title': 'CEO, President & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 477730, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey W. Church CPA', 'age': 66, 'title': 'CFO, Executive VP & Corporate Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 548916, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Khursheed  Anwer M.B.A., Ph.D.', 'age': 63, 'title': 'Executive VP & Chief Scientific Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 540872, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy J. Tumminello CPA', 'age': 65, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 108308, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marianne M. Lambertson', 'title': 'Vice President of Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sebastien  Hazard M.D.', 'title': 'Executive VP & Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.86
+priceToSalesTrailing12Months§52.245014
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.96
+exchange§NCM
+quoteType§EQUITY
+shortName§Imunon, Inc.
+longName§Imunon, Inc.
+firstTradeDateEpochUtc§920298600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8c345872-fb05-3c41-be37-d6105d702b42
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§8.0
+targetMeanPrice§12.5
+targetMedianPrice§13.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§3.663
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

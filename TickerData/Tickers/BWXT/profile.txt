@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 09:27:36.297711
+address1§800 Main Street
+address2§4th Floor
+city§Lynchburg
+state§VA
+zip§24504
+country§United States
+phone§434 522 3800
+fax§434 522 6909
+website§https://www.bwxt.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§BWX Technologies, Inc., together with its subsidiaries, manufactures and sells nuclear components in the United States, Canada, and internationally. It operates through two segments, Government Operations and Commercial Operations. The Government Operations segment designs and manufactures naval nuclear components, reactors, and nuclear fuel; undertakes fabrication activities for missile launch tubes for U.S. Navy submarines; and supplies proprietary and sole-source valves, manifolds, and fittings to naval and commercial shipping customers. This segment also involved in manufacture of close-tolerance and equipment for nuclear applications; and converts Cold War-era government stockpiles of uranium, as well as receives, stores, characterizes, dissolves, recovers, and purifies uranium-bearing materials; supplies research reactor fuel elements for colleges, universities, and national laboratories; and components for defense applications. The Commercial Operations segment designs and manufactures commercial nuclear steam generators, heat exchangers, pressure vessels, and reactor components; and other auxiliary equipment, including containers for the storage of nuclear fuel and other high-level nuclear waste. It also offers nuclear fuel, fuel handling systems, tooling delivery systems, nuclear grade materials, and precisely machined components, as well as related services for CANDU nuclear power plants; in-plant inspection, maintenance, and modification services, as well as non-destructive examination and tooling/repair solutions; and medical radioisotopes, radiopharmaceuticals, and medical devices. The company was formerly known as The Babcock & Wilcox Company and changed its name to BWX Technologies, Inc. in June 2015. BWX Technologies, Inc. was founded in 1867 and is headquartered in Lynchburg, Virginia.
+fullTimeEmployees§7000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Rex D. Geveden', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2140519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robb A. LeMasters', 'age': 45, 'title': 'Senior VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 922299, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Duffy', 'age': 56, 'title': 'Senior VP & Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 219375, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas E. McCabe', 'age': 68, 'title': 'Special Advisor', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 690638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin M. McCoy', 'age': 66, 'title': 'President of Government Operations Segment', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1357178, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chase  Jacobson', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald O. Whitford Jr.', 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne C. Sterner', 'title': 'Senior VP & Chief Corporate Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John R. MacQuarrie', 'title': 'President of Commercial Operations Segment', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heatherly H. Dukes', 'title': 'President of BWXT Technical Services Group Inc', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.92
+dividendYield§0.0123000005
+exDividendDate§1700438400
+payoutRatio§0.3745
+fiveYearAvgDividendYield§1.37
+beta§0.751
+priceToSalesTrailing12Months§2.8680727
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.09
+pegRatio§9.97
+exchange§NYQ
+quoteType§EQUITY
+shortName§BWX Technologies, Inc.
+longName§BWX Technologies, Inc.
+firstTradeDateEpochUtc§1280755800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9c63e580-fb82-3e7e-9ed6-e4f53228d338
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§75.0
+targetMeanPrice§82.22
+targetMedianPrice§82.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§2.288
+earningsGrowth§-0.019
+grossMargins§0.24736
+ebitdaMargins§0.15312
+trailingPegRatio§None

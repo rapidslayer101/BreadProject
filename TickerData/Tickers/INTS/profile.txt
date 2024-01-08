@@ -1,0 +1,41 @@
+# reload+after+2024-01-22 12:45:28.547837
+address1§61 Wilton Road
+address2§3rd Floor
+city§Westport
+state§CT
+zip§06880
+country§United States
+phone§203 221 7381
+fax§203-557-3023
+website§https://intensitytherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Intensity Therapeutics, Inc., a clinical-stage biotechnology company, engages in the discovery, development, and commercialization of cancer drugs to treat solid tumors. Its lead product candidate includes INT230-6, a clinical trial for the treatment of refractory solid tumors and pancreatic, colon, bile duct, squamous cell carcinoma, sarcoma, breast, and liver cancers. The company was incorporated in 2012 and is headquartered in Westport, Connecticut.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lewis H. Bender M.A., M.B.A., M.S.', 'age': 64, 'title': 'Founder, President, CEO & Chairman of the Board', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 557753, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Wesolowski CPA, M.B.A.', 'age': 64, 'title': 'Principal Accounting Officer & Controller', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 169950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Talamo CPA, M.B.A.', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Ahlers', 'age': 59, 'title': 'Executive Vice President of Corporate Finance', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Schwartz M.D.', 'title': 'Executive Vice President of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.67
+exchange§NCM
+quoteType§EQUITY
+shortName§Intensity Therapeutics, Inc.
+longName§Intensity Therapeutics, Inc.
+firstTradeDateEpochUtc§1688131800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8f52e929-8b6e-361a-bf1e-4405bee2d3bf
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§21.636
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

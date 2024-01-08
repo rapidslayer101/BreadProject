@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 07:35:58.190720
+address1§47 Esplanade
+city§St. Helier
+zip§JE1 0BD
+country§Jersey
+phone§925 380 1728
+website§https://www.cirata.com
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Cirata plc, together with its subsidiaries, engages in the development and provision of collaboration software in North America, Europe, China, and internationally. The company's WANdisco Data Activation Platform offers Data Migrator, an automated cloud migration solution that migrates HDFS data and Hive metadata to the cloud; Data Migrator for Azure, a native Azure service that enables users to migrate petabyte-scale Hadoop data and Hive metadata to the Azure cloud; and Edge to Cloud, a tool designed to move IoT and file data across edge systems, data centers, and public clouds to enable organizations to activate their data for AI, machine learning, and advanced analytics on modern cloud data platforms. Its application lifecycle management products include Subversion MultiSite Plus, Git MultiSite, Gerrit MultiSite, and Access Control Plus, as well as offers data migration services. The company was formerly known as WANdisco plc and changed its name to Cirata plc in October 2023. Cirata plc was founded in 2005 and is based in St. Helier, Jersey.
+fullTimeEmployees§127
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Yeturu  Aahlad Ph.D.', 'age': 65, 'title': 'Chief Scientist, Inventor, & Co-Founder', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 151682, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Kelly', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ijoma  Maluza', 'age': 43, 'title': 'CFO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Scott-Murphy', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry  Webster', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rich  Baker', 'title': 'Senior Vice President of Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen  Carroll', 'title': 'Interim Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hayley  Fisher', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Holtzinger', 'title': 'Senior Vice President of Engineering & Customer Success', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Frank  Moser', 'title': 'Vice President of IoT Solutions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.806
+priceToSalesTrailing12Months§12.412004
+currency§GBp
+forwardEps§-0.08
+exchange§LSE
+quoteType§EQUITY
+shortName§CIRATA PLC ORD 10P
+longName§Cirata plc
+firstTradeDateEpochUtc§1695711600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a8704987-fd8f-3c80-b5ef-4e59947ca92c
+messageBoardId§finmb_39688384
+targetHighPrice§0.93
+targetLowPrice§0.93
+targetMeanPrice§0.93
+targetMedianPrice§0.93
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.795
+grossMargins§0.35454
+ebitdaMargins§0.0
+trailingPegRatio§None

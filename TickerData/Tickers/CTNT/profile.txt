@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 19:44:17.049365
+address1§6201 Fairview Road
+address2§Suite 225
+city§Charlotte
+state§NC
+zip§28210
+country§United States
+phone§704-972-0209
+website§https://cheetah-net.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Cheetah Net Supply Chain Service Inc., together with its subsidiaries, engages in the parallel-import vehicle dealership business in the People's Republic of China, the United States, and internationally. The company was formerly known as Yuan Qiu Business Group LLC and changed its name to Cheetah Net Supply Chain Service Inc. in March 2022. The company was incorporated in 2016 and is headquartered in Charlotte, North Carolina. Cheetah Net Supply Chain Service Inc. operates as a subsidiary of Fairview Eastern International Holdings Limited.
+fullTimeEmployees§20
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Huan  Liu', 'age': 42, 'title': 'Chairman & CEO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 72000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Walter  Folker', 'age': 66, 'title': 'Vice President of Procurement', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 109806, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert W. Cook', 'age': 67, 'title': 'Chief Financial Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.5233073
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.07
+exchange§NCM
+quoteType§EQUITY
+shortName§Cheetah Net Supply Chain Servic
+longName§Cheetah Net Supply Chain Service Inc.
+firstTradeDateEpochUtc§1690896600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7b5ceeea-f86d-34ec-a3c7-d5f790fbcbb2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.285
+earningsGrowth§-0.905
+grossMargins§0.111940004
+ebitdaMargins§0.0
+trailingPegRatio§None

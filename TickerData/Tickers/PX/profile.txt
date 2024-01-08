@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 17:32:34.612388
+address1§4514 Cole Avenue
+address2§Suite 1600
+city§Dallas
+state§TX
+zip§75205
+country§United States
+phone§214 865 7998
+website§https://www.p10alts.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§P10, Inc., together with its subsidiaries, operates as a multi-asset class private market solutions provider in the alternative asset management industry in the United States. The company offers private equity, venture capital, impact investing, and private credit services, as well as primary fund of funds, secondary investment, and direct and co-investments services. It also provides tax credit transaction and consulting services. The company was founded in 1992 and is headquartered in Dallas, Texas.
+fullTimeEmployees§234
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Hudson Alpert', 'age': 58, 'title': 'Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 802575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clayton Clark Webb', 'age': 42, 'title': 'Executive Vice Chairman of the Board', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 790228, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda Nethery Coussens CPA', 'age': 43, 'title': 'CFO & Chief Compliance Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 608813, 'exercisedValue': 0, 'unexercisedValue': 17290}, {'maxAge': 1, 'name': 'Mr. William Fritz Souder Jr.', 'age': 53, 'title': 'Chief Operating Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3922500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke A. Sarsfield III', 'title': 'CEO & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Kelly', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark C. Hood', 'age': 58, 'title': 'Executive VP of Operations & Investor Relations', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Feinglass', 'title': 'Head of Originations & Distribution', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Corsi', 'title': 'Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nell M. Blatherwick J.D.', 'age': 52, 'title': 'Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.13
+dividendYield§0.0149
+exDividendDate§1701216000
+payoutRatio§1.225
+beta§0.568
+priceToSalesTrailing12Months§4.307945
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.94
+exchange§NYQ
+quoteType§EQUITY
+shortName§P10, Inc.
+longName§P10, Inc.
+firstTradeDateEpochUtc§1634823000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§87e6c078-833a-3c35-b650-67a50c936b37
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.109
+grossMargins§0.5977
+ebitdaMargins§0.32019
+trailingPegRatio§None

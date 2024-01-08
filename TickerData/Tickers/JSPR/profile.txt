@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 12:45:36.482899
+address1§2200 Bridge Pkwy
+address2§Suite 102
+city§Redwood City
+state§CA
+zip§94065
+country§United States
+phone§650 549 1400
+website§https://www.jaspertherapeutics.com/
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Jasper Therapeutics, Inc., a clinical-stage biotechnology company, develops therapeutic agents for hematopoietic stem cell transplantation and gene therapies. It focuses on the development and commercialization of therapeutic agents for diseases, such as chronic spontaneous urticaria, lower to intermediate risk myelodysplastic syndrome, and novel conditioning regimens for stem cell transplantation and ex-vivo gene therapy, a technique in which genetic manipulation of cells is performed outside of the body prior to transplantation. The company's lead product candidate is briquilimab, which is in clinical development as a novel therapeutic antibody that clears hematopoietic stem cells from bone marrow in patients prior to undergoing allogeneic stem cell therapy or stem cell gene therapy. It is also developing engineered hematopoietic stem cells product candidates to overcome key limitations of allogeneic and autologous gene-edited stem cell grafts. The company is headquartered in Redwood City, California.
+fullTimeEmployees§35
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ronald A. Martell', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 892451, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Judith Anne Shizuru M.D., Ph.D.', 'age': 67, 'title': 'Co-Founder, Chair of Scientific Advisory Board & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 291250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeetinder Singh Mahal M.B.A.', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 579457, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Herbert C. Cross', 'age': 51, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Luca  Di Noto Ph.D.', 'title': 'Senior Vice President of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Ku M.D.', 'title': 'Vice President of Corporate Development, Portfolio Strategy & Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Ford', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Wendy  Pang M.D., Ph.D.', 'title': 'Senior Vice President of Research & Translational Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Edwin Jonathan Tucker M.D.', 'age': 51, 'title': 'Chief Medical Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia  Carlos', 'title': 'Senior Vice President of Regulatory Affairs & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.971
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-6.15
+exchange§NCM
+quoteType§EQUITY
+shortName§Jasper Therapeutics, Inc.
+longName§Jasper Therapeutics, Inc.
+firstTradeDateEpochUtc§1578666600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d05c20fd-d0e0-395b-bf20-ba58829de0f6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§80.0
+targetLowPrice§70.0
+targetMeanPrice§75.0
+targetMedianPrice§75.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§8.746
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

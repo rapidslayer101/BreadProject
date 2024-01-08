@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 02:29:55.292444
+address1§100 Crescent Centre Parkway
+address2§Suite 800
+city§Tucker
+state§GA
+zip§30084
+country§United States
+phone§800 392 4619
+website§https://www.gms.com
+industry§Building Products & Equipment
+sector§Industrials
+longBusinessSummary§GMS Inc. distributes wallboard, ceilings, steel framing and complementary construction products in the United States and Canada. The company offers ceilings products, including suspended mineral fibers, soft fibers, and metal ceiling systems primarily used in offices, hotels, hospitals, retail facilities, schools, and various other commercial and institutional buildings. It also provides steel framing products, such as steel tracks, studs, and various other steel products used to frame the interior walls of a commercial or institutional building; and insulation, lumber and other wood products, ready-mix joint compound, and various other interior construction products, as well as ancillary products comprising tools, fasteners, and safety products. In addition, the company distributes acoustical ceilings, steel framing, insulation, and related building products, as well as commercial and residential building materials. It serves professional contractors and homebuilders. As of April 30, 2022, the company operated 300 branches across 44 states and the District of Columbia, as well as 6 provinces in Canada. It also operates a network of approximately 300 distribution centers. GMS Inc. was founded in 1971 and is headquartered in Tucker, Georgia.
+fullTimeEmployees§7007
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Turner Jr.', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1977677, 'exercisedValue': 1992143, 'unexercisedValue': 4325049}, {'maxAge': 1, 'name': 'Mr. Scott M. Deakin', 'age': 57, 'title': 'Senior VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 988172, 'exercisedValue': 0, 'unexercisedValue': 885722}, {'maxAge': 1, 'name': 'Mr. George Travis Hendren', 'age': 48, 'title': 'Senior VP & COO', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 928960, 'exercisedValue': 241209, 'unexercisedValue': 1411421}, {'maxAge': 1, 'name': 'Mr. Craig D. Apolinsky', 'age': 56, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 804353, 'exercisedValue': 962341, 'unexercisedValue': 3375423}, {'maxAge': 1, 'name': 'Ms. Leigh  Dobbs', 'age': 46, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 524811, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Forrest Bell', 'age': 62, 'title': 'Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric N. Sundby', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Carey  Phelp', 'title': 'Vice President of Investor & Media Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Don  Taylor', 'title': 'Vice President of Operations - Western Region', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.77
+priceToSalesTrailing12Months§0.58355546
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.41
+pegRatio§4.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§GMS Inc.
+longName§GMS Inc.
+firstTradeDateEpochUtc§1464269400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§34770578-c660-3aa8-9211-0c0abc5efd07
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§95.0
+targetLowPrice§70.0
+targetMeanPrice§81.89
+targetMedianPrice§85.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.442
+earningsGrowth§-0.183
+grossMargins§0.32356
+ebitdaMargins§0.11256
+trailingPegRatio§None

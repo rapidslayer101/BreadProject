@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 07:38:06.677791
+address1§Greggs House
+address2§Quorum Business Park
+city§Newcastle upon Tyne
+zip§NE12 8BU
+country§United Kingdom
+phone§44 80 8147 3447
+website§https://corporate.greggs.co.uk
+industry§Grocery Stores
+sector§Consumer Defensive
+longBusinessSummary§Greggs plc operates as a food-on-the-go retailer in the United Kingdom. It offers a range of fresh and frozen bakery products, sandwiches, and drinks. The company sells products to franchise and wholesale partners for sale in their own outlets. It is also involved in the property holding, non-trading, and trustee businesses. The company also operates through its own shops. Greggs plc was founded in 1939 and is headquartered in Newcastle upon Tyne, the United Kingdom.
+fullTimeEmployees§28493
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Roisin Helen Currie', 'age': 52, 'title': 'CEO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1012769, 'exercisedValue': 357, 'unexercisedValue': 138455}, {'maxAge': 1, 'name': 'Mr. Richard John Hutton F.C.A.', 'age': 54, 'title': 'CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 814136, 'exercisedValue': 181092, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan D. Jowett L.L.M.', 'age': 60, 'title': 'General Counsel & Company Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emma  Walton', 'title': 'People Director & Head of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond  Reynolds', 'age': 63, 'title': 'Property & Business Development Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 352002, 'exercisedValue': 436842, 'unexercisedValue': 1254945}, {'maxAge': 1, 'name': 'Malcolm  Copland', 'title': 'Commercial Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0234
+exDividendDate§1694044800
+payoutRatio§0.44799998
+fiveYearAvgDividendYield§2.34
+beta§1.342
+priceToSalesTrailing12Months§1.5874525
+currency§GBp
+forwardEps§135.17
+pegRatio§2.22
+exchange§LSE
+quoteType§EQUITY
+shortName§GREGGS PLC ORD 2P
+longName§Greggs plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e4b8d021-d7e2-3897-99bc-0389d2ab1241
+targetHighPrice§4000.0
+targetLowPrice§2500.0
+targetMeanPrice§3227.0
+targetMedianPrice§3250.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.895
+earningsGrowth§0.317
+grossMargins§0.61289
+ebitdaMargins§0.13379
+trailingPegRatio§None

@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 11:47:23.271831
+address1§One Sansome Street
+address2§Suite 730
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§650-235-4769
+website§https://www.surocap.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§SuRo Capital Corp. is a business development company. The firm seeks to invest in growing, late stage, venture capital-backed private companies. SuRo Capital Corp. was founded in 2010 and is based in San Francisco, California.
+fullTimeEmployees§10
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark David Klein', 'age': 61, 'title': 'Chairman, President & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2053439, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Allison  Green CPA', 'age': 38, 'title': 'CFO, Treasurer & Corporate Secretary', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 933080, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra  Linn', 'title': 'Investor Relation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maulik  Sardhara', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jackson  Stone', 'title': 'Investment Associate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Bates', 'title': 'Investor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Lee', 'title': 'Investor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sindhu  Kotha', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry  Emanuel', 'title': 'Investor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Evan  Schlossman', 'title': 'Investor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1648080000
+payoutRatio§0.0
+beta§1.358
+priceToSalesTrailing12Months§18.45667
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.58
+exchange§NMS
+quoteType§EQUITY
+shortName§SuRo Capital Corp.
+longName§SuRo Capital Corp.
+firstTradeDateEpochUtc§1303997400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§439ef9d8-5b8a-3d43-bcb9-60ce2022e86a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.75
+targetLowPrice§5.0
+targetMeanPrice§6.56
+targetMedianPrice§5.75
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§22.737
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

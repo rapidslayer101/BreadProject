@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 07:34:24.526328
+address1§One Williams Center
+address2§Suite 4700
+city§Tulsa
+state§OK
+zip§74172
+country§United States
+phone§918 573 2000
+website§https://www.williams.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§The Williams Companies, Inc., together with its subsidiaries, operates as an energy infrastructure company primarily in the United States. It operates through Transmission & Gulf of Mexico, Northeast G&P, West, and Gas & NGL Marketing Services segments. The Transmission & Gulf of Mexico segment comprises Transco and Northwest natural gas pipelines; and natural gas gathering and processing, and crude oil production handling and transportation assets in the Gulf Coast region, as well as various petrochemical and feedstock pipelines. The Northeast G&P segment engages in the midstream gathering, processing, and fractionation activities in the Marcellus Shale region primarily in Pennsylvania and New York, and the Utica Shale region of eastern Ohio. The West segment comprises gas gathering, processing, and treating operations in the Rocky Mountain region of Colorado and Wyoming, the Barnett Shale region of north-central Texas, the Eagle Ford Shale region of South Texas, the Haynesville Shale region of northwest Louisiana, and the Mid-Continent region, which includes the Anadarko, Arkoma, and Permian basins; and operates natural gas liquid (NGL) fractionation and storage facilities in central Kansas near Conway. The Gas & NGL Marketing Services segment provides wholesale marketing, trading, storage, and transportation of natural gas for natural gas utilities, municipalities, power generators, and producers; risk and asset management; and NGL marketing services. The company owns and operates 33,000 miles of pipelines, 29 processing facilities, 7 fractionation facilities, and approximately 24 million barrels of NGL storage capacity. The Williams Companies, Inc. was founded in 1908 and is headquartered in Tulsa, Oklahoma.
+fullTimeEmployees§5043
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alan S. Armstrong', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2016, 'totalPay': 4587596, 'exercisedValue': 176448, 'unexercisedValue': 2795789}, {'maxAge': 1, 'name': 'Mr. John D. Porter', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2016, 'totalPay': 1439678, 'exercisedValue': 0, 'unexercisedValue': 53076}, {'maxAge': 1, 'name': 'Mr. Micheal G. Dunn', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'fiscalYear': 2016, 'totalPay': 2297572, 'exercisedValue': 0, 'unexercisedValue': 799281}, {'maxAge': 1, 'name': 'Judge Terence Lane Wilson', 'age': 56, 'title': 'Senior VP & General Counsel', 'yearBorn': 1967, 'fiscalYear': 2016, 'totalPay': 1327614, 'exercisedValue': 391270, 'unexercisedValue': 3536}, {'maxAge': 1, 'name': 'Mr. Chad J. Zamarin', 'age': 46, 'title': 'Executive Vice President of Corporate Strategic Development', 'yearBorn': 1977, 'fiscalYear': 2016, 'totalPay': 1828601, 'exercisedValue': 0, 'unexercisedValue': 304910}, {'maxAge': 1, 'name': 'Ms. Mary A. Hausman', 'age': 51, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1972, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danilo Marcelo Juvane C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Debbie L. Pickle', 'age': 45, 'title': 'Senior VP & Chief Human Resource Officer', 'yearBorn': 1978, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad A. Teply', 'age': 51, 'title': 'Senior Vice President of Transmission & Gulf of Mexico', 'yearBorn': 1972, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry C. Larsen', 'age': 48, 'title': 'Senior Vice President of Gathering & Processing', 'yearBorn': 1975, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1483142400
+maxAge§86400
+priceHint§2
+dividendRate§1.79
+dividendYield§0.0504
+exDividendDate§1701907200
+payoutRatio§0.77519995
+fiveYearAvgDividendYield§6.14
+beta§1.121
+priceToSalesTrailing12Months§4.1970663
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.9
+pegRatio§8.82
+exchange§NYQ
+quoteType§EQUITY
+shortName§Williams Companies, Inc. (The)
+longName§The Williams Companies, Inc.
+firstTradeDateEpochUtc§378657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c0943023-1bdf-3272-9142-50ee62caa980
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.0
+targetLowPrice§34.0
+targetMeanPrice§38.55
+targetMedianPrice§38.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§20
+quickRatio§0.595
+earningsGrowth§0.095
+grossMargins§0.58919
+ebitdaMargins§0.6053
+trailingPegRatio§1.7793

@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 05:36:13.977265
+address1§Joukahaisenkatu 6 B
+city§Turku
+zip§20520
+country§Finland
+phone§358 2469 5151
+fax§358 2469 5152
+website§https://www.faron.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Faron Pharmaceuticals Oy operates as a clinical stage drug discovery and development company. The company's lead product candidates are Traumakine, an investigational intravenous interferon beta-1a therapy for the treatment of acute respiratory distress syndrome, COVID-19, acute kidney injury, cardiac protection, solid organ transplant, and ischemia reperfusion injury; and Bexmarilimab, a novel precision cancer immunotherapy candidate for treating solid tumors, non-small cell lung carcinoma, and hematological malignancies. It also develops Haematokine, an investigational AOC3 inhibitor that is used for regenerative medicines in hematological malignancies, as well as chemotherapy induced suppression of the bone marrow. In addition, the company develops a pipeline of immune modulation based proprietary drug candidates for unmet need, including immuno-oncology, and organ protection and regenerative medicine. Faron Pharmaceuticals Oy was founded in 2003 and is headquartered in Turku, Finland.
+fullTimeEmployees§40
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Juho Markku Jalkanen M.D., MSc, Ph.D.', 'age': 45, 'title': 'Chief Operating Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 546347, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Markku Tapani Jalkanen Ph.D.', 'age': 69, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 241924, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. James M. O'Brien CPA, M.B.A.", 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Maija  Hollmen Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vesa  Karvonen L.L.M.', 'age': 51, 'title': 'General Counsel', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Smith-Parker', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juuso  Vakkuri M.A., M.B.A., M.Sc.', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Juhana  Heinonen', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Birge  Berns M.D.', 'title': 'Interim Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.073
+currency§GBp
+forwardEps§-0.23
+exchange§LSE
+quoteType§EQUITY
+shortName§FARON PHARMACEUTICALS OY ORD NP
+longName§Faron Pharmaceuticals Oy
+firstTradeDateEpochUtc§1447747200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§88bd39eb-ff29-3099-a793-70b5f621fa23
+targetHighPrice§4.3
+targetLowPrice§1.03
+targetMeanPrice§2.75
+targetMedianPrice§2.93
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.598
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

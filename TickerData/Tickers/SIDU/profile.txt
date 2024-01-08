@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 19:47:12.525404
+address1§150 North Sykes Creek Parkway
+address2§Suite 200
+city§Merritt Island
+state§FL
+zip§32953
+country§United States
+phone§321 450 5633
+website§https://www.sidusspace.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Sidus Space, Inc., a space-as-a-service company, engages in the design, manufacture, launch, and data collection of commercial satellite worldwide. Its services include satellite manufacturing; precision machining, assembly, and test; low earth orbit microsatellite; payload integrations; launch and support services; space-based data services and analytics; precision computer numerical control machining and fabrication; Swiss screw machining; wire cable harness fabrication; 3D composite and metal printing; and satellite deployment and microgravity testing and research services, as well as services related to electrical and electronic assemblies. The company also offers hardware solutions consisting of an external flight test platform to develop, test, and fly experiments, as well as delivers hardware, materials, and advanced electronics on the international space station; and space station integrated kinetic launcher for orbital payload systems. It serves commercial space, aerospace, defense, underwater marine, and other commercial and government customers. The company was founded in 2014 and is headquartered in Merritt Island, Florida. Sidus Space, Inc. is a subsidiary of Craig Technical Consulting, Inc.
+fullTimeEmployees§64
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Carol M. Craig', 'age': 55, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 125000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa C. Burchfield', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 309229, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Curry', 'title': 'Chief Missions Operations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Kube', 'title': 'Chief Production Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Curry', 'title': 'Senior Vice President of Supply Chain', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-1.107
+priceToSalesTrailing12Months§1.8422322
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.1
+exchange§NCM
+quoteType§EQUITY
+shortName§Sidus Space, Inc.
+longName§Sidus Space, Inc.
+firstTradeDateEpochUtc§1639492200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b0451380-7aa9-34c1-941b-7162c6235696
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§0.65
+targetLowPrice§0.65
+targetMeanPrice§0.65
+targetMedianPrice§0.65
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.278
+grossMargins§0.21671
+ebitdaMargins§-1.73103
+trailingPegRatio§None

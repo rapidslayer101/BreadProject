@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 14:28:03.444617
+address1§25 St. James's Street
+city§London
+zip§SW1A 1HA
+country§United Kingdom
+phone§44 207 925 1964
+website§https://www.cnhindustrial.com
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§CNH Industrial N.V., an equipment and services company, engages in the design, production, marketing, sale, and financing of agricultural and construction equipment in North America, Europe, the Middle East, Africa, South America, and the Asia Pacific. The company operates through three segments: Agriculture, Construction, and Financial Services. The Agriculture segment designs, manufactures, and distributes farm machinery and implements, including two-wheel and four-wheel drive tractors, crawler tractors, combines, grape and sugar cane harvesters, hay and forage equipment, planting and seeding equipment, soil preparation and cultivation implements, and material handling equipment. This segment sells its agricultural equipment under the New Holland Agriculture and Case IH brands. The Construction segment designs, manufactures, and distributes construction equipment comprising excavators, crawler dozers, graders, wheel loaders, backhoe loaders, skid steer loaders, and compact track loaders under the CASE Construction Equipment, New Holland Construction, and Eurocomach brands. The Financial Services segment offers retail note and lease financing to end-use customers for the purchase of new and used agricultural and construction equipment and components, as well as revolving charge account financing and other financial services. It also provides wholesale financing to CNH Industrial brand dealers and distributors; and trade receivables factoring services to CNH Industrial companies, as well as financial services to Iveco Group companies in the North America, South America, and Asia Pacific regions. The company was founded in 1842 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§40000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Suzanne Elizabeth Heywood', 'age': 54, 'title': 'Executive Chairperson', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 725757, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Wellington Wine', 'age': 56, 'title': 'CEO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 11385129, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oddone Incisa Della Rocchetta', 'age': 50, 'title': 'CFO & President of Financial Services', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2052007, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin A. Barr', 'age': 63, 'title': 'Chief Human Resources Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1277210, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek James Neilson', 'age': 52, 'title': 'President of Agriculture', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1758755, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stefano  Pampalone', 'age': 55, 'title': 'President of Construction', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1452891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Friedrich  Eichler', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Kermisch', 'age': 49, 'title': 'Chief Digital and Information Officer & Interim Chief Quality Officer?', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roberto  Russo', 'age': 63, 'title': 'Chief Legal & Compliance Officer?', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Overall', 'title': 'Senior Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.4
+dividendYield§0.032899998
+exDividendDate§1682294400
+payoutRatio§0.2315
+fiveYearAvgDividendYield§1.93
+beta§1.696
+priceToSalesTrailing12Months§0.62549055
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.5
+pegRatio§0.94
+exchange§NYQ
+quoteType§EQUITY
+shortName§CNH Industrial N.V.
+longName§CNH Industrial N.V.
+firstTradeDateEpochUtc§1380547800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d135afdb-acb7-3eab-bb96-ebf9cf7ca18f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§11.5
+targetMeanPrice§15.58
+targetMedianPrice§15.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§3.235
+earningsGrowth§0.024
+grossMargins§0.23259
+ebitdaMargins§0.13656001
+trailingPegRatio§12.4266

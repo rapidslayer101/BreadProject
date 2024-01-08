@@ -1,0 +1,29 @@
+# reload+after+2024-01-23 00:30:15.622578
+address1§312 Farmington Avenue
+city§Farmington
+state§CT
+zip§06032-2586
+country§United States
+phone§860 676 8654
+fax§860 676 8655
+longBusinessSummary§Horizon Technology Finance Corporation is a business development company specializing in lending and and investing in development-stage investments. It focuses on making secured debt and venture lending investments to venture capital backed companies in the technology, life science, healthcare information and services, cleantech and sustainability industries. It seeks to invest in companies in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert D. Pomeroy Jr.', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1951, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald A. Michaud', 'age': 70, 'title': 'President & Director', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Raffaele Trolio CPA', 'age': 49, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Scott Devorsetz C.F.A.', 'age': 52, 'title': 'Executive VP, Chief Investment Officer & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn D. Dombrowski', 'age': 36, 'title': 'Chief Accounting Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan N. Bacon', 'title': 'Director of Investor Relations & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John C. Bombara', 'age': 58, 'title': 'Executive VP, General Counsel, Secretary & Chief Compliance Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin T. Walsh', 'title': 'Senior Managing Director of Technology - West Coast', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd A. McDonald', 'title': 'Senior Managing Director of Technology \x96 Mid-Atlantic, Southeast', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mishone B. Donelson', 'title': 'Managing Director of Life Science \x96 East Coast', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+beta§1.166
+currency§USD
+exchange§NYQ
+quoteType§EQUITY
+shortName§Horizon Technology Finance Corp
+longName§Horizon Technology Finance Corporation
+firstTradeDateEpochUtc§1618234200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§73f421f9-81f3-3583-a2bd-0e4dadf537f5
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§3.227
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 02:36:10.692083
+address1§Dawson House
+address2§5 Jewry Street
+city§London
+zip§EC3N 2EX
+country§United Kingdom
+phone§44 207 4228000
+website§https://www.eleco.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Eleco Plc provides software and related services in the United Kingdom, Scandinavia, Germany, the rest of Europe, the United States, and internationally. The company offers Bidcon, a construction estimating software; IconSystem, a cloud-based collaborative information management software to record, specify, design, and manage building data; Interiorstudio, a room configuration and visualization interior design software; MarketingManager, which combines product information management and digital asset management to create an effective central database; and Materialo, a flooring visualiser software. It also provides Powerproject, a planning and project management software; ShireSystem, a combined CMMS and CAFM software to manage multiple locations and assets; Staircon, a CAD/CAM software for designing and manufacturing staircases; Statcon, a design software for structural engineering; Asta Connect, a collaborative task management tool; and 3D Architect, a software to support self-builders to plan and visualize small to large scale building design projects. In addition, the company offers Easyplan, an intuitive planning software for planning, managing, and delivery of smaller projects; Framing, a design tool for timber frame and floor construction; o2c, a CAD compression software to optimize 3D data for transfer; Powerproject Vision, a cloud platform to centrally manage and automate planning and scheduling needs; and Project Viewer for viewing files without having a licensed copy of software on device. Further, it provides training, consultancy, and technical support services. The company was formerly known as Elecosoft plc and changed its name to Eleco Plc in July 2020. Eleco Plc was founded in 1895 and is based in London, the United Kingdom.
+fullTimeEmployees§255
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan Albert Hunter', 'age': 44, 'title': 'CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 396000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil Bartley Pritchard B.Sc., F.C.A.', 'age': 51, 'title': 'CFO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 212048, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luben  Kirov', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik Anders Karlsson M.Sc.', 'title': 'Regional Managing Director', 'fiscalYear': 2022, 'totalPay': 144000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Volker  Ahring', 'title': 'Managing Director of CAD and Visualisation Businesses', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard  Choi', 'title': 'Regional Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Frank  Van Riemsdijk', 'title': 'Regional Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dirk  Dombert', 'age': 61, 'title': 'Regional Managing Director of Northern Europe', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Hernandez', 'title': 'Head of US Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0087
+exDividendDate§1695254400
+payoutRatio§0.28
+fiveYearAvgDividendYield§3.3
+beta§0.817
+priceToSalesTrailing12Months§2.688446
+currency§GBp
+forwardEps§4.6
+exchange§LSE
+quoteType§EQUITY
+shortName§ELECO PUBLIC LIMITED COMPANY OR
+longName§Eleco Plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c84982bf-7c3b-3793-83d0-1e058e8c405e
+targetHighPrice§160.0
+targetLowPrice§160.0
+targetMeanPrice§160.0
+targetMedianPrice§160.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.988
+earningsGrowth§-0.25
+grossMargins§0.8903
+ebitdaMargins§0.16313
+trailingPegRatio§None

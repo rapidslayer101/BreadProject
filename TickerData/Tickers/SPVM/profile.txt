@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 03:33:24.109619
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is designed tomeasure the performance of 100 stocks in the S&P 500® Index (the “Parent Index”) that have relatively high “value” and “momentum” scores.
+maxAge§86400
+priceHint§2
+yield§0.024500001
+totalAssets§36026544
+navPrice§51.0
+currency§USD
+category§Large Value
+ytdReturn§0.0052834
+beta3Year§0.84
+fundFamily§Invesco
+fundInceptionDate§1308182400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.1050322
+fiveYearAverageReturn§0.104818694
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Value with Mome
+longName§Invesco S&P 500 Value with Momentum ETF
+firstTradeDateEpochUtc§1308231000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d4ec2265-5a0b-3ab5-918a-0ae9b3e31871
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

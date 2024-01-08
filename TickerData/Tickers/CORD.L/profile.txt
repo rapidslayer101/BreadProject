@@ -1,0 +1,21 @@
+# reload+after+2024-01-21 09:36:01.694287
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CORDIANT DIGITAL INFRASTRUCTURE
+longName§Cordiant Digital Infrastructure Ord
+firstTradeDateEpochUtc§1613462400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§455af7dd-e3f9-354f-a6a6-62293e0e165d
+messageBoardId§finmb_702184838
+targetHighPrice§120.0
+targetLowPrice§112.0
+targetMeanPrice§116.0
+targetMedianPrice§116.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+trailingPegRatio§None

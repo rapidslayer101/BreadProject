@@ -1,0 +1,50 @@
+# reload+after+2024-01-24 00:28:03.609672
+address1§1830 Craig Park Court
+city§Saint Louis
+state§MO
+zip§63146
+country§United States
+phone§314 432 4700
+website§https://www.coreandmain.com
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§Core & Main, Inc. distributes water, wastewater, storm drainage, and fire protection products and related services to municipalities, private water companies, and professional contractors in the municipal, non-residential, and residential end markets in the United States. Its products portfolio include pipes, valves, hydrants, fittings, and other products and services; storm drainage products, such as corrugated piping systems, retention basins, inline drains, manholes, grates, geosynthetics, erosion control, and other related products; fire protection products, including fire protection pipes, and sprinkler heads and devices, as well as fabrication services; and meter products, such as smart meter products, meter accessories, installation, software, and other services. The company's specialty products and services are used in the maintenance, repair, replacement, and construction of water, wastewater, storm drainage, and fire protection infrastructure. Core & Main, Inc. was founded in 1874 and is headquartered in St. Louis, Missouri.
+fullTimeEmployees§4500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen O. LeClair', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2589431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John R. Schaller', 'age': 67, 'title': 'President', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1039805, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradford A. Cowles', 'age': 52, 'title': 'President', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 925988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark R. Witkowski', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1268379, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark G. Whittenburg', 'age': 56, 'title': 'General Counsel & Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1104660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie  Busbee', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robyn  Bradbury', 'title': 'Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jennifer  Noonan', 'title': 'Director of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Giles', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yvonne  Bland', 'title': 'Vice President of Sales & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.069
+priceToSalesTrailing12Months§1.2562124
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.42
+pegRatio§1.46
+exchange§NYQ
+quoteType§EQUITY
+shortName§Core & Main, Inc.
+longName§Core & Main, Inc.
+firstTradeDateEpochUtc§1626960600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§99af4b35-025e-3929-9910-44912bf9d2cb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§69.0
+targetLowPrice§28.0
+targetMeanPrice§44.31
+targetMedianPrice§42.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.429
+earningsGrowth§0.0
+grossMargins§0.2723
+ebitdaMargins§0.13562
+trailingPegRatio§None

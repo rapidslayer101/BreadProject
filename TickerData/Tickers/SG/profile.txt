@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 19:33:08.579482
+address1§3102 36th Street
+city§Los Angeles
+state§CA
+zip§90018
+country§United States
+phone§323 990 7040
+website§https://www.sweetgreen.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Sweetgreen, Inc., together with its subsidiaries, develops and operates fast-casual restaurants serving healthy foods prepared from seasonal and organic ingredients. The company also accepts orders through its online and mobile ordering platforms, as well as sells gift cards that can be redeemed in its restaurants. The company was founded in 2006 and is headquartered in Los Angeles, California.
+fullTimeEmployees§5952
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan  Neman', 'age': 37, 'title': 'Co-Founder, Chairman, President & CEO', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 350144, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas H. Jammet', 'age': 37, 'title': 'Co-Founder, Secretary, Chief Concept Officer & Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathaniel  Ru', 'age': 37, 'title': 'Co-Founder, Treasurer, Chief Brand Officer & Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitch  Reback', 'age': 68, 'title': 'Chief Financial Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 375144, 'exercisedValue': 0, 'unexercisedValue': 519863}, {'maxAge': 1, 'name': 'Ms. Wouleta  Ayele', 'age': 58, 'title': 'Chief Technology Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 554719, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rebecca  Nounou', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Kotick', 'title': 'VP & Head of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adrienne  Gemperle', 'age': 58, 'title': 'Chief People Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad  Brauze', 'title': 'Head of Culinary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy  Noonan', 'title': 'Senior Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.858
+priceToSalesTrailing12Months§2.1233873
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.55
+pegRatio§-0.61
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sweetgreen, Inc.
+longName§Sweetgreen, Inc.
+firstTradeDateEpochUtc§1637245800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0f177369-a3b7-3275-925a-b1b44db9f95f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§12.0
+targetMeanPrice§14.13
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§3.556
+grossMargins§0.16860001
+ebitdaMargins§-0.15794
+trailingPegRatio§None

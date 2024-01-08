@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 13:45:10.028779
+address1§131 Oyster Point Boulevard
+address2§Suite 300
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§650 443 7400
+website§https://www.harpoontx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Harpoon Therapeutics, Inc., a clinical-stage immunotherapy company, engages in the development of a novel class of T cell engagers that harness the power of the body's immune system to treat patients suffering from cancer and other diseases in the United States. The company develops tri-specific T cell activating construct (TriTAC) product candidate, including HPN328, which is in Phase I/II clinical trials for the treatment of small cell lung cancer and other Delta-like canonical Notch ligand 3-expressing tumors; and HPN217 that is in Phase I clinical trials for the treatment of multiple myeloma. Its preclinical stage product is HPN601 for the treatment of multiple solid tumor indications. It has a discovery collaboration and license agreement with AbbVie Biotechnology Ltd. to develop and commercialize products that incorporate its proprietary TriTAC platform technology together with soluble T cell receptors. The company was incorporated in 2015 and is headquartered in South San Francisco, California.
+fullTimeEmployees§53
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Julie M. Eastland M.B.A.', 'age': 59, 'title': 'President, CEO, Secretary & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 910774, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Luke N. Walker M.D.', 'age': 51, 'title': 'Chief Medical Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 424434, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Eric Faerm', 'age': 56, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chatan  Charan Ph.D.', 'title': 'Senior Vice President of Product Development, Technical & Manufacturing Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Chang', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Banmeet  Anand Ph.D.', 'title': 'Senior Vice President of Translational Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Haibo  Wang', 'title': 'Senior Vice President of Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.085
+priceToSalesTrailing12Months§4.7839046
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.07
+exchange§NCM
+quoteType§EQUITY
+shortName§Harpoon Therapeutics, Inc.
+longName§Harpoon Therapeutics, Inc.
+firstTradeDateEpochUtc§1549636200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9b4ae657-ab50-3a7b-a9b3-b8d505cda932
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§8.0
+targetMeanPrice§16.33
+targetMedianPrice§12.5
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.751
+grossMargins§-0.57015
+ebitdaMargins§-0.94931
+trailingPegRatio§None

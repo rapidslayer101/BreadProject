@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 13:27:40.253709
+address1§300 S. Riverside Plaza
+address2§Suite 1000
+city§Chicago
+state§IL
+zip§60606
+country§United States
+phone§312 601 5000
+fax§312 601 5755
+website§https://www.cars.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Cars.com Inc. operates as a digital marketplace and provides solutions for the automotive industry. Its platform connects car shoppers with sellers. The company, enable dealers and automotive manufacturers; connect sellers with ready-to-buy shoppers that provide financing tools with instant online loan screening and approvals; and empower shoppers with the resources and and digital tools needed to make car buying decisions. It also offers marketplace products, such as Marketplace subscription advertising; digital solutions, including website creation and platform hosting, vehicle acquisition and valuation, digital retailing, and review and reputation management; and media comprising display advertising, social selling, digital advertising, and in-market video services. As of December 31, 2022, the company served 19,506 dealer customers in 50 states, which included franchise and independent dealers, with digital and brick-and-mortar stores. Its customers are local car dealers, OEMs, and other national advertisers and lenders. Cars.com Inc. was founded in 1998 and is based in Chicago, Illinois.
+fullTimeEmployees§1700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. T. Alex Vetter', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1398700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Neal Miller', 'age': 52, 'title': 'President & Chief Commercial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 952200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonia  Jain', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 762868, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angelique  Strong Marks', 'age': 55, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 499524, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeanette  Tomy', 'age': 50, 'title': 'Executive Vice President of Finance and Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 819725, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Swislow', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitch  Golub', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Heidorn', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marita Hudson Thomas', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Vianello', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.1
+priceToSalesTrailing12Months§1.6767976
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.65
+pegRatio§0.5
+exchange§NYQ
+quoteType§EQUITY
+shortName§Cars.com Inc.
+longName§Cars.com Inc.
+firstTradeDateEpochUtc§1496323800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§24ade621-e4ef-3fd7-9cc6-c8c7bcd7efb1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.0
+targetLowPrice§17.5
+targetMeanPrice§23.36
+targetMedianPrice§25.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.278
+grossMargins§0.67883
+ebitdaMargins§0.23205
+trailingPegRatio§None

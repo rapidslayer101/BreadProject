@@ -1,0 +1,62 @@
+# reload+after+2024-01-23 14:26:14.183244
+address1§77 West Wacker Drive
+address2§Suite 4600
+city§Chicago
+state§IL
+zip§60601
+country§United States
+phone§312 634 8100
+website§https://www.adm.com
+industry§Farm Products
+industryKey§farm-products
+industryDisp§Farm Products
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Archer-Daniels-Midland Company procures, transports, stores, processes, and merchandises agricultural commodities, products, and ingredients in the United States, Switzerland, the Cayman Islands, Brazil, Mexico, Canada, the United Kingdom, and internationally. The company operates in three segments: Ag Services and Oilseeds, Carbohydrate Solutions, and Nutrition. It originates, merchandises, stores, and transports agricultural raw materials, such as oilseeds and soft seeds. The company also engages in the agricultural commodity and feed product import, export, and distribution; and structured trade finance activities. In addition, it offers vegetable oils and protein meals; ingredients for the food, feed, energy, and industrial customers; crude vegetable oils, salad oils, margarine, shortening, and other food products; and partially refined oils to produce biodiesel and glycols for use in chemicals, paints, and other industrial products. Further, the company provides peanuts, peanut-derived ingredients, and cotton cellulose pulp; sweeteners, corn and wheat starches, syrup, glucose, wheat flour, and dextrose; alcohol and other food and animal feed ingredients; ethyl alcohol and ethanol; corn gluten feed and meal; distillers' grains; and citric acids. Additionally, the company provides natural flavors, flavor systems, natural colors, proteins, emulsifiers, soluble fiber, polyols, hydrocolloids, probiotics, prebiotics, enzymes, and botanical extracts; and other specialty food and feed ingredients; edible beans; formula feeds, and animal health and nutrition products; and contract and private label pet treats and foods. It also offers futures commission merchant; commodity brokerage services; cash margins and securities pledged to commodity exchange clearinghouses; and cash pledged as security under certain insurance arrangements. The company was founded in 1902 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§40360
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Juan Ricardo Luciano', 'age': 62, 'title': 'Chairman, CEO & President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 7021919, 'exercisedValue': 44886648, 'unexercisedValue': 49593208}, {'maxAge': 1, 'name': 'Mr. Vikram  Luthar', 'age': 56, 'title': 'CFO & Senior VP', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2026922, 'exercisedValue': 1286625, 'unexercisedValue': 1692599}, {'maxAge': 1, 'name': 'Mr. Joseph Daniel Taets', 'age': 57, 'title': 'Senior VP & President of Asia Pacific (APAC)', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2461333, 'exercisedValue': 11249704, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Cuddy', 'age': 49, 'title': 'Senior VP & President of Carbohydrate Solutions', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1894592, 'exercisedValue': 4942996, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory A.  Morris', 'age': 51, 'title': 'Senior VP and President of Agricultural Services & Oilseeds', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2088139, 'exercisedValue': 5468889, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Dermot  O'Grady", 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Molly L. Strader Fruit', 'age': 43, 'title': 'VP & Corporate Controller', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristy J. Folkwein', 'age': 60, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nuria  Miquel', 'title': 'Senior VP & Chief Science Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan  Britt', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.8
+dividendYield§0.0254
+exDividendDate§1699920000
+payoutRatio§0.24340001
+fiveYearAvgDividendYield§2.61
+beta§0.783
+priceToSalesTrailing12Months§0.38978603
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.5
+pegRatio§-1.86
+lastDividendValue§0.45
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Archer-Daniels-Midland Company
+longName§Archer-Daniels-Midland Company
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6fb4f229-92a0-3164-b772-67fde5477248
+messageBoardId§finmb_251704
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§116.0
+targetLowPrice§75.0
+targetMeanPrice§90.62
+targetMedianPrice§90.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.438
+earningsGrowth§-0.169
+grossMargins§0.07776
+ebitdaMargins§0.05251
+trailingPegRatio§None

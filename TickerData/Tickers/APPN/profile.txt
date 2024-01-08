@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 13:43:23.626948
+address1§7950 Jones Branch Drive
+city§McLean
+state§VA
+zip§22102
+country§United States
+phone§703 442 8844
+website§https://www.appian.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Appian Corporation provides low-code process automation platform in the United States and internationally. The company's platform offers workflow, artificial intelligence, robotic process automation, data fabric, and process mining. It provides The Appian Platform, an integrated automation platform that enables organizations to design, automate, and optimize end-to-end processes and complex business operations. The company also offers professional and customer support services. It serves to financial services, government, life sciences, insurance, manufacturing, energy, healthcare, telecommunications, and transportation industries. The company was incorporated in 1999 and is headquartered in McLean, Virginia.
+fullTimeEmployees§2307
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew W. Calkins', 'age': 50, 'title': 'Founder, Chairman, CEO & President', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1027005, 'exercisedValue': 22372000, 'unexercisedValue': 33362684}, {'maxAge': 1, 'name': 'Mr. Robert C. Kramer', 'age': 48, 'title': 'Founder, GM & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 473048, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Matheos', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 772573, 'exercisedValue': 182910, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William D. McCarthy', 'age': 57, 'title': 'Acting COO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1193096, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Winters', 'age': 50, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1594144, 'exercisedValue': 83936, 'unexercisedValue': 2056}, {'maxAge': 1, 'name': 'Mr. Pavel  Zamudio-Ramirez', 'age': 56, 'title': 'Chief Customer Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1084101, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Wilson', 'age': 48, 'title': 'Founder & Chief Executive Ambassador', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 337667, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Beckley', 'age': 48, 'title': 'Founder & CTO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 335854, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Myles  Weber', 'age': 45, 'title': 'Chief Information Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Srinivas  Anantha C.F.A.', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.489
+priceToSalesTrailing12Months§4.6485634
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.6
+exchange§NGM
+quoteType§EQUITY
+shortName§Appian Corporation
+longName§Appian Corporation
+firstTradeDateEpochUtc§1495719000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§016a1021-0706-3a98-a04d-860e386c6c38
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§40.0
+targetMeanPrice§46.88
+targetMedianPrice§47.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.937
+grossMargins§0.7257
+ebitdaMargins§-0.23345
+trailingPegRatio§None

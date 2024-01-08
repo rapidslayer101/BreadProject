@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 20:45:39.798007
+address1§1200 Page Mill Road
+city§Palo Alto
+state§CA
+zip§94304
+country§United States
+phone§650 281 0850
+website§https://kodiak.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Kodiak Sciences Inc., a clinical stage biopharmaceutical company, researches, develops, and commercializes therapeutics to treat retinal diseases. Its lead product candidate is tarcocimab tedromer (KSI-301), an anti-vascular endothelial growth factor antibody biopolymer that is in Phase IIb/III clinical study to treat wet age-related macular degeneration (AMD), as well as Phase III clinical study for the treatment of diabetic macular edema, naïve macular edema due to retinal vein occlusion, and non-proliferative diabetic retinopathy. The company's preclinical stage product candidate includes KSI-501, a bispecific conjugate to treat retinal diseases with an inflammatory component; and KSI-601, a triplet biopolymer conjugate for the treatment of dry AMD. The company was formerly known as Oligasis, LLC and changed its name to Kodiak Sciences Inc. in September 2015. Kodiak Sciences Inc. was incorporated in 2009 and is based in Palo Alto, California.
+fullTimeEmployees§116
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Victor  Perlroth M.D.', 'age': 50, 'title': 'Co-Founder, Chairman, CEO & President', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1083676, 'exercisedValue': 0, 'unexercisedValue': 2904000}, {'maxAge': 1, 'name': 'Mr. John A. Borgeson CPA, M.B.A.', 'age': 61, 'title': 'Senior VP, CFO & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 667521, 'exercisedValue': 0, 'unexercisedValue': 898318}, {'maxAge': 1, 'name': 'Dr. Michael S. Louie Ph.D.', 'title': 'Senior VP of Digital Transformation & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hong  Liang', 'age': 51, 'title': 'Senior Vice President of Discovery Medicine', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 300709, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen  Raillard Ph.D.', 'title': 'Senior Vice President of Chemical Development & Manufacturing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Almas  Qudrat M.Sc.', 'title': 'Senior Vice President of Quality Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. J. Pablo Velazquez-Martin M.D.', 'title': 'Senior Vice President of Clinical Research & Translational Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tracy  Chien', 'title': 'VP & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.004
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.15
+pegRatio§-0.05
+exchange§NGM
+quoteType§EQUITY
+shortName§Kodiak Sciences Inc
+longName§Kodiak Sciences Inc.
+firstTradeDateEpochUtc§1538659800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§557800df-7007-3d0a-a42a-afe9fdcb28bd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§2.0
+targetMeanPrice§4.33
+targetMedianPrice§3.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§4.884
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

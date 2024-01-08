@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 09:46:43.264360
+address1§65 Yigal Alon Street
+city§Tel Aviv
+zip§6745442
+country§Israel
+phone§972 3 717 7050
+website§https://www.painreform.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§PainReform Ltd., a clinical stage specialty pharmaceutical company, engages in the development of therapeutics that provides an extended period of post-surgical pain relief in Israel. The company engages in developing PRF-110, a viscous clear oil-based solution that is instilled directly into the surgical wound to provide localized and extended post-operative analgesia. It is currently conducting Phase 3 clinical trials of PRF-110 for the treatment of patients undergoing bunionectomy surgery and hernia repair. The company was incorporated in 2007 and is based in Tel Aviv, Israel.
+fullTimeEmployees§6
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ehud  Geller Ph.D.', 'title': 'Executive Chairman', 'fiscalYear': 2022, 'totalPay': 150000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ilan  Hadar M.B.A.', 'age': 54, 'title': 'CEO & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 457000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sigal  Aviel', 'age': 59, 'title': 'Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 329000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Eli  Hazum Ph.D.', 'title': 'CTO & Director', 'fiscalYear': 2022, 'totalPay': 144000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rita  Keynan', 'age': 54, 'title': 'Vice President of Pharmaceutical Operations', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 315000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stephen A. Cooper D.M.D Ph.D.', 'title': 'Executive Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.546
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.07
+exchange§NCM
+quoteType§EQUITY
+shortName§PainReform Ltd.
+longName§PainReform Ltd.
+firstTradeDateEpochUtc§1598967000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cdbb035d-94d1-3758-931b-64e3020464de
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§11.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§7.836
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

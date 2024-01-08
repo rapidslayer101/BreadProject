@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 01:40:12.803859
+address1§Maker Chambers IV
+address2§3rd Floor 222 Nariman Point
+city§Mumbai
+zip§400021
+country§India
+phone§91 22 3555 5000
+fax§91 22 2204 2268
+website§https://www.ril.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§Reliance Industries Limited engages in hydrocarbon exploration and production, oil and chemicals, textile, retail, digital, material and composites, renewables, and financial services businesses worldwide. The company produces and markets petroleum products, such as liquefied petroleum gas, propylene, naphtha, gasoline, jet/aviation turbine fuel, kerosene oil, diesel, Sulphur, and petroleum coke. It also provides petrochemicals, including high-density and low-density polyethylene (PE), linear low density PE, polyester fibers and yarns, polypropylene, polyvinyl chloride, purified terephthalic acid, ethylene glycols and oxide, paraxylene, ortho xylene, benzene, linear alkyl benzene and paraffin, poly butadiene rubber, styrene butadiene rubber, butyl rubber, and polyethylene terephthalate. In addition, the company manufactures and markets yarns, fabrics, apparel, and auto furnishings; explores, develops, and produces crude oil and natural gas; and operates various stores comprising neighborhood, supermarket, hypermarket, wholesale cash and carry, specialty, online stores, as well as stores that offer apparel, beauty and cosmetics, accessories, footwear, consumer electronics, connectivity products, and others. Further, the company provides range of digital services under the Jio brand name; and non-banking financial and insurance broking services. Additionally, it operates news and entertainment platforms, and Network18 and television channels; publishes magazines; and offers highway hospitality and fleet management services. Reliance Industries Limited was incorporated in 1973 and is based in Mumbai, India.
+fullTimeEmployees§389414
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mukesh Dhirubhai Ambani', 'age': 66, 'title': 'Chairman & MD', 'yearBorn': 1957, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Srikanth  Venkatachari', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Savithri  Parekh', 'title': 'Company Secretary & Compliance Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nikhil Rasiklal Meswani', 'age': 57, 'title': 'Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 3003250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hital Rasiklal Meswani', 'age': 55, 'title': 'Executive Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 3003250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Panda Madhusudana Siva Prasad', 'age': 71, 'title': 'Executive Director', 'yearBorn': 1952, 'fiscalYear': 2023, 'totalPay': 1621755, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Parul  Sharma', 'title': 'Group President', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jyotindra Hiralal Thacker', 'title': 'President of Technology', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hemen Kanu Modi', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rohit  Bansal', 'title': 'Group Head of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.22
+dividendYield§0.0034
+exDividendDate§1692230400
+payoutRatio§0.088
+fiveYearAvgDividendYield§0.45
+beta§0.651
+priceToSalesTrailing12Months§0.024155855
+currency§USD
+forwardEps§3.06
+pegRatio§13.92
+exchange§LSE
+quoteType§EQUITY
+longName§Reliance Industries Limited
+firstTradeDateEpochUtc§1149231600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§c7b50554-275e-33ad-ba2c-e06bf9844289
+targetHighPrice§91.2
+targetLowPrice§60.15
+targetMeanPrice§72.1
+targetMedianPrice§68.53
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.556
+earningsGrowth§0.274
+grossMargins§0.34747002
+ebitdaMargins§0.17099
+trailingPegRatio§None

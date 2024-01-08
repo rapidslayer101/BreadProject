@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 14:36:03.417094
+address1§1000 Lakeside North Harbour
+address2§Western Road
+city§Portsmouth
+zip§PO6 3EN
+country§United Kingdom
+phone§44 23 9281 9059
+website§https://ct-automotive.net
+industry§Auto Parts
+industryKey§auto-parts
+industryDisp§Auto Parts
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§CT Automotive Group plc designs, develops, engineers, manufactures, and supplies interior components and kinematic assemblies for the automotive industry. The company offers decorative finishes, air registers, arm rests, deployable cup holders, storage systems, wrapped assemblies, mechanical assemblies, light guides, dashboard panels, fascia finishes, and HVAC doors and assemblies, as well as related tooling products. It serves automotive original equipment suppliers and tier-one manufacturers in the United Kingdom, Europe, the United States, and Japan. The company was founded in 2000 and is headquartered in Portsmouth, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Simon Brian Phillips', 'age': 53, 'title': 'Founder, CEO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Brown', 'age': 51, 'title': 'CFO & Executive Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  McKenzie', 'age': 46, 'title': 'Chief Operating Officer of Sales & Product Development', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.009
+priceToSalesTrailing12Months§0.37271076
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CT AUTOMOTIVE GROUP PLC ORD GBP
+longName§CT Automotive Group plc
+firstTradeDateEpochUtc§1640246400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§64d817de-cc9c-39f9-8cd9-a57c83da8e4f
+messageBoardId§finmb_434328576
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§0.523
+grossMargins§0.16038
+ebitdaMargins§-0.029979998
+trailingPegRatio§None

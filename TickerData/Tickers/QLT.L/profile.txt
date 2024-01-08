@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 06:40:10.078817
+address1§Senator House
+address2§85 Queen Victoria Street
+city§London
+zip§EC4V 4AB
+country§United Kingdom
+website§https://www.quilter.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Quilter plc provides advice-led investment solutions and investment administration services in the United Kingdom and internationally. It operates through High Net Worth and Affluent segments. The High Net Worth segment provides discretionary investment management services to high-net worth customers, charities, companies, and institutions through a network of branches; and financial advice services for protection, mortgages, savings, investment, and pensions primarily to high net worth clients. Its Affluent segment comprises Quilter Investment Platform, an investment platform for advice-based wealth management products and services; Quilter Investor, which offers investment solutions in the form of funds for the group and third-party clients; and Quilter Financial planning, a restricted and independent financial adviser network that provides mortgage and financial planning advice, and solution for individuals and business through a network of intermediaries. The company was incorporated in 2007 and is based in London, the United Kingdom.
+fullTimeEmployees§3005
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven  Levin', 'age': 48, 'title': 'CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 674900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Oscar Satchel', 'age': 54, 'title': 'CFO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 919600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karin Alexandra Cook', 'age': 57, 'title': 'Chief Operating Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John-Paul  Crutchley', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Stephen Lee-Crossett CPA, J.D.', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kathleen  Gallagher', 'title': 'Corporate Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Penny  Cole', 'title': 'Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Kenny', 'title': 'CEO of Quilter International', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Sacre-Hardy', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Gazard', 'title': 'Chief Distribution Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.0477
+exDividendDate§1693440000
+payoutRatio§1.7308
+beta§1.077
+priceToSalesTrailing12Months§0.5651601
+currency§GBp
+forwardEps§7.47
+exchange§LSE
+quoteType§EQUITY
+shortName§QUILTER PLC ORD 8 1/6P
+longName§Quilter plc
+firstTradeDateEpochUtc§1529910000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2e1308e9-a6dc-37ca-a1e5-fc27da21224b
+targetHighPrice§158.0
+targetLowPrice§76.0
+targetMeanPrice§108.12
+targetMedianPrice§100.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§0.052
+earningsGrowth§-0.962
+grossMargins§0.38215
+ebitdaMargins§0.060689997
+trailingPegRatio§None

@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 21:44:19.111938
+address1§200 Connell Drive
+address2§Suite 1500
+city§Berkeley Heights
+state§NJ
+zip§07922
+country§United States
+phone§908 517 7330
+fax§866 271 3466
+website§https://www.cyclacel.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cyclacel Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, develops medicines for the treatment of cancer and other proliferative diseases. The company's lead product includes fadraciclib, a cyclin dependent kinase Inhibitors (CDK) that is in Phase 1/2 clinical trial for the treatment of solid tumors, as well as in combination with venetoclax to treat relapsed or refractory chronic lymphocytic leukemia; and Plogosertib, a polo-like kinase inhibitor program, which is in Phase 1/2 clinical trial for the treatment of advanced leukemias and solid tumors. It has a clinical collaboration agreement with the University of Texas MD Anderson Cancer Center to clinically evaluate the safety and efficacy of three cyclacel medicines in patients with hematological malignancies, including chronic lymphocytic leukemias, acute myeloid leukemias, myelodysplastic syndromes, and other advanced leukemias. The company was founded in 1996 and is headquartered in Berkeley Heights, New Jersey.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Spiro George Rombotis', 'age': 64, 'title': 'President, CEO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 763551, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  McBarron', 'age': 62, 'title': 'Executive VP of Finance, CFO, COO, Secretary & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 394675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark H. Kirschbaum M.D.', 'age': 62, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 523843, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gill  Christie', 'age': 66, 'title': 'Director of Human Resources', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0377
+exDividendDate§1697673600
+fiveYearAvgDividendYield§8.54
+beta§0.655
+priceToSalesTrailing12Months§77.72075
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Cyclacel Pharmaceuticals, Inc. 
+longName§Cyclacel Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1133361000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§30e2be38-8d7d-375a-841a-72cfbb0be0a4
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.04
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

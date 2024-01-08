@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 08:29:39.860722
+address1§1290 Avenue of the Americas
+city§New York
+state§NY
+zip§10104
+country§United States
+phone§212 672 0055
+website§https://www.fubo.tv
+industry§Broadcasting
+sector§Communication Services
+longBusinessSummary§fuboTV Inc. operates a live TV streaming platform for live sports, news, and entertainment content in the United States and internationally. Its fuboTV platform allows customers to access content through streaming devices, as well as on SmartTVs, computers, mobile phones, and tablets. The company is headquartered in New York, New York.
+fullTimeEmployees§510
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edgar Miles Bronfman Jr.', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 95000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Gandler', 'age': 48, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1127221, 'exercisedValue': 1137092, 'unexercisedValue': 1065396}, {'maxAge': 1, 'name': 'Mr. Alberto Horihuela Suarez', 'age': 35, 'title': 'Co-Founder & COO', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 631475, 'exercisedValue': 22220, 'unexercisedValue': 431217}, {'maxAge': 1, 'name': 'Mr. John  Janedis C.F.A.', 'age': 52, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 660906, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry  Ahn', 'age': 60, 'title': 'Chief Business Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 469604, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sung Ho Choi', 'title': 'Co-Founder & Head of Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geir  Magnusson Jr.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Sternberg', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gina DiGioia Sheldon Esq.', 'title': 'Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Berkley', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.407
+priceToSalesTrailing12Months§0.6716371
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.8
+exchange§NYQ
+quoteType§EQUITY
+shortName§fuboTV Inc.
+longName§fuboTV Inc.
+firstTradeDateEpochUtc§1553693400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§af425195-3c31-3229-811c-bc89e2f9c1b5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§3.0
+targetMeanPrice§3.65
+targetMedianPrice§3.25
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.714
+grossMargins§0.038340002
+ebitdaMargins§-0.21587
+trailingPegRatio§None

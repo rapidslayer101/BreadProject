@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 09:46:41.981710
+address1§4 Oppenheimer Street
+address2§Science Park
+city§Rehovot
+zip§7670104
+country§Israel
+phone§972 3 933 3121
+fax§972 3 509 7196
+website§https://purple-biotech.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Purple Biotech Ltd., a clinical-stage company, focuses on developing therapies to overcome tumor immune evasion and drug resistance for cancer patients in the United States. Its oncology pipeline includes CM24, a humanized monoclonal antibody that blocks carcinoembryonic antigen related cell adhesion molecule 1 as a combination therapy with anti-PD-1 checkpoint inhibitors, which is in Phase 2 clinical trial for the treatment of pancreatic ductal adenocarcinoma; NT219, a small molecule that targets and inhibits insulin receptor substrate 1 and 2, and signal transducer and activator of transcription, which is in Phase 1/2 clinical trials for the treatment recurrent and/or metastatic squamous cell carcinoma of the head and neck cancer or colorectal adenocarcinoma; and IM1240, a multi-valent antibody designed to activate anti-tumoral immune response against 5T4-positive tumors, which is in preclinical stage. The company has collaboration agreement with Bristol Myers Squibb Company for the Phase 2 clinical trials to evaluate the combination of CM24 with the PD-1 inhibitor nivolumab in addition to chemotherapy; and Mor Research Applications. The company was formerly known as Kitov Pharma Ltd and changed its name to Purple Biotech Ltd. in December 2020. The company is headquartered in Rehovot, Israel.
+fullTimeEmployees§20
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gil  Efron CPA, M.A.', 'age': 57, 'title': 'Chief Executive Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 455435, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Schickler Ph.D.', 'age': 65, 'title': 'Head of Clinical & Regulatory Affairs', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 264977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lior  Fhima CPA, M.B.A.', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ido  Morpurgo B.Sc., L.L.M.', 'age': 49, 'title': 'Vice President of Operations', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.874
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.55
+exchange§NCM
+quoteType§EQUITY
+shortName§Purple Biotech Ltd.
+longName§Purple Biotech Ltd.
+firstTradeDateEpochUtc§1448029800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3ba4046c-0296-3de9-abd8-80be3869397f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§8.0
+targetMeanPrice§9.67
+targetMedianPrice§10.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§2.586
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

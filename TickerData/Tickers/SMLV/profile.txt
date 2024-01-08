@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 08:33:16.449224
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is designed to measure the performance of the stocks of U.S. small capitalization companies that exhibit low volatility. Volatility is a statistical measurement of the magnitude of movements in a stock's price over time.
+maxAge§86400
+priceHint§2
+yield§0.026800001
+totalAssets§187701440
+navPrice§108.94084
+currency§USD
+category§Small Blend
+ytdReturn§-0.0315064
+beta3Year§0.81
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1361318400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0727579
+fiveYearAverageReturn§0.0797314
+exchange§PCX
+quoteType§ETF
+shortName§SPDR SSGA US Small Cap Low Vola
+longName§SPDR SSGA US Small Cap Low Volatility Index ETF
+firstTradeDateEpochUtc§1361457000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c40dc1ee-42fb-3950-ae4a-21e623dc56f6
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

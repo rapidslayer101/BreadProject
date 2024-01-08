@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 19:45:27.046908
+address1§Three Columbus Circle
+address2§15th Floor
+city§New York
+state§NY
+zip§10019
+country§United States
+phone§646 427 2727
+website§https://indaptusrx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Indaptus Therapeutics, Inc., a clinical biotechnology company, develops various anti-cancer and anti-viral immunotherapy products. Its lead clinical candidate is Decoy20 used to produce single agent activity and/or combination therapy-based durable responses of lymphoma, hepatocellular, colorectal, and pancreatic tumors, as well as chronic hepatitis B virus and human immunodeficiency virus infection, which is in Phase 2 clinical trial. The company was formerly known as Intec Parent, Inc. and changed its name to Indaptus Therapeutics, Inc. in August 2021. Indaptus Therapeutics, Inc. is headquartered in New York, New York.
+fullTimeEmployees§6
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey A. Meckler', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 888322, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Walt Addison Linscott Esq.', 'age': 62, 'title': 'Chief Operating Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 666630, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael J. Newman Ph.D.', 'age': 67, 'title': 'Founder, Chief Scientific Officer & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 468821, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nir  Sassi', 'age': 47, 'title': 'CFO, Secretary & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 378467, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Roger J. Waltzman M.B.A., M.D.', 'age': 55, 'title': 'Chief Medical Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.047
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.73
+exchange§NCM
+quoteType§EQUITY
+shortName§Indaptus Therapeutics, Inc.
+longName§Indaptus Therapeutics, Inc.
+firstTradeDateEpochUtc§1438695000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a1d498dc-072a-31b7-a80f-484137d2b2e5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§8.0
+targetMeanPrice§10.0
+targetMedianPrice§10.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§6.75
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

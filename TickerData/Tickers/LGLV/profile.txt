@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 07:31:04.871887
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is designed to measure the performance of the stocks of U.S. large capitalization companies that exhibit low volatility. Volatility is a statistical measurement of the magnitude of movements in a stock's price over time.
+maxAge§86400
+priceHint§2
+yield§0.020299999
+totalAssets§755529216
+navPrice§144.22595
+currency§USD
+category§Large Blend
+ytdReturn§-0.005241
+beta3Year§0.83
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1361318400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.09206919
+fiveYearAverageReturn§0.1242425
+exchange§PCX
+quoteType§ETF
+shortName§SPDR SSGA US Large Cap Low Vola
+longName§SPDR SSGA US Large Cap Low Volatility Index ETF
+firstTradeDateEpochUtc§1361457000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3f3c6ab9-9a76-377f-92d4-da13ecf415c8
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

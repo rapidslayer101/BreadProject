@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 06:34:00.085016
+address1§UnitedHealth Group Center
+address2§9900 Bren Road East
+city§Minnetonka
+state§MN
+zip§55343
+country§United States
+phone§952 936 1300
+website§https://www.unitedhealthgroup.com
+industry§Healthcare Plans
+sector§Healthcare
+longBusinessSummary§UnitedHealth Group Incorporated operates as a diversified health care company in the United States. It operates through four segments: UnitedHealthcare, Optum Health, Optum Insight, and Optum Rx. The UnitedHealthcare segment offers consumer-oriented health benefit plans and services for national employers, public sector employers, mid-sized employers, small businesses, and individuals; health care coverage, and health and well-being services to individuals age 50 and older addressing their needs; Medicaid plans, children's health insurance and health care programs; and health and dental benefits, and hospital and clinical services, as well as health care benefits products and services to state programs caring for the economically disadvantaged, medically underserved, and  those without the benefit of employer-funded health care coverage. The OptumHealth segment provides care delivery, care management, wellness and consumer engagement, and health financial services for consumers, care delivery systems, providers, employers, payers, and public-sector entities. The OptumInsight segment offers software and information products, advisory consulting arrangements, and managed services outsourcing contracts to hospital systems, physicians, health plans, governments, life sciences companies, and other organizations. The OptumRx segment provides pharmacy care services and programs, including retail network contracting, home delivery, specialty and community health pharmacy services, and purchasing and clinical capabilities, as well as develops programs in the areas of step therapy, formulary management, drug adherence, and disease/drug therapy management. UnitedHealth Group Incorporated was incorporated in 1977 and is based in Minnetonka, Minnesota.
+fullTimeEmployees§400000
+companyOfficers§[{'maxAge': 1, 'name': 'Sir Andrew Philip Witty', 'age': 58, 'title': 'CEO & Non-Independent Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4364334, 'exercisedValue': 0, 'unexercisedValue': 25645708}, {'maxAge': 1, 'name': 'Mr. Dirk C. McMahon', 'age': 63, 'title': 'President & COO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 3432099, 'exercisedValue': 0, 'unexercisedValue': 65918272}, {'maxAge': 1, 'name': 'Mr. John F. Rex', 'age': 61, 'title': 'Executive VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 3432099, 'exercisedValue': 20996852, 'unexercisedValue': 85664928}, {'maxAge': 1, 'name': 'Mr. Rupert  Bondy', 'age': 61, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 4315947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Robert Thompson', 'title': 'Executive VP & CEO of UnitedHealthcare', 'fiscalYear': 2022, 'totalPay': 2859184, 'exercisedValue': 0, 'unexercisedValue': 18846174}, {'maxAge': 1, 'name': 'Mr. Thomas Edward Roos', 'age': 50, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sandeep  Dadlani', 'age': 48, 'title': 'Executive VP and Chief Digital & Technology Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zachary William Sopcak', 'title': 'Senior Vice President of Capital Markets Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer Mound Smoter', 'title': 'Senior VP & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James T. Barry Jr.', 'age': 77, 'title': 'Director of Sales for Western Pennsylvania', 'yearBorn': 1946, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§7.52
+dividendYield§0.0139999995
+exDividendDate§1701388800
+payoutRatio§0.3064
+fiveYearAvgDividendYield§1.36
+beta§0.564
+priceToSalesTrailing12Months§1.3807251
+currency§USD
+dateShortInterest§1702598400
+forwardEps§27.9
+pegRatio§1.72
+exchange§NYQ
+quoteType§EQUITY
+shortName§UnitedHealth Group Incorporated
+longName§UnitedHealth Group Incorporated
+firstTradeDateEpochUtc§466867800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§33ae4437-560d-3a42-9aa4-234d48c993c5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§675.0
+targetLowPrice§480.0
+targetMeanPrice§595.7
+targetMedianPrice§600.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§0.723
+earningsGrowth§0.124
+grossMargins§0.24956
+ebitdaMargins§0.09595
+trailingPegRatio§1.4864

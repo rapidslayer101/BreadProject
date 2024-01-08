@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 16:27:17.704552
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240231/blackrock-virginia-municipal-bond-trust-usd-fund
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Blackrock Virginia Municipal Bond Trust is a closed-ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets of United States. It primarily invests in the investment grade municipal bonds exempt from federal income taxes and Virginia personal income taxes. Blackrock Virginia Municipal Bond Trust was formed on April 25, 2002 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti- Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip  Soccio C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Maloney C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.47
+dividendYield§0.0434
+exDividendDate§1704931200
+payoutRatio§0.6067
+fiveYearAvgDividendYield§3.68
+beta§0.726
+priceToSalesTrailing12Months§12.799008
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.04
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+shortName§BlackRock Virginia Municipal Bo
+longName§BlackRock Virginia Municipal Bond Trust
+firstTradeDateEpochUtc§1019827800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§701b0a9b-d769-30c9-9909-3b8e2518808d
+messageBoardId§finmb_3604493
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.085
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

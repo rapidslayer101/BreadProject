@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 17:33:46.499930
+address1§401 Park Drive
+address2§Suite 801
+city§Boston
+state§MA
+zip§02215
+country§United States
+phone§617 297 1005
+website§https://www.pos.toasttab.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Toast, Inc. operates a cloud-based digital technology platform for the restaurant industry in the United States and Ireland. The company offers Toast POS, a software module that integrates payment processing with point of sale functionality; Toast Invoicing that allows restaurants to send invoices and collect payment; Toast Mobile Order & Pay, which allows guests to scan a QR code to browse the menu, order, and pay from mobile; Kitchen Display System software that connects the house with the kitchen staff; and Multi-Location Management, a tool to manage operations and configure menus across multiple locations and channels. It also provides Toast Flex, an hardware for on-counter order and pay; Toast Go, an integrated handheld POS device; Toast Tap, a card reader for accepting EMV-contactless payments; Toast Online Ordering & Toast TakeOut, an online ordering and consumer Toast TakeOut application; First-Party Delivery, a toast delivery service; POS integration for restaurants using third-party delivery services to order intake and eliminate the need for extra third-party tablets; and loyalty, email marketing, and Toast Gift Cards services. In addition, the company offers Payroll & Team Management solution for employee performance and satisfaction; Employee management tools, such as Sling for Toast that provide streamlined scheduling and team communication; Toast Pay Card & PayOut, which offers eligible workers instant access to a portion of their tips and wages; and Tips Manager solution that automates the tip-pooling process. Further, it provides xtraCHEF a suite of back-office tools, such as accounts payable automation, inventory management, ingredient price tracker, and recipe costing for restaurants; Payment Processing, capital funding, and purchase financing solutions; insights and reporting on real-time sales, menu, and labor data; Toast Partner Connect, a portal that allows customers to discover, select, and connect their restaurant to partners; and a suite of bi-directional application programming interfaces. The company was formerly known as Opti Systems, Inc. and changed its name to Toast, Inc. in 2012. Toast, Inc. was incorporated in 2011 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§4500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Aman  Narang', 'age': 39, 'title': 'Co-Founder, CEO, Co-President, COO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 51250588}, {'maxAge': 1, 'name': 'Mr. Stephen  Fredette', 'age': 39, 'title': 'Co-Founder, Co-President & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 245087}, {'maxAge': 1, 'name': 'Mr. Jonathan  Grimm', 'age': 37, 'title': 'Co-Founder & CTO of Toast.org', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 30000, 'exercisedValue': 0, 'unexercisedValue': 23786088}, {'maxAge': 1, 'name': 'Ms. Elena  Gomez', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 754060, 'exercisedValue': 0, 'unexercisedValue': 5235236}, {'maxAge': 1, 'name': 'Mr. Brian R. Elworthy', 'age': 42, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 529236, 'exercisedValue': 350100, 'unexercisedValue': 12980867}, {'maxAge': 1, 'name': 'Mr. James Michael Matlock', 'title': 'Chief Accounting Officer & Principal Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah J. Chrapaty', 'age': 62, 'title': 'Chief Technology Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alice Kousoum Lopatto', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen  DeVincent-Reinbold', 'title': 'Senior PR & Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Hamilton', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.657
+priceToSalesTrailing12Months§2.6642451
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.28
+pegRatio§6.06
+exchange§NYQ
+quoteType§EQUITY
+shortName§Toast, Inc.
+longName§Toast, Inc.
+firstTradeDateEpochUtc§1632317400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ffc075f4-294d-3f60-be70-b49852bcb40e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§12.0
+targetMeanPrice§18.92
+targetMedianPrice§19.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§1.96
+grossMargins§0.21435
+ebitdaMargins§-0.087019995
+trailingPegRatio§None

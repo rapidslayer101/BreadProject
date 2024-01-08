@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 05:44:23.450778
+address1§4949 Hedgcoxe Road
+address2§Suite 200
+city§Plano
+state§TX
+zip§75024
+country§United States
+phone§972 987 3900
+fax§972 731 3510
+website§https://www.diodes.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§Diodes Incorporated engages in the manufacture and supply of application-specific standard products in the broad discrete, logic, analog, and mixed-signal semiconductor markets worldwide. The company offers discrete semiconductor products, such as MOSFET, TVS, and performance Schottky rectifiers; GPP bridges and rectifiers, and performance Schottky diodes; performance Zener diodes, including tight tolerance and low operating current type; standard, fast, super-fast, and ultra-fast recovery rectifiers; bridge rectifiers; switching diodes; small signal bipolar and prebiased transistors; thyristor surge protection devices; and transient voltage suppressors. It also provides analog products, such as power management devices comprising AC-DC and DC-DC converters, USB power switches, and low dropout and linear voltage regulators; linear devices comprising operational amplifiers and comparators, current monitors, voltage references, and reset generators; LED lighting drivers; audio amplifiers; and sensor products, including hall-effect sensors and motor drivers. In addition, the company offers mixed-signal products, such as high speed mux/demux products, digital switches, interfaces, redrivers, universal level shifters/voltage translators, clock ICs, and packet switches; standard logic products comprising low-voltage complementary metaloxidesemiconductor (CMOS) and high-speed CMOS devices; ultra-low power CMOS logic products and analog switches; multichip products and co-packaged discrete products, analog, and mixed-signal silicon in miniature packages; silicon and silicon epitaxial wafers; and frequency control products provides frequency references comprising crystals and crystal oscillators. It servs the industrial, automotive, computing, communications, and consumer markets through direct sales, marketing personnel, independent sales representatives, and distributors. The company was incorporated in 1959 and is headquartered in Plano, Texas.
+fullTimeEmployees§8257
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Keh-Shew  Lu Ph.D.', 'age': 76, 'title': 'Chairman, CEO & President', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 2795136, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett R. Whitmire', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 834539, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Yu', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 896874, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis  Tang', 'age': 68, 'title': 'Senior Vice President of Worldwide Discrete Products', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 1042501, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gurmeet  Dhaliwal', 'title': 'Director of Investor Relations & Corporate Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheana  Chen', 'title': 'VP, General Counsel and Corporate Compliance Officer & Sustainability Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily  Yang', 'age': 54, 'title': 'Senior Vice President of Worldwide Sales & Marketing', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 627645, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim  Monaghan', 'title': 'President of Europe', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo Ting Tsong', 'age': 55, 'title': 'President of Asia Pacific Region', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jin  Zhao', 'age': 54, 'title': 'Senior Vice President of Worldwide Analog Products', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.468
+priceToSalesTrailing12Months§1.8410305
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.26
+pegRatio§1.04
+exchange§NMS
+quoteType§EQUITY
+shortName§Diodes Incorporated
+longName§Diodes Incorporated
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1887ba9c-eaf2-3c99-b47c-b82c4305f2b3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§93.0
+targetLowPrice§56.0
+targetMeanPrice§71.2
+targetMedianPrice§70.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.733
+earningsGrowth§-0.441
+grossMargins§0.4097
+ebitdaMargins§0.25190002
+trailingPegRatio§None

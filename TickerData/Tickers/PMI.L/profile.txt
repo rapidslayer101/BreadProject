@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 18:40:07.792746
+address1§Eastgate Court
+address2§High Street
+city§Guildford
+zip§GU1 3DE
+country§United Kingdom
+phone§0333 456 4560
+website§https://www.premiermiton.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Premier Miton Group plc is a publicly owned investment manager. The firm invests in public equity and fixed income markets across the globe. Premier Miton Group plc was formerly known as Premier Asset Management Group Plc. Premier Miton Group plc was founded in November 2019 and is based in Surrey, United Kingdom.
+fullTimeEmployees§163
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Michael Patrick O'Shea CFA", 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 798000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Piers Godfrey Harrison', 'age': 44, 'title': 'CFO & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 401000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Birrell', 'title': 'CIO & Fund Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helene  Winch', 'title': 'Head of Responsible Investing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lloyd  Harris', 'title': 'Head of Fixed Income', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gervais Peter Englesbe Williams', 'age': 64, 'title': 'Head of Equities', 'yearBorn': 1959, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos  Moreno', 'title': 'Head of European Equities', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catriona Ann Fletcher', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.06
+dividendYield§0.0923
+exDividendDate§1705536000
+payoutRatio§3.9573998
+fiveYearAvgDividendYield§7.78
+beta§1.26
+priceToSalesTrailing12Months§1.4416271
+currency§GBp
+forwardEps§7.65
+exchange§LSE
+quoteType§EQUITY
+shortName§PREMIER MITON GROUP PLC ORD 0.0
+longName§Premier Miton Group plc
+firstTradeDateEpochUtc§1475823600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§dbb53149-d64f-3133-882b-79880798851d
+targetHighPrice§100.0
+targetLowPrice§68.0
+targetMeanPrice§83.25
+targetMedianPrice§82.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.254
+earningsGrowth§-0.46
+grossMargins§1.0
+ebitdaMargins§0.16724001
+trailingPegRatio§None

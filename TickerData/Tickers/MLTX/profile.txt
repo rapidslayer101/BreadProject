@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 01:46:03.140823
+address1§Dorfstrasse 29
+city§Zug
+zip§6300
+country§Switzerland
+phone§41 415108022
+website§https://www.moonlaketx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§MoonLake Immunotherapeutics, a clinical-stage biopharmaceutical company, engages in developing therapies. It is developing Sonelokimab, a novel investigational Nanobody for the treatment of inflammation diseases. The company is involved in conducting Phase II trials for hidradenitis suppurativa, psoriatic arthritis, ankylosing spondylitis, or axial spondyloarthritis. MoonLake Immunotherapeutics was incorporated in 2021 and is headquartered in Zug, Switzerland.
+fullTimeEmployees§20
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jorge Santos da Silva', 'age': 45, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1114564, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kristian  Reich', 'age': 57, 'title': 'Co-Founder & Chief Scientific Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1202939, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthias  Bodenstedt', 'age': 35, 'title': 'Chief Financial Officer', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 588245, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Daltrop', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicolas  Mosimann', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Annett  Zippel', 'title': 'Director of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nuala  Brennan', 'title': 'Chief Clinical Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.304
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.28
+exchange§NCM
+quoteType§EQUITY
+shortName§MoonLake Immunotherapeutics
+longName§MoonLake Immunotherapeutics
+firstTradeDateEpochUtc§1603200600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e27878d5-f881-3e1b-8a06-8dc9330a65f3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§92.0
+targetLowPrice§40.0
+targetMeanPrice§69.25
+targetMedianPrice§71.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§48.186
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

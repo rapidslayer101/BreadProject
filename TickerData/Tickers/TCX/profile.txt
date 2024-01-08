@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 12:47:31.473100
+address1§96 Mowat Avenue
+city§Toronto
+state§ON
+zip§M6K 3M1
+country§Canada
+phone§416 535 0123
+website§https://www.tucows.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Tucows Inc. provides network access, domain name registration, email, mobile telephony, and other Internet services in Canada, the United States, and Europe. It operates through three segments: Ting, Wavelo and Tucows Domains. The Ting segment provides fiber and fixed wireless internet services. The Wavelo segment offers individual developer tools, subscription, billing management, network orchestration, and provisioning services. This segment also provides billing solutions under Platypus brand. The Tucows Domains segment offers name registration and value added services under OpenSRS, eNom, Ascio, EPAG and Hover brands. The company was formerly known as Infonautics, Inc. and changed its name to Tucows Inc. in August 2001. Tucows Inc. was incorporated in 1992 and is headquartered in Toronto, Canada.
+fullTimeEmployees§1020
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Elliot  Noss', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1186179, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Davinder  Singh C.A., CPA', 'age': 48, 'title': 'CFO, Executive VP & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 583275, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bret  Fausett', 'age': 59, 'title': 'Chief Legal Officer & General Counsel', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 480178, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Woroch', 'age': 60, 'title': 'Chief Executive Officer of Tucows Domains Services', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 433562, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Reilly', 'age': 35, 'title': 'Chief Executive Officer of Wavelo', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 3160929, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Alan Koenig', 'age': 38, 'title': 'Chief Operating Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monica  Webb', 'title': 'Senior Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Madeleine  Stoesser', 'title': 'PR & Corporate Communications Lead', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenn  Didine', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Cooperman', 'age': 72, 'title': 'Senior Advisor', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 320005, 'exercisedValue': 249690, 'unexercisedValue': 515504}]
+auditRisk§8
+boardRisk§4
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.072
+priceToSalesTrailing12Months§0.7830489
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.94
+exchange§NCM
+quoteType§EQUITY
+shortName§Tucows Inc.
+longName§Tucows Inc.
+firstTradeDateEpochUtc§830871000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c2f942e2-6d8f-3dff-87fb-9814b1630e80
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.736
+grossMargins§0.32119998
+ebitdaMargins§-0.03316
+trailingPegRatio§None

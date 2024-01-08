@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 06:44:51.015873
+address1§2055 Sugarloaf Circle
+address2§Suite 300
+city§Duluth
+state§GA
+zip§30097
+country§United States
+phone§831 274 6500
+fax§831 768 9342
+website§https://www.ridefox.com
+industry§Auto Parts
+sector§Consumer Cyclical
+longBusinessSummary§Fox Factory Holding Corp. designs, engineers, manufactures, and markets ride dynamics products worldwide. The company offers mid-end and high-end front fork and rear suspension products for mountain bikes, road bikes, and e-bikes; and powered vehicle products for side-by-side vehicles, on-road vehicles with and without off-road capabilities, off-road vehicles and trucks, all-terrain vehicles, snowmobiles, and specialty vehicles and applications, such as military, motorcycles, and commercial trucks. It also provides mountain and road bike wheels, and other performance cycling components, including cranks, chain rings, pedals, bars, stems, and seat posts, as well as sells aftermarket products to dealers and distributors. The company offers powered vehicles under the FOX, BDS Suspension, Zone Offroad, JKS Manufacturing, RT Pro UTV, 4x4 Posi-Lok, Ridetech, Tuscany, Outside Van, and SCA brands; and mountain bikes, e-bikes, and road bikes under the FOX, Race Face, Easton Cycling, and Marzocchi brands. Fox Factory Holding Corp. was incorporated in 2007 and is headquartered in Duluth, Georgia.
+fullTimeEmployees§4200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael C. Dennison', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3200962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Toby D. Merchant', 'age': 44, 'title': 'Chief Legal Officer, Chief Compliance Officer & Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1028971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Tutton', 'age': 49, 'title': 'President of Specialty Sports Group', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 984079, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas L. Fletcher', 'age': 58, 'title': 'President of Aftermarket Applications Group', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 917810, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis Charles Schemm', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Enick', 'age': 39, 'title': 'Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul W. Stecher', 'title': 'President of Powered Vehicles Group & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vivek  Bhakuni', 'title': 'Director of Investor Relations & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet  Wong', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqueline B. Martin', 'title': 'Chief Purpose & Inclusion Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.67
+priceToSalesTrailing12Months§1.8258474
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.95
+pegRatio§1.01
+exchange§NMS
+quoteType§EQUITY
+shortName§Fox Factory Holding Corp.
+longName§Fox Factory Holding Corp.
+firstTradeDateEpochUtc§1375968600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c318691d-1dc3-36e8-a261-6cdc30c85cf2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§70.0
+targetMeanPrice§89.63
+targetMedianPrice§90.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.255
+earningsGrowth§-0.308
+grossMargins§0.33326
+ebitdaMargins§0.17434
+trailingPegRatio§None

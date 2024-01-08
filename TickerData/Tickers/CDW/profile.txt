@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 15:43:58.168851
+address1§200 North Milwaukee Avenue
+city§Vernon Hills
+state§IL
+zip§60061
+country§United States
+phone§847 465 6000
+website§https://www.cdw.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§CDW Corporation provides information technology (IT) solutions in the United States, the United Kingdom, and Canada. It operates through three segments: Corporate, Small Business, and Public. The company offers discrete hardware and software products and services, as well as integrated IT solutions, including on-premise, hybrid, and cloud capabilities across hybrid infrastructure, digital experience, and security. Its hardware products comprise notebooks/mobile devices, network communications, desktop computers, video monitors, enterprise and data storage, and others; and software products consists of application suites, security, virtualization, operating systems, and network management. The company also provides advisory and design, software development, implementation, managed, professional, configuration, partner, and telecom services, as well as warranties; delivers and manages mission critical software, systems, and network solutions; and implementation and installation, and repair services to its customers through various third-party service providers. It serves government, education, and healthcare customers; and small, medium, and large business customers. CDW Corporation was founded in 1984 and is headquartered in Vernon Hills, Illinois.
+fullTimeEmployees§11300
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Christine A. Leahy', 'age': 58, 'title': 'President, CEO & Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4079001, 'exercisedValue': 0, 'unexercisedValue': 30273978}, {'maxAge': 1, 'name': 'Mr. Albert Joseph Miralles Jr.', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1823094, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christina M. Corley', 'age': 55, 'title': 'Chief Commercial & Operating Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1862847, 'exercisedValue': 0, 'unexercisedValue': 21829616}, {'maxAge': 1, 'name': 'Mr. Frederick J. Kulevich', 'age': 56, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1302388, 'exercisedValue': 0, 'unexercisedValue': 3544021}, {'maxAge': 1, 'name': 'Ms. Sona  Chawla', 'age': 56, 'title': 'Chief Growth & Innovation Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1858941, 'exercisedValue': 0, 'unexercisedValue': 3052956}, {'maxAge': 1, 'name': 'Mr. Peter Richard Locy', 'age': 41, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sanjay  Sood', 'title': 'CTO & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Steven J O'Brien", 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sara  Granack', 'title': 'Vice President of Corporate Communications & Reputation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anand J. Rao', 'title': 'Senior VP and Chief Marketing & Digital Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.48
+dividendYield§0.0116
+exDividendDate§1700611200
+payoutRatio§0.29459998
+fiveYearAvgDividendYield§1.08
+beta§1.071
+priceToSalesTrailing12Months§1.3155195
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.55
+pegRatio§2.76
+exchange§NMS
+quoteType§EQUITY
+shortName§CDW Corporation
+longName§CDW Corporation
+firstTradeDateEpochUtc§1372339800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f155f3d6-b20b-3fbc-9865-54d25200d1f7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§245.0
+targetLowPrice§216.0
+targetMeanPrice§230.22
+targetMedianPrice§230.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.147
+earningsGrowth§0.069
+grossMargins§0.21471001
+ebitdaMargins§0.092489995
+trailingPegRatio§None

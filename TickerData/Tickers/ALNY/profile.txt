@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 14:43:17.564535
+address1§675 West Kendall Street
+address2§Henri A. Termeer Square
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§617 551 8200
+website§https://www.alnylam.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Alnylam Pharmaceuticals, Inc., a biopharmaceutical company, focuses on discovering, developing, and commercializing novel therapeutics based on ribonucleic acid interference. The company's pipeline of investigational RNAi therapeutics focuses on genetic medicines, cardio-metabolic diseases, hepatic infectious diseases, and central nervous system (CNS)/ocular diseases. Its marketed products include ONPATTRO (patisiran), a lipid complex injection for the treatment of the polyneuropathy of hereditary transthyretin-mediated amyloidosis in adults; GIVLAARI for the treatment of adults with acute hepatic porphyria (AHP); and OXLUMO (lumasiran) for the treatment of primary hyperoxaluria type 1 (PH1). In addition, the company is developing givosiran for the treatment of adolescent patients with AHP; patisiran for the treatment of transthyretin amyloidosis, or ATTR amyloidosis, with cardiomyopathy; cemdisiran to treat complement-mediated diseases; ALN-AAT02 for the treatment of AAT deficiency-associated liver disease; ALN-HBV02 to treat chronic HBV infection; Zilebesiran to treat hypertension; and ALN-HSD to treat NASH. Further, it offers Fitusiran for the treatment of hemophilia and rare bleeding disorders, Inclisiran to treat hypercholesterolemia, lumasiran for the treatment of advanced PH1 and recurrent renal stones, and vutrisiran for the treatment of ATTR amyloidosis, which is in phase 3 clinical trial. Alnylam Pharmaceuticals, Inc. has strategic collaborations with Regeneron Pharmaceuticals, Inc. to discover, develop, and commercialize RNAi therapeutics for a range of diseases by addressing therapeutic targets expressed in the eye and CNS; and Sanofi Genzyme to discover, develop, and commercialize RNAi therapeutics. It also has license and collaboration agreements with Novartis AG; Vir Biotechnology, Inc.; Dicerna Pharmaceuticals, Inc.; Ionis Pharmaceuticals, Inc.; and PeptiDream, Inc. The company was founded in 2002 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§2002
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Yvonne L. Greenstreet M.B.A., MBChB', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2090020, 'exercisedValue': 0, 'unexercisedValue': 15011693}, {'maxAge': 1, 'name': 'Mr. Jeffrey V. Poulton M.B.A.', 'age': 55, 'title': 'CFO & Executive VP', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 972350, 'exercisedValue': 0, 'unexercisedValue': 19374974}, {'maxAge': 1, 'name': 'Ms. Indrani M. Lall Franchini J.D.', 'age': 51, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 958961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Akshay K. Vaishnaw M.D., Ph.D.', 'age': 60, 'title': 'Chief Innovation Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1242770, 'exercisedValue': 848930, 'unexercisedValue': 41713376}, {'maxAge': 1, 'name': 'Dr. Pushkal P. Garg M.D.', 'age': 55, 'title': 'Chief Medical Officer and Executive VP of Development & Medical Affairs', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1001480, 'exercisedValue': 0, 'unexercisedValue': 19122100}, {'maxAge': 1, 'name': 'Mr. Timothy J. Maines', 'title': 'Chief Technical Operations & Quality Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kevin Joseph Fitzgerald Ph.D.', 'age': 55, 'title': 'Senior VP, Head of Research & Chief Scientific Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine Regan Lindenboom', 'age': 42, 'title': 'Senior VP of Investor Relations & Corporate Communications', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Piyush  Sharma J.D.', 'title': 'Chief Ethics & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Evan  Lippman', 'title': 'Chief Corporate Development & Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.471
+priceToSalesTrailing12Months§13.788432
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.32
+pegRatio§0.3
+exchange§NMS
+quoteType§EQUITY
+shortName§Alnylam Pharmaceuticals, Inc.
+longName§Alnylam Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1086096600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b8c27535-96f9-31bb-99f8-fad7a2cefe4b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§395.0
+targetLowPrice§135.0
+targetMeanPrice§224.7
+targetMedianPrice§230.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§2.876
+grossMargins§0.83998
+ebitdaMargins§-0.17376
+trailingPegRatio§None

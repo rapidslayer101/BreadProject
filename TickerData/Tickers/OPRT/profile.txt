@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 11:46:27.879107
+address1§2 Circle Star Way
+city§San Carlos
+state§CA
+zip§94070
+country§United States
+phone§650 810 8823
+website§https://www.oportun.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Oportun Financial Corporation provides financial services. It offers personal loans and credit cards. The company serves customers through online and over-the-phone, as well as through retail and Lending as a Service partner locations. Oportun Financial Corporation was founded in 2005 and is headquartered in San Carlos, California.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Raul  Vazquez', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1240181, 'exercisedValue': 9701559, 'unexercisedValue': 112859}, {'maxAge': 1, 'name': 'Mr. Jonathan Aaron Coblentz', 'age': 52, 'title': 'CFO & Chief Administrative Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 635588, 'exercisedValue': 967532, 'unexercisedValue': 5045}, {'maxAge': 1, 'name': 'Mr. Patrick  Kirscht', 'age': 55, 'title': 'Chief Credit Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 742807, 'exercisedValue': 106747, 'unexercisedValue': 75681}, {'maxAge': 1, 'name': 'Mr. Matthew Wayne Jenkins', 'age': 54, 'title': 'COO & GM of Personal & Auto Loans', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 588757, 'exercisedValue': 0, 'unexercisedValue': 124999}, {'maxAge': 1, 'name': 'Mr. Dorian  Hare', 'title': 'Senior VP of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen I. Layton', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gonzalo  Palacio', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacy  Newton', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ezra C. Garrett', 'title': 'Senior Vice President of Public Affairs & Impact', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Irfan  Ganchi', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.308
+priceToSalesTrailing12Months§0.15175305
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.16
+pegRatio§0.31
+exchange§NMS
+quoteType§EQUITY
+shortName§Oportun Financial Corporation
+longName§Oportun Financial Corporation
+firstTradeDateEpochUtc§1569504600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ab2aa82e-160d-385c-9192-9fadf353969b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§4.5
+targetMeanPrice§7.3
+targetMedianPrice§7.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§23.801
+grossMargins§0.94211996
+ebitdaMargins§0.0
+trailingPegRatio§None

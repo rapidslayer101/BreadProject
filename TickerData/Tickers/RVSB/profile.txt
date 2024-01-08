@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 04:47:03.812410
+address1§900 Washington Street
+address2§Suite 900
+city§Vancouver
+state§WA
+zip§98660
+country§United States
+phone§360 693 6650
+website§https://www.riverviewbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Riverview Bancorp, Inc. operates as a bank holding company for Riverview Bank that provides commercial banking services to small and medium size businesses, professionals, and wealth building individuals. It offers a range of deposit products, including demand deposits, negotiable order of withdrawal accounts, money market accounts, savings accounts, certificates of deposit, and retirement savings plans. The company also provides commercial business, commercial and residential real estate, multi-family real estate, land, real estate construction, and one-to-four family mortgage loans; other consumer loans, such as automobile, boat, motorcycle, recreational vehicle, savings account, and unsecured loans; and home equity lines of credit. In addition, it is involved in the provision of mortgage brokerage and mortgage loan servicing activities, as well as offers asset management services comprising trust, estate planning, and investment management. The company operates in Camas, Washougal, Stevenson, White Salmon, Battle Ground, Goldendale, Ridgefield, and Vancouver, Washington, as well as Portland, Gresham, Tualatin, and Aumsville, Oregon. Riverview Bancorp, Inc. was founded in 1923 and is based in Vancouver, Washington.
+fullTimeEmployees§229
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel D. Cox', 'age': 45, 'title': 'Acting President, CEO & COO', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 361730, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Lam', 'age': 46, 'title': 'Executive VP & CFO', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 354935, 'exercisedValue': 0, 'unexercisedValue': 3868}, {'maxAge': 1, 'name': 'Mr. Scott W. Miller', 'title': 'Senior Vice President of Marketing - Riverview Community Bank', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven P. Plambeck', 'age': 63, 'title': 'Executive VP & Chief Lending Officer of Riverview Bank', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Benke', 'title': 'Executive VP & Chief Credit Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa L. Baker', 'title': 'VP & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Sventek', 'age': 60, 'title': 'Executive VP & Chief Lending Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.24
+dividendYield§0.039
+exDividendDate§1704326400
+payoutRatio§0.38099998
+fiveYearAvgDividendYield§3.19
+beta§0.728
+priceToSalesTrailing12Months§2.2577043
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.35
+pegRatio§1.23
+exchange§NMS
+quoteType§EQUITY
+shortName§Riverview Bancorp Inc
+longName§Riverview Bancorp, Inc.
+firstTradeDateEpochUtc§751555800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3e966ab6-0597-3b28-a08c-0acf04f4e9cf
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.514
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

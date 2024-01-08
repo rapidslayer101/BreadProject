@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 12:35:38.192219
+address1§Banbury Road
+city§Gaydon
+zip§CV35 0DB
+country§United Kingdom
+phone§44 1926 644 644
+website§https://www.astonmartinlagonda.com
+industry§Auto Manufacturers
+industryKey§auto-manufacturers
+industryDisp§Auto Manufacturers
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Aston Martin Lagonda Global Holdings plc designs, develops, manufactures, markets, and sells luxury sports cars worldwide. It also engages in the sale of parts; sale of vehicles; servicing of vehicles; and brand and motorsport activities. The company sells its vehicles through a network of dealers. It has strategic technology agreement with Mercedes-Benz AG. Aston Martin Lagonda Global Holdings plc was incorporated in 2018 and is headquartered in Gaydon, the United Kingdom.
+fullTimeEmployees§2473
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lawrence S. Stroll', 'age': 64, 'title': 'Executive Chairman', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amedeo  Felisa', 'age': 77, 'title': 'CEO & Executive Director', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 1176886, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas James Lafferty', 'age': 45, 'title': 'CFO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 518500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roberto  Fedeli', 'title': 'Group Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Holly  Grainger', 'title': 'Deputy Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Francis Marecki', 'age': 63, 'title': 'VP & General Counsel', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Renato  Bisignani', 'title': 'Head of Global Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Smith', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simone  Rizzuto', 'title': 'Chief Engineer of Vehicle Dynamics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marek Paul Reichman', 'age': 63, 'title': 'Executive VP & Chief Creative Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.039
+priceToSalesTrailing12Months§1.1882498
+currency§GBp
+forwardEps§-5.01
+pegRatio§-0.14
+exchange§LSE
+quoteType§EQUITY
+shortName§ASTON MARTIN LAGONDA GLOBAL HOL
+longName§Aston Martin Lagonda Global Holdings plc
+firstTradeDateEpochUtc§1538550000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§db80ff8c-f843-3b42-951a-873221cfff7e
+messageBoardId§finmb_111528564
+targetHighPrice§550.0
+targetLowPrice§150.0
+targetMeanPrice§324.8
+targetMedianPrice§287.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.542
+grossMargins§0.34230998
+ebitdaMargins§0.016239999
+trailingPegRatio§None

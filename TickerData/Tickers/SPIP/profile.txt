@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 19:33:22.110576
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the inflation protected public obligations of the U.S. Treasury, commonly known as "TIPS."
+maxAge§86400
+priceHint§2
+yield§0.0368
+totalAssets§1438912000
+navPrice§25.56304
+currency§USD
+category§Inflation-Protected Bond
+ytdReturn§0.0003911
+beta3Year§0.88
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1180051200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0167062
+fiveYearAverageReturn§0.0274438
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Portfolio TIPS ETF
+longName§SPDR Portfolio TIPS ETF
+firstTradeDateEpochUtc§1180531800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§52368243-6e00-3e3a-90f2-1fa4ef9f8466
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

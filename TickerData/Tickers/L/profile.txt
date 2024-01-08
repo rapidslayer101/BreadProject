@@ -1,0 +1,47 @@
+# reload+after+2024-01-21 08:31:00.427874
+address1§667 Madison Avenue
+city§New York
+state§NY
+zip§10065-8087
+country§United States
+phone§212 521 2000
+website§https://www.loews.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Loews Corporation provides commercial property and casualty insurance in the United States and internationally. The company offers specialty insurance products, such as management and professional liability, and other coverage products; surety and fidelity bonds; property insurance products that include property, marine and boiler, and machinery coverages; and casualty insurance products, such as workers' compensation, general and product liability, and commercial auto and umbrella coverages. It also provides loss-sensitive insurance programs; and warranty, risk management, information, and claims administration services. The company markets its insurance products and services through independent agents, brokers, and managing general underwriters. In addition, the company is involved in the transportation and storage of natural gas and natural gas liquids(NGLs), and hydrocarbons through natural gas pipelines covering approximately 13,615 miles of interconnected pipelines; 450 miles of NGL pipelines in Louisiana and Texas; 14 underground storage fields with an aggregate gas capacity of approximately 213 billion cubic feet of natural gas; and eleven salt dome caverns and related brine infrastructure for providing brine supply services. Further, the company operates a chain of 26 hotels; and develops, manufactures, and markets a range of extrusion blow-molded and injection molded plastic containers for customers in the pharmaceutical, dairy, household chemicals, food/nutraceuticals, industrial/specialty chemicals, and water and beverage/juice segments, as well as manufactures commodity and differentiated plastic resins from recycled plastic materials. Loews Corporation was incorporated in 1969 and is headquartered in New York, New York.
+fullTimeEmployees§12050
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan M. Tisch', 'age': 69, 'title': 'Co-Chairman of the Board & Member of the Office of the President', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 4643714, 'exercisedValue': 1112964, 'unexercisedValue': 2878500}, {'maxAge': 1, 'name': 'Mr. James S. Tisch', 'age': 70, 'title': 'President, CEO & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 5439183, 'exercisedValue': 775831, 'unexercisedValue': 2037450}, {'maxAge': 1, 'name': 'Ms. Jane J. Wang', 'age': 41, 'title': 'Senior VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 2030742, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Waldo Scott', 'age': 70, 'title': 'Senior VP & Chief Investment Officer', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 3560750, 'exercisedValue': 384555, 'unexercisedValue': 1047938}, {'maxAge': 1, 'name': 'Mr. Kenneth I. Siegel', 'age': 66, 'title': 'Senior Vice President', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 5272000, 'exercisedValue': 1043932, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark S. Schwartz', 'title': 'VP, Chief Accounting Officer & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc A. Alpert J.D.', 'age': 60, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin J. Tisch', 'age': 40, 'title': 'Senior VP of Corporate Development & Strategy', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ira  Altman', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter W. Keegan', 'age': 78, 'title': 'Senior Advisor to the President', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 2717813, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.25
+dividendYield§0.0034999999
+exDividendDate§1700524800
+payoutRatio§0.0381
+fiveYearAvgDividendYield§0.49
+beta§0.819
+priceToSalesTrailing12Months§1.0296216
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.9
+exchange§NYQ
+quoteType§EQUITY
+shortName§Loews Corporation
+longName§Loews Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d20caec3-b48a-3eef-964c-b4ca81ba2587
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.465
+grossMargins§0.36415002
+ebitdaMargins§0.1893
+trailingPegRatio§None

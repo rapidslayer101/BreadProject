@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 03:44:08.903809
+address1§2100 West Loop South
+address2§Suite 900
+city§Houston
+state§TX
+zip§77027
+country§United States
+phone§800 946 9185
+website§https://www.cnspharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§CNS Pharmaceuticals, Inc., a clinical pharmaceutical company, engages in the development of anti-cancer drug candidates for the treatment of brain and central nervous system tumors. The company's lead drug candidate is Berubicin, which completed Phase I clinical trial that is used for the treatment of glioblastoma multiforme. It has license agreements with Houston Pharmaceuticals, Inc., Reata Pharmaceuticals, Inc., Pomeranian Medical University, and The University of Texas M.D. Anderson Cancer Center; and a development agreement with WPD Pharmaceuticals Inc. The company was incorporated in 2017 and is based in Houston, Texas.
+fullTimeEmployees§3
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Michael Climaco Esq., J.D.', 'age': 54, 'title': 'CEO, President & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 813750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher S. Downs CPA, CTP, FP&A', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 476000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sandra L. Silberman M.D., Ph.D.', 'age': 68, 'title': 'Chief Medical Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 280000, 'exercisedValue': 0, 'unexercisedValue': 2625}, {'maxAge': 1, 'name': 'Dr. Waldemar  Priebe Ph.D.', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Donald H. Picker Ph.D.', 'age': 77, 'title': 'Chief Science Officer', 'yearBorn': 1946, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.03
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-12.0
+exchange§NCM
+quoteType§EQUITY
+shortName§CNS Pharmaceuticals, Inc.
+longName§CNS Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1573223400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d5944f40-c6d8-36ac-a359-a17d6936eb31
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.224
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

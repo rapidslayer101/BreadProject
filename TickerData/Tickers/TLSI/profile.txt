@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 12:47:35.597847
+address1§6272 West 91st Avenue
+city§Westminster
+state§CO
+zip§80031
+country§United States
+phone§888 321 5212
+website§https://trisaluslifesci.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§TriSalus Life Sciences, Inc., an immunotherapy company that develops and commercializes immunotherapies for the treatment of liver and pancreatic tumors. The company offers the TriNav Infusion System for hepatic arterial infusion of liver tumors; and the Pancreatic Retrograde Venous Infusion System for pancreatic tumors. It also develops SD-101, an investigational immunotherapeutic with pressure-enabled drug delivery technology for hepatocellular carcinoma, intrahepatic cholangiocarcinoma, uveal melanoma with liver metastases, pancreatic ductal adenocarcinoma with liver metastases, colorectal cancer with liver metastases, and primary pancreatic cancers. The company is based in Westminster, Colorado.
+fullTimeEmployees§106
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Mary T. Szela B.S.N., M.B.A.', 'age': 60, 'title': 'CEO, President & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 808061, 'exercisedValue': 0, 'unexercisedValue': 3154511}, {'maxAge': 1, 'name': 'Mr. Sean Edward Murphy', 'age': 70, 'title': 'CFO & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 403090, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven C. Katz F.A.C.S., M.D.', 'age': 48, 'title': 'Chief Medical Officer & Chairman of Scientific Advisory Board', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 850358, 'exercisedValue': 0, 'unexercisedValue': 759961}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Stevens J.D.', 'age': 62, 'title': 'Chief Regulatory Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 629995, 'exercisedValue': 0, 'unexercisedValue': 22290}, {'maxAge': 1, 'name': 'Ms. Lori Ann Santamaria', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bryan F. Cox Ph.D.', 'age': 62, 'title': 'Chief Scientific & Manufacturing Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Garcia', 'title': 'Marketing Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Richard B. Marshak M.B.A., MBA, VMD', 'age': 64, 'title': 'Senior Vice President of Corporate Development & Strategy', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Alecxih', 'age': 58, 'title': 'President of Device Technology Business', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodi  Devlin', 'age': 61, 'title': 'President of Commercial Operations', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.641
+priceToSalesTrailing12Months§14.496256
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.16
+exchange§NGM
+quoteType§EQUITY
+shortName§TriSalus Life Sciences, Inc.
+longName§TriSalus Life Sciences, Inc.
+firstTradeDateEpochUtc§1612794600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§675e81d5-17a3-33ba-b68e-b381f01efca8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§16.0
+targetMeanPrice§16.0
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§2.626
+grossMargins§0.82274
+ebitdaMargins§-2.9364998
+trailingPegRatio§None

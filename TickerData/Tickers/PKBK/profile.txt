@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 22:46:38.518465
+address1§601 Delsea Drive
+city§Washington Township
+state§NJ
+zip§08080
+country§United States
+phone§856 256 2500
+fax§856 256 2590
+website§https://www.parkebank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Parke Bancorp, Inc. operates as the bank holding company for Parke Bank that provides personal and business financial services to individuals and small to mid-sized businesses. The company offers various deposit products, including checking, savings, time, money market, and individual retirement accounts, as well as certificates of deposit. Its loan portfolio comprises commercial and industrial, construction, commercial and residential real estate mortgage, and consumer loans. In addition, the company provides debit cards, internet banking, and online bill payment services. Parke Bancorp, Inc. was founded in 1999 and is headquartered in Washington Township, New Jersey.
+fullTimeEmployees§104
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vito S. Pantilione', 'age': 71, 'title': 'President, CEO & Director', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 1858251, 'exercisedValue': 0, 'unexercisedValue': 309553}, {'maxAge': 1, 'name': 'Mr. Ralph Martin Gallo', 'age': 65, 'title': 'Executive VP & COO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 419385, 'exercisedValue': 0, 'unexercisedValue': 51756}, {'maxAge': 1, 'name': 'Mr. Paul E. Palmieri', 'age': 65, 'title': 'Senior VP & Chief Credit Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 369651, 'exercisedValue': 0, 'unexercisedValue': 129385}, {'maxAge': 1, 'name': 'Mr. Jonathan D. Hill', 'age': 44, 'title': 'Senior VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Linda A. Kaiser', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas J. Pantilione', 'age': 37, 'title': 'Senior VP & Chief Lending Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0361
+exDividendDate§1704153600
+payoutRatio§0.2846
+fiveYearAvgDividendYield§3.36
+beta§0.827
+priceToSalesTrailing12Months§3.164846
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Parke Bancorp, Inc.
+longName§Parke Bancorp, Inc.
+firstTradeDateEpochUtc§1056375000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7bb8c526-da88-3a89-af7e-b51d99d5b025
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.902
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

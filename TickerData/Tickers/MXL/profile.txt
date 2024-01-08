@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 10:46:09.110823
+address1§5966 La Place Court
+address2§Suite 100
+city§Carlsbad
+state§CA
+zip§92008
+country§United States
+phone§760 692 0711
+fax§760 444 8598
+website§https://www.maxlinear.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§MaxLinear, Inc. engages in the provision of communications systems-on-chip solutions for the connected home, wired and wireless infrastructure, and industrial and multi-market applications worldwide. Its products integrate various portions of a high-speed communication system, including radiofrequency, high-performance analog, mixed-signal, digital signal processing, security engines, data compression and networking layers, and power management. The company's products are used in various electronic devices, such as cable Data Over Cable Service Interface Specifications, fiber and DSL broadband modems and gateways; Wi-Fi and wireline routers for home networking; radio transceivers and modems for 4G/5G base-station and backhaul infrastructure; and fiber-optic modules for data center, metro, and long-haul transport networks, as well as power management and interface products. It serves electronics distributors, module makers, original equipment manufacturers, and original design manufacturers through a direct sales force, third-party sales representatives, and a network of distributors. The company was incorporated in 2003 and is headquartered in Carlsbad, California.
+fullTimeEmployees§1844
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Kishore  Seendripu Ph.D.', 'age': 54, 'title': 'Co-Founder, Chairman, CEO & President', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 716497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven G. Litchfield', 'age': 54, 'title': 'CFO & Chief Corporate Strategy Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 441497, 'exercisedValue': 0, 'unexercisedValue': 4758300}, {'maxAge': 1, 'name': 'Mr. William Kelly Jones', 'age': 65, 'title': 'Vice President of Worldwide Operations', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 379248, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Curtis  Ling', 'age': 58, 'title': 'Co-Founder & Chief Technical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 294107, 'exercisedValue': 3016309, 'unexercisedValue': 1171950}, {'maxAge': 1, 'name': 'Ms. Connie H. Kwong', 'age': 44, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian D. Nugent', 'title': 'Head-Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle Marie Sayer', 'age': 49, 'title': 'General Counsel & Chief Compliance Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Bollesen', 'age': 55, 'title': 'Vice President of Sales', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 337854, 'exercisedValue': 0, 'unexercisedValue': 1411642}, {'maxAge': 1, 'name': 'Ms. Kathi  Guiney SPHR', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.045
+priceToSalesTrailing12Months§2.0606406
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.84
+pegRatio§-0.63
+exchange§NMS
+quoteType§EQUITY
+shortName§MaxLinear, Inc
+longName§MaxLinear, Inc.
+firstTradeDateEpochUtc§1269437400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97642b98-fd25-3de4-a5ca-394eef75dcbd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§18.0
+targetMeanPrice§22.64
+targetMedianPrice§22.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§1.545
+grossMargins§0.55966
+ebitdaMargins§0.14533
+trailingPegRatio§None

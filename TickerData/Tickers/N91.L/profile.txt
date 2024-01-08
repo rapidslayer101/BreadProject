@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 05:39:56.892763
+address1§36 Hans Strijdom Avenue
+address2§Foreshore
+city§Cape Town
+zip§8001
+country§South Africa
+phone§27 21 901 1000
+website§https://ninetyone.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Ninety One Group operates as an independent global asset manager worldwide. It serves private and public sector pension funds, sovereign wealth funds, insurers, corporates, foundations, and central banks, as well as large retail financial groups, wealth managers, public and private equity as well as debt, private banks, and intermediaries. It seeks to invest in South African companies struggling with the economic fallout from the spread of coronavirus. Ninety One Group was founded in 1991 and is headquartered in Cape Town, South Africa with additional offices in Africa.
+fullTimeEmployees§1180
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hendrik Jacobus du Toit B.Com., Bcom Law', 'age': 62, 'title': 'Founder, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 3223000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kim Mary McFarland', 'age': 59, 'title': 'Finance Director & Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 2579000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nazmeera  Moola', 'age': 46, 'title': 'Chief Sustainability Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Khalid  Bin Abdulla Alsweilem', 'title': 'Chief Global Sovereign Funds Advisor', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amina  Rasool', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.13
+dividendYield§0.071100004
+exDividendDate§1701907200
+payoutRatio§0.75
+beta§0.669
+priceToSalesTrailing12Months§2.7080557
+currency§GBp
+forwardEps§16.54
+pegRatio§-4.99
+exchange§LSE
+quoteType§EQUITY
+shortName§NINETY ONE PLC
+longName§Ninety One Group
+firstTradeDateEpochUtc§1584345600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§57375747-e533-3a15-a9bc-93c5374b46b0
+targetHighPrice§176.09
+targetLowPrice§147.8
+targetMeanPrice§161.95
+targetMedianPrice§161.95
+recommendationMean§4.0
+recommendationKey§underperform
+numberOfAnalystOpinions§2
+quickRatio§0.057
+earningsGrowth§-0.058
+grossMargins§0.55271
+ebitdaMargins§0.32077998
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 04:31:08.635246
+address1§700 Saint-Antoine Street East
+address2§Suite 300
+city§Montreal
+state§QC
+zip§H2Y 1A6
+country§Canada
+website§https://www.lightspeedhq.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Lightspeed Commerce Inc. engages in sale of cloud-based software subscriptions and payments solutions for small and midsize businesses, retailers, restaurants, and golf course operators in North America, Europe, the United Kingdom, Australia, New Zealand, and internationally. Its Software as a Service platform enables customers to engage with consumers, manage operations, accept payments, etc. The company's cloud platforms are designed interrelated elements, such as omni-channel consumer experience, a comprehensive back-office operations management suite to improve customers' efficiency and insight, and the facilitation of payments. Its platform functionalities include full omni-channel capabilities, point of sale (POS), product and menu management, employee and inventory management, analytics and reporting, multi-location connectivity, order-ahead and curbside pickup functionality, loyalty, and customer management solutions. The company also offers tailored financial solutions, such as Lightspeed Retail, Lightspeed eCommerce, Lightspeed Restaurant, and Lightspeed B2B solutions. In addition, it sells hardware, including tablets, customer facing displays, receipt printers, networking hardware, cash drawers, payment terminals, servers, stands, bar-code scanners, and an assortment of accessories, as well as provides installation and implementation services. The company was formerly known as Lightspeed POS Inc. and changed its name to Lightspeed Commerce Inc. in August 2021. Lightspeed Commerce Inc. was incorporated in 2005 and is headquartered in Montréal, Canada.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dax  Dasilva', 'age': 47, 'title': 'Founder & Executive Chairman of the Board', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 4623, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Paul  Chauvet', 'age': 50, 'title': 'CEO & Corporate Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 691951, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-David  Saint-Martin', 'title': 'President', 'fiscalYear': 2023, 'totalPay': 427231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Asha Hotchandani Bakshani', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 460480, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Tabone', 'title': 'Chief Product & Technology Officer', 'fiscalYear': 2023, 'totalPay': 476501, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gus  Papageorgiou C.F.A., M.B.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Robert Micak', 'title': 'Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kady  Srinivasan', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shirvani  Mudaly', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adrian  Valeriano', 'title': 'Senior  VP & MD of EMEA', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.748
+priceToSalesTrailing12Months§3.4683003
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lightspeed Commerce Inc. Subord
+longName§Lightspeed Commerce Inc.
+firstTradeDateEpochUtc§1599831000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c5b93117-3c12-33d1-a61c-e76c83b98539
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§14.0
+targetMeanPrice§18.97
+targetMedianPrice§19.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§5.745
+grossMargins§0.43955
+ebitdaMargins§-0.19678
+trailingPegRatio§None

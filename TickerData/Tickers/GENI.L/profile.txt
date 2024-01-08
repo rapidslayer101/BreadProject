@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 16:37:59.264558
+address1§One St Peters Square
+city§Manchester
+zip§M2 3DE
+country§United Kingdom
+website§https://www.genincode.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§GENinCode Plc develops and commercializes clinical genetic tests to provide predictive analysis of risk to a patient's health based on their genes in the United Kingdom and internationally. Its predictive technology provides patients and physicians with preventative care and treatment strategies. The company's molecular tests combine clinical algorithms and artificial intelligence to provide advanced patient risk assessment to predict disease onset. Its tests include Cardio inCode, a patented genetic test to help user to adopt cardiovascular prevention steps; Lipid inCode, a genetic diagnostic test for familial hypercholesterolemia; SUDD inCode, a genetic test to diagnose the cause of sudden cardiac death and familial heart disease; Thrombo inCode, a genetic test for diagnosis of hereditary thrombophilia and the risk of thrombosis; and Thrombo inCode Reproductive Health, a genetic test that offers information related to risk of thrombophilia and associated risks for future pregnancies. GENinCode Plc was incorporated in 2018 and is based in Manchester, the United Kingdom.
+fullTimeEmployees§34
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew Heaton Walls', 'age': 59, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 336540, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordi  Puig Gilberte', 'title': 'Co-Founder, COO & Director', 'fiscalYear': 2022, 'totalPay': 149163, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Andrew Peter Foulger', 'age': 53, 'title': 'CFO, Company Secretary & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 150070, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.417
+priceToSalesTrailing12Months§2.9314609
+currency§GBp
+forwardEps§-3.28
+exchange§LSE
+quoteType§EQUITY
+shortName§GENINCODE PLC ORD 1P
+longName§GENinCode Plc
+firstTradeDateEpochUtc§1626937200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§db3d9297-bde4-3616-9e4b-7f03c12b021b
+targetHighPrice§27.0
+targetLowPrice§27.0
+targetMeanPrice§27.0
+targetMedianPrice§27.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§5.825
+grossMargins§0.47551998
+ebitdaMargins§0.0
+trailingPegRatio§None

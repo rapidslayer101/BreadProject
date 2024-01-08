@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 06:43:51.060992
+address1§100 West University Avenue
+city§Champaign
+state§IL
+zip§61820
+country§United States
+phone§217 365 4544
+website§https://www.busey.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Busey Corporation operates as the bank holding company for Busey Bank that provides retail and commercial banking products and services to individual, corporate, institutional, and governmental customers in the United States. It operates through three segments: Banking, FirsTech, and Wealth Management. The Banking segment provides banking services to individual customers, such as demand and savings deposits, money transfers, safe deposit services, individual retirement accounts and other fiduciary services, automated teller machines, and technology-based networks, as well as loan products, including residential real estate, home equity lines of credit, and consumer loans. This segment also offers banking services to corporate customers, including commercial, commercial real estate, real estate construction, and agricultural loans, as well as cash management services. The FirsTech segment provides payment technology solutions comprising online, mobile, and voice-recognition bill payments; money management and credit card networks; direct debit services; lockbox remittance processing for payments made by mail; and walk-in payments, as well as tools to help clients with billing, reconciliation, bill reminders, and treasury services. The Wealth Management segment offers a range of asset management, investment, brokerage, fiduciary, philanthropic advisory, tax preparation, and farm management services to individuals, businesses, and foundations. The company was founded in 1868 and is headquartered in Champaign, Illinois.
+fullTimeEmployees§1484
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Van A. Dukeman CFA', 'age': 64, 'title': 'Chairman & CEO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1637312, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Jones', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 891653, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy L. Randolph', 'age': 48, 'title': 'Executive VP & COO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 840846, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Powers', 'age': 67, 'title': 'Executive VP & General Counsel', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 771620, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monica L. Bowe', 'age': 49, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.96
+dividendYield§0.039300002
+exDividendDate§1697673600
+payoutRatio§0.406
+fiveYearAvgDividendYield§3.95
+beta§0.832
+priceToSalesTrailing12Months§2.9975193
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.04
+pegRatio§1.82
+exchange§NMS
+quoteType§EQUITY
+shortName§First Busey Corporation
+longName§First Busey Corporation
+firstTradeDateEpochUtc§907680600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7cf7f8fa-7f69-3940-8cee-42fc78fc0fc8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§29.0
+targetLowPrice§25.0
+targetMeanPrice§27.0
+targetMedianPrice§27.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§6
+earningsGrowth§-0.156
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

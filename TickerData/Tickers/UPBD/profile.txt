@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 07:47:44.686802
+address1§5501 Headquarters Drive
+city§Plano
+state§TX
+zip§75024
+country§United States
+phone§972 801 1100
+website§https://www.upbound.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Upbound Group, Inc., an omni-channel platform company, leases household durable goods to customers on a lease-to-own basis in the United States, Puerto Rico, and Mexico. The company operates in four segments: Rent-A-Center Business, Acima, Mexico, and Franchising. The company's brands, such as Rent-A-Center and Acima that facilitate consumer transactions across a range of store-based and virtual channels. It offers furniture comprising mattresses, tires, consumer electronics, appliances, tools, handbags, computers, smartphones, and accessories. The company also provides merchandise on an installment sales basis; and the lease-to-own transaction to consumers who do not qualify for financing from the traditional retailer through kiosks located within retailer's locations. It operates retail installment sales stores under the Get It Now and Home Choice names; lease-to-own and franchised lease-to-own stores under the Rent-A-Centre, ColorTyme, and RimTyme names; and company-owned stores and e-commerce platform through rentacenter.com. The company was formerly known as Rent-A-Center, Inc. and changed its name to Upbound Group, Inc. in February 2023. Upbound Group, Inc. was founded in 1960 and is headquartered in Plano, Texas.
+fullTimeEmployees§12690
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mitchell E. Fadel', 'age': 66, 'title': 'CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1163204, 'exercisedValue': 0, 'unexercisedValue': 1243757}, {'maxAge': 1, 'name': 'Mr. Fahmi  Karam', 'age': 43, 'title': 'Executive VP & CFO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 653846, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan J. Pechersky', 'age': 52, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 646189, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Transient C. Taylor', 'age': 57, 'title': 'Executive VP & Chief HR and Diversity Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 419130, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sudeep  Gautam', 'age': 52, 'title': 'Chief Technology & Digital Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Santimaw', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan James Metrano C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann L. Davids', 'age': 54, 'title': 'Executive VP, Chief Customer & Marketing Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 698505, 'exercisedValue': 0, 'unexercisedValue': 254325}, {'maxAge': 1, 'name': 'Mr. James  York', 'age': 54, 'title': 'Senior Vice President of Rent-A-Center East', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Daniel B. O'Rourke", 'title': 'Senior VP Finance & Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.48
+dividendYield§0.045100003
+exDividendDate§1702857600
+payoutRatio§8.5
+fiveYearAvgDividendYield§3.43
+beta§2.008
+priceToSalesTrailing12Months§0.44889912
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.76
+pegRatio§0.3
+exchange§NMS
+quoteType§EQUITY
+shortName§Upbound Group, Inc.
+longName§Upbound Group, Inc.
+firstTradeDateEpochUtc§791044200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d9b94a77-5236-3c62-b493-716d076f2dff
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§31.0
+targetMeanPrice§38.0
+targetMedianPrice§38.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.456
+grossMargins§0.50571
+ebitdaMargins§0.07576
+trailingPegRatio§None

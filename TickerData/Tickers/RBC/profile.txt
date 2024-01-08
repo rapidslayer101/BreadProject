@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 18:32:39.312735
+address1§One Tribology Center
+address2§102 Willenbrock Road
+city§Oxford
+state§CT
+zip§06478
+country§United States
+phone§203 267 7001
+fax§203 267 5000
+website§https://www.rbcbearings.com
+industry§Tools & Accessories
+sector§Industrials
+longBusinessSummary§RBC Bearings Incorporated manufactures and markets engineered precision bearings and components in the United States and internationally. It operates through two segments, Aerospace/Defense and Industrial. The company produces plain bearings with self-lubricating or metal-to-metal designs, including rod end bearings, spherical plain bearings, and journal bearings; roller bearings, such as tapered roller bearings, needle roller bearings, and needle bearing track rollers and cam followers, which are anti-friction products that are used in industrial applications and military aircraft platforms; and ball bearings include high precision aerospace, airframe control, thin section, and industrial ball bearings that utilize high precision ball elements to reduce friction in high-speed applications. In addition, it offers mounted bearing products include mounted ball bearings, mounted roller bearings, and mounted plain bearings; and enclosed gearing product lines, including quantis gearmotor, torque arm, tigear, magnagear & maxum, and controlled start transmission. Further, the company produces power transmission components include mechanical drive components, couplings, and conveyor components; engineered hydraulics and valves for aircraft and submarine applications, and aerospace and defense aftermarket services; fasteners; precision mechanical components, which are used in various general industrial applications; and machine tool collets that are used for holding circulars or rod-like pieces. It serves automotive, tool holding, agricultural and semiconductor machinery, commercial and defense aerospace, ground defense, construction and mining, oil and natural resource extraction, heavy truck, marine, rail and train, packaging, food and beverage, packaging and canning, wind, and general industrial markets through its direct sales force, as well as a network of industrial and aerospace distributors. The company was founded in 1919 and is headquartered in Oxford, Connecticut.
+fullTimeEmployees§5092
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Michael J. Hartnett Ph.D.', 'age': 77, 'title': 'Chairman, President & CEO', 'yearBorn': 1946, 'fiscalYear': 2023, 'totalPay': 2465271, 'exercisedValue': 1923501, 'unexercisedValue': 10288115}, {'maxAge': 1, 'name': 'Mr. Robert M. Sullivan', 'age': 39, 'title': 'VP & CFO', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 377090, 'exercisedValue': 0, 'unexercisedValue': 971090}, {'maxAge': 1, 'name': 'Mr. Daniel A. Bergeron', 'age': 63, 'title': 'VP, COO & Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1196401, 'exercisedValue': 7478497, 'unexercisedValue': 9700401}, {'maxAge': 1, 'name': 'Mr. Richard J. Edwards', 'age': 67, 'title': 'VP & GM', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 621015, 'exercisedValue': 2483637, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick S. Bannon', 'age': 58, 'title': 'VP & GM', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 446263, 'exercisedValue': 1336158, 'unexercisedValue': 1829280}, {'maxAge': 1, 'name': 'Mr. John J. Feeney', 'age': 54, 'title': 'VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 313730, 'exercisedValue': 149655, 'unexercisedValue': 62539}, {'maxAge': 1, 'name': 'Mr. David  Gilbert', 'title': 'President of Dodge Industrial, Inc.', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Matthew J. Tift', 'title': 'Corporate Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1401235200
+payoutRatio§0.0
+beta§1.444
+priceToSalesTrailing12Months§5.183094
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.58
+pegRatio§5.23
+exchange§NYQ
+quoteType§EQUITY
+shortName§RBC Bearings Incorporated
+longName§RBC Bearings Incorporated
+firstTradeDateEpochUtc§1123680600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0b05899d-0922-3266-8d63-5ff2f45f87ab
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§310.0
+targetLowPrice§240.0
+targetMeanPrice§267.71
+targetMedianPrice§267.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.066
+earningsGrowth§0.206
+grossMargins§0.42391998
+ebitdaMargins§0.29578
+trailingPegRatio§None

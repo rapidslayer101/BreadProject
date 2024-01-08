@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 03:30:50.909171
+address1§1332 Blue Hills Avenue
+city§Bloomfield
+state§CT
+zip§06002
+country§United States
+phone§860 243 7100
+website§https://www.kaman.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Kaman Corporation, together with its subsidiaries, operates in the aerospace, defense, medical, and industrial markets. The company operates through three segments: Engineered Products, Precision Products, and Structures. The Engineered Products segment produces and markets aircraft bearings and components; super precision; miniature ball bearings; and spring energized seals, springs, and contacts, as well as wheels, brakes, and related hydraulic components for helicopters and fixed-wing, and UAV aircraft. The Precision Products segment provides safe and arming solutions for missile and bomb systems for the U.S. and allied militaries; undertakes subcontract helicopter works; restores, modifies, and supports its SH-2G Super Seasprite maritime helicopters; and supports heavy lift K-MAX manned helicopter, and the KARGO UAV unmanned aerial system. The Structures segment offers metallic and composite aero structures for commercial, military, and general aviation fixed and rotary wing aircrafts; and medical imaging solutions. The company operates in North America, Europe, the Middle East, Asia, Oceania, and internationally. Kaman Corporation was incorporated in 1945 and is headquartered in Bloomfield, Connecticut.
+fullTimeEmployees§3063
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian K. Walsh', 'age': 56, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1263384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carroll K. Lane', 'age': 47, 'title': 'Senior VP, Interim CFO and Segment Lead of Engineered & Precision Products', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 662072, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Petterson', 'title': 'VP, Chief Accounting Officer & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kary  Bare', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard S. Smith Jr.', 'age': 63, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristen Mcdonald Samson', 'age': 49, 'title': 'VP and Chief Marketing & Communications Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 511810, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip A. Goodrich', 'age': 66, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan A. Morgan', 'age': 46, 'title': 'Chief Human Resources Officer & VP of Human Resources', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Michelon Jr., CPA', 'title': 'Vice President of Tax & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0344
+exDividendDate§1702857600
+payoutRatio§1.25
+fiveYearAvgDividendYield§2.21
+beta§1.173
+priceToSalesTrailing12Months§0.85260206
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.78
+pegRatio§4.18
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kaman Corporation
+longName§Kaman Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bd6ccbc1-becf-395b-a4c8-2ca5e4ba02f3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§28.0
+targetMeanPrice§30.0
+targetMedianPrice§30.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.724
+grossMargins§0.35493
+ebitdaMargins§0.16906999
+trailingPegRatio§None

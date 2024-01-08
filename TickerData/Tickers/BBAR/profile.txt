@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 08:27:06.180540
+address1§Avenida COrdoba 111
+address2§31st floor
+city§Buenos Aires
+zip§C1054AAA
+country§Argentina
+phone§54 11 4346 4000
+website§https://www.bbva.com.ar
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Banco BBVA Argentina S.A. provides various banking products and services to individuals and companies in Argentina. It provides retail banking products and services, such as checking and savings accounts, time deposits, credit cards, consumer and pledge loans, mortgages, insurance, and investment products to individuals; and small and medium-sized companies products and services, including financing products, factoring, checking accounts, time deposits, transactional and payroll services, insurance, and investment products to private-sector companies. The company also provides corporate and investment banking products and services, such as global transaction services; global markets solutions comprising risk management and securities brokerage; long-term financing products, including project finance and syndicated loans; and corporate finance services comprising mergers and acquisitions, and capital markets advisory services to corporations and multinational companies operating in Argentina. The company was formerly known as BBVA Banco Francés S.A. and changed its name to Banco BBVA Argentina S.A. in July 2019. Banco BBVA Argentina S.A. was incorporated in 1886 and is based in Buenos Aires, Argentina.
+fullTimeEmployees§6011
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin  Ezequiel Zarich', 'age': 59, 'title': 'Chief Executive Officer', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carmen Morillo Arroyo', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria  Veronica Incera', 'title': 'Chief Corporate & Investment Banking Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mónica  Etcheverry', 'title': 'Head of Compliance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo  Gonzalez Correas', 'age': 41, 'title': 'Chief Legal Officer and Head of Market & Industry Relations', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gustavo  Osvaldo Fernandez', 'age': 59, 'title': 'Chief Talent & Culture Officer', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerardo Mario Fiandrino', 'age': 58, 'title': 'Chief Risk Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leandro  Alvarez', 'age': 53, 'title': 'Chief Engineering & Data Officer', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juan Christian Kindt', 'age': 54, 'title': 'Chief Business Development Officer', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Adolfo Rivera Guzmán', 'title': 'Chief Internal Audit Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+dividendRate§0.33
+dividendYield§0.0672
+exDividendDate§1695859200
+payoutRatio§0.4181
+fiveYearAvgDividendYield§5.87
+beta§1.698
+priceToSalesTrailing12Months§0.0021356815
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.28
+pegRatio§0.17
+lastDividendValue§0.064
+lastDividendDate§1695859200
+exchange§NYQ
+quoteType§EQUITY
+shortName§Banco BBVA Argentina S.A.
+longName§Banco BBVA Argentina S.A.
+firstTradeDateEpochUtc§754151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d67528b9-4980-3ce0-a395-e782e3a2ab6f
+messageBoardId§finmb_390918
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.5
+targetLowPrice§4.5
+targetMeanPrice§5.8
+targetMedianPrice§5.4
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+earningsGrowth§-0.589
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

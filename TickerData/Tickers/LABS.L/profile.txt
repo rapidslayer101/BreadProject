@@ -1,0 +1,20 @@
+# reload+after+2024-01-21 07:39:34.404734
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§LIFE SCIENCE REIT PLC ORD GBP0.
+longName§Life Science REIT Ord
+firstTradeDateEpochUtc§1637308800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§abad9752-acb3-3083-adb0-59b0ef2a83bf
+targetHighPrice§0.86
+targetLowPrice§0.77
+targetMeanPrice§0.86
+targetMedianPrice§0.86
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+trailingPegRatio§None

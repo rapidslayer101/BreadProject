@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 22:32:24.417931
+address1§256 West Data Drive
+city§Draper
+state§UT
+zip§84020-2315
+country§United States
+phone§385 351 1369
+website§https://progholdings.com
+industry§Rental & Leasing Services
+sector§Industrials
+longBusinessSummary§PROG Holdings, Inc., a fintech holding company, provides payment options to consumers. It owns Progressive Leasing, an in-store, app-based, and e-commerce point-of-sale lease-to-own solutions provider; and Vive Financial, an omnichannel provider of second-look revolving credit products. Its offerings also include Four Technologies, provider of Buy Now, Pay Later payment options through its platform Four. The company was formerly known as Aaron's Holdings Company, Inc. and changed its name to PROG Holdings, Inc. in December 2020. PROG Holdings, Inc. was founded in 1955 and is based in Draper, Utah.
+fullTimeEmployees§1692
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven A. Michaels', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1228200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis Linn Doman', 'age': 50, 'title': 'Founder, Chief Innovation Officer & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 672200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Garner', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 613584, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trevor  Thatcher', 'age': 48, 'title': 'Chief Operations Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Matt Sewell', 'age': 48, 'title': 'Principal Accounting Officer & VP of Financial Reporting', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sridhar  Nallani', 'age': 52, 'title': 'Chief Technology Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Allen Baugh C.F.A.', 'age': 62, 'title': 'Vice President of Investor Relations', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  King', 'title': 'Chief Legal & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Delcorps', 'title': 'Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Debra A. Fiori', 'age': 53, 'title': 'Chief People Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1605225600
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.28
+beta§2.095
+priceToSalesTrailing12Months§0.5537748
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.4
+pegRatio§0.74
+exchange§NYQ
+quoteType§EQUITY
+shortName§PROG Holdings, Inc.
+longName§PROG Holdings, Inc.
+firstTradeDateEpochUtc§405268200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ddad6c0b-99dd-3505-94e9-cccf3e56e8e9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§33.0
+targetMeanPrice§39.6
+targetMedianPrice§40.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.534
+earningsGrowth§1.396
+grossMargins§0.34458
+ebitdaMargins§0.17847
+trailingPegRatio§None

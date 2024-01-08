@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 20:31:21.815572
+address1§60 Tower Road
+city§Waltham
+state§MA
+country§United States
+phone§866 496 1805
+website§https://www.markforged.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§Markforged Holding Corporation produces and sells 3D printers, materials, software, and other related services worldwide. It offers desktop, industrial, and metal 3D printers; and composite, continuous fiber, and metal parts, as well as advanced 3D printing software. The company serves customers in aerospace, military and defense, industrial automation, space exploration, healthcare, and automotive industries. Markforged Holding Corporation was founded in 2013 and is headquartered in Waltham, Massachusetts.
+fullTimeEmployees§428
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shai  Terem', 'age': 45, 'title': 'President, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 842200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Karp', 'age': 48, 'title': 'General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 368700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Assaf  Zipori', 'age': 48, 'title': 'Acting CFO & Senior VP of Strategy and Corporate Development', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 351000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kara  Weiner', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Austin Richard Bohlig', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paulina  Bucko', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Hally', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dorit  Liberman', 'age': 53, 'title': 'Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Howard', 'title': 'Senior Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.5
+priceToSalesTrailing12Months§1.4389776
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.22
+exchange§NYQ
+quoteType§EQUITY
+shortName§Markforged Holding Corporation
+longName§Markforged Holding Corporation
+firstTradeDateEpochUtc§1602163800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ae06b2b-2f67-3d48-bdb8-070a91015854
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.5
+targetLowPrice§1.0
+targetMeanPrice§1.25
+targetMedianPrice§1.25
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§4.116
+grossMargins§0.46987998
+ebitdaMargins§-0.71857
+trailingPegRatio§None

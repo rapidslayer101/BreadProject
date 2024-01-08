@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 16:43:20.252686
+address1§201 Third Street
+address2§Suite 200
+city§San Francisco
+state§CA
+zip§94103
+country§United States
+phone§415 231 2353
+website§https://amplitude.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Amplitude, Inc. provides a digital analytics platform to analyze customer behavior within digital products in the United States and internationally. It offers Amplitude Analytics provides product, marketing, experience analytics, and AI-Driven alerts; Experimentation, a solution that integrates with analytics to plan, deliver, monitor, and analyze tests and product changes; Audience Management tools leverage the data in analytics to build audience lists through behavioral segmentation or machine learning powered predictions; and Data Streaming tools helps to move event data and user profiles to other tools in customers' stacks in real-time to destinations, such as marketing platforms, ad networks, personalization engines, and others; and Amplitude CDP, an insight-driven solution that encompasses the data infrastructure, audience management, and data streaming capabilities. The company also provides customer support services related to initial implementation setup, ongoing support, and application training. It delivers its application over the Internet as a subscription service using a software-as-a-service model. The company was formerly known as Sonalight, Inc. and changed its name to Amplitude, Inc. in December 2014. Amplitude, Inc. was incorporated in 2011 and is headquartered in San Francisco, California.
+fullTimeEmployees§675
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Spenser  Skates', 'age': 34, 'title': 'Co-Founder, CEO & Chairperson', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 450000, 'exercisedValue': 1647000, 'unexercisedValue': 14205645}, {'maxAge': 1, 'name': 'Mr. Thomas Neergaard Hansen', 'age': 52, 'title': 'President', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 742768, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis  Liu', 'age': 34, 'title': 'Founder, CTO & Director', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 400000, 'exercisedValue': 1211810, 'unexercisedValue': 4996603}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Wang', 'title': 'Founder & Chief Architect', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Harms', 'age': 57, 'title': 'CFO, Principal Financial Officer, Principal Accounting Officer & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yaoxian  Chew', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Fisher', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tifenn Dano Kwan', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristina  Johnson', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shadi  Rostami', 'title': 'Senior Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.448
+priceToSalesTrailing12Months§5.187028
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.12
+pegRatio§0.25
+exchange§NCM
+quoteType§EQUITY
+shortName§Amplitude, Inc.
+longName§Amplitude, Inc.
+firstTradeDateEpochUtc§1632835800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2402967b-54df-3edc-a22e-0439625556db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§11.0
+targetMeanPrice§12.38
+targetMedianPrice§12.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§2.486
+grossMargins§0.73014
+ebitdaMargins§-0.34409
+trailingPegRatio§None

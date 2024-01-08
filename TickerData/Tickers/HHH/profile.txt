@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 01:30:09.993433
+address1§9950 Woodloch Forest Drive
+address2§Suite 1100
+city§The Woodlands
+state§TX
+zip§77380
+country§United States
+phone§281 929 7700
+website§https://www.howardhughes.com
+industry§Real Estate—Diversified
+sector§Real Estate
+longBusinessSummary§Howard Hughes Holdings Inc. owns, manages, and develops commercial, residential, and mixed-use properties in the United States. It operates through four segments: Operating Assets; Master Planned Communities (MPCs); Seaport; and Strategic Developments. The Operating Assets segment owns retail, office, multi-family, hospitality, and other operating properties and investments primarily located in Houston, Texas; Columbia, Maryland; Las Vegas, Nevada; and Honolulu, Hawaii. The MPCs segment develops and sells detached and attached single family homes that range from entry-level to luxury homes to residential homebuilders and developers; and sells or leases land for commercial development, including land parcels designated for retail, office, hospitality, and residential projects. The Seaport segment is involved in the landlord operations, managed businesses, and events and sponsorships. The Strategic Development segment develops residential condominium and commercial property projects. This segment consists of development or redevelopment projects. Howard Hughes Holdings Inc. was founded in 2010 and is headquartered in The Woodlands, Texas.
+fullTimeEmployees§565
+companyOfficers§[{'maxAge': 1, 'name': "Mr. David R. O'Reilly", 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2565250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L. Jay Cross', 'age': 70, 'title': 'President', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 3105250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos  Olea', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1410269, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Michael Striph', 'age': 64, 'title': 'Executive VP & Head of Operations', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew D. Davis', 'title': 'Senior VP & Head of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elena  Verbinskaya', 'age': 44, 'title': 'Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric S. Holcomb', 'age': 48, 'title': 'Senior Vice President of Investor Relations', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cristina  Carlson', 'title': 'Senior VP & Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hope  VonBorkenhagen', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter G. Doyle FAIA, LEED AP', 'title': 'Executive Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.529
+priceToSalesTrailing12Months§3.5483654
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.73
+pegRatio§-0.51
+exchange§NYQ
+quoteType§EQUITY
+shortName§Howard Hughes Holdings Inc.
+longName§Howard Hughes Holdings Inc.
+firstTradeDateEpochUtc§1288963800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e2ed0f78-8ae9-365e-86ce-86d83fb7853e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§99.0
+targetLowPrice§90.0
+targetMeanPrice§93.5
+targetMedianPrice§92.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.26
+grossMargins§0.44381002
+ebitdaMargins§0.31112
+trailingPegRatio§None

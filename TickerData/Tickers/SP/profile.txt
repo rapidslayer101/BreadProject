@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 14:47:19.935858
+address1§200 East Randolph Street
+address2§Suite 7700
+city§Chicago
+state§IL
+zip§60601-7702
+country§United States
+phone§312 274 2000
+website§https://www.spplus.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§SP Plus Corporation provides mobility solutions, parking management, ground transportation, baggage, and other ancillary services in North America. The company operates in Commercial and Aviation segments. It provides on-site parking management, valet parking, ground transportation, facility maintenance, event logistics, remote airline check-in, security, municipal meter revenue collection and enforcement, and consulting services, as well as shuttle bus vehicles and drivers; baggage services, including delivery of delayed luggage and baggage handling services; wheelchair assist services; baggage repair and replacement services; and on-street parking meter collection and other forms of parking enforcement services. The company also offers facility maintenance services, including power sweeping and washing, painting and general repairs, and cleaning and seasonal services; security services comprising training and hiring of security officers and patrol, as well as customized services and technology; and an online and mobile app consumer platform through parking.com website. In addition, it provides multi-platform marketing services, including SP+, AeroParker, and KMP Digitata branded websites that offer clients a platform for marketing their facilities, mobile applications, search marketing, email marketing, and social media campaigns. The company offers its services primarily under the SP+, Sphere, Bags, AeroParker, MetroParker, and KMP Digitata brands. It serves private and public owners, municipalities, managers and developers of office buildings, residential and commercial properties, shopping centers and other retail properties, sports and special event complexes, hotels and resorts, healthcare facilities and medical centers, airlines, and cruise lines. The company was formerly known as Standard Parking Corporation and changed its name to SP Plus Corporation in December 2013. SP Plus Corporation was founded in 1929 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§12400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. G. Marc Baumann', 'age': 67, 'title': 'Chairman, CEO & President', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1834387, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kristopher H. Roy', 'age': 48, 'title': 'CFO & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 831820, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert A. Miles', 'age': 61, 'title': 'President of Bags', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 606376, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary T. Roberts', 'age': 46, 'title': 'Senior VP, Corporate Controller, Assistant Treasurer & Principal Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wenyu T. Blanchard', 'age': 49, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Connie H. Jin', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Colleen  Kozak', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Eckerling', 'title': 'Chief Growth Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ritu  Vig', 'age': 45, 'title': 'President of the Aviation Division', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher R. Sherman', 'age': 47, 'title': 'President of Commercial Division', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.251
+priceToSalesTrailing12Months§1.1619933
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.56
+pegRatio§1.72
+exchange§NMS
+quoteType§EQUITY
+shortName§SP Plus Corporation
+longName§SP Plus Corporation
+firstTradeDateEpochUtc§1086183000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§674769e3-326f-3cf9-b7af-4282f2815c02
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§64.0
+targetLowPrice§64.0
+targetMeanPrice§64.0
+targetMedianPrice§64.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.65
+earningsGrowth§-0.324
+grossMargins§0.28015
+ebitdaMargins§0.13457
+trailingPegRatio§None

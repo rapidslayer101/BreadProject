@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 20:44:08.820046
+address1§2116 South 17th Street
+city§Mattoon
+state§IL
+zip§61938-5973
+country§United States
+phone§217 235 3311
+website§https://www.consolidated.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Consolidated Communications Holdings, Inc., together with its subsidiaries, provides broadband and business communication solutions for consumer, commercial, and carrier channels in the United States. It offers high-speed broadband Internet access, SIP trunking, and voice over Internet protocol (VoIP) phone services; commercial data connectivity services in various markets, including Ethernet services, private line data services, software defined wide area network, and multi-protocol label switching services; networking services; cloud-based services; and data center and disaster recovery solutions. The company also provides voice services, such as local phone and long-distance services; and high-speed fiber data transmission services to regional and national interexchange; and wireless carriers, including Ethernet, cellular backhaul, dark fiber, and colocation services. In addition, it sells business equipment, as well as offers related hardware and maintenance support, video, and other miscellaneous services. Further, the company offers video services comprising high-definition television, digital video recorders (DVR), and/or a whole home DVR; and in-demand streaming TV services that provide endless entertainment options. Additionally, it provides network access services that include interstate and intrastate switched access, network special access, and end user access; and telephone directory publishing, video advertising, billing and support, and other miscellaneous services. Consolidated Communications Holdings, Inc. was founded in 1894 and is headquartered in Mattoon, Illinois.
+fullTimeEmployees§3200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. C. Robert Udell Jr.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1156067, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fred Albert Graffam III', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 893651, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabe  Waggoner', 'title': 'Executive Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Joseph Lunny', 'age': 59, 'title': 'Chief Technology Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Garrett Van Osdell', 'title': 'Chief Legal Officer, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer M. Spaude', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Stoll', 'title': 'President of Commercial & Carrier Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gaurav  Juneja', 'title': 'President of Consumer Business Unit & SMB', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Herrick', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1555027200
+payoutRatio§0.0
+fiveYearAvgDividendYield§12.12
+beta§1.08
+priceToSalesTrailing12Months§0.455144
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.27
+pegRatio§-1.8
+exchange§NMS
+quoteType§EQUITY
+shortName§Consolidated Communications Hol
+longName§Consolidated Communications Holdings, Inc.
+firstTradeDateEpochUtc§1122039000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ee1afb4-ace3-332c-8e4a-4c16e4744f15
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.7
+targetLowPrice§4.0
+targetMeanPrice§4.33
+targetMedianPrice§4.3
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.63
+grossMargins§0.53578997
+ebitdaMargins§0.2399
+trailingPegRatio§None

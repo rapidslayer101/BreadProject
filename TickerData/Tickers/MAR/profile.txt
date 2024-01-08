@@ -1,0 +1,54 @@
+# reload+after+2024-01-19 22:45:55.161173
+address1§7750 Wisconsin Avenue
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§301 380 3000
+website§https://www.marriott.com
+industry§Lodging
+sector§Consumer Cyclical
+longBusinessSummary§Marriott International, Inc. operates, franchises, and licenses hotel, residential, timeshare, and other lodging properties worldwide. The company operates through U.S. and Canada, and International segments. It operates its properties under the JW Marriott, The Ritz-Carlton, Ritz-Carlton Reserve, W Hotels, The Luxury Collection, St. Regis, EDITION, Bvlgari, Renaissance, Le Méridien, Marriott, Sheraton, Westin, Four Points, Delta Hotels by Marriott, Autograph Collection, Tribute Portfolio, Marriott Hotels, Marriott Executive Apartments, Marriott Vacation Club, Gaylord Hotels, Design Hotels, Courtyard, Residence Inn, Fairfield, SpringHill Suites, TownePlace Suites, Protea Hotels, Aloft Hotels, AC Hotels by Marriott, Element Hotels, and Moxy Hotels brand names. It operates properties under 30 brand names in 138 countries and territories. Marriott International, Inc. was founded in 1927 and is headquartered in Bethesda, Maryland.
+fullTimeEmployees§377000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony G. Capuano Jr.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 6363747, 'exercisedValue': 0, 'unexercisedValue': 6848845}, {'maxAge': 1, 'name': 'Ms. Kathleen Kelly Oberg', 'age': 62, 'title': 'CFO & Executive VP of Development', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2661490, 'exercisedValue': 1990275, 'unexercisedValue': 1517224}, {'maxAge': 1, 'name': 'Mr. William P. Brown', 'age': 62, 'title': 'Group President of United States & Canada', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2307787, 'exercisedValue': 1178232, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erika L. Alexander', 'age': 56, 'title': 'Chief Global Officer of Global Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Felitia O. Lee', 'age': 61, 'title': 'Controller & Chief Accounting Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Drew  Pinto', 'title': 'Executive VP and Chief Revenue & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jackie Burka McConagha', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rena Hozore Reiss', 'age': 63, 'title': 'Executive VP & General Counsel', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tricia A. Primrose', 'title': 'Executive VP and Chief Global Communications & Public Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin T. Breland', 'age': 47, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.08
+dividendYield§0.0094
+exDividendDate§1700524800
+payoutRatio§0.19510001
+fiveYearAvgDividendYield§1.29
+beta§1.613
+priceToSalesTrailing12Months§10.663198
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.68
+pegRatio§1.45
+exchange§NMS
+quoteType§EQUITY
+shortName§Marriott International
+longName§Marriott International, Inc.
+firstTradeDateEpochUtc§890663400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6ab04619-82f8-3fe5-bc6c-71e6faef45b3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§235.0
+targetLowPrice§160.0
+targetMeanPrice§213.84
+targetMedianPrice§215.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§19
+quickRatio§0.445
+earningsGrowth§0.294
+grossMargins§0.8113
+ebitdaMargins§0.72266
+trailingPegRatio§1.5554

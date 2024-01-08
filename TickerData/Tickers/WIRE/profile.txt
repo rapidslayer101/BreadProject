@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 20:47:59.876727
+address1§1329 Millwood Road
+city§McKinney
+state§TX
+zip§75069
+country§United States
+phone§972 562 9473
+fax§972 562 3644
+website§https://www.encorewire.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§Encore Wire Corporation engages in manufacture and sale of electrical building wires and cables in the United States. The company offers NM-B cables, UF-B cables, THHN/THWN-2, XHHW-2, USE-2, RHH/RHW-2, and other types of wire products, including SEU, SER, photovoltaic, URD, tray cables, metal-clads, and armored cables. It sells its products to wholesale electrical distributors primarily through independent manufacturers' representatives for residential, commercial, industrial, and renewable energy sectors. Encore Wire Corporation was incorporated in 1989 and is headquartered in McKinney, Texas.
+fullTimeEmployees§1672
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel L. Jones', 'age': 60, 'title': 'Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 7117837, 'exercisedValue': 0, 'unexercisedValue': 12903160}, {'maxAge': 1, 'name': 'Mr. Bret J. Eckert', 'age': 56, 'title': 'Executive VP, CFO, VP of Finance, Treasurer & Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3541551, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William T. Bigbee', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin M. Keiffer', 'title': 'Vice President of Sales & Marketing', 'fiscalYear': 2022, 'totalPay': 331235, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew D. Ford', 'title': 'Assistant Secretary & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0004
+exDividendDate§1704326400
+payoutRatio§0.0031
+fiveYearAvgDividendYield§0.1
+beta§1.293
+priceToSalesTrailing12Months§1.2899826
+currency§USD
+dateShortInterest§1702598400
+forwardEps§17.01
+pegRatio§1.02
+exchange§NMS
+quoteType§EQUITY
+shortName§Encore Wire Corporation
+longName§Encore Wire Corporation
+firstTradeDateEpochUtc§711293400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§42ee4959-b75f-3347-a0c2-c511d0c45f57
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§241.0
+targetLowPrice§235.0
+targetMeanPrice§238.67
+targetMedianPrice§240.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§6.795
+earningsGrowth§-0.517
+grossMargins§0.29223
+ebitdaMargins§0.22674999
+trailingPegRatio§None

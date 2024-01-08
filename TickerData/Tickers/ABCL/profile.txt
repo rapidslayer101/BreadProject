@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 21:43:05.621577
+address1§2215 Yukon Street
+city§Vancouver
+state§BC
+zip§V5Y 0A1
+country§Canada
+phone§604-559-9005
+website§https://www.abcellera.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§AbCellera Biologics Inc. builds an engine for antibody drug discovery and development. Its engine discovers antibodies from natural immune responses, which are pre-enriched for antibodies. The company had discovery programs that are either completed, in progress, or under contract with partners. It has a research collaboration and license agreement with Eli Lilly and Company; and a research collaboration with Confo Therapeutics for the discovery of therapeutic antibody candidates targeting two undisclosed GPCR targets. The company was incorporated in 2012 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§630
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Carl L.G. Hansen Ph.D.', 'age': 48, 'title': 'CEO, President & Chairperson', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 711470, 'exercisedValue': 1853937, 'unexercisedValue': 14968259}, {'maxAge': 1, 'name': 'Mr. Andrew  Booth M.B.A.', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 642419, 'exercisedValue': 510821, 'unexercisedValue': 39609720}, {'maxAge': 1, 'name': 'Dr. Veronique  Lecault Ph.D.', 'age': 38, 'title': 'COO & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 645074, 'exercisedValue': 0, 'unexercisedValue': 11143340}, {'maxAge': 1, 'name': 'Mr. Tryn T. Stimart Esq., J.D.', 'age': 53, 'title': 'Chief Legal Officer, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 644400, 'exercisedValue': 0, 'unexercisedValue': 7366320}, {'maxAge': 1, 'name': 'Mr. Neil  Aubuchon M.B.A.', 'age': 53, 'title': 'Chief Commercial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 684813, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marcie  Thiessen CPA, CGA', 'title': 'Senior Director of Finance & Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ester  Falconer Ph.D.', 'age': 48, 'title': 'Chief Technology Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Josephine  Hellschlienger Ph.D.', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tiffany  Chiu B.Sc., Ph.D.', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Graham  Craig M.Sc.', 'title': 'Director of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§4
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.378
+priceToSalesTrailing12Months§33.628876
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.62
+pegRatio§-1.26
+exchange§NMS
+quoteType§EQUITY
+shortName§AbCellera Biologics Inc.
+longName§AbCellera Biologics Inc.
+firstTradeDateEpochUtc§1607697000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3bee7a8c-17d1-3746-82e5-1968755076f0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§6.0
+targetMeanPrice§18.0
+targetMedianPrice§20.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§7.468
+grossMargins§-2.11236
+ebitdaMargins§0.0
+trailingPegRatio§None

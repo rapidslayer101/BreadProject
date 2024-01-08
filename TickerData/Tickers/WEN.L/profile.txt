@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 11:41:08.156808
+address1§St Paul’s Gate
+address2§4th Floor 22-24 New Street
+city§Jersey
+zip§JE1 4TR
+country§Jersey
+website§https://www.wentplc.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Wentworth Resources plc engages in the exploration, development, and production of natural gas and other hydrocarbons. The company owns interest in the Mnazi Bay concession totaling an area of approximately 756 square kilometers located in southern Tanzania. Wentworth Resources plc was incorporated in 2000 and is based in Jersey, the United Kingdom.
+fullTimeEmployees§16
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Katherine Louise Margiad Ward', 'age': 44, 'title': 'CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 594107, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew John Smith BA (Hons), FCA', 'age': 44, 'title': 'Group Financial Controller', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert P. McBean', 'age': 78, 'title': 'President of Wentworth Tanzania', 'yearBorn': 1944, 'fiscalYear': 2022, 'totalPay': 176740, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron  Snow', 'title': 'Head of Subsurface & Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Jacobs', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0509
+exDividendDate§1662595200
+payoutRatio§0.50119996
+priceToSalesTrailing12Months§1.3882575
+currency§GBp
+forwardEps§0.02
+exchange§LSE
+quoteType§EQUITY
+shortName§WENTWORTH RESOURCES PLC ORD NPV
+longName§Wentworth Resources plc
+firstTradeDateEpochUtc§1319526000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ae595ea0-406d-3603-81a5-431d42dc3ef1
+targetHighPrice§0.42
+targetLowPrice§0.35
+targetMeanPrice§0.39
+targetMedianPrice§0.39
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§18.774
+earningsGrowth§-0.021
+grossMargins§0.89692
+ebitdaMargins§0.63762003
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 16:34:17.547678
+address1§39 Tesla
+city§Irvine
+state§CA
+zip§92618
+country§United States
+phone§949 428 2525
+website§https://www.vizio.com
+industry§Consumer Electronics
+sector§Technology
+longBusinessSummary§VIZIO Holding Corp., through its subsidiaries, provides smart televisions, sound bars, and accessories in the United States. It also operates Platform+ that comprises SmartCast, a Smart TV operating system, enabling integrated home entertainment solution, and data intelligence and services products through Inscape. Its SmartCast delivers content and applications through an easy-to-use interface, as well as supports streaming apps, such as Amazon Prime Video, Apple TV+, Discovery+, Disney+, HBO Max, Hulu, Netflix, Paramount+, Peacock, and YouTube TV and hosts its free ad-supported video app, WatchFree, and VIZIO Free channels. In addition, the company provides support for third-party voice platforms, including Amazon Alexa, Apple HomeKit, and Google Voice Assistant, as well as second screen viewing. It sells its products to retailers and through online channels. VIZIO Holding Corp. was incorporated in 2002 and is headquartered in Irvine, California.
+fullTimeEmployees§900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William W. Wang', 'age': 60, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1993609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Wong', 'age': 62, 'title': 'President & COO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1880421, 'exercisedValue': 0, 'unexercisedValue': 10126260}, {'maxAge': 1, 'name': 'Mr. Adam R. Townsend', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1121874, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Michael Joseph O'Donnell", 'age': 40, 'title': 'Chief Revenue & Strategic Growth Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1242817, 'exercisedValue': 0, 'unexercisedValue': 542700}, {'maxAge': 1, 'name': 'Michael  Marks', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerry C. Huang Esq.', 'age': 51, 'title': 'General Counsel & VP', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.9
+priceToSalesTrailing12Months§0.85988396
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.19
+pegRatio§0.42
+exchange§NYQ
+quoteType§EQUITY
+shortName§VIZIO Holding Corp.
+longName§VIZIO Holding Corp.
+firstTradeDateEpochUtc§1616765400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§98dc8f95-157e-3c62-b8f9-ea5c671822cd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§6.0
+targetMeanPrice§9.46
+targetMedianPrice§10.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.516
+earningsGrowth§5.91
+grossMargins§0.20096001
+ebitdaMargins§0.01911
+trailingPegRatio§1.1477

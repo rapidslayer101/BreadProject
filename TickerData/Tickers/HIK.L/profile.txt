@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 12:38:15.305851
+address1§1 New Burlington Place
+city§London
+zip§W1S 2HR
+country§United Kingdom
+phone§44 20 7399 2760
+fax§44 20 7399 2761
+website§https://www.hikma.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Hikma Pharmaceuticals PLC develops, manufactures, markets, and sells a range of generic, branded, and in-licensed pharmaceutical products. The company offers its products in solid, semi-solid, liquid, and injectable final dosage forms in North America, the Middle East, North Africa, and Europe. It operates through three segments: Injectables, Generics, and Branded. The Injectables segment provides generic injectable products primarily for use in hospitals. The Generics segment offers oral and other non-injectable generic products for the retail market. The Branded segment offers branded generics and in-licensed products to retail and hospital markets. The company provides its products in various therapeutic areas, including respiratory, oncology, and pain management. The company was founded in 1978 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§8700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mazen Samih Taleb Darwazah', 'age': 65, 'title': 'Executive Vice Chairman & President of MENA', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1533331, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Riad  Mishlawi', 'title': 'Chief Executive Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Khalid Waleed Hosny Al Nabilsi', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Featherstone', 'title': 'Associate Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bassam Wael Rushdi Kanaan CFA, CPA', 'age': 58, 'title': 'Executive Vice President of Corporate Development and M&A', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hussein Omar Arkhagha', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Ringdal', 'title': 'Executive Vice President of Strategic Planning & Global Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Hoffmann', 'title': 'President of Generics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel  Park', 'title': 'Global Head of Intellectual Property (IP) & General Counsel for US', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Larkins Ph.D.', 'title': 'President of Injectables Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§9
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.49
+dividendYield§0.026600001
+exDividendDate§1691625600
+payoutRatio§0.8279
+fiveYearAvgDividendYield§1.96
+beta§0.414
+priceToSalesTrailing12Months§1.504905
+currency§GBp
+forwardEps§1.67
+pegRatio§2.17
+exchange§LSE
+quoteType§EQUITY
+shortName§HIKMA PHARMACEUTICALS PLC ORD S
+longName§Hikma Pharmaceuticals PLC
+firstTradeDateEpochUtc§1130832000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fd537620-7ee9-3547-bfe6-854825fddff7
+targetHighPrice§27.36
+targetLowPrice§18.4
+targetMeanPrice§22.42
+targetMedianPrice§22.34
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.987
+earningsGrowth§-0.223
+grossMargins§0.49688998
+ebitdaMargins§0.30135
+trailingPegRatio§None

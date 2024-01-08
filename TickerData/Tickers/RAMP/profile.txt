@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 23:32:38.904347
+address1§225 Bush Street
+address2§Seventeenth Floor
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§888-987-6764
+website§https://liveramp.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§LiveRamp Holdings, Inc., a technology company, operates a data collaboration platform in the United States, Europe, the Asia-Pacific, and internationally. The company operates LiveRamp Data Collaboration platform enables an organization to unify customer and prospect data to build a single view of the customer in a way that protects consumer privacy. Its platform supports various people-based marketing solutions, including data collaboration, activation, measurement and analytics, identity, and data marketplace. The company sells its solutions to enterprise marketers, agencies, marketing technology providers, publishers, and data providers in various industry verticals, such as financial, insurance and investment services, retail, automotive, telecommunications, high tech, consumer packaged goods, healthcare, travel, entertainment, and non-profit. The company was formerly known as Acxiom Holdings, Inc. and changed its name to LiveRamp Holdings, Inc. in October 2018. LiveRamp Holdings, Inc. was incorporated in 2018 and is headquartered in San Francisco, California.
+fullTimeEmployees§1370
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott E. Howe', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 1122714, 'exercisedValue': 2892897, 'unexercisedValue': 957826}, {'maxAge': 1, 'name': 'Mr. Mohsin  Hussain', 'age': 50, 'title': 'Executive VP of Engineering & CTO', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 594666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Warren C. Jenson', 'age': 66, 'title': 'Consultant', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 1101407, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald C. Jones', 'age': 67, 'title': 'Executive VP, Chief Ethics & Legal Officer and Secretary', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 621431, 'exercisedValue': 0, 'unexercisedValue': 23128}, {'maxAge': 1, 'name': 'Ms. Lauren R. Dillard', 'age': 36, 'title': 'Executive VP & CFO', 'yearBorn': 1987, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet  Cinfio', 'title': 'Chief Information Officer & Senior VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Lee Stewart', 'title': 'Senior VP, General Counsel & Global Chief Data Ethics Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Shapiro', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharawn  Tipton', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederic  Jouve', 'title': 'Group Managing Director of Asia Pacific', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1219104000
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.1
+beta§1.084
+priceToSalesTrailing12Months§3.6373796
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.52
+pegRatio§1.28
+exchange§NYQ
+quoteType§EQUITY
+shortName§LiveRamp Holdings, Inc.
+longName§LiveRamp Holdings, Inc.
+firstTradeDateEpochUtc§440260200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f89e1aea-17dc-3731-85f3-c89a72d3df3c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§24.0
+targetMeanPrice§38.2
+targetMedianPrice§40.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§3.743
+grossMargins§0.72055
+ebitdaMargins§-0.01317
+trailingPegRatio§1.0157

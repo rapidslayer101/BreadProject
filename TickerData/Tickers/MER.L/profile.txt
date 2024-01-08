@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 20:39:41.248614
+address1§1390 Montpellier Court
+address2§Gloucester Business Park Brockworth
+city§Gloucester
+zip§GL3 4AH
+country§United Kingdom
+phone§44 14 5263 4600
+website§https://www.mearsgroup.co.uk
+industry§Personal Services
+sector§Consumer Cyclical
+longBusinessSummary§Mears Group plc, through its subsidiaries, provides various outsourced services to the public and private sectors in the United Kingdom. It offers rapid-response and planned maintenance services to local authorities; gas and repair services; and maintenance and repairs, capital works, energy investment, and regeneration solutions for public buildings, as well as grounds maintenance services. The company also provides housing management services, which include supply of affordable homes to public and private sectors, emergency and temporary accommodation services, affordable housing/social housing management, housing with care services, and housing services to government departments. In addition, it offers house building services; and facilities management services to the public and private sectors, including defense estates, education, healthcare, public buildings, and commercial office accommodation. The company was founded in 1988 and is headquartered in Gloucester, the United Kingdom.
+fullTimeEmployees§5500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew C. M. Smith', 'age': 51, 'title': 'CFO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 578000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lucas  Critchley', 'age': 40, 'title': 'COO & Executive Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Burt', 'age': 57, 'title': 'Group Director of Health, Safety, & Compliance', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 18000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Taylor', 'title': 'Chief Operating Officer of Mears Housing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan  Mallen-Beadle', 'title': 'Managing Director of Mears Living', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Westran', 'age': 46, 'title': 'Company Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bernadette  Walsh', 'age': 61, 'title': 'Chief Operating Officer of Mears Care', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.035
+exDividendDate§1696464000
+payoutRatio§0.4054
+fiveYearAvgDividendYield§3.57
+beta§1.117
+priceToSalesTrailing12Months§0.3177647
+currency§GBp
+forwardEps§22.65
+pegRatio§0.96
+exchange§LSE
+quoteType§EQUITY
+shortName§MEARS GROUP PLC ORD 1P
+longName§Mears Group plc
+firstTradeDateEpochUtc§844412400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b1983fb7-b40c-359d-8903-6c4a4eff027a
+targetHighPrice§382.0
+targetLowPrice§300.0
+targetMeanPrice§322.5
+targetMedianPrice§304.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.925
+earningsGrowth§0.115
+grossMargins§0.20031
+ebitdaMargins§0.05199
+trailingPegRatio§None

@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 20:45:37.930970
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is a modified-dividend yield-weighted index of companies principally engaged in the business of providing financial services and products, as determined by the index provider. The underlying index is designed to track the performance of financial companies with competitive dividend yields that are publicly-traded in the U.S.
+maxAge§86400
+priceHint§2
+yield§0.1146
+totalAssets§378555552
+navPrice§15.9
+currency§USD
+category§Financial
+ytdReturn§0.0031526
+beta3Year§1.36
+fundFamily§Invesco
+fundInceptionDate§1291248000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.091065705
+fiveYearAverageReturn§0.048333902
+exchange§NGM
+quoteType§ETF
+shortName§Invesco KBW High Dividend Yield
+longName§Invesco KBW High Dividend Yield Financial ETF
+firstTradeDateEpochUtc§1291300200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1b3cdfdf-c731-38fd-85d3-7e2914d8fe5d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

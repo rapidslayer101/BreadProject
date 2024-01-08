@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 19:36:07.483050
+address1§No. 1 London Bridge
+city§London
+zip§SE1 9BG
+country§United Kingdom
+phone§44 20 3953 3072
+website§https://www.dotdigitalgroup.com
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§dotdigital Group Plc engages in the provision of intuitive software as a service (SaaS) and managed services to digital marketing professionals worldwide. It offers Dotdigital, a SaaS-based an all-in-one customer experience and data platform that breaks down data siloes to create a centralized data hub that delivers actionable insights and enables companies to create, test, and send data-driven automated campaigns through various channels, such as web, email, SMS, WhatsApp, chat, push, social, ads, and others. The company was founded in 1999 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Milan  Patel ACCA, ACSI, FCCA', 'age': 39, 'title': 'CEO, President & Executive Director', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 721000, 'exercisedValue': 0, 'unexercisedValue': 1156375}, {'maxAge': 1, 'name': 'Mr. Alistair Timothy Ravenscroft Gurney F.C.A.', 'age': 41, 'title': 'CFO & Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 329982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Shaw', 'title': 'Chief Product & Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George  Kasparian', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.01
+exDividendDate§1704931200
+payoutRatio§0.2384
+fiveYearAvgDividendYield§0.75
+beta§1.234
+priceToSalesTrailing12Months§4.4288154
+currency§GBp
+forwardEps§4.6
+pegRatio§11.29
+lastDividendValue§1.0
+lastDividendDate§1704931200
+exchange§LSE
+quoteType§EQUITY
+shortName§DOTDIGITAL GROUP PLC ORD 0.5P
+longName§dotdigital Group Plc
+firstTradeDateEpochUtc§1301382000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§827ca2b8-2306-3972-8fdb-cf9e871a0eb2
+messageBoardId§finmb_52090763
+targetHighPrice§150.0
+targetLowPrice§110.0
+targetMeanPrice§119.0
+targetMedianPrice§110.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§3.956
+earningsGrowth§0.199
+grossMargins§0.7927
+ebitdaMargins§0.20142001
+trailingPegRatio§None

@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 21:46:46.186651
+address1§4200 Marathon Boulevard
+address2§Suite 200
+city§Austin
+state§TX
+zip§78756
+country§United States
+phone§737 255 7194
+fax§210 974 6901
+website§https://plustherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Plus Therapeutics, Inc., a clinical-stage pharmaceutical company, focuses on the development, manufacture, and commercialization of treatments for patients with cancer. Its lead drug candidate is Rhenium-186Re obisbemeda, a patented radiotherapy that targets central nervous system cancers and other cancers, including recurrent glioblastoma, leptomeningeal metastases, and pediatric brain cancers. The company also develops Rhenium-188 NanoLiposome Biodegradable Alginate Microsphere that is designed to treat various solid organ cancers comprising primary and secondary liver cancers by intra-arterial injection. It has license agreements with NanoTx, Corp. and The University of Texas Health Science Center at San Antonio. The company was formerly known as Cytori Therapeutics, Inc. and changed its name to Plus Therapeutics, Inc. in July 2019. Plus Therapeutics, Inc. was founded in 1996 and is headquartered in Austin, Texas.
+fullTimeEmployees§17
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Marc H. Hedrick M.B.A., M.D.', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 954651, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew J. Sims CPA', 'age': 50, 'title': 'VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 446176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Norman D.  LaFrance FACNP, FACP, M.D.', 'age': 75, 'title': 'Chief Medical Officer & Senior VP', 'yearBorn': 1948, 'fiscalYear': 2022, 'totalPay': 637811, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Desiree  Smith', 'age': 59, 'title': 'Corporate Controller, Principal Financial & Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John K. Fraser', 'age': 62, 'title': 'Chief Scientist', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.636
+priceToSalesTrailing12Months§2.1461835
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.93
+exchange§NCM
+quoteType§EQUITY
+shortName§PLUS THERAPEUTICS, Inc.
+longName§Plus Therapeutics, Inc.
+firstTradeDateEpochUtc§994858200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bd166395-f6c5-3795-b061-111c794ae585
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§4.0
+targetMeanPrice§28.0
+targetMedianPrice§21.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.053
+grossMargins§-1.40842
+ebitdaMargins§0.0
+trailingPegRatio§None

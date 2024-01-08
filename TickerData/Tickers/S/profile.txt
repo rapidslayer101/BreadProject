@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 08:32:56.149629
+address1§444 Castro Street
+address2§Suite 400
+city§Mountain View
+state§CA
+zip§94041
+country§United States
+phone§855 868 3733
+website§https://www.sentinelone.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§SentinelOne, Inc. operates as a cybersecurity provider in the United States and internationally. Its Singularity Extended Detection and Response Platform delivers an artificial intelligence-powered autonomous threat prevention, detection, and response capabilities across an organization's endpoints; and cloud workloads, which enables seamless and automatic protection against a spectrum of cyber threats. The company was formerly known as Sentinel Labs, Inc. and changed its name to SentinelOne, Inc. in March 2021. SentinelOne, Inc. was incorporated in 2013 and is headquartered in Mountain View, California.
+fullTimeEmployees§2300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tomer  Weingarten', 'age': 39, 'title': 'Co-Founder, Chairman, President & CEO', 'yearBorn': 1984, 'fiscalYear': 2023, 'totalPay': 1494557, 'exercisedValue': 18421332, 'unexercisedValue': 29436148}, {'maxAge': 1, 'name': 'Mr. David  Bernhardt', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 709064, 'exercisedValue': 1219539, 'unexercisedValue': 13280874}, {'maxAge': 1, 'name': 'Mr. Narayanan  Srivatsan', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 851487, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Smith Jr.', 'age': 42, 'title': 'Chief Product & Technology Officer', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 749500, 'exercisedValue': 0, 'unexercisedValue': 1794476}, {'maxAge': 1, 'name': 'Mr. Keenan M. Conder', 'age': 60, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 708438, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin  Tomasello CPA', 'age': 52, 'title': 'Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas G. Clark C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Parrinello', 'age': 55, 'title': 'Chief Sales Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Salvagno', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally  Jenkins', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.708
+priceToSalesTrailing12Months§12.336322
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.06
+pegRatio§-2.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§SentinelOne, Inc.
+longName§SentinelOne, Inc.
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5dbc98dc-c983-3707-a8bd-082d1a47546e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§15.0
+targetMeanPrice§26.12
+targetMedianPrice§26.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§29
+quickRatio§1.868
+grossMargins§0.70198
+ebitdaMargins§-0.62615
+trailingPegRatio§None

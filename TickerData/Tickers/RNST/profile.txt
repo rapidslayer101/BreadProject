@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 08:32:50.035468
+address1§209 Troy Street
+city§Tupelo
+state§MS
+zip§38804-4827
+country§United States
+phone§662 680 1001
+website§https://investors.renasant.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Renasant Corporation operates as a bank holding company for Renasant Bank that provides a range of financial, wealth management, fiduciary, and insurance services to retail and commercial customers. It operates through three segments: Community Banks, Insurance, and Wealth Management. The Community Banks segment offers checking and savings accounts, business and personal loans, asset-based lending, and factoring equipment leasing services, as well as safe deposit and night depository facilities. It also provides commercial, financial, and agricultural loans; equipment financing and leasing; real estate1-4 family mortgage; real estatecommercial mortgage; real estateconstruction loans for the construction of single family residential properties, multi-family properties, and commercial projects; installment loans to individuals; and interim construction loans, as well as automated teller machine (ATM), online and mobile banking, call center, and treasury management services. The Insurance segment provides insurance agency services, such as commercial and personal insurance products through insurance carriers. The Wealth Management segment offers a range of wealth management and fiduciary services, including administration and management of trust accounts, such as personal and corporate benefit accounts, and custodial accounts, as well as accounting and money management for trust accounts; annuities, mutual funds, and other investment services through a third party broker-dealer; administrative and compliance services; and qualified retirement plans, IRAs, employee benefit plans, personal trusts, and estates. Renasant Corporation was founded in 1904 and is headquartered in Tupelo, Mississippi.
+fullTimeEmployees§2334
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward Robinson McGraw', 'age': 76, 'title': 'Executive Chairman of the Board', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 1626448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Mitchell Waycaster', 'age': 64, 'title': 'CEO & Executive Vice Chairman', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2340755, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin D. Chapman', 'age': 47, 'title': 'President & COO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1484531, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James C. Mabry IV', 'age': 65, 'title': 'Executive VP & CFO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1392300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis J. Perry', 'age': 60, 'title': 'Executive Vice President', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1116456, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly W. Hutcheson', 'age': 40, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark W. Jeanfreau', 'age': 47, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Sterling Oxford', 'age': 46, 'title': 'Chief Marketing Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart R. Johnson', 'age': 69, 'title': 'Executive Vice President', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 291248, 'exercisedValue': 9686, 'unexercisedValue': 57325}, {'maxAge': 1, 'name': 'Mr. James W. Gray', 'age': 66, 'title': 'Executive Vice President', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 349192, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.88
+dividendYield§0.0272
+exDividendDate§1702598400
+payoutRatio§0.3045
+fiveYearAvgDividendYield§2.73
+beta§1.107
+priceToSalesTrailing12Months§2.8847084
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.53
+pegRatio§1.06
+exchange§NYQ
+quoteType§EQUITY
+shortName§Renasant Corporation
+longName§Renasant Corporation
+firstTradeDateEpochUtc§704122200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§42e09c05-8571-3299-aea3-9dae30a759f9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§27.5
+targetMeanPrice§31.14
+targetMedianPrice§29.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§7
+earningsGrowth§-0.108
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

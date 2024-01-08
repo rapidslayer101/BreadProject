@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 22:27:10.951067
+address1§5059 N.E. 18th Avenue
+city§Fort Lauderdale
+state§FL
+zip§33334
+country§United States
+phone§954 377 1961
+website§https://www.flanigans.net
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Flanigan's Enterprises, Inc., together with its subsidiaries, operates a chain of full-service restaurants and package liquor stores in South Florida. The company operates in two segments, Package Stores and Restaurants. It operates package liquor stores under the Big Daddy's Liquors name, which offer private label liquors, beer, and wines; and restaurants under the Flanigan's Seafood Bar and Grill service mark that provide alcoholic beverages and full food services. The company was incorporated in 1959 and is headquartered in Fort Lauderdale, Florida.
+fullTimeEmployees§707
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James G. Flanigan II', 'age': 58, 'title': 'Chairman, CEO & President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1808000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Kastner', 'age': 69, 'title': 'CFO, General Counsel, Secretary & Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1379000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. August H. Bucci', 'age': 78, 'title': 'COO, Executive VP & Director', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 1379000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Christopher Barry O'Neil", 'age': 57, 'title': 'VP of Package Operations & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 306000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.45
+dividendYield§0.0172
+exDividendDate§1686268800
+payoutRatio§0.2093
+fiveYearAvgDividendYield§4.0
+beta§0.799
+priceToSalesTrailing12Months§0.000354655
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.45
+lastDividendDate§1686268800
+exchange§ASE
+quoteType§EQUITY
+shortName§Flanigan's Enterprises, Inc.
+longName§Flanigan's Enterprises, Inc.
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46187049-a76c-3303-9dd5-abad6290a90f
+messageBoardId§finmb_272761
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.616
+grossMargins§0.20915002
+ebitdaMargins§0.08691
+trailingPegRatio§None

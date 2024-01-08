@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 20:33:30.606463
+address1§Building 100
+address2§207 High Point Drive
+city§Victor
+state§NY
+zip§14564
+country§United States
+phone§585 678 7100
+website§https://www.cbrands.com
+industry§Beverages—Wineries & Distilleries
+sector§Consumer Defensive
+longBusinessSummary§Constellation Brands, Inc., together with its subsidiaries, produces, imports, markets, and sells beer, wine, and spirits in the United States, Canada, Mexico, New Zealand, and Italy. The company provides beer primarily under the Corona Extra, Corona Premier, Corona Familiar, Corona Light, Corona Refresca, Corona Hard Seltzer, Modelo Especial, Modelo Negra, Modelo Chelada, Victoria, Vicky Chamoy, and Pacifico brands. It also offers wine under the Cook's California Champagne, Kim Crawford, Meiomi, Mount Veeder, Ruffino, SIMI, My Favorite Neighbor, Robert Mondavi Winery, Schrader, and The Prisoner Wine Company brands; and spirits under the Casa Noble, Copper & Kings, High West, Mi CAMPO, Nelson's Green Brier, and SVEDKA brands. It provides its products to wholesale distributors, retailers, on-premise locations, and state alcohol beverage control agencies. The company was founded in 1945 and is headquartered in Victor, New York.
+fullTimeEmployees§10700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William A. Newlands', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 4679181, 'exercisedValue': 0, 'unexercisedValue': 6380125}, {'maxAge': 1, 'name': 'Mr. Garth  Hankinson', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2052149, 'exercisedValue': 472463, 'unexercisedValue': 1477231}, {'maxAge': 1, 'name': 'Mr. James O. Bourdeau', 'age': 58, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1403718, 'exercisedValue': 1353412, 'unexercisedValue': 1473443}, {'maxAge': 1, 'name': 'Mr. Robert L. Hanson', 'age': 60, 'title': 'Executive VP and President of Wine & Spirits Division', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 2018971, 'exercisedValue': 0, 'unexercisedValue': 1559019}, {'maxAge': 1, 'name': 'Mr. James A. Sabia Jr.', 'age': 62, 'title': 'Executive VP, President of Beer Division & President of Crown', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1876723, 'exercisedValue': 1423843, 'unexercisedValue': 2368256}, {'maxAge': 1, 'name': 'Mr. Michael  Becka', 'title': 'Senior VP of Corporate Finance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ash  Mehra', 'title': 'Chief Data & Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Suarez', 'title': 'Senior VP of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  McGrew', 'age': 49, 'title': 'EVP and Chief Communications, Strategy, ESG & Diversity Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Steve  King', 'title': 'SVP of Corporate Development and Financial Planning & Analytics', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§3.56
+dividendYield§0.014400001
+exDividendDate§1698883200
+payoutRatio§0.4026
+fiveYearAvgDividendYield§1.45
+beta§0.964
+priceToSalesTrailing12Months§4.629354
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.41
+pegRatio§1.77
+exchange§NYQ
+quoteType§EQUITY
+shortName§Constellation Brands, Inc.
+longName§Constellation Brands, Inc.
+firstTradeDateEpochUtc§700842600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§16c070ad-8526-3e04-8ec0-b53f8aecbb2b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§311.0
+targetLowPrice§252.0
+targetMeanPrice§292.76
+targetMedianPrice§296.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§0.289
+earningsGrowth§0.095
+grossMargins§0.5033
+ebitdaMargins§0.36119998
+trailingPegRatio§1.9822

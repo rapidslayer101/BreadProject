@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 09:38:27.131827
+address1§Lakeside
+address2§Solihull Parkway Birmingham Business Park
+city§Birmingham
+zip§B37 7XZ
+country§United Kingdom
+phone§44 12 1717 3700
+fax§44 12 1717 3701
+website§https://www.imiplc.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§IMI plc, a specialist engineering company, designs and manufactures engineering products in the United Kingdom, Germany, rest of Europe, the United States of America, rest of the Americas, China, rest of Asia Pacific, the Middle East, and Africa. It operates through IMI Precision Engineering, IMI Critical Engineering, and IMI Hydronic Engineering segments. The IMI Precision Engineering segment engages in the design and manufacture of motion and fluid control technologies for industrial automation, precision fluid original equipment manufacturer, and transportation applications under the Norgern, Bimba, Buschjost, FAS, Heroin, IMI Adaptas, Kloehn, and Bahr brands. Its IMI Critical Engineering segment provides flow control solutions, which includes valves and actuators to control the flow of steam, gas, and liquids for fossil power, oil and gas, refining and petrochemical, nuclear, and marine markets under the IMI Bopp & Reuther, IMI CCI, IMI Fluid Kinetics, IMI NH, IMI Orton, IMI PBM, IMI Remosa, IMI STI, IMI TH Jansen, IMI Truflo Italy, IMI Truflo Marine, IMI Truflo Rona, IMI Zikesch, and IMI Z&J brands. The IMI Hydronic Engineering division provides technologies that deliver water-based heating and cooling systems for the residential and commercial building sectors under the IMI Pneumatex, IMI TA, IMI Flow Design, IMI Heimeier, IMI Aero-Dynamiek, and IMI Heatmiser brands. IMI plc was formerly known as Imperial Metal Industries Limited and changed its name to IMI plc in December 1978. The company was founded in 1862 and is headquartered in Birmingham, the United Kingdom.
+fullTimeEmployees§10000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Roy M. Twite', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1633000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel J. Shook', 'age': 56, 'title': 'CFO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1001000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke  Grant', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Louise  Waldek', 'age': 45, 'title': 'Chief Legal & Risk Officer and Company Secretary', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erica  Lockhart', 'title': 'Group Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Liz  Rose', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jackie  Hu', 'title': 'Chief Executive Officer of Automation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phil  Clifton', 'age': 63, 'title': 'President of Climate Control', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Ferreira', 'age': 50, 'title': 'Chief Executive Officer of Life Technology', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giuseppe  Buscemi', 'title': 'President of Europe Oil & Gas & Power', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.27
+dividendYield§0.017
+exDividendDate§1691625600
+payoutRatio§0.2769
+fiveYearAvgDividendYield§2.59
+beta§1.102
+priceToSalesTrailing12Months§2.0375104
+currency§GBp
+forwardEps§125.7
+pegRatio§1.29
+exchange§LSE
+quoteType§EQUITY
+shortName§IMI PLC ORD 28 4/7P
+longName§IMI plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§204423f3-a7d2-30e0-a3de-3dce23c4e1b0
+targetHighPrice§2200.0
+targetLowPrice§1555.0
+targetMeanPrice§1893.0
+targetMedianPrice§1900.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§0.763
+earningsGrowth§0.153
+grossMargins§0.46205002
+ebitdaMargins§0.20384
+trailingPegRatio§None

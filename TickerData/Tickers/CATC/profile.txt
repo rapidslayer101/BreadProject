@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 10:43:54.952502
+address1§1336 Massachusetts Avenue
+city§Cambridge
+state§MA
+zip§02138
+country§United States
+phone§617 876 5500
+fax§617 812 2403
+website§https://www.cambridgetrust.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Cambridge Bancorp operates as the bank holding company for Cambridge Trust Company that engages in the provision of commercial and consumer banking, and investment management and trust services. The company accepts various deposits, such as checking, savings, money market, trust, and individual retirement accounts, as well as time and demand deposits, and certificates of deposit. Its loan products include residential and commercial real estate mortgage loans; home equity loans; commercial and industrial loans; consumer loans, such as secured and unsecured loans, lines of credit, and personal installment loans; and construction loans. The company also offers cash management, online and mobile banking, and payments services. It serves commercial enterprises, non-profit organizations, and individuals. The company operates through a network of banking and wealth management offices located in Massachusetts and New Hampshire. Cambridge Bancorp was founded in 1890 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§440
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Denis K. Sheahan', 'age': 57, 'title': 'Chairman, President & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1135359, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel R. Morrison', 'age': 60, 'title': 'CEO of New Hampshire Market & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 46854, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph P. Sapienza', 'title': 'Interim CFO, SVP, Director of Accounting & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Puneet  Nevatia', 'age': 49, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle  Remis Hackel', 'age': 53, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pilar  Pueyo', 'age': 61, 'title': 'Senior VP & Director of Human Resources', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Sullivan', 'age': 64, 'title': 'Senior VP & Director of Consumer Lending', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerri A. Mooney', 'age': 54, 'title': 'Senior VP & Chief Deposit Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Steven Traynor', 'title': 'President of Cambridge Trust Wealth Management-Connecticut', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven J. Mead', 'title': 'Senior VP & Chief Commercial Banking Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.68
+dividendYield§0.0392
+exDividendDate§1698796800
+payoutRatio§0.5614
+fiveYearAvgDividendYield§3.19
+beta§0.55
+priceToSalesTrailing12Months§3.1430004
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.93
+exchange§NCM
+quoteType§EQUITY
+shortName§Cambridge Bancorp
+longName§Cambridge Bancorp
+firstTradeDateEpochUtc§915546600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2c09ef30-e95d-30d5-a170-ae689f01f44f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§79.0
+targetLowPrice§63.0
+targetMeanPrice§72.11
+targetMedianPrice§74.34
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+earningsGrowth§-0.599
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

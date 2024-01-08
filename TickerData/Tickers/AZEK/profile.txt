@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 07:26:58.788370
+address1§1330 West Fulton Street
+address2§Suite 350
+city§Chicago
+state§IL
+zip§60607
+country§United States
+phone§877 275 2935
+website§https://azekco.com
+industry§Building Products & Equipment
+industryKey§building-products-equipment
+industryDisp§Building Products & Equipment
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§The AZEK Company Inc. engages in the design, manufacturing, and selling of building products for residential, commercial, and industrial markets in the United States and Canada. It operates through two segments: Residential and Commercial. The Residential segment designs and manufactures engineered outdoor living products, such as decking, railing, trim and molding, siding and cladding, pergolas and cabanas, and accessories under the TimberTech, AZEK Exteriors, VERSATEX, ULTRALOX, StruXure, and INTEX brands. The Commercial segment offers bathroom partitions, shower and dressing stalls, lockers and other storage solutions, and engineered plastic sheet products under the Aria, Eclipse, Hiny Hiders, TuffTec, and Duralife brands. This segment also offers bathroom partitions, shower and dressing stalls, lockers, storage solutions, extruded plastic sheet, and non-fabricated products under the Aria, Eclipse, Hiny Hiders, TuffTec, and Duralife brands. The company was formerly known as Delaware corporation and changed its name to The AZEK Company Inc. in June 2020. The AZEK Company Inc. was incorporated in 2013 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§2236
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jesse G. Singh', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1588695, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter G. Clifford', 'age': 53, 'title': 'Senior VP, CFO & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1310284, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Morgan Fox Walbridge J.D.', 'title': 'Senior VP, Chief Legal Officer & Secretary', 'fiscalYear': 2022, 'totalPay': 520966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samara  Toole', 'age': 57, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 615005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan M. Skelly', 'age': 45, 'title': 'President of Residential Segment', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 593121, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bobby  Gentile', 'age': 53, 'title': 'Senior Vice President of Operations', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Latkovic', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Herth', 'age': 44, 'title': 'VP, Chief Accounting Officer & Treasurer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle A. Kasson', 'age': 52, 'title': 'Chief Information Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra  Lamartine BSc, MA IOPsych', 'age': 52, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§6
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.871
+priceToSalesTrailing12Months§3.8931806
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.16
+pegRatio§3.42
+exchange§NYQ
+quoteType§EQUITY
+shortName§The AZEK Company Inc.
+longName§The AZEK Company Inc.
+firstTradeDateEpochUtc§1591968600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§11a1e49d-bcc5-399e-80b8-51f7669b52a6
+messageBoardId§finmb_27194630
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§35.0
+targetMeanPrice§39.11
+targetMedianPrice§39.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§1.721
+grossMargins§0.31948
+ebitdaMargins§0.19302
+trailingPegRatio§None

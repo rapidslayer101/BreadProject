@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 13:33:40.744142
+address1§1040 West Georgia Street
+address2§12th Floor
+city§Vancouver
+state§BC
+zip§V6E 4H1
+country§Canada
+phone§778 373 4533
+fax§778 373 4534
+website§https://www.tasekomines.com
+industry§Copper
+sector§Basic Materials
+longBusinessSummary§Taseko Mines Limited, a mining company, acquires, develops, and operates mineral properties. It explores for copper, molybdenum, gold, niobium, and silver deposits. The company holds 75% interest in the Gibraltar mine located in British Columbia. It also holds 100% interest in Yellowhead copper project, the Aley niobium project, and the New Prosperity gold and copper project located in British Columbia; and the Florence copper project located in Arizona. Taseko Mines Limited was incorporated in 1966 and is headquartered in Vancouver, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stuart  McDonald CA, CPA', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 792944, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryce  Hamming CPA, BBA CA, CFA', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 429558, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Tremblay M.B.A., P.Eng.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'totalPay': 429703, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Magee BA', 'age': 57, 'title': 'Vice President of Corporate Affairs', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 291947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Bergot', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trevor R. Thomas LLB', 'age': 56, 'title': 'Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terry Morris Morris', 'title': 'Vice President of Operation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.082
+priceToSalesTrailing12Months§0.84290737
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.12
+exchange§ASE
+quoteType§EQUITY
+shortName§Taseko Mines, Ltd.
+longName§Taseko Mines Limited
+firstTradeDateEpochUtc§701533800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§36413373-8e60-3acb-9889-1f77d3752e37
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.24
+targetLowPrice§1.64
+targetMeanPrice§1.92
+targetMedianPrice§1.9
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.782
+grossMargins§0.36428002
+ebitdaMargins§0.23476
+trailingPegRatio§None

@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 15:31:13.752955
+address1§550 Science Drive
+city§Madison
+state§WI
+zip§53711
+country§United States
+phone§800-767-0300
+fax§608-274-7905
+website§https://www.madisonfunds.com/individual/madison-covered-call-and-equity-strategy-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Madison Covered Call & Equity Strategy Fund is a closed-ended equity mutual fund launched by Madison Investment Holdings, Inc. It is managed by Madison Asset Management, LLC. The fund invests in the public equity markets of the United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in reasonably priced growth (GARP) stocks of large and mid-cap companies. It also writes covered call options to make its investments. The fund employs fundamental analysis with a bottom-up stock picking approach, focusing on such factors as PEG ratios (price-earnings ratio to growth rate), financial strength, and industry leadership to create its portfolio. It benchmarks the performance of its portfolio against the CBOE S&P 500 Buy/Write Index. The fund conducts in-house research to make its investments. It was formerly known as Madison/Claymore Covered Call & Equity Strategy Fund. Madison Covered Call & Equity Strategy Fund was formed on May 6, 2004 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin M. Robinson J.D.', 'age': 64, 'title': 'Chief Executive Officer', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick F. Ryan C.F.A., CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0999
+exDividendDate§1702512000
+payoutRatio§0.595
+fiveYearAvgDividendYield§10.32
+beta§0.836
+priceToSalesTrailing12Months§44.008457
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Madison Covered Call & Equity S
+longName§Madison Covered Call & Equity Strategy Fund
+firstTradeDateEpochUtc§1091453400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d670f6f-af46-3183-8482-c0adae8e468f
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.093
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

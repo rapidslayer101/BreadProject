@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 17:44:44.975921
+address1§400 Pine Street
+city§Abilene
+state§TX
+zip§79601
+country§United States
+phone§325 627 7155
+website§https://www.ffin.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Financial Bankshares, Inc., through its subsidiaries, provides commercial banking products and services in Texas. The company offers checking, savings and time deposits, automated teller machines, drive-in, and night deposit services; safe deposit facilities, remote deposit capture, internet banking, mobile banking, payroll cards, funds transfer, and performing other customary commercial banking services; securities brokerage services; and trust and wealth management services, including wealth management, estates administration, oil and gas management, testamentary trusts, revocable and irrevocable trusts, and agency accounts. It also provides commercial and industrial, municipal, agricultural, construction and development, farm, residential, and consumer auto and non-auto, as well as non-owner occupied and owner occupied commercial real estate loans. In addition, the company offers asset management, investing, purchasing, advertising, public relations, and technology services. The company was founded in 1890 and is headquartered in Abilene, Texas.
+fullTimeEmployees§1400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. F. Scott Dueser', 'age': 70, 'title': 'Chairman, President & CEO', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 1727677, 'exercisedValue': 876680, 'unexercisedValue': 264400}, {'maxAge': 1, 'name': 'Mr. Ronald D. Butler II', 'age': 62, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 789535, 'exercisedValue': 222250, 'unexercisedValue': 712110}, {'maxAge': 1, 'name': 'Mr. Kirk W. Thaxton', 'age': 62, 'title': 'Chairman, CEO & President of First Financial Trust & Asset Mgmt Co. NA', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 830083, 'exercisedValue': 315600, 'unexercisedValue': 769020}, {'maxAge': 1, 'name': 'Mr. Timothy Luke Longhofer', 'age': 40, 'title': 'Executive VP & Chief Lending Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 500768, 'exercisedValue': 103680, 'unexercisedValue': 145712}, {'maxAge': 1, 'name': 'Ms. Michelle S. Hickox', 'age': 55, 'title': 'EVP, CFO, Secretary & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Kyle McVey CPA', 'age': 36, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John James Ruzicka', 'age': 65, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Parker', 'title': 'Executive VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan  Dobbs', 'title': 'Executive Vice President of Marketing & Advertising', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Brown CPL', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0251
+exDividendDate§1702512000
+payoutRatio§0.473
+fiveYearAvgDividendYield§1.6
+beta§0.83
+priceToSalesTrailing12Months§8.349761
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.37
+pegRatio§2.03
+exchange§NMS
+quoteType§EQUITY
+shortName§First Financial Bankshares, Inc
+longName§First Financial Bankshares, Inc.
+firstTradeDateEpochUtc§752164200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e6792ffb-6db7-3860-9bfb-46ade17ba9e5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§31.0
+targetLowPrice§26.0
+targetMeanPrice§29.2
+targetMedianPrice§30.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§-0.153
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

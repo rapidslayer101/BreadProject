@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 20:32:00.403398
+address1§2150 E. Germann Road
+address2§Suite 1
+city§Chandler
+state§AZ
+zip§85286
+country§United States
+phone§844 388 4539
+website§https://www.offerpad.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Offerpad Solutions Inc., together with its subsidiaries, engages in buying, selling, renting, and renovating properties to homeowners in the United States. It operates iBuying, a real estate solutions platform for on-demand customer. The company's platform enables customers to sell and buy homes online with streamlined access to ancillary services, such as mortgage and title insurance services. Offerpad Solutions Inc. was founded in 2015 and is headquartered in Chandler, Arizona.
+fullTimeEmployees§900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian  Bair', 'age': 45, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 657625, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin Adam Aronovitch', 'age': 44, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 587372, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Grout', 'age': 34, 'title': 'Senior VP of Finance & Investor Relations and Principal Financial Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hiten  Patel', 'age': 41, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Mayes', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vaughn  Bair', 'title': 'Chief Real Estate Officer', 'fiscalYear': 2022, 'totalPay': 313000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jaidip  Singh Ph.D.', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Smith Connelly', 'title': 'Chief Growth Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Hickie', 'title': 'Senior Vice President of People Operations, Facilities & Procurement', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.158
+priceToSalesTrailing12Months§0.13576265
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Offerpad Solutions Inc.
+longName§Offerpad Solutions Inc.
+firstTradeDateEpochUtc§1607697000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b377a1e-bde0-3eba-aaa5-b42fb8485fa9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§6.25
+targetMeanPrice§8.85
+targetMedianPrice§8.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.361
+grossMargins§0.00493
+ebitdaMargins§-0.11549
+trailingPegRatio§None

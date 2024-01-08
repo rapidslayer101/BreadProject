@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 09:43:36.250370
+address1§8100 NE Parkway Drive
+address2§Suite 200
+city§Vancouver
+state§WA
+zip§98662
+country§United States
+phone§360 828 0700
+fax§360 828 0701
+website§https://www.bbsi.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§Barrett Business Services, Inc. provides business management solutions for small and mid-sized companies in the United States. The company develops a management platform that integrates a knowledge-based approach from the management consulting industry with tools from the human resource outsourcing industry. It offers professional employer services under which it enters into a client services agreement to establish a co-employment relationship with each client company, assuming responsibility for payroll, payroll taxes, workers compensation coverage, and other administration functions for the client's existing workforce. The company also provides staffing and recruiting services, such as on-demand or short-term staffing assignment, contract staffing, direct placement, and long-term or indefinite-term on-site management services. It serves electronics manufacturers, light-manufacturing industries, agriculture-based companies, transportation and shipping enterprises, food processors, telecommunications companies, public utilities, general contractors in various construction-related fields, restaurant franchises, and professional services firms. Barrett Business Services, Inc. was incorporated in 1965 and is headquartered in Vancouver, Washington.
+fullTimeEmployees§127141
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary Edward Kramer', 'age': 43, 'title': 'President, CEO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2167489, 'exercisedValue': 0, 'unexercisedValue': 110700}, {'maxAge': 1, 'name': 'Mr. Anthony J. Harris', 'age': 38, 'title': 'Executive VP, CFO, Principal Accounting Officer & Treasurer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 953169, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerald R. Blotz', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1238778, 'exercisedValue': 159750, 'unexercisedValue': 743600}, {'maxAge': 1, 'name': 'Mr. James R. Potts', 'age': 55, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 813683, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachael  Stutzman', 'title': 'Senior Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0106
+exDividendDate§1700092800
+payoutRatio§0.17469999
+fiveYearAvgDividendYield§1.58
+beta§1.364
+priceToSalesTrailing12Months§0.70226645
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.7
+pegRatio§1.04
+exchange§NMS
+quoteType§EQUITY
+shortName§Barrett Business Services, Inc.
+longName§Barrett Business Services, Inc.
+firstTradeDateEpochUtc§739805400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§09f88b08-e558-3b8c-8a47-d2f614b62310
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§131.0
+targetLowPrice§115.0
+targetMeanPrice§124.25
+targetMedianPrice§125.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.98
+earningsGrowth§0.509
+grossMargins§0.22320999
+ebitdaMargins§0.0577
+trailingPegRatio§1.0529

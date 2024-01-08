@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 06:32:59.137182
+address1§920 Memorial City Way
+address2§Suite 850
+city§Houston
+state§TX
+zip§77024
+country§United States
+phone§281 874 2700
+website§https://www.sbow.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§SilverBow Resources, Inc., an oil and gas company, engages in exploration, development, acquisition, and operation of oil and natural gas properties in the Eagle Ford shale and Austin Chalk located in South Texas. The company was formerly known as Swift Energy Company and changed its name to SilverBow Resources, Inc. in May 2017. SilverBow Resources, Inc. was founded in 1979 and is headquartered in Houston, Texas.
+fullTimeEmployees§82
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sean C. Woolverton', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1435500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Abundis', 'age': 45, 'title': 'Executive VP, CFO & General Counsel', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 858750, 'exercisedValue': 0, 'unexercisedValue': 27856}, {'maxAge': 1, 'name': 'Mr. Steven W. Adam', 'age': 68, 'title': 'Executive VP & COO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 938100, 'exercisedValue': 0, 'unexercisedValue': 371735}, {'maxAge': 1, 'name': 'Mr. William Eric Schultz', 'age': 47, 'title': 'Vice President of Accounting & Controller', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Foley', 'title': 'VP of Administration, Assistant General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Magids', 'title': 'Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Gu', 'title': 'Vice President of Corporate & Asset Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Cadena', 'title': 'Vice President of Land & ESG and Assistant General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.39
+priceToSalesTrailing12Months§1.1177497
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.9
+pegRatio§0.95
+exchange§NYQ
+quoteType§EQUITY
+shortName§SilverBow Resorces, Inc.
+longName§SilverBow Resources, Inc.
+firstTradeDateEpochUtc§1483453800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§613c9c21-5738-3585-8132-cca7abeccc2c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§34.0
+targetMeanPrice§48.0
+targetMedianPrice§50.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.42
+grossMargins§0.82281
+ebitdaMargins§0.91643
+trailingPegRatio§None

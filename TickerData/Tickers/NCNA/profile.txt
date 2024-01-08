@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 14:46:11.265806
+address1§3 Lochside Way
+city§Edinburgh
+zip§EH12 9DT
+country§United Kingdom
+phone§44 13 1357 1111
+website§https://www.nucana.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§NuCana plc, a clinical-stage biopharmaceutical company, engages in the development of medicines to treat patients with cancer. The company applies its ProTide technology to transform prescribed chemotherapy agents and nucleoside analogs into medicines. The company, through its technology, is developing medicines, ProTides, to overcome the limitations of nucleoside analogs and generate much higher concentrations of anti-cancer metabolites in cancer cells. Its pipeline includes NUC-3373, a chemical entity derived from the nucleoside analog 5-fluorouracil, which is in a Phase 1b/2 study in patients with metastatic colorectal cancer. The company also initiated a randomized Phase 2 study of NUC-3373, in combination with other agents, for the second-line treatment of patients with advanced colorectal cancer; and initiated a Phase 1b/2 modular study of NUC-3373 in combination with the PD-1 inhibitor pembrolizumab for patients with advanced solid tumors and in combination with docetaxel for patients with lung cancer. Its pipeline also comprises NUC-7738, a transformation of 3'-deoxyadenosine that is in the Phase 2 part of a Phase 1/2 study in patients with advanced solid tumors which is evaluating NUC-7738 as a monotherapy and in combination with pembrolizumab. It has a research, collaboration, and license agreement with Cardiff University and University College Cardiff Consultants Ltd. for the design, synthesis, characterization, and evaluation of ProTides; and an assignment, license, and collaboration agreement with Cardiff ProTides Ltd. The company was formerly known as NuCana BioMed Limited and changed its name to NuCana plc in August 2017. NuCana plc was incorporated in 1997 and is headquartered in Edinburgh, the United Kingdom.
+fullTimeEmployees§28
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hugh Stephen Griffith', 'age': 55, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1301000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald  Munoz', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Harrison', 'age': 64, 'title': 'Head of Translational Medicine', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Christopher B. Wood FRCS, M.D., Ph.D.', 'age': 77, 'title': 'Chief Medical Officer', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 105595, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa  Bruce', 'title': 'Senior Vice President of Clinical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elisabeth  Oelmann', 'title': 'Senior Vice President of Medical & Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeffrey D. Bloss F.A.C.O.G., M.D.', 'age': 66, 'title': 'Chief Medical Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Martin  Quinn', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.882
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.32
+exchange§NCM
+quoteType§EQUITY
+shortName§NuCana plc
+longName§NuCana plc
+firstTradeDateEpochUtc§1506605400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dfdec38b-ab4c-3c50-b808-03a61a463a78
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.03
+targetLowPrice§4.02
+targetMeanPrice§5.02
+targetMedianPrice§5.02
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§2.286
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

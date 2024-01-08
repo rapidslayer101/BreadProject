@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 02:32:20.333021
+address1§650 Newport Center Drive
+city§Newport Beach
+state§CA
+zip§92660
+country§United States
+phone§949 720 6000
+fax§949 720 6361
+website§https://www.allianzinvestors.com/Products/pages/1.aspx
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§PIMCO Municipal Income Fund is a closed ended fixed income mutual fund launched and managed by Allianz Global Investors Fund Management LLC. It is co-managed by Pacific Investment Management Company LLC. The fund invests in the fixed income markets of the United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in investment grade municipal bonds. It employs fundamental analysis with a top down stock picking approach to create its portfolio. It conducts in house research using proprietary models. PIMCO Municipal Income Fund was formed on June 29, 2001 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lew Wallace Jacobs IV', 'age': 52, 'title': 'President and Managing Director', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Hammer', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0543
+exDividendDate§1704931200
+payoutRatio§28.2
+fiveYearAvgDividendYield§5.22
+beta§0.584
+priceToSalesTrailing12Months§11.290616
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§PIMCO Municipal Income Fund
+longName§PIMCO Municipal Income Fund
+firstTradeDateEpochUtc§993648600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7fa989de-9cc4-318a-8e91-de50e6617fee
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.299
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

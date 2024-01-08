@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 08:40:03.795600
+address1§209 Blackfriars Road
+city§London
+zip§SE1 8NL
+country§United Kingdom
+phone§44 20 3457 8444
+website§https://www.pensionbee.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§PensionBee Group plc, a direct-to-consumer financial technology company, provides online pension services in the United Kingdom. The company's technology platform allows its customers to combine their pensions and invest in a range of online plans, forecast how much they are expected to have saved by the time they retire, and make withdrawals from their pensions. It also offers one-off ancillary and ad-hoc services, including pension splitting on divorce, early withdrawals owing to ill health, and full draw-down within one year of becoming an invested customer. PensionBee Group plc was founded in 2014 and is based in London, the United Kingdom.
+fullTimeEmployees§209
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Romina  Savova', 'age': 37, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 249394, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan R. Lister Parsons', 'age': 41, 'title': 'Co-Founder, CTO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 249531, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christoph Johannes Martin', 'age': 38, 'title': 'CFO & Executive Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 424668, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tess  Nicholson', 'age': 34, 'title': 'Chief Operating Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Cavanagh', 'title': 'Chief Legal Officer & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jasper  Martens', 'age': 44, 'title': 'Chief Marketing Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clare  Reilly', 'age': 40, 'title': 'Chief Engagement Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Picardo', 'age': 43, 'title': 'Chief Corporate Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Loft', 'title': 'Chief Design Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Petra  Miskov', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.534
+priceToSalesTrailing12Months§10.871133
+currency§GBp
+forwardEps§-0.54
+pegRatio§-0.46
+exchange§LSE
+quoteType§EQUITY
+shortName§PENSIONBEE GROUP PLC ORD GBP0.0
+longName§PensionBee Group plc
+firstTradeDateEpochUtc§1618988400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§834248db-4128-397e-80b3-29c1b6afa775
+targetHighPrice§170.0
+targetLowPrice§120.0
+targetMeanPrice§145.0
+targetMedianPrice§145.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§4.496
+grossMargins§0.35907
+ebitdaMargins§-0.71725
+trailingPegRatio§None

@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 03:30:13.953467
+address1§90 Matawan Road
+address2§Fifth Floor
+city§Matawan
+state§NJ
+zip§07747
+country§United States
+phone§732 747 7800
+website§https://www.khov.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Hovnanian Enterprises, Inc., through its subsidiaries, designs, constructs, markets, and sells residential homes in the United States. It offers single-family detached homes, attached townhomes and condominiums, urban infill, and active lifestyle homes with amenities, such as clubhouses, swimming pools, tennis courts, tot lots, and open areas. The company markets and builds homes for first-time buyers, first-time and second-time move-up buyers, luxury buyers, active lifestyle buyers, and empty nesters. It also provides mortgage loans, title insurance, and homeowner's insurance services. The company was founded in 1959 and is headquartered in Matawan, New Jersey.
+fullTimeEmployees§1715
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ara K. Hovnanian', 'age': 66, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 13362122, 'exercisedValue': 0, 'unexercisedValue': 915600}, {'maxAge': 1, 'name': "Mr. Brad G. O'Connor", 'age': 53, 'title': 'CFO & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2020811, 'exercisedValue': 2154, 'unexercisedValue': 19488}, {'maxAge': 1, 'name': 'Mr. Paul  Marabella', 'title': 'Chief Information Officer & VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Jeffrey T. O'Keefe", 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Elizabeth D. Tice', 'title': 'VP, Corporate Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Hovnanian', 'title': 'Executive Vice President - National Homebuilding Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph F. Riggs', 'title': 'Group President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.608
+priceToSalesTrailing12Months§0.32327443
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.72
+exchange§NYQ
+quoteType§EQUITY
+shortName§Hovnanian Enterprises, Inc.
+longName§Hovnanian Enterprises, Inc.
+firstTradeDateEpochUtc§431789400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b2241b5b-cbb5-3866-a528-d22405e76602
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.869
+earningsGrowth§0.612
+grossMargins§0.21106
+ebitdaMargins§0.10295
+trailingPegRatio§None

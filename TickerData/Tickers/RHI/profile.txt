@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 07:32:45.658820
+address1§2884 Sand Hill Road
+address2§Suite 200
+city§Menlo Park
+state§CA
+zip§94025
+country§United States
+phone§650 234 6000
+website§https://www.roberthalf.com
+industry§Staffing & Employment Services
+sector§Industrials
+longBusinessSummary§Robert Half Inc. provides talent solutions and business consulting services in North America, South America, Europe, Asia, and Australia. The company operates through three segments: Contract Talent Solutions, Permanent Placement Talent Solutions, and Protiviti. The Contract Talent Solutions segment provides contract engagement professionals in the fields of finance and accounting, technology, marketing and creative, legal and administrative, and customer support. This segment markets its services to clients and employment candidates through both national and local advertising activities, including radio, digital advertising, job boards, alliance partners, and events. The Permanent Placement Talent Solutions segment engages in the placement of full-time accounting, finance, and tax and accounting operations personnel. The Protiviti segment offers consulting services in the areas of internal audit, technology consulting, risk and compliance consulting, digital transformation, legal consulting, and business performance improvement. The company offers it services under the Robert Half brand name. The company was formerly known as Robert Half International Inc. and changed its name to Robert Half Inc. in July 2023. The company was founded in 1948 and is headquartered in Menlo Park, California.
+fullTimeEmployees§16300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Harold Max Messmer Jr.', 'age': 77, 'title': 'Executive Chairman', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 947295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. M. Keith Waddell', 'age': 66, 'title': 'Vice Chairman, President & CEO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 4086991, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael C. Buckley', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2264310, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert W. Glass', 'age': 64, 'title': 'Executive Vice President of Corporate Development', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1276810, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul F. Gentzkow', 'age': 67, 'title': 'President & CEO of Talent Solutions', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 3678291, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James C. Johnson', 'title': 'Executive VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. JoLynn M. Conway-James', 'title': 'Senior Executive Director & Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Evelyn T. Crane-Oliver', 'title': 'Senior VP, Secretary & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephanie L. Sweet', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher C. Nelson', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.92
+dividendYield§0.0232
+exDividendDate§1700611200
+payoutRatio§0.42310002
+fiveYearAvgDividendYield§2.07
+beta§1.291
+priceToSalesTrailing12Months§1.3207698
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.95
+pegRatio§-16.52
+exchange§NYQ
+quoteType§EQUITY
+shortName§Robert Half Inc.
+longName§Robert Half Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c45045e7-ade7-37c9-b259-a3fbc39e66e8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§100.0
+targetLowPrice§59.0
+targetMeanPrice§71.67
+targetMedianPrice§70.0
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§1.309
+earningsGrowth§-0.412
+grossMargins§0.40771
+ebitdaMargins§0.09395
+trailingPegRatio§None

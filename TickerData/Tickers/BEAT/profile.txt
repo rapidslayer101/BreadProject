@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 13:43:37.744870
+address1§2118 Walsh Avenue
+address2§Suite 210
+city§Santa Clara
+state§CA
+zip§95050
+country§United States
+phone§408 899 4443
+website§https://www.heartbeam.com
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§HeartBeam, Inc., a medical technology company, primarily focuses on developing and commercializing ambulatory electrocardiogram solutions that enable the detection and monitoring of cardiac disease inside and outside a healthcare facility setting. The company develops three-dimensional vector images of cardiac electrical activity. It is developing HeartBeam AIMIGo, a credit card-sized cloud-based diagnostic software systems to address heart attack detection. The company was incorporated in 2015 and is based in Santa Clara, California.
+fullTimeEmployees§13
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard M. Ferrari', 'age': 69, 'title': 'Executive Chairman', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 135000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Branislav  Vajdic Ph.D.', 'age': 68, 'title': 'Founder, CEO & Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 631642, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard D. Brounstein', 'age': 73, 'title': 'CFO & Treasurer', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 329300, 'exercisedValue': 44369, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert P. Eno', 'title': 'President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth  Persen', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter J.  Fitzgerald FACC, M.D., Ph.D.', 'age': 66, 'title': 'Chief Medical Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Richa  Gujarati', 'title': 'Senior Vice President of Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.225
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.44
+exchange§NCM
+quoteType§EQUITY
+shortName§Heartbeam, Inc.
+longName§HeartBeam, Inc.
+firstTradeDateEpochUtc§1636641000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8561208d-5a08-3c79-b484-82d94a810724
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§2.0
+targetMeanPrice§5.39
+targetMedianPrice§5.78
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§18.826
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

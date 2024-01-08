@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 18:45:41.159742
+address1§2100 Wharton Street
+address2§Suite 701
+city§Pittsburgh
+state§PA
+zip§15203
+country§United States
+phone§412 586 5830
+website§https://www.krystalbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Krystal Biotech, Inc., a biotechnology company, develops and commercializes genetic medicines for patients with rare diseases in the United States. It develops beremagene geperpavec (B-VEC) for dystrophic epidermolysis bullosa; KB105 for treating patients with deficient autosomal recessive congenital ichthyosis; KB104 for netherton syndrome; and KB407 for Cystic Fibrosis. The company also develops KB408 for Alpha-1 antitrypsin deficiency; and KB301 for aesthetic skin conditions. Krystal Biotech, Inc. was founded in 2016 and is headquartered in Pittsburgh, Pennsylvania.
+fullTimeEmployees§210
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Krish S. Krishnan M.B.A., M.S.', 'age': 58, 'title': 'Founder, Chairman, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1066831, 'exercisedValue': 0, 'unexercisedValue': 5049}, {'maxAge': 1, 'name': 'Ms. Suma M. Krishnan', 'age': 58, 'title': 'Founder, COO, President of R&D and Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 789923, 'exercisedValue': 0, 'unexercisedValue': 3515}, {'maxAge': 1, 'name': 'Ms. Kathryn A. Romano', 'age': 41, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 528867, 'exercisedValue': 0, 'unexercisedValue': 676426}, {'maxAge': 1, 'name': 'Ms. Meg  Dodge', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Thomas', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Karakkal', 'title': 'Vice President of North American Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Suskin', 'title': 'Director of Human Resources & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hubert C. Chen M.D.', 'age': 54, 'title': 'Senior Vice President of Clinical Development', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Laurent  Goux', 'title': 'Senior VP & GM of Europe', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ram  Kamineni', 'title': 'Senior Vice President of CMC & Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.774
+priceToSalesTrailing12Months§398.36948
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.37
+exchange§NMS
+quoteType§EQUITY
+shortName§Krystal Biotech, Inc.
+longName§Krystal Biotech, Inc.
+firstTradeDateEpochUtc§1505914200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7a984a25-100f-3abf-9545-b85fb5540d6c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§180.0
+targetLowPrice§130.0
+targetMeanPrice§154.0
+targetMedianPrice§156.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§10
+quickRatio§20.715
+grossMargins§0.97393996
+ebitdaMargins§0.0
+trailingPegRatio§None

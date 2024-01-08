@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 17:33:38.472186
+address1§Distrito TelefOnica
+address2§Ronda de la ComunicaciOn, s/n
+city§Madrid
+zip§28050
+country§Spain
+phone§34 900 11 10 04
+website§https://www.telefonica.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Telefónica, S.A., together with its subsidiaries, provides telecommunications services in Europe and Latin America. The company's mobile and related services and products comprise mobile voice, value added, mobile data and Internet, wholesale, corporate, roaming, fixed wireless, and trunking and paging services. Its fixed telecommunication services include PSTN lines; ISDN accesses; public telephone services; local, domestic, and international long-distance and fixed-to-mobile communications; corporate communications; supplementary value-added services; video telephony; intelligent network; and telephony information services, as well as leases and sells handset equipment. The company also provides Internet and broadband multimedia services comprising Internet service provider, portal and network, retail and wholesale broadband access, narrowband switched access, high-speed Internet through fibre to the home, and voice over Internet protocol services. In addition, it offers leased line, virtual private network, fibre optics, web hosting and application, managed hosting, content delivery, outsourcing and consultancy, desktop, and system integration and professional services. Further, the company offers wholesale services for telecommunication operators, including domestic interconnection and international wholesale services; leased lines for other operators; and local loop leasing services, as well as bit stream services, wholesale line rental accesses, and leased ducts for other operators' fiber deployment. Additionally, it provides video/TV services; smart connectivity and services, and consumer IoT products; financial and other payment, security, cloud, advertising, big data, and digital experience services; virtual assistants; and Movistar Home devices. The company was incorporated in 1924 and is headquartered in Madrid, Spain.
+fullTimeEmployees§103651
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jose María Alvarez-Pallete Lopez', 'age': 60, 'title': 'CEO & Executive Chairman', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 6713927, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Angel  Vila Boix', 'age': 59, 'title': 'COO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 4969328, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura Abasolo García de Baquedano', 'age': 51, 'title': 'Chief Financial and Control Officer & Head of Hispanoamerica', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Enrique  Blanco', 'title': 'Chief Technology & Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Adrian Zunzunegui Ruano', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pablo  de Carvajal González', 'age': 60, 'title': 'Gen. Counsel, Gen. Secretary, Secretary of Board, Global Dir. of Reg. Aff. & Head of Security Area', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francisco  de Bergia Gonzalez', 'title': 'Chairman of Public Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marta  Machicot', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. María  García-Legaz Ponce', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduardo Navarro de Carvalho', 'age': 60, 'title': 'Chief Corporate Affairs & Sustainability Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.32
+dividendYield§0.0796
+exDividendDate§1702339200
+payoutRatio§1.1121
+fiveYearAvgDividendYield§8.43
+beta§0.685
+priceToSalesTrailing12Months§0.5720869
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.29
+exchange§NYQ
+quoteType§EQUITY
+shortName§Telefonica SA
+longName§Telefónica, S.A.
+firstTradeDateEpochUtc§550503000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§90652aab-8896-3856-adca-211d4c66c90d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.69
+targetLowPrice§4.69
+targetMeanPrice§4.69
+targetMedianPrice§4.69
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.795
+earningsGrowth§0.105
+grossMargins§0.54229
+ebitdaMargins§0.20816
+trailingPegRatio§None

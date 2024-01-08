@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 08:33:55.738462
+address1§400 West 7th Street
+city§Fort Worth
+state§TX
+zip§76102
+country§United States
+phone§817 334 7800
+fax§817 887 4730
+website§https://www.txopartners.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§TXO Partners L.P. focuses on the acquisition, development, optimization, and exploitation of conventional oil, natural gas, and natural gas liquid reserves in North America. Its acreage positions are concentrated in the Permian Basin of West Texas and New Mexico and the San Juan Basin of New Mexico and Colorado. The company was formerly known as TXO Energy Partners, L.P. and changed its name to TXO Partners L.P. in May 2023. TXO Partners L.P. was incorporated in 2012 and is based in Fort Worth, Texas.
+fullTimeEmployees§180
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bob R. Simpson', 'age': 74, 'title': 'CEO & Chairman of the Board of TXO Energy GP, LLC', 'yearBorn': 1949, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent W. Clum', 'title': 'President of Business Operations, CFO & Director of TXO Energy GP, LLC', 'fiscalYear': 2022, 'totalPay': 491650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith A. Hutton', 'age': 64, 'title': 'President of Production & Development and Director of TXO Energy GP, LLC', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott T. Agosta', 'age': 58, 'title': 'Chief Accounting Officer of TXO Energy GP, LLC', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 308700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary D. Simpson', 'age': 59, 'title': 'Senior Vice President', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.5
+dividendYield§0.0796
+exDividendDate§1700092800
+payoutRatio§0.44669998
+priceToSalesTrailing12Months§1.7506206
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§TXO Partners, L.P.
+longName§TXO Partners L.P.
+firstTradeDateEpochUtc§1674829800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46e9cd68-71fc-3dac-807f-650e7ece9f96
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.0
+targetLowPrice§27.0
+targetMeanPrice§30.33
+targetMedianPrice§30.0
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§0.636
+earningsGrowth§-0.879
+grossMargins§0.56498003
+ebitdaMargins§0.30049
+trailingPegRatio§None

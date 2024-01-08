@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 14:47:25.385120
+address1§38/39 Fitzwilliam Square
+address2§Dublin 2
+city§Dublin
+zip§D02 NX53
+country§Ireland
+phone§353 1 234 3136
+website§https://www.seagate.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§Seagate Technology Holdings plc provides data storage technology and solutions in Singapore, the United States, the Netherlands, and internationally. It provides mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. The company also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, and Expansion product lines, as well as under the LaCie brand name; desktop drives; notebook drives, DVR HDDs, and gaming SSDs. In addition, it provides Lyve edge-to-cloud mass capacity platform. The company sells its products primarily to OEMs, distributors, and retailers. Seagate Technology Holdings plc was founded in 1978 and is based in Dublin, Ireland.
+fullTimeEmployees§33400
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. William David Mosley', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 980484, 'exercisedValue': 0, 'unexercisedValue': 17419716}, {'maxAge': 1, 'name': 'Mr. Gianluca  Romano', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 639900, 'exercisedValue': 0, 'unexercisedValue': 763209}, {'maxAge': 1, 'name': 'Ms. Katherine E. Schuelke', 'age': 60, 'title': 'Senior VP, Chief Legal Officer & Company Secretary', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 499382, 'exercisedValue': 0, 'unexercisedValue': 482787}, {'maxAge': 1, 'name': 'Mr. Ban Seng Teh', 'age': 56, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 532727, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kian Fatt Chong', 'age': 60, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John C. Morris', 'age': 56, 'title': 'Senior VP & CTO', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Grace  Liu', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shanye  Hudson', 'title': 'Senior Vice President of Investor Relations & Finance Strategy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Rutledge', 'title': 'Senior Vice President of Corporate Development & Strategy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia  Frost', 'age': 57, 'title': 'Senior VP and Chief People & Places Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§2.8
+dividendYield§0.0349
+exDividendDate§1703030400
+payoutRatio§0.9859
+fiveYearAvgDividendYield§4.28
+beta§1.083
+priceToSalesTrailing12Months§2.4685128
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.27
+pegRatio§1.26
+exchange§NMS
+quoteType§EQUITY
+shortName§Seagate Technology Holdings PLC
+longName§Seagate Technology Holdings plc
+firstTradeDateEpochUtc§1039617000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§db8faad9-e67f-3bc2-8b00-0e10d60de875
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§92.0
+targetLowPrice§40.0
+targetMeanPrice§70.83
+targetMedianPrice§70.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§18
+quickRatio§0.577
+grossMargins§0.16037
+ebitdaMargins§0.039389998
+trailingPegRatio§1.5938

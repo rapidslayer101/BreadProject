@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 10:45:40.855280
+address1§1050 Waltham Street
+address2§Suite 302
+city§Lexington
+state§MA
+zip§02421
+country§United States
+phone§617 314 6297
+website§https://www.kerostx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Keros Therapeutics, Inc., a clinical-stage biopharmaceutical company, discovers, develops, and commercializes novel treatments for patients suffering from hematological, pulmonary, and cardiovascular disorders with high unmet medical need in the United States. The company's lead protein therapeutic product candidate KER-050, which is being developed for the treatment of low blood cell counts, or cytopenias, including anemia and thrombocytopenia in patients with myelodysplastic syndromes, as well as in patients with myelofibrosis. It also develops KER-047, a small molecule product candidate that is in Phase II clinical trials for the treatment of functional iron deficiency; and KER-012, which is in Phase II clinical trials to treat pulmonary arterial hypertension and cardiovascular disorders. Keros Therapeutics, Inc. was incorporated in 2015 and is headquartered in Lexington, Massachusetts.
+fullTimeEmployees§129
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jasbir S. Seehra Ph.D.', 'age': 67, 'title': 'President, CEO, Treasurer, & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 985584, 'exercisedValue': 0, 'unexercisedValue': 32491092}, {'maxAge': 1, 'name': 'Mr. Christopher  Rovaldi M.Sc.', 'age': 49, 'title': 'Chief Operating Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 708749, 'exercisedValue': 0, 'unexercisedValue': 186355}, {'maxAge': 1, 'name': 'Dr. Simon  Cooper MBBS', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 654271, 'exercisedValue': 0, 'unexercisedValue': 244500}, {'maxAge': 1, 'name': 'Mr. Keith C. Regnante MBA', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 603240, 'exercisedValue': 0, 'unexercisedValue': 2827850}, {'maxAge': 1, 'name': 'Ms. Esther  Cho J.D.', 'title': 'Senior VP, General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin  Wagner', 'title': 'VP of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jennifer  Lachey Ph.D.', 'age': 50, 'title': 'Senior Vice President of Discovery', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 604740, 'exercisedValue': 0, 'unexercisedValue': 13395379}, {'maxAge': 1, 'name': 'Mr. John  Oram M.B.A.', 'title': 'Senior Vice President of Program & Portfolio Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.223
+priceToSalesTrailing12Months§180467.94
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-5.45
+exchange§NGM
+quoteType§EQUITY
+shortName§Keros Therapeutics, Inc.
+longName§Keros Therapeutics, Inc.
+firstTradeDateEpochUtc§1586352600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a73338e2-0750-36db-8d66-d045f2fcde9f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§105.0
+targetLowPrice§60.0
+targetMeanPrice§81.89
+targetMedianPrice§80.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§9
+quickRatio§17.292
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

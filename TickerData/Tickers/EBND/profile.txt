@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 03:28:50.786497
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser/Sub-Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the fixed-rate local currency sovereign debt of emerging market countries. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.052399997
+totalAssets§1958892544
+navPrice§20.9863
+currency§USD
+category§Emerging-Markets Local-Currency Bond
+ytdReturn§-0.0136535
+beta3Year§1.26
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1298419200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0516564
+fiveYearAverageReturn§-0.0055176
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Bloomberg Emerging Markets
+longName§SPDR Bloomberg Emerging Markets Local Bond ETF
+firstTradeDateEpochUtc§1298557800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§67e277c4-e2df-386c-a565-9584b0fa8878
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

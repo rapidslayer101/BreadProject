@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 08:45:35.888732
+address1§1943 Isaac Newton Square
+address2§Suite 100
+city§Reston
+state§VA
+zip§20190
+country§United States
+phone§703 584 0840
+fax§703 584 0857
+website§https://www.johnmarshallbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§John Marshall Bancorp, Inc. operates as the bank holding company for John Marshall Bank that provides banking products and financial services. The company accepts checking, demand, NOW, savings, and money market accounts, as well as certificates of deposit. It offers commercial, construction and development, commercial term, mortgage, commercial real estate, industrial other commercial lines of credit; debit and credit cards; and treasury and cash management, investment, business and personal insurance, remote deposit capture, deposit sweep and online and mobile banking services. The company serves small to medium-sized businesses, their owners and employees, professional corporations, non-profits, and individuals. The company was founded in 2005 and is headquartered in Reston, Virginia.
+fullTimeEmployees§138
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher W. Bergstrom', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1795897, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kent D. Carstater', 'age': 55, 'title': 'Senior Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 575350, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew J. Peden', 'age': 45, 'title': 'Senior Executive VP & Chief of Banking Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 592856, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly J. Bell', 'age': 54, 'title': 'Executive VP & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Bell', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shannon  Rones', 'title': 'Senior Vice President & Marketing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheila  Yosufy', 'title': 'Executive VP & Director of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Melanie M. Williams', 'title': 'Senior VP & Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward S. Harrington', 'title': 'Regional President of MD/DC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sonia Nga Johnston', 'title': 'Regional President of Arlington Region', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.22
+dividendYield§0.0095999995
+exDividendDate§1687737600
+payoutRatio§0.34919998
+beta§0.692
+priceToSalesTrailing12Months§7.4484906
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§John Marshall Bancorp, Inc.
+longName§John Marshall Bancorp, Inc.
+firstTradeDateEpochUtc§1488465000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3b8175e3-16d1-37d0-aa51-2fbfec86c9a6
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

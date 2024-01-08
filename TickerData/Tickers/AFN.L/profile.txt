@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 02:35:24.065935
+address1§Ongar Business Centre
+address2§Suite 28 The Gables, Fyfield Road Essex
+city§Ongar
+zip§CM5 0GA
+country§United Kingdom
+website§https://www.advfn.com
+industry§Capital Markets
+industryKey§capital-markets
+industryDisp§Capital Markets
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§ADVFN Plc, together with subsidiaries, develops and provides financial information through the internet and research services in the United Kingdom and internationally. The company offers forex, crypto, futures, stock, and commodity market services; and market data services. It also provides financial broking, financial conference event, and other internet services. ADVFN Plc was incorporated in 1989 and is based in Ongar, the United Kingdom.
+fullTimeEmployees§31
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Amit Endi-Yosef Tauman', 'age': 32, 'title': 'CEO & Executive Director', 'yearBorn': 1991, 'fiscalYear': 2023, 'totalPay': 330200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Hodges', 'age': 60, 'title': 'Co-Founder & Secretary', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 358388, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew David Collom', 'age': 46, 'title': 'Sales Director & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 141000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1648080000
+payoutRatio§0.0
+beta§0.495
+priceToSalesTrailing12Months§1.3940834
+currency§GBp
+lastDividendValue§0.649263
+lastDividendDate§1648080000
+exchange§LSE
+quoteType§EQUITY
+shortName§ADVFN PLC ORD 0.2P
+longName§ADVFN Plc
+firstTradeDateEpochUtc§953539200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fc9865ab-85a2-33d7-860a-fe1b3d276072
+messageBoardId§finmb_425483
+recommendationKey§none
+quickRatio§3.084
+grossMargins§0.94197
+ebitdaMargins§-0.14086
+trailingPegRatio§None

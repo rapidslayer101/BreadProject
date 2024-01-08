@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 07:31:21.320029
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240264/blackrock-muniyield-michigan-insured-fund-inc-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock MuniYield Michigan Quality Fund, Inc. is a closed-ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in the fixed income markets of the United States. It primarily invests in investment grade, long-term municipal obligations exempt from federal income taxes and Michigan income taxes. BlackRock MuniYield Michigan Quality Fund, Inc. was formed on October 30, 1992 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Kalinoski C.F.A.', 'age': 52, 'title': 'Portfolio Manager', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Hayes', 'title': 'MD, Head of Municipal Bonds Group, Head of Tax-Exempt Fixed Income & Portfolio Mngr', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.56
+dividendYield§0.048600003
+exDividendDate§1704931200
+payoutRatio§0.8134
+fiveYearAvgDividendYield§4.63
+beta§0.399
+priceToSalesTrailing12Months§13.542139
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock MuniYield Michigan Qu
+longName§BlackRock MuniYield Michigan Quality Fund, Inc.
+firstTradeDateEpochUtc§720887400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§48ba2c3a-f98c-316d-af67-c534536f60f6
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.945
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

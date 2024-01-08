@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 07:31:58.487057
+address1§190 Carondelet Plaza
+address2§Suite 1530
+city§Clayton
+state§MO
+zip§63105
+country§United States
+phone§314 480 1400
+website§https://www.olin.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Olin Corporation manufactures and distributes chemical products in the United States, Europe, Asia Pacific, Latin America, and Canada. It operates through three segments: Chlor Alkali Products and Vinyls; Epoxy; and Winchester. The Chlor Alkali Products and Vinyls segment offers chlorine and caustic soda, ethylene dichloride and vinyl chloride monomers, methyl chloride, methylene chloride, chloroform, carbon tetrachloride, perchloroethylene, hydrochloric acid, hydrogen, bleach products, potassium hydroxide, and chlorinated organics intermediates and solvents. The Epoxy segment provides Allylics, such as allyl chloride, epichlorohydrin, and glycerin; aromatics, including acetone, bisphenol, cumene, and phenol; liquid and solid epoxy resins; and converted epoxy resins and additives. The Winchester segment offers sporting ammunition products, including shotshells, small caliber centerfire, and rimfire ammunition products for hunters and recreational shooters, and law enforcement agencies; small caliber military ammunition products for use in infantry and mounted weapons; and industrial products comprising gauge loads and powder-actuated tool loads for maintenance applications in power and concrete industries, and powder-actuated tools in construction industry. The company markets its products through its sales force, as well as directly to various industrial customers, mass merchants, retailers, wholesalers, other distributors, and the U.S. Government and its prime contractors. Olin Corporation was incorporated in 1892 and is based in Clayton, Missouri.
+fullTimeEmployees§7780
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott McDougald Sutton', 'age': 58, 'title': 'President, CEO & Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3112296, 'exercisedValue': 0, 'unexercisedValue': 2461270}, {'maxAge': 1, 'name': 'Mr. Todd A. Slater', 'age': 59, 'title': 'Senior Vice President & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1498506, 'exercisedValue': 0, 'unexercisedValue': 15280759}, {'maxAge': 1, 'name': "Ms. Dana C. O'Brien", 'age': 55, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1399800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Damian  Gumpel', 'age': 48, 'title': 'VP and President of Epoxy & Corporate Strategy', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1124704, 'exercisedValue': 0, 'unexercisedValue': 2385313}, {'maxAge': 1, 'name': 'Mr. Patrick Murphy Schumacher', 'age': 48, 'title': 'VP and President of Chlor Alkali Products & Vinyls', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1059900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Steve A. Keenan', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Valerie A. Peters', 'age': 59, 'title': 'Vice President of Human Resources', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett A. Flaugher', 'age': 58, 'title': 'VP & President of Winchester', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 783209, 'exercisedValue': 24960, 'unexercisedValue': 196100}, {'maxAge': 1, 'name': 'Ms. Randee Nichole Sumner', 'age': 49, 'title': 'VP & Controller', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa M. Vermillion', 'age': 47, 'title': 'VP & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0152
+exDividendDate§1699401600
+payoutRatio§0.1732
+fiveYearAvgDividendYield§2.93
+beta§1.462
+priceToSalesTrailing12Months§0.8962088
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.8
+pegRatio§-0.77
+exchange§NYQ
+quoteType§EQUITY
+shortName§Olin Corporation
+longName§Olin Corporation
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§327d851c-438a-3c01-bc49-e17b0cdab046
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§38.0
+targetMeanPrice§54.65
+targetMedianPrice§56.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§0.773
+earningsGrowth§-0.624
+grossMargins§0.18947001
+ebitdaMargins§0.21428
+trailingPegRatio§None

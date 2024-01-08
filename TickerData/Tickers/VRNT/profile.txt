@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 23:47:53.783225
+address1§175 Broadhollow Road
+city§Melville
+state§NY
+zip§11747
+country§United States
+phone§631 962 9600
+website§https://www.verint.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Verint Systems Inc. provides customer engagement solutions worldwide. It offers various applications for use in Forecasting and Scheduling, which understands the work needed to meet and exceed customer expectations; Quality and Compliance that uses automation and analytics for customer interactions for attended and self-service channels; Interaction Insights, which extracts insights from structured and unstructured customer interactions and activities; Real-Time Work that supports in-the-moment workforce activities; Engagement Channels, an application for messaging, social, chat, email, and interactive voice response; Conversational AI, an intelligent virtual assistant application to enable human-like conversations across every channel; Knowledge Management, which enables humans and bots to deliver service with tools. The company provides Experience Management application which collect and analyze customer experience data, as well as customer engagement cloud platform services. Verint Systems Inc. was incorporated in 1994 and is headquartered in Melville, New York.
+fullTimeEmployees§4100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dan  Bodner', 'age': 64, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 1521236, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elan  Moriah', 'age': 60, 'title': 'President', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 863655, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grant A. Highlander', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 3263400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter D. Fante', 'age': 55, 'title': 'Chief Administrative Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 756117, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas E. Robinson', 'age': 67, 'title': 'Special Advisor', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 779643, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Scudiere', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew H. Frankel', 'title': 'Director of Investor Relations & Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan  Kohl', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Roden', 'title': 'Chief Corporate Development Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jaime  Meritt', 'title': 'Chief Product Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.183
+priceToSalesTrailing12Months§1.8285772
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.84
+pegRatio§1.21
+exchange§NMS
+quoteType§EQUITY
+shortName§Verint Systems Inc.
+longName§Verint Systems Inc.
+firstTradeDateEpochUtc§1021555800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§412f6edf-c330-3f7f-9a31-e9e0df27aeb3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§25.0
+targetMeanPrice§34.0
+targetMedianPrice§35.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.186
+grossMargins§0.69634
+ebitdaMargins§0.15573
+trailingPegRatio§0.9007

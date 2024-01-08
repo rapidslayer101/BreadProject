@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 20:34:40.653676
+address1§101 Redwood Shores Parkway
+city§Redwood City
+state§CA
+zip§94065
+country§United States
+phone§888 976 9056
+website§https://www.zuora.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Zuora, Inc., together with its subsidiaries, provides cloud-based subscription management platform that enables companies in various industries to launch, manage, and transform into a subscription business. The company offers Zuora platform that acts as an orchestration engine that allows customers quote-to-cash and revenue operations; and Zuora Billing that helps customers to set payment terms, manage hierarchical billing relationships, consolidate invoicing across multiple subscriptions, and tax transactions. It also provides Zuora Revenue, a revenue recognition automation solution; Zuora CPQ for configure, price, and quote various subscription options; Zuora Collect designed to/ handle the complicated function of payments associated with subscription-based businesses; Zephr, a digital subscriber experience platform for digital publishing and media industry; and Zuora Marketplace. It sells its products through its systems integrators, consultants, and ecosystem partners. Zuora, Inc. was incorporated in 2006 and is headquartered in Redwood City, California.
+fullTimeEmployees§1549
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tien  Tzuo', 'age': 54, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 954000, 'exercisedValue': 915978, 'unexercisedValue': 8399871}, {'maxAge': 1, 'name': 'Mr. Robert J. E. Traube', 'age': 55, 'title': 'President & Chief Revenue Officer', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 810900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd E. McElhatton', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 756450, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew M. Cohen', 'age': 58, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 578110, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. K. V. Rao', 'title': 'Founder', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Daisy  Hernandez', 'title': 'Chief Strategy & Operations Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew R. Dobson', 'age': 43, 'title': 'Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Hirsch', 'age': 62, 'title': 'Chief Product & Technology Officer', 'yearBorn': 1961, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Luana  Wolk', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Robblee', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.967
+priceToSalesTrailing12Months§2.7976573
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§Zuora, Inc.
+longName§Zuora, Inc.
+firstTradeDateEpochUtc§1523539800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bfef860f-993b-3ef4-ac8b-74f0a5bf2f77
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§9.0
+targetMeanPrice§12.21
+targetMedianPrice§12.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§2.559
+grossMargins§0.65321
+ebitdaMargins§-0.09097
+trailingPegRatio§None

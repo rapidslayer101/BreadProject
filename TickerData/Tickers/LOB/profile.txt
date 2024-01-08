@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 08:31:06.835856
+address1§1741 Tiburon Drive
+city§Wilmington
+state§NC
+zip§28403
+country§United States
+phone§910 790 5867
+website§https://www.liveoakbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Live Oak Bancshares, Inc. operates as the bank holding company for Live Oak Banking Company that provides various commercial banking products and services to individuals, small businesses, and professionals in North Carolina, the United States. It operates in two segments, Banking and Fintech. The company accepts various deposit products, including noninterest-bearing demand, as well as interest-bearing checking, money market, certificate of deposits, savings, and time deposits. It also offers commercial and industrial loans; construction and development loans; owner occupied and non-owner occupied collateral commercial real estate loans; and commercial land loans. In addition, it provides settlement, accounting, and securitization services for government guaranteed loans; wealth and investment management services to high-net-worth individuals and families; investment advisory services to a series of funds focused on providing venture capital to new and emerging financial technology companies; and an on-site restaurant location to company employees and business visitors. The company was incorporated in 2008 and is headquartered in Wilmington, North Carolina.
+fullTimeEmployees§956
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James S. Mahan III', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 781195, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William C. Losch III', 'age': 52, 'title': 'President', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 798372, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory W. Seward', 'age': 47, 'title': 'Chief Risk Officer & General Counsel', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 582616, 'exercisedValue': 0, 'unexercisedValue': 258225}, {'maxAge': 1, 'name': 'Mr. Steven J. Smits', 'age': 56, 'title': 'Chief Credit Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 547920, 'exercisedValue': 0, 'unexercisedValue': 196896}, {'maxAge': 1, 'name': 'Mr. Renato  Derraik', 'age': 51, 'title': 'Chief Information & Digital Officer of Bank', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 752594, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William L. Williams III', 'age': 71, 'title': 'Vice Chairman & Executive VP', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Walter J. Phifer', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Wesley Sutherland', 'age': 52, 'title': 'Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claire  Parker', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Micah S. Davis', 'title': 'Chief Marketing & Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.0028
+exDividendDate§1701043200
+payoutRatio§0.090900004
+fiveYearAvgDividendYield§0.45
+beta§1.537
+priceToSalesTrailing12Months§5.0485663
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§Live Oak Bancshares, Inc.
+longName§Live Oak Bancshares, Inc.
+firstTradeDateEpochUtc§1437658200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§35007f23-13db-3444-8f9e-98942cd6d9c0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§36.0
+targetMeanPrice§40.75
+targetMedianPrice§38.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.083
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 05:30:19.311689
+address1§255 George Street
+address2§Level 10
+city§Sydney
+state§NSW
+zip§2000
+country§Australia
+phone§001 612 9950 2888
+fax§001 612 9950 2800
+website§https://www.aberdeeniaf.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Abrdn Australia Equity Fund Inc is a closed ended equity mutual fund launched and managed by Aberdeen Standard Investments (Asia) Limited. The fund is managed by Aberdeen Standard Investments Australia Limited. It invests in the public equity markets of Australia. The fund makes its investments in firms operating across diversified sectors. It employs fundamental analysis with a bottom-up and top-down stock picking approach with focus on factors like growth prospects, competitive positions in domestic and export markets, technology, research and development, productivity, labor and raw material costs, profit margins, return on investment, capital resources, quality of management, and government regulation to create its portfolio. The fund benchmarks the performance of its portfolio against the S&P ASX 200 Accumulation Index. It also uses proprietary research to create its portfolio. The Aberdeen Australia Equity Fund Inc. was previously known as The First Australia Fund, Inc. Abrdn Australia Equity Fund Inc was formed in September 30, 1985 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin James Gilbert C.A., L.L.B., LLD, M.A., MA LLB LLD CA', 'age': 68, 'title': 'CEO, VP, Interested Director, Chairman of Aberdeen Global Income Fund Inc', 'yearBorn': 1955, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natalie  Tam', 'title': 'Portfolio Manager', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Augustine Mark Daniels Bsc Econ', 'age': 68, 'title': 'Portfolio Manager', 'yearBorn': 1955, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Briggs', 'age': 50, 'title': 'VP, VP -  Aberdeen Global Income Fund Inc and VP - Aberdeen Asia-Pacific Income Fund', 'yearBorn': 1973, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Lopez CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1419984000
+maxAge§86400
+priceHint§4
+dividendRate§0.44
+dividendYield§0.1034
+exDividendDate§1700524800
+payoutRatio§12.4
+fiveYearAvgDividendYield§11.32
+beta§1.126
+priceToSalesTrailing12Months§14.891448
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§61617
+longName§Abrdn Australia Equity Fund Inc
+firstTradeDateEpochUtc§503591400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1390dac6-1216-30af-9524-12c8e0b92097
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§17.926
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-19 21:48:01.705107
+address1§11200 West Plank Court
+city§Wauwatosa
+state§WI
+zip§53226
+country§United States
+phone§414 761 1000
+website§https://www.wsbonline.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Waterstone Financial, Inc. operates as a bank holding company for WaterStone Bank SSB that provides various financial services to customers in southeastern Wisconsin, the United States. It operates in two segments, Community Banking and Mortgage Banking. The Community Banking segment offers consumer and business banking products and services, such as deposit and transactional solutions, including checking accounts, online banking and bill pay services, money transfer services, as well as credit, debit, and pre-paid cards; investable funds solutions comprising savings, money market deposits, individual retirement accounts, and certificates of deposit; residential mortgages, home equity loans and lines of credit, personal and installment loans, real estate financing, business loans, and business lines of credit; and fixed and variable annuities, insurance products, and trust and investment management accounts. It also provides transaction deposits, interest bearing transaction accounts, demand deposits, non-interest-bearing demand accounts, and time deposits; secured and unsecured lines; commercial real estate construction loans; term loans for working capital, inventory, and general corporate use; and personal term loans and investment services. The Mortgage Banking segment offers residential mortgage loans for the purpose of sale in the secondary market. It also invests in a portfolio of securities include mortgage-backed securities, government-sponsored and private-label enterprise bonds, collateralized mortgage and municipal obligations, and other debt securities. The company was formerly known as Wauwatosa Holdings, Inc. and changed its name to Waterstone Financial, Inc. in August 2008. Waterstone Financial, Inc. was founded in 1921 and is based in Wauwatosa, Wisconsin.
+fullTimeEmployees§742
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William F. Bruss', 'age': 53, 'title': 'President, COO, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 573035, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Raymond Gerke', 'age': 48, 'title': 'Executive VP, CFO & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 409443, 'exercisedValue': 0, 'unexercisedValue': 45050}, {'maxAge': 1, 'name': 'Ms. Julie A. Glynn', 'age': 59, 'title': 'Executive Vice President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 368282, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan J. Gordon', 'age': 36, 'title': 'Executive Vice President', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 373988, 'exercisedValue': 0, 'unexercisedValue': 320}, {'maxAge': 1, 'name': 'Mr. Jeffrey R. McGuiness', 'age': 57, 'title': 'President & CEO of Waterstone Mortgage Corporation', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 435250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle J. Mertz', 'title': 'Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0434
+exDividendDate§1704412800
+payoutRatio§1.4706
+fiveYearAvgDividendYield§3.92
+beta§0.589
+priceToSalesTrailing12Months§2.1296911
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.01
+exchange§NMS
+quoteType§EQUITY
+shortName§Waterstone Financial, Inc.
+longName§Waterstone Financial, Inc.
+firstTradeDateEpochUtc§1128519000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6a431fe0-734e-3451-b331-87fd0860d563
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.5
+targetLowPrice§12.5
+targetMeanPrice§12.5
+targetMedianPrice§12.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+earningsGrowth§-0.352
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,59 @@
+# reload+after+2024-01-20 23:26:58.136346
+address1§92 Pitts Bay Road
+city§Pembroke
+zip§HM 08
+country§Bermuda
+fax§441 405 2600
+website§https://www.axiscapital.com
+industry§Insurance - Specialty
+industryKey§insurance-specialty
+industryDisp§Insurance - Specialty
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§AXIS Capital Holdings Limited, through its subsidiaries, provides various specialty insurance and reinsurance products worldwide. It operates through two segments, Insurance and Reinsurance. The Insurance segment offers property insurance products for commercial buildings, residential premises, construction projects, and onshore energy installations; marine classes covering offshore energy, cargo, liability, kidnap and ransom, fine art, specie, and hull war; and terrorism, aviation, credit and political risk, and liability insurance products. It also provides professional insurance products that cover directors' and officers' liability, errors and omissions liability, employment practices liability, fiduciary liability, crime, professional indemnity, medical malpractice, and other financial insurance related coverages for commercial enterprises, financial institutions, not-for-profit organizations, and other professional service providers. In addition, this segment offers accidental death, travel, and specialty health products for employer pet insurance and affinity groups. The Reinsurance segment offers reinsurance products to insurance companies, including catastrophe reinsurance products; property reinsurance products covering property damage and related losses resulting from natural and man-made perils; professional lines; credit and surety; and motor liability products. This segment also provides agriculture reinsurance products; engineering coverages for various types of construction risks and risks related to erection, testing, and commissioning of machinery and plants during the construction stage; marine and aviation reinsurance products; and personal accident, specialty health, accidental death, travel, life, and disability reinsurance products. AXIS Capital Holdings Limited was founded in 2001 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§2064
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Vincent Christopher Tizzio', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3183862, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter John Vogt FSA MAAA', 'age': 59, 'title': 'CFO & Executive VP', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1655126, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Samuel Phillips CFA', 'age': 54, 'title': 'Chief Investment Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1537109, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Conrad D. Brooks', 'age': 61, 'title': 'General Counsel', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1099960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kent W. Ziegler', 'age': 60, 'title': 'Global Corporate Controller & Principal Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori  Bailey', 'title': 'Head of Cyber & Technology and Global Head of Growth', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith  Schlosser', 'title': 'Global Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clifford Henry Gallant III', 'title': 'Head of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph E. Cohen APR', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noreen  McMullan', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.76
+dividendYield§0.0312
+exDividendDate§1703721600
+payoutRatio§0.2816
+fiveYearAvgDividendYield§3.17
+beta§0.79
+priceToSalesTrailing12Months§0.85654277
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.71
+pegRatio§0.32
+lastDividendValue§0.44
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Axis Capital Holdings Limited
+longName§AXIS Capital Holdings Limited
+firstTradeDateEpochUtc§1057066200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§71b36345-516e-376a-8663-e0bea97759e4
+messageBoardId§finmb_4793955
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§77.0
+targetLowPrice§51.0
+targetMeanPrice§66.0
+targetMedianPrice§68.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.204
+grossMargins§0.27598
+ebitdaMargins§0.16282
+trailingPegRatio§None

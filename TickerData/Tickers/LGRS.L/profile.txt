@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 19:39:35.856901
+address1§26 Baldwin Street
+city§Bristol
+zip§BS1 1SE
+country§United Kingdom
+phone§44 11 7930 9971
+website§https://www.loungers.co.uk
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Loungers plc operates cafés, bars, and restaurants under the Lounge and Cosy Club brand names in England and Wales. The company was founded in 2002 and is based in Bristol, the United Kingdom.
+fullTimeEmployees§7500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander Morton Reilley', 'age': 49, 'title': 'Founder, Executive Chairman & Company Secretary', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 271000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Charles Elliot Collins', 'age': 48, 'title': 'CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 439000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregor  Grant', 'age': 56, 'title': 'CFO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 259000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacob  Bishop', 'age': 49, 'title': 'Founder & Commercial Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eve  Bugler', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Youll', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucy  Knowles', 'title': 'Managing Director of Cosy Club Brand', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin Mark Carter', 'age': 58, 'title': 'Managing Director of Lounge', 'yearBorn': 1965, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.512
+priceToSalesTrailing12Months§0.7542857
+currency§GBp
+forwardEps§12.23
+exchange§LSE
+quoteType§EQUITY
+shortName§LOUNGERS PLC ORD 1P
+longName§Loungers plc
+firstTradeDateEpochUtc§1556521200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d88015df-1835-3f59-a224-7c95d81933ba
+targetHighPrice§400.0
+targetLowPrice§250.0
+targetMeanPrice§327.5
+targetMedianPrice§317.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.157
+earningsGrowth§0.13
+grossMargins§0.40073
+ebitdaMargins§0.10147
+trailingPegRatio§None

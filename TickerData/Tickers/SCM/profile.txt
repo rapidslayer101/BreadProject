@@ -1,0 +1,46 @@
+# reload+after+2024-01-22 22:33:03.662980
+address1§4400 Post Oak Parkway
+address2§Suite 2200
+city§Houston
+state§TX
+zip§77027
+country§United States
+phone§713-292-5400
+website§https://www.stelluscapital.com/public-investors/investment-corp/
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Stellus Capital Investment Corporation is a business development company specializing in investments in private middle-market companies. It invests through first lien, second lien, unitranche, and mezzanine debt financing, often with a corresponding equity investment. The fund prefers to invest in US and Canada. The fund seeks to invest in companies with an EBITDA between $5 million and $50 million.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert T. Ladd', 'age': 67, 'title': 'Chairman, President & CEO', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Todd Huskinson CPA', 'age': 59, 'title': 'CFO, Treasurer, Secretary & Chief Compliance Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vince  Gwon', 'title': 'Manager of Finance & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.1195
+exDividendDate§1702598400
+payoutRatio§3.0825
+fiveYearAvgDividendYield§10.12
+beta§1.208
+priceToSalesTrailing12Months§3.192357
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.78
+exchange§NYQ
+quoteType§EQUITY
+shortName§Stellus Capital Investment Corp
+longName§Stellus Capital Investment Corporation
+firstTradeDateEpochUtc§1352385000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§616842b6-67c0-3164-9da6-34d846884093
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.5
+targetLowPrice§13.0
+targetMeanPrice§14.08
+targetMedianPrice§13.75
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§1.923
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

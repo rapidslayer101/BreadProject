@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 05:48:04.065034
+address1§1261 Liberty Way
+city§Vista
+state§CA
+zip§92081
+country§United States
+phone§760 560 1501
+website§https://www.exagen.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§Exagen Inc. develops and commercializes various testing products based on its cell-bound complement activation products technology under the AVISE brand in the United States. The company enables healthcare providers to care for patients through the diagnosis, prognosis, and monitoring of autoimmune and autoimmune-related diseases, including systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). Its lead testing product is AVISE CTD that enables differential diagnosis for patients presenting with symptoms indicative of various connective tissue diseases (CTDs) and other related diseases with overlapping symptoms. The company offers AVISE Lupus that measures activation of the complement system by quantifying the level of B-cell C4d and erythrocyte bound C4d in the patient's blood; and AVISE APS, which consists of a panel of autoantibody tests that aids in the diagnosis and management of APS. In addition, it provides AVISE Vasculitis AAV, which utilizes a testing panel of individual analytes to provide physicians with results in the assessment and monitoring of anti-neutrophil cytoplasmic antibody associated vasculitis; AVISE SLE Prognostic, a panel of autoantibodies for assessing the potential for complications affecting the kidney, brain, and cardiovascular system; AVISE Anti-CarP test, which identifies RA patients with severe disease; and AVISE PC4d to measure platelet- bound C4d. Further, the company offers AVISE SLE Monitor, a biomarker blood test; AVISE MTX, a patented and validated blood test; and AVISE HCQ, a blood test to monitor levels of hydroxychloroquine. It has a research collaboration and license agreement with Allegheny Health Network (AHN) Research Institute to develop novel patented biomarkers. The company was formerly known as Exagen Diagnostics, Inc. and changed its name to Exagen Inc. in January 2019. Exagen Inc. was incorporated in 2002 and is headquartered in Vista, California.
+fullTimeEmployees§199
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Tina S. Nova Ph.D.', 'age': 69, 'title': 'Executive Chairman of Board', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 65000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Aballi', 'age': 38, 'title': 'CEO, President & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 558842, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kamal  Adawi M.S., MBA', 'age': 44, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 483280, 'exercisedValue': 0, 'unexercisedValue': 180359}, {'maxAge': 1, 'name': 'Ryan  Douglas', 'title': 'Investors Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Wegener', 'age': 54, 'title': 'Senior Vice President of Sales and Marketing', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrew L. Concoff FACR, M.D.', 'title': 'Chief Innovation Officer & Member of Rheumatoid Arthritis Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael I. Nerenberg M.D.', 'age': 68, 'title': 'Chief Medical Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.22
+priceToSalesTrailing12Months§0.6307144
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.34
+exchange§NGM
+quoteType§EQUITY
+shortName§Exagen Inc.
+longName§Exagen Inc.
+firstTradeDateEpochUtc§1568899800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f7ab59e9-d9f4-3c5d-832f-b0d9d20e8d13
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§5.0
+targetMeanPrice§5.75
+targetMedianPrice§5.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§4.496
+grossMargins§0.53931
+ebitdaMargins§-0.47451
+trailingPegRatio§None

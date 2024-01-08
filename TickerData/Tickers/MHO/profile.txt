@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 05:31:19.196326
+address1§4131 Worth Avenue
+address2§Suite 500
+city§Columbus
+state§OH
+zip§43219
+country§United States
+phone§614 418 8000
+fax§614 573 7172
+website§https://www.mihomes.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§M/I Homes, Inc., together with its subsidiaries, operates as a builder of single-family homes in Ohio, Indiana, Illinois, Minnesota, Michigan, Florida, Texas, North Carolina, and Tennessee. The company operates through Northern Homebuilding, Southern Homebuilding, and Financial Services segments. It also designs, constructs, markets, and sells single-family homes and attached townhomes to first-time, millennial, move-up, empty-nester, and luxury buyers under the M/I Homes brand name. In addition, the company purchases undeveloped land to develop into developed lots for the construction of single-family homes, as well as for sale to others. Further, it originates and sells mortgages; and serves as a title insurance agent by providing title insurance policies, examination, and closing services to purchasers of its homes. M/I Homes, Inc. was founded in 1976 and is based in Columbus, Ohio.
+fullTimeEmployees§1663
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert H. Schottenstein', 'age': 70, 'title': 'Chairman, President & CEO', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 5240442, 'exercisedValue': 0, 'unexercisedValue': 1438412}, {'maxAge': 1, 'name': 'Mr. Phillip G. Creek', 'age': 70, 'title': 'Executive VP, CFO & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 2887723, 'exercisedValue': 0, 'unexercisedValue': 1326050}, {'maxAge': 1, 'name': 'Ms. Susan E. Krohne', 'age': 51, 'title': 'Senior VP, Chief Legal Officer & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1160901, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann Marie W. Hunker', 'title': 'VP, Chief Accounting Officer & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin C. Hake', 'age': 64, 'title': 'Senior Vice President of Finance & Business Development', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fred J. Sikorski', 'age': 68, 'title': 'Region President of Columbus, Sarasota, Tampa, Orlando, Raleigh, Charlotte & WA D.C.  Divisions', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas W. Jacobs', 'age': 57, 'title': 'Region President, Austin, Dallas, Houston, San Antonio, Chicago, Minneapolis & St. Paul Divisions', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin  Brown', 'title': 'Area President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek J. Klutch', 'age': 59, 'title': 'President & CEO of M/I Financial', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Kirkendall', 'title': 'VP & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1214524800
+payoutRatio§0.0
+fiveYearAvgDividendYield§0.39
+beta§2.189
+priceToSalesTrailing12Months§0.8320867
+currency§USD
+dateShortInterest§1702598400
+forwardEps§16.2
+pegRatio§0.59
+exchange§NYQ
+quoteType§EQUITY
+shortName§M/I Homes, Inc.
+longName§M/I Homes, Inc.
+firstTradeDateEpochUtc§752337000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b44a9ce1-643a-3012-aae2-36cb5f38f049
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§116.0
+targetLowPrice§71.0
+targetMeanPrice§93.5
+targetMedianPrice§93.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.447
+earningsGrowth§0.032
+grossMargins§0.24731001
+ebitdaMargins§0.15082
+trailingPegRatio§None

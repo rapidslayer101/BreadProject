@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 20:44:52.453912
+address1§Park HaMada
+address2§7 Golda Meir Street
+city§Ness Ziona
+zip§7403650
+country§Israel
+phone§972 7 797 09030
+website§https://www.foresightauto.com
+industry§Auto Parts
+sector§Consumer Cyclical
+longBusinessSummary§Foresight Autonomous Holdings Ltd., a technology company, engages in development of smart multi-spectral 3D vision software solutions and cellular-based applications for the automotive industry in Israel and internationally. The company develops in-line-of-sight vision solutions and beyond-line-of-site accident-prevention solutions. It offers QuadSight automotive vision solution, a four-camera multi-spectral vision solution that combines two sets of stereoscopic infrared and visible-light cameras for obstacle detection; DynamiCal, an automatic calibration software solution to ensure that stereo cameras remain calibrated to create accurate and continuous 3D depth perception; and ScaleCam, a separated stereo camera solution. The company also provides Percept3D, a 3D point cloud solution that provides 3D raw data for obstacle detection, terrain analysis, and autonomous vehicle sensor fusion; and Mono2Stereo, a solution that enhances existing vision sensor systems by using software-based algorithms to create a 3D perception stereo vision solution. In addition, it offers Eye-Net Protect, a cellular-based V2X solution that provides real-time pre-collision alerts to road users, such as pedestrians, cyclists, scooter drivers, etc. by using smartphones. The company's solutions are also used in defense, autonomous vehicles, and agriculture and heavy industrial equipment. It has a strategic cooperation agreement with FLIR Systems, Inc. to develop, market, and distribute the QuadSight vision system. The company was formerly known as Asia Development (A.D.B.M.) Ltd. and changed its name to Foresight Autonomous Holdings Ltd. in January 2016. Foresight Autonomous Holdings Ltd. is headquartered in Ness Ziona, Israel.
+fullTimeEmployees§59
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Haim  Siboni', 'age': 64, 'title': 'Chairman & CEO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 357356, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eliyahu  Yoresh', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 204288, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oren  Bar-On', 'age': 50, 'title': 'Chief Executive Officer of Foresight Automotive China - Global Operations', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 213275, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Levy  Zruya', 'age': 73, 'title': 'Chief Technology Officer', 'yearBorn': 1950, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sivan Siboni Scherf', 'age': 36, 'title': 'Vice President of Human Recourses', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dror  Elbaz', 'age': 44, 'title': 'COO & Deputy CEO of Eye-Net Mobile Ltd', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 197208, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.732
+priceToSalesTrailing12Months§36.80893
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.25
+exchange§NCM
+quoteType§EQUITY
+shortName§Foresight Autonomous Holdings L
+longName§Foresight Autonomous Holdings Ltd.
+firstTradeDateEpochUtc§1497533400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§efd26fb3-aac1-3a9a-ba05-4013fe53d168
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§6.413
+grossMargins§0.67686
+ebitdaMargins§0.0
+trailingPegRatio§None

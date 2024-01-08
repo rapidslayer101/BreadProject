@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 04:38:06.135843
+address1§Salisbury House
+address2§London Wall
+city§London
+zip§EC2M 5PS
+country§United Kingdom
+website§https://greatlandgold.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Greatland Gold plc, together with its subsidiaries, engages in the exploration and development of precious and base metals in Australia. It explores for gold, copper, cobalt, and nickel deposits. The company's flagship project is the 30% owned Havieron deposit, covering an area of 38 square kilometers located in the Paterson province of Western Australia. Greatland Gold plc was incorporated in 2005 and is based in London, the United Kingdom.
+fullTimeEmployees§25
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shaun Gregory Day B.Com., C.A., C.F.A., F.C.A.', 'age': 50, 'title': 'MD & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 689433, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Toon A.C.A.', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 360638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Tyrrell', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'totalPay': 265594, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James John Wilson B.Sc.', 'age': 61, 'title': 'Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 166346, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Damien  Stephens', 'title': 'Group Exploration Manager', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Kwan', 'title': 'General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Meynert B.A., L.L.B.', 'title': 'Chief Development Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rowan  Krasnoff', 'title': 'Head of Business Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Frank Ronaldson', 'age': 68, 'title': 'Company Secretary', 'yearBorn': 1955, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monique  Connolly', 'title': 'Financial Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.718
+currency§GBp
+forwardEps§0.3
+exchange§LSE
+quoteType§EQUITY
+shortName§GREATLAND GOLD PLC ORD 0.1P
+longName§Greatland Gold plc
+firstTradeDateEpochUtc§1151910000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0b27bfe2-2b45-3c28-9749-01288836c9ba
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§17.67
+targetMedianPrice§19.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.543
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 13:29:16.026520
+address1§Two International Place
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617-482-8260
+website§https://funds.eatonvance.com/Municipal-Income-Trust-EVN.php
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Eaton Vance Municipal Income Trust is a close ended fixed income mutual fund launched and managed by Eaton Vance Management. It invests in the fixed income markets. The fund invests primarily in investment grade municipal obligations of various sectors, such as cogeneration, education, electric utilities, general obligations, healthcare, hospital, housing, transportation, and nursing home. Eaton Vance Municipal Income Trust was formed in 1998 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Payson F. Swaffield CFA', 'title': 'VP, Chief Income Investment Officer & Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cynthia J. Clemson', 'age': 60, 'title': 'Portfolio Manager', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.55
+dividendYield§0.0554
+exDividendDate§1704931200
+payoutRatio§0.8518
+fiveYearAvgDividendYield§4.72
+beta§0.452
+priceToSalesTrailing12Months§13.627724
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eaton Vance Municipal Income Tr
+longName§Eaton Vance Municipal Income Trust
+firstTradeDateEpochUtc§917447400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b089c2d4-c748-3d6a-b6f7-f45c91277da5
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.048
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

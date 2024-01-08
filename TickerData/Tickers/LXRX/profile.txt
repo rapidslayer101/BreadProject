@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 05:45:54.011791
+address1§2445 Technology Forest Boulevard
+address2§11th Floor
+city§The Woodlands
+state§TX
+zip§77381
+country§United States
+phone§281 863 3000
+fax§281 863 8088
+website§https://www.lexpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Lexicon Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the discovery, development, and commercialization of pharmaceutical products. Its orally-delivered small molecule drug candidates under development comprise Sotagliflozin that completed Phase III clinical trials for the for the treatment of heart failure and type 1 diabetes; LX9211, which is in Phase II clinical development for the treatment of neuropathic pain and LX2761, which is in Phase I clinical development for gastrointestinal tract. The company has strategic collaboration and license agreements with Bristol-Myers Squibb Company, and Genentech, Inc. The company was incorporated in 1995 and is headquartered in The Woodlands, Texas.
+fullTimeEmployees§135
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lonnel  Coats', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1224862, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey L. Wade J.D.', 'age': 58, 'title': 'President & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 788649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian T. Crum', 'age': 49, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 609103, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kenneth B. Kassler-Taub M.D.', 'age': 66, 'title': 'Senior Vice President of Regulatory Affairs & Quality Assurance', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 588698, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Craig B. Granowitz M.D., Ph.D.', 'age': 58, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 671141, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert J. Lefkowitz M.D.', 'age': 79, 'title': 'Consultant & Independent Director', 'yearBorn': 1944, 'fiscalYear': 2022, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristen L. Alexander', 'age': 54, 'title': 'Vice President of Finance & Accounting', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa M. DeFrancesco', 'age': 44, 'title': 'Head of Investor Relations & Corporate Strategy', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chas  Schultz', 'title': 'Executive Director of Corporate Communications & Patient Advocacy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy E. McDermott', 'age': 52, 'title': 'Vice President of Human Resources', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.065
+priceToSalesTrailing12Months§679.12616
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.73
+pegRatio§-0.04
+exchange§NMS
+quoteType§EQUITY
+shortName§Lexicon Pharmaceuticals, Inc.
+longName§Lexicon Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§955114200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6b83959b-e6b7-35de-9412-08dec8b7133f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§1.45
+targetMeanPrice§5.15
+targetMedianPrice§4.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§6.78
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

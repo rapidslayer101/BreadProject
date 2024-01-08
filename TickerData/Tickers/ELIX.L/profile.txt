@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 21:36:10.876947
+address1§100 Cheapside
+city§London
+zip§EC2V 6DT
+country§United Kingdom
+phone§44 20 7720 5410
+website§https://www.elixirr.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§Elixirr International plc, through its subsidiaries, provides management consultancy services in the United Kingdom, the United States, and internationally. The company offers creative, marketing, and transformation services. It provides services in the areas of AI and machine learning, app design and development, brand identity implementation, brand strategy, business model innovation, business strategy, case for change, corporate venture and innovation, customer experience, data and analytics, data strategy, digital design and marketing, digital optimization and strategy, innovation immersions, IT strategy, mergers and acquisitions, onboarding solutions, procurement, product and portfolio management, risk and compliance, sourcing, sustainability, target operating model, and transformation management, The company serves automotive and transportation, manufacturing, business and financial services, charities, energy, utilities and resources, healthcare and pharmaceuticals, insurance, luxury and fashion, travel and leisure, telecommunications, technology, retail and consumer goods, private equity, media, and entertainment and sports industries. Elixirr International plc was founded in 2009 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen Alexander Newton', 'age': 53, 'title': 'Founder, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1432000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham Edward Busby', 'age': 41, 'title': 'Co-Founder, Partner, CFO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 693000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian James-Anthony Ferguson', 'title': 'Partner, General Counsel & Executive Director', 'fiscalYear': 2022, 'totalPay': 695000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clare  Filby', 'title': 'Partner & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Weiss', 'title': 'Partner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Wharram', 'title': 'Partner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Newman', 'title': 'Non-Executive Partner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Bichler', 'title': 'Partner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Potter', 'title': 'Partner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Rich', 'title': 'Partner', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.0174
+exDividendDate§1689811200
+payoutRatio§0.1525
+beta§0.612
+priceToSalesTrailing12Months§3.795128
+currency§GBp
+forwardEps§38.7
+exchange§LSE
+quoteType§EQUITY
+shortName§ELIXIRR INTERNATIONAL PLC ORD 0
+longName§Elixirr International plc
+firstTradeDateEpochUtc§1594278000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9725d9be-13d7-3d36-9735-0ac4a0233691
+targetHighPrice§998.0
+targetLowPrice§750.0
+targetMeanPrice§868.33
+targetMedianPrice§857.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§1.725
+earningsGrowth§0.163
+grossMargins§0.33238998
+ebitdaMargins§0.26146
+trailingPegRatio§None

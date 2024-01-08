@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 19:29:25.558416
+address1§200 Crescent Court
+address2§Suite 1400
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§469 638 9636
+website§https://www.firstfoundationinc.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Foundation Inc., through its subsidiaries, provides banking services, investment advisory, wealth management, and trust services to individuals, businesses, and other organizations in the United States. The company operates in two segments, Banking and Wealth Management. It offers a range of bank deposit products, including personal and business checking accounts, savings accounts, interest-bearing negotiable order of withdrawal accounts, money market accounts, and time certificate of deposits; and loan products consisting of multifamily and single family residential real estate loans, commercial real estate loans, and commercial term loans and line of credits, as well as consumer loans, such as personal installment loans and line of credits, and home equity line of credits. The company also provides various specialized services comprising online and mobile banking, remote deposit capture services, merchant credit card services, ATM cards, Visa debit cards, and business sweep accounts, as well as insurance brokerage services and equipment financing solutions. In addition, it offers investment management and financial planning services; treasury management services; advisory and coordination services in the areas of estate planning, retirement planning, and charitable and business ownership issues; and financial, investment, and economic advisory and related services. Further, the company provides support services, including the processing and transmission of financial and economic data for charitable organizations. It operates through a network of branch offices and loan production offices in California, Florida, Nevada, Texas, and Hawaii. The company was founded in 1985 and is headquartered in Dallas, Texas.
+fullTimeEmployees§551
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ulrich Emanuel Keller Jr., CFP', 'age': 67, 'title': 'Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 982600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Farris Kavanaugh', 'age': 62, 'title': 'CEO, President & Vice Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2174550, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Naghibi Esq.', 'age': 42, 'title': 'Executive VP & COO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 784000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Djou', 'age': 54, 'title': 'Chief Accounting Officer & Deputy CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 367738, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Avak Hakopian', 'age': 55, 'title': 'President of First Foundation Advisors & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 769750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Michael Britton', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adriano S. Darmawan', 'title': 'CTO & Executive VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erica  Dorsett', 'title': 'Executive VP & Chief Legal Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tyler J. Resh', 'title': 'Director of Marketing & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Carlson', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.004
+exDividendDate§1698969600
+payoutRatio§0.2821
+beta§1.309
+priceToSalesTrailing12Months§2.0292008
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.38
+pegRatio§4.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§First Foundation Inc.
+longName§First Foundation Inc.
+firstTradeDateEpochUtc§1415025000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0fcaaf4d-2b6a-35cf-a905-98f274aa2ea1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§8.0
+targetMeanPrice§9.9
+targetMedianPrice§10.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.924
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

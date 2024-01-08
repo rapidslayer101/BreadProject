@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 06:28:51.585630
+address1§600 Steamboat Road
+address2§Suite 202
+city§Greenwich
+state§CT
+zip§06830
+country§United States
+phone§203 340 8500
+website§https://www.eaglepointcreditcompany.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Eagle Point Credit Company Inc. is a closed ended fund launched and managed by Eagle Point Credit Management LLC. It invests in fixed income markets of the United States. The fund invests equity and junior debt tranches of collateralized loan obligations consisting primarily of below investment grade U.S. senior secured loans. Eagle Point Credit Company Inc. was formed on March 24, 2014 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Philip Majewski CPA', 'age': 48, 'title': 'CEO & Interested Director', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth Paul Onorio CPA', 'age': 54, 'title': 'CFO & COO', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle William McGrady', 'title': 'Director of Marketing and Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nauman S. Malik', 'age': 43, 'title': 'General Counsel & Chief Compliance Officer', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Courtney Barrett Fandrick', 'age': 41, 'title': 'Secretary', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.68
+dividendYield§0.1721
+exDividendDate§1704844800
+payoutRatio§1.5413
+fiveYearAvgDividendYield§14.88
+beta§0.811
+priceToSalesTrailing12Months§5.314929
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.41
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eagle Point Credit Company Inc.
+longName§Eagle Point Credit Company Inc.
+firstTradeDateEpochUtc§1412775000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ebd91ea1-d2a5-3b3a-a646-ab3b8a23c75a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§10.5
+targetMeanPrice§11.25
+targetMedianPrice§11.25
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§2.618
+earningsGrowth§3.356
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

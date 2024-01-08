@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 06:46:50.889023
+address1§601 Gateway Blvd
+address2§Ste 1250
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§415 910 5717
+website§https://www.quincetx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Quince Therapeutics, Inc., a preclinical stage biopharmaceutical company, develops precision therapeutics for debilitating and rare diseases. Its lead compound is NOV004, a systemically administered bone anabolic peptide engineered to target and concentrate at bone fracture sites. The company was formerly known as Cortexyme, Inc. and changed its name to Quince Therapeutics, Inc. in August 2022. Quince Therapeutics, Inc. was incorporated in 2012 and is headquartered in South San Francisco, California.
+fullTimeEmployees§21
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Dirk  Thye M.D.', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 681359, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Hannah M.B.A.', 'age': 37, 'title': 'Principal Financial Officer, Principal Accounting Officer, Chief Business Officer & COO', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 504341, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Charles S. Ryan J.D., Ph.D.', 'age': 59, 'title': 'President', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Guenter R. Janhofer M.D., Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacy  Roughan', 'title': 'Vice President of Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Ellen Sillivos', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stewart A. Low Ph.D.', 'title': 'Head of Discovery', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.271
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.01
+exchange§NMS
+quoteType§EQUITY
+shortName§Quince Therapeutics, Inc.
+longName§Quince Therapeutics, Inc.
+firstTradeDateEpochUtc§1557408600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§da44f040-5883-3598-bd5c-37ccfbaf9c2e
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§37.162
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

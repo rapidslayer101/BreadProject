@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 08:29:28.504436
+address1§601 Riverside Avenue
+city§Jacksonville
+state§FL
+zip§32204
+country§United States
+phone§904 438 6000
+website§https://www.fisglobal.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Fidelity National Information Services, Inc. provides technology solutions for financial institutions and businesses worldwide. It operates through Banking Solutions, Merchant Solutions, and Capital Market Solutions segments. The Banking Solutions segment provides core processing and ancillary applications; mobile and online banking; fraud, risk management, and compliance; electronic funds transfer and network; card and retail payment; wealth and retirement; and item processing and output solutions. The Merchant Solutions segment offers small- to medium-sized businesses acquiring, enterprise acquiring, and ecommerce solutions. The Capital Market Solutions segment provides investment operations and data, lending, trading and processing, and treasury and risk solutions. The company was founded in 1968 and is headquartered in Jacksonville, Florida.
+fullTimeEmployees§69000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Stephanie L. Ferris', 'age': 49, 'title': 'CEO, President & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 908857, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ido  Gileadi', 'age': 59, 'title': 'Corporate Executive VP & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 640888, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Tsai', 'age': 53, 'title': 'Corporate Executive VP and Chief Legal & Corporate Affairs Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3176172, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lenore Denise Williams', 'age': 62, 'title': 'Corporate Executive VP & Chief People Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1366117, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Kehoe', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher A. Thompson', 'age': 59, 'title': 'Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Firdaus  Bhathena', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Georgios  Mihalos', 'title': 'SVP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ellyn  Raftery', 'title': 'Executive VP and Chief Marketing & Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kim  Snider', 'title': 'Senior Vice President of Global Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.08
+dividendYield§0.0339
+exDividendDate§1701907200
+payoutRatio§1.1765
+fiveYearAvgDividendYield§1.71
+beta§0.939
+priceToSalesTrailing12Months§2.4844275
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.53
+pegRatio§8.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§Fidelity National Information S
+longName§Fidelity National Information Services, Inc.
+firstTradeDateEpochUtc§993043800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4f10e208-f47b-3b4d-b5a5-e6f115a6df1a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§81.0
+targetLowPrice§52.0
+targetMeanPrice§65.61
+targetMedianPrice§67.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§0.155
+grossMargins§0.4002
+ebitdaMargins§0.25270998
+trailingPegRatio§1.2944

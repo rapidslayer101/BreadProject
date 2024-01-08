@@ -1,0 +1,51 @@
+# reload+after+2024-01-24 00:27:16.267058
+address1§19100 Ridgewood Parkway
+address2§Suite 1200
+city§San Antonio
+state§TX
+zip§78259
+country§United States
+phone§210 344 3400
+website§https://www.biglariholdings.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Biglari Holdings Inc., through its subsidiaries, primarily operates and franchises restaurants in the United States. It owns, operates, and franchises restaurants under the Steak n Shake and Western Sizzlin names. The company also engages in underwriting commercial trucking insurance; selling physical damage and non-trucking liability insurance to truckers; and providing property and casualty insurance. In addition, it operates oil and natural gas properties in the Gulf of Mexico; and publishes and sells magazines under the MAXIM brand name. Further, it licenses media products and services; and engages in the investment activities. The company was formerly known as The Steak n Shake Company and changed its name to Biglari Holdings Inc. in April 2010. Biglari Holdings Inc. was founded in 1934 and is based in San Antonio, Texas.
+fullTimeEmployees§2559
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sardar  Biglari C.F.A.', 'age': 45, 'title': 'Chairman & CEO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 900000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce W. Lewis', 'age': 58, 'title': 'Controller', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1040000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§834710400
+payoutRatio§0.0
+beta§1.519
+priceToSalesTrailing12Months§1.3612318
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-7.45
+lastDividendValue§17.649
+lastDividendDate§659750400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Biglari Holdings Inc.
+longName§Biglari Holdings Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1baa5a77-aeff-3333-8948-c1e0c4466462
+messageBoardId§finmb_263424
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.018
+grossMargins§0.43362
+ebitdaMargins§0.22747
+trailingPegRatio§None

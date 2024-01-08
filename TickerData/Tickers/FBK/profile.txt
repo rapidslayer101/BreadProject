@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 21:29:20.575243
+address1§211 Commerce Street
+address2§Suite 300
+city§Nashville
+state§TN
+zip§37201
+country§United States
+phone§615 564 1212
+website§https://www.firstbankonline.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§FB Financial Corporation operates as a bank holding company for FirstBank that provides a suite of commercial and consumer banking services to businesses, professionals, and individuals. The company operates in segments, such as Banking and Mortgage. It offers checking, demand, money market, and savings accounts; deposit and lending products and services to corporate, commercial, and consumer customers; and time deposits and certificates of deposits, as well as residential mortgage loans. The company also provides owner-occupied and non-owner-occupied real estate commercial, residential real estate 1-4 family mortgage, multi-family residential, commercial and industrial, construction, land acquisition, residential lines of credit, and land development loans; and consumer and other loans, such as car, boat, and other recreational vehicle loans, as well as manufactured homes without real estate and personal lines of credit. In addition, the company offers mortgage banking services through its bank branch network and mortgage banking offices in the southeastern United States; direct-to-consumer internet delivery channel; and trust, insurance, and investment services, as well as online and mobile banking services. The company operates full-service bank branches and limited-service branches locations throughout Tennessee, Nashville, Chattanooga, Knoxville, Memphis, Jackson, Birmingham, Florence, Huntsville, Alabama, Bowling Green, and Kentucky; and mortgage offices throughout the southeastern United States. The company was formerly known as First South Bancorp, Inc. and changed its name to FB Financial Corporation in 2016. FB Financial Corporation was founded in 1906 and is headquartered in Nashville, Tennessee.
+fullTimeEmployees§1757
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher T. Holmes', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 790074, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael M. Mettee', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 408276, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Wade Peery', 'age': 59, 'title': 'Chief Innovations Officer & Senior VP', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 596570, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Travis K. Edmondson', 'age': 42, 'title': 'Chief Banking Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 435645, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aimee T. Hamilton', 'age': 57, 'title': 'Chief Risk Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 499000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott J. Tansil', 'title': 'Chief Operations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Wade Pennington', 'age': 47, 'title': 'Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth W. Sims', 'age': 48, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Hickman', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wilburn J. Evans', 'age': 63, 'title': 'President of FB Ventures', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1089968, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0154
+exDividendDate§1699228800
+payoutRatio§0.21090001
+fiveYearAvgDividendYield§1.21
+beta§1.117
+priceToSalesTrailing12Months§3.7319293
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.84
+exchange§NYQ
+quoteType§EQUITY
+shortName§FB Financial Corporation
+longName§FB Financial Corporation
+firstTradeDateEpochUtc§1474032600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§752cbbba-9b48-3871-93aa-9e66f16ca670
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§46.0
+targetLowPrice§32.0
+targetMeanPrice§38.5
+targetMedianPrice§38.25
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§8
+earningsGrowth§-0.396
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 05:26:36.503317
+address1§1655 Grant Street
+address2§10th Floor
+city§Concord
+state§CA
+zip§94520
+country§United States
+phone§925 521 2200
+website§https://www.assetmark.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§AssetMark Financial Holdings, Inc. provides wealth management and technology solutions in the United States. The company offers an open-architecture product platform, as well as client advice, asset allocation options, practice management, support services, and technology to the financial adviser channel. It also provides integrated technology platform for advisers for accessing a range of automated processes, including new account opening, portfolio construction, streamlined financial planning, customer billing, investor reporting, progress to goal analysis, and client activity tracking; advisory services; and curated investment platform. In addition, the company provides SaaS-based financial planning, wellness, and client digital engagement solutions. Further, it offers mutual funds; custodial recordkeeping services primarily to investor clients of registered investment advisers; and wealth management solutions for individual investors. The company serves independent advisers who provide wealth management advice to the U.S. investors and advisers. AssetMark Financial Holdings, Inc. was founded in 1996 and is headquartered in Concord, California. AssetMark Financial Holdings, Inc. operates as a subsidiary of Huatai International Investment Holdings Limited.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. H. Michael Kim', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1240908, 'exercisedValue': 0, 'unexercisedValue': 62095}, {'maxAge': 1, 'name': 'Mr. Gary G. Zyla', 'age': 50, 'title': 'Executive VP, Principal Accounting Officer & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 966754, 'exercisedValue': 0, 'unexercisedValue': 62095}, {'maxAge': 1, 'name': 'Ms. Carrie Ellen Hansen CPA', 'age': 53, 'title': 'Executive VP, COO & President Mutual Funds', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian L. Chan C.F.A.', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mukesh Kantilal Mehta', 'age': 56, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Taylor John Hamilton C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ted Fyke Angus J.D.', 'age': 51, 'title': 'Executive VP & General Counsel', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tamara N. Bohlig', 'age': 54, 'title': 'Chief Marketing Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Joel Abelson C.F.A.', 'title': 'Executive Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Esi  Minta-Jacobs', 'age': 51, 'title': 'Executive Vice President of Human Resources & Program Management', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.086
+priceToSalesTrailing12Months§3.0529468
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.45
+pegRatio§0.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§AssetMark Financial Holdings, I
+longName§AssetMark Financial Holdings, Inc.
+firstTradeDateEpochUtc§1563456600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e747da53-867a-3101-8704-7c7d1df47175
+messageBoardId§finmb_330679182
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§25.0
+targetMeanPrice§31.63
+targetMedianPrice§32.75
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.705
+earningsGrowth§0.251
+grossMargins§0.48988998
+ebitdaMargins§0.28542998
+trailingPegRatio§None

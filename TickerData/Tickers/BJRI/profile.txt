@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 00:43:41.209516
+address1§7755 Center Avenue
+address2§Suite 300
+city§Huntington Beach
+state§CA
+zip§92647
+country§United States
+phone§714 500 2400
+website§https://www.bjsrestaurants.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§BJ's Restaurants, Inc. owns and operates casual dining restaurants in the United States. The company's restaurants offer pizzas, craft and other beers, appetizers, entrées, pastas, sandwiches, specialty salads, and desserts. BJ's Restaurants, Inc. was founded in 1978 and is based in Huntington Beach, California.
+fullTimeEmployees§22225
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gregory S. Levin', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1150098, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Houdek', 'age': 42, 'title': 'Senior VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 517825, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian S. Krakower', 'age': 52, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 447504, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kendra D. Miller', 'age': 48, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 499803, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory S. Lynds', 'age': 62, 'title': 'Executive VP & Chief Development Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 539568, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher P. Pinsak', 'age': 58, 'title': 'Senior Vice President of Operations', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacob J. Guild', 'title': 'Senior VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy B. Krallman', 'age': 56, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander M. Puchner', 'age': 61, 'title': 'Senior Vice President of Brewing Operations', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 143262, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Putnam K. Shin', 'age': 44, 'title': 'Executive VP and Chief Growth & Innovation Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1583712000
+payoutRatio§0.0
+beta§2.069
+priceToSalesTrailing12Months§0.557003
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.31
+pegRatio§0.23
+exchange§NMS
+quoteType§EQUITY
+shortName§BJ's Restaurants, Inc.
+longName§BJ's Restaurants, Inc.
+firstTradeDateEpochUtc§844867800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§396ff264-b033-36de-8533-0f1de54e47bb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§24.0
+targetMeanPrice§34.5
+targetMedianPrice§36.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.166
+grossMargins§0.12985
+ebitdaMargins§0.06795
+trailingPegRatio§1.4853

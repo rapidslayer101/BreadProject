@@ -1,0 +1,61 @@
+# reload+after+2024-01-22 19:26:22.156594
+address1§180 Marsh Hill Road
+city§Orange
+state§CT
+zip§06477
+country§United States
+phone§207 629 1190
+website§https://www.avangrid.com
+industry§Utilities - Regulated Electric
+industryKey§utilities-regulated-electric
+industryDisp§Utilities - Regulated Electric
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§Avangrid, Inc., an energy services holding company, engages in the regulated energy transmission and distribution, and renewable energy generation businesses in the United States. The company operates in two segments: Networks and Renewables. It is involved in the generation, transmission, and distribution of electricity; and distribution, transportation, and sale of natural gas. The company also operates renewable energy generation facilities primarily using onshore wind power, as well as solar, biomass, and thermal power. It delivers natural gas and electricity to residential, commercial, and institutional customers through its regulated utilities in New York, Maine, Connecticut, and Massachusetts; and sells its output to investor-owned utilities, public utilities, and other credit-worthy entities. In addition, the company generates and provides power and other services to federal and state agencies, as well as institutional retail and joint action agencies; and delivers thermal output to wholesale customers in the Western United States. It owns eight electric and natural gas utilities, serving 3.3 million customers in New York and New England, as well as owns and operates 9.2 gigawatts of electricity capacity primarily through wind power in 22 states. The company was incorporated in 1997 and is headquartered in Orange, Connecticut. Avangrid, Inc. is a subsidiary of Iberdrola, S.A.
+fullTimeEmployees§7600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pedro Azagra  Blazquez', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2229367, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Scott Mahoney', 'age': 57, 'title': 'Senior VP, General Counsel & Company Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1126650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose Antonio Miranda Soto', 'age': 51, 'title': 'President & CEO of Avangrid Renewables, LLC', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1043205, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Lagasse', 'age': 35, 'title': 'Interim CFO, Senior VP & Controller', 'yearBorn': 1988, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Labelle', 'title': 'Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alvaro Ortega Sebastian', 'title': 'Vice President of Finance, Investor & Shareholder Relations and Risk', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'German Gonzalez Avecilla', 'title': 'VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly A. Harriman', 'age': 50, 'title': 'Senior Vice President of State Government Affairs & Corporate Communications', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ignacio  Estella', 'age': 53, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kyra  Patterson', 'title': 'VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§8
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.76
+dividendYield§0.051999997
+exDividendDate§1701302400
+payoutRatio§1.2847
+fiveYearAvgDividendYield§3.92
+beta§0.523
+priceToSalesTrailing12Months§1.6000082
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.26
+pegRatio§-11.44
+lastDividendValue§0.44
+lastDividendDate§1701302400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Avangrid, Inc.
+longName§Avangrid, Inc.
+firstTradeDateEpochUtc§1450362600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f789016f-11d3-3013-849f-5517794dbe86
+messageBoardId§finmb_291586
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§52.0
+targetLowPrice§30.0
+targetMeanPrice§35.63
+targetMedianPrice§34.0
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.382
+earningsGrowth§-0.444
+grossMargins§0.3069
+ebitdaMargins§0.22114
+trailingPegRatio§5.3236

@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 21:28:03.500492
+address1§935 de La Gauchetière Street West
+city§Montreal
+state§QC
+zip§H3B 2M9
+country§Canada
+website§https://www.cn.ca
+industry§Railroads
+sector§Industrials
+longBusinessSummary§Canadian National Railway Company, together with its subsidiaries, engages in rail and related transportation business. The company offers rail services, which include equipment, custom brokage services, transloading and distribution, business development and real estate, and private car storage services; and intermodal services including temperature controlled cargo, port partnership, transloading and distribution, logistic parks, customs brokerage, trucking, and moving grains in containers. It also provides trucking services, such as door-to-door services, import and export dray, interline services, and specialized services comprising flatbed trucks, on-deck mobile transport trays, expedited and temperature controlled cargo, and permit/overweight services; and supply chain services. In addition, it serves automotive, coal, fertilizers, temperature controlled cargo, forest products, dimensional, grain, metal and minerals, petroleum and chemicals, and consumer goods applications. Further, the company operates a network of 20,000 route miles of track and shipping Canada and the United States. Canadian National Railway Company was incorporated in 1919 and is headquartered in Montreal, Canada.
+fullTimeEmployees§25101
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Tracy A. Robinson', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2605529, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ghislain  Houle', 'age': 59, 'title': 'Executive VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1372987, 'exercisedValue': 729593, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominique  Malenfant', 'age': 61, 'title': 'Executive VP and Chief Information & Technology Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1261822, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  MacDonald', 'title': 'Executive VP & Chief Marketing Officer', 'fiscalYear': 2022, 'totalPay': 1060237, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edmond L. Harris', 'age': 73, 'title': 'Consultant', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 529456, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Greg  Hamilton', 'title': 'Senior Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Olivier  Chouc', 'title': 'Senior VP & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan  Abecassis', 'title': 'Senior Manager of Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Josée  Girard', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith Donald Reardon', 'title': 'Senior Vice-President of Consumer Product Supply Chain Growth', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§6
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.39
+dividendYield§0.019
+exDividendDate§1701820800
+payoutRatio§0.42099997
+fiveYearAvgDividendYield§1.74
+beta§0.671
+priceToSalesTrailing12Months§4.8279476
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.9
+pegRatio§6.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§Canadian National Railway Compa
+longName§Canadian National Railway Company
+firstTradeDateEpochUtc§849018600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6f071915-1624-390a-83a1-e93a716c2d1d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§164.71
+targetLowPrice§109.81
+targetMeanPrice§125.37
+targetMedianPrice§125.6
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§25
+quickRatio§0.381
+earningsGrowth§-0.207
+grossMargins§0.56216
+ebitdaMargins§0.56216
+trailingPegRatio§None

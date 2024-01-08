@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 09:46:24.696095
+address1§3451 Plano Parkway
+city§Lewisville
+state§TX
+zip§75056
+country§United States
+phone§214 937 2000
+website§https://www.orthofix.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Orthofix Medical Inc. operates spine and orthopedics company in the United States, Italy, Germany, France, the United Kingdom, Brazil, and internationally. It operates through Global Spine and Global Orthopedics segments. The Global Spine segment comprises the bone growth therapies products, which manufactures and distributes bone growth stimulator devices for enhance of bone fusion including adjunctive and noninvasive treatment of cervical and lumbar spine as well as a therapeutic treatment for non-spine; the spinal implants products designs, develops, and markets a portfolio of motion preservation and fixation implant products, which are used in surgical procedures of the spine; and the biological products, such as regenerative products and tissue forms which allow physicians to treat a variety of spinal and orthopedic conditions. Global Orthopedics segment offers products and solutions that allow physicians to treat a variety of orthopedic conditions unrelated to the spine, which design, develop, and market the orthopedic products used in fracture repair, deformity correction, and bone reconstruction procedures. It sells its products through distributors, sales representatives, hospitals, and healthcare providers. The company was formerly known as Orthofix International N.V. and changed its name to Orthofix Medical Inc. in 2018. Orthofix Medical Inc. was founded in 1987 and is headquartered in Lewisville, Texas.
+fullTimeEmployees§1092
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Catherine M. Burzik M.A.', 'age': 73, 'title': 'Interim CEO & Chair of the Board', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 137500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberley A. Elting', 'age': 58, 'title': 'President of Global Orthopedics', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 766667, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin J. Kenny', 'age': 58, 'title': 'President of Global Spine Business', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 607639, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey C. Gillespie', 'title': 'VP, Corporate Controller & Interim CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roberto  Donadello', 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Frank  Vizesi Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan E. Yarbrough', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Mason', 'title': 'Interim Chief Ethics & Compliance Officer and VP of Corporate Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne  Armstrong', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ehab M. Esmail', 'age': 51, 'title': 'Senior Vice President of Global Quality, Regulatory & Clinical Affairs', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.054
+priceToSalesTrailing12Months§0.6966903
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.11
+pegRatio§-17.3
+exchange§NMS
+quoteType§EQUITY
+shortName§Orthofix Medical Inc.
+longName§Orthofix Medical Inc.
+firstTradeDateEpochUtc§704122200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cca57b93-377b-34d0-aa45-df86547074ff
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§12.0
+targetMeanPrice§18.0
+targetMedianPrice§14.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.969
+grossMargins§0.69986
+ebitdaMargins§-0.03751
+trailingPegRatio§None

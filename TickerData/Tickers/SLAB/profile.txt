@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:47:14.148662
+address1§400 West Cesar Chavez
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§512 416 8500
+website§https://www.silabs.com
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§Silicon Laboratories Inc., a fabless semiconductor company, provides various analog-intensive mixed-signal solutions in the United States, China, Taiwan, and internationally. The company's products include wireless microcontrollers and sensor products. Its products are used in various electronic products in a range of applications for the Internet of Things (IoT), including connected home and security, industrial automation and control, smart metering, smart lighting, commercial building automation, consumer electronics, asset tracking, and medical instrumentation. The company sells its products through its direct sales force, as well as through a network of independent sales representatives and distributors. Silicon Laboratories Inc. was founded in 1996 and is headquartered in Austin, Texas.
+fullTimeEmployees§1964
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Matthew Johnson', 'age': 46, 'title': 'CEO, President & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1820948, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John C. Hollister CPA', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1030820, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sandeep P. Kumar Ph.D.', 'age': 58, 'title': 'Senior Vice President of Worldwide Operations', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 772899, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Tolany', 'age': 49, 'title': 'Senior Vice President of Worldwide Sales, Marketing & Applications', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 987196, 'exercisedValue': 0, 'unexercisedValue': 1678100}, {'maxAge': 1, 'name': 'Mr. Mark D. Mauldin', 'age': 53, 'title': 'Chief Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Cooley', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karuna  Annavajjala', 'age': 47, 'title': 'Chief Information Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Austin  Dean', 'title': 'Investor Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nestor Ho Gutierrez', 'title': 'Chief Legal Officer and VP of Government Affairs & Public Policy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Serena  Townsend', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.207
+priceToSalesTrailing12Months§4.0223713
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.19
+pegRatio§24.37
+exchange§NMS
+quoteType§EQUITY
+shortName§Silicon Laboratories, Inc.
+longName§Silicon Laboratories Inc.
+firstTradeDateEpochUtc§953908200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d1360da3-ac37-3d5c-8224-4bbe2ef9a34e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§155.0
+targetLowPrice§80.0
+targetMeanPrice§119.75
+targetMedianPrice§121.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§3.144
+earningsGrowth§-0.467
+grossMargins§0.60243
+ebitdaMargins§0.13009
+trailingPegRatio§None

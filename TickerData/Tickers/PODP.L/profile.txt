@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 05:40:06.667767
+address1§28-42 Banner Street
+city§London
+zip§EC1Y 8QE
+country§United Kingdom
+phone§44 20 7247 4114
+website§https://www.pod-point.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Pod Point Group Holdings Plc, together with its subsidiaries, engages in the development and supply of equipment and systems for recharging electric vehicles (EV) in the United Kingdom and Norway. It is involved in the installation and operation of EV charging points for home, workplace, destination, and en-route places. The company was founded in 2009 and is based in London, the United Kingdom. Pod Point Group Holdings Plc is a subsidiary of EDF Energy Customers Limited.
+fullTimeEmployees§536
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Andrew Charles Palmer CMG', 'age': 60, 'title': 'Interim CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 68000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Fairbairn', 'age': 46, 'title': 'Founder & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 706000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Wolffe', 'age': 60, 'title': 'CFO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anita  Guernari', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.302
+priceToSalesTrailing12Months§0.5862107
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§POD POINT GROUP HOLDINGS PLC OR
+longName§Pod Point Group Holdings Plc
+firstTradeDateEpochUtc§1636012800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§32ac6fdc-1bf6-37ad-a4bb-ab57c005c659
+targetHighPrice§70.0
+targetLowPrice§30.0
+targetMeanPrice§50.0
+targetMedianPrice§50.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.95
+grossMargins§0.25533
+ebitdaMargins§-0.39363998
+trailingPegRatio§None

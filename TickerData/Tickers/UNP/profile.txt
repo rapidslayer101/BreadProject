@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 09:34:00.382910
+address1§1400 Douglas Street
+city§Omaha
+state§NE
+zip§68179
+country§United States
+phone§402 544 5000
+website§https://www.up.com
+industry§Railroads
+sector§Industrials
+longBusinessSummary§Union Pacific Corporation, through its subsidiary, Union Pacific Railroad Company, operates in the railroad business in the United States. The company offers transportation services for grain and grain products, fertilizers, food and refrigerated products, and coal and renewables to grain processors, animal feeders, ethanol producers, and other agricultural users; petroleum, and liquid petroleum gases; and construction products, industrial chemicals, plastics, forest products, specialized products, metals and ores, soda ash, and sand, as well as finished automobiles, automotive parts, and merchandise in intermodal containers. The company was founded in 1862 and is headquartered in Omaha, Nebraska.
+fullTimeEmployees§31800
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Elizabeth F. Whited', 'age': 57, 'title': 'President', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 906355, 'exercisedValue': 1505583, 'unexercisedValue': 956059}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Hamann', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 957633, 'exercisedValue': 627400, 'unexercisedValue': 1650161}, {'maxAge': 1, 'name': 'Mr. Kenyatta G. Rocker', 'age': 51, 'title': 'Executive Vice President of Marketing & Sales - Union Pacific Railroad Company', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 833574, 'exercisedValue': 1870029, 'unexercisedValue': 1185742}, {'maxAge': 1, 'name': 'Mr. Eric J. Gehringer', 'age': 43, 'title': 'Executive Vice President of Operations - Union Pacific Railroad Company', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 814900, 'exercisedValue': 0, 'unexercisedValue': 326710}, {'maxAge': 1, 'name': 'Mr. Vincenzo James Vena', 'age': 64, 'title': 'CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1614148, 'exercisedValue': 0, 'unexercisedValue': 5032833}, {'maxAge': 1, 'name': 'Mr. Todd M. Rynaski', 'age': 52, 'title': 'Senior VP, Chief Accounting, Risk & Compliance Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rahul  Jalali', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad  Stock', 'title': 'Assistant Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig V. Richardson', 'age': 61, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clarissa  Beyah-Taylor', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.2
+dividendYield§0.0217
+exDividendDate§1701907200
+payoutRatio§0.499
+fiveYearAvgDividendYield§2.12
+beta§1.109
+priceToSalesTrailing12Months§6.058354
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.35
+pegRatio§3.68
+exchange§NYQ
+quoteType§EQUITY
+shortName§Union Pacific Corporation
+longName§Union Pacific Corporation
+firstTradeDateEpochUtc§315671400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c077bb12-7f5a-3cf2-8062-a182f13672e7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§282.0
+targetLowPrice§182.0
+targetMeanPrice§243.31
+targetMedianPrice§240.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§26
+quickRatio§0.509
+earningsGrowth§-0.177
+grossMargins§0.52465
+ebitdaMargins§0.46719003
+trailingPegRatio§4.0649

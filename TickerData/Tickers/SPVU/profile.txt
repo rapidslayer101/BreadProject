@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 21:33:24.167197
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is designed to measure the performance of 100 stocks in the S&P 500® Index that have the highest "value score," which the index provider calculates based on fundamental ratios of a company's stock. A value stock tends to trade at a lower price relative to such fundamentals and thus may be considered undervalued by investors.
+maxAge§86400
+priceHint§2
+yield§0.0305
+totalAssets§88417336
+navPrice§44.84
+currency§USD
+category§Large Value
+ytdReturn§0.0142769
+beta3Year§0.95
+fundFamily§Invesco
+fundInceptionDate§1444348800
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.1312906
+fiveYearAverageReturn§0.10297129
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Enhanced Value 
+longName§Invesco S&P 500 Enhanced Value ETF
+firstTradeDateEpochUtc§1444397400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c32ee2d1-5d99-38ae-96b3-2493e6d7906e
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

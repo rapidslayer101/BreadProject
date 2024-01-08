@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 01:28:30.122504
+address1§One John Deere Place
+city§Moline
+state§IL
+zip§61265
+country§United States
+phone§309 765 8000
+website§https://www.deere.com
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§Deere & Company engages in the manufacture and distribution of various equipment worldwide. The company operates through four segments: Production and Precision Agriculture, Small Agriculture and Turf, Construction and Forestry, and Financial Services. The Production and Precision Agriculture segment provides large and medium tractors, combines, cotton pickers and strippers, sugarcane harvesters and loaders, harvesting front-end equipment, pull-behind scrapers, and tillage and seeding equipment, as well as application equipment, including sprayers and nutrient management, and soil preparation machinery for grain growers. The Small Agriculture and Turf segment offers utility tractors, and related loaders and attachments; turf and utility equipment, including riding lawn equipment, commercial mowing equipment, golf course equipment, and utility vehicles, as well as implements for mowing, tilling, snow and debris handling, aerating, residential, commercial, golf, and sports turf care applications; other outdoor power products; and hay and forage equipment. This segment also resells products from other manufacturers. It serves dairy and livestock producers, crop producers, and turf and utility customers. The Construction and Forestry segment provides a range of backhoe loaders, crawler dozers and loaders, four-wheel-drive loaders, excavators, motor graders, articulated dump trucks, landscape and skid-steer loaders, milling machines, pavers, compactors, rollers, crushers, screens, asphalt plants, log skidders, log feller bunchers, log loaders and forwarders, log harvesters, and attachments; and roadbuilding equipment. The Financial Services segment finances sales and leases agriculture and turf, and construction and forestry equipment. It also offers wholesale financing to dealers of the foregoing equipment; and extended equipment warranties, as well as finances retail revolving charge accounts. The company was founded in 1837 and is headquartered in Moline, Illinois.
+fullTimeEmployees§83000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. May II', 'age': 54, 'title': 'Chairman, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 9065913, 'exercisedValue': 0, 'unexercisedValue': 9127066}, {'maxAge': 1, 'name': 'Mr. Joshua A. Jepsen', 'age': 45, 'title': 'Senior VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1162891, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajesh  Kalathur', 'age': 55, 'title': 'Chief Information Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1845968, 'exercisedValue': 10389737, 'unexercisedValue': 17939552}, {'maxAge': 1, 'name': 'Ms. Mary K. W. Jones', 'age': 55, 'title': 'Senior VP of Worldwide Public Affairs & General Counsel', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3687016, 'exercisedValue': 0, 'unexercisedValue': 2992429}, {'maxAge': 1, 'name': 'Mr. Ryan D. Campbell', 'age': 48, 'title': 'President of Worldwide Construction, Forestry & Power Systems', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 3931317, 'exercisedValue': 0, 'unexercisedValue': 2248858}, {'maxAge': 1, 'name': 'Mr. Cory J. Reed', 'age': 52, 'title': 'President of Worldwide Ag & Turf Div., Production & Precision Ag for Americas and Australia', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 3677490, 'exercisedValue': 1668694, 'unexercisedValue': 8759317}, {'maxAge': 1, 'name': 'Mr. Jeffrey A. Trahan', 'title': 'Vice President of Pension Fund & Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jahmy J. Hindman', 'age': 48, 'title': 'Senior VP & CTO', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Josh  Beal', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Renee A. Mailhot', 'title': 'VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.88
+dividendYield§0.0148
+exDividendDate§1703721600
+payoutRatio§0.1458
+fiveYearAvgDividendYield§1.36
+beta§1.066
+priceToSalesTrailing12Months§1.8125801
+currency§USD
+dateShortInterest§1702598400
+forwardEps§28.7
+pegRatio§-2.75
+exchange§NYQ
+quoteType§EQUITY
+shortName§Deere & Company
+longName§Deere & Company
+firstTradeDateEpochUtc§76253400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3a52f3c2-2ed6-3cde-9bf6-96a6c02c9e73
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§493.0
+targetLowPrice§375.0
+targetMeanPrice§423.0
+targetMedianPrice§420.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§21
+quickRatio§1.707
+earningsGrowth§0.112
+grossMargins§0.34493
+ebitdaMargins§0.27069
+trailingPegRatio§2.104

@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 06:29:51.914402
+address1§53 State Street
+address2§27th Floor
+city§Boston
+state§MA
+zip§02109
+country§United States
+phone§617 204 3400
+fax§617 790 1509
+website§https://www.cloughglobal.com/closed-end-funds/overview/glo
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Clough Global Opportunities Fund is a closed ended balanced mutual fund launched and managed by Clough Capital Partners L.P. It invests in public equity and fixed income markets across the globe. The fund invests in securities of companies operating across diversified sectors. For its fixed income portion, the fund invests in both investment grade and non-investment grade issues. It employs a combination of fundamental and quantitative analysis with bottom-up stock picking approach to create its portfolio. Clough Global Opportunities Fund was formed on January 12, 2006 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edmund Joseph Burke', 'age': 62, 'title': 'Principal Executive Officer, President and Trustee', 'yearBorn': 1961, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy Oppegard May CPA, CPA', 'age': 53, 'title': 'Principal Financial Officer, Principal Accounting Officer and Treasurer', 'yearBorn': 1970, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Ingalls Clough Jr.', 'age': 81, 'title': 'Portfolio Manager', 'yearBorn': 1942, 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Zdunczyk', 'title': 'Portfolio Manager', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1419984000
+maxAge§86400
+priceHint§4
+dividendRate§0.58
+dividendYield§0.1246
+exDividendDate§1703116800
+payoutRatio§0.3721
+fiveYearAvgDividendYield§13.55
+beta§1.103
+priceToSalesTrailing12Months§21.225101
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Clough Global Opportunities Fun
+longName§Clough Global Opportunities Fund
+firstTradeDateEpochUtc§1146576600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2aad052e-990f-341c-8b95-4798d83b2808
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.2
+targetLowPrice§2.75
+targetMeanPrice§3.82
+targetMedianPrice§3.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.18
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

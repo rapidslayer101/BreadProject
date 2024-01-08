@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 08:35:58.906127
+address1§77 Gracechurch Street
+city§London
+zip§EC3V 0AS
+country§United Kingdom
+phone§+44 20 77110771
+fax§+44 20 77110772
+website§https://www.citlon.co.uk
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§City of London Investment Group PLC is a publically owned investment manager. The firm provides client focused equity portfolios. It invests in public equity markets across the globe. The firm invests in small cap companies in emerging markets to create its portfolios. It uses combination of macroeconomic, qualitative, and top down company analysis to make its investments. The firm uses in house research to make its investments. It benchmarks the performance of its portfolios with S&P EM Frontier Super Comp., MSCI Emerging Markets Index, HSBC Global Mining Index, and MSCI ACWI ex US Index. City of London Investment Group PLC was founded in 1991 and is based in London, United Kingdom with additional offices in Dubai, United Arab Emirates, Singapore, Coatesville, Pennsylvania, Bellevue, Washington.
+fullTimeEmployees§120
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Wayne Griffith', 'age': 60, 'title': 'CEO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 718845, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deepranjan  Agrawal', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ted  Sevick', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ashleigh  Simms', 'title': 'Head of Compliance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos Manuel Yuste', 'title': 'Head of Business Development', 'fiscalYear': 2023, 'totalPay': 614325, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Dominic Dwyer C.F.A.', 'title': 'Chief Investment Officer of CLIM', 'fiscalYear': 2023, 'totalPay': 736368, 'exercisedValue': 0, 'unexercisedValue': 23045}, {'maxAge': 1, 'name': 'Mr. Michael  Edmonds C.A.I.A., C.F.A.', 'title': 'Head of Developed/Opportunistic Value Strategy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeff  Gill', 'title': 'Head of the Frontier Strategy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Courtney  Short', 'title': 'Head of US Client Servicing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jennifer  Kratzer', 'title': 'Head of Performance & Attribution', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.33
+dividendYield§0.098400004
+exDividendDate§1695859200
+payoutRatio§1.1149
+fiveYearAvgDividendYield§7.2
+beta§0.498
+priceToSalesTrailing12Months§2.965985
+currency§GBp
+forwardEps§35.55
+lastDividendValue§22.0
+lastDividendDate§1695859200
+exchange§LSE
+quoteType§EQUITY
+shortName§CITY OF LONDON INVESTMENT GROUP
+longName§City of London Investment Group Plc
+firstTradeDateEpochUtc§1165996800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§eac95b59-4153-3393-8286-be93d777cf15
+messageBoardId§finmb_26813327
+recommendationKey§none
+quickRatio§2.912
+earningsGrowth§-0.019
+grossMargins§1.0
+ebitdaMargins§0.41224998
+trailingPegRatio§None

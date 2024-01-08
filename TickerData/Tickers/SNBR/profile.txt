@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 04:47:17.259287
+address1§1001 Third Avenue South
+city§Minneapolis
+state§MN
+zip§55404
+country§United States
+phone§763 551 7000
+website§https://www.sleepnumber.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Sleep Number Corporation, together with its subsidiaries, offers sleep solutions and services in the United States. The company designs, manufactures, markets, retails, and services beds, pillows, sheets, and other bedding products under the Sleep Number name. It also provides adjustable bases under the FlextFit, and smart beds under the Climate 360 brands. The company sells its products directly to consumers through retail, online, phone, chat, and other. The company was formerly known as Select Comfort Corporation and changed its name to Sleep Number Corporation in November 2017. Sleep Number Corporation was founded in 1987 and is headquartered in Minneapolis, Minnesota.
+fullTimeEmployees§4500
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Shelly R. Ibach', 'age': 63, 'title': 'CEO, President & Chair', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1283229, 'exercisedValue': 686035, 'unexercisedValue': 389559}, {'maxAge': 1, 'name': 'Mr. Samuel R. Hellfeld', 'title': 'Executive VP, Chief Legal & Risk Officer and Secretary', 'fiscalYear': 2022, 'totalPay': 634395, 'exercisedValue': 0, 'unexercisedValue': 40842}, {'maxAge': 1, 'name': 'Ms. Melissa  Barra', 'age': 51, 'title': 'Executive VP and Chief Sales & Services Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 586687, 'exercisedValue': 100296, 'unexercisedValue': 39901}, {'maxAge': 1, 'name': 'Ms. Andrea Lee Bloomquist', 'age': 53, 'title': 'Executive VP & Chief Innovation Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 588905, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis K. Lee', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Laing', 'title': 'Senior Director of Finance, Treasurer & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David W. Schwantes', 'title': 'Vice President of Finance, Investor Relations & Decision Support', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Kennedy Brown', 'age': 54, 'title': 'Executive VP & Chief Marketing Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1220263, 'exercisedValue': 0, 'unexercisedValue': 1907516}, {'maxAge': 1, 'name': 'Mr. Christopher D Krusmark', 'age': 43, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph Hunter Saklad', 'age': 53, 'title': 'Executive VP & Chief Supply Chain Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 886803, 'exercisedValue': 120517, 'unexercisedValue': 186947}]
+auditRisk§4
+boardRisk§2
+compensationRisk§8
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.877
+priceToSalesTrailing12Months§0.15720508
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.65
+pegRatio§-4.62
+exchange§NMS
+quoteType§EQUITY
+shortName§Sleep Number Corporation
+longName§Sleep Number Corporation
+firstTradeDateEpochUtc§912781800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§43f3ab2f-5ac1-3f5e-9d5c-51855e1bdf2c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§12.0
+targetMeanPrice§12.0
+targetMedianPrice§12.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.021
+grossMargins§0.57151
+ebitdaMargins§0.05876
+trailingPegRatio§None

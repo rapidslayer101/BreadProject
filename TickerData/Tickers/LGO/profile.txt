@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 14:45:46.735916
+address1§55 University Avenue
+address2§Suite 1105
+city§Toronto
+state§ON
+zip§M5J 2H7
+country§Canada
+phone§416-861-9797
+website§https://www.largoinc.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Largo Inc. engages in the development and sale of vanadium-based energy storage systems in Canada. The company operates through, Sales & Trading, Mine Properties, Corporate, Exploration and Evaluation Properties, and Largo Clean Energy and Largo Physical Vanadium Segments. Its products include VPURE+ vanadium flakes that are used in the production of master alloys and aerospace applications; VPURE vanadium flakes ferrovanadium and vanadium carbon nitride for the steel industry; and VPURE+ vanadium powder for catalyst applications. The company offers renewable energy storage solutions through Largo Clean Energy. Its products are sourced from vanadium deposits at the Maracás Menchen Mine in Brazil. The company was formerly known as Largo Resources Ltd. and changed its name to Largo Inc. in November 2021. Largo Inc. was incorporated in 1988 and is headquartered in Toronto, Canada.
+fullTimeEmployees§479
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel R. Tellechea B.Sc., MBA', 'age': 76, 'title': 'Interim CEO & Director', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 69154, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ernest M. Cleave C.A., CPA, M.B.A.', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 670604, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Vollant', 'age': 39, 'title': 'Chief Commercial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 528481, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Guthrie', 'title': 'Senior Manager of External Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liz  Valente', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Celio  Pereira', 'title': 'Chief Operating Officer of Brazil', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Harris', 'title': 'Corporate Controller', 'fiscalYear': 2022, 'totalPay': 235497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Francesco  D'Alessio", 'title': 'President of Largo Clean Energy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.875
+priceToSalesTrailing12Months§0.7419217
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.54
+exchange§NMS
+quoteType§EQUITY
+shortName§Largo Inc.
+longName§Largo Inc.
+firstTradeDateEpochUtc§1272288600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§34552104-3fdd-3e8b-a0e8-550ce81d3410
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§8.0
+targetMeanPrice§8.5
+targetMedianPrice§8.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.47
+grossMargins§0.1288
+ebitdaMargins§-0.00882
+trailingPegRatio§None

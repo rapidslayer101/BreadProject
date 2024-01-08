@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 19:40:10.138091
+address1§61 Hydepark Street
+city§Glasgow
+zip§G3 8BW
+country§United Kingdom
+website§https://www.quizgroup.co.uk
+industry§Apparel Retail
+sector§Consumer Cyclical
+longBusinessSummary§QUIZ plc, through its subsidiaries, designs and retails clothes, footwear, and accessories under the QUIZ brand name. The company offers occasion wear and dressy casual wear primarily for 16 to 35 years old females. It operates through standalone stores, concessions in the United Kingdom, Republic of Ireland, and the United States, and online partners. QUIZ plc was founded in 1993 and is headquartered in Glasgow, the United Kingdom.
+fullTimeEmployees§900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tarak  Ramzan', 'title': 'CEO & Executive Director', 'fiscalYear': 2023, 'totalPay': 229000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerard  Sweeney', 'title': 'CFO, Company Secretary & Executive Director', 'fiscalYear': 2023, 'totalPay': 159000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheraz  Ramzan', 'title': 'Chief Commercial Officer & Executive Director', 'fiscalYear': 2023, 'totalPay': 157000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1550102400
+payoutRatio§0.0
+beta§1.3
+priceToSalesTrailing12Months§0.08924537
+currency§GBp
+forwardEps§-2.33
+exchange§LSE
+quoteType§EQUITY
+shortName§QUIZ PLC ORD 0.3P
+longName§QUIZ plc
+firstTradeDateEpochUtc§1501225200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f0cd62b0-fdd1-3d23-958b-bb8274e6c893
+targetHighPrice§8.8
+targetLowPrice§8.8
+targetMeanPrice§8.8
+targetMedianPrice§8.8
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.476
+grossMargins§0.61736
+ebitdaMargins§0.00602
+trailingPegRatio§None

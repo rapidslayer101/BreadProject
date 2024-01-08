@@ -1,0 +1,25 @@
+# reload+after+2024-01-21 03:34:00.027498
+longBusinessSummary§The fund invests primarily in futures contracts for natural gas that are traded on the NYMEX, ICE Futures Europe and ICE Futures U.S. (together, “ICE Futures”) or other U.S. and foreign exchanges. The Benchmark Futures Contract is the futures contract on natural gas as traded on the New York Mercantile Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration.
+maxAge§86400
+priceHint§2
+yield§0.0
+totalAssets§977901696
+navPrice§5.862
+currency§USD
+ytdReturn§0.1518738
+beta3Year§2.84
+fundFamily§USCF Investments
+fundInceptionDate§1176854400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.157911
+fiveYearAverageReturn§-0.2528936
+exchange§PCX
+quoteType§ETF
+shortName§United States Natural Gas Fund 
+longName§United States Natural Gas Fund, LP
+firstTradeDateEpochUtc§1176903000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b3ab8702-71d2-33ed-99d2-0a470cce6e1d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

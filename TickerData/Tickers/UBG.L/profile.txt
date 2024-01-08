@@ -1,0 +1,35 @@
+# reload+after+2024-01-22 10:40:53.411049
+address1§3 More London Riverside
+address2§4th Floor
+city§London
+zip§SE1 2AQ
+country§United Kingdom
+phone§442073975450
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Unbound Group plc, formerly known as Electra Private Equity PLC, specializes in growth capital, buyouts, recapitalization, control buyouts, PIPEs, middle market investments. It invests across all sectors and is not sector specific. The fund seeks to invest in companies based in the Continental Europe, United States and principally in Western Europe, with the majority of investments made in the United Kingdom. It typically invests between £40 million ($49.79 million) and £150 million ($180.73 million). It also co-invests £30 million ($37.35 million) to £100 million ($124.49 million) in minority positions in UK or International companies, alongside founders, other private equity firms, corporates or the public markets. It makes both minority and majority investments. The fund structures its investments through equity, senior equity, and convertible and mezzanine debt. It invests directly from its balance sheet.
+fullTimeEmployees§1
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian Andrew Watson', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gavin Maxwell Manson', 'age': 57, 'title': 'CFO & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shuli  Levy', 'title': 'Head of Tax and Compliance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Grimditch', 'title': 'Group Financial Controller of Electra Private Equity', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+exDividendDate§1577145600
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.71
+beta§1.129
+priceToSalesTrailing12Months§0.011761011
+currency§GBp
+forwardEps§3.63
+exchange§LSE
+quoteType§EQUITY
+shortName§UNBOUND GROUP PLC ORD GBP0.01
+longName§Unbound Group plc
+firstTradeDateEpochUtc§194256000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9d627659-afeb-3ebf-905c-f32f46471a03
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§9.25
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

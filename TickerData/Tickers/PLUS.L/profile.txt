@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 10:40:06.555555
+address1§Building 25
+address2§Matam
+city§Haifa
+zip§3190500
+country§Israel
+website§https://www.plus500.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Plus500 Ltd., a fintech company, operates technology-based trading platformsin Europe, the United Kingdom, Australia, and internationally. The company operates an online and mobile trading platform within the contracts for difference (CFDs) sector enabling its international customer base of individual customers to trade CFDs on underlying financial instruments comprising shares, indices, commodities, options, ETFs, foreign exchange, and cryptocurrencies internationally. It also operates Plus500 Invest, a share dealing platform; and TradeSniper, an intuitive futures trading platform for the US retail trading market. The company was formerly known as Investsoft Ltd. and changed its name to Plus500 Ltd. in June 2012. Plus500 Ltd. was incorporated in 2008 and is based in Haifa, Israel.
+fullTimeEmployees§521
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Zruia', 'age': 40, 'title': 'CEO & Executive Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1817825, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elad  Even-Chen', 'age': 37, 'title': 'Group CFO, VP of Business Development & Executive Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 1817825, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alon Cohen Naznin', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Al  Yaros', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Owen E. Jones', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nir  Zatz', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dani  Magner', 'title': 'Chief Product & Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yevgeni  Shtuckmeyster', 'title': 'Chief Regulation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hila  Barak', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.030299999
+exDividendDate§1692835200
+payoutRatio§0.2875
+fiveYearAvgDividendYield§7.83
+beta§0.0
+priceToSalesTrailing12Months§1.9544954
+currency§GBp
+forwardEps§3.06
+exchange§LSE
+quoteType§EQUITY
+shortName§PLUS500 LTD ORD ILS0.01 (DI)
+longName§Plus500 Ltd.
+firstTradeDateEpochUtc§1374649200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§092cb305-6c14-3f1e-a1ba-41238c3e69c7
+targetHighPrice§30.25
+targetLowPrice§16.15
+targetMeanPrice§22.95
+targetMedianPrice§22.69
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§3.804
+earningsGrowth§-0.35
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

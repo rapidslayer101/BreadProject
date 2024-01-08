@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 01:44:11.287640
+address1§8950 Cypress Waters Boulevard
+city§Coppell
+state§TX
+zip§75019
+country§United States
+phone§469 549 2000
+website§https://www.mrcoopergroup.com
+industry§Mortgage Finance
+sector§Financial Services
+longBusinessSummary§Mr. Cooper Group Inc. engages in non-banking services for mortgage loans the United States. The company operates through two segments: Servicing and Originations. The Servicing segment performs activities for underlying mortgages, including collecting and disbursing borrower payments, investor reporting, customer service, and modifying loans. The Originations segment originates residential mortgage loans through its direct-to-consumer channel, as well as originates and purchases loans from mortgage bankers. It operates primarily under the Mr. Cooper and Xome brands. The company was formerly known as WMIH Corp. and changed its name to Mr. Cooper Group Inc. in October 2018. Mr. Cooper Group Inc. was incorporated in 2015 and is based in Coppell, Texas.
+fullTimeEmployees§6600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jesse K. Bray', 'age': 56, 'title': 'Chairman & CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3512200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher G. Marshall', 'age': 63, 'title': 'Vice Chairman & President', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2262056, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt G. Johnson', 'age': 52, 'title': 'Executive VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 873777, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael R. Rawls', 'age': 53, 'title': 'Executive VP & CEO of Xome', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1218362, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sridhar  Sharma', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly Ann Doherty', 'title': 'Executive VP & Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth A. Posner', 'age': 60, 'title': 'Senior Vice President of Strategic Planning & Investor Relations', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos M. Pelayo', 'title': 'Executive VP & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Paxton', 'title': 'Executive VP and Chief Risk & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christen  Reyenga', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.434
+priceToSalesTrailing12Months§2.4371812
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.31
+pegRatio§-1.04
+exchange§NCM
+quoteType§EQUITY
+shortName§Mr. Cooper Group Inc.
+longName§Mr. Cooper Group Inc.
+firstTradeDateEpochUtc§1332941400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§49b0cbb8-b438-3ede-bb23-d644319a1777
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§81.0
+targetLowPrice§65.0
+targetMeanPrice§75.0
+targetMedianPrice§76.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.565
+earningsGrowth§1.619
+grossMargins§1.0
+ebitdaMargins§0.25635
+trailingPegRatio§None

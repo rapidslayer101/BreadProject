@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 15:30:09.929328
+address1§6355 MetroWest Boulevard
+address2§Suite 180
+city§Orlando
+state§FL
+zip§32835
+country§United States
+phone§407 613 3100
+website§https://www.hiltongrandvacations.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Hilton Grand Vacations Inc., a timeshare company, develops, markets, sells, manages, and operates the resorts, plans and ancillary reservation services under the Hilton Grand Vacations brand. It operates through Real Estate Sales and Financing, and Resort Operations and Club Management segments. Real Estate Sales and Financing segment market and sells the VOIs, and source VOIs through fee-for-service agreements with third-party developers; and provides consumer financing and services loans. Resort Operations and Club Management segment manages and operates the clubs and timeshare properties, which offers exchange, leisure travel, and reservation services, as well as engages in the rental of inventory made available due to ownership exchanges through its club programs, and provides ancillary services including food and beverage, retail and spa at timeshare properties. The company was founded in 1992 and is headquartered in Orlando, Florida.
+fullTimeEmployees§14500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark D. Wang', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 4088860, 'exercisedValue': 0, 'unexercisedValue': 5925017}, {'maxAge': 1, 'name': 'Mr. Daniel J. Mathewes', 'age': 47, 'title': 'Senior EVP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2190355, 'exercisedValue': 0, 'unexercisedValue': 392815}, {'maxAge': 1, 'name': 'Mr. Gordon S. Gurnik', 'age': 59, 'title': 'Senior EVP & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1984774, 'exercisedValue': 0, 'unexercisedValue': 409798}, {'maxAge': 1, 'name': 'Mr. Charles R. Corbin Jr.', 'age': 66, 'title': 'Executive VP, Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1562469, 'exercisedValue': 0, 'unexercisedValue': 789085}, {'maxAge': 1, 'name': 'Mr. Jorge Pablo Brizi', 'age': 47, 'title': 'Executive VP & Chief Human Resources Officer and Corporate Affairs', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1396572, 'exercisedValue': 0, 'unexercisedValue': 2406}, {'maxAge': 1, 'name': 'Mr. Carlos  Hernandez', 'title': 'Senior VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Onkar  Birk', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Melnyk', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hannah  Vazzana', 'title': 'Senior VP & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis A. DeLorenzo', 'age': 59, 'title': 'Executive VP & Chief Sales Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1866655, 'exercisedValue': 1371584, 'unexercisedValue': 87329}]
+auditRisk§9
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.934
+priceToSalesTrailing12Months§1.2204002
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.71
+pegRatio§1.18
+exchange§NYQ
+quoteType§EQUITY
+shortName§Hilton Grand Vacations Inc.
+longName§Hilton Grand Vacations Inc.
+firstTradeDateEpochUtc§1483540200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b9792055-20c3-3fdf-955d-2bb4a461d975
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§66.0
+targetLowPrice§38.0
+targetMeanPrice§50.8
+targetMedianPrice§50.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.647
+earningsGrowth§-0.331
+grossMargins§0.3
+ebitdaMargins§0.25279
+trailingPegRatio§None

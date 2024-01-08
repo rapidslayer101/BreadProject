@@ -1,0 +1,50 @@
+# reload+after+2024-01-19 22:47:05.443168
+address1§215 First Street
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§617 299 8380
+fax§617 299 8379
+website§https://www.sagerx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Sage Therapeutics, Inc., a biopharmaceutical company, develops and commercializes brain health medicines. Its product candidates include ZULRESSO, a CIV injection for the treatment of postpartum depression (PPD) in adults; zuranolone, a neuroactive steroid, which has completed Phase III clinical trials for treating PPD and major depressive disorders, as well as is in Phase II clinical trials for treatment resistant depression, generalized anxiety disorders, and bipolar depression; and SAGE-324, a compound that is in Phase II clinical trial to treat essential tremors, as well as has completed Phase I clinical trial for epilepsy and Parkinson's diseases. Its product pipeline also comprises SAGE-689 that is in Phase II clinical trial for treating acute GABA hypofunction; SAGE-718, an oxysterol-based positive allosteric modulator of the NMDA receptor, which is in Phase II clinical trial for the treatment of depression, Huntington's disease, Alzheimer's disease, attention deficit hyperactivity disorder, schizophrenia, and neuropathic pain. Sage Therapeutics, Inc. has a strategic collaboration with Shionogi & Co., Ltd. for the development and commercialization of zuranolone in Japan, Taiwan, and South Korea; and a collaboration and license agreement with Biogen MA Inc. to jointly develop and commercialize SAGE-217 and SAGE-324 products. The company was formerly known as Sterogen Biopharma, Inc. and changed its name to Sage Therapeutics, Inc. in September 2011. Sage Therapeutics, Inc. was incorporated in 2010 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§689
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Barry E. Greene', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1292155, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimi E. Iguchi CPA', 'age': 61, 'title': 'CFO & Treasurer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 665370, 'exercisedValue': 144990, 'unexercisedValue': 475215}, {'maxAge': 1, 'name': 'Ms. Anne Marie Cook Esq.', 'age': 61, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 711600, 'exercisedValue': 0, 'unexercisedValue': 142650}, {'maxAge': 1, 'name': 'Mr. Christopher  Benecchi', 'age': 51, 'title': 'Chief Business Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 703759, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Laura  Gault M.D., Ph.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'totalPay': 334082, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Lasmanis', 'title': 'Chief Technology & Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Quirk', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Helen  Rubinstein', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin E. Lanciani', 'age': 54, 'title': 'Chief People & Experience Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Amy  Schacterle Ph.D.', 'title': 'Senior Vice President of R&D Strategy and Business Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.1
+priceToSalesTrailing12Months§113.58005
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-6.26
+pegRatio§-0.05
+exchange§NGM
+quoteType§EQUITY
+shortName§Sage Therapeutics, Inc.
+longName§Sage Therapeutics, Inc.
+firstTradeDateEpochUtc§1405690200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§618eac11-72ea-39f7-a7ca-b4ef7120a6fb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§79.0
+targetLowPrice§18.0
+targetMeanPrice§25.17
+targetMedianPrice§21.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§18
+quickRatio§6.756
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

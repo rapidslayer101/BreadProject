@@ -1,0 +1,61 @@
+# reload+after+2024-01-21 22:26:21.928218
+address1§30 Woodbourne Avenue
+city§Hamilton
+zip§HM 08
+country§Bermuda
+phone§441 279 5700
+fax§441 279 5701
+website§https://www.assuredguaranty.com
+industry§Insurance - Specialty
+industryKey§insurance-specialty
+industryDisp§Insurance - Specialty
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Assured Guaranty Ltd., through its subsidiaries, provides credit protection products to public finance, infrastructure, and structured finance markets in the United States and internationally. The company operates in two segments, Insurance and Asset Management. It offers financial guaranty insurance that protects holders of debt instruments and other monetary obligations from defaults in scheduled payments. In addition, the company insures and reinsures various debt obligations, including bonds issued by the United States state governmental authorities; and notes issued to finance infrastructure projects. Further, it insures and reinsures various the U.S. public finance obligations, such as general obligation, tax-backed, municipal utility, transportation, healthcare, higher education, infrastructure, housing revenue, investor-owned utility, renewable energy, and other public finance bonds. Additionally, the company is involved in insuring and reinsuring of non-U.S. public finance obligations comprising regulated utilities, infrastructure finance, sovereign and sub-sovereign, renewable energy bonds, pooled infrastructure, and other public finance obligations; and the U.S. and non-U.S. Structured finance obligations, including residential mortgage-backed securities, life insurance transactions, consumer receivables securities, pooled corporate obligations, and financial products. Furthermore, it offers specialty insurance and reinsurance that include life and aircraft residual value insurance transactions; and asset management services comprising investment advisory services. It markets its financial guaranty insurance directly to issuers and underwriters of public finance and structured finance securities, as well as to investors in such obligations. Assured Guaranty Ltd. was incorporated in 2003 and is headquartered in Hamilton, Bermuda.
+fullTimeEmployees§411
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dominic John Frederico', 'age': 70, 'title': 'Deputy Chairman, President & CEO', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 4944230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Adam Bailenson', 'age': 57, 'title': 'Chief Operating Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3105540, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gon Ling Chow', 'age': 52, 'title': 'General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2178963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen John Donnarumma', 'age': 60, 'title': 'Chief Credit Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1921348, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Allan Buzen', 'age': 64, 'title': 'Senior Managing Director of Alternative Investments', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2432673, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin G. Rosenblum', 'title': 'CFO & Chief Actuary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura Ann Bieling', 'age': 56, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Gibbons', 'title': 'CTO & Head of Information Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kirk  Edmunds', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert S. Tucker', 'title': 'Senior Managing Director of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.12
+dividendYield§0.0148
+exDividendDate§1699920000
+payoutRatio§0.1463
+fiveYearAvgDividendYield§1.91
+beta§1.101
+priceToSalesTrailing12Months§3.5875432
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.46
+pegRatio§3.94
+lastDividendValue§0.28
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Assured Guaranty Ltd.
+longName§Assured Guaranty Ltd.
+firstTradeDateEpochUtc§1082727000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bdd7c984-50d4-3940-9aab-c07e7d8fe075
+messageBoardId§finmb_8251227
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§84.0
+targetLowPrice§64.0
+targetMeanPrice§75.75
+targetMedianPrice§77.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.971
+earningsGrowth§13.584
+grossMargins§0.82036
+ebitdaMargins§0.42136002
+trailingPegRatio§None

@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 13:40:13.625628
+address1§2 The Esplanade
+address2§Level 17
+city§Perth
+state§WA
+zip§6000
+country§Australia
+phone§61 8 9261 6100
+fax§61 8 9322 7597
+website§https://www.rml.com.au
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Resolute Mining Limited engages in gold mining, and prospecting and exploration for minerals in Africa, the United Kingdom, and Australia. The company's flagship project is the Syama Gold Mine located in Mali, West Africa. It also owns Mako Gold Mine in Senegal, West Africa. The company was incorporated in 2001 and is based in Perth, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Terence Neil Holohan B.Sc., C.Eng.', 'age': 65, 'title': 'MD, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 665039, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoff  Montgomery B.Sc.', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'totalPay': 284953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Steenhof L.L.B.', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'totalPay': 249806, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Eger', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Virgo', 'title': 'General Manager of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Mowat B.Sc.', 'title': 'Executive General Manager of Exploration', 'fiscalYear': 2022, 'totalPay': 197106, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.092
+priceToSalesTrailing12Months§0.7401574
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§RESOLUTE MINING LIMITED ORD NPV
+longName§Resolute Mining Limited
+firstTradeDateEpochUtc§1561014000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4f5e94cb-daa6-3fa7-b1c0-84f05608915c
+recommendationKey§none
+quickRatio§0.331
+grossMargins§0.26328
+ebitdaMargins§0.19424
+trailingPegRatio§None

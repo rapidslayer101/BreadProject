@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 10:40:36.691895
+address1§2 Stratford Court
+address2§Cranmore Boulevard
+city§Solihull
+zip§B90 4QT
+country§United Kingdom
+phone§44 12 1705 7777
+fax§44 12 1705 7878
+website§https://www.suplc.co.uk
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§S&U plc provides motor, property bridging, and specialist finance in the United Kingdom. The company was incorporated in 1938 and is headquartered in Solihull, the United Kingdom.
+fullTimeEmployees§224
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony Michael Vincent Coombs M.A., M.A. (Oxon)', 'age': 70, 'title': 'Chairman & MD', 'yearBorn': 1953, 'fiscalYear': 2023, 'totalPay': 506000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher H. Redford A.C.A.', 'age': 57, 'title': 'Group Financial Director, Company Secretary & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 353000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Graham Wheeler', 'age': 60, 'title': 'CEO of Advantage Finance & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 418000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack Edward-Clifford Coombs A.C.A., M.A.', 'age': 35, 'title': 'Group Development Executive & Director', 'yearBorn': 1988, 'fiscalYear': 2023, 'totalPay': 152000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Ahrens', 'title': 'Executive Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.68
+dividendYield§0.075
+exDividendDate§1698883200
+payoutRatio§0.4926
+fiveYearAvgDividendYield§4.11
+beta§0.528
+priceToSalesTrailing12Months§3.301087
+currency§GBp
+forwardEps§245.6
+exchange§LSE
+quoteType§EQUITY
+shortName§S & U PLC ORD 12 1/2P
+longName§S&U plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9fae262f-9b28-3687-a8ba-56b72bdebeec
+targetHighPrice§2500.0
+targetLowPrice§2500.0
+targetMeanPrice§2500.0
+targetMedianPrice§2500.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§47.783
+earningsGrowth§-0.053
+grossMargins§0.72314
+ebitdaMargins§0.0
+trailingPegRatio§None

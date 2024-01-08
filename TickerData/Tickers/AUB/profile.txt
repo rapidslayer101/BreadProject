@@ -1,0 +1,61 @@
+# reload+after+2024-01-22 03:26:54.057309
+address1§1051 East Cary Street
+address2§Suite 1200
+city§Richmond
+state§VA
+zip§23219
+country§United States
+phone§804 633 5031
+website§https://www.atlanticunionbank.com
+industry§Banks - Regional
+industryKey§banks-regional
+industryDisp§Banks - Regional
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Atlantic Union Bankshares Corporation operates as the bank holding company for Atlantic Union Bank that provides banking and related financial products and services to consumers and businesses in the United States. It operates in two segments, Wholesale Banking and Consumer Banking. The company accepts various deposit products, including checking, savings, NOW, time deposit, and money market accounts; certificates of deposit; and other depository services. It also provides loans for commercial, industrial, residential mortgage, and consumer purposes, as well as credit cards. In addition, it provides treasury management and capital market, wealth management, private banking, trust, financial and retirement planning, brokerage, investment management, equipment finance, and insurance products and services. The company offers products and services through full-service branches and ATMs, as well as through its mobile and internet banking. The company was formerly known as Union Bankshares Corporation and changed its name to Atlantic Union Bankshares Corporation in May 2019. Atlantic Union Bankshares Corporation was founded in 1902 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§1788
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Asbury', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1945142, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Michael Gorman', 'age': 65, 'title': 'Executive VP & CFO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 794516, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David V. Ring', 'age': 59, 'title': 'Executive VP & Wholesale Banking Group Executive', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 703654, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria P. Tedesco', 'age': 62, 'title': 'Executive Vice President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1144079, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Shawn E. O'Brien", 'age': 51, 'title': 'Executive Vice President', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 578954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William P. Cimino', 'title': 'Senior VP & Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachael R. Lape', 'age': 50, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Shivak', 'title': 'Senior VP & Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clare  Miller', 'age': 43, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas F. Woolley III', 'title': 'Executive VP & Chief Credit Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.28
+dividendYield§0.0356
+exDividendDate§1699488000
+payoutRatio§0.4428
+fiveYearAvgDividendYield§3.29
+beta§0.976
+priceToSalesTrailing12Months§3.9779568
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.15
+pegRatio§1.52
+lastDividendValue§0.32
+lastDividendDate§1699488000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Atlantic Union Bankshares Corpo
+longName§Atlantic Union Bankshares Corporation
+firstTradeDateEpochUtc§749914200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6f1c653e-e8f5-36e8-a28e-7dfc39d8934c
+messageBoardId§finmb_361216
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§32.0
+targetMeanPrice§37.2
+targetMedianPrice§37.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.078
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

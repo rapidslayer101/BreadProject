@@ -1,0 +1,57 @@
+# reload+after+2024-01-23 12:35:59.869361
+address1§133 Houndsditch
+city§London
+zip§EC3A 7BX
+country§United Kingdom
+phone§44 20 7170 8200
+fax§44 20 7170 8499
+website§https://www.cmcmarketsplc.com
+industry§Capital Markets
+industryKey§capital-markets
+industryDisp§Capital Markets
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§CMC Markets plc, together with its subsidiaries, provides online retail financial services to retail, professional, stockbroking, and institutional clients in the United Kingdom, Ireland, Europe, Australia, New Zealand, Singapore, Canada, and internationally. The company offers its clients with the ability to trade contracts for difference and financial spread betting on a range of underlying shares, including indices, foreign currencies, commodities, and treasuries through its trading platform. It also provides stockbroking, and training and education services. The company was founded in 1989 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1197
+companyOfficers§[{'maxAge': 1, 'name': 'Lord Peter Andrew Cruddas', 'age': 70, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1953, 'fiscalYear': 2023, 'totalPay': 840600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David John Fineberg', 'age': 44, 'title': 'Deputy CEO & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 532500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew David Lewis', 'age': 46, 'title': 'Head of Asia Pacific & Canada and Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 433300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Albert  Soleiman', 'title': 'CFO & Executive Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Cartwright', 'age': 49, 'title': 'Chief Operating Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Foxen  Brendan', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Basi', 'age': 44, 'title': 'General Counsel', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marie-Claude  Warnotte', 'age': 59, 'title': 'Group Head of Human Resources', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Niebank', 'age': 46, 'title': 'Group Head of Product', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke  Welch', 'age': 43, 'title': 'Global Head of Business Intelligence', 'yearBorn': 1980, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.044499997
+exDividendDate§1701907200
+payoutRatio§2.0
+fiveYearAvgDividendYield§5.93
+beta§0.472
+priceToSalesTrailing12Months§1.2148559
+currency§GBp
+forwardEps§8.11
+lastDividendValue§1.0
+lastDividendDate§1701907200
+exchange§LSE
+quoteType§EQUITY
+shortName§CMC MARKETS PLC ORD 25P
+longName§CMC Markets plc
+firstTradeDateEpochUtc§1454659200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2af1e517-db46-32c8-8abd-8680dbb19f5d
+messageBoardId§finmb_46006280
+targetHighPrice§140.0
+targetLowPrice§64.0
+targetMeanPrice§104.0
+targetMedianPrice§102.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§2.258
+grossMargins§0.99141
+ebitdaMargins§0.0
+trailingPegRatio§None

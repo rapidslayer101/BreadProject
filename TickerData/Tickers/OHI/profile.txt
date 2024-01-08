@@ -1,0 +1,56 @@
+# reload+after+2024-01-20 12:31:57.858585
+address1§303 International Circle
+address2§Suite 200
+city§Hunt Valley
+state§MD
+zip§21030-1394
+country§United States
+phone§410 427 1700
+fax§410 427 8800
+website§https://www.omegahealthcare.com
+industry§REIT—Healthcare Facilities
+sector§Real Estate
+longBusinessSummary§Omega is a REIT that invests in the long-term healthcare industry, primarily in skilled nursing and assisted living facilities. Its portfolio of assets is operated by a diverse group of healthcare companies, predominantly in a triple-net lease structure. The assets span all regions within the U.S., as well as in the U.K.
+fullTimeEmployees§52
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. C. Taylor Pickett CPA', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2017, 'totalPay': 1849111, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert O. Stephenson', 'age': 59, 'title': 'CFO, Treasurer & Assistant Secretary', 'yearBorn': 1964, 'fiscalYear': 2017, 'totalPay': 952111, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel J. Booth', 'age': 60, 'title': 'Secretary & COO', 'yearBorn': 1963, 'fiscalYear': 2017, 'totalPay': 981111, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gail Dave Makode', 'age': 48, 'title': 'Chief Legal Officer & General Counsel', 'yearBorn': 1975, 'fiscalYear': 2017, 'totalPay': 802500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neal Alexander Ballew', 'age': 38, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1985, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew P. Gourmand', 'age': 47, 'title': 'Senior Vice President of Corporate Strategy & Investor Relations', 'yearBorn': 1976, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel H. Kovitz', 'age': 60, 'title': 'Executive VP, Senior Transaction Officer & Assistant Secretary', 'yearBorn': 1963, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan M. Krull', 'age': 45, 'title': 'Senior Vice President of Operations', 'yearBorn': 1978, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michele  Reber', 'title': 'Senior Director of Asset Management', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vikas  Gupta', 'age': 41, 'title': 'Senior Vice President of Acquisitions & Development', 'yearBorn': 1982, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1514678400
+maxAge§86400
+priceHint§2
+dividendRate§2.68
+dividendYield§0.088199995
+exDividendDate§1698624000
+payoutRatio§2.7347
+fiveYearAvgDividendYield§8.21
+beta§0.9
+priceToSalesTrailing12Months§8.950096
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.61
+pegRatio§-3.91
+exchange§NYQ
+quoteType§EQUITY
+shortName§Omega Healthcare Investors, Inc
+longName§Omega Healthcare Investors, Inc.
+firstTradeDateEpochUtc§713194200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§65d398a0-c134-3c67-8c8a-ee87e84a860f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§37.0
+targetLowPrice§28.0
+targetMeanPrice§32.5
+targetMedianPrice§32.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§2.941
+earningsGrowth§-0.149
+grossMargins§0.89271003
+ebitdaMargins§0.78751
+trailingPegRatio§None

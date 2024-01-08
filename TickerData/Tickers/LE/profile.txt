@@ -1,0 +1,45 @@
+# reload+after+2024-01-21 03:45:45.279140
+address1§1 Lands’ End Lane
+city§Dodgeville
+state§WI
+zip§53595
+country§United States
+phone§608 935 9341
+fax§800 332 0103
+website§https://www.landsend.com
+industry§Apparel Retail
+sector§Consumer Cyclical
+longBusinessSummary§Lands' End, Inc. operates as a digital retailer of casual clothing, swimwear, outerwear, accessories, footwear, and home products in the United States, Europe, Asia, and internationally. It operates through U.S. eCommerce, International, Outfitters, Third Party, and Retail segments. The company also sells uniform and logo apparel. It sells its products through e-commerce and company operated stores, as well as through third party distribution channels under the Lands' End, Lands' End Lighthouse, Squall, Tugless Tank, Drifter, Outrigger, and Marinac, Beach Living brands, as well as Supima, No-Gape, Starfish, Little Black Suit, Iron Knees, Hyde Park, Year' Rounder, ClassMate, Willis & Geiger, and ThermaCheck brands. Lands' End, Inc. was founded in 1963 and is headquartered in Dodgeville, Wisconsin.
+fullTimeEmployees§2500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew J. McLean', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 878543, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerome Squire Griffith', 'age': 64, 'title': 'Senior Advisor', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1758837, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter L. Gray', 'age': 55, 'title': 'Chief Commercial Officer & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 779247, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bernard Louis McCracken III', 'age': 62, 'title': 'VP, Controller, CFO & Chief Accounting Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tricia  Dudley', 'title': 'Director of Global Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly A. Ritchie', 'age': 60, 'title': 'Chief Human Resource Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 666600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Holahan', 'title': 'Senior Vice President of Multi-Channel Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela sue Rieger', 'title': 'Chief Transformation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claudia  Mazo', 'title': 'Managing Director of International', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Trainor', 'title': 'Senior Vice President of Brand Creative', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.008
+priceToSalesTrailing12Months§0.18733045
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.03
+pegRatio§-0.24
+exchange§NCM
+quoteType§EQUITY
+shortName§Lands' End, Inc.
+longName§Lands' End, Inc.
+firstTradeDateEpochUtc§1395322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cfe6055d-2e05-33be-b78b-b63449ec7ba6
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.235
+grossMargins§0.40495
+ebitdaMargins§0.048270002
+trailingPegRatio§None

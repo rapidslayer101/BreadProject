@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 14:30:50.715572
+address1§412 N. Wells Street
+city§Chicago
+state§IL
+zip§60654
+country§United States
+phone§269 961 2000
+website§https://www.kellanova.com/us/en
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Kellanova, together with its subsidiaries, manufactures and markets snacks and convenience foods. The company operates through four segments: North America, Europe, Latin America, Asia, the Middle East, and Africa. Its principal products include crackers, crisps, savory snacks, toaster pastries, cereal bars, granola bars and bites, ready-to-eat cereals, frozen waffles, veggie foods, and noodles. The company offers its products under the Kellogg's, Cheez-It, Pringles, Austin, Parati, RXBAR, Kashi, Bear Naked, Eggo, Morningstar Farms, Choco Krispies, Crunchy Nut, Nutri-Grain, Special K, Squares, Zucaritas, Sucrilhos, Pop-Tarts, K-Time, Sunibrite, Split Stix, Be Natural, LCMs, Coco Pops, Frosties, Krave, Rice Krispies Treats, Kashi Go, Crunchy Nut, Rice Krispies Squares, Incogmeato, Veggitizers, and Gardenburger brand names. It sells its products to retailers through direct sales forces, as well as brokers and distributors. The company was formerly known as Kellogg Company and changed its name to Kellanova in October 2023. Kellanova was founded in 1906 and is based in Chicago, Illinois.
+fullTimeEmployees§30000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven A. Cahillane', 'age': 58, 'title': 'Chairman, CEO & President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4762474, 'exercisedValue': 0, 'unexercisedValue': 6305080}, {'maxAge': 1, 'name': 'Mr. Amit  Banati', 'age': 54, 'title': 'Vice Chairman, Senior VP, CFO & Principal Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2311859, 'exercisedValue': 541111, 'unexercisedValue': 1073136}, {'maxAge': 1, 'name': 'Mr. Christopher M. Hood', 'age': 60, 'title': 'Senior VP & President of Kellogg North America', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2490528, 'exercisedValue': 613792, 'unexercisedValue': 2344711}, {'maxAge': 1, 'name': 'Mr. David  Lawlor', 'age': 55, 'title': 'Senior VP & President of Kellogg Europe', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1455816, 'exercisedValue': 0, 'unexercisedValue': 854601}, {'maxAge': 1, 'name': 'Mr. Kurt D. Forche', 'age': 53, 'title': 'VP, Corporate Controller & Principal Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lesley  Salmon', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Renwick IV, C.F.A.', 'title': 'Vice President of Investor Relations & Corporate Planning', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Min', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa A. Howell', 'age': 56, 'title': 'Senior VP of Global Human Services & Chief Human Resources Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kris Charles Bahner', 'title': 'Senior VP & Chief Global Corporate Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.24
+dividendYield§0.0395
+exDividendDate§1701302400
+payoutRatio§0.9958
+fiveYearAvgDividendYield§3.61
+beta§0.414
+priceToSalesTrailing12Months§1.2231932
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.61
+pegRatio§-29.29
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kellanova
+longName§Kellanova
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a5f3c6a1-1b03-339d-86af-9fb43c97c188
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§52.0
+targetMeanPrice§57.12
+targetMedianPrice§56.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§17
+quickRatio§0.461
+earningsGrowth§-0.133
+grossMargins§0.31829
+ebitdaMargins§0.13261
+trailingPegRatio§4.4979

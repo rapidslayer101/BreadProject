@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 20:35:54.799676
+address1§Silkwood Court
+address2§Unit 5
+city§Ossett
+zip§WF5 9TP
+country§United Kingdom
+phone§44 19 2426 8040
+website§https://www.carclo.co.uk
+industry§Auto Parts
+industryKey§auto-parts
+industryDisp§Auto Parts
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Carclo plc, together with its subsidiaries, engages in the manufacture and sale of fine tolerance injection molded plastic parts. It operates in two segments, CTP and Aerospace. The CTP segment offers value-adding engineered solutions for the life science, optical, and precision component industries. The Aerospace segment supplies systems to the manufacturing and aerospace industries. It also provides various specialist components, including control cables, specialist machined components, aerofoil blading, streamline wires, and tie rods. The company operates in the United Kingdom, North America, the Czech Republic, China, India, and internationally. Carclo plc was incorporated in 1924 and is based in Ossett, the United Kingdom.
+fullTimeEmployees§1116
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Franciscus Lodewijk Paulus Doorenbosch', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 446750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric G. Hutchinson', 'age': 68, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 46267, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Nixon', 'title': 'Interim Group Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gabe  Acuna', 'title': 'Chief Technical Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Hook', 'title': 'Managing Director of Bruntons', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Malley', 'age': 56, 'title': 'LED Technologies Divisional Chief Executive', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 377882, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1472083200
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.64
+beta§0.585
+priceToSalesTrailing12Months§0.049454313
+currency§GBp
+forwardEps§1.38
+lastDividendValue§1.95
+lastDividendDate§1472083200
+exchange§LSE
+quoteType§EQUITY
+shortName§CARCLO PLC ORD 5P
+longName§Carclo plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6c67fbb7-d6c0-341e-b721-5d69289b6bf9
+messageBoardId§finmb_874231
+targetHighPrice§25.0
+targetLowPrice§25.0
+targetMeanPrice§25.0
+targetMedianPrice§25.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.978
+grossMargins§0.50188
+ebitdaMargins§0.05527
+trailingPegRatio§None

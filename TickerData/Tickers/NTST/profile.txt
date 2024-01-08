@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 22:31:50.754319
+address1§2021 McKinney Avenue
+address2§Suite 1150
+city§Dallas
+state§TX
+zip§75201-2237
+country§United States
+phone§972 200 7100
+website§https://www.netstreit.com
+industry§REIT—Retail
+sector§Real Estate
+longBusinessSummary§NETSTREIT Corp. is an internally managed real estate investment trust (REIT) based in Dallas, Texas that specializes in acquiring single-tenant net lease retail properties nationwide. The growing portfolio consists of high-quality properties leased to e-commerce resistant tenants with healthy balance sheets. Led by a management team of seasoned commercial real estate executives, NETSTREIT's strategy is to create the highest quality net lease retail portfolio in the country with the goal of generating consistent cash flows and dividends for its investors.
+fullTimeEmployees§30
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Manheimer', 'age': 47, 'title': 'President, CEO, Secretary & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1299594, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Paul Donlan', 'title': 'CFO & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelley  Howard', 'title': 'Director of Human Resources & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Trish Patricia Marie McBratney-Gibbs CPA', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  An', 'title': 'Senior Associate of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Fuge', 'age': 40, 'title': 'Senior Vice President of Acquisitions', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy L. Haugh', 'age': 45, 'title': 'Senior Vice President of Finance', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk  Klatt P.E.', 'age': 46, 'title': 'Senior Vice President of Real Estate', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chad  Shafer', 'age': 47, 'title': 'Senior Vice President of Credit & Underwriting', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.82
+dividendYield§0.046
+exDividendDate§1701302400
+payoutRatio§6.1923
+beta§0.984
+priceToSalesTrailing12Months§10.083632
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.23
+pegRatio§20.39
+exchange§NYQ
+quoteType§EQUITY
+shortName§NetSTREIT Corp.
+longName§NETSTREIT Corp.
+firstTradeDateEpochUtc§1597325400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§43a683b5-4b7f-38a9-a508-6fdd02d2adf7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§14.0
+targetMeanPrice§17.94
+targetMedianPrice§18.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§2.662
+earningsGrowth§1.256
+grossMargins§0.87501
+ebitdaMargins§0.70089996
+trailingPegRatio§None

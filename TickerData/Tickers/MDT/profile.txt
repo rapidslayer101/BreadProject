@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 07:31:14.370108
+address1§20 On Hatch
+address2§Lower Hatch Street
+city§Dublin
+zip§2
+country§Ireland
+phone§353 1 438 1700
+website§https://www.medtronic.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients worldwide. Its Cardiovascular Portfolio segment offers implantable cardiac pacemakers, cardioverter defibrillators, and cardiac resynchronization therapy devices; cardiac ablation products; insertable cardiac monitor systems; TYRX products; and remote monitoring and patient-centered software. It also provides aortic valves, surgical valve replacement and repair products, endovascular stent grafts and accessories, and transcatheter pulmonary valves; and percutaneous coronary intervention products, percutaneous angioplasty balloons, and products. The company's Medical Surgical Portfolio segment offers surgical stapling devices, vessel sealing instruments, wound closure, electrosurgery products, surgical artificial intelligence and robotic-assisted surgery products, hernia mechanical devices, mesh implants, gynecology and lung products, and various therapies to treat diseases, as well as products in the fields of minimally invasive gastrointestinal and hepatologic diagnostics and therapies, patient monitoring, airway management and ventilation therapies, and renal disease. Its Neuroscience Portfolio segment offers products for spinal surgeons; neurosurgeons; neurologists; pain management specialists; anesthesiologists; orthopedic surgeons; urologists; urogynecologists; interventional radiologists; ear, nose, and throat specialists; and systems that incorporate energy surgical instruments. It also provides image-guided surgery and intra-operative imaging systems and robotic guidance systems used in robot assisted spine procedures; and therapies for vasculature in and around the brain. The company's Diabetes Operating Unit segment offers insulin pumps and consumables, continuous glucose monitoring systems, smart insulin pen systems, and consumables and supplies. The company was founded in 1949 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§95000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Geoffrey Straub Martha', 'age': 53, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1793588, 'exercisedValue': 0, 'unexercisedValue': 2143491}, {'maxAge': 1, 'name': 'Ms. Karen L. Parkhill', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 992240, 'exercisedValue': 0, 'unexercisedValue': 681953}, {'maxAge': 1, 'name': 'Mr. Sean M. Salmon', 'age': 58, 'title': 'Executive VP & President of Cardiovascular Portfolio', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 900968, 'exercisedValue': 418709, 'unexercisedValue': 1210659}, {'maxAge': 1, 'name': 'Mr. Robert J. W. ten Hoedt', 'age': 63, 'title': 'Executive VP & President of Global Regions', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1239093, 'exercisedValue': 96009, 'unexercisedValue': 1539312}, {'maxAge': 1, 'name': 'Mr. Robert John White', 'age': 60, 'title': 'Executive VP & President of Medical Surgical Portfolio', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 925220, 'exercisedValue': 0, 'unexercisedValue': 1691805}, {'maxAge': 1, 'name': 'Mr. Mark  Ploof', 'title': 'Senior Vice President of Global Operations and Business Services', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer M. Kirk', 'age': 48, 'title': 'Senior VP, Global Controller & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kenneth E. Washington Ph.D.', 'age': 63, 'title': 'Senior VP and Chief Technology & Innovation Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Laura  Mauri M.D., M.Sc.', 'title': 'Senior VP and Chief Scientific, Medical & Regulatory Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Weispfenning', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§2.76
+dividendYield§0.0326
+exDividendDate§1702944000
+payoutRatio§0.8896
+fiveYearAvgDividendYield§2.45
+beta§0.757
+priceToSalesTrailing12Months§3.518634
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.43
+pegRatio§4.83
+exchange§NYQ
+quoteType§EQUITY
+shortName§Medtronic plc.
+longName§Medtronic plc
+firstTradeDateEpochUtc§105197400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c9b9ae1b-4267-324d-8899-95d8371bbb3b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§104.0
+targetLowPrice§68.0
+targetMeanPrice§90.89
+targetMedianPrice§90.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§27
+quickRatio§1.415
+earningsGrowth§1.125
+grossMargins§0.65667
+ebitdaMargins§0.26547
+trailingPegRatio§1.5881

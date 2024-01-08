@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 08:26:10.112286
+address1§190 West Tasman Drive
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§650 272 3233
+website§https://www.archer.com
+industry§Aerospace & Defense
+industryKey§aerospace-defense
+industryDisp§Aerospace & Defense
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Archer Aviation Inc., an urban air mobility company, engages in designs, develops, manufactures, and operates electric vertical takeoff and landing aircrafts to carry passengers. The company was formerly known as Atlas Crest Investment Corp. and changed its name to Archer Aviation Inc. Archer Aviation Inc. was incorporated in 2018 and is headquartered in San Jose, California.
+fullTimeEmployees§390
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adam D. Goldstein', 'age': 44, 'title': 'Founder, CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1200000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Mesler', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 728850, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tosha  Perkins', 'age': 40, 'title': 'Chief People & Partnerships Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 749250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Paul Muniz', 'age': 38, 'title': 'Chief Operating Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 718374, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew P. Missan Esq.', 'age': 61, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 343750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoff  Bower', 'title': 'Chief Engineer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Wright', 'title': 'Head of Certification', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julien  Montousse', 'title': 'Head of Design', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Furman', 'title': 'Chief Avionics Architect', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeff  Greenwood', 'title': 'Chief Flight Test Pilot & Head of Flight Safety', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.531
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.01
+exchange§NYQ
+quoteType§EQUITY
+shortName§Archer Aviation Inc.
+longName§Archer Aviation Inc.
+firstTradeDateEpochUtc§1608301800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§28f3bda0-9fd4-3c5f-be0b-69803d79cc65
+messageBoardId§finmb_681233855
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§6.5
+targetMeanPrice§8.92
+targetMedianPrice§9.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.944
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

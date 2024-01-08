@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 15:35:51.421842
+address1§36 Drury Lane
+city§London
+zip§WC2B 5RR
+country§United Kingdom
+website§https://www.brightonpiergroup.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§The Brighton Pier Group PLC operates leisure and entertainment assets in the United Kingdom. The company owns and operates Brighton Palace Pier that offers a range of attractions, including two arcades and eighteen funfair rides, as well as various on-site hospitality and catering facilities, as well as leisure centers. It also owns and operates 8 premium bars under the Embargo República, Lola Lo, Le Fez, Lowlander and Coalition names, 8 indoor mini-golf sites, and Lightwater Valley theme park in North Yorkshire. The company was formerly known as Eclectic Bar Group plc and changed its name to The Brighton Pier Group PLC in April 2016. The Brighton Pier Group PLC was founded in 2006 and is based in London, the United Kingdom.
+fullTimeEmployees§681
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Anne Elizabeth Ackord', 'age': 65, 'title': 'CEO & Executive Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 214080, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Anthony Smith', 'age': 65, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 207746, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1415232000
+payoutRatio§0.0
+beta§1.049
+priceToSalesTrailing12Months§0.57187545
+currency§GBp
+forwardEps§1.9
+lastDividendValue§2.5
+lastDividendDate§1415232000
+exchange§LSE
+quoteType§EQUITY
+shortName§BRIGHTON PIER GROUP PLC (THE) O
+longName§The Brighton Pier Group PLC
+firstTradeDateEpochUtc§1385625600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bcabc0c3-cf78-33f0-972c-0bc83595eb9c
+messageBoardId§finmb_47271235
+targetHighPrice§75.0
+targetLowPrice§75.0
+targetMeanPrice§75.0
+targetMedianPrice§75.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.794
+grossMargins§0.86190003
+ebitdaMargins§0.15709
+trailingPegRatio§None

@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 15:47:24.813210
+address1§2400 Old Milton Pkwy
+address2§Box 1353
+city§Alpharetta
+state§GA
+zip§30009
+country§United States
+phone§888 997 8732
+website§https://www.streamlinehealth.net
+industry§Health Information Services
+sector§Healthcare
+longBusinessSummary§Streamline Health Solutions, Inc. offers health information technology solutions and associated services for hospitals and health systems in the United States and Canada. The company offers RevID, an automated revenue reconciliation software; eValuator, a coding analysis platform; data comparison engine; coding and clinical documentation improvement (CDI) solutions, including CDI, abstracting, and physician query; and financial management solutions, such as accounts receivable management, denials management, claims processing, spend management, and audit management. It also provides auditing and coding, software, and professional services. The company sells its solutions and services through direct sales force and reseller partnerships. Streamline Health Solutions, Inc. was incorporated in 1989 and is based in Alpharetta, Georgia.
+fullTimeEmployees§112
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Wyche T. Green III', 'age': 51, 'title': 'Executive Chairman', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 453023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin L. Stilwill', 'age': 34, 'title': 'Chief Executive Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 282623, 'exercisedValue': 0, 'unexercisedValue': 3150}, {'maxAge': 1, 'name': 'Mr. Bryant  Reeves', 'title': 'Chief of Staff, Interim CFO, Principal Financial Officer & Principal Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jacob  Goldberger', 'title': 'Director of Investor Relations and FP&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Lovvorn', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lance  Seach', 'title': 'Senior Vice President of Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Sebero', 'title': 'Chief Growth Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald E. Vick Jr.', 'age': 59, 'title': 'Director of Sales & Operations Analytics', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 135695, 'exercisedValue': 0, 'unexercisedValue': 1249}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.302
+priceToSalesTrailing12Months§1.0681553
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.11
+pegRatio§-0.09
+exchange§NCM
+quoteType§EQUITY
+shortName§Streamline Health Solutions, In
+longName§Streamline Health Solutions, Inc.
+firstTradeDateEpochUtc§829834200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ce6b883d-66af-33a1-bad6-037371594cbe
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.5
+targetLowPrice§1.0
+targetMeanPrice§1.25
+targetMedianPrice§1.25
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.55
+grossMargins§0.49862
+ebitdaMargins§-0.33628
+trailingPegRatio§None

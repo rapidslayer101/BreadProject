@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 10:47:17.827107
+address1§230 Park Avenue
+address2§10th Floor
+city§New York
+state§NY
+zip§10169
+country§United States
+phone§212 485 3500
+website§https://www.stonex.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§StoneX Group Inc. operates as a global financial services network that connects companies, organizations, traders, and investors to market ecosystem worldwide. The company operates through Commercial, Institutional, Retail, and Global Payments segments. The Commercial segment provides risk management and hedging, exchange-traded and OTC products execution and clearing, voice brokerage, market intelligence, physical trading, and commodity financing and logistics services. The Institutional segment offers equity trading services to institutional clients; clearing and execution services in futures exchanges; brokerage foreign exchange services for the financial institutions and professional traders; and OTC products, as well as originates, structures, and places debt instruments in capital markets. This segment also operates as an institutional dealer in fixed income securities to serve asset managers, commercial bank trust and investment departments, broker-dealers, and insurance companies, as well as engages in asset management business. The Retail segment provides trading services and solutions in the global financial markets, including spot foreign exchange, precious metals trading, and contracts for differences; and wealth management services, as well as offers physical gold and other precious metals in various forms and denominations through Stonexbullion.com. The Global Payments segment provides customized payment, technology, and treasury services to banks and commercial businesses, charities, and non-governmental and government organizations; and pricing and payments services. The company was formerly known as INTL FCStone Inc. and changed its name to StoneX Group Inc. in July 2020. StoneX Group Inc. was founded in 1924 and is headquartered in New York, New York.
+fullTimeEmployees§4137
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Sean Michael O'Connor", 'age': 61, 'title': 'President, CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 5201209, 'exercisedValue': 3149835, 'unexercisedValue': 1517600}, {'maxAge': 1, 'name': 'Mr. William John Dunaway', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 3029969, 'exercisedValue': 2024842, 'unexercisedValue': 758800}, {'maxAge': 1, 'name': 'Mr. Diego Andres Rotsztain', 'age': 53, 'title': 'Chief Governance & Legal Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3026105, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glenn H. Stevens', 'age': 60, 'title': 'Head of Retail & Foreign Exchange', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4820420, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles Martin Lyon', 'age': 47, 'title': 'Chief Executive Officer of StoneX Financial Inc.', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 3582013, 'exercisedValue': 0, 'unexercisedValue': 758800}, {'maxAge': 1, 'name': 'Mr. Xuong Tho Nguyen', 'age': 54, 'title': 'Chief Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2639212, 'exercisedValue': 625480, 'unexercisedValue': 1111000}, {'maxAge': 1, 'name': 'Mr. Aaron M. Schroeder', 'age': 47, 'title': 'Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Abigail Hannah Perkins', 'age': 53, 'title': 'Chief Information Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Andrew Smith', 'age': 50, 'title': 'Chief Executive Officer of Europe, Middle East, Africa & Asia Operations', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2283928, 'exercisedValue': 2280892, 'unexercisedValue': 799800}, {'maxAge': 1, 'name': 'Mr. Mark Lowry Maurer', 'age': 45, 'title': 'Chief Risk Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.871
+priceToSalesTrailing12Months§0.037056904
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.2
+pegRatio§0.55
+exchange§NMS
+quoteType§EQUITY
+shortName§StoneX Group Inc.
+longName§StoneX Group Inc.
+firstTradeDateEpochUtc§794500200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9c268f70-5ea3-3906-ba11-22511506d163
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§76.67
+targetLowPrice§76.67
+targetMeanPrice§76.67
+targetMedianPrice§76.67
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§1.048
+earningsGrowth§-0.05
+grossMargins§0.025220001
+ebitdaMargins§0.0
+trailingPegRatio§None

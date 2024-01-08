@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 11:28:11.211772
+address1§1 World Trade Center
+address2§Suite 1500
+city§Long Beach
+state§CA
+zip§90831
+country§United States
+phone§888 848 4754
+website§https://www.crc.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§California Resources Corporation operates as an independent oil and natural gas exploration and production company in the United States. The company explores, produces, and markets crude oil, natural gas, and natural gas liquids for marketers, California refineries, and other purchasers that have access to transportation and storage facilities. It also engages in the generation and sale of electricity to the local utility and the grid. The company was incorporated in 2014 and is based in Long Beach, California.
+fullTimeEmployees§1060
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Francisco J. Leon', 'age': 46, 'title': 'CEO, President & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1402757, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Preston', 'age': 58, 'title': 'Executive VP, Chief Strategy Officer & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1377757, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay A. Bys', 'age': 57, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1341888, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manuela  Molina', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Omar  Hayat', 'age': 47, 'title': 'Executive Vice President of Operations', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noelle M. Repetti', 'age': 53, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joanna  Park', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard  Venn', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alana A. Sotiri', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris D. Gould', 'age': 52, 'title': 'Executive VP & Chief Sustainability Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§1
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.24
+dividendYield§0.024
+exDividendDate§1701302400
+payoutRatio§0.17909999
+beta§1.496
+priceToSalesTrailing12Months§1.0828406
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.92
+pegRatio§1.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§California Resources Corporatio
+longName§California Resources Corporation
+firstTradeDateEpochUtc§1603891800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1a4b5d84-a032-3c4a-b3bd-669c608a34c3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§67.0
+targetLowPrice§62.0
+targetMeanPrice§64.33
+targetMedianPrice§64.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§6
+quickRatio§1.143
+grossMargins§0.59639
+ebitdaMargins§0.25612
+trailingPegRatio§None

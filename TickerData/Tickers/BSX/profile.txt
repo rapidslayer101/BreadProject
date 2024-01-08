@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 05:27:32.960619
+address1§300 Boston Scientific Way
+city§Marlborough
+state§MA
+zip§01752-1234
+country§United States
+phone§508 683 4000
+website§https://www.bostonscientific.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Boston Scientific Corporation develops, manufactures, and markets medical devices for use in various interventional medical specialties worldwide. It operates through MedSurg and Cardiovascular segments. The company offers devices to diagnose and treat gastrointestinal and pulmonary conditions; devices to treat various urological and pelvic conditions; implantable cardioverter and implantable cardiac resynchronization therapy defibrillators; pacemakers and implantable cardiac resynchronization therapy pacemakers; and remote patient management systems. It also provides medical technologies to diagnose and treat rate and rhythm disorders of the heart comprising 3-D cardiac mapping and navigation solutions, ablation catheters, diagnostic catheters, mapping catheters, intracardiac ultrasound catheters, delivery sheaths, and other accessories; spinal cord stimulator systems for the management of chronic pain; indirect decompression systems; and deep brain stimulation systems. In addition, the company offers interventional cardiology products, that uses in the treatment of coronary artery disease and aortic valve conditions. Further, it provides stents, balloon catheters, guidewires, atherectomy, and thrombectomy systems to treat arterial and venous diseases; and peripheral embolization devices, radioactive microspheres, cryotherapy ablation systems, and micro and drainage catheters to treat cancer. The company was incorporated in 1979 and is headquartered in Marlborough, Massachusetts.
+fullTimeEmployees§45000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael F. Mahoney', 'age': 58, 'title': 'Chairman, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3766208, 'exercisedValue': 15775482, 'unexercisedValue': 39330292}, {'maxAge': 1, 'name': 'Mr. David J. Roux', 'age': 66, 'title': 'Independent Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 135000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel J. Brennan', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1688305, 'exercisedValue': 1957916, 'unexercisedValue': 7260458}, {'maxAge': 1, 'name': 'Mr. Joseph M. Fitzgerald', 'age': 59, 'title': 'Executive VP & Group President of Cardiology', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1528356, 'exercisedValue': 3201473, 'unexercisedValue': 14532897}, {'maxAge': 1, 'name': 'Mr. Jeffrey B. Mirviss', 'age': 57, 'title': 'Executive VP & President of Peripheral Interventions', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1150080, 'exercisedValue': 977610, 'unexercisedValue': 3758294}, {'maxAge': 1, 'name': 'Mr. Arthur Crosswell  Butcher', 'age': 52, 'title': 'Executive VP and Group President of MedSurg & Asia Pacific', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1400850, 'exercisedValue': 155242, 'unexercisedValue': 2716173}, {'maxAge': 1, 'name': 'Mr. John Bradley Sorenson', 'age': 55, 'title': 'Executive Vice President of Global Operations', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan R Monson', 'title': 'Senior VP, Global Controller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodi Euerle Eddy', 'age': 50, 'title': 'Senior VP and Chief Information & Digital Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Vissers Lisa', 'age': 54, 'title': 'Vice President of Investor Relations', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.785
+priceToSalesTrailing12Months§6.1934457
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.24
+pegRatio§2.33
+exchange§NYQ
+quoteType§EQUITY
+shortName§Boston Scientific Corporation
+longName§Boston Scientific Corporation
+firstTradeDateEpochUtc§706282200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§69b49f65-05eb-36c8-ab80-d5db1263e17a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§77.0
+targetLowPrice§55.0
+targetMeanPrice§62.93
+targetMedianPrice§62.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§29
+quickRatio§0.667
+earningsGrowth§1.833
+grossMargins§0.69056
+ebitdaMargins§0.25463
+trailingPegRatio§1.8144

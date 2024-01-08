@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 14:46:54.029822
+address1§1055 Wilshire Boulevard
+address2§12th Floor Suite 1200
+city§Los Angeles
+state§CA
+zip§90017
+country§United States
+phone§213 627 9888
+fax§213 623 5888
+website§https://www.royalbusinessbankusa.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§RBB Bancorp operates as the bank holding company for Royal Business Bank that provides various banking products and services to the Chinese-American, Korean-American, and other Asian-American communities. Its deposit products include checking, savings, and money market accounts, as well as certificates of deposit. The company also offers commercial and industrial lines of credit, term loans, mortgage warehouse lines, and international trade discounts; commercial real estate loans; residential, commercial, and land acquisition and development construction loans; small business administration loans; and single-family residential mortgage loans. In addition, it provides international letters of credit, SWIFT, export advisory, trade finance discount, and foreign exchange services; and remote deposit, e-banking, and mobile banking services. The company serves individuals, businesses, municipalities, and other entities. It operates branches in the Western region with branches in Los Angeles County, California; Orange County, California; Ventura County, California; Clark County, Nevada; Honolulu, Hawaii, as well as in Eastern region with branches in Manhattan, Brooklyn and Queens, New York; Chicago, Illinois and Edison, New Jersey. RBB Bancorp was founded in 2008 and is headquartered in Los Angeles, California.
+fullTimeEmployees§380
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Richard Morris', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1121059, 'exercisedValue': 233546, 'unexercisedValue': 1800}, {'maxAge': 1, 'name': 'Mr. I-Ming  Liu', 'age': 67, 'title': 'Founder, Executive VP & Chief Risk Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 651420, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Yeh', 'age': 61, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 531878, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsu-Te  Huang', 'age': 72, 'title': 'Executive VP, Branch Administrator & Director of Prestige Banking Group', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 388209, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johnny  Lee', 'age': 60, 'title': 'President & Chief Banking Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn M. Hopkins', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lissette  Duran', 'title': 'Senior VP & Director of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shalom  Chang', 'title': 'SVP, Controller & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Erik  Grier', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Fan', 'age': 39, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§2
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0345
+exDividendDate§1698364800
+payoutRatio§0.246
+fiveYearAvgDividendYield§2.63
+beta§0.986
+priceToSalesTrailing12Months§2.5723135
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.5
+exchange§NMS
+quoteType§EQUITY
+shortName§RBB Bancorp
+longName§RBB Bancorp
+firstTradeDateEpochUtc§1501075800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b9306bea-c50a-3a0f-9ee6-8e86db330821
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§12.0
+targetMeanPrice§17.0
+targetMedianPrice§18.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.487
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

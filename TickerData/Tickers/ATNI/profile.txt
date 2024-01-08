@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 14:43:30.860057
+address1§500 Cummings Center
+address2§Suite 2450
+city§Beverly
+state§MA
+zip§01915
+country§United States
+phone§978 619 1300
+website§https://www.atni.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§ATN International, Inc., through its subsidiaries, provides telecommunications services to retail and business customers worldwide. The company operates through International Telecom and US Telecom segments. It offers mobile, data, and voice services; handsets and accessories; high-speed broadband, voice, video, and fixed services, as well as fiber broadband and managed IT services; wholesale roaming, site maintenance, and international long-distance services, as well as leases critical network infrastructure, including towers and transport facilities; and information technology services, such as network, application, infrastructure, and hosting services. The company was formerly known as Atlantic Tele-Network, Inc. and changed its name to ATN International, Inc. in June 2016. ATN International, Inc. was incorporated in 1987 and is headquartered in Beverly, Massachusetts.
+fullTimeEmployees§2400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael T. C. Prior', 'age': 58, 'title': 'Executive Chairman & President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1379520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brad W. Martin', 'age': 46, 'title': 'CEO,COO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 653200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin D. Benincasa', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 742240, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary M. Mabey', 'age': 41, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 487200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin M. Leon', 'age': 37, 'title': 'Senior Vice President of Corporate Development', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 384700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michele  Satrowsky', 'title': 'VP & Corporate Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas J. Minster', 'age': 62, 'title': 'Vice President of Government & Regulatory Affairs', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 233100, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.87
+dividendYield§0.0228
+exDividendDate§1703721600
+payoutRatio§0.6869
+fiveYearAvgDividendYield§1.55
+beta§0.413
+priceToSalesTrailing12Months§0.77774674
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.08
+pegRatio§-2.6
+exchange§NMS
+quoteType§EQUITY
+shortName§ATN International, Inc.
+longName§ATN International, Inc.
+firstTradeDateEpochUtc§690129000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§62b1b6dc-5fb3-3b6b-a05f-6b29e8c80516
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§52.0
+targetLowPrice§39.0
+targetMeanPrice§47.67
+targetMedianPrice§52.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.704
+grossMargins§0.5618
+ebitdaMargins§0.23243
+trailingPegRatio§None

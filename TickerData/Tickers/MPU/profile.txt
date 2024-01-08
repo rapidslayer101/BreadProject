@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 12:31:26.873967
+address1§3000 El Camino Real
+address2§Buidling 4 Suite 200
+city§Palo Alto
+state§CA
+zip§94306
+country§United States
+phone§650 340 1888
+website§https://www.megamatrix.io
+industry§Rental & Leasing Services
+sector§Industrials
+longBusinessSummary§Mega Matrix Corp., together with its subsidiaries, engages in the GameFi business in the metaverse ecosystem. The company offers Ethereum platform to stake on a node for the purpose of validating transactions and adding blocks to a respective blockchain network. It also provides aircraft advisory and management services. The company was formerly known as AeroCentury Corp. and changed its name to Mega Matrix Corp. in March 2022. Mega Matrix Corp. was incorporated in 1997 and is headquartered in Palo Alto, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Yucheng  Hu', 'age': 38, 'title': 'Chairman, President & CEO', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 48000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Qin  Wang', 'age': 34, 'title': 'CFO, Company Secretary & Treasurer', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 120000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yunheng  Zhang', 'age': 31, 'title': 'COO & Executive Director', 'yearBorn': 1992, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xiao  Ling', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glenn  Roberts', 'age': 58, 'title': 'VP & Controller', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 101000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1632960000
+payoutRatio§0.0
+beta§2.979
+priceToSalesTrailing12Months§1856.7498
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§Mega Matrix Corp.
+longName§Mega Matrix Corp.
+firstTradeDateEpochUtc§885306600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3d063f13-87cc-33be-ba09-216159774fc7
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§6.734
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

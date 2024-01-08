@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 02:45:46.194899
+address1§4800 N. Scottsdale Road
+address2§Suite 6000
+city§Scottsdale
+state§AZ
+zip§85251
+country§United States
+phone§602 767 2100
+website§https://www.lifestance.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§LifeStance Health Group, Inc., through its subsidiaries, provides outpatient mental health services. The company offers patients a suite of mental health services, including psychiatric evaluations and treatment, psychological, and neuropsychological testing, as well as individual, family, and group therapy. It treats a range of mental health conditions, including anxiety, depression, bipolar disorder, eating disorders, psychotic disorders, and post-traumatic stress disorder. In addition, the company operates outpatient mental health platform, as well as offers patients care virtually through its online delivery platform or in-person at its centers in 33 states. It serves children, adolescents, adults, and geriatrics. LifeStance Health Group, Inc. was founded in 2017 and is based in Scottsdale, Arizona.
+fullTimeEmployees§6418
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kenneth Alan Burdick', 'age': 64, 'title': 'CEO & Chairman', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 624221, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danish J. Qureshi', 'age': 38, 'title': 'President & COO', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 342200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Patrick Bourdon', 'age': 53, 'title': 'Chief Financial Officer & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 368601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monica  Prokocki', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Pardo', 'age': 47, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brooke  Matthews', 'title': 'Director of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Varanakis', 'age': 45, 'title': 'Chief People Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pablo  Pantaleoni', 'age': 35, 'title': 'Chief Digital Officer', 'yearBorn': 1988, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Michael Mullins', 'age': 38, 'title': 'Chief Development Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Anisha  Patel-Dunn D.O.', 'age': 47, 'title': 'Chief Medical Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.25
+priceToSalesTrailing12Months§2.8270512
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.27
+exchange§NMS
+quoteType§EQUITY
+shortName§LifeStance Health Group, Inc.
+longName§LifeStance Health Group, Inc.
+firstTradeDateEpochUtc§1623331800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§31465bd8-9b1f-3b1e-9245-701f16314ee7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§6.0
+targetMeanPrice§7.71
+targetMedianPrice§8.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.798
+grossMargins§0.28023002
+ebitdaMargins§-0.067140006
+trailingPegRatio§None

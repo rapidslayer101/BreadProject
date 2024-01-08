@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 19:44:59.842931
+address1§11480 South Street
+address2§Suite 205
+city§Cerritos
+state§CA
+zip§90703
+country§United States
+phone§562-356-9929
+website§https://www.genkoreanbbq.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§GEN Restaurant Group, Inc. operates restaurants in California, Arizona, Hawaii, Nevada, New York, and Texas. Its restaurants specialize in various flavored meats for Korean barbeque. The company was founded in 2011 and is based in Cerritos, California.
+fullTimeEmployees§2372
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jae  Chang', 'age': 52, 'title': 'Co-CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wook Jin Kim', 'age': 54, 'title': 'Co-CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 315294, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas V. Croal', 'age': 64, 'title': 'Chief Financial Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 387565, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§1.4611356
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+exchange§NGM
+quoteType§EQUITY
+shortName§GEN Restaurant Group, Inc.
+longName§GEN Restaurant Group, Inc.
+firstTradeDateEpochUtc§1687959000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§60314568-2395-39f3-a352-b219f5e9c9d7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§16.67
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.292
+grossMargins§0.19126
+ebitdaMargins§0.11634
+trailingPegRatio§None

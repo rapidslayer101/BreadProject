@@ -1,0 +1,32 @@
+# reload+after+2024-01-22 16:44:26.916025
+address1§48 South Service Road
+address2§Suite 203
+city§Melville
+state§NY
+zip§11747
+country§United States
+phone§212 564 4922
+website§https://www.datastoragecorp.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Data Storage Corporation provides multi-cloud information technology solutions primarily in the United States. The company offers data protection and disaster recovery solutions; high availability, data vaulting, retention, Infrastructure as a Service, standby server, support and maintenance, and internet solutions. It also provides cybersecurity solutions comprising managed endpoint security with active threat mitigation, system security assessment, and risk analysis services, as well as applications for continuous security and auditing; and voice and data solutions, such as VoIP and data services with fiber optic, coaxial, and wireless networks for businesses to connect from any location. The company offers its solutions and services to businesses in healthcare, banking and finance, distribution services, manufacturing, construction, education, and government sectors. Data Storage Corporation was founded in 2001 and is headquartered in Melville, New York.
+fullTimeEmployees§45
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles M. Piluso', 'age': 70, 'title': 'Chairman, CEO & Treasurer', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 321717, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harold J. Schwartz', 'age': 57, 'title': 'President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 321717, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris H. Panagiotakos', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 258607, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Kempster', 'age': 55, 'title': 'Executive VP of Strategic Development & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 199808, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chuck  Paolillo', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wendy  Schmittzeh', 'age': 52, 'title': 'Corporate Secretary & Administrative Manager', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristi  Cates', 'title': 'Director of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§0.438
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+shortName§Data Storage Corporation Warrant
+longName§Data Storage Corporation
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eb45366e-6108-3d4f-ac5e-60ee0987b0a6
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§3.65
+grossMargins§0.36485
+ebitdaMargins§0.02508
+trailingPegRatio§None

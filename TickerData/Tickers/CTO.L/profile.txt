@@ -1,0 +1,45 @@
+# reload+after+2024-01-21 20:40:39.775098
+address1§30 St Mary Axe
+city§London
+zip§EC3A 8BF
+country§United Kingdom
+phone§44 20 7997 7400
+website§https://www.tclarke.co.uk
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§TClarke plc, together with its subsidiaries, engages in the design, installation, integration, and maintenance of the mechanical and electrical systems and technologies in the United Kingdom. The company also provides mechanical and electrical contracting and related services to the construction industry and end users. In addition, it offers engineering services, such as offsite prefabrication, preassembly, and design standardization; smart buildings technologies and data centres technology solutions; infrastructure services in the areas of healthcare, education, defense, and public sectors; hotels, affordable homes, private residential, and student accommodations; and facilities management services. The company was founded in 1889 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1294
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark  Lawrence', 'age': 55, 'title': 'Group CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1129406, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Trevor  Mitchell', 'age': 62, 'title': 'Group Finance Director, Company Secretary & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 846697, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael C. Crowder', 'age': 58, 'title': 'Group MD & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 967370, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Griffiths', 'age': 54, 'title': 'Member of Group Management Board & Systems Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Mullen', 'title': 'Member of Group Management Board & UK North Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garry  Julyan', 'title': 'Member of Group Management Board & London Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rob  Faro', 'title': 'Member of Group Management Board & UK South Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anton  Malia', 'title': 'Member of Group Management Board & UK South Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chris  Harris', 'title': 'UK North Director & Member of Group Management Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Preston', 'age': 60, 'title': 'Technical Director of Design', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.041500002
+exDividendDate§1693440000
+payoutRatio§0.2974
+fiveYearAvgDividendYield§3.78
+beta§0.845
+priceToSalesTrailing12Months§0.16840918
+currency§GBp
+forwardEps§24.1
+pegRatio§-5.45
+exchange§LSE
+quoteType§EQUITY
+shortName§TCLARKE PLC ORD 10P
+longName§TClarke plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6fe3d428-701f-363e-94b2-7865a9562268
+targetHighPrice§197.0
+targetLowPrice§197.0
+targetMeanPrice§197.0
+targetMedianPrice§197.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.103
+earningsGrowth§-0.154
+grossMargins§0.113170005
+ebitdaMargins§0.02905
+trailingPegRatio§None

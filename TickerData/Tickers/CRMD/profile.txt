@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 10:44:13.900943
+address1§300 Connell Drive
+address2§Suite 4200
+city§Berkeley Heights
+state§NJ
+zip§07922
+country§United States
+phone§908 517 9500
+fax§908 375 8272
+website§https://www.cormedix.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§CorMedix Inc., a biopharmaceutical company, focuses on developing and commercializing therapeutic products for the prevention and treatment of infectious and inflammatory diseases in the United States and internationally. Its lead product candidate is DefenCath and Neutrolin, a novel anti-infective solution for the reduction and prevention of catheter-related infections and thrombosis in patients requiring central venous catheters in clinical settings, such as hemodialysis, total parenteral nutrition, and oncology. The company was formerly known as Picton Holding Company, Inc. and changed its name to CorMedix, Inc. in January 2007. CorMedix Inc. was incorporated in 2006 and is based in Berkeley Heights, New Jersey.
+fullTimeEmployees§40
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph  Todisco MBA', 'age': 47, 'title': 'CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 927625, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Matthew T. David M.D.', 'age': 45, 'title': 'Executive VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 830644, 'exercisedValue': 0, 'unexercisedValue': 13663}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Masson-Hurlburt B.A.', 'age': 44, 'title': 'Executive VP and Head of Clinical & Medical Affairs', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 538911, 'exercisedValue': 0, 'unexercisedValue': 158268}, {'maxAge': 1, 'name': 'Ms. Beth Zelnick Kaufman', 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Donna  Ucci', 'title': 'Senior VP & Head of Global Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tushar  Mukherjee', 'title': 'Senior VP & Head of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Mistry', 'age': 41, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.968
+priceToSalesTrailing12Months§6255.898
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.73
+exchange§NGM
+quoteType§EQUITY
+shortName§CorMedix Inc.
+longName§CorMedix Inc.
+firstTradeDateEpochUtc§1273757400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9c4131eb-b77e-37bc-b6ed-fb1c7402e601
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§10.0
+targetMeanPrice§14.25
+targetMedianPrice§14.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§11.288
+grossMargins§0.98633003
+ebitdaMargins§0.0
+trailingPegRatio§None

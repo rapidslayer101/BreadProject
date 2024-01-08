@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 22:40:45.801928
+address1§120 Regent Street
+city§London
+zip§W1B 5FE
+country§United Kingdom
+phone§44 20 3743 1340
+website§https://trufin.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§TruFin plc provides niche lending, early payment services, and video game publishing in the United Kingdom. It operates through four segments: Short Term Finance, Payment Services, Publishing, and Other. The company also engages in provision of distribution finance products, and invoice discounting; early payment programmes, payment control, and market insight services; publishing of video games; and investment activities. The company was incorporated in 2017 and is based in London, the United Kingdom.
+fullTimeEmployees§184
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Gereard Van Den Bergh', 'age': 45, 'title': 'CEO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 485000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Richard Hussey Aca', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Styler', 'title': 'Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pav  Subramaniam', 'title': 'Financial Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.152
+priceToSalesTrailing12Months§2.886193
+currency§GBp
+forwardEps§-0.04
+exchange§LSE
+quoteType§EQUITY
+shortName§TRUFIN PLC ORD 91P
+longName§TruFin plc
+firstTradeDateEpochUtc§1519200000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a7f638fd-c1ef-3045-9d65-9ed44f1d810b
+targetHighPrice§1.21
+targetLowPrice§1.21
+targetMeanPrice§1.21
+targetMedianPrice§1.21
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.78
+grossMargins§0.23289
+ebitdaMargins§-0.12059
+trailingPegRatio§None

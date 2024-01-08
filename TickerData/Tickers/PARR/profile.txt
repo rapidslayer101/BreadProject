@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 06:32:06.389225
+address1§825 Town & Country Lane
+address2§Suite 1500
+city§Houston
+state§TX
+zip§77024
+country§United States
+phone§281 899 4800
+website§https://www.parpacific.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§Par Pacific Holdings, Inc. owns and operates energy and infrastructure businesses. The company operates through three segments: Refining, Retail, and Logistics. The Refining segment owns and operates three refineries that produces ultra-low sulfur diesel, gasoline, jet fuel, marine fuel, distillate, asphalt, low sulfur fuel oil, and other associated refined products primarily for consumption in Hawaii, Pacific Northwest, Wyoming, and South Dakota. The Retail segment operates 121 fuel retail outlets, which sell merchandise, such as soft drinks, prepared foods, and other sundries in Hawaii under the Hele, 76, and nomnom brands; and gasoline, diesel, and retail merchandise in Washington and Idaho under the Cenex, nomnom, and Zip Trip brand names. The Logistics segment owns and operates terminals, pipelines, a single point mooring, and trucking operations to distribute refined products throughout the island of Oahu, Maui, Hawaii, Molokai, and Kauai. It also leases marine vessels; owns and operates a crude oil pipeline gathering system, a refined products pipeline, storage facilities, and loading racks in Wyoming; and a jet fuel storage facility and pipeline that serves Ellsworth Air Force Base in South Dakota. In addition, this segment owns and operates a marine terminal, a unit train-capable rail loading terminal, storage facilities, a truck rack, and a proprietary pipeline that serves Joint Base Lewis McChord. The company was formerly known as Par Petroleum Corporation and changed its name to Par Pacific Holdings, Inc. in October 2015. Par Pacific Holdings, Inc. was incorporated in 1984 and is headquartered in Houston, Texas.
+fullTimeEmployees§1397
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William C. Pate', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1756569, 'exercisedValue': 0, 'unexercisedValue': 2962976}, {'maxAge': 1, 'name': 'Mr. William  Monteleone', 'age': 39, 'title': 'President & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1139663, 'exercisedValue': 0, 'unexercisedValue': 1012086}, {'maxAge': 1, 'name': 'Mr. Richard  Creamer', 'age': 57, 'title': 'Executive Vice President of Refining & Logistics', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1017654, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric P. Wright', 'title': 'President of Par Hawaii, LLC & Par Hawaii Refining, LLC', 'fiscalYear': 2022, 'totalPay': 644884, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn  Flores', 'age': 34, 'title': 'Senior VP & CFO', 'yearBorn': 1989, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ivan Daniel Guerra', 'age': 40, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Kelley', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ashimi  Patel', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey R. Hollis', 'age': 40, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Legg', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.982
+priceToSalesTrailing12Months§0.2673367
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.69
+pegRatio§-0.11
+exchange§NYQ
+quoteType§EQUITY
+shortName§Par Pacific Holdings, Inc. Comm
+longName§Par Pacific Holdings, Inc.
+firstTradeDateEpochUtc§1346851800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4ada1fac-f69d-3e99-8642-2709cc4b9149
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§37.0
+targetMeanPrice§39.8
+targetMedianPrice§40.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.451
+earningsGrowth§-0.376
+grossMargins§0.15844
+ebitdaMargins§0.09369001
+trailingPegRatio§None

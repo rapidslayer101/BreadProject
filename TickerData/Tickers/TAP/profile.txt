@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 18:33:34.425069
+address1§PO Box 4030
+address2§NH353
+city§Golden
+state§CO
+zip§80401
+country§United States
+phone§303 279 6565
+website§https://www.molsoncoors.com
+industry§Beverages—Brewers
+sector§Consumer Defensive
+longBusinessSummary§Molson Coors Beverage Company manufactures, markets, and sells beer and other malt beverage products under various brands in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company offers flavored malt beverages including hard seltzers, craft, and ready to drink beverages. It provides its products under Aspall Cider, Blue Moon, Coors Original, Hop Valley brands, Leinenkugel's, Miller Genuine Draft, Molson Ultra, Sharp's, Staropramen, and Vizzy Hard Seltzer above premier brands; Bergenbier, Borsodi, Carling, Coors Banquet, Coors Light, Jelen, Kamenitza, Miller Lite, Molson Canadian Lager, Molson Dry, Molson Export, and Niksicko, Ozujsko under the premium brands; and Branik, Icehouse, Keystone, Miller High Life, Milwaukee's Best, and Steel Reserve under the economy brands. The company was formerly known as Molson Coors Brewing Company and changed its name to Molson Coors Beverage Company in January 2020. Molson Coors Beverage Company was founded in 1774 and is headquartered in Golden, Colorado.
+fullTimeEmployees§16600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gavin D. K. Hattersley', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2891780, 'exercisedValue': 0, 'unexercisedValue': 229295}, {'maxAge': 1, 'name': 'Ms. Tracey I. Joubert', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1580253, 'exercisedValue': 0, 'unexercisedValue': 88008}, {'maxAge': 1, 'name': 'Mr. Sergey K. Yeskov', 'age': 46, 'title': 'President & CEO of Molson Coors EMEA APAC', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1097695, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle E. St. Jacques', 'age': 45, 'title': 'Chief Commercial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1189896, 'exercisedValue': 0, 'unexercisedValue': 35445}, {'maxAge': 1, 'name': 'Ms. Roxanne M. Stelter', 'age': 46, 'title': 'VP, Controller, Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Greg  Tierney', 'title': 'Vice President of FP&A and Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natalie  Maciolek', 'title': 'Chief Legal & Government Affairs officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Collins', 'title': 'Chief Communications & Corporate Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sofia  Colucci', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Osswald', 'title': 'Chief People & Diversity Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.64
+dividendYield§0.026700001
+exDividendDate§1701302400
+payoutRatio§1.3761001
+fiveYearAvgDividendYield§2.65
+beta§0.891
+priceToSalesTrailing12Months§1.1503599
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.48
+pegRatio§0.88
+exchange§NYQ
+quoteType§EQUITY
+shortName§Molson Coors Beverage Company
+longName§Molson Coors Beverage Company
+firstTradeDateEpochUtc§171811800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fcd6420c-60a1-3418-a6de-745d6546d966
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§77.0
+targetLowPrice§58.0
+targetMeanPrice§66.5
+targetMedianPrice§65.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§18
+quickRatio§0.444
+earningsGrowth§1.0
+grossMargins§0.36908
+ebitdaMargins§0.18726
+trailingPegRatio§3.0694

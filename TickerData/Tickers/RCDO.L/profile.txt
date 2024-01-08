@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 10:40:14.003714
+address1§Shoreham Technical Centre
+city§Shoreham-by-Sea
+zip§BN43 5FG
+country§United Kingdom
+phone§44 12 7345 5611
+website§https://ricardo.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§Ricardo plc provides environmental, technical, and strategic consultancy services in the United Kingdom, Europe, North America, China, rest of Asia, Australia, and internationally. It operates through Energy and Environment (EE), Rail, Automotive and Industrial (A&I) Emerging, Automotive and Industrial (A&I) Established, Defense, and Performance Products (PP). The EE segment provides environmental consultancy services and data to governments, public agencies, and private businesses. The Rail segment offers technical advice and engineering services, and accredited assurance services. The A&I segment engages design, development and testing services of conventional powertrains, as well as offers design, building and testing of conventional powertrains, and engineering, and consulting services for automotive, aerospace, defence, off-highway and commercial, marine, and rail markets. The Defense segment focuses on software, products, and engineering services for defence sector. The PP segment manufactures and assembles niche high-quality components, prototypes, and complex products, including engines, transmissions, precision and performance critical products for motorsport, automotive, aerospace, defence and rail sectors. It serves transportation original equipment manufacturers, suppliers, energy companies and government organizations. Ricardo plc was founded in 1915 and is headquartered in Shoreham-By-Sea, the United Kingdom.
+fullTimeEmployees§2911
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Graham  Ritchie A.C.A., B.A.', 'age': 51, 'title': 'Group CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 695000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judith  Cottrell', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Harpreet  Sagoo', 'title': 'Group General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Natasha  Perfect', 'title': 'Group Marketing & Communications Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mary  Moore', 'title': 'Group People, Team & Organisation Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Bell', 'title': 'Chief Strategy & Digital Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chet  Gryczan', 'title': 'Managing Director of Ricardo Defense Inc.', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clive  Wotton', 'title': 'Group Director of Sustainability, Quality & Risk', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  White', 'title': 'Global President of Clean Energy & Environmental Solutions', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Guest', 'title': 'Managing Director of Performance Products', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.0242
+exDividendDate§1698883200
+payoutRatio§0.6076
+fiveYearAvgDividendYield§2.62
+beta§0.564
+priceToSalesTrailing12Months§0.6917803
+currency§GBp
+forwardEps§39.95
+exchange§LSE
+quoteType§EQUITY
+shortName§RICARDO PLC ORD 25P
+longName§Ricardo plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§48a75bf6-1abb-303d-8309-166e673851fa
+targetHighPrice§775.0
+targetLowPrice§540.0
+targetMeanPrice§642.25
+targetMedianPrice§627.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.502
+earningsGrowth§-0.457
+grossMargins§0.28369
+ebitdaMargins§0.045149997
+trailingPegRatio§None

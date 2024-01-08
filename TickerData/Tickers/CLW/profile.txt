@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 06:27:57.012507
+address1§601 West Riverside
+address2§Suite 1100
+city§Spokane
+state§WA
+zip§99201
+country§United States
+phone§509 344 5900
+website§https://www.clearwaterpaper.com
+industry§Paper & Paper Products
+sector§Basic Materials
+longBusinessSummary§Clearwater Paper Corporation manufactures and supplies bleached paperboards, and consumer and parent roll tissues in the United States and internationally. It operates through two segments, Pulp and Paperboard, and Consumer Products. The Pulp and Paperboard segment manufactures and markets bleached paperboard; Solid Bleached Sulfate paperboard that is used to produce folding cartons, liquid packaging, cups and plates, blister and carded packaging, and top sheet and commercial printing items; and hardwood and softwood pulp, as well as offers services that include custom sheeting, slitting, and cutting. It sells its products to packaging converters, folding carton converters, merchants, and commercial printers. The Consumer Products segment provides a line of at-home tissue products, including bath tissues, paper towels, facial tissues, and napkins; recycled fiber value grade products; and away-from-home tissues. This segment sells its products to retailers and wholesale distributors, including grocery, club, mass merchants, and discount stores. Clearwater Paper Corporation was founded in 1900 and is based in Spokane, Washington.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Arsen S. Kitch', 'age': 41, 'title': 'CEO, President & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 2580634, 'exercisedValue': 0, 'unexercisedValue': 2640}, {'maxAge': 1, 'name': 'Mr. Michael S. Gadd', 'age': 58, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1133900, 'exercisedValue': 0, 'unexercisedValue': 3533}, {'maxAge': 1, 'name': 'Ms. Kari G. Moyes', 'age': 55, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 927018, 'exercisedValue': 0, 'unexercisedValue': 2760}, {'maxAge': 1, 'name': 'Mr. Steven M. Bowden', 'age': 61, 'title': 'Senior VP and GM of Pulp & Paperboard Division', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 990266, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sherri  Baker', 'age': 50, 'title': 'Senior VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robin S. Yim', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shannon  Myers', 'title': 'Senior Director  of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Urlick', 'age': 36, 'title': 'Senior VP & GM of Consumer Products Division', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.578
+priceToSalesTrailing12Months§0.28438917
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.71
+pegRatio§1.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§Clearwater Paper Corporation
+longName§Clearwater Paper Corporation
+firstTradeDateEpochUtc§1228487400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§785a5257-12ff-3907-aa71-d4d70dbdbd81
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§39.0
+targetLowPrice§39.0
+targetMeanPrice§39.0
+targetMedianPrice§39.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.085
+earningsGrowth§0.793
+grossMargins§0.13865
+ebitdaMargins§0.11566
+trailingPegRatio§None

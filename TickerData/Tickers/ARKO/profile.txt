@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 15:43:26.070047
+address1§8565 Magellan Parkway
+address2§Suite 400
+city§Richmond
+state§VA
+zip§23227-1150
+country§United States
+phone§804 730 1568
+website§https://www.arkocorp.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Arko Corp. operates convenience stores in the United States. It operates through Retail, Wholesale, Fleet Fueling, and GPM Petroleum segments. The Retail segment engages in the sale of fuel and merchandise to retail consumers. Its Wholesale segment supplies fuel to third-party dealers and consignment agents. The Fleet Fueling segment supplies fuel to proprietary and third-party cardlock, and issuance of proprietary fuel cards. Its GPM Petroleum segment supplies fuel to retail and wholesale segments. The company is based in Richmond, Virginia.
+fullTimeEmployees§12223
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Arie  Kotler', 'age': 49, 'title': 'Chairman, President & CEO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 2788364, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maury  Bricks', 'age': 48, 'title': 'General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 540696, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald  Bassell', 'age': 64, 'title': 'Executive Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 608913, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eyal  Nuchamovitz', 'age': 49, 'title': 'Executive Vice President of Business Development and M&A', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 710185, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Giammatteo', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Giacobone', 'age': 52, 'title': 'Chief Operating Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2404000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Silber', 'age': 44, 'title': 'Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'George  Parman', 'title': 'Vice President of Investor Relations & Government Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael K. R. Bloom', 'age': 63, 'title': 'Executive VP & CMO', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Efrat  Hybloom-Klein', 'age': 49, 'title': 'Executive Vice President - Office of Chairman & CEO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1441000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.12
+dividendYield§0.0145000005
+exDividendDate§1700092800
+payoutRatio§0.36360002
+beta§0.344
+priceToSalesTrailing12Months§0.10370932
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.27
+exchange§NCM
+quoteType§EQUITY
+shortName§ARKO Corp.
+longName§Arko Corp.
+firstTradeDateEpochUtc§1563888600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§686ca0a8-0688-3286-8b3b-888f0f49eeac
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§7.75
+targetMeanPrice§10.25
+targetMedianPrice§10.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.733
+earningsGrowth§-0.022
+grossMargins§0.14852001
+ebitdaMargins§0.02854
+trailingPegRatio§None

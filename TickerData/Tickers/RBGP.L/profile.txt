@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 09:40:10.553967
+address1§9-13 St. Andrew Street
+city§London
+zip§EC4A 3AF
+country§United Kingdom
+phone§44 20 7955 0880
+fax§44 20 7955 0888
+website§https://www.rbgholdings.co.uk
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§RBG Holdings plc provides legal and professional services to companies, banks, entrepreneurs, and individuals in the United Kingdom, rest of Europe, North America, and internationally. It operates through Legal Services, Litigation Finance, and Other Professional Services segments. The company offers legal services in respect of commercial disputes, including claims for breach of contract, negligence, commercial fraud, shareholder, and company disputes, as well as cross-border insolvency services; and corporate investigations, financial crime, contentious probate, arbitration, and mediation services to companies, banks, entrepreneurs, and individuals. It also provides a range of transactional, advisory, and regulatory legal services, such as corporate, real estate, commercial, IP and technology, competition and regulatory, banking and finance, tax and wealth structuring, and employment to entrepreneurs, corporates, lenders, HNWIs, and investors. In addition, the company finances litigation matters; and provides sell-side corporate finance boutique services. The company was formerly known as Rosenblatt Group Plc and changed its name to RBG Holdings plc in September 2019. RBG Holdings plc was founded in 1989 and is based in London, the United Kingdom.
+fullTimeEmployees§201
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jonathan William Divers', 'age': 52, 'title': 'CEO & Executive Director', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian Isaac Rosenblatt OBE', 'age': 63, 'title': 'Founder & Executive Vice Chair', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Hayes McNair BBA, MBA', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Lee', 'title': 'Head of Commercial & IP, Technology, Media and Partner', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Field', 'title': 'Administration Director & Partner of Dispute Resolution', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Sachs', 'title': 'Partner of Banking', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Aynsley', 'title': 'Partner & Head of Real Estate', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  McCormick', 'title': 'Partner of Dispute Resolution', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Nimmo', 'title': 'Partner of Dispute Resolution', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Clatworthy', 'title': 'Partner of Dispute Resolution', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.1087
+exDividendDate§1683158400
+payoutRatio§0.612
+beta§0.655
+priceToSalesTrailing12Months§0.22282963
+currency§GBp
+forwardEps§5.18
+exchange§LSE
+quoteType§EQUITY
+shortName§RBG HOLDINGS PLC ORD GBP0.002
+longName§RBG Holdings plc
+firstTradeDateEpochUtc§1525762800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§85d5fa8b-30ac-3a97-aeaf-bbe0488390b0
+targetHighPrice§54.0
+targetLowPrice§54.0
+targetMeanPrice§54.0
+targetMedianPrice§54.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.695
+grossMargins§0.40469003
+ebitdaMargins§-0.08432999
+trailingPegRatio§None

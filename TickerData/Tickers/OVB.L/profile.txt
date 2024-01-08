@@ -1,0 +1,32 @@
+# reload+after+2024-01-22 22:40:01.545294
+address1§17 Pembroke Street Upper
+address2§D02 AT22
+city§Dublin
+zip§2
+country§Ireland
+phone§353 1 661 9819
+website§https://ovocabio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Ovoca Bio plc, a clinical-stage biopharmaceutical company, engages in the development and commercialization of novel product candidates for women health. It is developing BP-101, a medicinal treatment for premenopausal women with hypoactive sexual desire disorder. The company was formerly known as Ovoca Gold plc and changed its name to Ovoca Bio plc in July 2018. Ovoca Bio plc was incorporated in 1985 and is based in Dublin, Ireland.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kirill Andreyevich Golovanov', 'age': 45, 'title': 'Interim Chairman of the Board & CEO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 125713, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dmitriy  Nikitashenko', 'title': 'Vice President of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Reneta  Nikolova', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.637
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§OVOCA BIO PLC EUR0.125 (CDI)
+longName§Ovoca Bio plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§84277602-6061-321a-b23a-af3c0ebed346
+recommendationKey§none
+quickRatio§3.672
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

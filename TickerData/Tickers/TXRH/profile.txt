@@ -1,0 +1,54 @@
+# reload+after+2024-01-19 22:47:41.705271
+address1§6040 Dutchmans Lane
+city§Louisville
+state§KY
+zip§40205
+country§United States
+phone§502 426 9984
+website§https://www.texasroadhouse.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Texas Roadhouse, Inc., together with its subsidiaries, operates casual dining restaurants in the United States and internationally. The company operates and franchises restaurants under the Texas Roadhouse, Bubba's 33, and Jaggers names in 49 states and ten internationally. Texas Roadhouse, Inc. was founded in 1993 and is based in Louisville, Kentucky.
+fullTimeEmployees§82000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gerald L. Morgan', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2220621, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Regina A. Tobin', 'age': 58, 'title': 'President', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 993738, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hernan E. Mujica', 'age': 60, 'title': 'Chief Technology Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 993738, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher C. Colson', 'age': 46, 'title': 'Corporate Secretary and Chief Legal & Administrative Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 993738, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Christopher Monroe', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Bailen', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Travis  Doster', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.2
+dividendYield§0.0186
+exDividendDate§1701734400
+payoutRatio§0.48509997
+fiveYearAvgDividendYield§1.65
+beta§0.946
+priceToSalesTrailing12Months§1.764736
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.31
+pegRatio§1.62
+exchange§NMS
+quoteType§EQUITY
+shortName§Texas Roadhouse, Inc.
+longName§Texas Roadhouse, Inc.
+firstTradeDateEpochUtc§1096983000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0af708b2-85be-3a60-9e94-029bb24c158b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§145.0
+targetLowPrice§100.0
+targetMeanPrice§117.7
+targetMedianPrice§116.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§0.211
+earningsGrowth§0.022
+grossMargins§0.16278
+ebitdaMargins§0.109110005
+trailingPegRatio§1.4999

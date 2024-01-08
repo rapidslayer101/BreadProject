@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 02:28:09.725163
+address1§One Briarlake Plaza
+address2§2000 West Sam Houston Parkway South Suite 2000
+city§Houston
+state§TX
+zip§77042
+country§United States
+phone§281 589 5200
+website§https://www.callon.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Callon Petroleum Company, an independent oil and natural gas company, focuses on the acquisition, exploration, and development of oil and natural gas properties in West Texas. The company was founded in 1950 and is headquartered in Houston, Texas.
+fullTimeEmployees§354
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph C. Gatto Jr.', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2367620, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin E. Haggard', 'age': 52, 'title': 'Senior VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1067480, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory F. Conaway', 'age': 48, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 668216, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michol L. Ecklund', 'age': 48, 'title': 'Senior VP, General Counsel & Chief Sustainability Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 998741, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell E. Parker', 'age': 46, 'title': 'Senior VP & COO', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angie  Day', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin C. Smith', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Liam  Kelly', 'title': 'Vice President of Corporate Development & Land', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Michael Hastings', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Shuler', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§898819200
+payoutRatio§0.0
+beta§2.519
+priceToSalesTrailing12Months§0.95449823
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.37
+pegRatio§0.76
+exchange§NYQ
+quoteType§EQUITY
+shortName§Callon Petroleum Company
+longName§Callon Petroleum Company
+firstTradeDateEpochUtc§638461800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§39ef7bcd-6d49-3071-afd8-be0db3171931
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§56.7
+targetLowPrice§34.0
+targetMeanPrice§43.99
+targetMedianPrice§44.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.355
+earningsGrowth§-0.784
+grossMargins§0.62641
+ebitdaMargins§0.57598
+trailingPegRatio§0.6845

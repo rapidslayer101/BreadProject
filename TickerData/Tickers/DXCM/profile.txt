@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 22:44:28.125920
+address1§6340 Sequence Drive
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 200 0200
+website§https://www.dexcom.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§DexCom, Inc., a medical device company, focuses on the design, development, and commercialization of continuous glucose monitoring (CGM) systems in the United States and internationally. The company provides its systems for use by people with diabetes, as well as for use by healthcare providers. Its products include Dexcom G6 and Dexcom G7, integrated CGM systems for diabetes management; Dexcom Share, a remote monitoring system; Dexcom Real-Time API, which enables authorized third-party software developers to integrate real-time CGM data into their digital health apps and devices; and Dexcom ONE, that is designed to replace finger stick blood glucose testing for diabetes treatment decisions. The company has a collaboration and license agreement with Verily Life Sciences LLC and Verily Ireland Limited to develop blood-based or interstitial glucose monitoring products. It markets its products directly to endocrinologists, physicians, and diabetes educators. The company was incorporated in 1999 and is headquartered in San Diego, California.
+fullTimeEmployees§7500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin Ronald Sayer', 'age': 65, 'title': 'Executive Chairman, CEO & President', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2222906, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jereme M. Sylvain', 'age': 43, 'title': 'Executive VP, CFO & Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 841138, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacob Steven Leach', 'age': 45, 'title': 'Executive VP & COO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 994129, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Girish  Naganathan', 'age': 46, 'title': 'Executive VP & CTO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 423920, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Jon Brown', 'age': 53, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 954455, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shelly Ramasamy Selvaraj', 'age': 64, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Christensen', 'title': 'Director of Corporate Affairs & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Dolan', 'age': 42, 'title': 'Executive Vice President of Strategy, Corporate Development & Dexcom Labs', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sadie M. Stern', 'age': 48, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven R. Pacelli', 'age': 51, 'title': 'Executive VP & MD of Dexcom Ventures', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 873618, 'exercisedValue': 0, 'unexercisedValue': 1865207}]
+auditRisk§1
+boardRisk§9
+compensationRisk§2
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.225
+priceToSalesTrailing12Months§13.90536
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.71
+pegRatio§2.51
+exchange§NMS
+quoteType§EQUITY
+shortName§DexCom, Inc.
+longName§DexCom, Inc.
+firstTradeDateEpochUtc§1113485400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3ae7c86d-714e-392b-b6fd-23c89f3c2654
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§170.0
+targetLowPrice§110.0
+targetMeanPrice§142.1
+targetMedianPrice§145.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§20
+quickRatio§2.4
+earningsGrowth§0.187
+grossMargins§0.63873
+ebitdaMargins§0.19383
+trailingPegRatio§2.5369

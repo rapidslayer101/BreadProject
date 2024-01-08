@@ -1,0 +1,60 @@
+# reload+after+2024-01-23 05:27:12.329445
+address1§101 Oakley Street
+city§Evansville
+state§IN
+zip§47710
+country§United States
+phone§812 424 2904
+website§https://www.berryglobal.com
+industry§Packaging & Containers
+industryKey§packaging-containers
+industryDisp§Packaging & Containers
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Berry Global Group, Inc. manufactures and supplies non-woven, flexible, and rigid products in consumer and industrial end markets in the United States, Canada, Europe, and internationally. The company operates through Consumer Packaging International; Consumer Packaging North America; Engineered Materials; and Health, Hygiene & Specialties segments. The Consumer Packaging International segment offers closures and dispensing systems, pharmaceutical devices and packaging, bottles and canisters, containers, and technical components. The Consumer Packaging North America segment provides containers and pails, foodservice products, closures, bottles and prescription vials, and tubes. The Engineered Materials segment offers stretch and shrink, converter, food and consumer, and agriculture films, as well as institutional can liners and retail bags. The Health, Hygiene & Specialties segment provides healthcare, hygiene, specialties, and tapes. Berry Global Group, Inc. sells its products through direct sales force of professionals and distributors. The company was formerly known as Berry Plastics Group, Inc. and changed its name to Berry Global Group, Inc. in April 2017. Berry Global Group, Inc. was founded in 1967 and is based in Evansville, Indiana.
+fullTimeEmployees§44000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark W. Miles', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 1375147, 'exercisedValue': 6671200, 'unexercisedValue': 13182249}, {'maxAge': 1, 'name': 'Mr. Jason K. Greene', 'age': 53, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1153713, 'exercisedValue': 715410, 'unexercisedValue': 5667546}, {'maxAge': 1, 'name': 'Mr. Curtis L. Begle', 'age': 48, 'title': 'President of Health, Hygiene & Specialties Division', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1373519, 'exercisedValue': 0, 'unexercisedValue': 2867803}, {'maxAge': 1, 'name': 'Mr. Jean-Marc  Galvez', 'age': 56, 'title': 'President of Consumer Packaging - International Division', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1377645, 'exercisedValue': 0, 'unexercisedValue': 3644158}, {'maxAge': 1, 'name': 'Mr. Kevin J. Kwilinski', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rodgers K. Greenawalt', 'title': 'Executive Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Debbie A. Garrison', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dustin  Stilwell', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey L. Bennett', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William J. Norman', 'age': 52, 'title': 'President of Consumer Packaging \x96 North America Division', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 745135, 'exercisedValue': 479829, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.1
+dividendYield§0.0165
+exDividendDate§1701302400
+payoutRatio§0.202
+beta§1.264
+priceToSalesTrailing12Months§0.6116742
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.37
+pegRatio§1.53
+lastDividendValue§0.275
+lastDividendDate§1701302400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Berry Global Group, Inc.
+longName§Berry Global Group, Inc.
+firstTradeDateEpochUtc§1349357400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a82be80c-74d1-3a17-b5fd-723d9034dbca
+messageBoardId§finmb_141108755
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§83.0
+targetLowPrice§67.0
+targetMeanPrice§75.38
+targetMedianPrice§75.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.021
+earningsGrowth§-0.165
+grossMargins§0.18240999
+ebitdaMargins§0.15785
+trailingPegRatio§None

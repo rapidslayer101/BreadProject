@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 23:40:43.851660
+address1§Cardinal Square West
+address2§10 Nottingham Road
+city§Derby
+zip§DE1 3QT
+country§United Kingdom
+phone§44 20 3866 3330
+website§https://www.totallyplc.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Totally plc, together with its subsidiaries, provides out-of-hospital healthcare services in the United Kingdom and Ireland. It operates through Urgent Care, Elective Care, and Corporate Wellbeing segments. The company provides urgent treatment centres which manages front door to A&E departments; NHS 111, GP out of hours services; and clinical assessment services providing telephonic access to multidisciplinary teams of clinicians, and acute visiting services as part of an integrated care system. It offers community outpatient services including specialist dermatology and referral management; physiotherapy, such as first contact practitioners delivering full musculoskeletal services at GP surgeries, to health centres, and prisons and gym environments; and podiatry services. In addition, it offers corporate fitness; wellbeing and occupational health services; provides dermatology and referral management services; coaching services to consumer; and hospital insourcing services, as well as IT healthcare solutions; and provision for online health and safety risk assessments. Totally plc was incorporated in 1999 and is based in Derby, the United Kingdom.
+fullTimeEmployees§1668
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Wendy Jayne Lawrence', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 283000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Barter-Ng A.C.A., Lisa Barter', 'age': 52, 'title': 'CFO, Finance Director & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 206000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  McMullan', 'title': 'Joint MD of Pioneer Health Care, Medical Director & Director', 'fiscalYear': 2023, 'totalPay': 168000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Prasad  Godbole', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jayne  Storey', 'title': 'Director HR & Recruitment', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Benson', 'age': 55, 'title': 'Managing Director of Planned Care', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Gregory', 'title': 'Managing Director of Urgent Care', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hesham  Zaki', 'title': 'Joint Managing Director of Pioneer Health Care', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan  Gallacher', 'title': 'Managing Director of Energy Fitness Professionals', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Charlton', 'title': 'Group Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+dividendRate§0.01
+dividendYield§0.13159999
+exDividendDate§1694044800
+payoutRatio§1.0753
+beta§0.52
+priceToSalesTrailing12Months§0.07946339
+currency§GBp
+forwardEps§1.6
+exchange§LSE
+quoteType§EQUITY
+shortName§TOTALLY PLC ORD 10P
+longName§Totally plc
+firstTradeDateEpochUtc§949305600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f6c0e006-417c-37d8-9dfc-f02b9a19608b
+targetHighPrice§30.0
+targetLowPrice§30.0
+targetMeanPrice§30.0
+targetMedianPrice§30.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.605
+grossMargins§0.18783002
+ebitdaMargins§0.02004
+trailingPegRatio§None

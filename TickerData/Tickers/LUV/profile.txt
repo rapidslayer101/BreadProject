@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 21:31:09.189976
+address1§PO Box 36611
+city§Dallas
+state§TX
+zip§75235-1611
+country§United States
+phone§214 792 4000
+website§https://www.southwest.com
+industry§Airlines
+sector§Industrials
+longBusinessSummary§Southwest Airlines Co. operates as a passenger airline company that provide scheduled air transportation services in the United States and near-international markets. As of December 31, 2022, the company operated a total fleet of 770 Boeing 737 aircrafts; and served 121 destinations in 42 states, the District of Columbia, and the Commonwealth of Puerto Rico, as well as ten near-international countries, including Mexico, Jamaica, the Bahamas, Aruba, the Dominican Republic, Costa Rica, Belize, Cuba, the Cayman Islands, and Turks and Caicos. It also provides inflight entertainment portal and connectivity services on Wi-Fi enabled aircrafts; and Rapid Rewards loyalty program that enables program members to earn points for dollars spent on Southwest base fares. In addition, the company offers a suite of digital platforms to support customers' travel needs, including websites and apps; and SWABIZ, an online booking tool. Further, it provides ancillary services, such as Southwest's EarlyBird Check-In, upgraded boarding, and transportation of pets and unaccompanied minors. The company was incorporated in 1967 and is headquartered in Dallas, Texas.
+fullTimeEmployees§74181
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gary C. Kelly', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2016, 'totalPay': 1303205, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert E. Jordan', 'age': 62, 'title': 'CEO, President & Director', 'yearBorn': 1961, 'fiscalYear': 2016, 'totalPay': 1707000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tammy  Romo', 'age': 61, 'title': 'Executive VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2016, 'totalPay': 1089925, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew M. Watterson', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2016, 'totalPay': 1139123, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark R. Shaw', 'age': 60, 'title': 'Executive VP, Chief Legal & Regulatory Officer and Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2016, 'totalPay': 953963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ray  Schuster', 'title': 'Managing Director of Accounting & Financial Reporting', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Merritt', 'title': 'VP of Technology \x96 Infrastructure & Services and CTO', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lauren  Woods', 'title': 'Senior VP of Technology & Chief Information Officer', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda Burke Rutherford', 'age': 56, 'title': 'Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Whitney  Eichinger', 'title': 'Senior VP & Chief Communications Officer', 'fiscalYear': 2016, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1483142400
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.0247
+exDividendDate§1703030400
+payoutRatio§0.8889
+fiveYearAvgDividendYield§1.03
+beta§1.192
+priceToSalesTrailing12Months§0.6830484
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.54
+pegRatio§0.68
+exchange§NYQ
+quoteType§EQUITY
+shortName§Southwest Airlines Company
+longName§Southwest Airlines Co.
+firstTradeDateEpochUtc§315671400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§81a27f68-fcd4-33aa-aed6-8f8213a2e993
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§47.0
+targetLowPrice§18.0
+targetMeanPrice§27.69
+targetMedianPrice§27.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§16
+quickRatio§1.086
+earningsGrowth§-0.299
+grossMargins§0.22928
+ebitdaMargins§0.06101
+trailingPegRatio§0.3791

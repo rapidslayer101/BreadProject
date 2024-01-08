@@ -1,0 +1,61 @@
+# reload+after+2024-01-23 03:27:03.370581
+address1§8283 Greensboro Drive
+city§McLean
+state§VA
+zip§22102
+country§United States
+phone§703 902 5000
+website§https://www.boozallen.com
+industry§Consulting Services
+industryKey§consulting-services
+industryDisp§Consulting Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Booz Allen Hamilton Holding Corporation provides management and technology consulting, analytics, engineering, digital solutions, mission operations, and cyber services to governments, corporations, and not-for-profit organizations in the United States and internationally. It also focuses on artificial intelligence services comprising of machine learning, predictive modeling, automation and decision analytics, and quantum computing. The company offers artificial intelligence, machine learning , and computer network related  operations. In addition, it provides data science, engineering, visualization, and analysis related capabilities. Further, the company engages in user experience, user interface, graphic and web design, design thinking, sketching, and digital product design capabilities. Booz Allen Hamilton Holding Corporation was founded in 1914 and is headquartered in McLean, Virginia.
+fullTimeEmployees§33100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Horacio D. Rozanski', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 3673702, 'exercisedValue': 0, 'unexercisedValue': 5685462}, {'maxAge': 1, 'name': 'Mr. Matthew A. Calderone', 'title': 'Executive VP & CFO', 'fiscalYear': 2023, 'totalPay': 1389102, 'exercisedValue': 0, 'unexercisedValue': 1401474}, {'maxAge': 1, 'name': 'Ms. Kristine Martin Anderson', 'age': 54, 'title': 'Executive VP & COO', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1791922, 'exercisedValue': 1122353, 'unexercisedValue': 3374450}, {'maxAge': 1, 'name': 'Ms. Nancy J. Laben', 'age': 61, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1506051, 'exercisedValue': 0, 'unexercisedValue': 1879909}, {'maxAge': 1, 'name': 'Ms. Judith  Dotson', 'age': 59, 'title': 'Executive VP & President of Global Defense Sector', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 1500395, 'exercisedValue': 1288350, 'unexercisedValue': 1740202}, {'maxAge': 1, 'name': 'Mr. Scott M. Murphy', 'age': 42, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan L. Penfield', 'age': 61, 'title': 'Executive VP & CTO', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1421437, 'exercisedValue': 0, 'unexercisedValue': 2737768}, {'maxAge': 1, 'name': 'Ms. Jennifer  Wagner', 'title': 'Chief Administrative Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathan  Rutledge', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hillary  Stanley', 'title': 'Chief Ethics & Compliance Officer, Deputy General Counsel and VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.88
+dividendYield§0.0152
+exDividendDate§1699920000
+payoutRatio§0.8251
+fiveYearAvgDividendYield§1.56
+beta§0.547
+priceToSalesTrailing12Months§1.608722
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.61
+pegRatio§2.07
+lastDividendValue§0.47
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Booz Allen Hamilton Holding Cor
+longName§Booz Allen Hamilton Holding Corporation
+firstTradeDateEpochUtc§1290090600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§582e59e0-15fd-361d-baa6-5d31094fcd69
+messageBoardId§finmb_160233
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§145.0
+targetLowPrice§120.0
+targetMeanPrice§134.65
+targetMedianPrice§137.25
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.622
+earningsGrowth§0.011
+grossMargins§0.22803
+ebitdaMargins§0.06625
+trailingPegRatio§None

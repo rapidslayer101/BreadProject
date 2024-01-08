@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 12:30:12.949673
+address1§7930 Jones Branch Drive
+address2§Suite 1100
+city§McLean
+state§VA
+zip§22102
+country§United States
+phone§703 883 1000
+website§https://www.hilton.com
+industry§Lodging
+sector§Consumer Cyclical
+longBusinessSummary§Hilton Worldwide Holdings Inc., a hospitality company, engages in managing, franchising, owning, and leasing hotels and resorts. It operates through two segments, Management and Franchise, and Ownership. The company engages in the hotel management and licensing of its brands. It operates luxury hotels under the Waldorf Astoria Hotels & Resorts, LXR Hotels & Resorts, and Conrad Hotels & Resorts brand; lifestyle hotels under the Canopy by Hilton, Curio Collection by Hilton, Tapestry Collection by Hilton, Tempo by Hilton, and Motto by Hilton brand; full service hotels under the Signia by Hilton, Hilton Hotels & Resorts, and DoubleTree by Hilton brand; service hotels under the Hilton Garden Inn, Hampton by Hilton, and Tru by Hilton brand; all-suite hotels under the Embassy Suites by Hilton, Homewood Suites by Hilton, and Home2 Suites by Hilton brand; and premium economy hotel under the Spark by Hilton brand, as well as Hilton Grand Vacations. The company operates in North America, South America, and Central America, including various Caribbean nations; Europe, the Middle East, and Africa; and the Asia Pacific. The company was founded in 1919 and is headquartered in McLean, Virginia.
+fullTimeEmployees§159000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher J. Nassetta', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 5258222, 'exercisedValue': 0, 'unexercisedValue': 50592160}, {'maxAge': 1, 'name': 'Mr. Kevin J. Jacobs', 'age': 51, 'title': 'CFO & President of Global Development', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2496575, 'exercisedValue': 0, 'unexercisedValue': 1067280}, {'maxAge': 1, 'name': 'Mr. Matthew W. Schuyler', 'age': 58, 'title': 'Advisor', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2000031, 'exercisedValue': 0, 'unexercisedValue': 9885361}, {'maxAge': 1, 'name': 'Mr. Christopher W. Silcock', 'age': 51, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1826740, 'exercisedValue': 0, 'unexercisedValue': 4258741}, {'maxAge': 1, 'name': 'Mr. Michael W. Duffy', 'age': 43, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jill  Chapman', 'title': 'Senior Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Anne-Marie Wieland D'Angelo", 'age': 46, 'title': 'Executive VP & General Counsel', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julia  Austin', 'title': 'Director of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Fuentes', 'age': 47, 'title': 'Executive VP & Chief HR Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank R. Passanante', 'title': 'Senior Vice President of Group Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0033000002
+exDividendDate§1700092800
+payoutRatio§0.121199995
+fiveYearAvgDividendYield§0.8
+beta§1.238
+priceToSalesTrailing12Months§10.684999
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.05
+pegRatio§1.81
+exchange§NYQ
+quoteType§EQUITY
+shortName§Hilton Worldwide Holdings Inc.
+longName§Hilton Worldwide Holdings Inc.
+firstTradeDateEpochUtc§1386858600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§29fb9b23-7d6a-3acd-8d08-6a8739433cd0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§197.0
+targetLowPrice§145.0
+targetMeanPrice§175.26
+targetMedianPrice§175.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.588
+earningsGrowth§0.143
+grossMargins§0.73614997
+ebitdaMargins§0.57618
+trailingPegRatio§1.2757

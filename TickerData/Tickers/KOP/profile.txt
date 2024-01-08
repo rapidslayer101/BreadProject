@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 04:30:57.767322
+address1§436 Seventh Avenue
+city§Pittsburgh
+state§PA
+zip§15219-1800
+country§United States
+phone§412 227 2001
+website§https://www.koppers.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Koppers Holdings Inc. provides treated wood products, wood preservation chemicals, and carbon compounds in the United States, Australasia, Europe, and internationally. The company operates through three segments: Railroad and Utility Products and Services (RUPS), Performance Chemicals (PC), and Carbon Materials and Chemicals (CMC).The RUPS segment procures and treats crossties, switch ties, and various types of lumber used for railroad bridges and crossings. It also provides rail joint bars to join rails together for railroads; transmission and distribution poles for electric and telephone utilities; and pilings. This segment provides railroad services, such as engineering, design, repair, and inspection services for railroad bridges. The PC segment develops, manufactures, and markets copper-based wood preservatives, including micronized copper azole, micronized pigments, alkaline copper quaternary, amine copper azole, and chromated copper arsenate for decking, fencing, utility poles, construction lumber and timbers, and various agricultural uses; and supplies fire-retardant chemicals for pressure treatment of wood primarily in commercial construction. The CMC segment manufactures creosote for the treatment of wood or as a feedstock in the production of carbon black; carbon pitch, a raw material used in the production of aluminum and steel; naphthalene for use as a feedstock in the production of phthalic anhydride and as a surfactant in the production of concrete; phthalic anhydride for the production of plasticizers, polyester resins, and alkyd paints; and carbon black feedstock for use in the production of carbon black. It serves the railroad, specialty chemical, utility, residential lumber, agriculture, aluminum, steel, rubber, and construction industries. Koppers Holdings Inc. was founded in 1988 and is headquartered in Pittsburgh, Pennsylvania.
+fullTimeEmployees§2119
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Leroy Mangus Ball Jr.', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2021191, 'exercisedValue': 0, 'unexercisedValue': 2062091}, {'maxAge': 1, 'name': 'Mr. James A. Sullivan', 'age': 59, 'title': 'President and Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1012407, 'exercisedValue': 0, 'unexercisedValue': 587748}, {'maxAge': 1, 'name': 'Ms. Jimmi Sue Smith', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 643815, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie L. Apostolou', 'age': 42, 'title': 'General Counsel & Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 588390, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley A. Pearce', 'age': 56, 'title': 'Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Quynh T. McGuire', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Franklin', 'title': 'Manager of Corporate Communications, Branding & Giving', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian A. Nielsen', 'age': 60, 'title': 'Senior Vice President of Global Carbon Materials & Chemicals', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracie  McCormick', 'title': 'Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Travis  Gross', 'title': 'Vice President of Railroad Products & Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.24
+dividendYield§0.0050999997
+exDividendDate§1700611200
+payoutRatio§0.054899998
+fiveYearAvgDividendYield§2.61
+beta§1.944
+priceToSalesTrailing12Months§0.46399936
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.7
+pegRatio§0.58
+exchange§NYQ
+quoteType§EQUITY
+shortName§Koppers Holdings Inc.
+longName§Koppers Holdings Inc.
+firstTradeDateEpochUtc§1138804200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c6546224-a7b6-3888-b7f4-f020fb574300
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§64.0
+targetLowPrice§50.0
+targetMeanPrice§57.0
+targetMedianPrice§57.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.957
+earningsGrowth§0.341
+grossMargins§0.19028999
+ebitdaMargins§0.11212
+trailingPegRatio§None

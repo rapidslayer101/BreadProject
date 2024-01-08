@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 19:44:48.482800
+address1§300 Vesey Street
+address2§9th Floor
+city§New York
+state§NY
+zip§10282
+country§United States
+phone§646 669 7272
+website§https://www.fluentco.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§Fluent, Inc. provides data-driven digital marketing services primarily in the United States. The company operates through Fluent and All Other segments. It offers customer acquisition services by operating digital marketing campaigns, through which the company connects its advertiser clients with consumers. The company also delivers data and performance-based marketing executions to various consumer brands, direct marketers, and agencies across a range of industries, including financial products and services, media and entertainment, health and wellness, retail and consumer, and staffing and recruitment. Fluent, Inc. was founded in 2010 and is headquartered in New York, New York.
+fullTimeEmployees§272
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan  Schulke', 'age': 40, 'title': 'Co-Founder, Chairman & Chief Strategy Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 575219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald Huntley Patrick', 'age': 62, 'title': 'Chief Executive Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 576607, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Conlin', 'age': 39, 'title': 'Co-Founder, Chief Customer Officer & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 577857, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan Macnab Perfit', 'age': 43, 'title': 'Interim CFO & Principal Financial and Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Hall', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Kauffman', 'title': 'Co-General Counsel & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Batty', 'title': 'Senior Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Sweeney', 'title': 'Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Cullen', 'title': 'Executive Vice President of Product', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Hogan', 'title': 'Executive VP & GM of Data Solutions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.613
+priceToSalesTrailing12Months§0.18608774
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.08
+pegRatio§-0.02
+exchange§NCM
+quoteType§EQUITY
+shortName§Fluent, Inc.
+longName§Fluent, Inc.
+firstTradeDateEpochUtc§1198852200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97d71f75-b8a0-35b3-af3a-c323973161c1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§2.0
+targetMeanPrice§2.0
+targetMedianPrice§2.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.956
+grossMargins§0.25045002
+ebitdaMargins§0.04552
+trailingPegRatio§None

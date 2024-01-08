@@ -1,0 +1,41 @@
+# reload+after+2024-01-19 22:40:35.341698
+address1§Welton Gathering Centre
+address2§Barfield Lane off Wragby Road Sudbrooke
+city§Lincoln
+zip§LN2 2QX
+country§United Kingdom
+phone§44 20 7993 9899
+website§https://www.starenergygroupplc.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Star Energy Group Plc operates as an oil and gas development, exploration, processing, and production company in the United Kingdom. The company holds interests in the 50 licenses at onshore locations in the Weald Basin in the southern England; the Gainsborough Trough in the East Midlands; the Bowland Basin in the North West of England; and the Inner Moray Firth in Scotland. It also generates electricity. The company was formerly known as IGas Energy plc and changed its name to Star Energy Group Plc in June 2023. Star Energy Group Plc was founded in 2003 and is based in Lincoln, the United Kingdom.
+fullTimeEmployees§145
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Simon Christopher Hopkinson', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 378036, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Frances Bernadette Ward', 'age': 61, 'title': 'Group Financial Controller, CFO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 254752, 'exercisedValue': 0, 'unexercisedValue': 1139}, {'maxAge': 1, 'name': 'Mr. Ross  Glover', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ross  Pearson', 'title': 'Technical Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Thamala Perera Schuetze', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Foscoe', 'title': 'Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann-Marie  Wilkinson', 'title': 'Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.18
+priceToSalesTrailing12Months§0.23238431
+currency§GBp
+forwardEps§6.6
+exchange§LSE
+quoteType§EQUITY
+shortName§STAR ENERGY GROUP PLC ORD 0.002
+longName§Star Energy Group Plc
+firstTradeDateEpochUtc§1122620400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f85f656c-7e4a-3d65-b426-fee5ea7c88d5
+targetHighPrice§65.0
+targetLowPrice§65.0
+targetMeanPrice§65.0
+targetMedianPrice§65.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.557
+earningsGrowth§-0.973
+grossMargins§0.51575
+ebitdaMargins§0.42935002
+trailingPegRatio§None

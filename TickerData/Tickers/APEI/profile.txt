@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 16:43:22.901599
+address1§111 West Congress Street
+city§Charles Town
+state§WV
+zip§25414
+country§United States
+phone§304 724 3700
+website§https://www.apei.com
+industry§Education & Training Services
+sector§Consumer Defensive
+longBusinessSummary§American Public Education, Inc., together with its subsidiaries, provides online and campus-based postsecondary education and career learning. It operates through three segments: American Public University System, Rasmussen University, and Hondros College of Nursing. The company offers 136 degree programs and 115 certificate programs in various fields of study, including nursing, public health, public administration, and business administration. It also provides nursing-and health sciences-focused postsecondary education, diploma in practical nursing, and an associate degree in nursing. The company was incorporated in 1991 and is headquartered in Charles Town, West Virginia.
+fullTimeEmployees§2357
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Angela K. Selden', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1031834, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard W. Sunderland Jr., CPA', 'age': 63, 'title': 'Executive VP & CFO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 570484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Beckett', 'age': 55, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 407670, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry T. Wilkins CPA', 'age': 66, 'title': 'Chief Executive Officer of Hondros College of Nursing', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 444309, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig S. MacGibbon', 'age': 59, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ryan  Koren', 'title': 'Assistant Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Frank  Tutalo', 'title': 'Director of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Somers C.F.A.', 'title': 'Senior VP, Chief Strategy & Corporate Development Officer and Acting President of GS USA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tanya J. Axenson', 'age': 47, 'title': 'Senior VP & Chief Human Resource Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  McShane', 'title': 'Senior Vice President of Engagement, Automation & Performance Analytics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.251
+priceToSalesTrailing12Months§0.30726823
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.53
+pegRatio§-0.19
+exchange§NMS
+quoteType§EQUITY
+shortName§American Public Education, Inc.
+longName§American Public Education, Inc.
+firstTradeDateEpochUtc§1194618600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3461f919-8c1b-319a-9d25-973f4710d59c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§6.0
+targetMeanPrice§8.0
+targetMedianPrice§8.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.958
+grossMargins§0.50851
+ebitdaMargins§0.05706
+trailingPegRatio§1.5363

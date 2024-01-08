@@ -1,0 +1,36 @@
+# reload+after+2024-01-22 00:43:32.033616
+address1§1654 Smallman Street
+city§Pittsburgh
+state§PA
+zip§15222
+country§United States
+phone§888 583 9506
+website§https://aurora.tech
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Aurora Innovation, Inc. operates as a self-driving technology company in the United States. It focuses on developing Aurora Driver, a platform that brings a suite of self-driving hardware, software, and data services together to adapt and interoperate passenger vehicles, light commercial vehicles, and trucks. The company was founded in 2017 and is headquartered in Pittsburgh, Pennsylvania.
+fullTimeEmployees§1700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher  Urmson Ph.D.', 'age': 46, 'title': 'Co-Founder, CEO & Non-Independent Executive Chairman', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 3850743, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sterling  Anderson', 'age': 39, 'title': 'Co-Founder, Chief Product Officer & Non-Independent Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nolan  Shenai', 'age': 39, 'title': 'General Counsel, Secretary & Treasurer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 333108, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ossa  Fisher', 'age': 46, 'title': 'President', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Maday', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Andrew Bagnell', 'age': 46, 'title': 'Chief Scientist', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacy  Feit', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nat  Beuse', 'title': 'Chief Safety Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§3.109
+currency§USD
+exchange§NMS
+quoteType§EQUITY
+longName§Aurora Innovation, Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9f12ed4c-bbf9-3b42-84ab-d7de890b98c6
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§16.165
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

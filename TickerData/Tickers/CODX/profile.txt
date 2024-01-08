@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 08:44:09.773511
+address1§2401 South Foothill Drive
+address2§Suite D
+city§Salt Lake City
+state§UT
+zip§84109
+country§United States
+phone§801 438 1036
+website§https://www.codiagnostics.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Co-Diagnostics, Inc., a molecular diagnostics company, develops, manufactures, and sells reagents used for diagnostic tests that function through the detection and/or analysis of nucleic acid molecules in the United States and internationally. It offers polymerase chain reaction (PCR) diagnostic tests for COVID-19, influenza, tuberculosis, hepatitis B and C, human papillomavirus, malaria, chikungunya, dengue, and the zika virus; three multiplexed tests to test mosquitos for the identification of diseases carried by the mosquitos; and molecular tools for detection of infectious diseases, liquid biopsy for cancer screening, and agricultural applications. The company also provides tests that identify genetic traits in plant and animal genomes; and portable PCR device designed to bring PCR to patients in point-of-care and at-home settings. In addition, it intends to sell diagnostic equipment from other manufacturers as self-contained lab systems. The company was incorporated in 2013 and is headquartered in Salt Lake City, Utah.
+fullTimeEmployees§145
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dwight H. Egan', 'age': 70, 'title': 'Chairman, CEO & President', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 512391, 'exercisedValue': 0, 'unexercisedValue': 71000}, {'maxAge': 1, 'name': 'Mr. Brian L. Brown CPA', 'age': 47, 'title': 'CFO & Company Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 387522, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Brent C. Satterfield Ph.D.', 'age': 46, 'title': 'Co-Founder & Member of Scientific Advisory Board', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 237500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Bohrer CPA', 'title': 'Vice President of Finance & Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark  Poritz Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Benson', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mayuranki  Almaula', 'title': 'Senior Vice President of Overseas Operations & Strategic Alliances', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron  Gundry', 'title': 'Head of Commercialization LATAM/EUR', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ivory  Chang', 'title': 'Chief Regulatory Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§5
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.724
+priceToSalesTrailing12Months§8.534184
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.0
+exchange§NCM
+quoteType§EQUITY
+shortName§Co-Diagnostics, Inc.
+longName§Co-Diagnostics, Inc.
+firstTradeDateEpochUtc§1499866200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a66500d7-07e3-3cc2-8d0a-703f2a3c6952
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§12.845
+grossMargins§0.628
+ebitdaMargins§0.0
+trailingPegRatio§None

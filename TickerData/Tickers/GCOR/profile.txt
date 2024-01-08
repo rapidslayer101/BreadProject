@@ -1,0 +1,25 @@
+# reload+after+2024-01-21 14:29:45.187453
+longBusinessSummary§The fund seeks to achieve its investment objective by investing at least 80% of its assets (exclusive of collateral held from securities lending) in securities included in its underlying index. The index is a rules-based index that is designed to measure the performance of investment grade, U.S. dollar (“USD”)-denominated bonds issued in the United States that meet certain liquidity and fundamental screening criteria.
+maxAge§86400
+priceHint§2
+yield§0.0368
+totalAssets§549588032
+navPrice§41.29
+currency§USD
+category§Intermediate-Term Bond
+ytdReturn§-0.014091199
+beta3Year§1.02
+fundFamily§Goldman Sachs
+fundInceptionDate§1599523200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0406441
+exchange§PCX
+quoteType§ETF
+shortName§Goldman Sachs ETF Trust Goldman
+longName§Goldman Sachs Access U.S. Aggregate Bond ETF
+firstTradeDateEpochUtc§1600349400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§32133252-06fc-3eed-af3a-34db4a3906bf
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 05:46:16.865981
+address1§Building B
+address2§11 HaMenofim Street
+city§Herzliya
+zip§4672562
+country§Israel
+phone§972 9 799 6183
+website§https://www.neurosense-tx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§NeuroSense Therapeutics Ltd., a clinical-stage biotechnology company, focuses on discovering and developing treatments for patients suffering from debilitating neurodegenerative diseases in the United States and internationally. Its lead product is PrimeC, an extended-release oral formulation of a fixed dose combination of ciprofloxacin and celecoxib for the treatment of amyotrophic lateral sclerosis. The company's preclinical pipeline includes StabiliC for the treatment of Parkinson's disease; and CogniC for the treatment of Alzheimer's disease. NeuroSense Therapeutics Ltd. was incorporated in 2017 and is headquartered in Herzliya, Israel.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alon  Ben-Noon', 'age': 44, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 619000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Or  Eisenberg', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 378000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ferenc  Tracik M.D.', 'age': 59, 'title': 'Chief Medical Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 513000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hagit  Binder', 'age': 45, 'title': 'Chief Operation Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Niva  Russek-Blum Ph.D.', 'age': 44, 'title': 'Chief Technology Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yael  Barak', 'age': 53, 'title': 'VP of Quality & Compliance', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Keren  Pushett', 'title': 'Head of HR', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eidan  Loushi', 'title': 'C.R.A.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.331
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.8
+exchange§NCM
+quoteType§EQUITY
+shortName§NeuroSense Therapeutics Ltd.
+longName§NeuroSense Therapeutics Ltd.
+firstTradeDateEpochUtc§1639060200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c654cfb0-e6f8-39c6-b4af-0e370e5f2fc8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.5
+targetLowPrice§3.0
+targetMeanPrice§5.25
+targetMedianPrice§5.25
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.804
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

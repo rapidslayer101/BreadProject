@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 05:34:09.181212
+address1§4400 Biscayne Boulevard
+city§Miami
+state§FL
+zip§33137
+country§United States
+phone§305 579 8000
+website§https://www.vectorgroupltd.com
+industry§Tobacco
+sector§Consumer Defensive
+longBusinessSummary§Vector Group Ltd., through its subsidiaries, manufactures and sells cigarettes in the United States. It operates in two segments, Tobacco and Real Estate. The company produces cigarettes under the EAGLE 20's, Pyramid, Montego, Grand Prix, Liggett Select, Eve, and USA brand names, as well as various partner and private label brands. It markets and sells its cigarettes to wholesalers and distributors of tobacco and convenience products, as well as grocery, drug, and convenience store chains. The company also engages in real estate investment business, operates apartment buildings, hotels, and commercial real estate ventures. The company was formerly known as Brooke Group Ltd. and changed its name to Vector Group Ltd. in May 2000. Vector Group Ltd. was founded in 1873 and is headquartered in Miami, Florida.
+fullTimeEmployees§536
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Howard M. Lorber', 'age': 74, 'title': 'President, CEO & Director', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 4290867, 'exercisedValue': 0, 'unexercisedValue': 274383}, {'maxAge': 1, 'name': 'Mr. James Bryant Kirkland III', 'age': 57, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 805742, 'exercisedValue': 0, 'unexercisedValue': 41157}, {'maxAge': 1, 'name': 'Mr. Richard J. Lampen', 'age': 69, 'title': 'Executive VP, COO & Director', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1348551, 'exercisedValue': 0, 'unexercisedValue': 68595}, {'maxAge': 1, 'name': 'Mr. Marc N. Bell', 'age': 62, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 653681, 'exercisedValue': 0, 'unexercisedValue': 27438}, {'maxAge': 1, 'name': 'Mr. Nicholas P. Anson', 'age': 50, 'title': 'President & COO of Liggett Group LLC and Liggett Vector Brands LLC', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1309150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James David Ballard', 'age': 55, 'title': 'Senior VP of Enterprise Efficiency & CTO', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fredrick W. Schmidt III, CPA', 'age': 78, 'title': 'VP & Controller', 'yearBorn': 1945, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0705
+exDividendDate§1701302400
+payoutRatio§0.7207
+fiveYearAvgDividendYield§9.1
+beta§0.999
+priceToSalesTrailing12Months§1.90015
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.28
+pegRatio§0.52
+exchange§NYQ
+quoteType§EQUITY
+shortName§Vector Group Ltd.
+longName§Vector Group Ltd.
+firstTradeDateEpochUtc§560698200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9ad2381d-abb9-35e5-9b3c-d8ebb1a4bb21
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§15.0
+targetMeanPrice§15.5
+targetMedianPrice§15.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.753
+earningsGrowth§0.339
+grossMargins§0.48652
+ebitdaMargins§0.37708
+trailingPegRatio§None

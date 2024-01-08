@@ -1,0 +1,62 @@
+# reload+after+2024-01-21 06:26:55.460690
+address1§4040 Wilson Boulevard, Suite 1000
+city§Arlington
+state§VA
+zip§22203-2120
+country§United States
+phone§703 329 6300
+fax§703 329 9130
+website§https://www.avalonbay.com
+industry§REIT - Residential
+industryKey§reit-residential
+industryDisp§REIT - Residential
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§As of September 30, 2023, the Company owned or held a direct or indirect ownership interest in 296 apartment communities containing 89,240 apartment homes in 12 states and the District of Columbia, of which 17 communities were under development and one community was under redevelopment. The Company is an equity REIT in the business of developing, redeveloping, acquiring and managing apartment communities in leading metropolitan areas in New England, the New York/New Jersey Metro area, the Mid-Atlantic, the Pacific Northwest, and Northern and Southern California, as well as in the Company's expansion regions of Raleigh-Durham and Charlotte, North Carolina, Southeast Florida, Dallas and Austin, Texas, and Denver, Colorado.
+fullTimeEmployees§2859
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Benjamin W. Schall', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 3041962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Kevin P. O'Shea", 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1737883, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean J. Breslin', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1880132, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew H. Birenbaum', 'age': 57, 'title': 'Chief Investment Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1889215, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward M. Schulman', 'age': 60, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1145431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Keri A. Shea', 'age': 53, 'title': 'Senior VP of Finance, Principal Accounting Officer & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Reilley', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt D. Conway', 'age': 63, 'title': 'Senior Vice President of Brand Strategy & Marketing', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Alagno', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald S. Ladell', 'age': 61, 'title': 'Senior Vice President of Development - New Jersey', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§6.6
+dividendYield§0.0361
+exDividendDate§1703721600
+payoutRatio§0.9939
+fiveYearAvgDividendYield§3.32
+beta§0.956
+priceToSalesTrailing12Months§9.561022
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.24
+pegRatio§-3.13
+lastDividendValue§1.65
+lastDividendDate§1703721600
+exchange§NYQ
+quoteType§EQUITY
+shortName§AvalonBay Communities, Inc.
+longName§AvalonBay Communities, Inc.
+firstTradeDateEpochUtc§763396200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bce3759a-7c70-390c-8510-d287ae091718
+messageBoardId§finmb_329141
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§212.0
+targetLowPrice§175.0
+targetMeanPrice§192.84
+targetMedianPrice§194.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§19
+quickRatio§0.703
+earningsGrowth§-0.658
+grossMargins§0.64365
+ebitdaMargins§0.61353
+trailingPegRatio§2.7718

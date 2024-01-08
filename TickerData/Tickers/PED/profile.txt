@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 10:32:12.532410
+address1§Energy Center II
+address2§Suite 210 575 N. Dairy Ashford
+city§Houston
+state§TX
+zip§77079
+country§United States
+phone§713 221 1768
+fax§713 236 8441
+website§https://www.pedevco.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§PEDEVCO Corp., an oil and gas company, focuses on the acquisition, development, and production of oil and natural gas assets in the United States. The company is headquartered in Houston, Texas. PEDEVCO Corp. is a subsidiary of SK Energy LLC.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Simon Gregory Kukes', 'age': 76, 'title': 'CEO & Director', 'yearBorn': 1947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Douglas Schick', 'age': 47, 'title': 'President', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 394150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Anthony Pinkston', 'age': 56, 'title': 'Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 194333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clark R. Moore', 'age': 50, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 385800, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.899
+priceToSalesTrailing12Months§2.357479
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.06
+exchange§ASE
+quoteType§EQUITY
+shortName§Pedevco Corp.
+longName§PEDEVCO Corp.
+firstTradeDateEpochUtc§1051882200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9758d308-e393-38fb-b803-e0dc79d92774
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.25
+targetLowPrice§2.15
+targetMeanPrice§2.2
+targetMedianPrice§2.2
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.519
+earningsGrowth§-0.0
+grossMargins§0.67094004
+ebitdaMargins§0.47526002
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 02:28:46.745333
+address1§526 South Church Street
+city§Charlotte
+state§NC
+zip§28202-1803
+country§United States
+phone§704 382 3853
+website§https://www.duke-energy.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Duke Energy Corporation, together with its subsidiaries, operates as an energy company in the United States. It operates through two segments, Electric Utilities and Infrastructure (EU&I) and Gas Utilities and Infrastructure (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity in the Carolinas, Florida, and the Midwest; and uses coal, hydroelectric, natural gas, oil, solar and wind sources, renewables, and nuclear fuel to generate electricity. This segment also engages in the wholesale of electricity to municipalities, electric cooperative utilities, and load-serving entities. The GU&I segment distributes natural gas to residential, commercial, industrial, and power generation natural gas customers; and invests in pipeline transmission projects, renewable natural gas projects, and natural gas storage facilities. The company was formerly known as Duke Energy Holding Corp. and changed its name to Duke Energy Corporation in April 2006. The company was founded in 1904 and is headquartered in Charlotte, North Carolina.
+fullTimeEmployees§27859
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lynn J. Good', 'age': 63, 'title': 'Chairman, President & CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 5129334, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian D. Savoy', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1587464, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kodwo  Ghartey-Tagoe', 'age': 60, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1463205, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Keith Young', 'age': 65, 'title': 'Executive VP and Chief Strategy & Commercial Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1883822, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julia Smoot Janson J.D.', 'age': 59, 'title': 'Executive VP & CEO of Duke Energy Carolinas', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1874160, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cynthia S. Lee', 'age': 56, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bonnie B. Titone', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Abby  Motsinger', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa M. Feldmeier', 'title': 'VP and Chief Ethics & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oscar  Suris', 'age': 58, 'title': 'Senior VP & Chief Communications Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.06
+dividendYield§0.041199997
+exDividendDate§1700092800
+payoutRatio§0.85410005
+fiveYearAvgDividendYield§4.1
+beta§0.47
+priceToSalesTrailing12Months§2.6415985
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.97
+pegRatio§2.63
+exchange§NYQ
+quoteType§EQUITY
+shortName§Duke Energy Corporation (Holdin
+longName§Duke Energy Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§287ba1fd-2a9f-3c6f-b4a3-3d43e46d3ee9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§120.0
+targetLowPrice§89.0
+targetMeanPrice§100.47
+targetMedianPrice§99.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§0.256
+earningsGrowth§-0.124
+grossMargins§0.46998
+ebitdaMargins§0.44483003
+trailingPegRatio§2.565

@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 18:46:04.256570
+address1§3901 North First Street
+city§San Jose
+state§CA
+zip§95134
+country§United States
+phone§650 564 7820
+website§https://momentus.space
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Momentus Inc., together with its subsidiaries, operates as a commercial space company. The company focuses on providing in-space infrastructure services, including in-space transportation, hosted payloads, and in-orbit services. Its principal and target customers include satellite operators. The company is headquartered in San Jose, California.
+fullTimeEmployees§123
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Charles Rood', 'age': 54, 'title': 'Chairman, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1841779, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Ney', 'age': 64, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 711500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric R. Williams', 'age': 58, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Schwarz', 'age': 51, 'title': 'CTO and Interim Head of Engineering & Operations', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darryl J. John Genovesi', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Kinman', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.837
+priceToSalesTrailing12Months§4.262741
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-9.06
+exchange§NMS
+quoteType§EQUITY
+shortName§Momentus Inc.
+longName§Momentus Inc.
+firstTradeDateEpochUtc§1577975400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ca898aaf-d1db-3b79-bded-bcacc06e99f6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§4.1
+targetMeanPrice§27.05
+targetMedianPrice§27.05
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.446
+grossMargins§0.76807
+ebitdaMargins§0.0
+trailingPegRatio§None

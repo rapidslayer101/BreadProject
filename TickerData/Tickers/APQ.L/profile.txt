@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 16:35:35.687606
+address1§PO Box 142
+address2§Suite 2, Block C Hirzel Court
+city§Saint Peter Port
+zip§GY1 3HT
+country§Guernsey
+website§https://www.apqglobal.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§APQ Global Limited, together with its subsidiaries, engages in the investment activities in Asia, Latin America, Eastern Europe, the Middle East, Africa, and the Channel Islands. The company invests in equities and credit, and government and local currency bonds. The company was incorporated in 2016 and is based in Saint Peter Port, Guernsey.
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Bart Gerard Turtelboom Ph.D.', 'age': 57, 'title': 'CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 116502, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Dominic Soulsby', 'age': 57, 'title': 'Finance Director & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 29077, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1580342400
+payoutRatio§0.0
+beta§-0.051
+priceToSalesTrailing12Months§1.3793151
+currency§GBp
+lastDividendValue§1.5
+lastDividendDate§1580342400
+exchange§LSE
+quoteType§EQUITY
+shortName§APQ GLOBAL LIMITED ORD NPV
+longName§APQ Global Limited
+firstTradeDateEpochUtc§1472194800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9c8fd76e-7ed7-3232-9c70-a3dfc16f4944
+messageBoardId§finmb_379697912
+recommendationKey§none
+quickRatio§9.727
+grossMargins§1.0
+ebitdaMargins§-1.4723101
+trailingPegRatio§None

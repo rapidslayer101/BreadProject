@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 18:45:58.296314
+address1§3800 South Virginia Street
+city§Reno
+state§NV
+zip§89502
+country§United States
+phone§775 335 4600
+fax§775 332 9171
+website§https://www.monarchcasino.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Monarch Casino & Resort, Inc., through its subsidiaries, owns and operates the Atlantis Casino Resort Spa, a hotel and casino in Reno, Nevada. It also owns and operates the Monarch Casino Resort Spa Black Hawk in Black Hawk, Colorado. The company was founded in 1972 and is based in Reno, Nevada.
+fullTimeEmployees§2700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John  Farahi', 'age': 75, 'title': 'Co-Chairman, CEO & Secretary', 'yearBorn': 1948, 'fiscalYear': 2022, 'totalPay': 922391, 'exercisedValue': 7247928, 'unexercisedValue': 18662672}, {'maxAge': 1, 'name': 'Mr. Bahram  Farahi', 'age': 72, 'title': 'Co-Chairman & President', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 303009, 'exercisedValue': 9334117, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edwin S. Koenig', 'age': 55, 'title': 'Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 240952, 'exercisedValue': 237093, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Shriver', 'age': 54, 'title': 'Corporate Vice President of Operations', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Darlyne  Sullivan', 'age': 68, 'title': 'Chief Product & Service Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 208884, 'exercisedValue': 294366, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard L. Cooley', 'age': 76, 'title': 'Vice President of Finance and Treasurer', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 217653, 'exercisedValue': 995900, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0185
+exDividendDate§1701302400
+payoutRatio§1.2698001
+beta§1.679
+priceToSalesTrailing12Months§2.5143888
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.54
+pegRatio§1.1
+exchange§NMS
+quoteType§EQUITY
+shortName§Monarch Casino & Resort, Inc.
+longName§Monarch Casino & Resort, Inc.
+firstTradeDateEpochUtc§744643800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff35d06b-b1ac-3d6a-bcb9-9df0ac23387f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§83.0
+targetLowPrice§65.0
+targetMeanPrice§74.25
+targetMedianPrice§74.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.408
+earningsGrowth§-0.128
+grossMargins§0.65448
+ebitdaMargins§0.32955003
+trailingPegRatio§None

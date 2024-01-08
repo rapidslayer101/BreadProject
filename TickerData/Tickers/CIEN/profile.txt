@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 06:27:50.607228
+address1§7035 Ridge Road
+city§Hanover
+state§MD
+zip§21076
+country§United States
+phone§410 694 5700
+website§https://www.ciena.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§Ciena Corporation provides hardware and software services for delivery of video, data, and voice traffic metro, aggregation, and access communications network worldwide. The company's Networking Platforms segment offers convergence of coherent optical transport, open optical networking, optical transport network switching, IP routing, and switching services. Its products include 6500 Packet-Optical Platform, Waveserver stackable interconnect system, and the 6500 Reconfigurable line system, and the 5400 family of Packet-Optical platforms, as well as 8100 coherent routing platforms; 3000 family of service delivery switches and the 5000 family of service aggregation switches, as well as 8700 Packetwave Platform and 6500 Packet Transport System. This segment also sells operating system software and enhanced software features embedded in each of its products. The company's Blue Planet Automation Software and Services segment provides multi-domain service orchestration, inventory, route optimization and analysis, multi-cloud orchestration, and unified assurance and analytics services. Its Platform Software and Service segment offers MCP domain controller solution, and OneControl unified management system, as well as planning tools. The company's Global Services segment provides maintenance support and training, installation and deployment, and consulting and network design services. Ciena Corporation was incorporated in 1992 and is headquartered in Hanover, Maryland.
+fullTimeEmployees§8313
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Patrick H. Nettles', 'age': 80, 'title': 'Executive Chairman of the Board', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 156000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary B. Smith', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1012200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James E. Moylan Jr.', 'age': 72, 'title': 'Senior VP of Finance & CFO', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 595431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason M. Phipps', 'age': 51, 'title': 'Senior Vice President of Global Customer Engagement', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 535958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David M. Rothenstein', 'age': 55, 'title': 'Senior VP, Chief Strategy Officer & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 527200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen B. Alexander', 'age': 64, 'title': 'CTO & Member of Technology Advisory Council', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 746161, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregg M. Lampf', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheela  Kosaraju', 'title': 'Senior VP, General Counsel, Assistant Secretary & Interim Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Smith', 'title': 'Senior VP of Global Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph R. Cumello', 'age': 51, 'title': 'Senior VP & GM of Blue Planet', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.024
+priceToSalesTrailing12Months§1.532972
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.63
+pegRatio§0.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ciena Corporation
+longName§Ciena Corporation
+firstTradeDateEpochUtc§855325800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fbfbd11c-840f-31e1-a283-d693f6ca452d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§42.5
+targetMeanPrice§58.92
+targetMedianPrice§60.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§2.471
+earningsGrowth§0.612
+grossMargins§0.42832002
+ebitdaMargins§0.12015
+trailingPegRatio§None

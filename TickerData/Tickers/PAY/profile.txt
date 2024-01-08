@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 11:32:06.730143
+address1§11605 North Community House Road
+address2§Suite 300
+city§Charlotte
+state§NC
+zip§28277
+country§United States
+phone§888 440 4826
+website§https://www.paymentus.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Paymentus Holdings, Inc. provides cloud-based bill payment technology and solutions. The company offers electronic bill presentment and payment services, enterprise customer communication, and self-service revenue management to billers and financial institutions through a software-as-a-service technology platform. It serves utility, financial service, insurance, government, telecommunication, and healthcare industries. The company was founded in 2004 and is headquartered in Charlotte, North Carolina.
+fullTimeEmployees§1260
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dushyant  Sharma', 'age': 54, 'title': 'Chairman, President & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 607690, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew A. Gerber Esq.', 'age': 55, 'title': 'General Counsel & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 523739, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gerasimos  Portocalis', 'age': 58, 'title': 'Chief Commercial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 642123, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanjay  Kalra', 'age': 50, 'title': 'Senior VP, CFO & Principal Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.455
+priceToSalesTrailing12Months§3.5842128
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.31
+pegRatio§1.87
+exchange§NYQ
+quoteType§EQUITY
+shortName§Paymentus Holdings, Inc.
+longName§Paymentus Holdings, Inc.
+firstTradeDateEpochUtc§1622035800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c1abfa9d-87a9-3004-9701-8676957f924f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§14.0
+targetMeanPrice§16.93
+targetMedianPrice§17.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§4.06
+grossMargins§0.29902
+ebitdaMargins§0.033940002
+trailingPegRatio§None

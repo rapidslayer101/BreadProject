@@ -1,0 +1,40 @@
+# reload+after+2024-01-19 21:43:28.333648
+address1§433 Plaza Real
+address2§Suite 275
+city§Boca Raton
+state§FL
+zip§33432
+country§United States
+phone§561 709 3034
+website§https://aspisotopes.com
+industry§Chemicals
+sector§Basic Materials
+longBusinessSummary§ASP Isotopes Inc., a pre-commercial stage advanced materials company, focuses on the production, distribution, marketing, and sale of isotopes. It develops Molybdenum-100, a non-radioactive isotope for the medical industry; Carbon-14; and Silicon-28. The company also Uranium-235, an isotope of uranium for carbon-free energy industry. ASP Isotopes Inc. was incorporated in 2021 and is based in Boca Raton, Florida.
+fullTimeEmployees§46
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul Elliot Mann', 'age': 47, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 260000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Ainscow', 'age': 46, 'title': 'Interim Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 133333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hendrik  Strydom B. Sc, M. Sc, Ph.D.', 'age': 63, 'title': 'CTO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 240000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§ASP Isotopes Inc.
+longName§ASP Isotopes Inc.
+firstTradeDateEpochUtc§1668090600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§81408fb7-1080-3fc5-b4e2-327f98c91f41
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.25
+targetLowPrice§3.25
+targetMeanPrice§3.25
+targetMedianPrice§3.25
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.879
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

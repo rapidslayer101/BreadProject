@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 09:35:56.429397
+address1§10 York Road
+address2§Floor M
+city§London
+zip§SE1 7ND
+country§United Kingdom
+phone§44 20 7970 4000
+website§https://www.centaurmedia.com
+industry§Advertising Agencies
+industryKey§advertising-agencies
+industryDisp§Advertising Agencies
+sector§Communication Services
+sectorKey§communication-services
+sectorDisp§Communication Services
+longBusinessSummary§Centaur Media Plc provides business intelligence, learning, and specialist consultancy to professional and commercial markets in the United Kingdom, rest of Europe, North America, and internationally. It operates through two segments, Xeim and The Lawyer. The company's marketing platform includes Econsultancy, Influencer Intelligence, MW Mini MBA, Festival of Marketing, Marketing Week, Design Week, Creative Review, Really B2B, Fashion & Beauty Monitor, Oystercatchers, and Foresight News. It also offers The Lawyer, which provides intelligence to legal market. Centaur Media Plc was incorporated in 2003 and is based in London, the United Kingdom.
+fullTimeEmployees§284
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Swagatam  Mukerji', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 602635, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Longfield', 'age': 57, 'title': 'CFO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 342554, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda  Smith', 'age': 61, 'title': 'Chief Operating Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Baldwin', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judith Mann Selley', 'age': 61, 'title': 'Director of Circulation & Information Services', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacquie  MacKenzie', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Newbold', 'title': 'Group Managing Director of Xeim', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jude  Bridge', 'age': 61, 'title': 'Managing Partner of Oystercatcher', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane Louise Wilkinson', 'age': 58, 'title': 'Managing Director of The Lawyer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne Frances Allison Thompson', 'age': 55, 'title': 'CEO & Founding Partner of Oystercatchers', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.026400002
+exDividendDate§1696464000
+payoutRatio§0.42310002
+fiveYearAvgDividendYield§6.75
+beta§0.87
+priceToSalesTrailing12Months§1.6620029
+currency§GBp
+forwardEps§3.99
+lastDividendValue§0.6
+lastDividendDate§1696464000
+exchange§LSE
+quoteType§EQUITY
+shortName§CENTAUR MEDIA PLC ORD 10P
+longName§Centaur Media Plc
+firstTradeDateEpochUtc§1078905600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0d4de0c3-d27a-3087-95bd-959d0ba05c08
+messageBoardId§finmb_26271
+targetHighPrice§78.0
+targetLowPrice§70.0
+targetMeanPrice§74.0
+targetMedianPrice§74.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.614
+earningsGrowth§1.6
+grossMargins§0.5059
+ebitdaMargins§0.10577
+trailingPegRatio§None

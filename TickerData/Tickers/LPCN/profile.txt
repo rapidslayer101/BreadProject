@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 03:45:50.631347
+address1§675 Arapeen Drive
+address2§Suite 202
+city§Salt Lake City
+state§UT
+zip§84108
+country§United States
+phone§801 994 7383
+fax§801 994 7388
+website§https://www.lipocine.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Lipocine Inc., a clinical-stage biopharmaceutical company, engages in the research and development for the delivery of drugs for the treatment of central nervous system (CNS) disorders. Its lead product candidate is TLANDO, an oral testosterone replacement therapy (TRT) comprising testosterone undecanoate. The company's pipeline candidates also include LPCN 1154 for postpartum depression; LPCN 2101 for women with epilepsy; and LPCN 1148, a novel prodrug of testosterone, testosterone laurate for the management of decompensated cirrhosis. It also develops LPCN 1144, an oral prodrug of androgen receptor modulator for the treatment of non-cirrhotic non-alcoholic steatohepatitis, which has completed Phase II testing; LPCN 1111, an oral TRT product of testosterone tridecanoate for once daily dosing, which has completed Phase II clinical testing; and LPCN 1107, an oral hydroxy progesterone caproate product for the prevention of recurrent preterm birth. Lipocine Inc. was founded in 1997 and is headquartered in Salt Lake City, Utah.
+fullTimeEmployees§17
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Mahesh V. Patel Ph.D.', 'age': 66, 'title': 'Co-Founder, Interim Principal Financial Officer, Director, President & CEO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 598911, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Krista  Fogarty', 'age': 55, 'title': 'Principal Accounting Officer & Corporate Controller', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 268118, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Nachiappan  Chidambaram Ph.D.', 'age': 53, 'title': 'Senior Vice President of Research & Development', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 311168, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Logan  Morse', 'age': 53, 'title': 'Vice President of Sales, Marketing & Operations', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 413580, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Morgan R. Brown CPA, M.B.A.', 'age': 55, 'title': 'Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 472450, 'exercisedValue': 0, 'unexercisedValue': 44790}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.101
+priceToSalesTrailing12Months§-5.009038
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.67
+exchange§NCM
+quoteType§EQUITY
+shortName§Lipocine Inc.
+longName§Lipocine Inc.
+firstTradeDateEpochUtc§1382448600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§137197be-0b23-343c-8f5a-babc45642296
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§33.0
+targetMeanPrice§33.0
+targetMedianPrice§33.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§10.716
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

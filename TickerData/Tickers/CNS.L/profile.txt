@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 23:36:01.846921
+address1§Salisbury House
+address2§29 Finsbury Circus
+city§London
+zip§EC2M 5QQ
+country§United Kingdom
+phone§44 14 9459 0404
+website§https://www.corero.com
+industry§Software - Infrastructure
+industryKey§software-infrastructure
+industryDisp§Software - Infrastructure
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Corero Network Security plc provides distributed denial of service (DDoS) protection solutions worldwide. The company offers Corero SmartWall products to remove DDoS attack traffic. Its products include SmartWall Threat Defense System appliances for DDoS protection; SmartWall Threat Defense Director, which delivers software edge protection for the networks; SmartWall Threat Defense Cloud that protects against the cloud attacks; and SecureWatch Managed Services, a suite of configuration optimization, monitoring, and mitigation response services. The company also provides installation and training services. It provides its solutions to service, hosting, co-location, edge, and SaaS providers, as well as enterprises. The company was formerly known as Corero plc and changed its name to Corero Network Security plc in June 2011. Corero Network Security plc was incorporated in 1991 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§65
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Ashley Stephenson', 'age': 62, 'title': 'CTO & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 423609, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl  Herberger', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Richards', 'age': 38, 'title': 'CFO & Director', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joao  Melo', 'title': 'Executive Vice President of Operations & Customer Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian  Palmer', 'title': 'Executive Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tanya  Alfonso', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duncan J. Swallow', 'age': 58, 'title': 'Company Secretary & Group Financial Controller', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.548
+priceToSalesTrailing12Months§1.8956366
+currency§GBp
+forwardEps§0.04
+exchange§LSE
+quoteType§EQUITY
+shortName§CORERO NETWORK SECURITY PLC ORD
+longName§Corero Network Security plc
+firstTradeDateEpochUtc§846748800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1a283837-bc76-35f9-9498-3aaa610f50eb
+messageBoardId§finmb_728598
+targetHighPrice§14.0
+targetLowPrice§11.0
+targetMeanPrice§12.5
+targetMedianPrice§12.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.342
+grossMargins§0.88413
+ebitdaMargins§0.01045
+trailingPegRatio§None

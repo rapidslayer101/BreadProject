@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 08:47:07.207916
+address1§1201 South Beckham Avenue
+city§Tyler
+state§TX
+zip§75701
+country§United States
+phone§903 531 7111
+website§https://www.southside.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Southside Bancshares, Inc. operates as the bank holding company for Southside Bank that provides a range of financial services to individuals, businesses, municipal entities, and nonprofit organizations. Its deposit products include savings, money market, and interest and noninterest bearing checking accounts, as well as certificates of deposit. The company's loan portfolio comprises consumer loans that include 1-4 family residential loans, home equity loans, home improvement loans, automobile loans, and other consumer related loans; commercial loans, such as short-term working capital loans for inventory and accounts receivable, short and medium-term loans for equipment or other business capital expansion, commercial real estate loans, and municipal loans; and construction loans for 1-4 family residential and commercial real estate. It also offers wealth management and trust services consisting of investment management, administration, revocable and testamentary trusts, and custodian services for individuals, partnerships, and corporations; safe deposit services; and brokerage services. Southside Bancshares, Inc. was founded in 1960 and is headquartered in Tyler, Texas.
+fullTimeEmployees§813
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lee R. Gibson III, CPA', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1278452, 'exercisedValue': 0, 'unexercisedValue': 249060}, {'maxAge': 1, 'name': 'Ms. Julie N. Shamburger CPA', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 700394, 'exercisedValue': 0, 'unexercisedValue': 78074}, {'maxAge': 1, 'name': 'Mr. Brian K. McCabe', 'age': 62, 'title': 'Chief Operations Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 527070, 'exercisedValue': 28599, 'unexercisedValue': 19208}, {'maxAge': 1, 'name': 'Mr. T. L. Arnold Jr.', 'age': 59, 'title': 'Chief Credit Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 498980, 'exercisedValue': 0, 'unexercisedValue': 106261}, {'maxAge': 1, 'name': 'Mr. Timothy F. Alexander', 'age': 66, 'title': 'Chief Lending Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 872257, 'exercisedValue': 0, 'unexercisedValue': 54061}, {'maxAge': 1, 'name': 'Lindsey  Bailes CPA', 'title': 'VP & Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vonna  Crowley', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suni  Davis CPA', 'age': 47, 'title': 'Chief Risk Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anne  Martinez', 'title': 'Executive VP & Senior Loan Review Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandi  Hegwood CPA', 'title': 'Senior VP & Chief Audit Executive', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.0448
+exDividendDate§1700524800
+payoutRatio§0.44689998
+fiveYearAvgDividendYield§3.85
+beta§0.56
+priceToSalesTrailing12Months§3.735652
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.54
+pegRatio§5.36
+exchange§NMS
+quoteType§EQUITY
+shortName§Southside Bancshares, Inc.
+longName§Southside Bancshares, Inc.
+firstTradeDateEpochUtc§895066200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1cee0907-3590-3d1d-8fbb-1dd1a37e1658
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§30.0
+targetMeanPrice§32.45
+targetMedianPrice§31.89
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.285
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

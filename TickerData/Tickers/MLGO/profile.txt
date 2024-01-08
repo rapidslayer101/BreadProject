@@ -1,0 +1,34 @@
+# reload+after+2024-01-22 09:46:03.008616
+address1§Unit 507, Building C
+address2§Taoyuan Street Long Jing High and New Technology Jingu Pioneer Pa Nanshan District
+city§Shenzhen
+zip§518052
+country§China
+phone§86 755 8860 0589
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§MicroAlgo Inc. develops and delivers central processing algorithm solutions to customers in internet advertisement, gaming, and intelligent chip industries in the People's Republic of China and internationally. The company operates through two segments, Central Processing Algorithm Services, and Intelligent Chips and Services. It offers services that includes algorithm optimization, accelerating computing power without the need for hardware upgrades, data processing, and data intelligence services. The company also engages in the resale of intelligent chips and accessories; and provision of software development. MicroAlgo Inc. is headquartered in Shenzhen, the People's Republic of China. MicroAlgo Inc. is a subsidiary of WiMi Hologram Cloud Inc.
+fullTimeEmployees§125
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Min  Shu', 'age': 46, 'title': 'CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li  He', 'age': 37, 'title': 'Chief Financial Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 34460, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shiwen  Liu', 'age': 41, 'title': 'Chief Operating Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 17230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chengwei  Yi', 'age': 47, 'title': 'Chief Technical Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 31588, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.648
+priceToSalesTrailing12Months§0.07896212
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§MicroAlgo, Inc.
+longName§MicroAlgo Inc.
+firstTradeDateEpochUtc§1618320600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2174f011-e97f-37ab-92a3-28a2e4507a68
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§4.258
+grossMargins§0.27037
+ebitdaMargins§-0.06206
+trailingPegRatio§None

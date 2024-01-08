@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 13:36:03.256488
+address1§Capital Tower, 8th Floor
+address2§91 Waterloo Rd, South Bank
+city§London
+zip§SE1 8RT
+country§United Kingdom
+phone§44 33 3090 2587
+website§https://www.crosswordcybersecurity.com
+industry§Software - Infrastructure
+industryKey§software-infrastructure
+industryDisp§Software - Infrastructure
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Crossword Cybersecurity Plc provides cyber security solutions to defence, insurance, investment and retail bank, private equity, education, technology and manufacturing sectors in the United Kingdom and Poland. It's product portfolio includes Rizikon Assurance, an online system that enhance third-party assurance and risk management; Identiproof, a credentials verification wallet technology; Nightingale, a security monitoring service; Trillion, a breached account mining platform that continuously tracks, correlates, and analyses billions of stolen usernames and passwords; and Arc, an account protection for B2C commerce platform owners. The company also offers cyber security consulting services, including cyber maturity assessment and transformation, virtual CISO, ransomware readiness assessment, cybersecurity strategy, penetration testing and vulnerability scanning, third party assurance, and cyber supply chain services. Crossword Cybersecurity Plc was incorporated in 2014 and is based in London, the United Kingdom.
+fullTimeEmployees§63
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Segun Ilube CBE', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 135247, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary Michelle Dowd', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 162216, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Jubb', 'title': 'Group Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ben  Harber', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Harber', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.145
+priceToSalesTrailing12Months§1.4986476
+currency§GBp
+forwardEps§-2.0
+exchange§LSE
+quoteType§EQUITY
+shortName§CROSSWORD CYBERSECURITY PLC ORD
+longName§Crossword Cybersecurity Plc
+firstTradeDateEpochUtc§1545120000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§defc0830-a8f5-340d-b5b1-823179bde580
+messageBoardId§finmb_271427315
+recommendationKey§none
+quickRatio§0.889
+grossMargins§0.25348
+ebitdaMargins§-1.11448
+trailingPegRatio§None

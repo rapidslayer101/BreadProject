@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 05:47:11.314855
+address1§9100 South Hills Boulevard
+address2§Suite 300
+city§Broadview Heights
+state§OH
+zip§44147
+country§United States
+phone§440 262 1410
+website§https://soterahealth.com
+industry§Diagnostics & Research
+sector§Healthcare
+longBusinessSummary§Sotera Health Company provides sterilization, and lab testing and advisory services in the United States, Canada, Europe, and internationally. The company's sterilization services include gamma and electron beam irradiation, and EO processing. It also provides microbiological and analytical chemistry testing, and advisory services. The company serves medical devices; pharmaceuticals; food and agricultural products; and commercial, advanced, and specialty application industries. The company was formerly known as Sotera Health Topco, Inc. and changed its name to Sotera Health Company in October 2020. Sotera Health Company was incorporated in 2015 and is headquartered in Broadview Heights, Ohio.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael B. Petras Jr.', 'age': 54, 'title': 'Chairman & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2197156, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Dimitrief', 'age': 64, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1630638, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Rutz', 'age': 52, 'title': 'President of Sterigenics', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 715732, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan M. Lyons', 'title': 'Senior VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Hauzie', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joseph  Vitale', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin A. Gibbs', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William O. Lehmann Jr., J.D., M.B.A.', 'age': 57, 'title': 'Senior Vice President of Strategy & Corporate Development', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally R. Turner', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen A. Hoffman', 'title': 'Senior Vice President of Global Environmental, Health & Safety', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.216
+priceToSalesTrailing12Months§4.493375
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.88
+pegRatio§1.1
+exchange§NMS
+quoteType§EQUITY
+shortName§Sotera Health Company
+longName§Sotera Health Company
+firstTradeDateEpochUtc§1605882600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4b6a2e03-c62c-3655-a050-31867651b880
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§15.0
+targetMeanPrice§16.5
+targetMedianPrice§15.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.102
+grossMargins§0.54389
+ebitdaMargins§0.45486
+trailingPegRatio§1.0423

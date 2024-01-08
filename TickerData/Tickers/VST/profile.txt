@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 12:34:15.467718
+address1§6555 Sierra Drive
+city§Irving
+state§TX
+zip§75039
+country§United States
+phone§214 812 4600
+website§https://www.vistracorp.com
+industry§Utilities—Independent Power Producers
+sector§Utilities
+longBusinessSummary§Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company. The company operates through six segments: Retail, Texas, East, West, Sunset, and Asset Closure. It retails electricity and natural gas to residential, commercial, and industrial customers across 20 states in the United States and the District of Columbia. In addition, the company is involved in the electricity generation, wholesale energy purchases and sales, commodity risk management, fuel production, and fuel logistics management activities. It serves approximately 3.5 million customers with a generation capacity of approximately 37,000 megawatts with a portfolio of natural gas, nuclear, coal, solar, and battery energy storage facilities. The company was formerly known as Vistra Energy Corp. and changed its name to Vistra Corp. in July 2020. Vistra Corp. was founded in 1882 and is based in Irving, Texas.
+fullTimeEmployees§4910
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James A. Burke', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2498665, 'exercisedValue': 0, 'unexercisedValue': 5252865}, {'maxAge': 1, 'name': 'Mr. Kristopher E. Moldovan', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 868270, 'exercisedValue': 0, 'unexercisedValue': 620293}, {'maxAge': 1, 'name': 'Ms. Stephanie Zapata Moore', 'age': 50, 'title': 'Executive VP, General Counsel & Chief Compliance Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1102985, 'exercisedValue': 0, 'unexercisedValue': 1666195}, {'maxAge': 1, 'name': 'Mr. Stephen J. Muscato', 'age': 52, 'title': 'Executive VP & President of Wholesale Operations & Development', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1452680, 'exercisedValue': 0, 'unexercisedValue': 1551148}, {'maxAge': 1, 'name': 'Mr. Scott A. Hudson', 'age': 59, 'title': 'Executive VP & President of Retail', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1325956, 'exercisedValue': 0, 'unexercisedValue': 1554140}, {'maxAge': 1, 'name': 'Ms. Margaret M. Montemayor', 'age': 45, 'title': 'Senior Vice President, Chief Accounting Officer & Controller', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Farrah', 'title': 'Senior VP & CIO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie Lee Kirby', 'age': 55, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 625913, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meagan  Horn', 'title': 'Vice President of Investor Relations, Sustainability and Purpose', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey H. Dore', 'age': 50, 'title': 'Chief Strategy and Sustainability Officer & Executive VP of Public Affairs', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.85
+dividendYield§0.0221
+exDividendDate§1702944000
+payoutRatio§0.2354
+beta§0.979
+priceToSalesTrailing12Months§0.886187
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.91
+pegRatio§0.07
+exchange§NYQ
+quoteType§EQUITY
+shortName§Vistra Corp.
+longName§Vistra Corp.
+firstTradeDateEpochUtc§1475674200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§06fd0a3e-4ec4-37f0-88ae-b73564a5db5b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§46.0
+targetLowPrice§30.0
+targetMeanPrice§40.6
+targetMedianPrice§42.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.604
+earningsGrowth§-0.172
+grossMargins§0.34188
+ebitdaMargins§0.28722
+trailingPegRatio§None

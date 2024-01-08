@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 23:28:08.573505
+address1§375 Saxonburg Boulevard
+city§Saxonburg
+state§PA
+zip§16056
+country§United States
+phone§724 352 4455
+website§https://www.coherent.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components, and devices worldwide. It operates through two segments: Compound Semiconductors and Photonic Solutions. The Compound Semiconductors segment provides optical and electro-optical components and materials used in CO2 lasers, fiber-lasers, and direct diode lasers for materials processing applications; infrared optical components and high-precision optical assemblies for aerospace and defense, medical, and commercial laser imaging applications; semiconductor lasers and detectors for optical interconnects and sensing applications; engineered materials for thermoelectric, ceramics, and silicon carbide various applications; and compound semiconductor epitaxial wafers for applications in optical and wireless communication. The Photonic Solutions segment manufactures transceivers for data centers and telecom optical networks; pump lasers, optical amplifiers, wavelength selective switches, and advanced components for telecom networks; and crystal materials, optics, lasers, and optoelectronic modules in a range of applications, including optical communications, life sciences, and consumer electronics markets. It serves original equipment manufacturers, laser end users, system integrators of high-power lasers, U.S. government prime contractors, and various U.S. government agencies, as well as manufacturers of equipment and devices for industrial, optical communications, electronics, and instrumentation applications. The company was formerly known as II-VI Incorporated and changed its name to Coherent Corp. in September 2022. Coherent Corp. was incorporated in 1971 and is headquartered in Saxonburg, Pennsylvania.
+fullTimeEmployees§26000
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Vincent D. Mattera Jr., Ph.D.', 'age': 67, 'title': 'Board Chair & CEO', 'yearBorn': 1956, 'fiscalYear': 2023, 'totalPay': 2300631, 'exercisedValue': 0, 'unexercisedValue': 6089020}, {'maxAge': 1, 'name': 'Mr. Walter Robert Bashaw II', 'age': 58, 'title': 'President', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 657021, 'exercisedValue': 0, 'unexercisedValue': 967413}, {'maxAge': 1, 'name': 'Dr. Giovanni  Barbarossa Ph.D.', 'age': 63, 'title': 'President of Materials Segment & Chief Strategy Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 722282, 'exercisedValue': 0, 'unexercisedValue': 542338}, {'maxAge': 1, 'name': 'Ms. Mary Jane Raymond', 'age': 63, 'title': 'Non-Executive Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 711175, 'exercisedValue': 0, 'unexercisedValue': 1333968}, {'maxAge': 1, 'name': 'Dr. Carl J. Johnson', 'age': 81, 'title': 'Co-Founder', 'yearBorn': 1942, 'fiscalYear': 2023, 'totalPay': 119000, 'exercisedValue': 0, 'unexercisedValue': 601529}, {'maxAge': 1, 'name': 'Mr. Richard J. Martucci', 'age': 55, 'title': 'Interim CFO & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ilaria  Mocciaro', 'age': 52, 'title': 'Senior VP, Chief Accounting Officer, Corporate Controller & Principal Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Julie Sheridan Eng', 'age': 56, 'title': 'Chief Technology Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anantha  Ganga', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Jonas Silverstein J.D.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.662
+priceToSalesTrailing12Months§1.2803627
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.69
+pegRatio§-18.55
+exchange§NYQ
+quoteType§EQUITY
+shortName§Coherent Corp.
+longName§Coherent Corp.
+firstTradeDateEpochUtc§560179800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b1972ed4-17f4-36c0-913e-a8a34306382c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§63.0
+targetLowPrice§35.0
+targetMeanPrice§46.29
+targetMedianPrice§45.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§1.604
+grossMargins§0.33965
+ebitdaMargins§0.20416
+trailingPegRatio§None

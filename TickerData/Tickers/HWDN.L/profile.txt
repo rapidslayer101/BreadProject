@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 12:38:16.689715
+address1§105 Wigmore Street
+city§London
+zip§W1U 1QY
+country§United Kingdom
+phone§44 20 7535 1110
+website§https://www.howdenjoinerygroupplc.com
+industry§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+longBusinessSummary§Howden Joinery Group Plc manufactures and distributes various kitchens, joinery, and hardware products in the United Kingdom, France, Ireland, and Belgium. It offers worktops, sinks and taps, flooring, appliances, and handles; internal and external doors, including fire doors, flooring, stair parts, and general joinery items; and cooking, cleaning, and cooling appliances. The company was incorporated in 1987 and is based in London, the United Kingdom.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Livingston', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1778000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Hayes ACA, M.Eng & Man', 'age': 56, 'title': 'CFO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1179000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian  Lee', 'title': 'Operations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Fearon', 'title': 'Director of Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kirsty  Homer', 'title': 'Group HR Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Witts', 'title': 'Chief Operating Officer of Howden Joinery Trade Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Sturdee', 'title': 'Chief Customer Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa  Keating', 'title': 'Group Financial Controller & Finance Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Forbes  McNaughton', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Boyle', 'title': 'Regional Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.21
+dividendYield§0.027
+exDividendDate§1697068800
+payoutRatio§0.3355
+fiveYearAvgDividendYield§2.14
+beta§1.036
+priceToSalesTrailing12Months§1.9135833
+currency§GBp
+forwardEps§49.1
+pegRatio§-3.95
+exchange§LSE
+quoteType§EQUITY
+shortName§HOWDEN JOINERY GROUP PLC ORD 10
+longName§Howden Joinery Group Plc
+firstTradeDateEpochUtc§711270000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3b22f989-b8b3-3398-9b05-01d97cf7279c
+targetHighPrice§990.0
+targetLowPrice§670.0
+targetMeanPrice§798.93
+targetMedianPrice§800.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§15
+quickRatio§0.779
+grossMargins§0.60511
+ebitdaMargins§0.17968
+trailingPegRatio§None

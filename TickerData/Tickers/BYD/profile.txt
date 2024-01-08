@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 01:27:36.837640
+address1§6465 South Rainbow Boulevard
+city§Las Vegas
+state§NV
+zip§89118
+country§United States
+phone§702 792 7200
+website§https://www.boydgaming.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Boyd Gaming Corporation, together with its subsidiaries, operates as a multi-jurisdictional gaming company in Nevada, Illinois, Indiana, Iowa, Kansas, Louisiana, Mississippi, Missouri, Ohio, and Pennsylvania. It operates through three segments: Las Vegas Locals, Downtown Las Vegas, and Midwest & South. The company also engages in owning and operating a travel agency. The company was founded in 1975 and is headquartered in Las Vegas, Nevada.
+fullTimeEmployees§15771
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Keith E. Smith', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 3939209, 'exercisedValue': 9879303, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Hirsberg', 'age': 61, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1625804, 'exercisedValue': 0, 'unexercisedValue': 4060478}, {'maxAge': 1, 'name': 'Mr. Theodore A. Bogich', 'age': 67, 'title': 'Chief Operating Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1335033, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen S. Thompson', 'age': 63, 'title': 'Chief Administrative Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1335033, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marianne Boyd Johnson', 'age': 65, 'title': 'Executive Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori M. Nelson', 'age': 42, 'title': 'Senior VP of Financial Operations & Reporting and Chief Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Uri  Clinton', 'age': 50, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Strow', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher R. Gibase', 'title': 'Chief Marketing Officer & Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William R. Boyd', 'age': 63, 'title': 'VP & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.010299999
+exDividendDate§1703116800
+payoutRatio§0.0928
+fiveYearAvgDividendYield§2.1
+beta§1.686
+priceToSalesTrailing12Months§1.644146
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.18
+pegRatio§1.82
+exchange§NYQ
+quoteType§EQUITY
+shortName§Boyd Gaming Corporation
+longName§Boyd Gaming Corporation
+firstTradeDateEpochUtc§750691800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fa5cc085-9b82-3f10-80fc-4b8254b61ca7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§84.0
+targetLowPrice§66.0
+targetMeanPrice§75.42
+targetMedianPrice§78.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.642
+earningsGrowth§-0.08
+grossMargins§0.69744
+ebitdaMargins§0.34767
+trailingPegRatio§None

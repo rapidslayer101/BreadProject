@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 16:34:11.952868
+address1§225 Wyman St.
+address2§Suite 250
+city§Waltham
+state§MA
+zip§02451
+country§United States
+website§https://jobs.danaher.com/global/en/eas
+industry§Pollution & Treatment Controls
+sector§Industrials
+longBusinessSummary§Veralto Corporation provides water supply services. The company offers water treatment solutions that sources water to the consumers and back into the water cycle. It also provides printers, instruments, software, services, and consumables for color and appearance management, packaging design and quality management, packaging converting, printing, marking and coding, and traceability applications to food and beverage, consumer packaged goods, pharmaceutical, and industrial products. Veralto Corporation was formerly known as DH EAS Holding Corp. and changed its name to Veralto Corporation on February 22, 2023. The company was incorporated in 2022 and is based in Waltham, Massachusetts. Veralto Corporation operates as a subsidiary of Danaher Corporation.
+fullTimeEmployees§16000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Jennifer L. Honeycutt', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sameer  Ralhan', 'age': 49, 'title': 'Senior VP & CFO', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sylvia Ann Stein J.D.', 'age': 57, 'title': 'Senior VP & General Counsel', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lesley  Beneteau', 'age': 50, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mattias  Byström', 'age': 50, 'title': 'Senior Vice President of Product Quality & Innovation', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Aquino', 'age': 52, 'title': 'Senior Vice President of Water Quality', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Surekha  Trivedi', 'age': 48, 'title': 'Senior Vice President of Strategy & Sustainability', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0047
+exDividendDate§1703721600
+payoutRatio§0.0
+priceToSalesTrailing12Months§3.8026671
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.24
+exchange§NYQ
+quoteType§EQUITY
+shortName§Veralto Corp
+longName§Veralto Corporation
+firstTradeDateEpochUtc§1696426200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§afdb2ce9-f7fd-3fad-b977-fc7578f048bc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§92.0
+targetLowPrice§78.0
+targetMeanPrice§83.0
+targetMedianPrice§83.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.201
+earningsGrowth§-0.06
+grossMargins§0.57539004
+ebitdaMargins§0.25035
+trailingPegRatio§None

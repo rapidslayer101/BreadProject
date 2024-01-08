@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 21:40:21.996012
+address1§59/61 High Street
+address2§Hertfordshire
+city§Rickmansworth
+zip§WD3 1RH
+country§United Kingdom
+phone§44 19 2377 5547
+website§https://www.seniorplc.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Senior plc engages in the designing, manufacture, and sale of high-technology components and systems for the principal original equipment producers in the aerospace, defense, land vehicle, and power and energy markets worldwide. It operates in two segments, Aerospace and Flexonics. The company offers aerospace solutions, including fluid conveyance systems that include high and low pressure ducting systems, control bellows, sensors, and assemblies; gas turbine engines, such as precision-machined and fabricated engine components, and fluid systems ducting and control products; and structures comprising precision-machined airframe components and assemblies. It also provides flexonics solutions consisting of land vehicle emission control products, which comprise exhaust gas recycling coolers, fuel mixing and distribution systems, and flexible couplings; and industrial process control products that include flexible hose assemblies and control bellows, fuel cells and heat exchangers, and precision-machined components., as well as engineered expansion joints, dampers and diverters. The company was formerly known as Senior Engineering Group plc and changed its name to Senior plc in 1999. Senior plc was founded in 1836 and is headquartered in Rickmansworth, the United Kingdom.
+fullTimeEmployees§6361
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Squires', 'age': 59, 'title': 'Group CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1388000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bindi Jayantilal Jivraj Foyle', 'age': 50, 'title': 'Group Finance Director & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 941000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gulshen  Patel', 'title': 'Director of Investor Relations and Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Johnston', 'title': 'Group Human Resource Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Sheppard', 'age': 64, 'title': 'Chief Executive of Flexonics Division', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 292115, 'unexercisedValue': 502642}, {'maxAge': 1, 'name': 'Mr. Launie  Fleming', 'title': 'Chief Executive of Aerospace Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Roden', 'title': 'Group HSE & Sustainability Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew John Bodenham', 'title': 'Group Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0091
+exDividendDate§1697068800
+payoutRatio§0.2559
+fiveYearAvgDividendYield§3.54
+beta§1.424
+priceToSalesTrailing12Months§0.8022473
+currency§GBp
+forwardEps§8.88
+pegRatio§0.49
+exchange§LSE
+quoteType§EQUITY
+shortName§SENIOR PLC ORD 10P
+longName§Senior plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§fcc4bf70-eb21-386d-b399-506a46e911d5
+targetHighPrice§250.0
+targetLowPrice§150.0
+targetMeanPrice§200.0
+targetMedianPrice§200.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.698
+earningsGrowth§0.148
+grossMargins§0.16445999
+ebitdaMargins§0.080129996
+trailingPegRatio§None

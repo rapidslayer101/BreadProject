@@ -1,0 +1,38 @@
+# reload+after+2024-01-23 04:27:36.954659
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240256/blackrock-insured-municipal-income-trust-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Municipal Income Quality Trust is a closed-ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in the fixed income markets of the United States. It primarily invests in investment grade municipal bonds exempt from federal income taxes, including the alternative minimum tax. BlackRock Municipal Income Quality Trust was formed on October 31, 2002 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti- Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Kalinoski C.F.A.', 'age': 52, 'title': 'Portfolio Manager', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Maloney C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.63
+dividendYield§0.055
+exDividendDate§1704931200
+payoutRatio§0.65050006
+fiveYearAvgDividendYield§4.68
+beta§0.565
+priceToSalesTrailing12Months§12.989949
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Municipal Income Qual
+longName§BlackRock Municipal Income Quality Trust
+firstTradeDateEpochUtc§1035901800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§92df2631-c71b-33ff-85f7-4615a21adc4b
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.103
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

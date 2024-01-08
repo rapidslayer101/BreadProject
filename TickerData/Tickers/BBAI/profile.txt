@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 04:27:05.712404
+address1§6811 Benjamin Franklin Drive
+address2§Suite 200
+city§Columbia
+state§MD
+zip§21046
+country§United States
+phone§410 312 0885
+website§https://bigbear.ai
+industry§Information Technology Services
+industryKey§information-technology-services
+industryDisp§Information Technology Services
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§BigBear.ai Holdings, Inc. provides artificial intelligence and machine learning for decision support. The company operates through two segments, Cyber & Engineering and Analytics. The Cyber & Engineering segment offers high-end technology and management consulting services. It focuses in the areas of cloud engineering and enterprise IT, cybersecurity, computer network operations and wireless, systems engineering, and strategy and program planning. The Analytics segment provides high-end technology and consulting services. This segment focuses on the areas of big data computing and analytical solutions, including predictive and prescriptive analytics solutions. Its solutions assist customers in aggregating, interpreting, and synthesizing data to enable real-time decision-making capabilities. The company's customers include federal defense and intelligence agencies, manufacturers, third party logistics providers, retailers, healthcare, and life sciences organizations. The company is headquartered in Columbia, Maryland.
+fullTimeEmployees§649
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Amanda  Long', 'age': 37, 'title': 'CEO & Director', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 611647, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Peffer', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 478492, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Norm  Laudermilch', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Ricker', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore  Tanner Jr.', 'title': 'Chief Technology & Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andre  Hentz', 'title': 'Chief Transformation Officer & Chief Administrative Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carolyn  Blankenship', 'age': 60, 'title': 'General Counsel & Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shane  Karp', 'title': 'Vice President of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Greg  Goldwater', 'title': 'Chief Growth Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§3.082
+priceToSalesTrailing12Months§1.9632612
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.26
+exchange§NYQ
+quoteType§EQUITY
+shortName§BigBear.ai, Inc.
+longName§BigBear.ai Holdings, Inc.
+firstTradeDateEpochUtc§1617629400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3f5838d3-283a-3686-bdca-64889a1f83cc
+messageBoardId§finmb_717472454
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.5
+targetLowPrice§2.0
+targetMeanPrice§3.5
+targetMedianPrice§4.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.082
+grossMargins§0.25406998
+ebitdaMargins§-0.1841
+trailingPegRatio§None

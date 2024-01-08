@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 07:43:47.410132
+address1§16000 North Dallas Parkway
+address2§Suite 500
+city§Dallas
+state§TX
+zip§75248
+country§United States
+phone§661 616 3900
+website§https://www.bry.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Berry Corporation, an independent upstream energy company, engages in the development and production of conventional oil reserves in the western United States. It operates through Exploration and Production (E&P), and Well Servicing and Abandonment (CJWS) segments. The E&P segment engages in the development and production of onshore, low geologic risk, and long-lived conventional oil and gas reserves primarily located in California and Utah. CJWS provides wellsite services in California to oil and natural gas production companies with a focus on well servicing, well abandonment services, and water logistics; and offers rig-based and coiled tubing-based well maintenance and workover services, recompletion services, fluid management services, fishing and rental services, and other ancillary oilfield services. The company was founded in 1909 and is headquartered in Dallas, Texas.
+fullTimeEmployees§1372
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Arthur T. Smith', 'age': 67, 'title': 'Executive Chairman', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1551605, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando  Araujo', 'age': 55, 'title': 'Chief Executive Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 949500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle  Hunter J.D.', 'age': 40, 'title': 'President', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1000357, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Helm', 'age': 55, 'title': 'VP, Chief Accounting Officer & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Todd  Crabtree', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jordan D. Scott', 'title': 'VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.97
+dividendYield§0.1408
+exDividendDate§1699920000
+payoutRatio§2.1578999
+fiveYearAvgDividendYield§6.54
+beta§1.89
+priceToSalesTrailing12Months§0.58538544
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.82
+pegRatio§0.77
+exchange§NMS
+quoteType§EQUITY
+shortName§Berry Corporation (bry)
+longName§Berry Corporation
+firstTradeDateEpochUtc§1531920600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fb9bd122-b5fc-39e1-81d7-fff35cfba1ba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§7.0
+targetMeanPrice§9.2
+targetMedianPrice§8.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.545
+grossMargins§0.44342998
+ebitdaMargins§0.2188
+trailingPegRatio§None

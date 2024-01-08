@@ -1,0 +1,52 @@
+# reload+after+2024-01-19 21:45:36.251878
+address1§Wellesley House
+address2§2nd Floor 90 Pitts Bay Road
+city§Pembroke
+zip§HM 08
+country§Bermuda
+website§https://www.jrgh.net
+industry§Insurance—Specialty
+sector§Financial Services
+longBusinessSummary§James River Group Holdings, Ltd., through its subsidiaries, provides specialty insurance and reinsurance services in the United States. It operates through Excess and Surplus Lines, Specialty Admitted Insurance, and Casualty Reinsurance segments. The Excess and Surplus Lines segment underwrites liability and property insurance in all states and the District of Columbia. This segment distributes its insurance policies primarily through wholesale insurance brokers. The Specialty Admitted Insurance segment provides workers' compensation coverage for building trades, healthcare employees, light manufacturing, other light to medium hazard risks, as well as fronting and program business. The Casualty Reinsurance segment offers proportional and working layer casualty reinsurance to third parties and other insurance companies. James River Group Holdings, Ltd. was founded in 2002 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§639
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Frank N. D'Orazio", 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1846937, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah Casey Doran', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1116834, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard John Schmitzer', 'age': 67, 'title': 'President & CEO of Excess and Surplus Lines Segment', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1353512, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel J. Heinlein', 'age': 37, 'title': 'President & CEO of the Casualty Reinsurance Division', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 978938, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett  Shirreffs', 'title': 'Senior VP of Finance, Investments & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Edward Crow', 'age': 59, 'title': 'Principal Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Edward Peach', 'title': 'Group Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeanette L. Miller', 'age': 43, 'title': 'Chief Legal Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela Jenkins Burnett', 'title': 'Group Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James W. Gunson', 'title': 'Chief U.S. Claims Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.0214
+exDividendDate§1701993600
+payoutRatio§0.1527
+fiveYearAvgDividendYield§2.63
+beta§0.205
+priceToSalesTrailing12Months§0.3826803
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.95
+pegRatio§0.66
+exchange§NMS
+quoteType§EQUITY
+shortName§James River Group Holdings, Ltd
+longName§James River Group Holdings, Ltd.
+firstTradeDateEpochUtc§1418394600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§16cdf073-35d9-3f37-90b3-3a3c432487e1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.0
+targetLowPrice§9.5
+targetMeanPrice§17.5
+targetMedianPrice§15.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.526
+grossMargins§0.37888
+ebitdaMargins§0.1336
+trailingPegRatio§None

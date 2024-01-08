@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 18:47:02.414424
+address1§110 East 59th Street
+city§New York
+state§NY
+zip§10022
+country§United States
+phone§212 883 0200
+website§https://www.royaltypharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Royalty Pharma plc operates as a buyer of biopharmaceutical royalties and a funder of innovations in the biopharmaceutical industry in the United States. It is also involved in the identification, evaluation, and acquisition of royalties on various biopharmaceutical therapies. In addition, the company collaborates with innovators from academic institutions, research hospitals and not-for-profits, small and mid-cap biotechnology companies, and pharmaceutical companies. Its portfolio consists of royalties on approximately 35 marketed therapies and 10 development-stage product candidates that address various therapeutic areas, such as rare disease, cancer, neurology, infectious disease, hematology, and diabetes. The company was founded in 1996 and is based in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pablo Gerardo Legorreta', 'age': 59, 'title': 'Founder, Chairman of the Board & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terrance P. Coyne', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'totalPay': 4350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Wingate Lloyd', 'age': 64, 'title': 'Executive VP of Investments & Chief Legal Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 4350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Hite', 'age': 56, 'title': 'Vice Chairman & Executive VP', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 4350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marshall  Urist M.D., Ph.D.', 'title': 'Executive VP and Head of Research & Investments', 'fiscalYear': 2022, 'totalPay': 4350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arthur R. McGivern J.D.', 'title': 'Executive Vice President of Investments & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ashwin  Pai M.D.', 'title': 'Executive Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin  Stafford', 'age': 41, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Schneider', 'title': 'Senior VP & Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. James Folmar Reddoch Ph.D.', 'age': 53, 'title': 'Executive VP of Investments & Chief Scientific Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3395000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0291
+exDividendDate§1700092800
+payoutRatio§2.0256
+beta§0.424
+priceToSalesTrailing12Months§7.0838842
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.95
+pegRatio§2.01
+exchange§NMS
+quoteType§EQUITY
+shortName§Royalty Pharma plc
+longName§Royalty Pharma plc
+firstTradeDateEpochUtc§1592314200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§39335a92-43fb-3820-bdda-2f1c7ffd138d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§37.0
+targetMeanPrice§46.57
+targetMedianPrice§45.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§13.459
+earningsGrowth§-0.507
+grossMargins§0.59298
+ebitdaMargins§0.43743
+trailingPegRatio§None

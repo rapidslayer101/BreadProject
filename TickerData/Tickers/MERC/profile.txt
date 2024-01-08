@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 17:46:00.051836
+address1§700 West Pender Street
+address2§Suite 1120
+city§Vancouver
+state§BC
+zip§V6C 1G8
+country§Canada
+fax§604 684 1094
+website§https://www.mercerint.com
+industry§Paper & Paper Products
+sector§Basic Materials
+longBusinessSummary§Mercer International Inc., together with its subsidiaries, manufactures and sells northern bleached softwood kraft (NBSK) pulp in Europe, the United States, Asia, and internationally. The company operates through two segments, Pulp and Wood Products. It also generates and sells green energy produced from biomass cogeneration power plant to third party utilities. In addition, the company manufactures, distributes, and sells lumber and other wood residuals. Further, it produces NBSK pulp primarily from wood chips, pulp logs, and sawlogs; carbon neutral or green energy using carbon-neutral bio-fuels, such as black liquor and wood waste; and tall oil for use as a chemical additive and green energy source. The company sells its pulp to tissue, specialty paper, and printing and writing paper, and other manufacturers; and lumber products to distributors, construction firms, secondary manufacturers, retail yards, and home centers. Mercer International Inc. was founded in 1968 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§3320
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jimmy S. H. Lee B.Sc.', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1322844, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juan Carlos Bueno', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1357768, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adolf  Koppensteiner', 'age': 61, 'title': 'Chief Operating Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 928957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guy  Arguin', 'age': 58, 'title': 'Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 846357, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard George Short', 'age': 55, 'title': 'CFO & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alistair  Skey', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shahed  Tootoonian', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wolfram  Ridder', 'age': 61, 'title': 'Senior Vice President of Innovation & Government Relations', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 651313, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Merwin', 'age': 49, 'title': 'Senior Vice President of Mass Timber', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Carsten  Merforth', 'age': 56, 'title': 'Chief Operating Officer of Wood Products', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.033299997
+exDividendDate§1702944000
+payoutRatio§0.1571
+fiveYearAvgDividendYield§3.41
+beta§1.506
+priceToSalesTrailing12Months§0.28423965
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.09
+exchange§NMS
+quoteType§EQUITY
+shortName§Mercer International Inc.
+longName§Mercer International Inc.
+firstTradeDateEpochUtc§585408600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§73e87101-4f02-34e0-8731-e05370db5810
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§7.5
+targetMeanPrice§8.63
+targetMedianPrice§8.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.28
+grossMargins§0.088649996
+ebitdaMargins§0.02642
+trailingPegRatio§None

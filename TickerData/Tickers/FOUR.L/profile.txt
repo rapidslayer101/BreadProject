@@ -1,0 +1,58 @@
+# reload+after+2024-01-21 00:35:21.464983
+address1§25 Southampton Buildings
+city§London
+zip§WC2A 1AL
+country§United Kingdom
+phone§44 20 7299 7201
+website§https://investors.4imprint.com
+industry§Advertising Agencies
+industryKey§advertising-agencies
+industryDisp§Advertising Agencies
+sector§Communication Services
+sectorKey§communication-services
+sectorDisp§Communication Services
+longBusinessSummary§4imprint Group plc, together with its subsidiaries, operates as a direct marketer of promotional products in North America, the United Kingdom, and Ireland. The company markets apparel, bags, drinkware, and trade shows, as well as writing, outdoor and leisure, wellness and safety, stationery, auto, home and tool, and technology products under the Crossland, reFresh, and TaskRight brands. 4imprint Group plc was formerly known as Bemrose Corporation Public Limited Company and changed its name to 4imprint Group plc in August 2000. The company was incorporated in 1921 and is based in London, the United Kingdom.
+fullTimeEmployees§1274
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin  Lyons-Tarr', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 843154, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David John Emmott Seekings', 'title': 'CFO, Director & Divisional Finance Director of 4Imprint Direct Marketing', 'fiscalYear': 2022, 'totalPay': 574448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emma  Taylor', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.5
+dividendYield§0.0335
+exDividendDate§1692230400
+payoutRatio§0.4772
+fiveYearAvgDividendYield§2.03
+beta§0.958
+priceToSalesTrailing12Months§1.0215831
+currency§GBp
+forwardEps§2.9
+pegRatio§0.48
+lastDividendValue§50.8
+lastDividendDate§1692230400
+exchange§LSE
+quoteType§EQUITY
+shortName§4IMPRINT GROUP PLC ORD 38 6/13P
+longName§4imprint Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§12362e21-a35d-3cf5-b5b7-8b2b0cf7cd06
+messageBoardId§finmb_877345
+targetHighPrice§69.64
+targetLowPrice§47.91
+targetMeanPrice§61.97
+targetMedianPrice§64.18
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.324
+earningsGrowth§0.481
+grossMargins§0.27856
+ebitdaMargins§0.100810006
+trailingPegRatio§None

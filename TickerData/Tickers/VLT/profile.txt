@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 18:34:11.897858
+address1§1331 Spring Street, NW
+address2§Suite 2500
+city§Atlanta
+state§GA
+zip§30309
+country§United States
+phone§(404) 892-0896
+website§https://www.invesco.com/portal/site/us/investors/closed-end/product-detail?productId=30541
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Invesco High Income Trust II is a closed ended fixed income mutual fund launched by Invesco Ltd. The fund is co-managed by Invesco Advisers, Inc, INVESCO Asset Management (Japan) Limited, INVESCO Asset Management Deutschland GmbH, INVESCO Asset Management Limited, Invesco Hong Kong Limited, INVESCO Senior Secured Management, Inc., and Invesco Canada Ltd. It invests in the fixed income markets. The fund seeks to invest in securities rated between BB and C by Standard and Poor's. It seeks to maintain an average duration of around three to four years for its portfolio. The fund benchmarks the performance of its portfolio against the Barclays U.S. Corporate High Yield 2% Issuer Cap Inde. It was formerly known as Invesco Van Kampen High Income Trust II. Invesco High Income Trust II was formed on April 28, 1989 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Colin D. Meadows', 'age': 52, 'title': 'Principal Executive Officer, President and Interested Trustee', 'yearBorn': 1971, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren S. Hughes C.F.A.', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Roberts CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew M Geryol', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§1.16
+dividendYield§0.1117
+exDividendDate§1705363200
+payoutRatio§1.8075
+fiveYearAvgDividendYield§9.36
+beta§0.806
+priceToSalesTrailing12Months§9.261327
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Invesco High Income Trust II
+longName§Invesco High Income Trust II
+firstTradeDateEpochUtc§609168600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5e855b77-7d2b-3221-baef-85e198cf2c62
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.077
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

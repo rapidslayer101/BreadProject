@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 13:27:32.546538
+address1§1001 Fannin Street
+address2§Suite 2020
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§713 445 3200
+fax§713 658 0943
+website§https://www.blackstoneminerals.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Black Stone Minerals, L.P., together with its subsidiaries, owns and manages oil and natural gas mineral interests. It owns mineral interests in approximately 16.8 million gross acres, nonparticipating royalty interests in 16.8 million gross acres, and overriding royalty interests in 1.8 million gross acres located in 41 states in the United States. Black Stone Minerals, L.P. was founded in 1876 and is based in Houston, Texas.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas L. Carter Jr.', 'age': 71, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 1488528, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn K. Smajstrla', 'age': 52, 'title': 'Chief Accounting Officer & VP of Black Stone Minerals GP LLC', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 644846, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L. Steve Putman J.D.', 'age': 48, 'title': 'Senior VP, General Counsel & Secretary of Black Stone Minerals GP LLC', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 915000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie P. Clark', 'age': 46, 'title': 'Senior Vice President of Land & Commercial of Black Stone Minerals GP L.L.C', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 914610, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Evan M. Kiefer', 'age': 36, 'title': 'Senior VP, CFO & Treasurer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin  Wiggs', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garrett  Gremillion', 'title': 'Vice President of Engineering & Geology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Meaux', 'title': 'Director of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Marc Carroll', 'age': 53, 'title': 'Consultant of Black Stone Minerals Gp L.L.C', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 3919621, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.9
+dividendYield§0.1184
+exDividendDate§1699401600
+payoutRatio§0.9236
+fiveYearAvgDividendYield§10.2
+beta§0.969
+priceToSalesTrailing12Months§6.1033397
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.75
+pegRatio§1.41
+exchange§NYQ
+quoteType§EQUITY
+shortName§Black Stone Minerals, L.P.
+longName§Black Stone Minerals, L.P.
+firstTradeDateEpochUtc§1430400600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f6806bec-f1b0-390e-be21-436f29389533
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§15.0
+targetMeanPrice§17.67
+targetMedianPrice§17.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§4.255
+earningsGrowth§-0.64
+grossMargins§0.87658995
+ebitdaMargins§0.92103
+trailingPegRatio§None

@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 03:41:07.922458
+address1§50 Jermyn Street
+city§London
+zip§SW1Y 6LX
+country§United Kingdom
+website§https://www.watkinjonesplc.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Watkin Jones Plc engages in the development and the management of properties for residential occupation in the United Kingdom. The company operates through four segments: Student Accommodation, Build to Rent, Affordable Homes, and Accommodation Management. It is involved in the development of purpose-built student accommodation, build to rent accommodation, and residential housing property; and management of student accommodation and build to rent property. The company was formerly known as Watkin Jones Limited and changed its name to Watkin Jones Plc in March 2016. Watkin Jones Plc was founded in 1791 and is based in London, the United Kingdom.
+fullTimeEmployees§739
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Sarah  Sergeant', 'age': 49, 'title': 'CFO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 450936, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Pease', 'age': 44, 'title': 'CEO & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Fletcher', 'title': 'Chief Executive Officer of Fresh Property Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerry Anne Watson', 'title': 'Group Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.06
+dividendYield§0.1083
+exDividendDate§1686182400
+payoutRatio§0.72720003
+fiveYearAvgDividendYield§5.56
+beta§1.407
+priceToSalesTrailing12Months§0.40630466
+currency§GBp
+forwardEps§3.75
+exchange§LSE
+quoteType§EQUITY
+shortName§WATKIN JONES PLC ORD 1P
+longName§Watkin Jones Plc
+firstTradeDateEpochUtc§1458720000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8a03f017-6e5e-34bf-af13-ce694efd3133
+targetHighPrice§103.0
+targetLowPrice§45.0
+targetMeanPrice§77.67
+targetMedianPrice§85.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.5
+grossMargins§0.14629
+ebitdaMargins§0.11778
+trailingPegRatio§None

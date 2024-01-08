@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 01:47:42.290944
+address1§300 United Center
+address2§500 Virginia Street, East
+city§Charleston
+state§WV
+zip§25301
+country§United States
+phone§304 424 8716
+website§https://www.ubsi-inc.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§United Bankshares, Inc., a financial holding company, primarily provides commercial and retail banking products and services in the United States. It operates through two segments, Community Banking and Mortgage Banking. The company accepts checking, savings, and time and money market accounts; individual retirement accounts; and demand deposits, statement and special savings, NOW accounts, and interest-bearing checking accounts. Its loan products include commercial loans and leases; construction and real estate loans; personal, student, credit card, commercial, and floor plan loans; and home equity loans. In addition, the company provides credit cards; safe deposit boxes, wire transfers, and other banking products and services; investment and security services; services to correspondent banks, including buying and selling federal funds; automated teller machine services; and internet and telephone banking services. Further, it offers community banking services, such as asset management, real property title insurance, financial planning, mortgage banking, and brokerage services. United Bankshares, Inc. was incorporated in 1982 and is headquartered in Charleston, West Virginia.
+fullTimeEmployees§2803
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard M. Adams Sr.', 'age': 76, 'title': 'Executive Chairman of the Board', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 2350380, 'exercisedValue': 802290, 'unexercisedValue': 1144437}, {'maxAge': 1, 'name': 'Mr. Richard Matthew Adams Jr., M.D.', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1936235, 'exercisedValue': 268176, 'unexercisedValue': 381052}, {'maxAge': 1, 'name': 'Mr. James J. Consagra Jr., CPA', 'age': 62, 'title': 'President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1604578, 'exercisedValue': 268176, 'unexercisedValue': 381052}, {'maxAge': 1, 'name': 'Mr. W. Mark Tatterson', 'age': 48, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1100992, 'exercisedValue': 200528, 'unexercisedValue': 299225}, {'maxAge': 1, 'name': 'Mr. Darren K. Williams', 'age': 51, 'title': 'Executive VP and Chief Information & Risk Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 777464, 'exercisedValue': 54360, 'unexercisedValue': 147544}, {'maxAge': 1, 'name': 'Mr. Ross M. Draber', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Lee Humphrey', 'title': 'Executive VP and Head of Wealth & Investment Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ami Lee Shaver', 'age': 52, 'title': 'Executive VP, Head of Human Resources and Director of Retail Sales & Service', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Bryon Ernest', 'age': 59, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles J. Mildren', 'title': 'Executive VP & Chief Consumer Banking Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.48
+dividendYield§0.0399
+exDividendDate§1701907200
+payoutRatio§0.5035
+fiveYearAvgDividendYield§4.15
+beta§1.069
+priceToSalesTrailing12Months§4.8430185
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.59
+pegRatio§1.67
+exchange§NMS
+quoteType§EQUITY
+shortName§United Bankshares, Inc.
+longName§United Bankshares, Inc.
+firstTradeDateEpochUtc§549811800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a01f2355-ee43-37a0-8fbd-498ceb66463f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.0
+targetLowPrice§30.0
+targetMeanPrice§34.67
+targetMedianPrice§36.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§6
+earningsGrowth§-0.066
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

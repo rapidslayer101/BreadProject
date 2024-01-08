@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 13:43:54.178611
+address1§4 Stamford Plaza
+address2§9th Floor 107 Elm Street
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§203 406 3700
+website§https://www.caratherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cara Therapeutics, Inc., a commercial-stage biopharmaceutical company, focuses on developing and commercializing therapeutics treatment of pruritus in the United States. The company's lead product is KORSUVA (difelikefalin) injection for the treatment of moderate-to-severe pruritus associated with chronic kidney disease (CKD) in adults undergoing hemodialysis. Its product candidate, including Oral KORSUVA (difelikefalin), which has completed Phase II clinical trial to treat pruritus atopic dermatitis and pruritus non-dialysis-dependent chronic kidney disease (NDD-CKD) associated pruritus; and in Phase II clinical trial to treat pruritus chronic liver disease (CLD) primary biliary cholangitis (PBC) and notalgia paresthetica. Cara Therapeutics, Inc. has license agreements with Maruishi Pharmaceutical Co., Ltd to develop, manufacture, and commercialize drug products containing difelikefalin for acute pain and uremic pruritus in Japan; Vifor Fresenius Medical Care Renal Pharma Ltd. and Winhealth Pharma for the co-development and commercialization of KORSUVA injection for the treatment of moderate-to-severe pruritus in adult patients undergoing hemodialysis in China; and Chong Kun Dang Pharmaceutical Corporation to develop, manufacture, and commercialize drug products containing difelikefalin in South Korea. The company was incorporated in 2004 and is based in Stamford, Connecticut.
+fullTimeEmployees§106
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher A. Posner', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1203759, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan D. Maynard', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 511699, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Joana  Goncalves M.D.', 'age': 49, 'title': 'Chief Medical Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 747251, 'exercisedValue': 0, 'unexercisedValue': 4666}, {'maxAge': 1, 'name': 'Dr. Derek T. Chalmers D.Sc., Ph.D.', 'age': 59, 'title': 'Co-Founder & Senior Advisor', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 580931, 'exercisedValue': 0, 'unexercisedValue': 1499180}, {'maxAge': 1, 'name': 'Dr. Frédérique  Menzaghi', 'age': 57, 'title': 'Chief Scientific Officer and Senior VP of R&D', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 826938, 'exercisedValue': 0, 'unexercisedValue': 530500}, {'maxAge': 1, 'name': 'Dr. Iris  Francesconi Ph.D.', 'title': 'Chief Strategy Officer & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott M. Terrillion', 'age': 60, 'title': 'Chief Compliance Officer, General Counsel & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 689629, 'exercisedValue': 0, 'unexercisedValue': 399600}, {'maxAge': 1, 'name': 'Mr. Eric  Vandal', 'title': 'Senior Vice President of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Weinberg R.Ph.', 'title': 'Senior Vice President of Regulatory Affairs & QA', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Murphy', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.657
+priceToSalesTrailing12Months§1.5744858
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.99
+pegRatio§0.0
+exchange§NGM
+quoteType§EQUITY
+shortName§Cara Therapeutics, Inc.
+longName§Cara Therapeutics, Inc.
+firstTradeDateEpochUtc§1391178600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2959e4f9-c48b-308c-8431-9b84f96c60e5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§1.0
+targetMeanPrice§5.93
+targetMedianPrice§6.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§3.683
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

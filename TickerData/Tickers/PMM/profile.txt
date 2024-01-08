@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 13:32:20.443305
+address1§100 Federal Street
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617-292-1000
+fax§617-292-1625
+website§https://www.putnam.com/individual/mutual-funds/closed-end-funds/funds/56-managed-municipal-income-trust
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Putnam Managed Municipal Income Trust is a close-ended fixed income mutual fund launched and managed by Putnam Investment Management LLC. It is co-managed by Putnam Investments Limited. The fund invests in the fixed income markets of the United States. It primarily invests in a diversified portfolio of tax-exempt municipal securities, including high-yield securities that are rated below investment grade. The fund benchmarks the performance of its portfolio against the Barclays Municipal Bond Index. Putnam Managed Municipal Income Trust was formed on February 24, 1989 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Lloyd Reynolds', 'age': 71, 'title': 'President and Interested Trustee', 'yearBorn': 1952, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet C. Smith', 'age': 58, 'title': 'Principal Accounting Officer, Vice President and Assistant Treasurer', 'yearBorn': 1965, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan A. McCormack', 'title': 'Senior Vice President and Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul M. Drury C.F.A., CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Michael Cronin C.F.A., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Brooks', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Thalia M. Meehan C.F.A.', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.29
+dividendYield§0.0468
+exDividendDate§1705968000
+payoutRatio§1.42
+fiveYearAvgDividendYield§5.24
+beta§0.594
+priceToSalesTrailing12Months§14.876461
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Putnam Managed Municipal Income
+longName§Putnam Managed Municipal Income Trust
+firstTradeDateEpochUtc§603729000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§acc2b157-7b30-3d89-abee-dc3987d9a4cb
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.149
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 00:45:32.309679
+address1§321 Arsenal Street
+address2§Suite 301 Building 312
+city§Watertown
+state§MA
+zip§02472
+country§United States
+phone§339 217 0161
+website§https://www.iteostherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Iteos Therapeutics, Inc., a clinical-stage biopharmaceutical company, engages in the discovery and development of immuno-oncology therapeutics for patients. The company's product pipeline includes inupadenant, a small molecule antagonist of the adenosine A2AR antagonists that is in Phase 2 clinical trials; and EOS-448, an antagonist of TIGIT or T-cell immunoreceptor with Ig and ITIM domains, which is in Phase 1/2 clinical trial, as well as used to engage the Fc gamma receptor, or Fc?R to activate dendritic cells, natural killer cells, and macrophages and to promote antibody-dependent cellular cytotoxicity, or ADCC activity. Iteos Therapeutics, Inc. was founded in 2011 and is headquartered in Watertown, Massachusetts.
+fullTimeEmployees§125
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Michel  Detheux Ph.D.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 922383, 'exercisedValue': 0, 'unexercisedValue': 9797156}, {'maxAge': 1, 'name': 'Mr. Matthew A. Call M.B.A.', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 638548, 'exercisedValue': 0, 'unexercisedValue': 3446648}, {'maxAge': 1, 'name': 'Mr. Matthew  Gall', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 628451, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Yvonne  McGrath Ph.D.', 'age': 49, 'title': 'Chief Scientific Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Baker', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adi  Osovsky', 'title': 'VP & Head of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillipe  Brantegem', 'title': 'Vice-President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.145
+priceToSalesTrailing12Months§5.757887
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-5.43
+exchange§NGM
+quoteType§EQUITY
+shortName§iTeos Therapeutics, Inc.
+longName§iTeos Therapeutics, Inc.
+firstTradeDateEpochUtc§1595597400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc26d83f-6905-3b2f-9b33-72f7f481fa2a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§47.0
+targetLowPrice§29.0
+targetMeanPrice§37.4
+targetMedianPrice§34.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§21.448
+grossMargins§1.0
+ebitdaMargins§-1.3712801
+trailingPegRatio§None

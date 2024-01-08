@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 12:46:32.124866
+address1§360 Madison Avenue
+address2§25th Floor
+city§New York
+state§NY
+zip§10017
+country§United States
+phone§212 949 4319
+website§https://www.pavmed.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§PAVmed Inc. operates as a medical device company in the United States. The company's lead products include CarpX, a patented, single-use, disposable, and minimally invasive surgical device for use in the treatment of carpal tunnel syndrome; and EsoCheck, an esophageal cell collection device for the early detection of adenocarcinoma of the esophagus and Barrett's Esophagus (BE); and EsoGuard, a bisulfite-converted next-generation sequencing DNA assay. Its product pipeline also comprises EsoCure, an esophageal ablation device to treat dysplastic BE; PortIO, an implantable intraosseous vascular access device; NextFlo; and Veris cancer care platform. The company was formerly known as PAXmed Inc. and changed its name to PAVmed Inc. in April 2015. PAVmed Inc. was incorporated in 2014 and is headquartered in New York, New York.
+fullTimeEmployees§124
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Lishan  Aklog M.D.', 'age': 57, 'title': 'Chairman & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 945091, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Shaun M. O'Neill M.B.A.", 'age': 41, 'title': 'Executive VP & COO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 447474, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Brian J. deGuzman M.D.', 'age': 58, 'title': 'Executive VP, Chief Technology & Compliance Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 427600, 'exercisedValue': 0, 'unexercisedValue': 198876}, {'maxAge': 1, 'name': 'Dr. Suman M. Verma M.D., Ph.D.', 'title': 'Senior VP of Molecular Genetics & Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Parks', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Adam Gordon', 'age': 49, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Deepika A. Lakhani', 'title': 'Senior VP, Chief Regulatory & Quality Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Victoria T. Lee', 'title': 'Senior VP & Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.863
+priceToSalesTrailing12Months§21.309008
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-6.8
+exchange§NCM
+quoteType§EQUITY
+shortName§PAVmed Inc.
+longName§PAVmed Inc.
+firstTradeDateEpochUtc§1469626200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3968a27c-5afd-3aa0-8a1b-fbd9339258d0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§15.0
+targetMeanPrice§20.63
+targetMedianPrice§18.75
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.569
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

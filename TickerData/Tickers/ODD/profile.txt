@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 04:46:24.315644
+address1§8 Haharash Street
+city§Tel Aviv
+zip§6761304
+country§Israel
+website§https://oddity.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Oddity Tech Ltd. operates as a consumer tech company that builds and scales digital-first brands to disrupt beauty and wellness industries. The company serves consumers worldwide through its AI-driven online platform, deploying data science to identify consumer needs, and developing solutions in the form of beauty and wellness products. It owns IL MAKIAGE and SpoiledChild brands. The company was incorporated in 2013 and is headquartered in Tel Aviv, Israel with additional office in New York, New York.
+fullTimeEmployees§265
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Oran  Holtzman', 'age': 39, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shiran  Holtzman-Erel', 'age': 35, 'title': 'Co-Founder, Chief Product Officer & Director', 'yearBorn': 1988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsay Drucker Mann', 'age': 42, 'title': 'Global Chief Financial Officer', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Niv  Price', 'age': 49, 'title': 'Chief Technology Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Truppman', 'age': 37, 'title': 'Chief Legal Officer', 'yearBorn': 1986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gil  Efrati', 'title': 'Chief Executive Officer of SpoiledChild', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§5.064707
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.55
+pegRatio§0.65
+exchange§NGM
+quoteType§EQUITY
+shortName§ODDITY Tech Ltd.
+longName§Oddity Tech Ltd.
+firstTradeDateEpochUtc§1689773400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§57a1355d-5527-3554-98c7-cc08ba70bf94
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§66.0
+targetLowPrice§34.0
+targetMeanPrice§47.43
+targetMedianPrice§48.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.726
+earningsGrowth§0.2
+grossMargins§0.6992
+ebitdaMargins§0.19826001
+trailingPegRatio§None

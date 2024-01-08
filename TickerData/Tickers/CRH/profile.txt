@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 12:28:11.598649
+address1§Stonemason’s Way
+address2§Rathfarnham
+city§Dublin
+zip§D16 KH51
+country§Ireland
+phone§353 1 404 1000
+website§https://www.crh.com
+industry§Building Materials
+sector§Basic Materials
+longBusinessSummary§CRH plc, through its subsidiaries, manufactures and distributes building materials in Ireland and internationally. It operates through three segments: Americas Materials, Europe Materials, and Building Products. The company manufactures and supplies cement, lime, aggregates, precast, ready mixed concrete, and asphalt products; concrete masonry and hardscape products comprising pavers, kerbs, retaining walls, and related patio products; It also offers precast concrete and polymer-based products, such as underground vaults, drainage pipes and structures, utility enclosures, and modular precast structures to the water, energy, communication, transportation, and building structures markets; and construction accessories, such as engineered anchoring, fixing, and connection solutions, as well as lifting systems, formwork accessories, and other accessories used in construction applications. In addition, the company offers network access products, which include composite access chambers, covers, passive safety systems, retention sockets, sealants, and meter boxes; and paving and construction services. Further, it provides building and civil engineering contracting, contract surfacing, operates logistics and owned railway infrastructure; sells and distributes cement; and supplies access chambers and ducting products. CRH plc was founded in 1936 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§75800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Albert Jude Manifold FCPA, MBA, MBS', 'age': 60, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 5757378, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Mintern', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2676551, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randy  Lake', 'age': 57, 'title': 'Chief Operating Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Holmes', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabel  Foley', 'title': 'Group General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Feury Jr.', 'age': 60, 'title': 'Chief Culture & People Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott W. Parson', 'title': 'President of Mountain West Division & Senior VP of Americas Materials West', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Noel  O'Mahony", 'title': 'Group Performance & Strategy Director and Senior VP', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Frank  Heisterkamp', 'title': 'Director of Capital Markets & ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Dillon', 'title': 'President of Europe Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.33
+dividendYield§0.0199
+exDividendDate§1702512000
+payoutRatio§0.32990003
+fiveYearAvgDividendYield§2.57
+beta§1.347
+priceToSalesTrailing12Months§1.3972338
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.92
+pegRatio§1.08
+exchange§NYQ
+quoteType§EQUITY
+shortName§CRH PLC
+longName§CRH plc
+firstTradeDateEpochUtc§616339800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§049b9371-7844-3aa1-92eb-ae6b311b3636
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§90.0
+targetLowPrice§58.0
+targetMeanPrice§74.37
+targetMedianPrice§75.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.955
+earningsGrowth§-0.422
+grossMargins§0.33682
+ebitdaMargins§0.17601
+trailingPegRatio§2.2137

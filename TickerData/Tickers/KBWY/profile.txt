@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 23:45:38.113493
+longBusinessSummary§The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is a modified-dividend yield-weighted index of domestic equity real estate investment trusts ("REITs") of small- and mid-capitalization, as determined by the index provider. The underlying index is designed to track the performance of small- and mid-capitalization domestic equity REITs that have competitive dividend yields and are publicly-traded in the U.S.
+maxAge§86400
+priceHint§2
+yield§0.079
+totalAssets§238758144
+navPrice§19.75
+currency§USD
+category§Real Estate
+ytdReturn§-0.022299299
+beta3Year§1.23
+fundFamily§Invesco
+fundInceptionDate§1291248000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0606118
+fiveYearAverageReturn§0.0024649
+exchange§NGM
+quoteType§ETF
+shortName§Invesco KBW Premium Yield Equit
+longName§Invesco KBW Premium Yield Equity REIT ETF
+firstTradeDateEpochUtc§1291300200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ebf4b33a-72e6-3a28-96fc-8ae851740b92
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

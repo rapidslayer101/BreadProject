@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 17:32:33.245545
+address1§1 Angel Court
+city§London
+zip§EC2R 7AG
+country§United Kingdom
+phone§44 20 7220 7588
+website§https://www.prudentialplc.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§Prudential plc, through its subsidiaries, provides life and health insurance, and retirement and asset management solutions to individuals in Asia, and Africa. It offers health and protection, as well as non- participating savings products, such as protection and investment-linked products. The company also provides insurance against common critical illnesses; property and casualty; and tropical disease protection, such as dengue, malaria, and measles. The company was founded in 1848 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§14671
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anil  Wadhwani', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Bulmer', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rebecca  Wyatt', 'title': 'Director of Group Financial Accounting & Reporting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Bowes', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Avnish  Kalra C.A.', 'title': 'Chief Risk & Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine  Chia', 'title': 'Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen  Thai', 'title': 'Chief Representative of Myanmar Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ciaran  Mulligan', 'title': 'Head of Manager Oversight for Portfolio Management Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Wong', 'title': 'Chief Health Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marcia Lynn Wadsten F.S.A.', 'age': 56, 'title': 'Chief Financial Officer of Jackson Holdings LLC', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§1
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+dividendRate§0.39
+dividendYield§0.0183
+exDividendDate§1694044800
+payoutRatio§0.1489
+fiveYearAvgDividendYield§1.99
+beta§1.293
+priceToSalesTrailing12Months§-5.756342
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§Prudential Public Limited Compa
+longName§Prudential plc
+firstTradeDateEpochUtc§962285400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0eafb3d4-5c84-3f0f-8f96-fb924523152a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.18
+targetLowPrice§30.18
+targetMeanPrice§30.18
+targetMedianPrice§30.18
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.075
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§0.2963

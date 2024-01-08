@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 09:45:34.737808
+address1§Waterloo Exchange
+address2§Fifth Floor Waterloo Road
+city§Dublin
+zip§4
+country§Ireland
+phone§353 1 634 7800
+website§https://www.jazzpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Jazz Pharmaceuticals plc, a biopharmaceutical company, identifies, develops, and commercializes pharmaceutical products for unmet medical needs in the United States, Europe, and internationally. The company has a portfolio of products and product candidates with a focus in the areas of neuroscience, including sleep medicine and movement disorders; and in oncology, such as hematologic and solid tumors. Its lead marketed products in neuroscience include Xywav, an oral solution for the treatment of cataplexy or excessive daytime sleepiness (EDS) in patients with narcolepsy and idiopathic hypersomnia (IH); Xyrem, a sodium oxybate oral solution for the treatment of cataplexy or EDS in patients with narcolepsy seven years of age and older; and Epidiolex, a cannabidiol oral solution for the treatment of seizures associated with Lennox-Gastaut syndrome, Dravet syndrome, or tuberous sclerosis complex in patients one year of age or older. The company's lead marketed products in oncology comprise Zepzelca for the treatment of adult patients with metastatic small cell lung cancer; Rylaze, a product for use as a component of a multi-agent chemotherapeutic regimen for the treatment of acute lymphoblastic leukemia or lymphoblastic lymphoma in adults and pediatric patients aged one month or older who has developed hypersensitivity to E. coli-derived asparaginase; Vyxeos, a liposome for injection, a product for the treatment of adults with newly-diagnosed therapy-related acute myeloid leukemia; and Defitelio for the treatment of adult and pediatric patients with hepatic veno-occlusive disease with renal or pulmonary dysfunction following hematopoietic stem cell transplantation. It has licensing and collaboration agreements with Zymeworks Inc.; Sumitomo Pharma Co., Ltd; Werewolf Therapeutics, Inc.; Codiak BioSciences, Inc.; Ligand Pharmaceuticals Incorporated; XL-protein GmbH; and Redx Pharma plc. The company was incorporated in 2003 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§2800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bruce C. Cozadd', 'age': 59, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2451975, 'exercisedValue': 13656638, 'unexercisedValue': 13075796}, {'maxAge': 1, 'name': 'Ms. Renee D. Gala', 'age': 51, 'title': 'President & COO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1134021, 'exercisedValue': 0, 'unexercisedValue': 1422556}, {'maxAge': 1, 'name': 'Mr. Daniel N. Swisher Jr.', 'age': 60, 'title': 'Non-Executive Employee', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1468207, 'exercisedValue': 0, 'unexercisedValue': 1550032}, {'maxAge': 1, 'name': 'Dr. Robert  Iannone M.D.', 'age': 56, 'title': 'Executive VP and Global Head of Research & Development', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1078463, 'exercisedValue': 0, 'unexercisedValue': 1490041}, {'maxAge': 1, 'name': 'Ms. Patricia  Carr', 'age': 52, 'title': 'Senior VP, CFO, & Chief Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea N. Flynn Ph.D.', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Neena M. Patil J.D.', 'age': 47, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 331606, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. George Christopher Eliades Ph.D.', 'age': 52, 'title': 'Senior VP of Corporate Development & Chief Transformation Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heidi  Manna', 'age': 52, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jed  Black M.D.', 'title': 'Senior Vice President of Sleep & CNS Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.608
+priceToSalesTrailing12Months§2.1171508
+currency§USD
+dateShortInterest§1702598400
+forwardEps§19.63
+pegRatio§0.66
+exchange§NMS
+quoteType§EQUITY
+shortName§Jazz Pharmaceuticals plc
+longName§Jazz Pharmaceuticals plc
+firstTradeDateEpochUtc§1180704600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f94e4ce5-31cc-3ee5-a798-7a51cf96cf30
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§240.0
+targetLowPrice§135.0
+targetMeanPrice§188.39
+targetMedianPrice§189.5
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§1.411
+grossMargins§0.91925
+ebitdaMargins§0.43588
+trailingPegRatio§95.3876

@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 08:46:08.721561
+address1§18390 NE 68th Street
+city§Redmond
+state§WA
+zip§98052
+country§United States
+phone§425 936 6847
+website§https://www.microvision.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§MicroVision, Inc. develops and sells lidar sensors used in automotive safety and autonomous driving applications. Its laser beam scanning technology is based on micro-electrical mechanical systems (MEMS), laser diodes, opto-mechanics, electronics, algorithms, and software. The company also develops micro-display concepts and designs for head-mounted augmented reality (AR) headsets, as well as 1440i MEMS module supporting AR headsets; interactive display solutions for the smart speakers market; and Consumer Lidar used in smart home systems. In addition, it develops 1st Generation LRL module. The company sells its products primarily to original equipment manufacturers and original design manufacturers. MicroVision, Inc. was founded in 1993 and is headquartered in Redmond, Washington.
+fullTimeEmployees§350
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sumit  Sharma', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 309000, 'exercisedValue': 0, 'unexercisedValue': 394900}, {'maxAge': 1, 'name': 'Mr. Anubhav  Verma', 'age': 38, 'title': 'VP, CFO & Treasurer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 400000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Drew G. Markham', 'age': 55, 'title': 'VP of People Operations, Secretary & General Counsel', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 381150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Edward Johnston', 'age': 54, 'title': 'Controller', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lindsey L. Stibbard', 'title': 'Paralegal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§3.16
+priceToSalesTrailing12Months§234.18109
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.36
+pegRatio§-0.68
+exchange§NGM
+quoteType§EQUITY
+shortName§Microvision, Inc.
+longName§MicroVision, Inc.
+firstTradeDateEpochUtc§841152600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d916734b-aeb8-3ae8-9eef-13dab8d4cab0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§3.274
+grossMargins§0.11816
+ebitdaMargins§0.0
+trailingPegRatio§None

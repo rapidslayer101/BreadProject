@@ -1,0 +1,59 @@
+# reload+after+2024-01-20 18:35:38.248415
+address1§1 Francis Crick Avenue
+address2§Cambridge Biomedical Campus
+city§Cambridge
+zip§CB2 0AA
+country§United Kingdom
+phone§44 20 3749 5000
+website§https://www.astrazeneca.com
+industry§Drug Manufacturers - General
+industryKey§drug-manufacturers-general
+industryDisp§Drug Manufacturers - General
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, andcommercialization of prescription medicines. The company's marketed products include Calquence, Enhertu, Faslodex, Imfinzi, Iressa, Koselugo, Lumoxiti, Lynparza, Orpathys, Tagrisso, and Zoladex for oncology; Andexxa/Ondexxya, Atacand, Atacand HCT, Atacand Plus, Brilinta/Brilique, Bydureon/Byetta, BCise, Byetta, Crestor, Evrenzo, Farxiga/Forxiga, Komboglyze/Kombiglyze XR, Lokelma, Onglyza, Qtern, Xigduo/Xigduo, and Zestril XR for cardiovascular, renal, and metabolism diseases; Accolate, Accoleit, Vanticon, Bevespi Aerosphere, Breztri Aerosphere, Bricanyl Respules and Turbuhaler, Daliresp/Daxas, Duaklir Genuair, Fasenra, Pulmicort, Rhinocort, Saphnelo, Symbicort, and Tezspire for respiratory and immunology; and Kanuma, Soliris, Strensiq, and Ultomiris for rare diseases. Its marketed products also comprise Synagis for respiratory syncytial virus; Fluenz Tetra/FluMist Quadrivalent for Influenza; and Vaxzevria and Evusheld for covid-19. The company serves primary care and specialty care physicians through distributors and local representative offices in the United Kingdom, rest of Europe, the Americas, Asia, Africa, and Australasia. It has a collaboration agreement with Neurimmune AG to develop and commercialize NI006; and Personalis, Inc, as well as research collaboration with Sernova Corp. to evaluate novel potential therapeutic cell applications; and collaboration with Cholesgen (Shanghai) Co.Ltd. to advance research and development in hypercholesterolemia and related metabolic diseases, as well as a collaboration with BioCity Biopharma to evaluate a monoclonal antibody for the treatment of advanced hepatocellular carcinoma and a collaboration agreement with Cellectis. The company was formerly known as Zeneca Group PLC and changed its name to AstraZeneca PLC in April 1999. AstraZeneca PLC was incorporated in 1992 and is headquartered in Cambridge, the United Kingdom.
+fullTimeEmployees§83500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pascal  Soriot D.V.M., M.B.A.', 'age': 64, 'title': 'CEO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 4780000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Aradhana  Sarin M.D.', 'age': 48, 'title': 'CFO & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 2735000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pam P. Cheng', 'age': 52, 'title': 'EVP of Global opt. & IT, Chief Sust. Officer and Member of External Sust.Adv. Board', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew P. Barnett', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Pott', 'title': 'CHRO, Chief Compliance Officer, General Counsel & Member of External Sustainability Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gonzalo  Vina', 'title': 'Head of Global Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Menelas Nicolas  Pangalos Ph.D.', 'age': 55, 'title': 'EVP of BioPharmaceuticals R&D and Member of External Sustainability Advisory Board', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ruud  Dobber Ph.D.', 'title': 'Executive Vice-President of BioPharmaceuticals Business Unit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Susan Mary Galbraith M.D., Ph.D.', 'age': 57, 'title': 'Executive Vice President of Oncology Research & Development', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leon  Wang', 'title': 'Executive VP of International & China President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.35
+dividendYield§0.0218
+exDividendDate§1691625600
+payoutRatio§0.76089996
+fiveYearAvgDividendYield§2.56
+beta§0.159
+priceToSalesTrailing12Months§3.7064102
+currency§GBp
+forwardEps§6.57
+pegRatio§2.61
+lastDividendValue§71.8
+lastDividendDate§1691625600
+exchange§LSE
+quoteType§EQUITY
+shortName§ASTRAZENECA PLC ORD SHS $0.25
+longName§AstraZeneca PLC
+firstTradeDateEpochUtc§737967600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§27544b2d-307c-3184-8717-9e464471fcc0
+messageBoardId§finmb_336774
+targetHighPrice§170.14
+targetLowPrice§65.22
+targetMeanPrice§127.08
+targetMedianPrice§124.87
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§0.599
+earningsGrowth§-0.162
+grossMargins§0.89169997
+ebitdaMargins§0.41574
+trailingPegRatio§0.5294

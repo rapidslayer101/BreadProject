@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 19:46:47.223059
+address1§650 Madison Avenue
+address2§23rd Floor
+city§New York
+state§NY
+zip§10022
+country§United States
+phone§212 891 2880
+fax§646 768 1698
+website§https://www.portmanridge.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Portman Ridge Finance Corporation is a business development company specializing in investments in unitranche loans (including last out), first lien loans, second lien loans, subordinated debt, equity co-investment, mezzanine, buyout in middle market companies. It also makes acquisitions in businesses complementary to the firm's business. It primarily invests in healthcare, cargo transport, manufacturing, industrial & environmental services, logistics & distribution, media & telecommunications, real estate, education, automotive, agriculture, aerospace/defense, packaging, electronics, finance, non-durable consumer, consumer products, business services, utilities, insurance, and food and beverage sectors. The fund typically invests $1 million to $20 million in its portfolio companies. It provides senior secured term loans from $2 million to $20 million maturing in five to seven years; second lien term loans from $5 million to $15 million maturing in six to eight years; senior unsecured loans $5 million to $23 million maturing in six to eight years; mezzanine loans from $5 million to $15 million maturing in seven to ten years; and equity investments from $1 to $5 million. The fund targets the companies with EBITDA between $5 million and $25 million. While investing in debt securities, it invests in those middle market firms with EBITDA between $10 million and $50 million and/or total debt between $25 million and $150 million. It invests in minority, and majority or control equity positions alongside its private equity sponsor partners.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward Joseph Goldthorpe', 'age': 46, 'title': 'Chairman, CEO & President', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason T. Roos', 'age': 45, 'title': 'CFO, Secretary & Treasurer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Schafer', 'age': 38, 'title': 'Chief Investment Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Isaac Held J.D.', 'age': 52, 'title': 'Chief Compliance Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.76
+dividendYield§0.1496
+exDividendDate§1700179200
+payoutRatio§10.7826
+fiveYearAvgDividendYield§13.74
+beta§0.927
+priceToSalesTrailing12Months§2.2593908
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.01
+pegRatio§0.37
+exchange§NMS
+quoteType§EQUITY
+shortName§Portman Ridge Finance Corporati
+longName§Portman Ridge Finance Corporation
+firstTradeDateEpochUtc§1165933800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7099b8cb-1222-3d44-9184-17d4b77554f8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§20.0
+targetMeanPrice§21.5
+targetMedianPrice§20.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.961
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

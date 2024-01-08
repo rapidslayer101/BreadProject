@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 07:27:14.013647
+address1§1600 District Avenue
+city§Burlington
+state§MA
+zip§01803
+country§United States
+phone§781 557 4800
+website§https://www.butterflynetwork.com
+industry§Medical Devices
+industryKey§medical-devices
+industryDisp§Medical Devices
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Butterfly Network, Inc. develops, manufactures, and commercializes ultrasound imaging solutions in the United States and internationally. It offers Butterfly iQ, a handheld and single-probe whole body ultrasound system; Butterfly iQ+, a point-of-care ultrasound imaging device that connects with a smartphone, tablet, and hospital computer system; and Butterfly Blueprint, a system-wide ultrasound platform with Compass software that integrates into a healthcare system's clinical and administrative infrastructure. The company also provides Butterfly system, which includes probes, and related accessories and software subscriptions to healthcare systems, physicians, and healthcare providers through a direct sales force, distributors, and eCommerce channel. In addition, it offers cloud-based software solutions to healthcare systems, teleguidance, in-app educational tutorials, and formal education programs through its Butterfly Academy software, as well as clinical support and services. Butterfly Network, Inc. was founded in 2011 and is headquartered in Burlington, Massachusetts.
+fullTimeEmployees§330
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jonathan M. Rothberg Ph.D.', 'age': 59, 'title': 'Founder & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 67500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather C. Getz CPA, M.B.A.', 'age': 48, 'title': 'Executive VP, CFO & COO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 974028, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Andrei G. Stoica Ph.D.', 'age': 50, 'title': 'Chief Technology Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 993631, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph M. DeVivo', 'age': 56, 'title': 'CEO, President & Chairman of the Board', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David H. Ramsey', 'age': 53, 'title': 'Chief Information Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darius  Shahida', 'age': 31, 'title': 'Chief Strategy Officer & Chief Business Development Officer', 'yearBorn': 1992, 'fiscalYear': 2022, 'totalPay': 1630000, 'exercisedValue': 0, 'unexercisedValue': 1280076}, {'maxAge': 1, 'name': 'Dr. John  Martin F.A.C.S., M.B.A., M.D.', 'age': 64, 'title': 'Chief Medical Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John S. Soto', 'age': 59, 'title': 'Senior Vice President of International Sales', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.964
+priceToSalesTrailing12Months§3.059886
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.51
+exchange§NYQ
+quoteType§EQUITY
+shortName§Butterfly Network, Inc.
+longName§Butterfly Network, Inc.
+firstTradeDateEpochUtc§1594647000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5f9449d1-1162-3804-a742-88e2f8b5fb0e
+messageBoardId§finmb_275830634
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.75
+targetLowPrice§1.25
+targetMeanPrice§2.67
+targetMedianPrice§3.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.608
+grossMargins§0.5697
+ebitdaMargins§-1.78278
+trailingPegRatio§None

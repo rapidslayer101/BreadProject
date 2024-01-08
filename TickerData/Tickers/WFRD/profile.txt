@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 01:47:58.568775
+address1§2000 St. James Place
+city§Houston
+state§TX
+zip§77056
+country§United States
+phone§713 836 4000
+website§https://www.weatherford.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention. It offers artificial lift systems, including reciprocating rod, progressing cavity pumping, gas, hydraulic, plunger, and hybrid lift systems, as well as related automation and control systems; pressure pumping and reservoir stimulation services, such as acidizing, fracturing, cementing, and coiled-tubing intervention; and software, automation and flow measurement solutions. The company also provides safety, downhole reservoir monitoring, flow control, and multistage fracturing systems, as well as sand-control technologies, and production and isolation packers; liner hangers to suspend a casing string in high-temperature and high-pressure wells; cementing products, including plugs, float and stage equipment, and torque-and-drag reduction technology for zonal isolation; and pre-job planning and installation services. In addition, it offers directional drilling services, and logging and measurement services while drilling; services related to rotary-steerable systems, high temperature and high pressure sensors, drilling reamers, and circulation subs; rotating control devices and advanced automated control systems, as well as closed loop drilling, air drilling, managed-pressure drilling, and underbalanced drilling services; open-hole and cased-hole logging services; and intervention and remediation services. Further, it provides tubular handling, management, and connection services; and re-entry, fishing, and well abandonment services, as well as patented bottom hole, tubular-handling equipment, pressure-control equipment, and drill pipe and collars. The company was incorporated in 1972 and is based in Houston, Texas.
+fullTimeEmployees§18000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Girishchandra K. Saligram', 'age': 51, 'title': 'President, CEO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 5700628, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Desmond J. Mills', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 812184, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott C. Weatherholt', 'age': 45, 'title': 'Executive VP, General Counsel & Chief Compliance Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1928932, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph H. Mongrain', 'age': 64, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 864710, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles W. Davison Jr.', 'age': 54, 'title': 'Executive VP and Chief Fulfillment & Enterprise Infrastructure Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 667885, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arunava  Mitra', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mohammed  Topiwala', 'title': 'Director of Investor Relations and M&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kelley  Hughes', 'title': 'Director of Global Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christine M. Morrison', 'title': 'VP, Deputy General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.876
+priceToSalesTrailing12Months§1.3736118
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.64
+pegRatio§0.16
+exchange§NMS
+quoteType§EQUITY
+shortName§Weatherford International plc
+longName§Weatherford International plc
+firstTradeDateEpochUtc§1609770600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§972544da-16ff-394c-8347-aae4a35706f8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§135.0
+targetLowPrice§113.0
+targetMeanPrice§122.71
+targetMedianPrice§122.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.246
+earningsGrowth§3.256
+grossMargins§0.33782002
+ebitdaMargins§0.22541
+trailingPegRatio§0.2343

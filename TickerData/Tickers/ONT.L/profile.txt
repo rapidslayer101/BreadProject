@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 20:40:01.902851
+address1§Gosling Building
+address2§Edmund Halley Road Oxford Science Park
+city§Oxford
+zip§OX4 4DQ
+country§United Kingdom
+phone§44 84 5034 7900
+fax§44 84 5034 7901
+website§https://nanoporetech.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Oxford Nanopore Technologies plc engages in the research, development, manufacture, and commercialization of a nanopore based sequencing platform that allows the real-time analysis of deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) in the Americas, Europe, the Middle East, Africa, India, and the Asia Pacific. The company operates in Life Science Research Tools and Covid Testing segments. It offers MinION, a portable device for DNA and RNA; GridION, a flexible and self-contained benchtop nanopore sequencer to run and analyse up to five MinION or Flongle flow cells; MinION Mk 1C, a nano pore-based sequencer with analysis software and connectivity for self-contained and portable sequencing; Flongle, an adapter for MinION or GridION that enables DNA sequencing or cDNA sequencing on smaller and single-use flow cells; and PromethION 2 Solo, a sequencer for two PromethION flow cells. The company also provides PromethION 2, a self-contained benchtop nanopore sequencer; PromethION 24, which provides single or multiple users with access to terabases of sequencing data; PromethION 48, a sequencing device with high-output flow cells; VolTRAX, an automated library prep for nanopore analyses; and Q-Line, a sequencing for applied applications, as well as products for SAR-Cov-2 testing. Its platform enables its customers to perform scientific/biomedical research in a range of areas, including human genetics, cancer research, outbreak surveillance, environmental analysis, pathogens/antimicrobial resistance, microbiome analysis, and crop science. The company was formerly known as Oxford NanoLabs Limited and changed its name to Oxford Nanopore Technologies plc in May 2008. Oxford Nanopore Technologies plc was incorporated in 2005 and is headquartered in Oxford, the United Kingdom.
+fullTimeEmployees§1049
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Gurdial Singh Sanghera', 'age': 62, 'title': 'Co-Founder, CEO & Non-Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1588143, 'exercisedValue': 0, 'unexercisedValue': 958100}, {'maxAge': 1, 'name': 'Mr. Timothy  Cowper', 'age': 58, 'title': 'CFO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 894984, 'exercisedValue': 0, 'unexercisedValue': 1349988}, {'maxAge': 1, 'name': 'Mr. Clive G. Brown', 'title': 'Chief Technology, Innovation & Product Officer and Director', 'fiscalYear': 2022, 'totalPay': 1084497, 'exercisedValue': 0, 'unexercisedValue': 3041838}, {'maxAge': 1, 'name': 'Dr. Spike  Willcocks', 'title': 'Chief Strategy Officer & Director', 'fiscalYear': 2022, 'totalPay': 1188796, 'exercisedValue': 0, 'unexercisedValue': 2068942}, {'maxAge': 1, 'name': 'Prof. Hagan  Bayley Ph.D.', 'title': 'Co-Founder & Member of Technical Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rhodri  Davies', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Schoellerman', 'title': 'Senior Vice President of Corporate Development & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Herman', 'title': 'Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Compton', 'title': 'Senior Vice President of Sales & Commercial Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sara Agee Le', 'title': 'Vice President of Global Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.648
+priceToSalesTrailing12Months§10.32613
+currency§GBp
+forwardEps§-12.47
+pegRatio§-0.48
+exchange§LSE
+quoteType§EQUITY
+shortName§OXFORD NANOPORE TECHNOLOGIES PL
+longName§Oxford Nanopore Technologies plc
+firstTradeDateEpochUtc§1632985200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ba724b47-a0f2-34be-ab5d-21561379b72d
+targetHighPrice§529.0
+targetLowPrice§190.0
+targetMeanPrice§309.89
+targetMedianPrice§300.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§4.851
+grossMargins§0.58797
+ebitdaMargins§-0.83137
+trailingPegRatio§None

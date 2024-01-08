@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 17:40:40.402830
+address1§Network HQ
+address2§508 Edgware Road The Hyde
+city§London
+zip§NW9 5AB
+country§United Kingdom
+phone§44 20 8955 5000
+website§https://www.telecomplus.co.uk
+industry§Utilities—Diversified
+sector§Utilities
+longBusinessSummary§Telecom Plus Plc provides a range of utility services in the United Kingdom. It offers various services, including gas, electricity, fixed line telephony, mobile telephony, broadband, and insurance, as well as bill protection and life cover, home insurance and boiler cover, and cashback card services under the Utility Warehouse and TML brands. Telecom Plus Plc was incorporated in 1996 and is based in London, the United Kingdom.
+fullTimeEmployees§2347
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Lindsay M.B.E.', 'age': 46, 'title': 'Co-CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2023, 'totalPay': 1520000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Burnett', 'age': 41, 'title': 'Co-CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 1451000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas J. Schoenfeld B.A, M.B.A', 'age': 53, 'title': 'CFO & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1032000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Harris', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Regensberg', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheryl  Jermyn', 'title': 'Legal & Compliance Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Libby  Townsend', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  French', 'title': 'Chief Product Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Walter', 'title': 'Chief Commercial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Baxter ACA', 'age': 48, 'title': 'Head of Finance & Company Secretary', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§1
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.82
+dividendYield§0.053600002
+exDividendDate§1701302400
+payoutRatio§0.7512
+fiveYearAvgDividendYield§4.01
+beta§0.505
+priceToSalesTrailing12Months§0.4419506
+currency§GBp
+forwardEps§117.25
+pegRatio§1.64
+exchange§LSE
+quoteType§EQUITY
+shortName§TELECOM PLUS PLC ORD 5P
+longName§Telecom Plus Plc
+firstTradeDateEpochUtc§964594800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e629a6f3-32b2-3cb8-b417-0b0a58bed46f
+targetHighPrice§2950.0
+targetLowPrice§2600.0
+targetMeanPrice§2775.0
+targetMedianPrice§2775.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.464
+earningsGrowth§-0.03
+grossMargins§0.12859
+ebitdaMargins§0.03976
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 07:44:48.786724
+address1§307 North Defiance Street
+city§Archbold
+state§OH
+zip§43502
+country§United States
+phone§419 446 2501
+website§https://www.fm.bank
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Farmers & Merchants Bancorp, Inc. operates as the bank holding company for The Farmers & Merchants State Bank that provides commercial banking services to individuals and small businesses in northwest Ohio and northeast Indiana. The company offers checking, savings, and time deposit accounts; certificates of deposit; and custodial services for individual retirement and health savings accounts. It also provides commercial, agricultural, and residential mortgage, as well as consumer and credit card lending products; loans for farmland, farm equipment, and livestock; operating loans for seeds, fertilizers, and feeds; home improvement loans; and loans for autos, trucks, recreational vehicles, and motorcycles, as well as home and personal loan. In addition, the company offers commercial real estate loans, such as lines of credit and machinery purchase loans. Further, it provides automated teller machine or interactive teller machine services; and online and mobile banking, remote deposit capture or electronic deposit processing, and merchant credit card services. It also offers electronic transaction origination, such as wire and automated clearing house file transmittal services. Farmers & Merchants Bancorp, Inc. was founded in 1897 and is headquartered in Archbold, Ohio.
+fullTimeEmployees§465
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lars B. Eller', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 649419, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara J. Britenriker', 'age': 61, 'title': 'Executive VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 368302, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Benet S. Rupp', 'age': 56, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 298462, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shalini  Singhal', 'age': 47, 'title': 'Senior VP & Chief Information Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marilyn K. Johnson', 'title': 'VP and Compliance & CRA Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Deborah L. Shinabery', 'title': 'VP of Sales & Retail Skills Development Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy L. Cover', 'title': 'VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexis E. Smith', 'title': 'VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David R. Gerken', 'title': 'Senior VP & Senior Commercial Banking Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip P. Lucas', 'title': 'Senior VP & Regional President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.88
+dividendYield§0.038599998
+exDividendDate§1703721600
+payoutRatio§0.4719
+fiveYearAvgDividendYield§2.78
+beta§0.55
+priceToSalesTrailing12Months§3.168869
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.45
+exchange§NCM
+quoteType§EQUITY
+shortName§Farmers & Merchants Bancorp, In
+longName§Farmers & Merchants Bancorp, Inc.
+firstTradeDateEpochUtc§1138631400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a1c6f9cb-3875-3abf-8556-44dca0e6d9ca
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§20.0
+targetMeanPrice§23.0
+targetMedianPrice§23.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+earningsGrowth§-0.485
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

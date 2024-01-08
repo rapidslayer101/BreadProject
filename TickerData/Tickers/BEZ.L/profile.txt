@@ -1,0 +1,59 @@
+# reload+after+2024-01-23 14:35:44.908243
+address1§22 Bishopsgate
+city§London
+zip§EC2N 4BQ
+country§United Kingdom
+phone§44 20 7667 0623
+fax§44 20 7082 5198
+website§https://www.beazley.com
+industry§Insurance - Specialty
+industryKey§insurance-specialty
+industryDisp§Insurance - Specialty
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Beazley plc provides risk insurance and reinsurance solutions in the United States, Europe, and internationally. It operates through Cyber Risks, Digital, MAP Risks, Property Risks, and Specialty Risks segments. The Cyber Risk segment underwrites cyber and technology risks. The Digital segment underwrites various marine, contingency, and SME liability risks through digital channels, such as e-trading platforms and broker portals. The MAP Risks segment underwrites marine, portfolio underwriting and political, and contingency business. The Property Risks segment underwrites first party property risks and reinsurance business. The Specialty Risks segment underwrites liability classes, including employment practices risks and directors and officers, as well as healthcare, lawyers, and international financial institutions. It also underwrites life, health, and personal accident; and jewelry, fine art, and specie products risk insurance. The company was founded in 1986 and is based in London, the United Kingdom.
+fullTimeEmployees§1965
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adrian Peter Cox', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1398541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally Michelle Lake', 'age': 44, 'title': 'Group Finance Director, Executive Sponsor of the Women in Finance Charter & Executive Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1083898, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Troy  Dehmann', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Simpson', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Moerdyk', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Booth', 'title': 'Head of Investor Relations & Chair of the Diversity Steering Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katia  Mullier', 'title': 'Senior Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Georgina  Peters-Venzano', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pippa  Vowles', 'title': 'Head of Culture & People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremiah Edward Sullivan Jr.', 'title': 'Head & Chair of US Management Committee', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.26
+dividendYield§0.048499998
+exDividendDate§1678320000
+payoutRatio§0.83599997
+fiveYearAvgDividendYield§2.34
+beta§0.655
+priceToSalesTrailing12Months§0.936429
+currency§GBp
+forwardEps§1.0
+pegRatio§0.46
+lastDividendValue§13.5
+lastDividendDate§1678320000
+exchange§LSE
+quoteType§EQUITY
+shortName§BEAZLEY PLC ORD 5P
+longName§Beazley plc
+firstTradeDateEpochUtc§1037088000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a1937952-7d3f-3406-9bab-53f2c158b4ac
+messageBoardId§finmb_5856173
+targetHighPrice§8.75
+targetLowPrice§5.97
+targetMeanPrice§7.69
+targetMedianPrice§7.73
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§222.078
+earningsGrowth§-0.123
+grossMargins§0.14525
+ebitdaMargins§0.0581
+trailingPegRatio§None

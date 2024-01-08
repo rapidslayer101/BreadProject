@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 03:44:40.720703
+address1§500 West Texas Avenue
+address2§Suite 1200
+city§Midland
+state§TX
+zip§79701
+country§United States
+phone§432 221 7400
+website§https://www.diamondbackenergy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Diamondback Energy, Inc., an independent oil and natural gas company, focuses on the acquisition, development, exploration, and exploitation of unconventional and onshore oil and natural gas reserves in the Permian Basin in West Texas. It focuses on the development of the Spraberry and Wolfcamp formations of the Midland basin; and the Wolfcamp and Bone Spring formations of the Delaware basin, which are part of the Permian Basin in West Texas and New Mexico. The company also owns, operates, develops, and acquires midstream infrastructure assets, including 770 miles of crude oil gathering pipelines, natural gas gathering pipelines, and an integrated water system in the Midland and Delaware Basins of the Permian Basin. Diamondback Energy, Inc. was founded in 2007 and is headquartered in Midland, Texas.
+fullTimeEmployees§972
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Travis D. Stice', 'age': 61, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 3518019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Matthew Kaes Van't Hof", 'age': 36, 'title': 'President & CFO', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 1354261, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel N. Wesson', 'age': 39, 'title': 'Executive VP & COO', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1143013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa L. Dick', 'age': 53, 'title': 'Chief Accounting Officer, Executive VP & Assistant Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 986075, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. P. Matt Zmigrosky', 'age': 44, 'title': 'Executive VP, Chief Legal & Administrative Officer and Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1136240, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David L. Cannon', 'title': 'Senior Vice President of Geoscience & Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam T. Lawlis', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jere W. Thompson III', 'title': 'Senior Vice President of Strategy & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johnny D. Dossey', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Meek', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§7.99
+dividendYield§0.0512
+exDividendDate§1700006400
+payoutRatio§0.39020002
+fiveYearAvgDividendYield§3.05
+beta§1.87
+priceToSalesTrailing12Months§3.6044302
+currency§USD
+dateShortInterest§1702598400
+forwardEps§19.99
+pegRatio§-11.44
+exchange§NMS
+quoteType§EQUITY
+shortName§Diamondback Energy, Inc.
+longName§Diamondback Energy, Inc.
+firstTradeDateEpochUtc§1350048600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7f448654-4da6-3c99-be09-c9bfe680da59
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§225.0
+targetLowPrice§147.0
+targetMeanPrice§182.1
+targetMedianPrice§182.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§29
+quickRatio§0.851
+earningsGrowth§-0.246
+grossMargins§0.85615
+ebitdaMargins§0.78370005
+trailingPegRatio§None

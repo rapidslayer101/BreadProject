@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 15:30:19.861492
+address1§5190 Neil Road
+address2§Suite 460
+city§Reno
+state§NV
+zip§89502
+country§United States
+phone§775 525 6450
+website§https://www.i80gold.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§i-80 Gold Corp., a mining company, explores for, develops, and produces gold, silver, and polymetallic deposits in the United States. It holds a 100% interest in the McCoy-Cove gold properties located in Lander County, Nevada; the Granite Creek gold project located in Humboldt County, Nevada; the Lone Tree and Buffalo Mountain gold deposits located in Humboldt County, Nevada; and the Ruby Hill mine in Eureka County, Nevada. The company also holds a right to earn 100% interest in the exploration-stage Tabor gold property located in Esmeralda County, Nevada. i-80 Gold Corp. was incorporated in 2020 and is headquartered in Reno, Nevada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ewan Stewart Downie', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1009157, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew D. Gili', 'age': 54, 'title': 'President & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 686824, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Snow', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 566466, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Gollat HBComm', 'age': 41, 'title': 'Executive Vice-President of Business & Corporate Development', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 538090, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tyler  Hill CPG', 'title': 'Chief Geologist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacklynn  Hunt', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.944
+priceToSalesTrailing12Months§11.32425
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§i-80 Gold Corp.
+longName§i-80 Gold Corp.
+firstTradeDateEpochUtc§1619098200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b923b902-ac5f-30af-805b-a50c429b24ad
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.639
+grossMargins§-0.34104002
+ebitdaMargins§-1.70521
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 03:44:00.318598
+address1§700 South Kansas Avenue
+city§Topeka
+state§KS
+zip§66603
+country§United States
+phone§785 235 1341
+website§https://capfed.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Capitol Federal Financial, Inc. operates as the holding company for Capitol Federal Savings Bank that provides various retail banking products and services in the United States. The company accepts a range of deposit products, including savings accounts, money market accounts, interest-bearing and non-interest-bearing checking accounts, and certificates of deposit. It also provides various loan products, such as one- to four-family residential real estate loans, commercial real estate, commercial and industrial, construction loans, and small business loans, as well as consumer loans, which include home equity loans and lines of credit, home improvement loans, vehicle loans, and loans secured by savings deposits. In addition, the company offers mobile, telephone, and online banking services, as well as bill payment services; credit cards; mortgage loan; operates a call center; and invests in various securities. The company serves the metropolitan areas of Topeka, Wichita, Lawrence, Manhattan, Emporia, and Salina, Kansas, and a portion of the metropolitan area of greater Kansas City. Capitol Federal Financial, Inc. was founded in 1893 and is headquartered in Topeka, Kansas.
+fullTimeEmployees§592
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John B. Dicus', 'age': 62, 'title': 'Chairman, President & CEO', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 862031, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kent G. Townsend', 'age': 62, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 426865, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rick Cordell Jackson', 'age': 58, 'title': 'Chief Lending Officer and Executive VP', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 315312, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert D. Kobbeman', 'age': 68, 'title': 'Executive VP & Chief Commercial Banking Officer', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 348671, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Joseph Skrobacz Jr.', 'title': 'Executive VP & Chief Retail Operations Officer', 'fiscalYear': 2023, 'totalPay': 220429, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tara D. Van Houweling', 'age': 50, 'title': 'First VP, Principal Accounting Officer & Reporting Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natalie G. Haag', 'age': 64, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 421115, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony S. Barry J.D.', 'age': 59, 'title': 'Executive VP & Chief Corporate Services Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.34
+dividendYield§0.0552
+exDividendDate§1698883200
+payoutRatio§0.7907
+fiveYearAvgDividendYield§3.5
+beta§0.422
+priceToSalesTrailing12Months§-33.232143
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.54
+pegRatio§2.92
+exchange§NMS
+quoteType§EQUITY
+shortName§Capitol Federal Financial, Inc.
+longName§Capitol Federal Financial, Inc.
+firstTradeDateEpochUtc§922977000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc882734-041b-3648-b0eb-fe142502a83a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§6.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

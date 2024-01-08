@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 17:31:17.297807
+address1§200 Bloor Street East
+city§Toronto
+state§ON
+zip§M4W 1E5
+country§Canada
+phone§416-926-3000
+website§https://www.manulife.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§Manulife Financial Corporation, together with its subsidiaries, provides financial products and services in Asia, Canada, the United States, and internationally. The company operates through Wealth and Asset Management Businesses; Insurance and Annuity Products; and Corporate and Other segments. The Wealth and Asset Management Businesses segment offers investment advice and solutions to retirement, retail, and institutional clients through multiple distribution channels, including agents and brokers affiliated with the company, independent securities brokerage firms and financial advisors pension plan consultants, and banks. The Insurance and Annuity Products segment provides deposit and credit products; and individual life insurance, individual and group long-term care insurance, and guaranteed and partially guaranteed annuity products through multiple distribution channels, including insurance agents, brokers, banks, financial planners, and direct marketing. The Corporate and Other segment is involved in property and casualty reinsurance businesses; and run-off reinsurance operations, including variable annuities, and accident and health. The company also manages timberland and agricultural portfolios; and engages in insurance agency, investment counseling and dealer, portfolio and mutual fund management, property and casualty insurance, and mutual fund dealer businesses. Manulife Financial Corporation was incorporated in 1887 and is headquartered in Toronto, Canada.
+fullTimeEmployees§40000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Roy  Gori', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 4162118, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Sears Hartz C.F.A.', 'age': 62, 'title': 'Chief Investment Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2002820, 'exercisedValue': 864435, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc M. Costantini', 'title': 'Global Head of Inforce Management', 'fiscalYear': 2022, 'totalPay': 2499822, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip James Witherington', 'title': 'President & CEO of Manulife Asia', 'fiscalYear': 2022, 'totalPay': 1913761, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colin L. Simpson', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rahul Madhav Joshi', 'title': 'Chief Operations Officer', 'fiscalYear': 2022, 'totalPay': 2582844, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynda D. Sullivan', 'title': 'Executive VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shamus  Edward Weiland', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Adrienne  O'Neill C.A., C.F.A., CPA", 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James David Gallagher', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.09
+dividendYield§0.0499
+exDividendDate§1700524800
+payoutRatio§0.2033
+fiveYearAvgDividendYield§4.96
+beta§1.094
+priceToSalesTrailing12Months§1.9949582
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.72
+pegRatio§4.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Manulife Financial Corporation
+longName§Manulife Financial Corporation
+firstTradeDateEpochUtc§938179800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d7421054-471a-3272-8eac-18fd97bbd237
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.43
+targetLowPrice§21.68
+targetMeanPrice§22.05
+targetMedianPrice§22.05
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§47.32
+earningsGrowth§1.261
+grossMargins§1.35552
+ebitdaMargins§0.95443
+trailingPegRatio§None

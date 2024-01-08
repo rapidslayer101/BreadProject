@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 04:43:12.667010
+address1§650 California Street
+city§San Francisco
+state§CA
+zip§94108
+country§United States
+phone§415 960 1518
+website§https://www.affirm.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Affirm Holdings, Inc. operates a platform for digital and mobile-first commerce in the United States, Canada, and internationally. The company's platform includes point-of-sale payment solution for consumers, merchant commerce solutions, and a consumer-focused app. Its commerce platform, agreements with originating banks, and capital markets partners enables consumers to pay for a purchase over time with terms ranging up to 60 months. The company has active merchants covering small businesses, large enterprises, direct-to-consumer brands, brick-and-mortar stores, and companies with an omni-channel presence. Its merchants represent a range of industries, including sporting goods and outdoors, furniture and homewares, travel and ticketing, apparel, accessories, consumer electronics, and jewelry. Affirm Holdings, Inc. was founded in 2012 and is headquartered in San Francisco, California.
+fullTimeEmployees§2171
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Max Roth Levchin', 'age': 47, 'title': 'Founder, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 409807, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Libor  Michalek', 'age': 49, 'title': 'President & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 475000, 'exercisedValue': 0, 'unexercisedValue': 6086250}, {'maxAge': 1, 'name': 'Mr. Michael A. Linford', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 475000, 'exercisedValue': 0, 'unexercisedValue': 12513168}, {'maxAge': 1, 'name': 'Ms. Katherine  Adkins Esq.', 'age': 61, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 425000, 'exercisedValue': 0, 'unexercisedValue': 783600}, {'maxAge': 1, 'name': 'Ms. Katrina  Holt', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald  Clark', 'title': 'VP of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoff  Kott', 'title': 'Chief Revenue Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brooke E. Major-Reid', 'age': 49, 'title': 'Chief Capital Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Robert W. O'Hare", 'age': 42, 'title': 'Senior Vice President of Finance', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Wayne  Pommen Ph.D.', 'age': 44, 'title': 'Head of International', 'yearBorn': 1979, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.736
+priceToSalesTrailing12Months§7.5323696
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.11
+pegRatio§-0.18
+exchange§NMS
+quoteType§EQUITY
+shortName§Affirm Holdings, Inc.
+longName§Affirm Holdings, Inc.
+firstTradeDateEpochUtc§1610548200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8205d70a-947d-38c0-b937-121c487fa2bd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§65.0
+targetLowPrice§6.0
+targetMeanPrice§27.8
+targetMedianPrice§21.5
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§19
+quickRatio§15.734
+grossMargins§0.6227
+ebitdaMargins§-0.48921
+trailingPegRatio§None

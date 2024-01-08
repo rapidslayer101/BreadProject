@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 17:46:10.373708
+address1§123 Justison Street
+city§Wilmington
+state§DE
+zip§19801
+country§United States
+phone§302 283 8000
+website§https://www.navient.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Navient Corporation provides technology-enabled education finance and business processing solutions for education, health care, and government clients in the United States. It operates through three segments: Federal Education Loans, Consumer Lending, and Business Processing. The company owns Federal Family Education Loan Program (FFELP) loans that are insured or guaranteed by state or not-for-profit agencies; and performs servicing and asset recovery services on its own loan portfolio, as well as federal education loans held by other institutions. It also owns, originates, and services refinance and in-school private education loans; and offers business processing solutions, such as omnichannel contact center, workflow processing, and revenue cycle optimization services to federal agencies, state governments, tolling and parking authorities, other public sector clients, as well as hospitals, hospital systems, medical centers, large physician groups, other healthcare providers, and public health departments. In addition, the company provides corporate liquidity portfolio services. Navient Corporation was founded in 1973 and is headquartered in Wilmington, Delaware.
+fullTimeEmployees§4000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David L. Yowan', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 145091, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Fisher C.F.A.', 'age': 42, 'title': 'Executive VP, CFO & Principal Accounting Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1167280, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen M. Hauber', 'age': 48, 'title': 'Executive VP and Chief Risk & Compliance Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1097802, 'exercisedValue': 86653, 'unexercisedValue': 163320}, {'maxAge': 1, 'name': 'Mr. Mark L. Heleen', 'age': 60, 'title': 'Chief Legal Officer, Secretary & Executive VP', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1173050, 'exercisedValue': 0, 'unexercisedValue': 244979}, {'maxAge': 1, 'name': 'Mr. John M. Kane', 'age': 54, 'title': 'Executive VP & Group President of Business Processing Solutions', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1346720, 'exercisedValue': 666241, 'unexercisedValue': 424633}, {'maxAge': 1, 'name': 'Mr. Mike  Maier', 'title': 'Senior Vice President & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jen  Earyes', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul  Hartwick', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia Nash Christel', 'title': 'VP of Corporate Marketing & Communications and Chief of Staff to the CEO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Smith', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.035099998
+exDividendDate§1701302400
+payoutRatio§0.22379999
+fiveYearAvgDividendYield§4.75
+beta§1.5
+priceToSalesTrailing12Months§1.6537957
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.74
+pegRatio§0.82
+exchange§NMS
+quoteType§EQUITY
+shortName§Navient Corporation
+longName§Navient Corporation
+firstTradeDateEpochUtc§1397741400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§76d5cb50-76a2-3951-b646-382d3307f626
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§16.0
+targetMeanPrice§17.38
+targetMedianPrice§17.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§12.252
+earningsGrowth§-0.133
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

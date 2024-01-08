@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 01:45:52.044535
+address1§110 Allen Road
+address2§2nd Floor
+city§Basking Ridge
+state§NJ
+zip§07920
+country§United States
+phone§908 842 0100
+website§https://www.lisata.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Lisata Therapeutics, Inc., a clinical-stage pharmaceutical company, focuses on the discovery, development, and commercialization of innovative therapies for the treatment of solid tumors and other diseases. Its product candidates include LSTA1, which is in Phase 1b/2a and 2b clinical studies for the treatment of solid tumor, including metastatic pancreatic ductal adenocarcinoma (mPDAC), in combination with a range of anti-cancer regimens; HONEDRA, a recipient of SAKIGAKE designation critical limb ischemia; XOWNA that is in Phase IIb clinical trial for the treatment of coronary microvascular dysfunction; and LSTA201, a CD34+ cell therapy for the treatment of chronic kidney disease. The company was formerly known as NeoStem, Inc. and changed its name to Caladrius Biosciences, Inc. in June 2015. The company was formerly known as Caladrius Biosciences, Inc. and changed its name to Lisata Therapeutics, Inc. on September 15, 2022. Lisata Therapeutics, Inc. was incorporated in 1980 and is headquartered in Basking Ridge, New Jersey.
+fullTimeEmployees§27
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. David J. Mazzo B.A. (Hons), B.Sc. (Hons.), M.Sc., Ph.D.', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1163024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kristen K. Buck M.D.', 'age': 49, 'title': 'Executive VP of R&D and Chief Medical Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 938419, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Nisco', 'title': 'VP of Finance & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tariq  Imam', 'title': 'Vice President of Business Development & Operations and Corporate Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory S. Berkin', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John D. Menditto', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gail  Holler', 'age': 64, 'title': 'Vice President of Human Resources', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. William K. Sietsema Ph.D.', 'age': 67, 'title': 'Vice President of Global Regulatory Affairs', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 350554, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.106
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.27
+pegRatio§-0.02
+exchange§NCM
+quoteType§EQUITY
+shortName§Lisata Therapeutics, Inc.
+longName§Lisata Therapeutics, Inc.
+firstTradeDateEpochUtc§920298600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7737ddfa-5bcf-3d22-801a-3db97878a368
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§15.0
+targetMeanPrice§15.5
+targetMedianPrice§15.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§10.599
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 08:45:09.170847
+address1§6940 Columbia Gateway Drive
+address2§Suite 470
+city§Columbia
+state§MD
+zip§21046
+country§United States
+phone§410 970 7800
+fax§410 970 7997
+website§https://www.gses.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§GSE Systems, Inc. provides professional and technical engineering services, staffing services, and simulation software to power and process industries in the United States, Asia, Europe, and internationally. It operates in two segments, Engineering and Workforce Solutions. The Engineering segment provides various technical engineering services for ASME programs; and simulation software and services, including operator training systems for the nuclear, fossil fuel power generation, and process industries. The Workforce Solutions segment supports project lifecycles and provides specialized and skilled talent for energy and engineering industries, which include reactor operations instructors, procedure writers, project managers, engineers, work management specialists, planners, and training material developers. The company markets its products and services through a network of direct sales staff, agents and representatives, and strategic alliance partners. GSE Systems, Inc. was founded in 1971 and is headquartered in Columbia, Maryland.
+fullTimeEmployees§275
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kyle J. Loudermilk', 'age': 55, 'title': 'President, CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 469760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Emmett Anthony Pepe', 'age': 58, 'title': 'CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 326147, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bahram  Meyssami Ph.D.', 'age': 61, 'title': 'Chief Technology Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 279182, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond A. Hruby Jr.', 'age': 63, 'title': 'Vice President of Sales', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ravi K. Khanna', 'age': 46, 'title': 'Senior Vice President of Professional Services', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.26
+priceToSalesTrailing12Months§0.120873846
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.75
+pegRatio§-0.01
+exchange§NCM
+quoteType§EQUITY
+shortName§GSE Systems, Inc.
+longName§GSE Systems, Inc.
+firstTradeDateEpochUtc§806851800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§18b827ec-f512-30ca-bbe8-74a7dd889679
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§13.0
+targetMeanPrice§13.0
+targetMedianPrice§13.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.794
+grossMargins§0.27126
+ebitdaMargins§-0.10321999
+trailingPegRatio§None

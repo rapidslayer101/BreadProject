@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 12:47:23.633185
+address1§800 Philadelphia Street
+city§Indiana
+state§PA
+zip§15701
+country§United States
+phone§800 325 2265
+website§https://www.stbancorp.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§S&T Bancorp, Inc. operates as the bank holding company for S&T Bank that provides retail and commercial banking products and services. The company operates through six segments: Commercial Real Estate, Commercial and Industrial, Business Banking, Commercial Construction, Consumer Real Estate, and Other Consumer. The company accepts time and demand deposits; and offers commercial and consumer loans, cash management services, and brokerage and trust services, as well as acts as guardian and custodian of employee benefits. It also manages private investment accounts for individuals and institutions. In addition, the company distributes life insurance and long-term disability income insurance products, as well as offers title insurance agency services to commercial customers; and acts as a reinsurer of credit life, accident, and health insurance policies. S&T Bancorp, Inc. was founded in 1902 and is headquartered in Indiana, Pennsylvania.
+fullTimeEmployees§1182
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher J. McComish', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1660918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David G. Antolik', 'age': 56, 'title': 'President & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 973043, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Kochvar', 'age': 62, 'title': 'Senior EVP & CFO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 719143, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen A. Drahnak', 'age': 52, 'title': 'Executive VP & Chief Commercial Banking Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 573926, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. LaDawn D. Yesho', 'age': 48, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 537099, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Golden', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel L. Smydo', 'title': 'Executive VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Deidre A. Wilson', 'title': 'Senior VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Krista  Martini', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan A. Nicholson', 'age': 50, 'title': 'Executive VP & Chief Human Resource Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.32
+dividendYield§0.04
+exDividendDate§1699401600
+payoutRatio§0.33330002
+fiveYearAvgDividendYield§3.83
+beta§0.777
+priceToSalesTrailing12Months§3.244308
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.11
+pegRatio§0.9
+exchange§NMS
+quoteType§EQUITY
+shortName§S&T Bancorp, Inc.
+longName§S&T Bancorp, Inc.
+firstTradeDateEpochUtc§703863000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e6c60ddf-0698-3826-849a-b7cd159bfbac
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§29.0
+targetMeanPrice§31.25
+targetMedianPrice§31.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.084
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

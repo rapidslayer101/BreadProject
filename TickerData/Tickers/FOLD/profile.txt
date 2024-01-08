@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 21:44:50.155766
+address1§3675 Market Street
+city§Philadelphia
+state§PA
+zip§19104
+country§United States
+phone§215 921 7600
+fax§215 921 7900
+website§https://amicusrx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Amicus Therapeutics, Inc., a biotechnology company, focuses on discovering, developing, and delivering medicines for rare diseases. Its commercial product and product candidates include Galafold, an oral precision medicine for the treatment of adults with a confirmed diagnosis of Fabry disease and an amenable galactosidase alpha gene variant based on in vitro assay data. The company also develops AT-GAA, a novel treatment paradigm for Pompe disease; and enzyme replacement therapies for Pompe diseases. It has collaboration and license agreements with Nationwide Children's Hospital; University of Pennsylvania; and GlaxoSmithKline. The company was incorporated in 2002 and is headquartered in Philadelphia, Pennsylvania.
+fullTimeEmployees§484
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John F. Crowley', 'age': 56, 'title': 'Executive Chairman', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1878804, 'exercisedValue': 0, 'unexercisedValue': 3203616}, {'maxAge': 1, 'name': 'Mr. Bradley L. Campbell M.B.A.', 'age': 47, 'title': 'CEO, President & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 984087, 'exercisedValue': 461214, 'unexercisedValue': 3854297}, {'maxAge': 1, 'name': 'Ms. Ellen S. Rosenberg', 'age': 60, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 733943, 'exercisedValue': 0, 'unexercisedValue': 1730125}, {'maxAge': 1, 'name': 'Mr. David M. Clark', 'age': 48, 'title': 'Chief People Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 701389, 'exercisedValue': 0, 'unexercisedValue': 341111}, {'maxAge': 1, 'name': 'Dr. Jeffrey P. Castelli', 'age': 51, 'title': 'Chief Development Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 709644, 'exercisedValue': 88607, 'unexercisedValue': 543184}, {'maxAge': 1, 'name': 'Mr. Simon Nicolas Reade Harford', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha  Prout', 'age': 45, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jill  Weimer Ph.D.', 'title': 'Chief Science Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andrew  Faughnan', 'title': 'Senior Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrik S. Florencio Esq.', 'title': 'Global Chief Compliance & Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.844
+priceToSalesTrailing12Months§10.647169
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.07
+pegRatio§0.2
+exchange§NGM
+quoteType§EQUITY
+shortName§Amicus Therapeutics, Inc.
+longName§Amicus Therapeutics, Inc.
+firstTradeDateEpochUtc§1180618200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§18ecfd93-9817-3a94-a13a-c6019ef27903
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§15.0
+targetMeanPrice§19.33
+targetMedianPrice§20.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§2.087
+grossMargins§0.90497
+ebitdaMargins§-0.27807
+trailingPegRatio§None

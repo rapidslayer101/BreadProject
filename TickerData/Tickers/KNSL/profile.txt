@@ -1,0 +1,56 @@
+# reload+after+2024-01-21 02:30:56.921822
+address1§2035 Maywill Street
+address2§Suite 100
+city§Richmond
+state§VA
+zip§23230
+country§United States
+phone§804 289 1300
+fax§844 584 3392
+website§https://www.kinsalecapitalgroup.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Kinsale Capital Group, Inc., a specialty insurance company, provides property and casualty insurance products in the United States. The company's commercial lines offerings include construction, small business, excess and general casualty, commercial property, allied health, life sciences, energy, environmental, health care, inland marine, public entity, and commercial insurance, as well as product, professional, and management liability insurance. It markets and sells its insurance products in all 50 states, the District of Columbia, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands primarily through a network of independent insurance brokers. Kinsale Capital Group, Inc. was founded in 2009 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§457
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Patrick Kehoe', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2784102, 'exercisedValue': 3423255, 'unexercisedValue': 11435340}, {'maxAge': 1, 'name': 'Mr. Bryan Paul Petrucelli', 'age': 57, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1252842, 'exercisedValue': 3200402, 'unexercisedValue': 7390152}, {'maxAge': 1, 'name': 'Mr. Brian Donald Haney', 'age': 53, 'title': 'Executive VP & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1224638, 'exercisedValue': 417030, 'unexercisedValue': 2577960}, {'maxAge': 1, 'name': 'Ms. Diane D. Schnupp', 'age': 56, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 967180, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Beachy', 'age': 55, 'title': 'Executive VP & Chief Claims Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 996418, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amber J. Sheridan', 'title': 'Senior VP and Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick L. Dalton', 'title': 'Senior Vice President of Professional Lines - Kinsale Insurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart P. Winston', 'title': 'Senior Vice President Underwriting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  McMorrow', 'title': 'Senior Vice President of Underwriting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Amanda Elizabeth Viol', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.56
+dividendYield§0.0016
+exDividendDate§1701129600
+payoutRatio§0.047
+fiveYearAvgDividendYield§0.23
+beta§0.819
+priceToSalesTrailing12Months§7.5410476
+currency§USD
+dateShortInterest§1702598400
+forwardEps§14.36
+pegRatio§1.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kinsale Capital Group, Inc.
+longName§Kinsale Capital Group, Inc.
+firstTradeDateEpochUtc§1469712600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d49bfb37-6aa8-3639-9295-79eaa81f6be7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§451.0
+targetLowPrice§370.0
+targetMeanPrice§410.0
+targetMedianPrice§410.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.135
+earningsGrowth§1.28
+grossMargins§0.24949
+ebitdaMargins§0.31857002
+trailingPegRatio§None

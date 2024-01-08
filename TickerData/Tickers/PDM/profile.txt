@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 13:32:11.132047
+address1§5565 Glenridge Connector
+address2§Suite 450
+city§Atlanta
+state§GA
+zip§30342-4788
+country§United States
+phone§770 418 8800
+fax§770 418 8900
+website§https://www.piedmontreit.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Piedmont Office Realty Trust, Inc. (NYSE: PDM) is an owner, manager, developer, redeveloper, and operator of high-quality, Class A office properties located primarily in major U.S. Sunbelt markets. Its approximately $5 billion portfolio is currently comprised of approximately 17 million square feet. The Company is a fully integrated, self-managed real estate investment trust (REIT) with local management offices in each of its markets and is investment-grade rated by S&P Global Ratings (BBB) and Moody's (Baa2). Piedmont is a 2023 ENERGY STAR Partner of the Year.
+fullTimeEmployees§149
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher Brent Smith', 'age': 47, 'title': 'President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1548248, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert E. Bowers CPA', 'age': 66, 'title': 'CFO, Executive VP & Chief Administrative Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 922173, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George M. Wells', 'age': 60, 'title': 'Executive VP & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 767250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher A. Kollme', 'age': 51, 'title': 'Executive Vice President of Investments & Strategy', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 731000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert K. Wiberg', 'age': 67, 'title': 'Executive VP of Northeast Region & Co-Head of Development', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 612174, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura P. Moon', 'age': 52, 'title': 'Chief Accounting Officer & Senior VP', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 327670, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Thomas A. McKean', 'title': 'Senior VP, Associate General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa M. Tyler', 'title': 'Vice President of Human Resource', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Damian J. Miller CFA', 'title': 'Executive Vice President of Dallas - Southwest Region', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin D. Fossum', 'title': 'Executive Vice President of Property Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0706
+exDividendDate§1700611200
+payoutRatio§1.6777999
+fiveYearAvgDividendYield§6.38
+beta§1.191
+priceToSalesTrailing12Months§1.5111078
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.2
+pegRatio§-9.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Piedmont Office Realty Trust, I
+longName§Piedmont Office Realty Trust, Inc.
+firstTradeDateEpochUtc§1265812200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0ab4e1b5-3bd9-3687-b058-2d69ef783f1a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§7.0
+targetMeanPrice§8.17
+targetMedianPrice§7.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.523
+grossMargins§0.59324
+ebitdaMargins§0.39868
+trailingPegRatio§None

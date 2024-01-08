@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 15:48:00.063020
+address1§One Sansome Street
+address2§33rd Floor
+city§San Francisco
+state§CA
+zip§94104
+country§United States
+phone§415 432 7323
+website§https://www.wish.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§ContextLogic Inc. operates as a mobile ecommerce company in Europe, North America, South America, and internationally. The company operates Wish, an ecommerce platform that connects users to merchants. It also provides marketplace and logistics services to merchants. The company was incorporated in 2010 and is headquartered in San Francisco, California.
+fullTimeEmployees§750
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jun  Yan', 'age': 40, 'title': 'CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 637499, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ying  Liu', 'age': 47, 'title': 'CFO & COO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 550000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng  Zhang', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett  Just', 'age': 41, 'title': 'Chief Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 385750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerry  Louis', 'age': 50, 'title': 'Chief Technology Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ralph  Fong', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mauricio  Monico', 'age': 43, 'title': 'Chief Product Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shuyan  Wang', 'age': 31, 'title': 'Head of Data Science', 'yearBorn': 1992, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.001
+priceToSalesTrailing12Months§0.34769335
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-8.29
+pegRatio§-0.09
+exchange§NMS
+quoteType§EQUITY
+shortName§ContextLogic Inc.
+longName§ContextLogic Inc.
+firstTradeDateEpochUtc§1608129000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fbf3cea7-c9ee-3ae2-a40a-1d53deba24b2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§4.0
+targetMeanPrice§5.6
+targetMedianPrice§5.2
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§2.158
+grossMargins§0.21569
+ebitdaMargins§-0.92997
+trailingPegRatio§None

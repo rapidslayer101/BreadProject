@@ -1,0 +1,33 @@
+# reload+after+2024-01-22 06:36:09.054521
+address1§60 Gracechurch Street
+address2§6th Floor
+city§London
+zip§EC3V OHR
+country§United Kingdom
+website§https://www.eastimperial.com
+industry§Beverages—Wineries & Distilleries
+sector§Consumer Defensive
+longBusinessSummary§East Imperial PLC manufactures and distributes beverages in Australasia, the United States, the United Kingdom, Singapore, and Europe. It offers tonics and mixers; and spirits, such as beer, bourbon, gin, mezcal, prosecco, rum, seedlip, tequila, vodka, and whiskey, as well as non-alcoholic products. The company was founded in 2012 and is based in London, the United Kingdom.
+fullTimeEmployees§14
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony James  Burt', 'age': 52, 'title': 'Founder, CEO & Executive Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 198709, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Jason  Robertson', 'age': 52, 'title': 'CFO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 135025, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  Kendrick', 'age': 43, 'title': 'Global Head of Supply Chain', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Florian', 'age': 39, 'title': 'Head Of Sales, Asia Pacific', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Ravenhall', 'age': 39, 'title': 'Global Head Of Digital', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Luke  McArthur', 'title': 'Global Head of Creative', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Zonghetti', 'title': 'Head of Sales - North America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.293
+priceToSalesTrailing12Months§2.5855694
+currency§GBp
+forwardEps§-0.6
+exchange§LSE
+quoteType§EQUITY
+shortName§EAST IMPERIAL PLC ORD 1P
+longName§East Imperial PLC
+firstTradeDateEpochUtc§1556866800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§75547cbb-8d37-3537-a6f4-2b98227da883
+recommendationKey§none
+quickRatio§-0.017
+grossMargins§0.097799994
+ebitdaMargins§-1.13189
+trailingPegRatio§None

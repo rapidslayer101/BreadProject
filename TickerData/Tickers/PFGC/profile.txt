@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 23:32:13.752036
+address1§12500 West Creek Parkway
+city§Richmond
+state§VA
+zip§23238
+country§United States
+phone§804 484 7700
+website§https://www.pfgc.com
+industry§Food Distribution
+sector§Consumer Defensive
+longBusinessSummary§Performance Food Group Company, through its subsidiaries, markets and distributes food and food-related products in the United States. It operates through three segments: Foodservice, Vistar, and Convenience. The company offers a range of frozen foods, groceries, candy, snacks, beverages, cigarettes, and other tobacco products; beef, pork, poultry, and seafood; and health and beauty care products. It also sells disposables, cleaning and kitchen supplies, and related products. In addition, the company offers value-added services, such as product selection and procurement, menu development, and operational strategy. It serves independent and chain restaurants, schools, business and industry locations, hospitals, vending distributors, office coffee service distributors, retailers, convenience stores, theaters, hospitality providers, concessionaires, airport gift shops, college bookstores, corrections facilities, and impulse locations, as well as franchises and other institutional customers. Performance Food Group Company was founded in 1885 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§35000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. George L. Holm', 'age': 68, 'title': 'Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 3487491, 'exercisedValue': 0, 'unexercisedValue': 26397482}, {'maxAge': 1, 'name': 'Mr. Craig Howard Hoskins', 'age': 62, 'title': 'President & COO', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 1444785, 'exercisedValue': 1759943, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Hatcher', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1147138, 'exercisedValue': 79742, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick T. Hagerty', 'age': 65, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 1403670, 'exercisedValue': 0, 'unexercisedValue': 3570303}, {'maxAge': 1, 'name': 'Mr. Scott E. McPherson', 'age': 53, 'title': 'Executive VP & Chief Field Operations Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1392664, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chasity  Grosh', 'age': 45, 'title': 'Senior Vice President & Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald S. Bulmer', 'age': 57, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bill  Marshall C.F.A.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen Brent King', 'age': 54, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1179037, 'exercisedValue': 0, 'unexercisedValue': 878528}, {'maxAge': 1, 'name': 'Scott  Golden', 'title': 'Director of Communications & Engagement', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.38
+priceToSalesTrailing12Months§0.2034541
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.14
+pegRatio§1.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Performance Food Group Company
+longName§Performance Food Group Company
+firstTradeDateEpochUtc§1443619800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§616966eb-847e-3379-9a44-bcf50ef40b08
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§85.0
+targetLowPrice§66.0
+targetMeanPrice§76.43
+targetMedianPrice§76.5
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§0.692
+earningsGrowth§0.242
+grossMargins§0.118389994
+ebitdaMargins§0.02422
+trailingPegRatio§None

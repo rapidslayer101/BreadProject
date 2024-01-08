@@ -1,0 +1,62 @@
+# reload+after+2024-01-21 00:26:27.778963
+address1§216 Airport Drive
+city§Rochester
+state§NH
+zip§03867
+country§United States
+phone§603 330 5850
+fax§603 994 3835
+website§https://www.albint.com
+industry§Textile Manufacturing
+industryKey§textile-manufacturing
+industryDisp§Textile Manufacturing
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Albany International Corp., together with its subsidiaries, engages in the textile and materials processing business. The company operates in two segments, Machine Clothing (MC) and Albany Engineered Composites (AEC). The MC segment designs, manufactures, and markets paper machine clothing for use in the manufacturing of papers, paperboards, tissues, towels, nonwovens, building products, tannery, and textiles. This segment offers forming, pressing, and drying fabrics, as well as process belts; and engineered fabrics. The AEC segment 3D-woven and injected composite components for aircraft engines composite airframe and engine components for military and commercial aircraft. It operates in the United States, Switzerland, Brazil, China, France, Mexico, Italy, and internationally. The company was incorporated in 1895 and is headquartered in Rochester, New Hampshire.
+fullTimeEmployees§4100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph M. Gaug', 'age': 60, 'title': 'VP, Secretary & General Counsel', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 867093, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel A. Halftermeyer', 'age': 62, 'title': 'President of Machine Clothing', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1421629, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory N. Harwell', 'age': 59, 'title': 'President of Albany Engineered Composites', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1055556, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gunnar  Kleveland', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Daniel Starr', 'age': 55, 'title': 'CFO & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John J. Tedone', 'age': 58, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert A. Hansen', 'age': 66, 'title': 'Senior VP & CTO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 459636, 'exercisedValue': 6364, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John B. Hobbs', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Susan  Siegel', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alice  McCarvill', 'age': 58, 'title': 'Executive VP of Human Resources & Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 646938, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.04
+dividendYield§0.0113
+exDividendDate§1702857600
+payoutRatio§0.3165
+fiveYearAvgDividendYield§1.04
+beta§1.276
+priceToSalesTrailing12Months§2.6338916
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.07
+pegRatio§3.85
+lastDividendValue§0.26
+lastDividendDate§1702857600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Albany International Corporatio
+longName§Albany International Corp.
+firstTradeDateEpochUtc§560007000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eaf24bf0-85df-3cc5-bba1-f4db8531d306
+messageBoardId§finmb_248608
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§120.0
+targetLowPrice§92.0
+targetMeanPrice§105.6
+targetMedianPrice§105.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.503
+earningsGrowth§1.557
+grossMargins§0.36805
+ebitdaMargins§0.21827999
+trailingPegRatio§None

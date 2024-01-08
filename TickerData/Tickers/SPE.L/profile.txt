@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 08:40:25.786029
+address1§Dorna House One
+address2§50 Guildford Road
+city§West End
+zip§GU24 9PW
+country§United Kingdom
+phone§44 1276 919 560
+fax§44 1276 423 310
+website§https://www.sopheon.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Sopheon plc designs, develops, and markets software products with associated implementation and consultancy services in North America and Europe. Its software solutions include Accolade, an enterprise management solution that identify, evaluate, and execute against the right strategic priorities for its portfolio; Acclaim Ideas, an idea management solution; Acclaim Products, which allows product people to track product health, prioritize trade-offs, inform stakeholders, and make decisions; and Acclaim Projects, a project management solution. The company was formerly known as PolyDoc and changed its name to Sopheon plc in 1999. Sopheon plc was founded in 1993 and is based in West End, the United Kingdom.
+fullTimeEmployees§174
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew Lloyd Michuda', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 418108, 'exercisedValue': 0, 'unexercisedValue': 101596}, {'maxAge': 1, 'name': 'Mr. Gregory M. Coticchia', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 297076, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arif  Karimjee A.C.A., ACA', 'age': 56, 'title': 'CFO, Finance Director, Secretary & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 220843, 'exercisedValue': 0, 'unexercisedValue': 38221}, {'maxAge': 1, 'name': 'Charles  Chen', 'title': 'Vice President of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald  Helgeson', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pieter  Leijten', 'title': 'Vice President of Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  MacIntosh', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jen  Bogacz', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Heller', 'title': 'Chief Evangelist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gerard  Ryan', 'title': 'Managing Director of Asia Pacific', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0034
+exDividendDate§1686182400
+payoutRatio§0.6021
+fiveYearAvgDividendYield§0.43
+beta§0.433
+priceToSalesTrailing12Months§2.7210333
+currency§GBp
+forwardEps§0.17
+exchange§LSE
+quoteType§EQUITY
+shortName§SOPHEON PLC ORD 20P
+longName§Sopheon plc
+firstTradeDateEpochUtc§842338800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§18b20b82-c25d-3608-a091-4b0393a91b87
+targetHighPrice§12.44
+targetLowPrice§12.44
+targetMeanPrice§12.44
+targetMedianPrice§12.44
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§1.78
+grossMargins§0.76007
+ebitdaMargins§0.08048
+trailingPegRatio§None

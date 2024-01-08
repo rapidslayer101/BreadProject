@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 04:29:14.443996
+address1§6460 Main Street
+city§Williamsville
+state§NY
+zip§14221
+country§United States
+phone§716 926 2000
+fax§716 926 2005
+website§https://evansbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Evans Bancorp, Inc. primarily operates as financial holding company for Evans Bank, N.A. that provides a range of banking products and services to consumer and commercial customers in the United States. It operates in two segments: Banking Activities and Insurance Agency Activities. The company offers deposit products, which include checking and negotiable order of withdrawal accounts, savings accounts, and certificates of deposit. It also provides residential mortgages; commercial and multi-family mortgages and commercial construction loans; home equities, such as home equity lines of credit and second mortgage loans; commercial and industrial loans comprising term loans and lines of credit; consumer loans, includes direct automobile, recreational vehicle, boat, home improvement, and personal loans; other loans consist of cash reserves, overdrafts, and loan clearing accounts; and installment loans. In addition, the company sells various premium-based insurance policies, including business and personal insurance, employee benefits, surety bonds, risk management, life, disability, and long-term care coverage, as well as provides claims adjusting services to various insurance companies; and non-deposit investment products, such as annuities and mutual funds. Evans Bancorp, Inc. was founded in 1920 and is headquartered in Williamsville, New York.
+fullTimeEmployees§379
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David John Nasca', 'age': 65, 'title': 'CEO, President & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 827519, 'exercisedValue': 243593, 'unexercisedValue': 439756}, {'maxAge': 1, 'name': 'Mr. John B. Connerton', 'age': 56, 'title': 'Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 388714, 'exercisedValue': 0, 'unexercisedValue': 133649}, {'maxAge': 1, 'name': 'Ms. Michelle A. Baumgarden', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas J. Snyder', 'title': 'Assistant Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.32
+dividendYield§0.0422
+exDividendDate§1694995200
+payoutRatio§0.35580003
+fiveYearAvgDividendYield§3.58
+beta§0.935
+priceToSalesTrailing12Months§2.0263288
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.28
+exchange§ASE
+quoteType§EQUITY
+shortName§Evans Bancorp, Inc.
+longName§Evans Bancorp, Inc.
+firstTradeDateEpochUtc§1018963800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f109efad-bf65-3e5f-8f92-b152cd891db6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§26.5
+targetMeanPrice§29.5
+targetMedianPrice§30.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+earningsGrowth§-0.377
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

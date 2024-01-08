@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 13:48:02.912100
+address1§3131 Las Vegas Boulevard South
+city§Las Vegas
+state§NV
+zip§89109
+country§United States
+phone§702 770 7555
+website§https://www.wynnresorts.com
+industry§Resorts & Casinos
+sector§Consumer Cyclical
+longBusinessSummary§Wynn Resorts, Limited designs, develops, and operates integrated resorts. The company operates through four segments: Wynn Palace, Wynn Macau, Las Vegas Operations, and Encore Boston Harbor. The Wynn Palace segment operates private gaming salons and sky casinos; a luxury hotel tower with suites, and villas, including a health club, spa, salon, and pool; food and beverage outlets; retail space; meeting and convention space; and performance lake and floral art displays. The Wynn Macau segment operates casino space with private gaming salons, sky casinos, and a poker room; a luxury hotel tower, that include health clubs, spas, a salon, and a pool; food and beverage outlets; retail space; meeting and convention space; and Chinese zodiac-inspired ceiling attractions. The Las Vegas Operations segment operates casino space with private gaming salons, a sky casino, a poker room, and a race and sports book; a luxury hotel tower with suites, and villas, including swimming pools, private cabanas, full-service spas and salons, and a wedding chapel; food and beverage outlets; meeting and convention space; retail space; and theaters, nightclubs, a beach club. The Encore Boston Harbor segment operates casino space with gaming areas, and a poker room; a luxury hotel tower including a spa and salon; food and beverage outlets and a nightclub; retail space; meeting and convention space; and a waterfront park, floral displays, and water shuttle service. Wynn Resorts, Limited was founded in 2002 and is based in Las Vegas, Nevada.
+fullTimeEmployees§27000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Craig Scott Billings', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 3603338, 'exercisedValue': 0, 'unexercisedValue': 522013}, {'maxAge': 1, 'name': 'Ms. Julie Mireille Cameron-Doe', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1809082, 'exercisedValue': 0, 'unexercisedValue': 245246}, {'maxAge': 1, 'name': 'Ms. Ellen F. Whittemore', 'age': 66, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1834981, 'exercisedValue': 0, 'unexercisedValue': 252273}, {'maxAge': 1, 'name': 'Mr. Robert  Amerine', 'title': 'Vice President \x96 Corporate Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Hansen', 'title': 'Chief Sustainability Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Weaver', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Schoen', 'title': 'President of Wynn Al Marjan Island', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chih-Ling  Chen', 'age': 56, 'title': 'President of Wynn International Marketing, Ltd & Vice Chairman of Wynn Macau, ltd', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3200362, 'exercisedValue': 0, 'unexercisedValue': 1544900}, {'maxAge': 1, 'name': 'Mr. Ian Michael Coughlan', 'age': 64, 'title': 'President & Executive Director of Wynn Macau Limited', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent J. Zahn C.F.A.', 'title': 'Vice President & Assistant Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0105
+exDividendDate§1700179200
+payoutRatio§1.7857001
+fiveYearAvgDividendYield§2.28
+beta§1.98
+priceToSalesTrailing12Months§1.8965197
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.65
+pegRatio§0.19
+exchange§NMS
+quoteType§EQUITY
+shortName§Wynn Resorts, Limited
+longName§Wynn Resorts, Limited
+firstTradeDateEpochUtc§1035552600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ae6a65b-05a9-36c6-8510-d06d0450b198
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§141.0
+targetLowPrice§95.0
+targetMeanPrice§114.18
+targetMedianPrice§113.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§2.529
+grossMargins§0.63768
+ebitdaMargins§0.23368
+trailingPegRatio§None

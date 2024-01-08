@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 17:43:21.014002
+address1§10770 Wateridge Circle
+address2§Suite 210
+city§San Diego
+state§CA
+zip§92121-5801
+country§United States
+phone§858 362 6295
+fax§858 362 6296
+website§https://www.anaptysbio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§AnaptysBio, Inc., a clinical-stage biotechnology company, focuses in delivering immunology therapeutics. Its products include Imsidolimab, an antibody that inhibits the interleukin-36 receptor, which is in the Phase 3 trial for the treatment of generalized pustular psoriasis; Rosnilimab, an anti-PD-1 agonist antibody program designed to suppress T-cell driven inflammatory diseases by augmenting signaling through PD-1 or targeted depletion of PD-1+ T cells; and ANB032, an anti-BTLA modulator antibody applicable to human inflammatory diseases associated with lymphoid and myeloid immune cell dysregulation. The company also focuses on developing various antibody programs that are advanced to preclinical and clinical milestones under its collaborations. It has a collaboration and license agreement with GlaxoSmithKline, Inc. and Bristol-Myers Squibb; and license agreements with United Kingdom Research and Innovation, as well as Millipore Corporation. The company was formerly known as Anaptys Biosciences, Inc. and changed its name to AnaptysBio, Inc. in July 2006. AnaptysBio, Inc. was incorporated in 2005 and is based in San Diego, California.
+fullTimeEmployees§96
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Daniel R. Faga', 'age': 43, 'title': 'President, CEO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 867115, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric J. Loumeau', 'age': 60, 'title': 'Chief Legal Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 685593, 'exercisedValue': 0, 'unexercisedValue': 1070611}, {'maxAge': 1, 'name': 'Dr. James N. Topper M.D., Ph.D.', 'age': 61, 'title': 'Advisor', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 86500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Paul F. Lizzul FAAD, M.B.A., M.D., M.P.H., Ph.D.', 'age': 48, 'title': 'Chief Medical Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 656358, 'exercisedValue': 0, 'unexercisedValue': 718650}, {'maxAge': 1, 'name': 'Mr. Dennis M. Mulroy', 'age': 68, 'title': 'Chief Financial Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 448807, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Stone', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Mueller', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Martin  Dahl Ph.D.', 'title': 'Senior Vice President of Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas A. Rich M.B.A.', 'age': 54, 'title': 'Senior Vice President of CMC', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.27
+priceToSalesTrailing12Months§38.06862
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-6.52
+exchange§NMS
+quoteType§EQUITY
+shortName§AnaptysBio, Inc.
+longName§AnaptysBio, Inc.
+firstTradeDateEpochUtc§1485441000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3d841784-242f-31d7-bc24-dd1d6e0e95f0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§20.0
+targetMeanPrice§27.0
+targetMedianPrice§21.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§10.626
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

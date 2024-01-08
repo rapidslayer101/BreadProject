@@ -1,0 +1,61 @@
+# reload+after+2024-01-22 09:26:57.771696
+address1§630 East Foothill Boulevard
+city§San Dimas
+state§CA
+zip§91773-1212
+country§United States
+phone§909 394 3600
+website§https://www.aswater.com
+industry§Utilities - Regulated Water
+industryKey§utilities-regulated-water
+industryDisp§Utilities - Regulated Water
+sector§Utilities
+sectorKey§utilities
+sectorDisp§Utilities
+longBusinessSummary§American States Water Company, through its subsidiaries, provides water and electric services to residential, commercial, industrial, and other customers in the United States. It operates through three segments: Water, Electric, and Contracted Services. The company purchases, produces, distributes, and sells water, as well as distributes electricity. As of December 31, 2022, American States Water Company provided water service to 263,265 customers located throughout 10 counties in the State of California; and distributed electricity to 24,705 customers in San Bernardino County mountain communities in California. The company also provides water and/or wastewater services, including the operation, maintenance, and construction of facilities at the water and/or wastewater systems at various military installations. American States Water Company was incorporated in 1929 and is headquartered in San Dimas, California.
+fullTimeEmployees§811
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert J. Sprowls', 'age': 65, 'title': 'CEO, President & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2061469, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eva G. Tang', 'age': 67, 'title': 'Senior VP of Finance, CFO, Corporate Secretary & Treasurer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 788957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher H. Connor', 'age': 52, 'title': 'Senior Vice President of ASUS', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 519553, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gladys M. Farrow', 'age': 58, 'title': 'Assistant Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 474049, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.72
+dividendYield§0.0222
+exDividendDate§1699920000
+payoutRatio§0.4887
+fiveYearAvgDividendYield§1.63
+beta§0.436
+priceToSalesTrailing12Months§4.8121214
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.95
+pegRatio§6.29
+lastDividendValue§0.43
+lastDividendDate§1699920000
+exchange§NYQ
+quoteType§EQUITY
+shortName§American States Water Company
+longName§American States Water Company
+firstTradeDateEpochUtc§99153000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cb442e7e-8e1e-330e-86ae-b55acdb3d469
+messageBoardId§finmb_304353
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§95.0
+targetLowPrice§79.0
+targetMeanPrice§87.33
+targetMedianPrice§88.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.693
+earningsGrowth§0.229
+grossMargins§0.59066004
+ebitdaMargins§0.39532003
+trailingPegRatio§None

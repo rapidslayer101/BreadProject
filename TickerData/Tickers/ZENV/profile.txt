@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 13:48:07.151096
+address1§Avenida Paulista, 2300
+address2§18th Floor Suites 182 and 184
+city§São Paulo
+state§SP
+zip§01310-300
+country§Brazil
+website§https://www.zenvia.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Zenvia Inc. develops a cloud-based platform that enables organizations to integrate several communication capabilities in Brazil, Mexico, and Argentina. It offers communication channels for businesses to engage or interact with their customers, such as SMS, Voice, WhatsApp, Facebook Instagram, Webchat, Messenger, rich communication service (RCS), and video; and communication solutions comprising SaaS for communication between businesses and end-consumers, such as marketing campaigns, sales teams' management, customer service and engagement, and customer success. The company also provides Zenvia Chat, a customer service platform that manages different communication channels in a single environment; Zenvia Message, a campaign manager to trigger RCS, SMS, and WhatsApp messages; Sirena, a solution for sales teams to communicate with customers through WhatsApp; and SenseData, a solution that uses advanced techniques to integrate and analyze large volumes of customer data, creating a unique 360º view of the customers and generating insights. In addition, it offers Zenvia Flow, a visual flow builder that allows customers to create communication and/or automation flows; Jornadas solution for enterprise clients to communicate with their customers through various digital channels and generate data-rich documents; and ALTU, the conversational automation solution for larger companies to solve their customer needs with automated yet humanized service through artificial intelligence. The company's platform assists customers in various use cases comprising marketing campaigns, customer acquisition, customer onboarding, warnings, customer services, fraud control, cross-selling and customer retention, ticket resolution, consumer health, and others. Zenvia Inc. was incorporated in 2020 and is based in São Paulo, Brazil.
+fullTimeEmployees§1191
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Cassio  Bobsin Machado', 'age': 42, 'title': 'Founder, CEO, Chairman & Interim Chief Sales Office', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shay  Chor', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lilian  Lima', 'age': 55, 'title': 'Chief Technology Officer', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcelo  Wakatsuki', 'title': 'Chief Marketing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katiuscia Alice Teixeira', 'age': 32, 'title': 'Chief People Officer & Chief Human Resources Officer', 'yearBorn': 1991, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raphael  Godoy', 'age': 40, 'title': 'Chief Revenue Officer of SaaS', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luca  Bazuro', 'age': 35, 'title': 'Chief Revenue Officer of Consulting', 'yearBorn': 1988, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cristiano  Franco', 'age': 47, 'title': 'Chief Revenue Officer of CPaaS', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mariana  Cambiaghi', 'age': 42, 'title': 'Chief Controller Officer & Finance Executive Director', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.443
+priceToSalesTrailing12Months§0.062715046
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.17
+exchange§NCM
+quoteType§EQUITY
+shortName§Zenvia Inc.
+longName§Zenvia Inc.
+firstTradeDateEpochUtc§1626960600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§553e0e1f-47e4-30cf-ae26-adbafcb2c40c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.81
+targetLowPrice§1.1
+targetMeanPrice§1.53
+targetMedianPrice§1.6
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.504
+grossMargins§0.40584
+ebitdaMargins§-0.00086000003
+trailingPegRatio§None

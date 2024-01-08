@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 19:45:19.929927
+address1§555 West 18Th Street
+city§New York
+state§NY
+zip§10011
+country§United States
+phone§212 314 7300
+website§https://www.iac.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§IAC Inc., together with its subsidiaries, operates as a media and internet company worldwide. The company publishes original and engaging digital content in the form of articles, illustrations, and videos and images across entertainment, food, home, beauty, travel, health, family, luxury, and fashion areas; and magazines related to women and lifestyle. It also operates a digital marketplace that connects home service professionals with consumers for repairing, remodeling, cleaning, landscaping, maintenance, and enhancement services under the Angi Ads, Angi Leads, and Angi Services brands. In addition, the company operates websites that offer general search services and information, including Ask.com, a search site with a variety of fresh and contemporary content; Reference.com that offers content across select vertical categories; Consumersearch.com, which offers content designed to simplify the product research process; and Shopping.net, a vertical shopping search site that contains a mix of search services and/or content targeted to various user or segment demographics, as well as offers direct-to-consumer downloadable desktop applications. Further, it offers Care.com, an online destination for families to connect with caregivers for their children, aging parents, pets, and homes; develops and provides subscription mobile applications across the communication, language, weather, business, health, and lifestyle verticals; a technology driven staffing platform for flexible W-2 work under the Bluecrew name; a platform to connect healthcare professionals with job opportunities under the Vivian Health name; The Daily Beast, a website dedicated to news, commentary, culture, and entertainment that publishes original reporting and opinion; and production and producer services for feature films for sale and distribution through theatrical releases and video-on-demand services. The company was formerly known as IAC/InterActiveCorp. IAC Inc. is headquartered in New York, New York.
+fullTimeEmployees§11000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Barry  Diller', 'age': 81, 'title': 'Chairman & Senior Executive', 'yearBorn': 1942, 'fiscalYear': 2022, 'totalPay': 972440, 'exercisedValue': 0, 'unexercisedValue': 28974000}, {'maxAge': 1, 'name': 'Mr. Joseph M. Levin', 'age': 44, 'title': 'CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 4477703, 'exercisedValue': 0, 'unexercisedValue': 30493400}, {'maxAge': 1, 'name': 'Mr. Christopher P. Halpin', 'title': 'Executive VP, CFO & COO', 'fiscalYear': 2022, 'totalPay': 2559231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kendall  Handler', 'age': 38, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 1830000, 'exercisedValue': 0, 'unexercisedValue': 110085}, {'maxAge': 1, 'name': 'Mr. Mark J. Stein', 'age': 55, 'title': 'Senior Advisor', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 560000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Bradbury', 'age': 45, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Schneider', 'title': 'Senior Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Valerie  Combs', 'title': 'Senior VP & Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lauren  Geer', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glenn Howard Schiffman', 'age': 53, 'title': 'Executive VP & CFO of Fanatics', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 426838, 'exercisedValue': 8014544, 'unexercisedValue': 35620852}]
+auditRisk§2
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.327
+priceToSalesTrailing12Months§0.9803704
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.1
+pegRatio§1.97
+exchange§NMS
+quoteType§EQUITY
+shortName§IAC Inc.
+longName§IAC Inc.
+firstTradeDateEpochUtc§727453800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§973ec353-d1e7-3aea-9ede-ecac026a80a3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§54.0
+targetMeanPrice§71.0
+targetMedianPrice§65.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§1.902
+grossMargins§0.67973
+ebitdaMargins§-0.009509999
+trailingPegRatio§None

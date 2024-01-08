@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 10:43:16.701931
+address1§131 Oyster Point Boulevard
+address2§Suite 600
+city§South San Francisco
+state§CA
+zip§94080
+country§United States
+phone§415 231 5660
+website§https://www.alector.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Alector, Inc., a clinical stage biopharmaceutical company, develops therapies for the treatment of neurodegeneration diseases. Its products include AL001, an immune activity in the brain with genetic links to multiple neurodegenerative disorders, which is in Phase III clinical trial for the treatment of frontotemporal dementia, Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis diseases; and AL101 that is in Phase I clinical trial for the treatment of neurodegenerative diseases, including Alzheimer's and Parkinson's diseases. The company also offers AL002, a product candidate that is in Phase II clinical trial for the treatment of Alzheimer's disease; and AL003, which is in Phase I clinical trial for the treatment of Alzheimer's disease. Its pipeline products include AL044 that targets MS4A4A, a risk gene for Alzheimer's disease. Alector, Inc. has a collaboration agreement with Adimab, LLC for the research and development of antibodies; and a strategic collaboration agreement with GlaxoSmithKline plc for the development and commercialization of monoclonal antibodies, such as AL001, AL002, and AL101 to treat neurodegenerative diseases. Alector, Inc. was founded in 2013 and is headquartered in South San Francisco, California.
+fullTimeEmployees§246
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Arnon  Rosenthal Ph.D.', 'age': 67, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1019944, 'exercisedValue': 0, 'unexercisedValue': 535000}, {'maxAge': 1, 'name': 'Dr. Sara  Kenkare-Mitra Ph.D.', 'age': 55, 'title': 'President and Head of Research & Development', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1189502, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marc  Grasso M.D.', 'age': 50, 'title': 'CFO, Principal Financial Officer & Principal Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 738047, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Gary  Romano M.D., Ph.D.', 'age': 61, 'title': 'Chief Medical Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 602976, 'exercisedValue': 0, 'unexercisedValue': 1614}, {'maxAge': 1, 'name': 'Mr. Peter  Heutink Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katie  Hogan', 'title': 'Senior Director of Corporate Communication & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle  Pasqualone J.D., Ph.D.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Clare  Hunt M.B.A.', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristina  Cutter M.P.H.', 'title': 'Chief Regulatory, Pharmacovigilance, & Quality Assurance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Virginia  DeJesus-Rueff M.B.A.', 'title': 'Chief of Staff & Head of Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.781
+priceToSalesTrailing12Months§6.543127
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.17
+pegRatio§0.41
+exchange§NMS
+quoteType§EQUITY
+shortName§Alector, Inc.
+longName§Alector, Inc.
+firstTradeDateEpochUtc§1549549800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§92f69e0b-76d9-379a-b19d-23f78cf134c6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§4.0
+targetMeanPrice§14.22
+targetMedianPrice§12.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§3.857
+grossMargins§-1.06501
+ebitdaMargins§-1.5994201
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 11:46:20.511815
+address1§3 Easton Oval
+address2§Suite 500
+city§Columbus
+state§OH
+zip§43219
+country§United States
+phone§814 726 2140
+website§https://www.northwest.bank
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Northwest Bancshares, Inc. operates as the bank holding company for Northwest Bank, a state-chartered savings bank that provides personal and business banking solutions. The company accepts various deposits, including checking, savings, money market deposit, term certificate, and individual retirement accounts. It also offers loan products comprising one-to-four-family residential real estate loans, shorter term consumer loans, and loans collateralized by multi-family residential and commercial real estate; home equity loans and lines of credit; commercial business and real estate loans; commercial loans; and consumer loans, including automobile loans, sales finance loans, unsecured personal loans, credit card loans, and loans secured by deposit accounts. The company also offers investment management and trust services; and title insurance services. It operates community-banking locations throughout its market area in Pennsylvania, western New York, eastern Ohio, and Indiana. Northwest Bancshares, Inc. was founded in 1896 and is headquartered in Columbus, Ohio.
+fullTimeEmployees§2084
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Louis J. Torchio', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1026310, 'exercisedValue': 0, 'unexercisedValue': 30935}, {'maxAge': 1, 'name': 'Mr. William W. Harvey Jr.', 'age': 57, 'title': 'Senior EVP, COO, CFO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1145283, 'exercisedValue': 84181, 'unexercisedValue': 9}, {'maxAge': 1, 'name': 'Mr. Scott J. Watson', 'age': 56, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 528555, 'exercisedValue': 0, 'unexercisedValue': 24948}, {'maxAge': 1, 'name': 'Mr. John J. Golding', 'age': 58, 'title': 'Senior Executive Vice President of Consumer Banking', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 561341, 'exercisedValue': 0, 'unexercisedValue': 30935}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Maddigan', 'age': 51, 'title': 'Executive VP of Finance & Accounting, Corporate Treasurer and Principal Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Forrest Tefft', 'title': 'Senior Vice President of Corporate Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael W. Cappetta', 'title': 'Senior VP & Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard K. Laws', 'title': 'Executive VP, Chief Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Leslie D. Kurtz', 'title': 'Senior VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn O. Walker', 'title': 'Executive VP of Corporate Communications & Regional Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0644
+exDividendDate§1698796800
+payoutRatio§0.72730005
+fiveYearAvgDividendYield§5.84
+beta§0.622
+priceToSalesTrailing12Months§2.9042294
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.92
+pegRatio§1.66
+exchange§NMS
+quoteType§EQUITY
+shortName§Northwest Bancshares, Inc.
+longName§Northwest Bancshares, Inc.
+firstTradeDateEpochUtc§784218600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§917e9004-b2fc-3c66-a98d-a52783dbb246
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.5
+targetLowPrice§11.0
+targetMeanPrice§11.5
+targetMedianPrice§11.0
+recommendationMean§3.2
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§0.064
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 10:40:12.062815
+address1§Morgan House
+address2§Madeira Walk Berkshire
+city§Windsor
+zip§SL4 1EP
+country§United Kingdom
+phone§44 1753 852 222
+fax§44 1753 852 224
+website§https://www.recordcm.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Record plc, through its subsidiaries, provides currency and derivative management services in the United Kingdom, North America, Continental Europe, Australia, and internationally. It offers asset management services; derivatives, such as options, futures, cross-currency, and total-return swaps; fixed income instruments, including bonds and loans; ancillary services including cash and liquidity management, collateral management, and derivatives overlays. The company's clients include asset managers, pension funds, foundations, and other institutional investors. Record plc was founded in 1983 and is headquartered in Windsor, the United Kingdom.
+fullTimeEmployees§97
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Leslie Hill Meier', 'age': 68, 'title': 'CEO & Executive Director', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 2964684, 'exercisedValue': 0, 'unexercisedValue': 181317}, {'maxAge': 1, 'name': 'Mr. Steve  Cullen C.A., F.C.A.', 'age': 55, 'title': 'CFO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 389150, 'exercisedValue': 0, 'unexercisedValue': 81987}, {'maxAge': 1, 'name': 'Mr. Joel Duncan Sleigh', 'age': 53, 'title': 'Chief Operating Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dmitri Eduardovich Tikhonov Ph.D.', 'age': 50, 'title': 'Chief Investment Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Venis', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Grady  Laurie', 'age': 54, 'title': 'Head of Compliance', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan Hendrik Witte', 'title': 'Global Head of Sales & Executive Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Ayles', 'age': 52, 'title': 'Head of Human Resources & Company Secretary', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrey  Rumyantsev', 'age': 36, 'title': 'Managing Director of FX Risk Management Solutions', 'yearBorn': 1987, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Bloomfield', 'title': 'Director & Head of Macro Research', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.0648
+exDividendDate§1701302400
+payoutRatio§0.8841
+fiveYearAvgDividendYield§5.2
+beta§1.062
+priceToSalesTrailing12Months§3.0896163
+currency§GBp
+forwardEps§5.76
+exchange§LSE
+quoteType§EQUITY
+shortName§RECORD PLC ORD 0.025P
+longName§Record plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f56774cf-a946-3155-b056-c503fd34e0a0
+recommendationKey§none
+quickRatio§4.489
+earningsGrowth§-0.228
+grossMargins§0.99846
+ebitdaMargins§0.31334
+trailingPegRatio§None

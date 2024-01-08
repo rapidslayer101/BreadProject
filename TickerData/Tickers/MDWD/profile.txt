@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 17:45:59.370754
+address1§42 Hayarkon Street
+city§Yavne
+zip§8122745
+country§Israel
+phone§972 7 797 14100
+fax§972 7 797 14111
+website§https://www.mediwound.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§MediWound Ltd., a biopharmaceutical company, develops, manufactures, and commercializes novel, bio-therapeutic, and non-surgical solutions for tissue repair and regeneration in United States, Europe, and internationally. It markets NexoBrid, a biopharmaceutical product for the removal of eschar, a dead or damaged tissue in adults with deep partial- and full-thickness thermal burns to burn centers and hospitals burn units. The company also develops EscharEx, which has completed Phase II clinical trials for the debridement of chronic and other hard-to-heal wounds; MW005, which is in phase I/II for the treatment of low-risk basal cell carcinoma. MediWound Ltd. was incorporated in 2000 and is headquartered in Yavne, Israel.
+fullTimeEmployees§83
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ofer  Gonen B.Sc.', 'age': 50, 'title': 'Chief Executive Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 485000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Lior  Rosenberg M.D.', 'age': 77, 'title': 'Co-Founder', 'yearBorn': 1946, 'fiscalYear': 2022, 'totalPay': 727000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ety  Klinger MBA, Ph.D.', 'age': 61, 'title': 'Chief Research & Development Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 393000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hani  Luxenburg', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Shmulik  Hess Ph.D.', 'title': 'COO & Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yaron  Meyer Adv.', 'age': 44, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 240000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry J. Wolfenson', 'age': 56, 'title': 'Executive Vice President of Strategy & Corporate Development', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert J. Snyder CWS, D.P.M., F.A.C.F.A.S., FFPM, M.B.A., M.Sc.', 'age': 73, 'title': 'Chief Medical Officer', 'yearBorn': 1950, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.961
+priceToSalesTrailing12Months§4.2355566
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.35
+pegRatio§-0.14
+exchange§NGM
+quoteType§EQUITY
+shortName§MediWound Ltd.
+longName§MediWound Ltd.
+firstTradeDateEpochUtc§1395322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d731941-74dc-3c53-8065-5808c744e4bc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§25.0
+targetMeanPrice§28.0
+targetMedianPrice§25.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§5.875
+grossMargins§0.44127998
+ebitdaMargins§-0.30762
+trailingPegRatio§None

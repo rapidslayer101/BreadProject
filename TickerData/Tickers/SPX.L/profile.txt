@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 12:40:26.436981
+address1§Charlton House
+address2§Cirencester Road
+city§Cheltenham
+zip§GL53 8ER
+country§United Kingdom
+phone§44 12 4252 1361
+website§https://www.spiraxsarcoengineering.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Spirax-Sarco Engineering plc provides engineered solutions for the users of industrial and commercial steam systems, electrical heating and temperature management systems, and pumps and fluid path technologies. The company offers industrial and commercial steam systems, including condensate management, controls, and thermal energy management products and solutions for heating, curing, cooking, drying, cleaning, sterilizing, space heating, humidifying, vacuum packing, and producing hot water; electrical process heating and temperature management solutions, such as industrial heaters and systems, heat tracing, and various component technologies for industrial processes; and peristaltic and niche pumps and associated fluid path technologies, including pumps, tubing, and specialty filling systems and products for single-use applications. It serves pharmaceutical and biotechnology, food, beverage, oil, gas, chemical, power generation, healthcare, water and wastewater, buildings, mining and precious metal processing, semiconductor, and transport sectors, as well as original equipment manufacturers. The company sells its products directly, as well as through distributors. It operates in Europe, the Middle East, and Africa; the Asia Pacific; and the Americas. The company was founded in 1888 and is headquartered in Cheltenham, the United Kingdom.
+fullTimeEmployees§10000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nicholas J. Anderson B.Sc., Eng., MBA', 'age': 62, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1369650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nimesh Balvir Patel B.Sc.', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 959404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy J. Robson L.L.B., LLB Law, Barrister', 'age': 60, 'title': 'Group General Counsel & Company Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Devine', 'title': 'Group Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Harvey', 'title': 'Head of Internal Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Mines', 'age': 51, 'title': 'Managing Director of Watson-Marlow', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Peers', 'title': 'Group Director of Sustainability', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maurizio  Preziosa', 'title': 'Managing Director of Steam Specialties', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Forrester', 'title': 'Head of Employee Experience', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren  Towers', 'title': 'Head of Inclusion, Diversity & Wellbeing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.56
+dividendYield§0.0159
+exDividendDate§1697068800
+payoutRatio§0.533
+fiveYearAvgDividendYield§1.17
+beta§0.703
+priceToSalesTrailing12Months§4.528209
+currency§GBp
+forwardEps§352.87
+pegRatio§6.91
+exchange§LSE
+quoteType§EQUITY
+shortName§SPIRAX-SARCO ENGINEERING PLC OR
+longName§Spirax-Sarco Engineering plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2c905ea1-0e68-37c9-8d08-dae1ed4e6e15
+targetHighPrice§12700.0
+targetLowPrice§7775.0
+targetMeanPrice§9771.92
+targetMedianPrice§10000.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§1.113
+earningsGrowth§-0.146
+grossMargins§0.70677
+ebitdaMargins§0.24087
+trailingPegRatio§6.1812

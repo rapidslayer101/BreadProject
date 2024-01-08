@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 20:46:49.363688
+address1§150 Cambridgepark Drive
+address2§8th Floor, Suite 2
+city§Cambridge
+state§MA
+zip§02140
+country§United States
+phone§617 221 9059
+website§https://pyxisoncology.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Pyxis Oncology, Inc., a clinical-stage biopharmaceutical company, engages in the development of therapies to treat cancers. Its immune-oncology product candidates include PYX-106, an investigational fully human immunoglobulin G1 isotype siglec-15 targeting antibody, which is in Phase 1 clinical trial for the treatment of solid tumors, including non-small cell lung cancer (NSCLC) without driver mutations/translocations, breast cancer, endometrial cancer, thyroid cancer, kidney cancer, cholangiocarcinoma, bladder cancer, colorectal cancer, and head and neck squamous cell carcinoma. The company's antibody drug conjugate product candidate is PYX-201, an investigational human immunoglobulin G1 isotype site-specifically conjugated, which is in Phase 1 clinical trial for solid tumors, including NSCLC, hormone receptor-positive breast cancer, ovarian cancer, thyroid cancer, pancreatic ductal adenocarcinoma, soft tissue sarcoma, hepatocellular carcinoma, and kidney cancer. The company was incorporated in 2018 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§67
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John L. Flavin M.B.A., MBA, Ph.D.', 'age': 52, 'title': 'Co-Founder & Independent Chairman', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 87500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Lara S. Sullivan M.D., MBA', 'title': 'CEO, President & Director', 'fiscalYear': 2022, 'totalPay': 876058, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela Yanchik Connealy M.B.A.', 'age': 61, 'title': 'CFO & COO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 685096, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jitendra  Wadhane', 'age': 42, 'title': 'Chief Accounting Officer, Senior VP of Finance & Corporate Controller', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Balu N. Balasubramanian Ph.D.', 'title': 'Interim Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jan  Pinkas Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Charles T. Gombar Ph.D.', 'title': 'Senior Vice President of Portfolio & Program Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Kobayashi FACP, M.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.088
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.49
+pegRatio§-0.03
+exchange§NMS
+quoteType§EQUITY
+shortName§Pyxis Oncology, Inc.
+longName§Pyxis Oncology, Inc.
+firstTradeDateEpochUtc§1633699800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§52f958b2-f40f-3ac7-b706-60c2d6f7c43d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§4.0
+targetMeanPrice§6.25
+targetMedianPrice§6.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§4.693
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

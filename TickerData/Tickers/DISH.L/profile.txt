@@ -1,0 +1,35 @@
+# reload+after+2024-01-22 13:35:26.785086
+address1§Woodford House
+address2§1st Floor Peter Street
+city§Saint Helier
+zip§JE2 4SP
+country§Jersey
+website§https://www.eatamala.com
+industry§Shell Companies
+industryKey§shell-companies
+industryDisp§Shell Companies
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Amala Foods Plc, a food technology company, produces and distributes processed plant-based food products. It offers amala pepperoni, breakfast sausage patty, mexican sausage, and beefy hotdogs, as well as plant-based meatballs. The company was formerly known as BigDish Plc and changed its name to Amala Foods Plc in February 2021. Amala Foods Plc was incorporated in 2016 and is based in Saint Helier, the United Kingdom.
+fullTimeEmployees§2
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Aidan  Bishop', 'age': 53, 'title': 'Founder & Executive Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Sumner', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Archie  Rodriguez', 'title': 'Co-Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart Ventross Kemp', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nachi  Ugarte', 'title': 'Head of Marketing', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sanj  Naha', 'title': 'Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron  Davis', 'title': 'Head of R&D', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Roger  Matthews', 'title': 'Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.068
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§AMALA FOODS PLC ORD NPV
+longName§Amala Foods Plc
+firstTradeDateEpochUtc§1533193200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a38f11cb-ff6d-3940-a97f-5dede13a0c8d
+messageBoardId§finmb_561470592
+recommendationKey§none
+quickRatio§0.18
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

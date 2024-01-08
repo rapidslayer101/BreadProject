@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 22:33:49.341713
+address1§450 - 1 Street SW
+city§Calgary
+state§AB
+zip§T2P 5H1
+country§Canada
+phone§403-920-2000
+website§https://www.tcenergy.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§TC Energy Corporation operates as an energy infrastructure company in North America. It operates through five segments: Canadian Natural Gas Pipelines; U.S. Natural Gas Pipelines; Mexico Natural Gas Pipelines; Liquids Pipelines; and Power and Energy Solutions. The company builds and operates a network of 93,700 kilometers of natural gas pipelines, which transports natural gas from supply basins to local distribution companies, power generation plants, industrial facilities, interconnecting pipelines, LNG export terminals, and other businesses. It also has regulated natural gas storage facilities with a total working gas capacity of 532 billion cubic feet. In addition, it has approximately 4,900 kilometers of liquids pipeline system that connects Alberta crude oil pipeline to refining markets in Illinois, Oklahoma, and Texas. Further, the company owns or has interests in seven power generation facilities with a combined capacity of approximately 4,300 megawatts that are powered by natural gas and nuclear fuel sources located in Alberta, Ontario, Québec, and New Brunswick; and owns and operates approximately 118 billion cubic feet of non-regulated natural gas storage capacity in Alberta. The company was formerly known as TransCanada Corporation and changed its name to TC Energy Corporation in May 2019. TC Energy Corporation was incorporated in 1951 and is headquartered in Calgary, Canada.
+fullTimeEmployees§7477
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Francois Lionel Poirier', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2002002, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel E. Hunter', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 813049, 'exercisedValue': 512839, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stanley Graham Chapman III', 'age': 57, 'title': 'Executive VP & COO of Natural Gas Pipelines', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1643127, 'exercisedValue': 1115763, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bevin Mark Wirzba M.B.A., P.Eng.', 'title': 'Executive VP, Group President, Liquids Pipelines & Coastal GasLink', 'fiscalYear': 2022, 'totalPay': 921925, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gavin  Wylie', 'title': 'Vice-President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick M. Keys', 'title': 'Executive VP, General Counsel and Chief Compliance & Sustainability Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annesley  Wallace', 'title': 'Executive VP of Strategy, Corporate Development and President of Power & Energy Solutions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Prior', 'title': 'President of Liquids Pipelines.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn E. de Lima', 'title': 'Executive Vice-President of Corporate Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick C. Muttart', 'title': 'Senior Vice President of External Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.81
+dividendYield§0.0704
+exDividendDate§1703721600
+payoutRatio§4.0667
+fiveYearAvgDividendYield§5.6
+beta§0.801
+priceToSalesTrailing12Months§3.019873
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.04
+pegRatio§-8.11
+exchange§NYQ
+quoteType§EQUITY
+shortName§TC Energy Corporation
+longName§TC Energy Corporation
+firstTradeDateEpochUtc§401376600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a0fc2dd4-cd3b-3d52-9cff-f9209cc74648
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§71.88
+targetLowPrice§28.95
+targetMeanPrice§43.26
+targetMedianPrice§40.37
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§0.633
+grossMargins§0.61673
+ebitdaMargins§0.54916
+trailingPegRatio§None

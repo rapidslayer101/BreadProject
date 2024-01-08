@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 03:44:14.253778
+address1§13601 Via Varra
+city§Broomfield
+state§CO
+zip§80020
+country§United States
+phone§303 848 7000
+website§https://www.crocs.com
+industry§Footwear & Accessories
+sector§Consumer Cyclical
+longBusinessSummary§Crocs, Inc., together with its subsidiaries, designs, develops, manufactures, markets, and distributes casual lifestyle footwear and accessories for men, women, and children worldwide. It offers various footwear products, including clogs, sandals, slides, flips, wedges, platforms, socks, boots, shoe charms, and slippers under the Crocs brand name. The company sells its products in approximately 85 countries through wholesalers, retail stores, e-commerce sites, and third-party marketplaces. Crocs, Inc. was founded in 1999 and is headquartered in Broomfield, Colorado.
+fullTimeEmployees§6680
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Rees', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2697650, 'exercisedValue': 0, 'unexercisedValue': 20290000}, {'maxAge': 1, 'name': 'Ms. Michelle  Poole', 'age': 55, 'title': 'Executive VP & Brand President for Crocs', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1275222, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  Mehlman', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1280973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Michaels', 'age': 46, 'title': 'Executive VP & Chief Digital Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1076672, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard J. Blackshaw', 'age': 59, 'title': 'Executive VP & Brand President for HEYDUDE', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1392616, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Thomas  Britt', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marisa F. Jacobs', 'title': 'Global Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel P. Hart', 'age': 64, 'title': 'Executive VP and Chief Legal & Risk Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1242601, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon  Sisler', 'age': 49, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik  Olson', 'title': 'Senior Vice President of Global Sourcing & Product Execution', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.932
+priceToSalesTrailing12Months§1.326511
+currency§USD
+dateShortInterest§1702598400
+forwardEps§12.2
+pegRatio§0.77
+exchange§NMS
+quoteType§EQUITY
+shortName§Crocs, Inc.
+longName§Crocs, Inc.
+firstTradeDateEpochUtc§1139409000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§28166f72-2353-3b0b-bc03-31981380e626
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§160.0
+targetLowPrice§79.0
+targetMeanPrice§122.17
+targetMedianPrice§124.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.841
+earningsGrowth§0.055
+grossMargins§0.53540003
+ebitdaMargins§0.26983
+trailingPegRatio§None

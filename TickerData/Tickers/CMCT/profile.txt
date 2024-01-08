@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 11:44:07.416970
+address1§5956 Sherry Lane
+address2§Suite 700
+city§Dallas
+state§TX
+zip§75225
+country§United States
+phone§972 349 3200
+fax§972 349 3265
+website§https://www.creativemediacommunity.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Creative Media & Community Trust Corporation (formerly known as CIM Commercial Trust Corporation) (the "Company"), is a Maryland corporation and real estate investment trust ("REIT"). The Company primarily acquires, develops, owns and operates both premier multifamily properties situated in vibrant communities throughout the United States and Class A and creative office real assets in markets with similar business and employment characteristics to its multifamily investments. The Company also owns one hotel in northern California and a lending platform that originates loans under the Small Business Administration ("SBA") 7(a) loan program. The Company seeks to apply the expertise of CIM Group Management, LLC ("CIM Group") and its affiliates to the acquisition, development and operation of premier multifamily properties and creative office assets that cater to rapidly growing industries such as technology, media and entertainment in vibrant and emerging communities throughout the United States.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Thompson CPA', 'age': 59, 'title': 'Chief Executive Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry Neil Berlin CPA', 'age': 62, 'title': 'Executive VP, CFO, Treasurer & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 151164, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shaul  Kuba', 'age': 60, 'title': 'Chief Investment Officer & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Altebrando', 'title': 'VP, Equity Capital Markets', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordan  Dembo', 'title': 'MD & Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Allman', 'title': 'Managing Director of Capital Markets', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Dupree', 'title': 'MD of Partner & Co-Investor Relations and Product Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Harter', 'title': 'Principal of Development - CIM Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terry  Wachsner', 'title': 'Principal of Asset Management - CIM Group.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.34
+dividendYield§0.0919
+exDividendDate§1703808000
+payoutRatio§1.5789
+fiveYearAvgDividendYield§4.81
+beta§0.534
+priceToSalesTrailing12Months§0.7224637
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.69
+exchange§NGM
+quoteType§EQUITY
+shortName§Creative Media & Community Trus
+longName§Creative Media & Community Trust Corporation
+firstTradeDateEpochUtc§756138600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3bd6d78e-df0f-315d-847f-09398de3b160
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§6.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.981
+grossMargins§0.45529997
+ebitdaMargins§0.34879002
+trailingPegRatio§None

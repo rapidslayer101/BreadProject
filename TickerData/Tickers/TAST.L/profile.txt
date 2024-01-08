@@ -1,0 +1,32 @@
+# reload+after+2024-01-20 14:40:38.788780
+address1§32 Charlotte Street
+city§London
+zip§W1T 2NQ
+country§United Kingdom
+phone§44 203 9498800
+website§https://www.dimt.co.uk/investor-relations/profile/
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Tasty plc owns and operates restaurants in the United Kingdom casual dining market. It operates restaurants under the Wildwood and dim t name. Tasty plc was incorporated in 2006 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1100
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Keith  Lassman', 'age': 64, 'title': 'Non-Executive Chairman & Secretary', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 44000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Jonathan Plant', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 169000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mayuri Kantilal Vachhani', 'age': 52, 'title': 'Executive Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 177000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ian  Davies', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.761
+priceToSalesTrailing12Months§0.039697483
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§TASTY PLC ORD 0.1P
+longName§Tasty plc
+firstTradeDateEpochUtc§1151996400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6c6f32c1-416a-313d-b305-1d0973d1df52
+recommendationKey§none
+quickRatio§0.418
+grossMargins§-0.03079
+ebitdaMargins§-0.08901
+trailingPegRatio§None

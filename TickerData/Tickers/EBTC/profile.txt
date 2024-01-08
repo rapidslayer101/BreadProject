@@ -1,0 +1,45 @@
+# reload+after+2024-01-22 04:44:29.508605
+address1§222 Merrimack Street
+city§Lowell
+state§MA
+zip§01852
+country§United States
+phone§978 459 9000
+website§https://www.enterprisebanking.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Enterprise Bancorp, Inc. operates as the holding company of Enterprise Bank and Trust Company that provides commercial banking products and services. It offers commercial and retail deposit products, including checking accounts, limited-transactional savings and money market accounts, commercial sweep products, and term certificates of deposit. The company also provides commercial real estate, commercial and industrial, commercial construction, residential, and consumer loans, as well as home equity loans and lines of credit. In addition, the company offers cash management services; wealth advisory and management services that include customized investment management and trust services to individuals, family groups, commercial businesses, trusts, foundations, non-profit organizations, and endowments; brokerage and management services to individual investors; insurance services; and voice, online, and mobile banking services. The company was founded in 1989 and is headquartered in Lowell, Massachusetts.
+fullTimeEmployees§554
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. George L. Duncan', 'age': 83, 'title': 'Founder & Executive Chairman of the Board', 'yearBorn': 1940, 'fiscalYear': 2022, 'totalPay': 772784, 'exercisedValue': 0, 'unexercisedValue': 235245}, {'maxAge': 1, 'name': 'Mr. John P. Clancy Jr.', 'age': 65, 'title': 'CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1215767, 'exercisedValue': 0, 'unexercisedValue': 350235}, {'maxAge': 1, 'name': 'Mr. Richard W. Main', 'age': 76, 'title': 'President & Director', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 567773, 'exercisedValue': 0, 'unexercisedValue': 163254}, {'maxAge': 1, 'name': 'Mr. Joseph R. Lussier', 'age': 52, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 422857, 'exercisedValue': 0, 'unexercisedValue': 15012}, {'maxAge': 1, 'name': 'Mr. Stephen J. Irish CFP, CPA', 'age': 68, 'title': 'EVP, Senior MD of Wealth Management & COO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 639883, 'exercisedValue': 0, 'unexercisedValue': 54394}, {'maxAge': 1, 'name': 'Mr. John A. Koutsos', 'age': 62, 'title': 'Secretary & Independent Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 37600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Philip S. Nyman Esq.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dwight  Feeney', 'title': 'Senior VP & Senior Commercial Lending Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Callery Rossini', 'title': 'Senior Financial Advisor & Senior VP of Enterprise Wealth Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert R. Gilman', 'age': 78, 'title': 'EVP of Admin - Enterprise Bank & Trust Co. and Commercial Lender of Enterprise Bank & Trust Co.', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 169325, 'exercisedValue': 7880, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.92
+dividendYield§0.0295
+exDividendDate§1699488000
+payoutRatio§0.2572
+fiveYearAvgDividendYield§2.43
+beta§0.607
+priceToSalesTrailing12Months§2.2924876
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Enterprise Bancorp Inc
+longName§Enterprise Bancorp, Inc.
+firstTradeDateEpochUtc§1108391400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a862770f-b980-352d-be00-013d5a552388
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+earningsGrowth§-0.194
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

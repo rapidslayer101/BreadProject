@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 03:47:13.009730
+address1§1213 Innsbruck Drive
+city§Sunnyvale
+state§CA
+zip§94089
+country§United States
+phone§408 720 9002
+fax§408 720 9013
+website§https://silkroadmed.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Silk Road Medical, Inc. operates as a medical device company in the United States. The company offers various products for the treatment of carotid artery disease called transcarotid artery revascularization. Its products include ENROUTE Transcarotid Neuroprotection System that is used to directly access the common carotid artery and initiate temporary blood flow reversal; ENROUTE Transcarotid Stent System, a self-expanding, self-tapering stent; ENHANCE Transcarotid Peripheral Access Kit for use in gaining initial access to the common carotid artery; ENROUTE 0.014 Guidewire for navigating and crossing the target lesion for delivery of interventional devices; and ENROUTE Enflate Transcarotid RX Balloon Dilation Catheter, a specialty balloon for the TCAR procedure. Silk Road Medical, Inc. was incorporated in 2007 and is headquartered in Sunnyvale, California.
+fullTimeEmployees§414
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lucas W. Buchanan', 'age': 45, 'title': 'CFO & COO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 870552, 'exercisedValue': 4568307, 'unexercisedValue': 4819502}, {'maxAge': 1, 'name': 'Mr. Kevin M. Klemz', 'age': 62, 'title': 'EVP, Chief Legal Officer & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 644125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew S. Davis', 'age': 54, 'title': 'Chief Commercial Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 836326, 'exercisedValue': 1181313, 'unexercisedValue': 7427845}, {'maxAge': 1, 'name': 'Mr. Richard M. Ruedy', 'age': 56, 'title': 'Executive Vice President of Clinical, Regulatory Affairs & Quality Assurance', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 542410, 'exercisedValue': 0, 'unexercisedValue': 5845605}, {'maxAge': 1, 'name': 'Mr. Charles S. McKhann', 'age': 54, 'title': 'Chief Executive Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mhairi L. Jones', 'age': 52, 'title': 'Chief Accounting Officer & VP of Finance', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tammy  Leitsinger', 'title': 'Compliance Officer & VP of Medical Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  McCarthy', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Highlander', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sumaira  MacDonald M.D., Ph.D.', 'title': 'Executive Medical Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.44
+priceToSalesTrailing12Months§2.6080549
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.5
+pegRatio§-0.46
+exchange§NMS
+quoteType§EQUITY
+shortName§Silk Road Medical, Inc.
+longName§Silk Road Medical, Inc
+firstTradeDateEpochUtc§1554384600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8c3f6c14-9d16-3565-a790-298e26fb81f1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§8.0
+targetMeanPrice§13.43
+targetMedianPrice§11.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§8.935
+grossMargins§0.71425
+ebitdaMargins§-0.32264
+trailingPegRatio§None

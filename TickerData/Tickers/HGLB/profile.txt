@@ -1,0 +1,29 @@
+# reload+after+2024-01-21 20:30:09.600354
+address1§300 Crescent Court
+address2§Suite 700
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§214 276 6300
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Stephanie Lynn Vitiello', 'age': 39, 'title': 'Sec.', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.01
+dividendYield§0.14
+exDividendDate§1698019200
+currency§USD
+dateShortInterest§1695945600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Highland Global Allocation Fund
+longName§Highland Global Allocation Fund
+firstTradeDateEpochUtc§1551450600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e744e385-6dff-32ff-b412-b5548162c4f0
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 20:29:08.491269
+address1§Dome Tower
+address2§Suite 3000 333 - 7th Avenue SW
+city§Calgary
+state§AB
+zip§T2P 2Z1
+country§Canada
+phone§403 298 2200
+fax§877 387 0644
+website§https://www.enerplus.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Enerplus Corporation, together with subsidiaries, acquires, develops, and explores crude oil and natural gas in the United States. Its oil and natural gas properties are located primarily in North Dakota, Colorado, and Pennsylvania. Enerplus Corporation was founded in 1986 and is headquartered in Calgary, Canada.
+fullTimeEmployees§379
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ian Charles Dundas B.Com., B.Comm., L.L.B.', 'age': 55, 'title': 'President, CEO & Non-Independent Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1601372, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodine Julene-Jenson Labrie B.Com., B.Comm, C.A., CBV', 'title': 'Senior VP & CFO', 'fiscalYear': 2022, 'totalPay': 856637, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wade D. Hutchings', 'age': 50, 'title': 'Senior VP & COO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1022592, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. McCoy B.Comm., Llb', 'title': 'VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 470861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Drew  Mair', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garth R. Doll', 'title': 'Vice President of Marketing & Midstream', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela Anne Ramotowski', 'title': 'Vice President of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shaina Brianne Morihira B.Com., C.A., CPA', 'title': 'Vice President of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.25
+dividendYield§0.0166
+exDividendDate§1701216000
+payoutRatio§0.0767
+fiveYearAvgDividendYield§1.76
+beta§2.517
+priceToSalesTrailing12Months§1.874225
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.47
+pegRatio§0.17
+exchange§NYQ
+quoteType§EQUITY
+shortName§Enerplus Corporation
+longName§Enerplus Corporation
+firstTradeDateEpochUtc§974471400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§37a5fe61-2ac8-3e5c-864e-84d2d10694e6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§17.97
+targetMeanPrice§20.99
+targetMedianPrice§21.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.781
+earningsGrowth§-0.539
+grossMargins§0.68071
+ebitdaMargins§0.64691
+trailingPegRatio§None

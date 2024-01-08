@@ -1,0 +1,62 @@
+# reload+after+2024-01-21 18:26:10.766375
+address1§1 Grand Canal Square
+address2§Grand Canal Harbour
+city§Dublin
+zip§D02 P820
+country§Ireland
+phone§353 1 646 2000
+fax§353 1 646 2020
+website§https://www.accenture.com
+industry§Information Technology Services
+industryKey§information-technology-services
+industryDisp§Information Technology Services
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Accenture plc, a professional services company, provides strategy and consulting, industry X, song, and technology and operation services worldwide. The company offers application services, including agile transformation, DevOps, application modernization, enterprise architecture, software and quality engineering, data management; intelligent automation comprising robotic process automation, natural language processing, and virtual agents; and application management services, as well as software engineering services; strategy and consulting services; data and analytics strategy, data discovery and augmentation, data management and beyond, data democratization, and industrialized solutions comprising turnkey analytics and artificial intelligence (AI) solutions; metaverse; and sustainability services. It also provides change management, HR transformation and delivery, organization strategy and design, talent strategy and development, and leadership and culture services; digital commerce; infrastructure services, including cloud infrastructure managed, cloud and data center, network, digital workplace, database platforms, service management, and cloud and infrastructure security services; data-enabled operating models; technology consulting and AI services; and technology consulting services. In addition, the company offers engineering and R&D digitization, smart connected products, product as-a-service enablement, capital projects, intelligent asset management, digital industrial workforce, and autonomous robotic systems; business process outsourcing; and services related to technology innovation. Further, it provides cloud, ecosystem, marketing, security, supply chain management, zero-based transformation, customer experience, finance consulting, mergers and acquisitions, and sustainability services. The company has a collaboration with Salesforce, Inc. to develop Salesforce Life Sciences Cloud. The company was founded in 1951 and is based in Dublin, Ireland.
+fullTimeEmployees§743000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Julie T. Spellman Sweet', 'age': 56, 'title': 'CEO & Chairman', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 5475079, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen R. McClure', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 2416912, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Marc  Ollagnier', 'age': 61, 'title': 'Chief Executive Officer of EMEA', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 2505222, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manish  Sharma', 'age': 55, 'title': 'CEO of North America', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 3371053, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Walsh', 'age': 59, 'title': 'Chief Operating Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa A. Burgum', 'age': 50, 'title': 'Chief Accounting Officer & Corporate Controller', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul R. Daugherty', 'age': 59, 'title': 'Chief Technology & Innovation Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rajendra  Prasad', 'title': 'Chief Information & Asset Engineering Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Angie  Park', 'title': 'Managing Director & Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel  Unruch', 'age': 45, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§5.16
+dividendYield§0.0153
+exDividendDate§1705449600
+payoutRatio§0.431
+fiveYearAvgDividendYield§1.36
+beta§1.201
+priceToSalesTrailing12Months§3.267747
+currency§USD
+dateShortInterest§1702598400
+forwardEps§13.39
+pegRatio§3.58
+lastDividendValue§1.29
+lastDividendDate§1696982400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Accenture plc
+longName§Accenture plc
+firstTradeDateEpochUtc§995549400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§64bf532c-0542-3794-9f22-7d6062a2458b
+messageBoardId§finmb_972190
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§410.0
+targetLowPrice§320.0
+targetMeanPrice§366.46
+targetMedianPrice§369.61
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§22
+quickRatio§1.18
+earningsGrowth§0.006
+grossMargins§0.32502997
+ebitdaMargins§0.17501
+trailingPegRatio§2.2712

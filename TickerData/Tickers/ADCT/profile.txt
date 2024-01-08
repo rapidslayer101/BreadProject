@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 03:26:13.106468
+address1§Biopole
+address2§Route de la Corniche 3B
+city§Epalinges
+zip§1066
+country§Switzerland
+phone§41 21 653 02 00
+website§https://www.adctherapeutics.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§ADC Therapeutics SA, a commercial-stage biotechnology company, develops antibody drug conjugates (ADC) for patients suffering from hematological malignancies and solid tumors. Its flagship product ZYNLONTA that is in Phase II clinical trial for the treatment of relapsed or refractory diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma; and LOTIS-7, a Phase Ib clinical trial for treatment of relapsed or refractory B-cell lineage non-hodgkin lymphoma (B-NHL). The company is also developing camidanlumab tesirine, an ADC composed of a monoclonal antibody that binds to CD25 conjugated to a PBDdimer toxin, as well as in Phase II clinical trial in relapsed or refractory hodgkin lymphoma. In addition, it develops ADCT-602, which is in Phase I/II clinical trial for treatment of acute lymphoblastic leukemia; ADCT-601 that are in Phase Ia clinical trial for treatment of various solid tumors and hematological malignancies; and ADCT-212, a second-generation PBD-based ADC targeting prostate-specific membrane antigen (PSMA), including ADCT-701 and ADCT-901 for the treatment of solid tumors. It has a collaboration and license agreement with Genmab A/S, Bergenbio AS, Synaffix B.V., Mitsubishi Tanabe Pharma Corporation, Overland Pharmaceuticals, and MedImmune Limited. ADC Therapeutics SA was incorporated in 2011 and is headquartered in Epalinges, Switzerland.
+fullTimeEmployees§317
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ameet  Mallik M.B.A., M.S.', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 858141, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jose I. Carmona M.B.A.', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Patrick  van Berkel Ph.D.', 'age': 55, 'title': 'Chief Scientific Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Mulkerrin Ph.D.', 'age': 68, 'title': 'Chief Technical Operations Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Amanda  Hamilton', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Graham Esq.', 'age': 56, 'title': 'Chief Legal Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly  Pope', 'age': 56, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristen  Harrington-Smith', 'age': 50, 'title': 'Chief Commercial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mohamed  Zaki M.D., Ph.D.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.544
+priceToSalesTrailing12Months§1.3356417
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.66
+pegRatio§-0.05
+exchange§NYQ
+quoteType§EQUITY
+shortName§ADC Therapeutics SA
+longName§ADC Therapeutics SA
+firstTradeDateEpochUtc§1589808600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fcce8c1b-f218-3d0a-9919-64ee4e1352c8
+messageBoardId§finmb_183083930
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§3.0
+targetMeanPrice§8.0
+targetMedianPrice§6.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§4.24
+grossMargins§-0.09079
+ebitdaMargins§-1.12707
+trailingPegRatio§None

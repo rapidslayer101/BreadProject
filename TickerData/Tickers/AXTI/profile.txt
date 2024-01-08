@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:43:34.173888
+address1§4281 Technology Drive
+city§Fremont
+state§CA
+zip§94538-6339
+country§United States
+phone§510 438 4700
+fax§510 353 0668
+website§https://www.axt.com
+industry§Semiconductor Equipment & Materials
+sector§Technology
+longBusinessSummary§AXT, Inc. designs, develops, manufactures, and distributes compound and single element semiconductor substrates. It produces semiconductor substrates using its proprietary vertical gradient freeze technology. The company offers indium phosphide for use in data center connectivity using light/lasers, 5G communications, fiber optic lasers and detectors, passive optical networks, silicon photonics, photonic integrated circuits, terrestrial solar cells, RF amplifier and switching, infrared light-emitting diode (LEDS) motion control, lidar for robotics and autonomous vehicles, and infrared thermal imaging. It also provides semi-insulating gallium arsenide (GaAs) substrates for use in Wi-Fi and IoT devices, transistors, direct broadcast television, power amplifiers, satellite communications, and solar cells; and semi-conducting GaAs substrates that are used in LED, screen displays, printer head lasers and LEDs, 3-D sensing using VCSELs, data center communication using VCSELs, sensors for industrial robotics/near-infrared sensors, optical couplers, solar cells, night vision goggles, lidar for robotics and autonomous vehicles, and other lasers, as well as laser machining, cutting, and drilling. In addition, the company offers germanium substrates for use in multi-junction solar cells for satellites, optical sensors and detectors, terrestrial concentrated photo voltaic cells, infrared detectors, and carrier wafer for LED. Further, it provides 6N+ and 7N+ purified gallium, boron trioxide, gallium-magnesium alloy, pyrolytic boron nitride (pBN) crucibles, and pBN insulating parts. It sells its products through direct salesforce in the United States, China, and Europe, as well as through independent sales representatives and distributors in Japan, Taiwan, Korea, and internationally. The company was formerly known as American Xtal Technology, Inc. and changed its name to AXT, Inc. in July 2000. AXT, Inc. was incorporated in 1986 and is headquartered in Fremont, California.
+fullTimeEmployees§1559
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Morris S. Young Ph.D.', 'age': 78, 'title': 'Co-Founder, CEO & Chairman', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 901812, 'exercisedValue': 0, 'unexercisedValue': 177921}, {'maxAge': 1, 'name': 'Mr. Gary L. Fischer', 'age': 71, 'title': 'CFO, VP & Corporate Secretary', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 549861, 'exercisedValue': 0, 'unexercisedValue': 116674}, {'maxAge': 1, 'name': 'Dr. Wei  Gao', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.002
+priceToSalesTrailing12Months§1.3280115
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.32
+pegRatio§-0.37
+exchange§NMS
+quoteType§EQUITY
+shortName§AXT Inc
+longName§AXT, Inc.
+firstTradeDateEpochUtc§895757400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dd4ab85a-efc5-3e32-b44d-fee3efb6d693
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§2.25
+targetMeanPrice§4.13
+targetMedianPrice§5.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.764
+grossMargins§0.21040002
+ebitdaMargins§-0.128
+trailingPegRatio§None

@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 07:32:06.932050
+address1§585 - 8th Avenue South West
+address2§Suite 4000
+city§Calgary
+state§AB
+zip§T2P 1G1
+country§Canada
+phone§403-231-7500
+fax§403-237-0254
+website§https://www.pembina.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Pembina Pipeline Corporation provides energy transportation and midstream services. It operates through three segments: Pipelines, Facilities, and Marketing & New Ventures. The Pipelines segment operates conventional, oil sands and heavy oil, and transmission assets with a transportation capacity of 2.8 millions of barrels of oil equivalent per day, the ground storage capacity of 11 millions of barrels, and rail terminalling capacity of approximately 105 thousands of barrels of oil equivalent per day serving markets and basins across North America. The Facilities segment offers infrastructure that provides customers with natural gas, condensate, and natural gas liquids (NGLs), including ethane, propane, butane, and condensate; and includes 354 thousands of barrels per day of NGL fractionation capacity, 21 millions of barrels of cavern storage capacity, and associated pipeline and rail terminalling facilities. The Marketing & New Ventures segment buys and sells hydrocarbon liquids and natural gas originating in the Western Canadian sedimentary basin and other basins. Pembina Pipeline Corporation was founded in 1954 and is headquartered in Calgary, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. J. Scott Burrows', 'age': 43, 'title': 'President, CEO & Director', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 2880296, 'exercisedValue': 688605, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron J. Goldade', 'title': 'Senior VP & CFO', 'fiscalYear': 2022, 'totalPay': 818398, 'exercisedValue': 131331, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jaret A. Sprott PEng', 'title': 'Senior VP & COO', 'fiscalYear': 2022, 'totalPay': 939165, 'exercisedValue': 380108, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet C. Loduca', 'age': 54, 'title': 'Senior VP of External Affairs and Chief Legal & Sustainability Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 831730, 'exercisedValue': 65276, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart V. Taylor', 'title': 'Senior VP & Corporate Development Officer', 'fiscalYear': 2022, 'totalPay': 992114, 'exercisedValue': 1964664, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allan  Charlesworth', 'title': 'Vice President of Technical Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott W. Arnold', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Scherman', 'title': 'Senior VP of Marketing & Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Claudia  D'Orazio", 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eva  Bishop', 'title': 'Senior VP & Corporate Services Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.02
+dividendYield§0.0587
+exDividendDate§1702512000
+payoutRatio§1.2166001
+fiveYearAvgDividendYield§6.03
+beta§1.501
+priceToSalesTrailing12Months§2.0201428
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.21
+pegRatio§-1.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§Pembina Pipeline Corp.
+longName§Pembina Pipeline Corporation
+firstTradeDateEpochUtc§1286371800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b8e69c6c-183f-3180-bd60-93fd8fbe53aa
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§43.36
+targetLowPrice§34.39
+targetMeanPrice§38.88
+targetMedianPrice§38.88
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.485
+earningsGrowth§-0.824
+grossMargins§0.26341
+ebitdaMargins§0.26149
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 20:43:40.439966
+address1§225 Binney Street
+city§Cambridge
+state§MA
+zip§02142
+country§United States
+phone§617 679 2000
+website§https://www.biogen.com
+industry§Drug Manufacturers—General
+sector§Healthcare
+longBusinessSummary§Biogen Inc. discovers, develops, manufactures, and delivers therapies for treating neurological and neurodegenerative diseases in the United States, Europe, Germany, Asia, and internationally. The company offers TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, TYSABRI, and FAMPYRA for multiple sclerosis (MS); SPINRAZA for spinal muscular atrophy; ADUHELM to treat Alzheimer's disease; FUMADERM to treat plaque psoriasis; BENEPALI, an etanercept biosimilar referencing ENBREL; IMRALDI, an adalimumab biosimilar referencing HUMIRA; FLIXABI, an infliximab biosimilar referencing REMICADE; and BYOOVIZ, a ranibizumab biosimilar referencing LUCENTIS. It also provides RITUXAN for treating non-Hodgkin's lymphoma, chronic lymphocytic leukemia (CLL), rheumatoid arthritis, two forms of ANCA-associated vasculitis, and pemphigus vulgaris; RITUXAN HYCELA for non-Hodgkin's lymphoma and CLL; GAZYVA to treat CLL and follicular lymphoma; OCREVUS for relapsing MS and primary progressive MS; LUNSUMIO to treat relapsed or refractory follicular lymphoma; glofitamab for non-Hodgkin's lymphoma; and other anti-CD20 therapies. In addition, the company is developing various products for the treatment of MS, Alzheimer's disease and dementia, neuromuscular disorders, Parkinson's disease and movement disorders, neuropsychiatry, immunology related diseases, neurovascular disorders, genetic neurodevelopmental disorders, and biosimilars, which are under various stages of development. Biogen Inc. has collaboration and license agreements with Acorda Therapeutics, Inc.; Alkermes Pharma Ireland Limited; Denali Therapeutics Inc.; Eisai Co., Ltd.; Genentech, Inc.; Neurimmune SubOne AG; Ionis Pharmaceuticals, Inc.; Samsung Bioepis Co., Ltd.; Sangamo Therapeutics, Inc.; and Sage Therapeutics, Inc. The company was founded in 1978 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§8725
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher A. Viehbacher', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 487938, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael R. McDonnell CPA', 'age': 59, 'title': 'Executive VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2124001, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicole  Murphy', 'title': 'Head of Pharmaceutical Operations & Technology', 'fiscalYear': 2022, 'totalPay': 1458448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan H. Alexander Esq.', 'age': 66, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 2197966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Ginger  Gregory', 'age': 55, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1590428, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin C. Kramer', 'age': 57, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles E. Triano', 'title': 'Senior VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natacha  Gassenbach', 'title': 'Chief Communication Officer & Head of Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  Keeney Ph.D.', 'title': 'Executive VP & Head of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alisha A. Alaimo', 'title': 'President & Head of North America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.047
+priceToSalesTrailing12Months§3.7391348
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.69
+pegRatio§115.67
+exchange§NMS
+quoteType§EQUITY
+shortName§Biogen Inc.
+longName§Biogen Inc.
+firstTradeDateEpochUtc§685114200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9f757b3b-bb17-33fd-9f97-b619c9193382
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§500.0
+targetLowPrice§239.0
+targetMeanPrice§317.94
+targetMedianPrice§310.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§31
+quickRatio§0.98
+grossMargins§0.75123
+ebitdaMargins§0.25383
+trailingPegRatio§None

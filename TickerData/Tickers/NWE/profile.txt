@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 05:46:20.571541
+address1§3010 West 69th Street
+city§Sioux Falls
+state§SD
+zip§57108
+country§United States
+phone§605 978 2900
+website§https://www.northwesternenergy.com
+industry§Utilities—Diversified
+sector§Utilities
+longBusinessSummary§NorthWestern Energy Group, Inc. provides electricity and natural gas to residential, commercial, and various industrial customers. It generates, purchases, transmits, and distributes electricity; and produces, purchases, stores, transmits, and distributes natural gas, as well as owns municipal franchises to provide natural gas service in the communities. The company operates 6,597 miles of electric transmission and 18,534 miles of electric distribution lines with approximately 121 transmission and distribution substations; and 2,235 miles of natural gas transmission and 5,099 miles of natural gas distribution lines with approximately 135 city gate stations in Montana. It also operates 1,308 miles of electric transmission and 2,342 miles of electric distribution lines in South Dakota with approximately 121 transmission and distribution substations; and 55 miles of natural gas transmission and 2,545 miles of natural gas distribution lines in South Dakota and Nebraska. The company provides electricity and/or natural gas to approximately 764,200 customers in Montana, South Dakota, Nebraska, and Yellowstone National Park. NorthWestern Energy Group, Inc. was founded in 1923 and is based in Sioux Falls, South Dakota.
+fullTimeEmployees§1530
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brian B. Bird', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 943037, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Crystal Dawn Lail', 'age': 45, 'title': 'VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 683285, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis T. Pohl', 'age': 58, 'title': 'Vice President of Asset Management & Business Development', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 510690, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Travis  Meyer', 'title': 'Director of Corporate Finance & Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeanne M. Vold', 'age': 56, 'title': 'Vice President of Technology', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Nieman', 'title': 'Chief Audit & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon M. Heim', 'age': 50, 'title': 'VP of Federal Government Affairs & General Counsel', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Bobbi L. Schroeppel', 'age': 54, 'title': 'Vice President of Customer Care, Communications & Human Resources', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 483714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel L. Rausch', 'title': 'Treasurer & Corporate Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy P. Olson', 'title': 'Senior Corporate Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.56
+dividendYield§0.0504
+exDividendDate§1702512000
+payoutRatio§0.84720004
+fiveYearAvgDividendYield§4.09
+beta§0.471
+priceToSalesTrailing12Months§2.0847733
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.51
+pegRatio§4.01
+exchange§NMS
+quoteType§EQUITY
+shortName§NorthWestern Energy Group, Inc.
+longName§NorthWestern Energy Group, Inc.
+firstTradeDateEpochUtc§1198852200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6e749599-fc80-38d1-bcf3-ce1052ec9443
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§39.0
+targetMeanPrice§53.44
+targetMedianPrice§54.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§0.269
+earningsGrowth§0.021
+grossMargins§0.53091
+ebitdaMargins§0.32909
+trailingPegRatio§3.0343

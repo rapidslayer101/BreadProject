@@ -1,0 +1,41 @@
+# reload+after+2024-01-20 21:47:53.659701
+address1§3 More London Riverside
+city§London
+zip§SE1 2RE
+country§United Kingdom
+phone§44 20 3283 4200
+website§https://www.veronapharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Verona Pharma plc, a clinical stage biopharmaceutical company, focuses on development and commercialization of therapies for the treatment of respiratory diseases with unmet medical needs. The company's product candidate is ensifentrine, an inhaled and dual inhibitor of the phosphodiesterase (PDE) 3 and PDE4 enzymes that acts as both a bronchodilator and an anti-inflammatory agent in a single compound, which is in Phase 3 clinical trials for the treatment of chronic obstructive pulmonary disease, asthma, and cystic fibrosis. It is developing ensifentrine in three formulations, including nebulizer, dry powder inhaler, and pressurized metered-dose inhaler. Verona Pharma plc was incorporated in 2005 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§35
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. David S. Zaccardelli Pharm.D.', 'age': 58, 'title': 'President, CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1049640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark W. Hahn', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 784382, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kathleen A. Rickard M.D.', 'age': 65, 'title': 'Chief Medical Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 655001, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Claire Louise Poll ASIA, B Juris, B.A., L.C.S.W., LLB', 'age': 56, 'title': 'General Counsel', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 366235, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria  Stewart', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Casbon', 'title': 'VP of Sales, Marketing & Training', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ostra  Jewell', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter  Spargo Ph.D.', 'age': 61, 'title': 'Senior Vice President of Chemistry Manufacturing & Controls', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 247876, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tara  Rheault M.P.H., Ph.D.', 'age': 47, 'title': 'Senior Vice President of Research & Development', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Martin', 'title': 'Senior Vice President of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.26
+priceToSalesTrailing12Months§3412.2856
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.07
+exchange§NGM
+quoteType§EQUITY
+shortName§Verona Pharma plc
+longName§Verona Pharma plc
+firstTradeDateEpochUtc§1493386200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8092d8b-294d-3651-a8fa-78639155df65
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.0
+targetLowPrice§31.0
+targetMeanPrice§33.14
+targetMedianPrice§32.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§29.613
+grossMargins§0.24454
+ebitdaMargins§0.0
+trailingPegRatio§None

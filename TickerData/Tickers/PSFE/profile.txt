@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 18:32:30.852913
+address1§2 Gresham Street
+address2§1st Floor
+city§London
+zip§EC2V 7AD
+country§United Kingdom
+phone§44 20 7608 8460
+website§https://www.paysafe.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Paysafe Limited provides a payments platform with for merchants and consumers in the entertainment sectors. It enables businesses and consumers to connect and transact seamlessly through capabilities in payment processing, digital wallet, and online cash solutions. The company operates through two segments, Merchant Solutions and Digital Wallets. The Merchant Solutions segment offers PCI-compliant payment acceptance and transaction processing solutions for merchants and integrated service providers, including merchant acquiring, transaction processing, gateway solutions, fraud and risk management tools, data and analytics, point of sale systems, and merchant financing solutions, as well as comprehensive support services. This segment provides its solutions under the Paysafe and Petroleum Card Services brands. The Digital Wallets segment offers digital wallet solutions under the Skrill, NETELLER, paysafecard, and Paysafecash brands; and pay-by-bank solutions under the Rapid Transfer brand. It also provides eCash solutions under the paysafecard and Paysafecash brands; paysafecard prepaid Mastercard that can be linked to a digital paysafecard account and used to make purchases; Safetypay, a platform that enables eCommerce transactions; and PagoEfectivo, an alternative payment platform. The company is based in London, the United Kingdom.
+fullTimeEmployees§3300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bruce F. Lowthers', 'age': 58, 'title': 'CEO & Executive Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Gersh CPA', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roy  Aston', 'age': 44, 'title': 'Chief Operating Officer', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicole  Nahlous', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kirsten  Nielsen', 'title': 'Senior Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Swales', 'age': 51, 'title': 'Chief Risk & Compliance Officer', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elliott  Wiseman', 'age': 49, 'title': 'Chief Legal & People Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Aldridge', 'title': 'Senior Vice President of Corporate Communications & Content', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gustavo Ruiz Moya', 'title': 'President of Latin America', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  McShane', 'title': 'Chief Financial Officer of Digital Wallets', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.871
+priceToSalesTrailing12Months§0.49081305
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.93
+pegRatio§46.33
+exchange§NYQ
+quoteType§EQUITY
+shortName§Paysafe Limited
+longName§Paysafe Limited
+firstTradeDateEpochUtc§1602250200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§35907f2a-fa3e-3fe2-a13a-559c0a5e504a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§11.0
+targetMeanPrice§14.28
+targetMedianPrice§13.85
+recommendationMean§3.3
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.227
+grossMargins§0.58873004
+ebitdaMargins§0.26064
+trailingPegRatio§None

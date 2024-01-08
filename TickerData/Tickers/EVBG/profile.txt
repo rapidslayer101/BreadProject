@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 10:44:37.987834
+address1§25 Corporate Drive
+address2§Suite 400
+city§Burlington
+state§MA
+zip§01803
+country§United States
+phone§818 230 9700
+fax§818 230 9505
+website§https://www.everbridge.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Everbridge, Inc. operates as a software company that enables customers to anticipate, mitigate, respond to, and recover from critical events in North America and internationally. The company offers Critical Event Management, a SaaS based platform, which offers various software applications for organizations for safeguarding business operations, people resilience, digital operations, smart security, and public safety. The Company's enterprise applications include Mass Notification, Safety Connection, IT Alerting, Visual Command Center, Public Warning, Community Engagement, Risk Center, Crisis Management, CareConverge, Control Center, 911 Connect, Travel Risk Management, SnapComms, and E911 for automating various critical event management processes. It serves enterprises, small businesses, non-profit organizations, educational institutions, and government agencies in technology, energy, financial services, healthcare and life sciences, manufacturing, media and entertainment, retail, higher education, and professional services industries. The company was formerly known as 3n Global, Inc. and changed its name to Everbridge, Inc. in April 2009. The company was founded in 2002 and is based in Burlington, Massachusetts.
+fullTimeEmployees§1626
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David J. Wagner', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 601518, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Brickley', 'age': 46, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 870803, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip E. Huff', 'age': 62, 'title': 'Chief Accounting Officer & Corporate Controller', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 348828, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan Reed Barney', 'title': 'Executive VP & Chief Product Officer', 'fiscalYear': 2022, 'totalPay': 407815, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheila  Carpenter', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Goldman', 'title': 'Vice President of Finance & Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joshua  Young', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Noah F. Webster', 'age': 49, 'title': 'Chief Legal & Compliance Officer and Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Alexander', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cara  Antonacci', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.903
+priceToSalesTrailing12Months§1.9660631
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.89
+pegRatio§0.3
+exchange§NGM
+quoteType§EQUITY
+shortName§Everbridge, Inc.
+longName§Everbridge, Inc.
+firstTradeDateEpochUtc§1474032600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§220610b9-c0c6-33f8-8ebf-74f2bffa5137
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§19.0
+targetMeanPrice§23.7
+targetMedianPrice§21.5
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§0.703
+grossMargins§0.70792
+ebitdaMargins§-0.00285
+trailingPegRatio§None

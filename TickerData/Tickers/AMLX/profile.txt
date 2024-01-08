@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 13:43:19.967826
+address1§43 Thorndike Street
+city§Cambridge
+state§MA
+zip§02141
+country§United States
+phone§617 682 0917
+website§https://amylyx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Amylyx Pharmaceuticals, Inc., a commercial-stage biotechnology company, engages in the discovery and development of treatment for amyotrophic lateral sclerosis (ALS) and neurodegenerative diseases. The company's products include RELYVRIO, a dual UPR-Bax apoptosis inhibitor composed of sodium phenylbutyrate and taurursodiol for the treatment of ALS in adults in the United States and marketed as ALBRIOZA for the treatment of ALS in Canada. It is also developing AMX0114 for other neurodegenerative diseases. The company was founded in 2013 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§374
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joshua B. Cohen', 'age': 31, 'title': 'Co-Founder, Co-CEO & Director', 'yearBorn': 1992, 'fiscalYear': 2022, 'totalPay': 1001416, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin B. Klee', 'age': 32, 'title': 'Co-Founder, Co-CEO & Director', 'yearBorn': 1991, 'fiscalYear': 2022, 'totalPay': 1001416, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Frates M.B.A.', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 695122, 'exercisedValue': 0, 'unexercisedValue': 6362812}, {'maxAge': 1, 'name': 'Ms. Gina M. Mazzariello', 'age': 52, 'title': 'Chief Legal Officer & General Counsel', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 794828, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Holmes', 'title': 'Chief Technical Operations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lindsey  Allen', 'title': 'Head of Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shauna  Horvath', 'title': 'Head of Global Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Debra L. Canner', 'age': 64, 'title': 'Global Head of Human Resources & CHRO', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margaret M. Olinger M.B.A', 'age': 58, 'title': 'Global Head of Commercial & Chief Commercial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 566998, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Aiello', 'title': 'Head of Canada & GM', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§3.8621333
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.1
+pegRatio§0.26
+exchange§NMS
+quoteType§EQUITY
+shortName§Amylyx Pharmaceuticals, Inc.
+longName§Amylyx Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1641565800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1de1bf10-85d9-33d6-8204-78a28cc22479
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§27.0
+targetMeanPrice§35.86
+targetMedianPrice§37.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§8.429
+grossMargins§0.60764
+ebitdaMargins§-0.02296
+trailingPegRatio§None

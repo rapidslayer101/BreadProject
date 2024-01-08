@@ -1,0 +1,34 @@
+# reload+after+2024-01-21 01:28:58.784360
+address1§600 Steamboat Road
+address2§Suite 202
+city§Greenwich
+state§CT
+zip§06830
+country§United States
+phone§203 340 8500
+industry§Asset Management
+sector§Financial Services
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Philip Majewski CPA', 'age': 48, 'title': 'Chairperson & CEO', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth Paul Onorio CPA', 'age': 54, 'title': 'CFO & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nauman S. Malik', 'age': 43, 'title': 'Chief Compliance Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Courtney Barrett Fandrick', 'age': 41, 'title': 'Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.25
+dividendYield§0.0541
+exDividendDate§1704844800
+beta§0.446
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eagle Point Income Company Inc.
+longName§Eagle Point Income Company Inc.
+firstTradeDateEpochUtc§1634650200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6a7f3bf8-d47e-3af8-8c1b-30d911b62b51
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.141
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

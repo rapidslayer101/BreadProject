@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 02:43:33.906951
+address1§13631 Progress Blvd.
+address2§Suite 400
+city§Alachua
+state§FL
+zip§32615
+country§United States
+phone§386 462 6800
+fax§386 462 6801
+website§https://www.axogeninc.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§AxoGen, Inc., together with its subsidiaries, develops and markets technologies for peripheral nerve regeneration and repair worldwide. The company's products include Avance Nerve Graft, a biologically active off-the-shelf processed human nerve allograft for bridging severed peripheral nerves without the comorbidities associated with a second surgical site; AxoGuard Nerve Connector, a porcine submucosa extracellular matrix (ECM) coaptation aid for tensionless repair of severed peripheral nerves; and AxoGuard Nerve Protector, a porcine submucosa ECM product that is used to wrap and protect damaged peripheral nerves, as well as reinforces the nerve reconstruction while preventing soft tissue attachments. Its products also comprise Axoguard Nerve Cap, a porcine submucosa ECM product that is used to protect a peripheral nerve end, as well as separates the nerve from the surrounding environment to reduce the development of symptomatic or painful neuroma; and AxoTouch two-point discriminator, a tool that is used for measuring the innervation density of surface area of the skin. The company provides its products to hospitals, surgery centers, and military hospitals, plastic reconstructive surgeons, orthopedic and plastic hand surgeons, and various oral and maxillofacial surgeons. AxoGen, Inc. is headquartered in Alachua, Florida.
+fullTimeEmployees§394
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Karen  Zaderej', 'age': 61, 'title': 'Chairman, President & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 852183, 'exercisedValue': 150313, 'unexercisedValue': 230510}, {'maxAge': 1, 'name': 'Mr. Michael  Donovan', 'age': 58, 'title': 'Vice President of Operations', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 406018, 'exercisedValue': 30750, 'unexercisedValue': 46300}, {'maxAge': 1, 'name': 'Mr. Angelo G. Scopelianos Ph.D.', 'age': 68, 'title': 'Chief Research & Development Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 540912, 'exercisedValue': 0, 'unexercisedValue': 20550}, {'maxAge': 1, 'name': 'Mr. Nir  Naor C.F.A., CPA, L.L.M., M.B.A.', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ed  Joyce', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc A. Began', 'age': 55, 'title': 'Executive VP, General Counsel & Chief Compliance Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Doris  Quackenbush', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jens Schroeder Kemp', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erick  DeVinney', 'age': 47, 'title': 'Vice President of Peripheral Nerve Science and Clinical Innovation', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1264550400
+payoutRatio§0.0
+beta§0.95
+priceToSalesTrailing12Months§2.4171634
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.04
+exchange§NCM
+quoteType§EQUITY
+shortName§AxoGen, Inc.
+longName§AxoGen, Inc.
+firstTradeDateEpochUtc§535213800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7bcdc4f6-2582-3323-ab9e-9d3722f90de9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§9.0
+targetMeanPrice§12.17
+targetMedianPrice§11.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§2.096
+grossMargins§0.8153
+ebitdaMargins§-0.13326
+trailingPegRatio§None

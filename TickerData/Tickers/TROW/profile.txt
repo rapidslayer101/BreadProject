@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 23:47:38.465685
+address1§100 East Pratt Street
+city§Baltimore
+state§MD
+zip§21202
+country§United States
+phone§410 345 2000
+website§https://www.troweprice.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§T. Rowe Price Group, Inc. is a publicly owned investment manager. The firm provides its services to individuals, institutional investors, retirement plans, financial intermediaries, and institutions. It launches and manages equity and fixed income mutual funds. The firm invests in the public equity and fixed income markets across the globe. It employs fundamental and quantitative analysis with a bottom-up approach. The firm utilizes in-house and external research to make its investments. It employs socially responsible investing with a focus on environmental, social, and governance issues. It makes investment in late-stage venture capital transactions and usually invests between $3 million and $5 million. The firm was previously known as T. Rowe Group, Inc. and T. Rowe Price Associates, Inc. T. Rowe Price Group, Inc. was founded in 1937 and is based in Baltimore, Maryland, with additional offices in Colorado Springs, Colorado; Owings Mills, Maryland; San Francisco, California; New York, New York; Philadelphia, Pennsylvania; Tampa, Florida; Toronto, Ontario; Hellerup, Denmark; Amsterdam, The Netherlands; Luxembourg, Grand Duchy of Luxembourg; Zurich, Switzerland; Dubai, United Arab Emirates; London, United Kingdom; Sydney, New South Wales; Hong Kong; Tokyo, Japan; Singapore; Frankfurt, Shanghai, China; Germany, Madrid, Spain, Milan, Italy, Stockholm, Sweden, Melbourne, Australia, Amsterdam, Netherlands and Washington, DC.
+fullTimeEmployees§7842
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert W. Sharps C.F.A., CPA', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 8438457, 'exercisedValue': 0, 'unexercisedValue': 137735}, {'maxAge': 1, 'name': 'Ms. Jennifer Benson Dardis', 'age': 50, 'title': 'VP, CFO & Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 2738104, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric Lanoue Veiel C.F.A.', 'age': 51, 'title': 'Head of Global Investments', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 6438154, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Thomson', 'age': 55, 'title': 'VP, Head of International Equity & CIO for International Equities', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 6097464, 'exercisedValue': 1802377, 'unexercisedValue': 2643531}, {'maxAge': 1, 'name': 'Mr. Glenn Russell August', 'age': 61, 'title': 'CEO of OHA, VP & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 12029929, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly H. Johnson', 'age': 50, 'title': 'VP & COO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sébastien  Page C.F.A.', 'age': 46, 'title': 'VP, Head of Global Multi-Asset & CIO', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica M. Hiebler', 'age': 47, 'title': 'Principal Accounting Officer, Controller & VP', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linsley  Carruth', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David S. Oestreicher Esq., J.D.', 'age': 56, 'title': 'VP, General Counsel & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.88
+dividendYield§0.046
+exDividendDate§1702512000
+payoutRatio§0.6923
+fiveYearAvgDividendYield§3.1
+beta§1.376
+priceToSalesTrailing12Months§3.7406483
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.94
+pegRatio§-2.8
+exchange§NMS
+quoteType§EQUITY
+shortName§T. Rowe Price Group, Inc.
+longName§T. Rowe Price Group, Inc.
+firstTradeDateEpochUtc§512836200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4b1466dc-169a-3dd0-8cf2-ee11f3a48b26
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§102.0
+targetLowPrice§79.0
+targetMeanPrice§93.85
+targetMedianPrice§95.0
+recommendationMean§3.4
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§1.724
+earningsGrowth§0.187
+grossMargins§0.49537
+ebitdaMargins§0.39743
+trailingPegRatio§None

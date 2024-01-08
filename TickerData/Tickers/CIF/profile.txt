@@ -1,0 +1,37 @@
+# reload+after+2024-01-21 23:27:50.665789
+address1§111 Huntington Avenue
+city§Boston
+state§MA
+zip§02199
+country§United States
+phone§617 954 5000
+website§https://www.mfs.com/en-us/individual-investor/product-strategies/closed-end-funds/CIF-mfs-intermediate-high-income-fund.html#tab-overview
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§MFS Intermediate High Income Fund is a closed ended fixed income mutual fund launched and managed by Massachusetts Financial Services Company. The fund invests in fixed income markets of the United States. It primarily invests in high income debt instruments. The fund benchmarks the performance of its portfolio against Barclays U.S. High-Yield Corporate 2% Issuer Capped Index. It was formerly known as Colonial Intermediate High Income Fund. MFS Intermediate High Income Fund was founded in July 21, 1988 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Robin Ann Stelmach', 'age': 62, 'title': 'President and Trustee', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Kevin Connaughton', 'age': 59, 'title': 'Chief Financial Officer and Senior Vice President', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael G. Clarke', 'age': 54, 'title': 'Chief Accounting Officer', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Richard Bordewick Jr., Esq.', 'age': 64, 'title': 'Chief Legal Officer and Senior Vice President', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank L. Tarantino', 'age': 79, 'title': 'Independent Senior Officer', 'yearBorn': 1944, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robyn L. Griffin', 'age': 48, 'title': 'Assistant Independent Chief Compliance Officer', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard S. Weitzel', 'age': 53, 'title': 'Assistant Secretary and Assistant Clerk', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kasey L. Philips', 'age': 52, 'title': 'Assistant Treasurer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian E. Langenfeld', 'age': 50, 'title': 'Assistant Secretary and Assistant Clerk', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan A. Pereira', 'age': 52, 'title': 'Assistant Secretary and Assistant Clerk', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+dividendRate§0.17
+dividendYield§0.1003
+exDividendDate§1705363200
+payoutRatio§2.8978
+fiveYearAvgDividendYield§9.76
+beta§0.801
+priceToSalesTrailing12Months§10.701222
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§MFS Intermediate High Income Fu
+longName§MFS Intermediate High Income Fund
+firstTradeDateEpochUtc§585581400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f78e29d4-6caa-3bed-9697-439e344a34fd
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.066
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

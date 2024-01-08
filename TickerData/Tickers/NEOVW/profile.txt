@@ -1,0 +1,32 @@
+# reload+after+2024-01-22 13:46:12.436904
+address1§13651 Danielson Street
+address2§Suite A
+city§Poway
+state§CA
+zip§92064
+country§United States
+phone§800 364 5464
+website§https://www.neovolta.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§NeoVolta Inc. designs, manufactures, and sells energy storage systems in the United States. It provides NV14, NV14-K, and NV 24 energy storage systems, which stores and uses energy through batteries and an inverter at residential or commercial sites. The company markets and sells its products directly to certified solar installers and solar equipment distributors. NeoVolta Inc. was formed in 2018 and is headquartered in Poway, California.
+fullTimeEmployees§7
+companyOfficers§[{'maxAge': 1, 'name': 'Colonel Brent S. Willson', 'age': 58, 'title': 'CEO, President & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 165000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Bond', 'age': 48, 'title': 'CFO & Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 125000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+beta§-0.187
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+shortName§NeoVolta Inc. Warrant
+longName§NeoVolta Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§005cf1a4-26b0-3610-819c-beab9bec85eb
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§78.968
+grossMargins§0.21002
+ebitdaMargins§0.0
+trailingPegRatio§None

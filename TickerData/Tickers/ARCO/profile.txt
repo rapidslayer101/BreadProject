@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 16:26:42.809657
+address1§Dr. Luis Bonavita 1294
+address2§5th Floor Office 501 WTC Free Zone
+city§Montevideo
+zip§11300
+country§Uruguay
+phone§598 2626 3000
+fax§598 2626 3018
+website§https://www.arcosdorados.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Arcos Dorados Holdings Inc. operates as a franchisee of McDonald's restaurants. It has the exclusive right to own, operate, and grant franchises of McDonald's restaurants in 20 countries and territories in Latin America and the Caribbean, including Argentina, Aruba, Brazil, Chile, Colombia, Costa Rica, Curacao, Ecuador, French Guiana, Guadeloupe, Martinique, Mexico, Panama, Peru, Puerto Rico, Trinidad and Tobago, Uruguay, the U.S. Virgin Islands of St. Croix and St. Thomas, and Venezuela. The company was founded in 2007 and is based in Montevideo, Uruguay.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Woods W. Staton', 'age': 73, 'title': 'Executive Chairman', 'yearBorn': 1950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marcelo  Rabach', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mariano  Tannenbaum', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luis  Raganato', 'age': 58, 'title': 'Chief Operating Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Magdalena Gonzalez Victorica', 'age': 48, 'title': 'Chief Technology Officer', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Schleiniger', 'age': 49, 'title': 'Vice President of Investor Relations', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Juan David Bastidas Saldarriaga', 'age': 55, 'title': 'Chief Legal Counsel', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Grinberg', 'age': 44, 'title': 'Vice President of Corporate Communications', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Santiago  Blanco', 'age': 52, 'title': 'Chief Marketing & Digital Officer', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Luana  Matos', 'age': 49, 'title': 'Vice President of People & Culture', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.16
+dividendYield§0.013300001
+exDividendDate§1703116800
+payoutRatio§0.2093
+beta§1.296
+priceToSalesTrailing12Months§0.6079916
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.88
+pegRatio§0.33
+lastDividendValue§0.04
+lastDividendDate§1703116800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Arcos Dorados Holdings Inc.
+longName§Arcos Dorados Holdings Inc.
+firstTradeDateEpochUtc§1302787800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b9ea8a81-ad4f-3147-a82d-fd4f09c282c2
+messageBoardId§finmb_129040994
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§11.0
+targetMeanPrice§13.38
+targetMedianPrice§13.25
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.53
+earningsGrowth§0.289
+grossMargins§0.13964
+ebitdaMargins§0.107889995
+trailingPegRatio§None

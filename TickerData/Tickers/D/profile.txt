@@ -1,0 +1,54 @@
+# reload+after+2024-01-24 00:28:25.342789
+address1§120 Tredegar Street
+city§Richmond
+state§VA
+zip§23219
+country§United States
+phone§804 819 2284
+website§https://www.dominionenergy.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Dominion Energy, Inc. produces and distributes energy in the United States. It operates through four segments: Dominion Energy Virginia, Gas Distribution, Dominion Energy South Carolina, and Contracted Assets. The Dominion Energy Virginia segment generates, transmits, and distributes regulated electricity to approximately 2.7 million residential, commercial, industrial, and governmental customers in Virginia and North Carolina. The Gas Distribution segment is involved in the regulated natural gas sales, transportation, gathering, storage, and distribution operations in Ohio, North Carolina, Utah, southwestern Wyoming, and southeastern Idaho that serve approximately 3.0 million residential, commercial and industrial customers. It also has nonregulated renewable natural gas facilities in operation. The Dominion Energy South Carolina segment generates, transmits, and distributes electricity to approximately 782,000 customers in the central, southern, and southwestern portions of South Carolina; and distributes natural gas to approximately 435,000 residential, commercial, and industrial customers in South Carolina. The Contracted Assets segment is involved in the nonregulated long-term contracted renewable electric generation and solar generation facility development operations; and gas transportation, LNG import, and storage operations, as well as in the liquefaction facility. As of December 31, 2022, the company's portfolio of assets included approximately 31.0 gigawatt of electric generating capacity; 10,600 miles of electric transmission lines; 78,500 miles of electric distribution lines; and 93,500 miles of gas distribution mains and related service facilities. The company was formerly known as Dominion Resources, Inc. Dominion Energy, Inc. was incorporated in 1983 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§17200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert M. Blue', 'age': 55, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 3464842, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven D. Ridge', 'age': 42, 'title': 'Executive VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 1255748, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diane G. Leopold', 'age': 56, 'title': 'Executive VP, COO & President of Contracted Assets', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2223395, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carlos M. Brown', 'age': 47, 'title': 'President of Dominion Energy Services, Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1067296, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michele L. Cardiff', 'age': 55, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  McFarland', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William L. Murray', 'age': 55, 'title': 'Senior Vice President of Corporate Affairs & Communications', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Regina J. Elbert', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel A. Weekley', 'title': 'President of Ohio Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark O. Webb', 'age': 58, 'title': 'Senior VP & Chief Innovation Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.67
+dividendYield§0.0544
+exDividendDate§1701302400
+payoutRatio§0.88699996
+fiveYearAvgDividendYield§4.36
+beta§0.586
+priceToSalesTrailing12Months§2.2927995
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.13
+pegRatio§-3.37
+exchange§NYQ
+quoteType§EQUITY
+shortName§Dominion Energy, Inc.
+longName§Dominion Energy, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f623e75a-f30e-32bb-973d-6df5b50bb7b5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§61.0
+targetLowPrice§41.0
+targetMeanPrice§49.57
+targetMedianPrice§49.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§0.125
+earningsGrowth§-0.816
+grossMargins§0.4757
+ebitdaMargins§0.47127998
+trailingPegRatio§None

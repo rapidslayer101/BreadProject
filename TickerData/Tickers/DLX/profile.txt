@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 16:28:39.290491
+address1§801 South Marquette Avenue
+city§Minneapolis
+state§MN
+zip§55402-2807
+country§United States
+phone§651 483 7111
+website§https://www.deluxe.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§Deluxe Corporation provides technology-enabled solutions to enterprises, small businesses, and financial institutions in the United States, Canada, Australia, South America, and Europe. It operates through four segments: Payments, Data Solutions, Promotional Solutions, and Checks. The company provides treasury management solutions, including remittance and lockbox processing, remote deposit capture, receivables management, payment processing, and paperless treasury management solutions, as well as payment exchange, and fraud and security services; data-driven marketing solutions and hosted solutions, such as digital engagement, logo design, financial institution profitability reporting, and business incorporation services, as well as web hosting and design services. It also offers business forms, accessories, advertising specialties, promotional apparel, and retail packaging services; and printed personal and business checks. The company was formerly known as Deluxe Check Printers, Incorporated and changed its name to Deluxe Corporation in 1988. Deluxe Corporation was founded in 1915 and is headquartered in Minneapolis, Minnesota.
+fullTimeEmployees§5746
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Barry C. McCarthy', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 5503968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Zint', 'age': 37, 'title': 'CFO, Senior VP & VP of Corporate Finance', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 518251, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yogaraj  Jayaprakasam', 'age': 45, 'title': 'Senior VP and Chief Technology & Digital Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 899121, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Aaron Reed', 'age': 51, 'title': 'Senior VP & Division President of Payments', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1542500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey G. Engelhardt', 'age': 58, 'title': 'Senior VP, Division President of Checks & Chief of Operations', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey L. Cotter', 'age': 56, 'title': 'Chief Administrative Officer, Senior VP, Secretary & General Counsel', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 824870, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brian  Anderson', 'title': 'Vice President of Strategy & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jean L. Herrick', 'age': 54, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda B. Parrilli', 'age': 44, 'title': 'Senior Vice President and Chief Strategy, Transformation & Business Development Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garry L. Capers', 'age': 46, 'title': 'Senior VP and Division President of Data Solutions & Promotional Solutions', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§8
+shareHolderRightsRisk§3
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0587
+exDividendDate§1700179200
+payoutRatio§1.7391
+fiveYearAvgDividendYield§4.45
+beta§1.53
+priceToSalesTrailing12Months§0.40287912
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.23
+pegRatio§0.83
+exchange§NYQ
+quoteType§EQUITY
+shortName§Deluxe Corporation
+longName§Deluxe Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§05f30253-cfa2-356d-a6bd-a4ed3bc13f93
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§25.0
+targetMeanPrice§30.0
+targetMedianPrice§32.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.495
+grossMargins§0.53713
+ebitdaMargins§0.15029
+trailingPegRatio§0.512

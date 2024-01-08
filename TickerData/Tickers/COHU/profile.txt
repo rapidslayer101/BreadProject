@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 15:44:10.067528
+address1§12367 Crosthwaite Circle
+city§Poway
+state§CA
+zip§92064-6817
+country§United States
+phone§858 848 8100
+website§https://www.cohu.com
+industry§Semiconductor Equipment & Materials
+sector§Technology
+longBusinessSummary§Cohu, Inc., through its subsidiaries, provides semiconductor test equipment and services in China, the United States, Taiwan, Malaysia, the Philippines, and internationally. The company supplies semiconductor test and inspection handlers, micro-electromechanical system (MEMS) test modules, test contactors, thermal sub-systems, and semiconductor automated test equipment for semiconductor manufacturers and test subcontractors. It also provides semiconductor automated test equipment for wafer level and device package testing; various test handlers, including pick-and-place, turret, gravity, strip, and MEMS and thermal sub-systems; interface products comprising test contactors, and probe heads and pins; spares and kits; various parts and labor warranties on test and handling systems, and instruments; and training on the maintenance and operation of its systems, as well as application, data management software, and consulting services on its products. In addition, the company offers data analytics product that includes DI-Core, a software suite used to optimize Cohu equipment performance, which provides real-time online performance monitoring and process control. It markets its products through direct sales force and independent sales representatives. The company was formerly known as Cohu Electronics, Inc. and changed its name to Cohu, Inc. in 1972. Cohu, Inc. was incorporated in 1947 and is headquartered in Poway, California.
+fullTimeEmployees§3114
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Luis Antonio Muller', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1993385, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey D. Jones', 'age': 62, 'title': 'Senior VP of Finance & CFO', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1042967, 'exercisedValue': 224931, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas D. Kampfer', 'age': 59, 'title': 'VP of Corporate Development, General Counsel & Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 758671, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher G. Bohrson', 'age': 64, 'title': 'Senior Vice President of Global Customer Group', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 921763, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1582502400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.31
+beta§1.516
+priceToSalesTrailing12Months§2.26788
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.78
+pegRatio§0.4
+exchange§NMS
+quoteType§EQUITY
+shortName§Cohu, Inc.
+longName§Cohu, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§547ac6ff-ec8a-3469-a486-3deba15cd283
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§27.0
+targetMeanPrice§38.43
+targetMedianPrice§40.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§4.033
+earningsGrowth§-0.843
+grossMargins§0.47747
+ebitdaMargins§0.17267
+trailingPegRatio§None

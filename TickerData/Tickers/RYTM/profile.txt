@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 06:47:04.752928
+address1§222 Berkeley Street
+address2§12th Floor
+city§Boston
+state§MA
+zip§02116
+country§United States
+phone§857 264 4280
+fax§857 264 4299
+website§https://rhythmtx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Rhythm Pharmaceuticals, Inc., a commercial-stage biopharmaceutical company, focuses on the development and commercialization of therapeutics for the treatment of rare genetic diseases of obesity. The company's lead product candidate is IMCIVREE, a rare melanocortin-4 receptor for the treatment of pro-opiomelanocortin (POMC), proprotein convertase subtilisin/kexin type 1, leptin receptor (LEPR) deficiency obesity, and Bardet-Biedl and Alström syndrome. It is also developing setmelanotide, which is in Phase 3 clinical trials for treating POMC or LEPR heterozygous deficiency obesities, steroid receptor coactivator 1 deficiency obesity, SH2B1 deficiency obesity, MC4 receptor deficiency obesity, and other MC4R disorders. The company was formerly known as Rhythm Metabolic, Inc. and changed its name to Rhythm Pharmaceuticals, Inc. in October 2015. Rhythm Pharmaceuticals, Inc. was founded in 2008 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§177
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. David P. Meeker M.D.', 'age': 69, 'title': 'Chairman, President & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1168458, 'exercisedValue': 0, 'unexercisedValue': 8286256}, {'maxAge': 1, 'name': 'Mr. Hunter C. Smith M.B.A.', 'age': 54, 'title': 'CFO & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 692200, 'exercisedValue': 0, 'unexercisedValue': 4924072}, {'maxAge': 1, 'name': 'Mr. Joseph  Shulman', 'age': 48, 'title': 'Chief Technical Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 608200, 'exercisedValue': 0, 'unexercisedValue': 637087}, {'maxAge': 1, 'name': 'Mr. Yann  Mazabraud', 'age': 50, 'title': 'Executive VP & Head of International', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 747430, 'exercisedValue': 0, 'unexercisedValue': 687268}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Chien', 'age': 48, 'title': 'Executive VP & Head of North America', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 644200, 'exercisedValue': 0, 'unexercisedValue': 586768}, {'maxAge': 1, 'name': 'Mr. Christopher  German', 'age': 52, 'title': 'Corporate Controller, Principal Accounting Officer & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Connolly', 'title': 'Head of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Flaherty', 'title': 'Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Ryan', 'title': 'Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pamela J. Cramer', 'age': 49, 'title': 'Chief Human Resources Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.863
+priceToSalesTrailing12Months§37.898262
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.18
+pegRatio§1.51
+exchange§NGM
+quoteType§EQUITY
+shortName§Rhythm Pharmaceuticals, Inc.
+longName§Rhythm Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1507555800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4f7e972d-a371-3965-97f4-9476f892bf61
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§31.0
+targetMeanPrice§49.33
+targetMedianPrice§50.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§6.258
+grossMargins§0.8855
+ebitdaMargins§-2.9590201
+trailingPegRatio§None

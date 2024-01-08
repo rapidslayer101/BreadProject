@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 05:45:52.402897
+address1§1920 McKinney Avenue
+address2§7th Floor
+city§Dallas
+state§TX
+zip§75201
+country§United States
+phone§972 277 1136
+website§https://www.lanternpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Lantern Pharma Inc., a clinical stage biotechnology company, focuses on artificial intelligence, machine learning, and genomic data to streamline the drug development process. It develops LP-100 for treatment in combination with the class of anticancer agent known as PARP inhibitors. The company also develops LP-300 as a combination therapy for never-smokers with non-small cell lung cancer adenocarcinoma; and LP-284, a novel small molecule and DNA damaging agent for the treatment of mantle cell lymphoma and double hit lymphoma. In addition, it offers LP-184, an alkylating agent that damages DNA in cancer cells that overexpress certain biomarkers or that harbor mutations in DNA repair pathways. Further, the company operates ADC program, an antibody drug conjugate therapeutic approach for cancer treatment. Additionally, the company's artificial intelligence platform RADR uses big data analytics and machine learning for combining molecular data. The company was incorporated in 2013 and is headquartered in Dallas, Texas.
+fullTimeEmployees§22
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Panna  Sharma PH.D.', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 633247, 'exercisedValue': 0, 'unexercisedValue': 2103377}, {'maxAge': 1, 'name': 'Mr. David R. Margrave', 'age': 62, 'title': 'CFO & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 394359, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kishor Gopaldas Bhatia Ph.D.', 'age': 68, 'title': 'Chief Scientific Officer & Scientific Consultant', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 184327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nicole  Leber', 'title': 'Investor Relations Associate, Finance & Administrative Coordinator', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Peter L. Nara D.V.M., M.S., Ph.D.', 'title': 'Co-Founder & Advisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ernest  Kitt B.S., M.S', 'title': 'Head of Clinical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.23
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.98
+exchange§NCM
+quoteType§EQUITY
+shortName§Lantern Pharma Inc.
+longName§Lantern Pharma Inc.
+firstTradeDateEpochUtc§1591882200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1e39d5e7-e89b-36b8-9bc7-6149865c08a8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§15.0
+targetMeanPrice§20.5
+targetMedianPrice§20.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§19.938
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

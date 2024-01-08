@@ -1,0 +1,36 @@
+# reload+after+2024-01-22 03:28:39.847473
+address1§240 Greenwich Street
+city§New York
+state§NY
+zip§10286
+country§United States
+phone§212 635 8827
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BNY Mellon Municipal Income, Inc. is a closed ended fixed income mutual fund launched and managed by BNY Mellon Investment Adviser, Inc. It invests in the fixed income markets of the United States. The fund primarily invests in municipal obligations that are rated investment grade and have maturities of less than one year. It employs fundamental analysis to create its portfolio. The fund was formerly known as Dreyfus Municipal Income, Inc. BNY Mellon Municipal Income, Inc. was formed on October 24, 1988 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen Robert Byers', 'age': 68, 'title': 'EVP, Vice Chairman of Dreyfus,  Chief Investment Officer of Dreyfus and Director of Dreyfus', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel A. Barton CFA', 'title': 'Primary Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey B. Burger CFA', 'title': 'Co-Primary Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Alexander Rabasco CFA', 'title': 'Co- Primary Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.19
+dividendYield§0.028399998
+exDividendDate§1705017600
+payoutRatio§1.36
+fiveYearAvgDividendYield§4.71
+beta§0.515
+priceToSalesTrailing12Months§13.806978
+currency§USD
+dateShortInterest§1702598400
+exchange§ASE
+quoteType§EQUITY
+shortName§25694
+longName§BNY Mellon Municipal Income, Inc.
+firstTradeDateEpochUtc§593703000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f4a9ff58-3dda-32b3-847e-bcd4835e8bfe
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.159
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

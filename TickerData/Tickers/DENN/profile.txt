@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 00:44:21.859660
+address1§203 East Main Street
+city§Spartanburg
+state§SC
+zip§29319-9966
+country§United States
+phone§864 597 8000
+website§https://www.dennys.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Denny's Corporation, through its subsidiaries, owns and operates franchised full-service restaurant chains under the Denny's and Keke's Breakfast Cafe brand in the United States and internationally. The company operates in two segments: Denny's and Other. The company was formerly known as Advantica Restaurant Group, Inc. and changed its name to Denny's Corporation in July 2002. Denny's Corporation was founded in 1953 and is headquartered in Spartanburg, South Carolina.
+fullTimeEmployees§3700
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Kelli F. Valade', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 977053, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert P. Verostek', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 758056, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gail Sharps Myers', 'age': 53, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 760880, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen C. Dunn', 'age': 58, 'title': 'Executive VP & Chief Global Development Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 651714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Williams', 'title': 'Senior VP & Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay C. Gilmore', 'age': 54, 'title': 'SVP, Chief Accounting Officer & Corporate Controller', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pankaj K. Patra', 'age': 46, 'title': 'Chief Digital & Technology Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curtis L. Nichols Jr.', 'title': 'Vice President of Investor Relations and Financial Planning & Analysis', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sherri  Landry', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stephanie J. Davidson', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.97
+priceToSalesTrailing12Months§1.1749812
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.7
+pegRatio§1.91
+exchange§NCM
+quoteType§EQUITY
+shortName§Denny's Corporation
+longName§Denny's Corporation
+firstTradeDateEpochUtc§884269800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6e9ecbee-661a-37b8-ac2d-362881171696
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§9.0
+targetMeanPrice§11.57
+targetMedianPrice§12.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.217
+earningsGrowth§-0.516
+grossMargins§0.3923
+ebitdaMargins§0.17152001
+trailingPegRatio§1.5814

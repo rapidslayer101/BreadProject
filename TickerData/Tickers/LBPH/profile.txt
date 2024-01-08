@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 19:45:43.877952
+address1§4275 Executive Square
+address2§Suite 950
+city§La Jolla
+state§CA
+zip§92037
+country§United States
+phone§619 592 9775
+website§https://www.longboardpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Longboard Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on developing novel and transformative medicines for neurological diseases. Its lead product candidate is LP352, which is in Phase 1b/2a clinical trial for the treatment of seizures associated with developmental and epileptic encephalopathies. The company's preclinical product candidate includes LP659 which focuses on developing therapies for multiple neurological diseases; and LP143. It also entered into license agreement with Arena Pharmaceuticals Inc. to develop and commercialize LP352, LP659, LP143, and other compounds. The company was formerly known as Arena Neuroscience, Inc. and changed its name to Longboard Pharmaceuticals, Inc. in October 2020. Longboard Pharmaceuticals, Inc. was incorporated in 2020 and is based in La Jolla, California.
+fullTimeEmployees§32
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin R. Lind', 'age': 47, 'title': 'President, CEO, Secretary & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 961845, 'exercisedValue': 0, 'unexercisedValue': 48783}, {'maxAge': 1, 'name': 'Ms. Brandi L. Roberts CPA, M.B.A.', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 610069, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Randall E. Kaye M.D.', 'age': 61, 'title': 'Executive VP & Chief Medical Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 629026, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chadwick J. Orevillo MPH', 'title': 'Executive VP & Head of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Megan E. Knight', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven W. Spector J.D.', 'age': 58, 'title': 'Executive VP, Head of Business Development & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Anne M. Danks Ph.D.', 'title': 'VP & Head of Nonclinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gus  Cardenas', 'title': 'VP & Head of Quality Assurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marco  Peters Ph.D.', 'title': 'VP & Head of Translational Science', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dewey  McLin Ph.D.', 'title': 'VP & Head of Medical Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.084
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.97
+exchange§NGM
+quoteType§EQUITY
+shortName§Longboard Pharmaceuticals, Inc.
+longName§Longboard Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1615559400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3613b707-ae0b-3b49-aa53-370148927a51
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§13.0
+targetMeanPrice§32.57
+targetMedianPrice§32.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§8.346
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

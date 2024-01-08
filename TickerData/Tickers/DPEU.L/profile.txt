@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 01:36:07.771174
+address1§Luna Arena
+address2§Herikerbergweg 238
+city§Amsterdam
+zip§1101 CM
+country§Netherlands
+website§https://dpeurasia.com
+industry§Restaurants
+industryKey§restaurants
+industryDisp§Restaurants
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§DP Eurasia N.V., together with its subsidiaries, engages in the operation of corporate-owned and franchised stores under the Domino's Pizza brand name in Turkey, Russia, Azerbaijan, and Georgia. It offers food and pizza delivery, takeaway, and eat-in services. The company also owns and operates coffee brand COFFY. DP Eurasia N.V. was founded in 1996 and is based in Amsterdam, the Netherlands.
+fullTimeEmployees§1457
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Aslan  Saranga', 'age': 54, 'title': 'CEO, Executive Director & Member of Management Board', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 11284839, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Frederieke  Slot', 'age': 41, 'title': 'Company Secretary, Executive Director & Member of Management Board', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 2866687, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Neval Korucu Alpagut', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Selim  Kender', 'title': 'Chief Strategy Officer & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kerem  Ciritci', 'title': 'Chief Executive Officer of Turkish Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oleg  Yudin', 'title': 'Head of Franchise Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Masalova', 'title': 'Chief Financial Officer of Russian Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pinar  Togay', 'title': 'Chief Marketing & Digital Business Officer of Turkey and Russia Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ilknur  Kocaer', 'title': 'Investor Relations Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.845
+priceToSalesTrailing12Months§0.056133013
+currency§GBp
+forwardEps§0.03
+exchange§LSE
+quoteType§EQUITY
+shortName§DP EURASIA N.V. ORD EUR0.12 (DI
+longName§DP Eurasia N.V.
+firstTradeDateEpochUtc§1498633200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b062b63c-ad00-38ea-929c-67342fc5e2f0
+messageBoardId§finmb_433835320
+targetHighPrice§50.5
+targetLowPrice§50.5
+targetMeanPrice§50.5
+targetMedianPrice§50.5
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.431
+earningsGrowth§-0.823
+grossMargins§0.41807997
+ebitdaMargins§0.08766
+trailingPegRatio§None

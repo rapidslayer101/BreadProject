@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 17:31:03.911816
+address1§Levi's Plaza
+address2§1155 Battery Street
+city§San Francisco
+state§CA
+zip§94111
+country§United States
+phone§415 501 6000
+website§https://www.levistrauss.com
+industry§Apparel Manufacturing
+sector§Consumer Cyclical
+longBusinessSummary§Levi Strauss & Co. engages in the design, marketing, and sale of apparels and related accessories for men, women, and children in the Americas, Europe, and Asia. It offers jeans, casual and dress pants, activewear, tops, shorts, skirts, dresses, jumpsuits, shirts, sweaters, jackets, footwear, and related products under the Levi's, Dockers, Beyond Yoga, Signature by Levi Strauss & Co., and Denizen brands. The company also licenses Levi's and Dockers trademarks for various product categories, including footwear, belts, wallets, bags, outerwear, sweaters, dress shirts, kids wear, sleepwear, and hosiery. In addition, it sells its products through third-party retailers, such as department stores, specialty retailers, third-party e-commerce sites, and franchisees who operate brand-dedicated stores; and directly to consumers through various formats, including company-operated mainline and outlet stores, company-operated e-commerce sites, and select shop-in-shops located in department stores, and other third-party retail locations. Further, the company operates approximately 3,200 brand-dedicated stores and shop-in-shops. The company was founded in 1853 and is headquartered in San Francisco, California.
+fullTimeEmployees§18000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Victor Bergh', 'age': 65, 'title': 'President, CEO & Executive Vice-Chairman', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 5067526, 'exercisedValue': 0, 'unexercisedValue': 36492504}, {'maxAge': 1, 'name': 'Mr. Harmit J. Singh', 'age': 60, 'title': 'Chief Financial & Growth Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2251788, 'exercisedValue': 3393550, 'unexercisedValue': 9403950}, {'maxAge': 1, 'name': "Ms. Elizabeth T. O'Neill", 'age': 51, 'title': 'COO & Executive VP', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1572983, 'exercisedValue': 0, 'unexercisedValue': 1070282}, {'maxAge': 1, 'name': 'Ms. Michelle D. Gass', 'age': 55, 'title': 'President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Stirling', 'age': 46, 'title': 'VP, Global Controller & Principal Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aida  Orphan', 'title': 'Senior Director of Investor Relations & Risk Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Jedrzejek', 'age': 55, 'title': 'Senior VP & General Counsel', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  McGinnis', 'age': 54, 'title': 'Senior VP & Chief Communications Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Layney', 'age': 50, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heidi L. Manes', 'age': 51, 'title': 'Senior VP & Chief Transformation Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 901387, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0298
+exDividendDate§1698192000
+payoutRatio§0.6957
+beta§1.189
+priceToSalesTrailing12Months§1.0431812
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.3
+pegRatio§4.25
+exchange§NYQ
+quoteType§EQUITY
+shortName§Levi Strauss & Co
+longName§Levi Strauss & Co.
+firstTradeDateEpochUtc§1553175000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§96847013-1ce9-370f-a935-041b83769936
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§13.0
+targetMeanPrice§16.33
+targetMedianPrice§16.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.545
+earningsGrowth§-0.953
+grossMargins§0.56431997
+ebitdaMargins§0.10829
+trailingPegRatio§None

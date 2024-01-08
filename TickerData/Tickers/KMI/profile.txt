@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 21:30:56.151612
+address1§1001 Louisiana Street
+address2§Suite 1000
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§713 369 9000
+website§https://www.kindermorgan.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Kinder Morgan, Inc. operates as an energy infrastructure company in North America. The company operates through four segments: Natural Gas Pipelines, Products Pipelines, Terminals, and CO2. The Natural Gas Pipelines segment owns and operates interstate and intrastate natural gas pipeline, and underground storage systems; natural gas gathering systems and natural gas processing and treating facilities; natural gas liquids fractionation facilities and transportation systems; and liquefied natural gas gasification, liquefaction, and storage facilities. The Products Pipelines segment owns and operates refined petroleum products, and crude oil and condensate pipelines; and associated product terminals and petroleum pipeline transmix facilities. The Terminals segment owns and/or operates liquids and bulk terminals that stores and handles various commodities, including gasoline, diesel fuel, renewable fuel stock, chemicals, ethanol, metals, and petroleum coke; and owns tankers. The CO2 segment produces, transports, and markets CO2 to recovery and production crude oil from mature oil fields; owns interests in/or operates oil fields and gasoline processing plants; and operates a crude oil pipeline system in West Texas, as well as owns and operates RNG and LNG facilities. It owns and operates approximately 83,000 miles of pipelines and 140 terminals. The company was formerly known as Kinder Morgan Holdco LLC and changed its name to Kinder Morgan, Inc. in February 2011. Kinder Morgan, Inc. was founded in 1936 and is headquartered in Houston, Texas.
+fullTimeEmployees§10525
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Kimberly Allen Dang', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1888327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Patrick Michels', 'age': 44, 'title': 'VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 1238327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James E. Holland', 'age': 60, 'title': 'VP & COO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1203327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dax A. Sanders CPA', 'age': 48, 'title': 'VP & President of Products Pipelines', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1176327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard D. Kinder', 'age': 78, 'title': 'Executive Chairman of the Board', 'yearBorn': 1945, 'fiscalYear': 2022, 'totalPay': 1, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas A. Martin', 'age': 61, 'title': 'President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1624577, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Huse', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise R. Mathews', 'age': 67, 'title': 'VP & Chief Administrative Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine B. Callaway James', 'age': 58, 'title': 'VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David W. Conover', 'title': 'Vice President of Government Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.13
+dividendYield§0.0627
+exDividendDate§1698624000
+payoutRatio§1.0275
+fiveYearAvgDividendYield§6.08
+beta§0.935
+priceToSalesTrailing12Months§2.5231063
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.21
+pegRatio§54.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kinder Morgan, Inc.
+longName§Kinder Morgan, Inc.
+firstTradeDateEpochUtc§1297434600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1f9d4e32-f8c8-3406-9619-fc743bc7b327
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§12.0
+targetMeanPrice§19.88
+targetMedianPrice§20.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§16
+quickRatio§0.254
+earningsGrowth§-0.067
+grossMargins§0.4766
+ebitdaMargins§0.40535
+trailingPegRatio§2.1692

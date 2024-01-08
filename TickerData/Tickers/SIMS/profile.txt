@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 01:33:11.947301
+longBusinessSummary§Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is comprised of U.S.-listed equity securities (including depositary receipts) of companies domiciled across developed and emerging markets worldwide which are included in the Intelligent Infrastructure sector as determined by a classification standard produced by the index provider.
+maxAge§86400
+priceHint§2
+yield§0.0149
+totalAssets§19721404
+navPrice§32.95199
+currency§USD
+category§Infrastructure
+ytdReturn§-0.046563502
+beta3Year§1.4
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1513555200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0698561
+fiveYearAverageReturn§0.0704169
+exchange§PCX
+quoteType§ETF
+shortName§SPDR S&P Kensho Intelligent Str
+longName§SPDR S&P Kensho Intelligent Structures ETF
+firstTradeDateEpochUtc§1514385000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§65b32ca5-4360-3c12-bf4a-fc7a5a226324
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 07:44:55.992949
+address1§11325 Random Hills Road
+address2§Suite 240
+city§Fairfax
+state§VA
+zip§22030
+country§United States
+phone§703 436 3800
+website§https://www.fvcbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§FVCBankcorp, Inc. operates as the bank holding company for FVCbank that provides various banking products and services in Virginia. It offers deposit products, including interest and noninterest-bearing transaction accounts, savings accounts, money market accounts, and certificates of deposit. The company also provides commercial real estate loans; commercial construction loans; commercial loans for various business purposes, such as for working capital, equipment purchases, lines of credit, and government contract financing; small business administration loans; asset-based loans and accounts receivable financing; home equity loans; and consumer loans. In addition, it offers business and consumer credit cards; merchant services; business insurance products; and online banking, remote deposit, and mobile banking services. The company serves commercial businesses, nonprofit organizations, professional service entities, and their respective owners and employees located in the greater Washington, D.C., and Baltimore metropolitan areas. It operates branch offices in Arlington, Virginia; the independent city of Manassas, Virginia; Reston, Fairfax County, Virginia; Springfield, Fairfax County in Virginia; Montgomery County and Baltimore in Maryland, and Washington, D.C. FVCBankcorp, Inc. was founded in 2007 and is headquartered in Fairfax, Virginia.
+fullTimeEmployees§131
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David W. Pijor Esq.', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 1451839, 'exercisedValue': 0, 'unexercisedValue': 3172702}, {'maxAge': 1, 'name': 'Ms. Patricia Ann Ferrick CPA', 'age': 61, 'title': 'President, Secretary & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 779122, 'exercisedValue': 0, 'unexercisedValue': 1152707}, {'maxAge': 1, 'name': 'Mr. William G. Byers', 'age': 61, 'title': 'Executive VP & Chief Lending Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 455182, 'exercisedValue': 0, 'unexercisedValue': 745707}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Deacon CPA', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. B. Todd Dempsey', 'age': 65, 'title': 'Executive VP & COO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 331140, 'exercisedValue': 0, 'unexercisedValue': 1287124}, {'maxAge': 1, 'name': 'Ms. Lisa M. Craze', 'title': 'Senior Vice President of Loan Documentation & Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Bruce Gemmill', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alberta A. Gibson', 'title': 'Senior VP & Director of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alissa  Curry-Briggs', 'title': 'Senior VP & Executive Director of Commercial Real Estate', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael G. Nassy', 'age': 48, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.214
+priceToSalesTrailing12Months§4.8121285
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.06
+exchange§NCM
+quoteType§EQUITY
+shortName§FVCBankcorp, Inc.
+longName§FVCBankcorp, Inc.
+firstTradeDateEpochUtc§1430919000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3353de1b-07d1-3647-b03c-14d24a1c18e4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.5
+targetLowPrice§13.5
+targetMeanPrice§13.5
+targetMedianPrice§13.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+earningsGrowth§-0.421
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 21:27:23.847525
+address1§6031 Connection Drive
+address2§Suite 400
+city§Irving
+state§TX
+zip§75039
+country§United States
+phone§214-880-3500
+website§https://www.bldr.com
+industry§Building Products & Equipment
+sector§Industrials
+longBusinessSummary§Builders FirstSource, Inc., together with its subsidiaries, manufactures and supplies building materials, manufactured components, and construction services to professional homebuilders, sub-contractors, remodelers, and consumers in the United States. It offers lumber and lumber sheet goods comprising dimensional lumber, plywood, and oriented strand board products that are used in on-site house framing; manufactured products, such as wood floor and roof trusses, steel roof trusses, wall panels, stairs, and engineered wood products; and windows, and interior and exterior door units, as well as interior trims and custom products comprising intricate mouldings, stair parts, and columns under the Synboard brand name. The company also provides specialty building products and services, including vinyl, composite and wood siding, exterior trims, metal studs, cement, roofing, insulation, wallboards, ceilings, cabinets, and hardware products; products turn-key framing, shell construction, design assistance, and professional installation services. In addition, it offers software products, such as drafting, estimating, quoting, and virtual home design services, which provide software solutions to retailers, distributors, manufacturers, and homebuilders. The company was formerly known as BSL Holdings, Inc. and changed its name to Builders FirstSource, Inc. in October 1999. Builders FirstSource, Inc. was incorporated in 1998 and is based in Irving, Texas.
+fullTimeEmployees§29000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David E. Rush', 'age': 60, 'title': 'CEO & President', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1960759, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter M. Jackson', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2016423, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy D. Johnson', 'age': 48, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1582426, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott L. Robins', 'age': 56, 'title': 'President of West Division', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1718670, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Hiller', 'age': 49, 'title': 'President of Central Division', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1587558, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen J. Herron', 'age': 64, 'title': 'Chief Operating Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jami Beckmann Coulter', 'age': 46, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Bass Messersmith', 'age': 48, 'title': 'Chief People Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim  Page', 'title': 'Executive Vice President of Digital Solutions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Alan Farmer', 'age': 46, 'title': 'President of Commercial Operations', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1147148, 'exercisedValue': 0, 'unexercisedValue': 468160}]
+auditRisk§7
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.048
+priceToSalesTrailing12Months§1.1389474
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.98
+pegRatio§-0.93
+exchange§NYQ
+quoteType§EQUITY
+shortName§Builders FirstSource, Inc.
+longName§Builders FirstSource, Inc.
+firstTradeDateEpochUtc§1119965400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e1a5e3bc-ce03-33fb-b9c3-e9aff27ff86c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§200.0
+targetLowPrice§137.0
+targetMeanPrice§171.89
+targetMedianPrice§175.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§1.057
+earningsGrowth§-0.239
+grossMargins§0.34862
+ebitdaMargins§0.16006
+trailingPegRatio§None

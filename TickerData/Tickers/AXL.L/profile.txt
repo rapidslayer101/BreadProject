@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 07:35:36.880143
+address1§203, 2303 4th Street SW
+city§Calgary
+state§AB
+zip§T2S 2S7
+country§Canada
+phone§403-237-5700
+website§https://www.arrowexploration.ca
+industry§Oil & Gas E&P
+industryKey§oil-gas-e-p
+industryDisp§Oil & Gas E&P
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Arrow Exploration Corp., a junior oil and gas company, engages in the acquisition, exploration, development, and production of oil and gas properties in Colombia and Western Canada. Arrow Exploration Corp. is headquartered in Calgary, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. P. Gage Jull B.Sc., C.F.A., M.B.A.', 'age': 63, 'title': 'Executive Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 624407, 'exercisedValue': 61694, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. G. Marshall Abbott', 'title': 'CEO & Director', 'fiscalYear': 2022, 'totalPay': 731205, 'exercisedValue': 107131, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  McFarlane', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 1064819, 'exercisedValue': 315966336, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Miller', 'title': 'Senior Vice President of Exploration', 'fiscalYear': 2022, 'totalPay': 221203, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mauricio Nuñez Restrepo', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.399
+priceToSalesTrailing12Months§1.3110313
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§ARROW EXPLORATION CORP. COM SHS
+longName§Arrow Exploration Corp.
+firstTradeDateEpochUtc§1635145200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§edc68ebb-0314-34cb-9634-47d08e89bc71
+messageBoardId§finmb_569756446
+recommendationKey§none
+quickRatio§1.2
+earningsGrowth§1.116
+grossMargins§0.83959
+ebitdaMargins§0.8101
+trailingPegRatio§None

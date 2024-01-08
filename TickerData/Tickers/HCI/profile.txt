@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 09:30:07.129602
+address1§3802 Coconut Palm Drive
+city§Tampa
+state§FL
+zip§33619
+country§United States
+phone§813 849 9500
+website§https://hcigroup.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§HCI Group, Inc., together with its subsidiaries, engages in the property and casualty insurance, reinsurance, real estate, and information technology businesses in Florida. It provides residential insurance products, such as homeowners, fire, flood, and wind-only insurance to homeowners, condominium owners, and tenants for properties, as well as offers reinsurance programs. The company also owns and operates waterfront properties and retail shopping centers, and an office building, as well as commercial properties for investment purposes. In addition, it designs and develops web-based applications and products for mobile devices, including SAMS, an online policy administration platform; Harmony, a policy administration platform; ClaimColony, an end-to-end claims management platform; and AtlasViewer, a mapping and data visualization platform. The company was formerly known as Homeowners Choice, Inc. and changed its name to HCI Group, Inc. in May 2013. HCI Group, Inc. was incorporated in 2006 and is headquartered in Tampa, Florida.
+fullTimeEmployees§578
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Pareshbhai Suryakant Patel', 'age': 60, 'title': 'Founder, Chairman, President & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1031115, 'exercisedValue': 0, 'unexercisedValue': 20737500}, {'maxAge': 1, 'name': 'Mr. Gregory  Politis', 'age': 70, 'title': 'Co-Founder & Lead Independent Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 100612, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Mark Harmsworth CPA', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 462938, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karin Sue Coleman', 'age': 62, 'title': 'COO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 516000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Lloyd Graham', 'age': 65, 'title': 'VP, General Counsel & Company Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 416000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Saravanos', 'age': 52, 'title': 'President of Greenleaf Capital LLC & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 405400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Andrew Mitchell', 'age': 43, 'title': 'Senior Vice President of Investor Relations', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rachel  Swansiger Esq.', 'title': 'Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.6
+dividendYield§0.0179
+exDividendDate§1700092800
+payoutRatio§0.38279998
+fiveYearAvgDividendYield§2.96
+beta§1.043
+priceToSalesTrailing12Months§1.7256988
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.19
+pegRatio§0.69
+exchange§NYQ
+quoteType§EQUITY
+shortName§HCI Group, Inc.
+longName§HCI Group, Inc.
+firstTradeDateEpochUtc§1221485400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bcb24d33-d2a2-3de9-b0c3-e9f38becc496
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§90.0
+targetMeanPrice§99.0
+targetMedianPrice§98.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.321
+grossMargins§0.29986
+ebitdaMargins§0.16690001
+trailingPegRatio§None

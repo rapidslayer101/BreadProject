@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 09:31:50.923003
+address1§Rua Capote Valente, 39
+city§São Paulo
+state§SP
+zip§5409-0000
+country§Brazil
+website§https://www.nubank.com.br
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Nu Holdings Ltd. provides digital banking platform and digital financial services in Brazil, Mexico, Colombia, and internationally. It offers Nu credit and debit cards; Ultraviolet credit and debit cards; and mobile payment solutions for NuAccount customers to make and receive transfers, pay bills, and make everyday purchases through their mobile phones. The company provides savings solutions, such as Nu Personal Accounts, a digital account solution that supports all personal finance activities, from daily purchases and money transfers to savings; and Nu business accounts designed specifically for entrepreneur customers and their businesses. In addition, it offers NuCrypto, a solution for buying and selling cryptocurrencies through the Nu app; NuInvest, an investment product that provides equity, fixed-income, options, and ETF products, as well as multimarket funds with curated asset allocations based on the customer's risk profile and financial position; personal unsecured loans; in-app buy now pay later' solution for Nu card customers to pay credit and debit purchases, and banking payment slips over time in up to twelve installments; and NuInsurance protecting solutions to help its customers secure life insurance and funeral benefits. The company was founded in 2013 and is headquartered in Sao Paulo, Brazil.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Velez-Osomo', 'title': 'Founder, Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Youssef  Lahrech', 'age': 48, 'title': 'COO & President', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cristina Helena Zingaretti Junqueira', 'age': 41, 'title': 'Co-Founder & Chief Growth Officer', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guilherme  Marques do Lago', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vitor Guarino Olivier', 'age': 33, 'title': 'Chief Technology Officer', 'yearBorn': 1990, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jorg  Friedemann', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzana  Kubric', 'age': 43, 'title': 'Chief of Human Resources Officer', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jagpreet Singh Duggal', 'age': 49, 'title': 'Chief Product Officer', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henrique Camossa Saldanha Fragelli', 'age': 46, 'title': 'Chief Risk Officer', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.93
+priceToSalesTrailing12Months§13.028005
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.4
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nu Holdings Ltd.
+longName§Nu Holdings Ltd.
+firstTradeDateEpochUtc§1639060200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9393cb70-1efd-3874-b38b-e79bca77cfb9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§4.5
+targetMeanPrice§9.83
+targetMedianPrice§10.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§0.652
+earningsGrowth§38.0
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

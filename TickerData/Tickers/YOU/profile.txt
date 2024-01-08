@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 23:34:37.937585
+address1§85 10th Avenue
+address2§9th Floor
+city§New York
+state§NY
+zip§10011
+country§United States
+phone§646 723 1404
+website§https://www.clearme.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Clear Secure, Inc. operates a secure identity platform under the CLEAR brand name primarily in the United States. Its secure identity platform is a multi-layered infrastructure consisting of front-end, including enrollment, verification, and linking. The company also offers CLEAR Plus, a consumer aviation subscription service, which enables access to predictable entry lanes in airport security checkpoints, as well as access to broader network; and CLEAR mobile app, which is used to enroll new members and enhance the experience for existing members. In addition, it provides Reserve powered by CLEAR, a virtual queuing technology that provides users with the choice of how they queue either at home or on the move; and Atlas Certified, an automated solution to verify professional licenses and certification data across industries by communicating with certifying organizations for on-demand, current, and trusted data. The company was founded in 2010 and is headquartered in New York, New York.
+fullTimeEmployees§3056
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Caryn Gail Seidman-Becker', 'age': 50, 'title': 'Chairman & CEO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 671278, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth L. Cornick', 'age': 50, 'title': 'President, CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 673278, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kasra  Moshkani', 'age': 39, 'title': 'Executive Vice President of Operations', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 832514, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard N. Patterson Jr.', 'age': 54, 'title': 'Chief Information Security Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 737527, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Levine', 'age': 51, 'title': 'General Counsel, Chief Privacy Officer & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 608124, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel Pike Hall', 'age': 55, 'title': 'Chief Product Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 914499, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis W. Liu', 'age': 40, 'title': 'Chief Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiranjiv S. Jouhal', 'age': 47, 'title': 'Chief Technology Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria A. Comella', 'age': 42, 'title': 'Head of Public Affairs', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Catesby Perrin III', 'age': 41, 'title': 'Executive Vice President of Growth', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§7
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.16
+dividendYield§0.0074
+exDividendDate§1700006400
+payoutRatio§3.5
+beta§1.512
+priceToSalesTrailing12Months§5.7855077
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.69
+exchange§NYQ
+quoteType§EQUITY
+shortName§Clear Secure, Inc.
+longName§Clear Secure, Inc.
+firstTradeDateEpochUtc§1625059800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bba78e7d-3d6e-3696-bfef-6e87a26a6c03
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§20.0
+targetMeanPrice§26.13
+targetMedianPrice§22.5
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§8
+quickRatio§1.542
+grossMargins§0.62687
+ebitdaMargins§-0.022119999
+trailingPegRatio§None

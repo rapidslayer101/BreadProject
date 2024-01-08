@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 20:47:21.433034
+address1§333 South Seventh Street
+address2§Suite 1000
+city§Minneapolis
+state§MN
+zip§55402
+country§United States
+phone§612 435 9400
+fax§612 435 9401
+website§https://www.spscommerce.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§SPS Commerce, Inc. provides cloud-based supply chain management solutions worldwide. It offers solutions through the SPS Commerce, a cloud-based platform that enhances the way retailers, suppliers, grocers, distributors, and logistics firms manage and fulfill omnichannel orders, optimize sell-through performance, and automate new trading relationships. The company also provides Fulfillment solution, an electronic data interchange solution that scales as a business grows, where companies use a single system to manage orders and logistics from various sales channels, including wholesale, eCommerce, and marketplaces; and Analytics product that enables organizations to enhance visibility into how products are selling through a single connection across various sales channels, including wholesale, eCommerce, and marketplaces, as well as enhances access and usage of sales and inventory data through a combination of analytics applications, network of connections, and industry-leading expertise. In addition, it offers various complimentary products, such as assortment product, which simplifies the communication of robust, accurate item data by automatically translating item attributes, and hierarchies; and community product that allows organizations to accelerate digitization of their supply chain and improve collaboration with suppliers through change management and onboarding programs. The company was formerly known as St. Paul Software, Inc. and changed its name to SPS Commerce, Inc. in May 2001. SPS Commerce, Inc. was incorporated in 1987 and is headquartered in Minneapolis, Minnesota.
+fullTimeEmployees§2215
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Archie C. Black', 'age': 61, 'title': 'Executive Chair', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 976700, 'exercisedValue': 7052853, 'unexercisedValue': 2441621}, {'maxAge': 1, 'name': 'Mr. James J. Frome', 'age': 58, 'title': 'President & COO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 749150, 'exercisedValue': 0, 'unexercisedValue': 1634599}, {'maxAge': 1, 'name': 'Ms. Kimberly K. Nelson', 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 639588, 'exercisedValue': 298824, 'unexercisedValue': 7560578}, {'maxAge': 1, 'name': 'Mr. Chad  Collins', 'age': 47, 'title': 'CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamie  Thingelstad', 'age': 51, 'title': 'Senior VP & CTO', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn  Myhran', 'title': 'Chief Administrative Officer & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan  Juckniess', 'title': 'Senior VP & Chief Sales Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Mark  O'Leary", 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.819
+priceToSalesTrailing12Months§12.36027
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.15
+pegRatio§4.23
+exchange§NMS
+quoteType§EQUITY
+shortName§SPS Commerce, Inc.
+longName§SPS Commerce, Inc.
+firstTradeDateEpochUtc§1271943000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§53343699-841a-328b-8673-4564cec091ac
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§215.0
+targetLowPrice§172.0
+targetMeanPrice§193.43
+targetMedianPrice§200.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§2.141
+earningsGrowth§0.047
+grossMargins§0.66035
+ebitdaMargins§0.20766
+trailingPegRatio§None

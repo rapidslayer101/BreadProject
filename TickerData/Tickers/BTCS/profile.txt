@@ -1,0 +1,39 @@
+# reload+after+2024-01-22 17:43:49.927687
+address1§9466 Georgia Avenue
+address2§Suite 124
+city§Silver Spring
+state§MD
+zip§20910
+country§United States
+phone§202 430 6576
+website§https://www.btcs.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§BTCS Inc. focuses on blockchain infrastructure and staking in the United States. The company secures blockchain-infrastructure operations and operates validator nodes on disruptive next-generation blockchain networks. It offers StakeSeeker, a cryptocurrency dashboard and staking-as-a-service platform that allows crypto asset holders to earn rewards by participating in network consensus mechanisms. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. was founded in 2014 and is based in Silver Spring, Maryland.
+fullTimeEmployees§5
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles W. Allen', 'age': 48, 'title': 'Chairman & CEO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 406757, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michal  Handerhan', 'age': 46, 'title': 'Co-Founder, COO, Secretary & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 293176, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Edward Prevoznik Jr.', 'age': 33, 'title': 'Chief Financial Officer', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 236667, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manish  Paranjape', 'age': 50, 'title': 'Chief Technology Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1647388800
+payoutRatio§0.0
+beta§1.547
+priceToSalesTrailing12Months§24.619366
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.3
+exchange§NCM
+quoteType§EQUITY
+shortName§BTCS Inc.
+longName§BTCS Inc.
+firstTradeDateEpochUtc§1289831400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2388a81a-6f51-37b0-b13e-fc911cc6eb5b
+gmtOffSetMilliseconds§-18000000
+recommendationMean§2.0
+recommendationKey§buy
+quickRatio§1.759
+grossMargins§0.69543
+ebitdaMargins§-2.86156
+trailingPegRatio§None

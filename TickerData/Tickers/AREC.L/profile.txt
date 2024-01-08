@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 10:35:36.431346
+address1§Chesterford Research Park
+city§Little Chesterford
+zip§CB10 1XL
+country§United Kingdom
+phone§44 1223 426 060
+website§https://arecor.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Arecor Therapeutics plc, a biopharmaceutical company, focuses on developing products in diabetes and other indications. The company through its proprietary formulation technology platform, Arestat, developing a portfolio of proprietary products in diabetes and other indications, as well as working with pharmaceutical and biotechnology companies to deliver enhanced reformulations of therapeutic products. It also offers Ogluo, a ready-to-use glucagon auto-injector pen that is used to treat hypoglycaemia in patients with diabetes; and specialty hospital care products. In addition, the company is developing AT247, an ultra-rapid acting insulin for patients with Type I and Type II diabetics; and AT278, an ultra-concentrated rapid acting insulin formulation that has been designed to accelerate the absorption of insulin post injection. The company was founded in 2007 and is headquartered in Little Chesterford, the United Kingdom.
+fullTimeEmployees§51
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Sarah Jennifer Howell Ph.D.', 'age': 46, 'title': 'CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 421000, 'exercisedValue': 51458, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Day Lowther FCMA', 'age': 63, 'title': 'CFO, Company Secretary & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 306000, 'exercisedValue': 154380, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jan  Jezek Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Gerring', 'title': 'Senior Vice President of Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Manjit  Rahelu Ph.D.', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.187
+priceToSalesTrailing12Months§15.997804
+currency§GBp
+forwardEps§-0.19
+exchange§LSE
+quoteType§EQUITY
+shortName§ARECOR THERAPEUTICS PLC ORD GBP
+longName§Arecor Therapeutics plc
+firstTradeDateEpochUtc§1622703600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3cde453d-55e7-3d2c-aa00-f09d73c9de43
+messageBoardId§finmb_39396547
+targetHighPrice§539.0
+targetLowPrice§377.0
+targetMeanPrice§458.0
+targetMedianPrice§458.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§2.276
+grossMargins§1.0
+ebitdaMargins§-2.89287
+trailingPegRatio§None

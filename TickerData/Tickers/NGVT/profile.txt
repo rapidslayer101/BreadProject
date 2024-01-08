@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 09:31:41.339120
+address1§4920 O'Hear Avenue
+address2§Suite 400
+city§North Charleston
+state§SC
+zip§29405
+country§United States
+phone§843 740 2300
+website§https://www.ingevity.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Ingevity Corporation manufactures and sells specialty chemicals and activated carbon materials in North America, the Asia Pacific, Europe, the Middle East, Africa, and South America. It operates through two segments, Performance Materials and Performance Chemicals. The Performance Materials segment engineers, manufactures, and sells hardwood-based and chemically activated carbon products primarily for use in gasoline vapor emission control systems in cars, motorcycles, trucks, and boats. This segment also produces other activated carbon products for use in various applications, including food, water, beverage, and chemical purification. The Performance Chemicals segment comprises of pavement technologies, industrial specialties, and engineered polymers. It manufactures products derived from crude tall oil and lignin extracted from the kraft pulping process, as well as caprolactone monomers and derivatives derived from cyclohexanone and hydrogen peroxide. This segment's products are used in various applications comprising warm mix paving, pavement preservation, pavement reconstruction and recycling, road striping, oil well service additives, oil production, and downstream applications; and adhesives, agrochemical dispersants, lubricants, printing inks, industrial intermediates and oilfield, coatings, resins, elastomers, bioplastics, and medical devices. The company was founded in 1964 and is headquartered in North Charleston, South Carolina.
+fullTimeEmployees§1900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Fortson', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2574405, 'exercisedValue': 0, 'unexercisedValue': 1588896}, {'maxAge': 1, 'name': 'Ms. Mary Dean Hall', 'age': 65, 'title': 'Executive VP & CFO', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 1140057, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacy Lancaster Cozad', 'age': 52, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1050386, 'exercisedValue': 0, 'unexercisedValue': 1379}, {'maxAge': 1, 'name': 'Mr. Stuart Edward Woodcock Jr.', 'age': 57, 'title': 'Executive VP & President of Performance Materials', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 960980, 'exercisedValue': 0, 'unexercisedValue': 193238}, {'maxAge': 1, 'name': 'Mr. Richard  White', 'age': 60, 'title': 'Senior VP & President of Performance Chemicals', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 854880, 'exercisedValue': 53972, 'unexercisedValue': 438}, {'maxAge': 1, 'name': 'Mr. Phillip John Platt', 'age': 42, 'title': 'VP, Chief Accounting Officer & Business Transformation Lead', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John E. Nypaver Jr.', 'title': 'VP of Investor Relations & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Caroline  Monahan', 'title': 'Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Stunyo', 'age': 44, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Hulme', 'age': 54, 'title': 'Senior VP & President of Advanced Polymer Technologies', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.881
+priceToSalesTrailing12Months§0.9206662
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.51
+pegRatio§1.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ingevity Corporation
+longName§Ingevity Corporation
+firstTradeDateEpochUtc§1462282200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b23d330c-5653-37cc-94ad-6104d25379d5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§91.0
+targetLowPrice§43.0
+targetMeanPrice§53.0
+targetMedianPrice§47.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.013
+earningsGrowth§-0.652
+grossMargins§0.30434
+ebitdaMargins§0.24589
+trailingPegRatio§None

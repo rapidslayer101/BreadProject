@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 10:47:37.330885
+address1§2000 Sierra Point Parkway
+address2§Suite 400
+city§Brisbane
+state§CA
+zip§94005
+country§United States
+phone§415 798 8589
+website§https://www.tempesttx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Tempest Therapeutics, Inc., a clinical-stage oncology company, develops small molecule therapeutics that combine both tumor-targeted and immune-mediated mechanisms to treat various tumors. The company's two clinical programs are TPST-1495, a dual antagonist of EP2 and EP4, receptors of prostaglandin E2, which is in a Phase 1 trial to treat solid tumors; and TPST-1120, a selective antagonist of peroxisome proliferator-activated receptor alpha that is in a Phase 1 trial for the treatment of solid tumors. It also develops TREX-1, a key cellular enzyme that regulates the innate immune response in tumors. Tempest Therapeutics, Inc. is headquartered in Brisbane, California.
+fullTimeEmployees§19
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stephen R. Brady J.D., LLM', 'age': 53, 'title': 'CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 740950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Samuel  Whiting M.D., Ph.D.', 'age': 57, 'title': 'Executive VP & Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 591225, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas  Maestas', 'age': 43, 'title': 'VP of Strategy & Finance and Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Trojanowski', 'age': 35, 'title': 'Corporate Controller, Treasurer & Principal Accounting Officer', 'yearBorn': 1988, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sharon  Sakai Ph.D., RAC', 'title': 'Head of Regulatory & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-2.611
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.29
+exchange§NCM
+quoteType§EQUITY
+shortName§Tempest Therapeutics, Inc.
+longName§Tempest Therapeutics, Inc.
+firstTradeDateEpochUtc§1352730600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d54d822e-cd83-39cb-b46d-5c9b6edb9502
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§47.0
+targetLowPrice§8.0
+targetMeanPrice§21.67
+targetMedianPrice§10.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§3
+quickRatio§1.498
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

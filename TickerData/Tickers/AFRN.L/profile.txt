@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 17:35:24.514426
+address1§1010 Cambourne Business Park
+address2§Cambourne
+city§Cambridge
+zip§CB23 6DP
+country§United Kingdom
+phone§44 12 2359 8197
+website§https://aferian.com
+industry§Broadcasting
+industryKey§broadcasting
+industryDisp§Broadcasting
+sector§Communication Services
+sectorKey§communication-services
+sectorDisp§Communication Services
+longBusinessSummary§Aferian Plc, together with its subsidiaries, operates as a B2B video streaming services company worldwide. It engages in the delivery of video experiences over IP using its end-to-end solution. The company provides 24i, an end to end video streaming platform, which includes FokusOnTV and 24iQ; and amino video streaming devices, and associated operating and device management software. The company develops and sells streaming devices and solutions, including licensing and support services; online video solutions; and set-top box devices, and associated operating and device management software. Aferian Plc was formerly known as Amino Technologies plc and changed its name to Aferian Plc in June 2021. The company was founded in 1997 and is headquartered in Cambridge, the United Kingdom.
+fullTimeEmployees§225
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donald Kevin McGarva', 'age': 58, 'title': 'Group CEO & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 336639, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Andrew Russell Carlisle', 'age': 45, 'title': 'Group CFO, COO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 250158, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Oetegenn', 'age': 67, 'title': 'President of the Americas & Executive Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 387190, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Evensen', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Perez', 'title': 'Senior Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert Edwin Hart', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Neale  Foster', 'title': 'Chief Executive Officer of 24i', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alec  Greenberg', 'title': 'Vice President of Partnerships', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1661990400
+payoutRatio§0.9261
+fiveYearAvgDividendYield§4.36
+beta§0.272
+priceToSalesTrailing12Months§0.1629439
+currency§GBp
+forwardEps§-0.07
+lastDividendValue§1.0
+lastDividendDate§1661990400
+exchange§LSE
+quoteType§EQUITY
+shortName§AFERIAN PLC ORD 1P
+longName§Aferian Plc
+firstTradeDateEpochUtc§1086764400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§798d21bb-5410-3d93-bebd-7f6a8979c84c
+messageBoardId§finmb_12667422
+targetHighPrice§0.18
+targetLowPrice§0.18
+targetMeanPrice§0.18
+targetMedianPrice§0.18
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.565
+grossMargins§0.50835
+ebitdaMargins§-0.010980001
+trailingPegRatio§None

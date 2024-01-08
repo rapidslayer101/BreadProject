@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 00:33:53.744385
+address1§101 Spear Street
+address2§Fifth Floor
+city§San Francisco
+state§CA
+zip§94105
+country§United States
+phone§415 390 2337
+website§https://www.twilio.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§Twilio Inc., together with its subsidiaries, provides software and communications solutions in the United States and internationally. The company operates cloud communications platform that enables developers to build, scale, and operate customer engagement within software applications. Its customer engagement platform provides a set of application programming interfaces that enable developers to embed voice, messaging, and email interactions into their customer-facing applications. Twilio Inc. was incorporated in 2008 and is headquartered in San Francisco, California.
+fullTimeEmployees§8156
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey  Lawson', 'age': 46, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 148657, 'exercisedValue': 0, 'unexercisedValue': 18342220}, {'maxAge': 1, 'name': 'Mr. Dana R. Wagner', 'age': 48, 'title': 'Chief Legal Officer, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 609150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Khozema Z. Shipchandler', 'age': 49, 'title': 'President of Communications & Principal Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1108304, 'exercisedValue': 1025681, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elena A. Donio', 'age': 53, 'title': 'Advisor', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 728944, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Wolthuis', 'title': 'Co-Founder & Board Observer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aidan  Viggiano', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Simms', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Zilli', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy  Lake', 'age': 49, 'title': 'Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin  Reilly', 'title': 'Chief Social Impact Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.465
+priceToSalesTrailing12Months§3.0462372
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.44
+pegRatio§0.31
+exchange§NYQ
+quoteType§EQUITY
+shortName§Twilio Inc.
+longName§Twilio Inc.
+firstTradeDateEpochUtc§1466688600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6477118e-cc1f-3b6b-8434-542d7310ad12
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§50.0
+targetMeanPrice§69.64
+targetMedianPrice§69.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§28
+quickRatio§6.08
+grossMargins§0.48615003
+ebitdaMargins§-0.06381
+trailingPegRatio§None

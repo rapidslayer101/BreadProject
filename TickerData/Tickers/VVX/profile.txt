@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 08:34:16.994161
+address1§7901 Jones Branch Drive
+address2§Suite 700
+city§Mclean
+state§VA
+zip§22102
+country§United States
+phone§571 481 2000
+website§https://www.gov2x.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§V2X, Inc. provides critical mission solutions and support services to defense clients in the United States and internationally. It offers a suite of integrated solutions across the operations and logistics, aerospace, training, and technology markets to national security, defense, and civilian clients. The company is headquartered in McLean, Virginia.
+fullTimeEmployees§15400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles L. Prow', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2119666, 'exercisedValue': 0, 'unexercisedValue': 422850}, {'maxAge': 1, 'name': 'Mr. William W. Beard', 'age': 63, 'title': 'Senior Vice President of Aerospace Solutions', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 648184, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn  Mural', 'age': 53, 'title': 'Senior VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William B. Noon', 'age': 58, 'title': 'Chief Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 396059, 'exercisedValue': 0, 'unexercisedValue': 49893}, {'maxAge': 1, 'name': 'Mr. Michael J. Smith C.F.A.', 'age': 42, 'title': 'Vice President of Treasury, Corporate Development & Investor Relations', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin T. Boyle Esq.', 'age': 54, 'title': 'Senior VP, Chief Legal Officer, General Counsel & Corporate Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 712336, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Josephine F. Bjornson', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan L. Deagle', 'age': 54, 'title': 'Senior Vice President and Chief Growth & Client Service Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 812817, 'exercisedValue': 0, 'unexercisedValue': 110787}, {'maxAge': 1, 'name': 'Ms. Corinne L. Minton-Package', 'age': 50, 'title': 'Senior Vice President of Advanced Technology', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth W. Shreves', 'age': 60, 'title': 'Senior Vice President of Global Mission Training & Sustainment', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 687238, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.828
+priceToSalesTrailing12Months§0.32808343
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.78
+exchange§NYQ
+quoteType§EQUITY
+shortName§V2X, Inc.
+longName§V2X, Inc.
+firstTradeDateEpochUtc§1410874200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a0633aaf-cad3-35ab-ac43-7be8c2aea05e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§52.0
+targetMeanPrice§60.33
+targetMedianPrice§61.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.962
+grossMargins§0.090459995
+ebitdaMargins§0.06819
+trailingPegRatio§None

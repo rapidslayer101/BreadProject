@@ -1,0 +1,26 @@
+# reload+after+2024-01-22 03:32:15.970975
+longBusinessSummary§The fund seeks to achieve its investment objective by allocating its assets generally among the components of the S&P 500® Dynamic VEQTOR Index. The Benchmark is composed of up to three types of components: (i) an equity component, represented by the S&P 500® Index; (ii) a volatility hedge component, represented by the S&P 500® VIX Short-Term Futures Index (“VIX Futures Index”); and (iii) cash.
+maxAge§86400
+priceHint§2
+yield§0.019299999
+totalAssets§133238280
+navPrice§33.59
+currency§USD
+category§Long-Short Equity
+ytdReturn§-0.0169442
+beta3Year§0.5
+fundFamily§Invesco
+fundInceptionDate§1354665600
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0180688
+fiveYearAverageReturn§0.064877704
+exchange§PCX
+quoteType§ETF
+shortName§Invesco S&P 500 Downside Hedged
+longName§Invesco S&P 500 Downside Hedged ETF
+firstTradeDateEpochUtc§1354804200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§220bbacc-8062-3eb0-b55e-f6e92eb8052b
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

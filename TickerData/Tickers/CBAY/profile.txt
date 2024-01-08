@@ -1,0 +1,50 @@
+# reload+after+2024-01-19 22:43:55.299600
+address1§7575 Gateway Boulevard
+address2§Suite 110
+city§Newark
+state§CA
+zip§94560
+country§United States
+phone§510 293 8800
+fax§510 293 9090
+website§https://www.cymabay.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§CymaBay Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing and providing therapies to treat liver and other chronic diseases. Its lead product candidate is seladelpar (MBX-8025), a selective agonist of peroxisome proliferator activated receptor delta for the treatments of autoimmune liver disease, primary biliary cholangitis (PBC). The company also develops MBX-2982 for the disease/condition of hypoglycemia in type 1 diabetics. It has a license agreement with ABW Cyclops SPV LP to support development of seladelpar for the treatment of PBC; and holds a worldwide license from Janssen Pharmaceuticals, Inc. to research, develop, and commercialize compounds with activity against an undisclosed metabolic disease target. The company was formerly known as Metabolex, Inc. CymaBay Therapeutics, Inc. was incorporated in 1988 and is headquartered in Newark, California.
+fullTimeEmployees§60
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sujal A. Shah', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1043773, 'exercisedValue': 0, 'unexercisedValue': 2923919}, {'maxAge': 1, 'name': 'Dr. Charles A. McWherter Ph.D.', 'age': 68, 'title': 'President of Research & Development and Chief Scientific Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 700648, 'exercisedValue': 0, 'unexercisedValue': 1864978}, {'maxAge': 1, 'name': 'Mr. Paul T. Quinlan', 'age': 60, 'title': 'General Counsel, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 629720, 'exercisedValue': 0, 'unexercisedValue': 157828}, {'maxAge': 1, 'name': 'Mr. Harish  Shantharam C.F.A.', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Boehm', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Patrick J. O'Mara", 'age': 62, 'title': 'Senior Vice President of Business Development', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Robert L. Martin', 'age': 61, 'title': 'Senior Vice President of Manufacturing & Nonclinical Development', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Klara A. Dickinson-Eason', 'age': 55, 'title': 'Chief Regulatory & Quality Assurance Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 441836, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Becki  Filice', 'age': 62, 'title': 'Senior Vice President of Portfolio & Product Leadership', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Kozub', 'title': 'Head of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.295
+priceToSalesTrailing12Months§84.167435
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.36
+exchange§NMS
+quoteType§EQUITY
+shortName§CymaBay Therapeutics Inc.
+longName§CymaBay Therapeutics, Inc.
+firstTradeDateEpochUtc§1391437800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a8ce2162-5d9e-34db-a343-001f7cebee58
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§20.0
+targetMeanPrice§27.25
+targetMedianPrice§27.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§12
+quickRatio§22.312
+grossMargins§-0.54501
+ebitdaMargins§-2.6389
+trailingPegRatio§None

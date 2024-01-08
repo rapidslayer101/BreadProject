@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 12:30:16.408529
+address1§780 Johnson Ferry Road
+address2§Suite 800
+city§Atlanta
+state§GA
+zip§30342
+country§United States
+phone§404 443 2900
+website§https://www.havertys.com
+industry§Home Improvement Retail
+sector§Consumer Cyclical
+longBusinessSummary§Haverty Furniture Companies, Inc. operates as a specialty retailer of residential furniture and accessories in the United States. The company offers furniture merchandise under the Havertys brand name. It also provides custom upholstery products and eclectic looks; and mattress product lines under the Tempur-Pedic, Serta, Sealy, and Stearns and Foster names, as well as private label Skye name. The company sells home furnishings through its retail stores, as well as through its website. Haverty Furniture Companies, Inc. was founded in 1885 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§2831
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Clarence H. Smith', 'age': 72, 'title': 'Chairman & CEO', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 1528629, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven G. Burdette', 'age': 61, 'title': 'President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 918060, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard B. Hare', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 770657, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Edward Clary', 'age': 62, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 688204, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John L. Gill', 'age': 59, 'title': 'Executive Vice President of Merchandising', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 680915, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet E. Taylor', 'age': 61, 'title': 'Senior VP & General Counsel', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen B. Bautista', 'age': 56, 'title': 'Senior Vice President of Marketing & Digital', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kelly Allen Fladger', 'age': 53, 'title': 'Senior VP & Chief HR Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott T. Miles', 'title': 'Senior Vice President of Stores', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rhonda J. Wolf', 'title': 'Senior Vice President of Merchandising', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0339
+exDividendDate§1701043200
+payoutRatio§0.2997
+fiveYearAvgDividendYield§3.57
+beta§1.476
+priceToSalesTrailing12Months§0.61817425
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.73
+pegRatio§0.78
+exchange§NYQ
+quoteType§EQUITY
+shortName§Haverty Furniture Companies, In
+longName§Haverty Furniture Companies, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e05132ff-9359-3470-a503-237c8b522ab2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§31.0
+targetMeanPrice§40.33
+targetMedianPrice§45.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.887
+earningsGrowth§-0.301
+grossMargins§0.59189
+ebitdaMargins§0.10734
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 23:44:41.323557
+address1§12278 Scripps Summit Drive
+city§San Diego
+state§CA
+zip§92131
+country§United States
+phone§858 875 1800
+website§https://www.fatetherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Fate Therapeutics, Inc., a clinical-stage biopharmaceutical company, develops programmed cellular immunotherapies for cancer and immune disorders worldwide. Its chimeric antigen receptor (CAR)-targeted NK and T-cell product candidates include FT576 to treat multiple myeloma and FT522, to treat lymphoma and autoimmune disorders; and CAR T-cell programs include FT819 to treat hematologic malignancies and solid tumors, and FT825 to treat solid tumors. The company has a collaboration and option agreement with Ono Pharmaceutical Co. Ltd. for the development and commercialization of off-the-shelf, iPSC-derived CAR T-cell product candidates for the treatment of cancer. Fate Therapeutics, Inc. was incorporated in 2007 and is headquartered in San Diego, California.
+fullTimeEmployees§551
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. J. Scott Wolchko', 'age': 53, 'title': 'Founder, CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 645000, 'exercisedValue': 3854968, 'unexercisedValue': 1599920}, {'maxAge': 1, 'name': 'Mr. Edward J. Dulac III', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 455000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cindy R. Tahl', 'age': 50, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 455000, 'exercisedValue': 3890153, 'unexercisedValue': 656415}, {'maxAge': 1, 'name': 'Dr. Bahram  Valamehr Ph.D.', 'age': 46, 'title': 'Chief Research & Development Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 455000, 'exercisedValue': 1390425, 'unexercisedValue': 939510}, {'maxAge': 1, 'name': 'Mr. Jim  Beitel M.B.A.', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jerome  Bressi Ph.D.', 'title': 'Senior Vice President of Regulatory & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Barbara  Hickingbottom', 'title': 'Senior VP of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.659
+priceToSalesTrailing12Months§3.4998498
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.03
+pegRatio§0.06
+exchange§NGM
+quoteType§EQUITY
+shortName§Fate Therapeutics, Inc.
+longName§Fate Therapeutics, Inc.
+firstTradeDateEpochUtc§1380634200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§98fe3f7f-5aa9-30d5-b866-ea8a0474dc72
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§2.0
+targetMeanPrice§6.34
+targetMedianPrice§5.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§16
+quickRatio§8.523
+grossMargins§-1.14636
+ebitdaMargins§-1.7758299
+trailingPegRatio§None

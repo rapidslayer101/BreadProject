@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 16:31:07.447889
+address1§27 Signal Road
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§203 674 9900
+website§https://dorianlpg.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Dorian LPG Ltd., together with its subsidiaries, engages in the transportation of liquefied petroleum gas (LPG) through its LPG tankers worldwide. It owns and operates twenty-five very large gas carriers (VLGCs). The company was incorporated in 2013 and is headquartered in Stamford, Connecticut.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John C. Hadjipateras', 'age': 73, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1950, 'fiscalYear': 2023, 'totalPay': 1562150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore B. Young', 'age': 56, 'title': 'CFO, Treasurer and Principal Financial & Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 862525, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander C. Hadjipateras', 'age': 44, 'title': 'Senior EVP of Dorian LPG (USA) LLC & MD of Dorian LPG Management Corp', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 632300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim T. Hansen', 'age': 54, 'title': 'Chief Commercial Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1052310, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Grey-Turner', 'title': 'Vice President of Chartering, Insurance & Legal', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Constantine J. Markakis', 'title': 'CEO of Dorian LPG Management - Athens and President of Dorian LPG Management - Athens', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§5
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§4.0
+dividendYield§0.0837
+exDividendDate§1697673600
+payoutRatio§0.62990004
+beta§1.217
+priceToSalesTrailing12Months§3.9397075
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.98
+pegRatio§0.43
+exchange§NYQ
+quoteType§EQUITY
+shortName§Dorian LPG Ltd.
+longName§Dorian LPG Ltd.
+firstTradeDateEpochUtc§1399555800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cc5b512c-fc87-3356-adf6-3fcc07332e5a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§23.0
+targetMeanPrice§37.34
+targetMedianPrice§34.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§2.46
+earningsGrowth§2.724
+grossMargins§0.76509005
+ebitdaMargins§0.68625
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 06:43:59.398705
+address1§222 Jacobs Street
+address2§Suite 200
+city§Cambridge
+state§MA
+zip§02141
+country§United States
+phone§844 304 2048
+website§https://www.cerevel.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cerevel Therapeutics Holdings, Inc., a clinical-stage biopharmaceutical company, develops various therapies for neuroscience diseases in the United States. It is developing Emraclidine, a positive allosteric modulator (PAM) that is in phase 1b clinical trials for the treatment of schizophrenia; and Darigabat, a PAM, which is in Phase 2 proof-of-concept trial in patients with drug-resistant focal onset seizures in epilepsy or focal epilepsy, as well as in phase 1 trial to treat panic symptoms model. The company's products also comprise Tavapadon, a selective dopamine D1/D5 partial agonist that is in phase 3 clinical trial for the treatment of early- and late-stage Parkinson's disease; CVL-871, a selective dopamine D1/D5 partial agonist, which is in Phase 2a clinical trial to treat dementia-related apathy; and CVL-354, a selective kappa-opioid receptor antagonist to treat major depressive disorder and substance use disorder. It is also involved in the development of an M4 agonist program for the treatment of psychosis and related indications; and PDE4 inhibitor for the treatment of psychiatric, neuroinflammatory, and other disorders. Cerevel Therapeutics Holdings, Inc. was founded in 2018 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§321
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. N. Anthony Coles Jr., M.P.H.', 'age': 63, 'title': 'Executive Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1139441, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Bodenrader', 'age': 50, 'title': 'VP of Finance & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 496166, 'exercisedValue': 0, 'unexercisedValue': 3146093}, {'maxAge': 1, 'name': 'Dr. John J. Renger Ph.D.', 'age': 54, 'title': 'Chief Scientific Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 779750, 'exercisedValue': 10443570, 'unexercisedValue': 5923558}, {'maxAge': 1, 'name': 'Dr. Ramiro  Sanchez M.D.', 'age': 62, 'title': 'Chief Medical Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 805131, 'exercisedValue': 0, 'unexercisedValue': 23030804}, {'maxAge': 1, 'name': 'Mr. Ronald C. Renaud Jr., M.B.A.', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Susan  Altschuller M.B.A., Ph.D.', 'age': 41, 'title': 'Chief Financial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Calistri', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott M. Akamine J.D.', 'age': 38, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 444743, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth A. DiPietro', 'age': 64, 'title': 'Chief Human Resources Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen  Tregoning M.A.', 'age': 52, 'title': 'Chief Corporate Affairs Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 600788, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.551
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.56
+exchange§NCM
+quoteType§EQUITY
+shortName§Cerevel Therapeutics Holdings, 
+longName§Cerevel Therapeutics Holdings, Inc.
+firstTradeDateEpochUtc§1596115800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§17a7f922-86cd-3c75-a5ea-4cf6ef39360a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§25.0
+targetMeanPrice§41.4
+targetMedianPrice§45.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§10
+quickRatio§8.629
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

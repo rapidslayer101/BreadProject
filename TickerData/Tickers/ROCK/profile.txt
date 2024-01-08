@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 15:47:01.387521
+address1§3556 Lake Shore Road
+address2§PO Box 2028
+city§Buffalo
+state§NY
+zip§14219-0228
+country§United States
+phone§716 826 6500
+website§https://www.gibraltar1.com
+industry§Building Products & Equipment
+sector§Industrials
+longBusinessSummary§Gibraltar Industries, Inc. manufactures and distributes building products for the renewable energy, residential, agtech, and infrastructure markets in North America and Asia. It operates through four segments: Renewables, Residential, Agtech, and Infrastructure. The Renewables segment designs, engineers, manufactures, and installs solar racking and electrical balance of systems. The Residential segment offers roof and foundation ventilation products and accessories, such as solar powered units; mail and electronic package solutions, including single mailboxes, cluster style mail and parcel boxes for single and multi-family housing, and electronic package locker systems; roof edgings and flashings; soffits and trims; drywall corner beads; metal roofing products and accessories; rain dispersion products comprising gutters and accessories; and exterior retractable awnings. This segment also provides electronic parcel lockers, rooftop safety kits, chimney caps, heat trace coils and exterior products, remote-controlled deck awnings for sun protection, and ventilation products. The Agtech segment offers growing and processing solutions, including the designing, engineering, manufacturing, construction, and maintenance and support of greenhouses; and indoor growing operations. The Infrastructure segment offers expansion joints, structural bearings, rubber pre-formed seals and other sealants, elastomeric concrete, and bridge cable protection systems. It serves solar developers, institutional and commercial growers of food and plants, home improvement retailers, wholesalers, distributors, and contractors. Gibraltar Industries, Inc. was founded in 1972 and is headquartered in Buffalo, New York.
+fullTimeEmployees§2117
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William T. Bosway', 'age': 57, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1528705, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy F. Murphy', 'age': 59, 'title': 'Senior VP & CFO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 674569, 'exercisedValue': 0, 'unexercisedValue': 31650}, {'maxAge': 1, 'name': 'Ms. Katherine E. Bolanowski', 'age': 39, 'title': 'General Counsel, VP & Secretary', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 463747, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Watorek', 'age': 43, 'title': 'VP & Treasurer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 306519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet A. Catlett', 'age': 46, 'title': 'Chief Human Resources Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John T. Neil', 'title': 'President & GM of Building Products', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Lok', 'title': 'Chief Digital Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori A. Rizzo', 'title': 'VP & Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ed  McKiernan', 'title': 'President of Renewables Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1230595200
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.17
+beta§1.167
+priceToSalesTrailing12Months§1.7420484
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.71
+pegRatio§0.98
+exchange§NMS
+quoteType§EQUITY
+shortName§Gibraltar Industries, Inc.
+longName§Gibraltar Industries, Inc.
+firstTradeDateEpochUtc§752509800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§afeb717a-a2a1-31f7-b648-40e0be38c171
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§87.0
+targetLowPrice§83.0
+targetMeanPrice§85.0
+targetMedianPrice§85.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.092
+earningsGrowth§0.185
+grossMargins§0.26431
+ebitdaMargins§0.13823
+trailingPegRatio§None

@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 10:36:05.005445
+address1§Terminus Road
+address2§West Sussex
+city§Chichester
+zip§PO19 8TX
+country§United Kingdom
+phone§44 12 4377 4837
+website§https://www.deltexmedical.com
+industry§Medical Devices
+industryKey§medical-devices
+industryDisp§Medical Devices
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Deltex Medical Group plc, together with its subsidiaries, manufactures, markets, and sells oesophageal doppler haemodynamic monitoring systems under the TrueVue name in the United Kingdom, the United States, Spain, Canada, and internationally. It offers oesophageal Doppler Probes that is used to measure a patient's central vascular blood flow and fluid status to measure real time blood velocities within the descending aorta; TrueVue Loops that plots aortic blood flow velocity and aortic blood pressure monitoring throughout every heartbeat; High Definition Impedance Cardiography, a non-invasive cardiac function and fluid status monitoring system for awake patients; and PressureWave, a pulse pressure waveform analysis algorithm used during periods of instability or for periods when the ODM mode is unavailable. The company also provides Deltex Medical Esophageal Doppler Simulator that enables clinicians to practice probe insertion, focusing, and waveform interpretation outside of a patient setting. Its products are used in Covid-19 critical care; sepsis; major abdominal, laparoscopic, and spinal surgeries; cardiac, trauma, and transplant procedures; and post-operative acute kidney injury monitoring. Deltex Medical Group plc was incorporated in 2000 and is headquartered in Chichester, the United Kingdom.
+fullTimeEmployees§44
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew Jonathan Mears', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 215500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natalie Emilia Wettler', 'age': 41, 'title': 'Group Finance Director, Company Secretary & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 137500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marion  Lee', 'title': 'Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.908
+priceToSalesTrailing12Months§1.3173752
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§DELTEX MEDICAL GROUP PLC ORD 0.
+longName§Deltex Medical Group plc
+firstTradeDateEpochUtc§1005206400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§02eebd83-3913-3e38-baa5-ad1af1fc1029
+messageBoardId§finmb_208304
+recommendationKey§none
+quickRatio§0.203
+grossMargins§0.71968
+ebitdaMargins§-0.31557
+trailingPegRatio§None

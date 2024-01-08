@@ -1,0 +1,40 @@
+# reload+after+2024-01-20 13:46:09.364900
+address1§Dornierstrasse 19
+city§Gilching
+zip§82205
+country§Germany
+phone§49 8105 7999 0
+website§https://www.mynaric.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§Mynaric AG develops and manufactures advanced laser communication technology for long-distance data transmission between moving objects for wireless terrestrial, airborne, and space applications in the United States, Canada, and Belgium. The company offers CONDOR, an optical inter-satellite link flight terminal for satellite-to-satellite communications in space; and HAWK, an airborne flight terminal for air-to-air and air-to-ground links of airborne vehicles. Its products provide connectivity solutions to link satellites, high-altitude platforms, unmanned aerial vehicles, and aircraft. Mynaric AG was incorporated in 2009 and is headquartered in Gilching, Germany.
+fullTimeEmployees§293
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mustafa  Veziroglu', 'title': 'Chairman of the Management Board & CEO', 'fiscalYear': 2022, 'totalPay': 231172, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joachim  Horwath', 'age': 49, 'title': 'Founder, CTO & Member of Management Board', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 518219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stefan Berndt-Von Bulow', 'age': 47, 'title': 'CFO & Member of Management Board', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 518219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tino  Schuldt', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sven  Meyer-Brunswick', 'title': 'Chief Corporate Development & Communications Program Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stefan  Bindl', 'title': 'Head of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Luis  Martin-Navajas', 'title': 'Chief Engineer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.259
+priceToSalesTrailing12Months§20.291653
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Mynaric AG - American Depositor
+longName§Mynaric AG
+firstTradeDateEpochUtc§1636727400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§10e3ea6b-7627-3359-afa6-41eb2e5177e9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.84
+targetLowPrice§11.84
+targetMeanPrice§11.84
+targetMedianPrice§11.84
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.037
+grossMargins§-0.38719
+ebitdaMargins§0.0
+trailingPegRatio§None

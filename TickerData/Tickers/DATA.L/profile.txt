@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 04:37:59.929873
+address1§John Carpenter House
+address2§John Carpenter Street
+city§London
+zip§EC4Y 0AN
+country§United Kingdom
+phone§44 20 7936 6400
+website§https://www.globaldata.com
+industry§Consulting Services
+sector§Industrials
+longBusinessSummary§GlobalData Plc provides business information in the form of proprietary data, analytics, and insights in Europe, North America, and the Asia Pacific. The company offers performance advertising services. It serves aerospace, defense, and security; apparel; automotive; banking and payments; construction; consumer; foodservices; healthcare; insurance; medical devices; mining; oil and gas; packaging; pharmaceutical; power; retail; technology; travel and tourism; and sport industries, as well as public sectors. The company was formerly known as Progressive Digital Media Group Plc and changed its name to GlobalData Plc in January 2016. GlobalData Plc was incorporated in 2000 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§3652
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Thomas Danson', 'age': 59, 'title': 'CEO & Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graham  Lilley', 'age': 39, 'title': 'CFO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 303000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wayne  Lloyd', 'title': 'Deputy Chief Executive Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert James Hooper', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sofie  Willmott', 'title': 'Senior Retail Analyst', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.0184
+exDividendDate§1694044800
+payoutRatio§0.78550005
+fiveYearAvgDividendYield§1.51
+beta§0.608
+priceToSalesTrailing12Months§6.799439
+currency§GBp
+forwardEps§8.28
+pegRatio§1.64
+exchange§LSE
+quoteType§EQUITY
+shortName§GLOBALDATA PLC ORD 1/100P
+longName§GlobalData Plc
+firstTradeDateEpochUtc§962348400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0a2b2bd7-1e21-3dfd-8136-deac570ad2bf
+targetHighPrice§348.0
+targetLowPrice§224.0
+targetMeanPrice§261.38
+targetMedianPrice§236.75
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§0.569
+earningsGrowth§0.825
+grossMargins§0.26272
+ebitdaMargins§0.2994
+trailingPegRatio§None

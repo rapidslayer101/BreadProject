@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 14:26:46.498132
+address1§Belvedere Building
+address2§Ground Floor 69 Pitts Bay Road
+city§Pembroke
+zip§HM08
+country§Bermuda
+website§https://ardmoreshipping.com
+industry§Marine Shipping
+industryKey§marine-shipping
+industryDisp§Marine Shipping
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Ardmore Shipping Corporation engages in the seaborne transportation of petroleum products and chemicals worldwide. As of March 15, 2023, the company operated a fleet of 22 owned vessels including 21 Eco-design and 1 Eco-mod vessel, and five chartered-in vessels. It serves oil majors, oil companies, oil and chemical traders, chemical companies, and pooling service providers. The company was founded in 2010 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§56
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony  Gurnee CFA', 'age': 63, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart B. Kelleher', 'age': 48, 'title': 'Secretary & CFO', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Cameron', 'age': 57, 'title': 'Executive VP & COO', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Barry  O'Neill", 'title': 'Director of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Suraj  Batra', 'title': 'Technical Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nadia  Mather', 'title': 'Director of Legal', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqueline  Kelly', 'title': 'Manager of HR & Corporate Services', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gernot  Ruppelt', 'age': 42, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Holly S. Cummings', 'title': 'Head of Commercial (West) Americas', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ashish  Malik', 'title': 'Managing Director of Anglo Ardmore Joint Venture', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.15
+dividendYield§0.0767
+exDividendDate§1701216000
+payoutRatio§0.292
+beta§0.466
+priceToSalesTrailing12Months§1.4408904
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.68
+pegRatio§0.13
+lastDividendValue§0.16
+lastDividendDate§1701216000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ardmore Shipping Corporation
+longName§Ardmore Shipping Corporation
+firstTradeDateEpochUtc§1375363800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c6e421ea-ad14-3c1b-81a3-9980502df80c
+messageBoardId§finmb_139764409
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§18.0
+targetMeanPrice§18.6
+targetMedianPrice§18.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§2.385
+earningsGrowth§-0.678
+grossMargins§0.48691002
+ebitdaMargins§0.42907003
+trailingPegRatio§None

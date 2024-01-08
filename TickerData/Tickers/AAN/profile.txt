@@ -1,0 +1,60 @@
+# reload+after+2024-01-21 12:26:07.667808
+address1§400 Galleria Parkway SE
+address2§Suite 300
+city§Atlanta
+state§GA
+zip§30339-3182
+country§United States
+phone§678 402 3000
+website§https://www.aarons.com
+industry§Rental & Leasing Services
+industryKey§rental-leasing-services
+industryDisp§Rental & Leasing Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§The Aaron's Company, Inc. provides lease-to-own and retail purchase solutions. It operates through Aaron's Business and BrandsMart segments. The company engages in direct-to-consumer sales and lease ownership of furniture, appliances, electronics, computers, and other home products through company-operated and franchised stores in the United States and Canada, as well as its e-commerce platforms, including aarons.com and brandsmartusa.com. It also manufactures and supplies upholstered furniture. The company was formerly known as Aaron's SpinCo, Inc. The Aaron's Company, Inc. was founded in 1955 and is based in Atlanta, Georgia.
+fullTimeEmployees§10060
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Douglas A. Lindsay', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1029644, 'exercisedValue': 0, 'unexercisedValue': 650135}, {'maxAge': 1, 'name': 'Mr. Stephen W. Olsen', 'age': 51, 'title': 'President', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 733753, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Kelly Wall', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 593264, 'exercisedValue': 0, 'unexercisedValue': 24045}, {'maxAge': 1, 'name': 'Mr. Douglass L. Noe', 'age': 53, 'title': 'Principal Accounting Officer, VP & Corporate Controller', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 284266, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel G. George', 'age': 43, 'title': 'EVP, General Counsel, Secretary, Chief Compliance Officer & Chief Corporate Affairs Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 536754, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell S. Falkenstein', 'age': 35, 'title': 'Executive VP & COO', 'yearBorn': 1988, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Dickerson', 'title': 'Vice President of Corporate Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Keith  Hancock', 'title': 'Senior Director of Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0442
+exDividendDate§1702425600
+payoutRatio§1.625
+beta§1.47
+priceToSalesTrailing12Months§0.1560584
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.09
+pegRatio§-0.08
+lastDividendValue§0.125
+lastDividendDate§1702425600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Aarons Holdings Company, Inc.
+longName§The Aaron's Company, Inc.
+firstTradeDateEpochUtc§1606314600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d6a6687-8d40-3dd6-8d3d-1afc23a4a513
+messageBoardId§finmb_681042236
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.0
+targetLowPrice§8.0
+targetMeanPrice§11.4
+targetMedianPrice§12.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.269
+grossMargins§0.51628
+ebitdaMargins§0.096549995
+trailingPegRatio§None

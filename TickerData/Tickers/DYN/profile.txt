@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 12:44:28.546903
+address1§1560 Trapelo Road
+city§Waltham
+state§MA
+zip§02451
+country§United States
+phone§781 786 8230
+fax§781 786 8866
+website§https://www.dyne-tx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Dyne Therapeutics, Inc., a muscle disease company, operates as a biotechnology company that focuses on advancing therapeutics for genetically driven muscle diseases in the United States. It develops various programs for myotonic dystrophy type 1, duchenne muscular dystrophy, and facioscapulohumeral dystrophy, as well as rare skeletal muscle, and cardiac and metabolic muscle diseases using its FORCE platform that delivers disease-modifying therapeutics. Dyne Therapeutics, Inc. was incorporated in 2017 and is headquartered in Waltham, Massachusetts.
+fullTimeEmployees§136
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joshua T. Brumm', 'age': 45, 'title': 'CEO, President & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 946496, 'exercisedValue': 0, 'unexercisedValue': 5469602}, {'maxAge': 1, 'name': 'Ms. Susanna Gatti High M.B.A.', 'age': 55, 'title': 'Chief Operating Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 655496, 'exercisedValue': 0, 'unexercisedValue': 1339234}, {'maxAge': 1, 'name': 'Dr. Oxana  Beskrovnaya Ph.D.', 'age': 61, 'title': 'Chief Scientific Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 631076, 'exercisedValue': 0, 'unexercisedValue': 1167727}, {'maxAge': 1, 'name': 'Dr. Romesh  Subramanian Ph.D.', 'age': 58, 'title': 'Co-Founder & Advisor', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 565170, 'exercisedValue': 0, 'unexercisedValue': 284933}, {'maxAge': 1, 'name': 'Mr. Richard William Scalzo M.B.A.', 'age': 36, 'title': 'Senior VP and Head of Finance & Administration', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Najim M.B.A.', 'title': 'Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Reilly', 'age': 49, 'title': 'Senior VP and Head of Corporate Communications & Investor Relations', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Wilson', 'age': 51, 'title': 'Senior VP & Head of Legal', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Mitchell', 'title': 'VP & Head of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Debra  Feldman', 'age': 52, 'title': 'Chief Regulatory Affairs Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.843
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.98
+exchange§NMS
+quoteType§EQUITY
+shortName§Dyne Therapeutics, Inc.
+longName§Dyne Therapeutics, Inc.
+firstTradeDateEpochUtc§1600349400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bf98e34f-5989-3e23-b14d-e7c60952a6b7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§56.0
+targetLowPrice§20.0
+targetMeanPrice§35.29
+targetMedianPrice§33.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§7
+quickRatio§5.315
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

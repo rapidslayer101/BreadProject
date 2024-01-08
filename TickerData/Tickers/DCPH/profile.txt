@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 00:44:21.322600
+address1§200 Smith Street
+city§Waltham
+state§MA
+zip§02451
+country§United States
+phone§781 209 6400
+fax§785 830 2150
+website§https://www.deciphera.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Deciphera Pharmaceuticals, Inc., a biopharmaceutical company, develops drugs to enhance the lives of cancer patients by addressing key mechanisms of drug resistance that limit the rate and durability of response to existing cancer therapies in the United States and internationally. Its lead drug candidate is QINLOCK used for the treatment of gastrointestinal stromal tumors (GIST), as well as in INTRIGUE Phase 3 study to treat second-line GIST. The company is also developing vimseltinib, an orally administered, potent, and highly selective switch-control kinase inhibitor of colony stimulating factor 1 receptor (CSF1R) for the treatment of tenosynovial giant cell tumor (TGCT); and DCC-3116 to treat RAS/RAF mutant cancers that is in the preclinical-stage. Deciphera Pharmaceuticals, Inc. was founded in 2003 and is headquartered in Waltham, Massachusetts.
+fullTimeEmployees§300
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven L. Hoerter', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1242520, 'exercisedValue': 0, 'unexercisedValue': 1740126}, {'maxAge': 1, 'name': 'Mr. Thomas Patrick Kelly J.D.', 'age': 52, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 778852, 'exercisedValue': 0, 'unexercisedValue': 2815528}, {'maxAge': 1, 'name': 'Mr. Daniel C. Martin', 'age': 48, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 711416, 'exercisedValue': 0, 'unexercisedValue': 327167}, {'maxAge': 1, 'name': 'Dr. Matthew L. Sherman M.D.', 'age': 67, 'title': 'Executive VP & Chief Medical Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 865625, 'exercisedValue': 0, 'unexercisedValue': 447103}, {'maxAge': 1, 'name': 'Dr. Kevin  Brodbeck Ph.D.', 'title': 'Senior VP & Chief Technical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dashyant  Dhanak Ph.D.', 'age': 62, 'title': 'Executive VP & Chief Scientific Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jennifer  Larson', 'title': 'Senior Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey M. Held J.D.', 'title': 'Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa Amaya Price', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jama  Pitman', 'age': 44, 'title': 'Senior Vice President of Regulatory, Quality & Portfolio Management', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.453
+priceToSalesTrailing12Months§8.091318
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.32
+pegRatio§-0.32
+exchange§NMS
+quoteType§EQUITY
+shortName§Deciphera Pharmaceuticals, Inc.
+longName§Deciphera Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1506605400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§88e53dfc-06c7-33c0-89e5-0937345caff1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§34.0
+targetLowPrice§9.0
+targetMeanPrice§22.73
+targetMedianPrice§23.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§3.947
+grossMargins§-0.51104
+ebitdaMargins§-1.3515601
+trailingPegRatio§None

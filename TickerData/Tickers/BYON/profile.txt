@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 23:27:37.011478
+address1§799 West Coliseum Way
+city§Midvale
+state§UT
+zip§84047
+country§United States
+phone§801 947 3100
+website§https://beyond.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Beyond, Inc. operates as an online retailer of furniture and home furnishings products in the United States and Canada. The company offers furniture, bedding and bath, patio and outdoor, area rugs, tabletop and cookware, décor, storage and organization, small appliances, home improvement, and other products under the Bed Bath & Beyond and Bed Bath & Beyond Canada brand names. The company provides its products and services through its internet websites comprising bedbathandbeyond.com, bedbathandbeyond.ca, and overstockgovernment.com. It also offers businesses advertising products or services on its website; Marketplace, a service that allows its partners to sell their products through third party sites; products to international customers using third party logistics providers; and Supplier Oasis, a single integration point through its partners can manage their products, inventory, and sales channels, as well as obtain multi-channel fulfillment services through its distribution network. The company was formerly known as Overstock.com, Inc. and changed its name to Beyond, Inc. in November 2023. Beyond, Inc. was founded in 1997 and is headquartered in Midvale, Utah.
+fullTimeEmployees§1050
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David J. Nielsen', 'age': 53, 'title': 'Interim CEO & President', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 601711, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adrianne B. Lee', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 518675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lavesh  Hemnani', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric Glen Nickle', 'age': 58, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carter Paul Lee', 'age': 53, 'title': 'Chief People Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 435321, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tushon  Robinson', 'age': 52, 'title': 'Chief Supply Chain Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carlisha  Robinson', 'age': 54, 'title': 'Chief Product Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Debra Sue Bollom', 'title': 'Chief Merchandising Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert P. Hughes', 'age': 63, 'title': 'President of Medici Land Governance, Inc.', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 517641, 'exercisedValue': 0, 'unexercisedValue': 139436}, {'maxAge': 1, 'name': 'Mr. Saum  Noursalehi', 'age': 43, 'title': 'CEO of tZERO Group, Inc', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 995453, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§3.683
+priceToSalesTrailing12Months§0.72588205
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.64
+pegRatio§0.13
+exchange§NYQ
+quoteType§EQUITY
+shortName§Beyond, Inc.
+longName§Beyond, Inc.
+firstTradeDateEpochUtc§1022765400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1178ff4b-a9bd-3c94-ad08-6d5beace9593
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§16.0
+targetMeanPrice§23.4
+targetMedianPrice§24.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§1.648
+grossMargins§0.21725
+ebitdaMargins§-0.028250001
+trailingPegRatio§None

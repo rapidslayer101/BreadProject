@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 01:29:40.033511
+address1§One Cedar Point Drive
+city§Sandusky
+state§OH
+zip§44870-5259
+country§United States
+phone§419 626 0830
+website§https://www.cedarfair.com
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§Cedar Fair, L.P. owns and operates amusement and water parks, and complementary resort facilities in the United States and Canada. Its amusement parks include Cedar Point located on Lake Erie between Cleveland and Toledo in Sandusky, Ohio; Knott's Berry Farm near Los Angeles, California; Canada's Wonderland near Toronto, Ontario; Kings Island near Cincinnati, Ohio; Carowinds in Charlotte, North Carolina; Kings Dominion situated near Richmond, Virginia; California's Great America located in Santa Clara, California; Dorney Park in Pennsylvania; Worlds of Fun located in Kansas City, Missouri; Valleyfair situated near Minneapolis/St. Paul, Minnesota; Michigan's Adventure situated near Muskegon, Michigan; Schlitterbahn Waterpark & Resort New Braunfels in New Braunfels, Texas; and Schlitterbahn Waterpark Galveston in Galveston, Texas. The company also owns and operates the Castaway Bay Indoor Waterpark Resort, Hotel Breakers, Cedar Point's Express Hotel, and Sawmill Creek Resort. Cedar Fair, L.P. was founded in 1983 and is headquartered in Sandusky, Ohio.
+fullTimeEmployees§4400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard A. Zimmerman', 'age': 62, 'title': 'President, CEO & Director of Cedar Fair Management Inc.', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2910747, 'exercisedValue': 0, 'unexercisedValue': 144558}, {'maxAge': 1, 'name': 'Mr. Brian C. Witherow', 'age': 56, 'title': 'Executive VP & CFO of Cedar Fair Management Inc.', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1397281, 'exercisedValue': 468305, 'unexercisedValue': 118934}, {'maxAge': 1, 'name': 'Mr. Tim V. Fisher', 'age': 62, 'title': 'Chief Operating Officer of Cedar Fair Management Inc.', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1798576, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian M. Nurse', 'age': 50, 'title': 'Executive VP, Chief Legal Officer & Secretary of Cedar Fair Management Inc', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1081660, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David R. Hoffman', 'age': 54, 'title': 'Senior VP & Chief Accounting Officer of Cedar Fair Management Inc.', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 294797, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ty  Tastepe', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Russell', 'title': 'Corporate Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Tanner', 'title': 'Corporate Vice President of Sales - Cedar Fair Management Co.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monica  Sauls', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles E. Myers', 'age': 59, 'title': 'Senior Vice President of Creative Development at Cedar Fair Management Inc.', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0321
+exDividendDate§1701734400
+payoutRatio§0.41669998
+fiveYearAvgDividendYield§6.52
+beta§1.45
+priceToSalesTrailing12Months§1.0629476
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.61
+pegRatio§-6.21
+exchange§NYQ
+quoteType§EQUITY
+shortName§Cedar Fair, L.P.
+longName§Cedar Fair, L.P.
+firstTradeDateEpochUtc§546183000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a69020db-0ccb-3083-a3df-17a9227c8813
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§42.0
+targetMeanPrice§48.44
+targetMedianPrice§49.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.499
+earningsGrowth§-0.282
+grossMargins§0.43124
+ebitdaMargins§0.28046
+trailingPegRatio§None

@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 02:30:59.338897
+address1§400 North Elm Street
+city§Greensboro
+state§NC
+zip§27401
+country§United States
+phone§336 332 3400
+website§https://www.kontoorbrands.com
+industry§Apparel Manufacturing
+sector§Consumer Cyclical
+longBusinessSummary§Kontoor Brands, Inc., a lifestyle apparel company, designs, produces, procures, markets, distributes, and licenses denim, apparel, footwear, and accessories, primarily under the Wrangler and Lee brands. It licenses and sells apparel under the Rock & Republic brad name. The company sells its products primarily through mass merchants, specialty stores, mid-tier and traditional department stores, company-operated stores, and online. It operates in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific regions. Kontoor Brands, Inc. was incorporated in 2018 and is headquartered in Greensboro, North Carolina.
+fullTimeEmployees§14400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott H. Baxter', 'age': 58, 'title': 'President, CEO & Chair of the Board', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3141319, 'exercisedValue': 0, 'unexercisedValue': 7419286}, {'maxAge': 1, 'name': 'Mr. Thomas E. Waldron', 'age': 55, 'title': 'Executive VP, Global Brand President of Wrangler & Co-COO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1294425, 'exercisedValue': 0, 'unexercisedValue': 843580}, {'maxAge': 1, 'name': 'Mr. Christopher M. Waldeck', 'age': 56, 'title': 'Executive VP, Global Brand President of Lee & Co-COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1294098, 'exercisedValue': 0, 'unexercisedValue': 498856}, {'maxAge': 1, 'name': 'Mr. Thomas L. Doerr Jr.', 'age': 48, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 845356, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph A. Alkire', 'age': 43, 'title': 'Executive VP & CFO', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Denise  Sumner', 'title': 'VP & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Eric  Tracy', 'title': 'VP of Corporate Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mame  Annan-Brown', 'title': 'Exec. VP of Global Communications, Public Affairs & ESG and President of Kontoor Brands Foundation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Kidd', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ezio  Garciamendez', 'title': 'Senior VP & Chief Supply Chain Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.035
+exDividendDate§1701907200
+payoutRatio§0.51060003
+beta§1.18
+priceToSalesTrailing12Months§1.2038856
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.99
+pegRatio§2.23
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kontoor Brands, Inc.
+longName§Kontoor Brands, Inc.
+firstTradeDateEpochUtc§1559050200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bb1a9d1a-6c3d-3722-b777-7d813cc3a7c8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§75.0
+targetLowPrice§27.0
+targetMeanPrice§60.14
+targetMedianPrice§65.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.831
+earningsGrowth§0.167
+grossMargins§0.41567
+ebitdaMargins§0.13972001
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 01:47:27.102033
+address1§2100 Roosevelt Avenue
+city§Springfield
+state§MA
+zip§01104
+country§United States
+phone§800 331 0852
+fax§413 747 3317
+website§https://www.smith-wesson.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§Smith & Wesson Brands, Inc. designs, manufactures, and sells firearms worldwide. The company offers handguns, including revolvers and pistols; long guns, such as modern sporting rifles, bolt action rifles; handcuffs; suppressors; and other firearm-related products under the Smith & Wesson, M&P, and Gemtech brands. It also provides manufacturing services comprising forging, heat treating, rapid prototyping, tooling, finishing, plating, machining, and custom plastic injection molding to other businesses under the Smith & Wesson and Smith & Wesson Precision Components brand names; and sells parts purchased through third parties. The company sells its products to firearm enthusiasts, collectors, hunters, sportsmen, competitive shooters, individuals desiring home and personal protection, law enforcement, security agencies and officers, and military agencies. It markets its products through independent dealers, retailers, in-store retails, and direct to consumers; print, broadcast, and digital advertising campaigns; social and electronic media; and in-store retail merchandising strategies. Smith & Wesson Brands, Inc. was founded in 1852 and is based in Springfield, Massachusetts.
+fullTimeEmployees§1682
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Peter Smith', 'age': 47, 'title': 'President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 802849, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deana L. McPherson', 'age': 53, 'title': 'Executive VP, CFO, Treasurer & Assistant Secretary', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 472501, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Alden Maxwell', 'age': 47, 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Secretary', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 366167, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Jean Cupero', 'age': 63, 'title': 'Vice President of Sales', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 355352, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John R. Dineen', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'totalPay': 275685, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.0358
+exDividendDate§1703030400
+payoutRatio§0.6875
+beta§1.014
+priceToSalesTrailing12Months§1.1921077
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.97
+pegRatio§1.72
+exchange§NMS
+quoteType§EQUITY
+shortName§Smith & Wesson Brands, Inc.
+longName§Smith & Wesson Brands, Inc.
+firstTradeDateEpochUtc§934896600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§dffcdc16-6f1a-300b-8bfd-c9372fa1de7a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§14.0
+targetMeanPrice§16.17
+targetMedianPrice§14.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.196
+earningsGrowth§-0.762
+grossMargins§0.30882
+ebitdaMargins§0.16083
+trailingPegRatio§None

@@ -1,0 +1,21 @@
+# reload+after+2024-01-21 16:35:35.629510
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§APAX GLOBAL ALPHA LIMITED ORD N
+longName§Apax Global Alpha Ord
+firstTradeDateEpochUtc§1434351600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9ea7bfbd-ba2d-353f-b62c-808d24a377a7
+messageBoardId§finmb_289207411
+targetHighPrice§1.97
+targetLowPrice§1.97
+targetMeanPrice§1.97
+targetMedianPrice§1.97
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+trailingPegRatio§None

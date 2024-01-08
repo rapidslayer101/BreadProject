@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 13:32:35.180645
+longBusinessSummary§The fund generally will invest at least 80% of its total assets in the components of the index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is composed of U.S. dollar-denominated, tax-exempt municipal debt publicly issued by U.S. states and territories and their political subdivisions, in the U.S. domestic market.
+maxAge§86400
+priceHint§2
+yield§0.0293
+totalAssets§2593907968
+navPrice§24.08
+currency§USD
+category§Muni National Long
+ytdReturn§-0.0020678
+beta3Year§1.34
+fundFamily§Invesco
+fundInceptionDate§1192060800
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0128115
+fiveYearAverageReturn§0.019287
+exchange§PCX
+quoteType§ETF
+shortName§Invesco National AMT-Free Munic
+longName§Invesco National AMT-Free Municipal Bond ETF
+firstTradeDateEpochUtc§1192714200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§21c97fe3-4651-3756-999b-5649d4e139eb
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

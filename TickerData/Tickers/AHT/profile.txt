@@ -1,0 +1,59 @@
+# reload+after+2024-01-21 20:26:24.513408
+address1§14185 Dallas Parkway
+address2§Suite 1200
+city§Dallas
+state§TX
+zip§75254-4308
+country§United States
+phone§972 490 9600
+fax§972 980 2705
+website§https://www.ahtreit.com
+industry§REIT - Hotel & Motel
+industryKey§reit-hotel-motel
+industryDisp§REIT - Hotel & Motel
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Ashford Hospitality Trust is a real estate investment trust (REIT) focused on investing predominantly in upper upscale, full-service hotels.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Montgomery Jack Bennett IV', 'age': 57, 'title': 'Founder & Chairman of the Board', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3308982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Robison Hays III', 'age': 45, 'title': 'President, CEO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 467830, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deric S. Eubanks C.F.A.', 'age': 47, 'title': 'CFO & Treasurer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 263882, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Rose', 'age': 37, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 106404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Coe', 'age': 39, 'title': 'Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jordan  Jennings', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry  Doyle', 'title': 'Senior Vice President of Asset Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay  Steigerwald', 'title': 'Head of Distribution', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Batchelor', 'title': 'President of RED Hospitality & Leisure', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§5
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+exDividendDate§1577664000
+payoutRatio§0.0
+fiveYearAvgDividendYield§14.72
+beta§2.295
+priceToSalesTrailing12Months§0.050937284
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-5.24
+pegRatio§-0.06
+lastDividendValue§6.0
+lastDividendDate§1577664000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ashford Hospitality Trust Inc
+longName§Ashford Hospitality Trust, Inc.
+firstTradeDateEpochUtc§1061904600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4f6884c8-ebf0-3968-aaaa-d91845152533
+messageBoardId§finmb_5647906
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§2.5
+targetMeanPrice§4.5
+targetMedianPrice§3.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.228
+grossMargins§0.24605
+ebitdaMargins§0.22784
+trailingPegRatio§None

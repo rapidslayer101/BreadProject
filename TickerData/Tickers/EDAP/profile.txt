@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 11:44:30.075521
+address1§Parc dActivites la Poudrette-Lamartine
+address2§4/6, rue du DauphinE Vaulx-en-Velin
+city§Lyon
+zip§69120
+country§France
+phone§33 4 72 15 31 50
+fax§33 4 72 15 31 51
+website§https://www.edap-tms.com
+industry§Medical Distribution
+sector§Healthcare
+longBusinessSummary§EDAP TMS S.A., together with its subsidiaries, develops, produces, markets, distributes, and maintains a portfolio of minimally invasive medical devices for the treatment of urological diseases in Asia, France, the United States, and internationally. It operates in three segments: High Intensity Focused Ultrasound (HIFU), Extracorporeal ShockWave Lithotripsy (ESWL), and Distribution Services (DIST). The HIFU segment develops, manufactures, and markets medical devices based on HIFU technology for the minimally invasive treatment of urological and other clinical indications. This segment also offers Ablatherm, an ultrasound guided robotic HIFU device for the treatment of organ-confined prostate cancer; Ablatherm Fusion that incorporates the company's proprietary fusion software, which merges MRI and ultrasound images; and the Focal One, a HIFU robotic device dedicated to the focal therapy of prostate cancer, as well as disposables, and leasing and treatment related services; and maintenance services. The ESWL division manufactures, markets, and services lithotripter for the treatment of urinary tract stones by means of ESWL technology; and offers Sonolith i-move, an extracorporeal shockwave lithotripter to small and mid-size hospitals, as well as sells disposable parts for lithotripters and electrodes. The Distribution division markets, distributes, and services lasers, micro-ultrasound systems, and other medical products from third parties, as well as leases devices; sells disposables and spare parts; and offers maintenance services. It markets and sells its products through its direct marketing, sales organization, and service platform, as well as through third-party distributors and agents. The company serves hospitals, urology clinics, and research institutions. EDAP TMS S.A. was incorporated in 1979 and is headquartered in Lyon, France.
+fullTimeEmployees§264
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc  Oczachowski', 'age': 53, 'title': 'Executive Chairman', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Rhodes', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francois  Dietsch', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carre  Emmanuel', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Blandine  Confort', 'title': 'Investor Relations Officer & Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederic  Pech', 'title': 'President of EDAP TMS France', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ken  Mobeck', 'title': 'Chief Financial Officer of EDAP Technomed Inc.', 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§10
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.898
+priceToSalesTrailing12Months§3.33156
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.29
+pegRatio§-2.93
+exchange§NGM
+quoteType§EQUITY
+shortName§EDAP TMS S.A.
+longName§EDAP TMS S.A.
+firstTradeDateEpochUtc§870442200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§351bae4d-139a-3784-a392-7919dd37a0d5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§16.05
+targetLowPrice§9.03
+targetMeanPrice§11.79
+targetMedianPrice§11.03
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.467
+grossMargins§0.40809
+ebitdaMargins§-0.29246
+trailingPegRatio§None

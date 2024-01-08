@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 07:33:14.261588
+address1§1 York Street
+city§Toronto
+state§ON
+zip§M5J 0B6
+country§Canada
+phone§416 979 9966
+website§https://www.sunlife.com
+industry§Insurance—Diversified
+sector§Financial Services
+longBusinessSummary§Sun Life Financial Inc., a financial services company, provides savings, retirement, and pension products worldwide. It offers term and permanent life, as well as personal health, dental, critical illness, long-term care, and disability insurance products. The company provides financial advice, asset management, and investments related products. It is also involved in mutual fund and investment management businesses. Sun Life Financial Inc was founded in 1871 and is headquartered in Toronto, Canada.
+fullTimeEmployees§29169
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin David Strain C.A., CPA', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2026541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manjit  Singh C.A., CPA', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'totalPay': 1159138, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Clarkson Peacher CFA', 'age': 59, 'title': 'President of SLC Management', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2561360, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Richard Fishbein', 'title': 'President of Sun Life U.S.', 'fiscalYear': 2022, 'totalPay': 1962750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacques  Goulet Jr.', 'age': 57, 'title': 'President of Sun Life Canada', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1177558, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura Ann Money', 'title': 'Executive VP and Chief Information & Technology Innovation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Garg', 'title': 'Senior VP of Capital Management & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa Jane Kennedy', 'age': 60, 'title': 'Executive VP and Chief Legal Officer & Public Policy Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne C. Sonnen', 'title': 'Senior VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aishling  Cullen', 'title': 'Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.36
+dividendYield§0.046
+exDividendDate§1701129600
+payoutRatio§0.4689
+fiveYearAvgDividendYield§3.94
+beta§0.951
+priceToSalesTrailing12Months§1.1347442
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.01
+pegRatio§3.65
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sun Life Financial Inc.
+longName§Sun Life Financial Inc.
+firstTradeDateEpochUtc§953821800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§47733eda-0c9e-3e59-bc42-6abb1be5c05c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§54.31
+targetLowPrice§54.31
+targetMeanPrice§54.31
+targetMedianPrice§54.31
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§51.948
+earningsGrowth§6.834
+grossMargins§0.60653996
+ebitdaMargins§0.20737
+trailingPegRatio§None

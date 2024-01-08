@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 15:45:49.192617
+address1§202 East Center Street
+address2§P.O. Box 1387
+city§Warsaw
+state§IN
+zip§46581-1387
+country§United States
+phone§574 267 6144
+website§https://www.lakecitybank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Lakeland Financial Corporation operates as the bank holding company for Lake City Bank that provides various banking products and services in the United States. The company accepts various deposit products, such as noninterest bearing, interest-bearing checking, savings, money market, NOW, and demand deposits. Its loan products include commercial and industrial, commercial real estate and multi-family residential, construction, agri-business and agricultural, consumer 1-4 family mortgage, and other consumer loans. The company also offers retail and merchant credit card services; corporate treasury management, wealth advisory, and trust services; retail brokerage services, including various financial and investment products, such as annuities and life insurance; and mobile business banking and on-line treasury management services. It serves commercial real estate, manufacturing, agriculture, construction, retail, wholesale, finance and insurance, accommodation and food services, and health care industries. The company was founded in 1872 and is headquartered in Warsaw, Indiana.
+fullTimeEmployees§614
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David M. Findlay', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1038113, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin L. Pruitt', 'age': 51, 'title': 'President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 509113, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Lisa M. O'Neill", 'age': 55, 'title': 'Executive VP & CFO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 433390, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric H. Ottinger', 'age': 53, 'title': 'Executive VP & Chief Commercial Banking Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 515317, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Gavin', 'age': 67, 'title': 'Executive VP & Chief Credit Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 401154, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brok A. Lahrman', 'age': 37, 'title': 'Chief Accounting Officer & Senior VP of Finance', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rickard James Donovan', 'title': 'Senior VP, General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kyra E. Clark', 'title': 'Senior VP & Chief Human Resource Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan P. Steiner', 'age': 61, 'title': 'Senior VP & Chief Wealth Advisory Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie R. Leniski', 'title': 'Senior VP & Chief Retail Banking Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.84
+dividendYield§0.0291
+exDividendDate§1698105600
+payoutRatio§0.5086
+fiveYearAvgDividendYield§2.43
+beta§0.714
+priceToSalesTrailing12Months§6.873932
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.39
+pegRatio§1.87
+exchange§NMS
+quoteType§EQUITY
+shortName§Lakeland Financial Corporation
+longName§Lakeland Financial Corporation
+firstTradeDateEpochUtc§871565400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§410f4582-8b91-3a8c-80f9-fc28bba07f6a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§67.0
+targetLowPrice§51.0
+targetMeanPrice§57.5
+targetMedianPrice§56.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+earningsGrowth§-0.117
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

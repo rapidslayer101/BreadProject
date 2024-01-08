@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 19:33:59.096536
+address1§Unilever House
+address2§100 Victoria Embankment
+city§London
+zip§EC4Y 0DY
+country§United Kingdom
+phone§44 20 7438 2800
+website§https://www.unilever.com
+industry§Household & Personal Products
+sector§Consumer Defensive
+longBusinessSummary§Unilever PLC operates as a fast-moving consumer goods company. It operates through Beauty & Wellbeing, Personal Care, Home Care, Nutrition, and Ice Cream segments. The Beauty & Wellbeing segment engages in the sale of hair care products, such as shampoo, conditioner, and styling; skin care products including face, hand, and body moisturizer; and prestige beauty and health & wellbeing products, which includes the vitamins, minerals, and supplements. Personal Care segment offers skin cleansing products comprising soap and shower, deodorant and oral care products, such as toothpaste, toothbrush, and mouthwash products. Home Care segment engages in the sale of fabric care including washing powders and liquids, and rinse conditioners; and home and hygiene, fabric enhancers, water and air wellness products. Nutrition segment provides the sale of scratch cooking aids, which includes soups, bouillons, and seasonings; dressings products, such as mayonnaise and ketchup; and beverages and functional nutrition products including Horlicks and Boost, as well as tea products. Ice Cream segment offers ice cream products including in-home and out-of-home ice creams. It offers its products under the AXE, Bango, Ben & Jerry's, Cif, Comfort, Domestos, Dove, Equilibra, Hellmann's, Knorr, LUX, Lifebuoy, Liquid I.V., Love Beauty & Planet, Magnum, OLLY, OMO, Onnit, Rexona, Seventh Generation, SmartPants, Sunsilk, The Vegetarian Butcher, Vaseline, and Wall's brands. The company was founded in 1860 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§126988
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hein. M. A. Schumacher', 'age': 52, 'title': 'CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 33964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Graeme David Pitkethly', 'age': 56, 'title': 'Executive Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3396360, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando  Fernandez', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Williams', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria Rosaria Varsellona J.D., L.L.B.', 'age': 53, 'title': 'Chief Legal Officer & Group Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Esi Eggleston Bracey', 'age': 52, 'title': 'Chief Growth & Marketing Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nitin  Paranjpe', 'age': 60, 'title': 'Chief People & Transformation Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian  Thurston', 'title': 'Head of Secretariat', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janine C. Juggins', 'title': 'Executive VP of Global Tax & Treasury', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Slater', 'age': 44, 'title': 'Chief Research & Development Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.86
+dividendYield§0.0381
+exDividendDate§1700092800
+payoutRatio§0.5219
+fiveYearAvgDividendYield§3.49
+beta§0.156
+priceToSalesTrailing12Months§2.0027018
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Unilever PLC
+longName§Unilever PLC
+firstTradeDateEpochUtc§322842600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5b26faf9-32d0-3f13-8a2c-f70e96c4c548
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§52.0
+targetLowPrice§44.0
+targetMeanPrice§48.0
+targetMedianPrice§48.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§0.569
+earningsGrowth§0.239
+grossMargins§0.4102
+ebitdaMargins§0.18292
+trailingPegRatio§33.1413

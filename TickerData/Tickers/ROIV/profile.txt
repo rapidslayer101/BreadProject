@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 16:47:01.797673
+address1§50 Broadway
+address2§7th Floor
+city§London
+zip§SW1H 0DB
+country§United Kingdom
+phone§44 20 7400 3347
+website§https://roivant.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Roivant Sciences Ltd., a commercial-stage biopharmaceutical company, engages in the development and commercialization of medicines for inflammation and immunology areas. The company provides Vants, a model to develop and commercialize its medicines and technologies focusing on biopharmaceutical businesses, discovery-stage companies, and health technology startups. It develops VTAMA, a novel topical for the treatment of psoriasis and atopic dermatitis; batoclimab and IMVT-1402, the fully human monoclonal antibodies targeting the neonatal Fc receptor across various IgG-mediated autoimmune indications; and RVT-3101, an anti-TL1A antibody for ulcerative colitis and Crohn's disease. The company was founded in 2014 and is based in London, the United Kingdom.
+fullTimeEmployees§904
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew  Gline', 'age': 39, 'title': 'CEO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 1772089, 'exercisedValue': 0, 'unexercisedValue': 1863054}, {'maxAge': 1, 'name': 'Dr. Eric  Venker M.D., Pharm.D.', 'age': 36, 'title': 'President & COO', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 1281230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mayukh  Sukhatme M.D.', 'age': 47, 'title': 'President, Chief Investment Officer & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1718846, 'exercisedValue': 0, 'unexercisedValue': 2026930}, {'maxAge': 1, 'name': 'Mr. Richard  Pulik', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rakhi  Kumar', 'age': 43, 'title': 'Chief Accounting Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Huafeng  Xu Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh  Chen', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  Graff', 'title': 'Head of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marianne L. Romeo', 'age': 55, 'title': 'Head of Global Transactions & Risk Management', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Gasner', 'title': 'Executive Vice President of Roivant Health', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§3
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.351
+priceToSalesTrailing12Months§87.83254
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.15
+exchange§NMS
+quoteType§EQUITY
+shortName§Roivant Sciences Ltd.
+longName§Roivant Sciences Ltd.
+firstTradeDateEpochUtc§1607437800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9d037e9b-5cb8-3bad-8efe-5f0e5f374cbd
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§12.0
+targetMeanPrice§15.6
+targetMedianPrice§15.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§5.509
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

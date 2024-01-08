@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 21:39:45.176802
+address1§Kent House
+address2§14-17 Market Place
+city§London
+zip§W1W 8AJ
+country§United Kingdom
+phone§44 20 7307 9200
+website§https://www.morgansindall.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Morgan Sindall Group plc operates as a construction and regeneration company in the United Kingdom. It operates through five segments: Construction & Infrastructure, Fit Out, Property Services, Partnership Housing, and Urban Regeneration divisions. The Construction & Infrastructure segment provides infrastructure services to highways, rail, energy, water, and nuclear markets; and construction services in education, healthcare, commercial, defense, industrial, leisure, and retail markets. The Fit Out segment focuses on fit out and refurbishment projects in commercial, central, and local government offices, as well as education markets; and provides office interior design and build services. The Property Services segment offers responsive repairs and planned maintenance services for social housing and the public sector. The Partnership Housing segment engages in mixed-tenure development; building and developing homes for open market; sale and affordable rent; design and build house contracting; and planned maintenance and refurbishment activities.  The Urban Regeneration segment focuses on transforming the urban landscape through partnership working and the development of multi-phase sites and mixed-use regeneration. The company was incorporated in 1953 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§7600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Christopher Morgan', 'age': 67, 'title': 'Founder, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Crummett', 'age': 58, 'title': 'Finance Director & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1081000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Helen  Mason', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine  Beaumont', 'title': 'Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Camilla  Aitchison', 'title': 'Director of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pat  Boyle', 'title': 'Managing Director of Morgan Sindall Construction & Property Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Booth', 'title': 'Managing Director of Fit Out', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Lubieniecki', 'title': 'Managing Director of Design', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Smith', 'title': 'Managing Director of Infrastructure', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Coleby', 'title': 'Managing Director of Partnership Housing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.04
+dividendYield§0.048299998
+exDividendDate§1696464000
+payoutRatio§0.7372
+fiveYearAvgDividendYield§3.84
+beta§1.257
+priceToSalesTrailing12Months§0.27245674
+currency§GBp
+forwardEps§237.02
+pegRatio§-93.3
+exchange§LSE
+quoteType§EQUITY
+shortName§MORGAN SINDALL GROUP PLC ORD 5P
+longName§Morgan Sindall Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§292ddaee-d836-366f-80e0-df308f57f570
+targetHighPrice§2760.0
+targetLowPrice§2100.0
+targetMeanPrice§2432.0
+targetMedianPrice§2400.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§0.827
+earningsGrowth§0.072
+grossMargins§0.112390004
+ebitdaMargins§0.03509
+trailingPegRatio§None

@@ -1,0 +1,46 @@
+# reload+after+2024-01-20 07:46:20.928740
+address1§1211 Avenue of the Americas
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§212 416 3400
+website§https://www.newscorp.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses worldwide. It operates in six segments: Digital Real Estate Services, Subscription Video Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products, including The Wall Street Journal, Barron's, MarketWatch, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and OPIS through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts. It also owns and operates Monday to Friday, Saturday and Sunday, weekly, and bi-weekly newspapers comprising The Australian, The Weekend Australian, The Daily Telegraph, The Sunday Telegraph, Herald Sun, Sunday Herald Sun, The Courier Mail, The Sunday Mail, The Advertiser, Sunday Mail, The Sun, The Sun on Sunday, The Times, The Sunday Times, and New York Post, as well as digital mastheads and other websites. In addition, the company publishes general fiction, nonfiction, children's, and religious books; provides sports, entertainment, and news services to pay-TV and streaming subscribers, and other commercial licensees through satellite and internet distribution; and broadcasts rights to live sporting events. Further, it offers property and property-related advertising and services on its websites and mobile applications; digital real estate services; and financial services. News Corporation was founded in 2012 and is headquartered in New York, New York.
+fullTimeEmployees§25000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert J. Thomson', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2023, 'totalPay': 8896316, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Lee Panuccio B.Bus (Hons), BBUS (Dist), ICCA', 'age': 51, 'title': 'Chief Financial Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 4256264, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David B. Pitofsky', 'age': 58, 'title': 'Executive VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 2756742, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marygrace  DeGrazio', 'age': 47, 'title': 'Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David L. Kline', 'age': 65, 'title': 'CTO & Executive VP', 'yearBorn': 1958, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Florin', 'title': 'Senior VP & Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Kennedy', 'title': 'Chief Communications Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ruth  Allen', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anoushka  Healy', 'title': 'Executive VP & Chief Strategy Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael L. Bunder', 'title': 'Senior VP, Deputy General Counsel & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.2
+dividendYield§0.0078
+exDividendDate§1694476800
+payoutRatio§0.8333
+fiveYearAvgDividendYield§1.2
+beta§1.348
+priceToSalesTrailing12Months§1.4271909
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§News Corporation
+longName§News Corporation
+firstTradeDateEpochUtc§1371648600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4f405772-ccce-32c2-815c-c7c78a378930
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.06
+earningsGrowth§-0.273
+grossMargins§0.48727
+ebitdaMargins§0.12051
+trailingPegRatio§1.3634

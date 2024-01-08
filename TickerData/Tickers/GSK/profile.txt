@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 05:30:02.382560
+address1§980 Great West Road
+address2§Middlesex
+city§Brentford
+zip§TW8 9GS
+country§United Kingdom
+phone§44 20 8047 5000
+website§https://www.gsk.com
+industry§Drug Manufacturers—General
+sector§Healthcare
+longBusinessSummary§GSK plc, together with its subsidiaries, engages in the research, development and manufacture of vaccines and specialty medicines to prevent and treat disease in the United Kingdom, the United States, and internationally. It operates through four segments: Pharmaceuticals, Pharmaceuticals R&D, Vaccines, and Consumer Healthcare. The company offers pharmaceutical products comprising medicines in the therapeutic areas, such as infectious disease, HIV, immunology and respiratory, and oncology. The company was formerly known as GlaxoSmithKline plc and changed its name to GSK plc in May 2022. GSK plc was founded in 1715 and is based in Brentford, the United Kingdom.
+fullTimeEmployees§69400
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Emma Natasha Walmsley', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 6090979, 'exercisedValue': 1480937, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie Belita Brown', 'age': 61, 'title': 'CFO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shobie  Ramakrishnan', 'title': 'Chief Digital & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Wood', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarah  Elton-Farr', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Ford', 'title': 'Senior VP & Group General Counsel of Legal & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sally  Jackson', 'title': 'Senior Vice President of Global Communications & CEO Office', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Simon Redfern BSc (Hons), CA', 'age': 57, 'title': 'President of Corporate Development', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diana  Conrad', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip C. Thomson', 'title': 'President of Global Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§8
+compensationRisk§10
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.4
+dividendYield§0.0358
+exDividendDate§1700092800
+payoutRatio§0.3845
+fiveYearAvgDividendYield§5.06
+beta§0.248
+priceToSalesTrailing12Months§2.7207656
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.92
+pegRatio§2.08
+exchange§NYQ
+quoteType§EQUITY
+shortName§GSK plc
+longName§GSK plc
+firstTradeDateEpochUtc§323101800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a7130272-5c50-3936-b6ce-1eb2c57020e3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§35.0
+targetMeanPrice§42.25
+targetMedianPrice§43.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.695
+earningsGrowth§-0.866
+grossMargins§0.72143996
+ebitdaMargins§0.30979002
+trailingPegRatio§1.0327

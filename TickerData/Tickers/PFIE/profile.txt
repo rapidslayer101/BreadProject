@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 14:46:36.280431
+address1§321 South 1250 West
+address2§Suite 1
+city§Lindon
+state§UT
+zip§84042
+country§United States
+phone§801 796 5127
+website§https://www.profireenergy.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Profire Energy, Inc., a technology company, provides burner, and combustion management systems and solutions for natural and forced draft applications in the United States and Canada. It primarily focuses on the upstream, midstream, and downstream transmission segments of the oil and gas industry. The company also sells and installs its systems in South America, Europe, Africa, the Middle East, and Asia. Profire Energy, Inc. was founded in 2002 and is based in Lindon, Utah.
+fullTimeEmployees§103
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brenton Wayne Hatch', 'age': 73, 'title': 'Executive Chairman of the Board', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 298725, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron M. Tidball', 'age': 46, 'title': 'Co-CEO & Co-President', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 516279, 'exercisedValue': 0, 'unexercisedValue': 14400}, {'maxAge': 1, 'name': 'Mr. Ryan W. Oviatt CPA', 'age': 49, 'title': 'Co-CEO, Co-President, CFO, Treasurer & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 516279, 'exercisedValue': 0, 'unexercisedValue': 14400}, {'maxAge': 1, 'name': 'Mr. Patrick D. Fisher', 'age': 45, 'title': 'Vice President of Product Development', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 195147, 'exercisedValue': 0, 'unexercisedValue': 12100}, {'maxAge': 1, 'name': 'Mr. Todd  Fugal', 'title': 'In-House Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.567
+priceToSalesTrailing12Months§1.375019
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.17
+pegRatio§0.44
+exchange§NCM
+quoteType§EQUITY
+shortName§Profire Energy, Inc.
+longName§Profire Energy, Inc.
+firstTradeDateEpochUtc§1268231400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f3d39d82-2b51-32e7-b2f4-440d563cdaea
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§2.5
+targetMeanPrice§3.33
+targetMedianPrice§3.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§4.303
+earningsGrowth§1.0
+grossMargins§0.5069
+ebitdaMargins§0.21556
+trailingPegRatio§None

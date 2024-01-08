@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 08:33:28.273845
+address1§529 Pleasant Street
+city§Attleboro
+state§MA
+zip§02703
+country§United States
+phone§508 236 3800
+website§https://www.sensata.com
+industry§Scientific & Technical Instruments
+sector§Technology
+longBusinessSummary§Sensata Technologies Holding plc develops, manufactures, and sells sensors and sensor-rich solutions, electrical protection components and systems, and other products used in mission-critical systems and applications. It operates in two segments, Performance Sensing and Sensing Solutions. The Performance Sensing segment develops and manufactures sensors, high-voltage solutions, and other solutions used in mission-critical systems and applications, such as tire pressure monitoring, thermal management, electrical protection, regenerative braking, powertrain (engine/transmission), exhaust management, and operator controls for automobiles, on-road trucks, and off-road equipment customers. This segment also provides hardware and services for fleet transportation and logistics customers, and end users. The Sensing Solutions segment develops and manufactures application-specific sensor and electrical protection products primarily serving the industrial and aerospace markets. Its products include pressure, temperature, and position sensors; motor and compressor protectors; high-voltage contactors; solid state relays; bimetal electromechanical controls; power inverters; charge controllers; battery management systems; operator controls; and power conversion systems. The company operates in the United States, China, the Netherlands, Korea, the United Kingdom, and internationally. The company was founded in 1916 and is headquartered in Attleboro, Massachusetts.
+fullTimeEmployees§21000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey J. Cote CPA', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1769048, 'exercisedValue': 3690716, 'unexercisedValue': 945046}, {'maxAge': 1, 'name': 'Mr. George  Verras', 'age': 50, 'title': 'Executive VP & CTO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 826838, 'exercisedValue': 0, 'unexercisedValue': 5027}, {'maxAge': 1, 'name': 'Ms. Martha N. Sullivan', 'age': 66, 'title': 'Advisor & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 95000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul S. Vasington', 'age': 57, 'title': 'Advisor', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 971484, 'exercisedValue': 0, 'unexercisedValue': 48253}, {'maxAge': 1, 'name': 'Mr. Brian K. Roberts', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria G. Freve', 'age': 48, 'title': 'Chief Accounting Officer & VP', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Stefanic', 'title': 'Chief Information Officer & VP of Global Shared Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynne J. Caljouw', 'age': 49, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David K. Stott', 'title': 'Secretary, Senior VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alexia  Taxiarchos', 'title': 'Head of Media Relations & Senior Director of Global Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.48
+dividendYield§0.013300001
+exDividendDate§1699315200
+payoutRatio§0.22659999
+beta§1.375
+priceToSalesTrailing12Months§1.344878
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.99
+pegRatio§0.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Sensata Technologies Holding pl
+longName§Sensata Technologies Holding plc
+firstTradeDateEpochUtc§1268317800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ec8e57d7-1f07-3312-8303-5548b79d03c8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§35.0
+targetMeanPrice§44.55
+targetMedianPrice§46.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§1.898
+earningsGrowth§-0.548
+grossMargins§0.32806
+ebitdaMargins§0.22208
+trailingPegRatio§0.9006

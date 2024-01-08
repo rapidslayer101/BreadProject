@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 18:43:27.131858
+address1§5 Science Park
+address2§395 Winchester Avenue
+city§New Haven
+state§CT
+zip§06511
+country§United States
+phone§203 535 1456
+website§https://www.arvinas.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Arvinas, Inc., a clinical-stage biotechnology company, engages in the discovery, development, and commercialization of therapies to degrade disease-causing proteins. The company engineers proteolysis targeting chimeras (PROTAC) targeted protein degraders that are designed to harness the body's own natural protein disposal system to degrade and remove disease-causing proteins. Its product pipeline includes Bavdegalutamide and ARV-766, investigational orally bioavailable PROTAC protein degraders for the treatment of men with metastatic castration-resistant prostate cancer, which are in Phase 1/2 clinical trials; and ARV-471, an orally bioavailable estrogen receptor degrading PROTAC targeted protein degrader for the treatment of patients with locally advanced or metastatic estrogen receptor+/human epidermal growth factor receptor 2-breast cancer, which is Phase 3 clinical trial. The company has collaborations with Pfizer Inc., Genentech, Inc., F. Hoffman-La Roche Ltd., Carrick Therapeutics Limited, and Bayer AG. Arvinas, Inc. was founded in 2013 and is based in New Haven, Connecticut.
+fullTimeEmployees§415
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. John G. Houston Ph.D.', 'age': 63, 'title': 'Chairperson, CEO & President', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1078401, 'exercisedValue': 0, 'unexercisedValue': 8414394}, {'maxAge': 1, 'name': 'Mr. Sean A. Cassidy CPA, M.B.A.', 'age': 53, 'title': 'CFO, Principal Financial Officer & Treasurer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 683001, 'exercisedValue': 810000, 'unexercisedValue': 2212526}, {'maxAge': 1, 'name': 'Dr. Ian  Taylor Ph.D.', 'age': 60, 'title': 'Chief Scientific Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 692000, 'exercisedValue': 1247206, 'unexercisedValue': 877537}, {'maxAge': 1, 'name': 'Dr. Ronald A. Peck M.D.', 'age': 57, 'title': 'Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 701633, 'exercisedValue': 0, 'unexercisedValue': 274924}, {'maxAge': 1, 'name': 'Mr. David K. Loomis M.B.A.', 'age': 49, 'title': 'VP, Principal Accounting Officer & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Boyle', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Randy  Teel Ph.D.', 'age': 44, 'title': 'Senior Vice President of Corporate & Business Development', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Weiss', 'age': 53, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John A. Grosso Ph.D.', 'age': 66, 'title': 'Senior Vice President of R&D Technical Operations', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela M. Cacace Ph.D.', 'age': 55, 'title': 'Senior Vice President of Neuroscience & Platform Biology', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.032
+priceToSalesTrailing12Months§14.004922
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-7.2
+pegRatio§0.28
+exchange§NMS
+quoteType§EQUITY
+shortName§Arvinas, Inc.
+longName§Arvinas, Inc.
+firstTradeDateEpochUtc§1538055000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5ab3d208-4f36-3880-916e-a34548e61b36
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§110.0
+targetLowPrice§20.0
+targetMeanPrice§62.67
+targetMedianPrice§64.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§3.212
+grossMargins§1.0
+ebitdaMargins§-1.92284
+trailingPegRatio§None

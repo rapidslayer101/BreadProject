@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 19:33:35.866805
+address1§7 St. Thomas Street
+address2§Suite 801
+city§Toronto
+state§ON
+zip§M5S 2B7
+country§Canada
+phone§416 925 7228
+fax§416 925 7964
+website§https://www.triconresidential.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Tricon Residential Inc. (NYSE: TCN, TSX: TCN) is an owner and operator of a growing portfolio of approximately 37,000 single-family rental homes in the U.S. Sun Belt and multi-family apartments in Canada. Our commitment to enriching the lives of our employees, residents and local communities underpins Tricon's culture and business philosophy. We provide high-quality rental housing options for families across the United States and Canada through our technology-enabled operating platform and dedicated on-the-ground operating teams. Our development programs are also delivering thousands of new rental homes and apartments as part of our commitment to help solve the housing supply shortage. At Tricon, we imagine a world where housing unlocks life's potential.
+fullTimeEmployees§1010
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David  Berman B.Sc., M.B.A.', 'age': 75, 'title': 'Co-Founder & Executive Chairman', 'yearBorn': 1948, 'fiscalYear': 2022, 'totalPay': 4180000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Berman', 'age': 49, 'title': 'President, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 17012000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey  Matus B.Comm., J.D., LLB, LLM', 'age': 74, 'title': 'Co-Founder & Non Independent Director', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 1901000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wissam  Francis CPA', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'totalPay': 4960000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Baldridge', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'totalPay': 4543000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Ellenzweig', 'title': 'Executive VP & Chief Investment Officer', 'fiscalYear': 2022, 'totalPay': 8086000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gina  McMullan C.A., CPA', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Reshma  Block', 'age': 48, 'title': 'Head of Technology & Innovation', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charlotte Thuot Kucyi', 'title': 'Senior Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Veneziano', 'title': 'Executive VP, Chief Legal Officer, Corporate Secretary & Chief Compliance Officer', 'fiscalYear': 2022, 'totalPay': 708000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.23
+dividendYield§0.026199998
+exDividendDate§1703721600
+payoutRatio§0.3932
+fiveYearAvgDividendYield§2.5
+beta§1.438
+priceToSalesTrailing12Months§2.8377244
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.53
+exchange§NYQ
+quoteType§EQUITY
+shortName§Tricon Residential Inc.
+longName§Tricon Residential Inc.
+firstTradeDateEpochUtc§1632835800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§879bea1d-2d9a-3f4e-b245-8b62cc4c6de2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.5
+targetLowPrice§9.0
+targetMeanPrice§9.7
+targetMedianPrice§9.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.227
+earningsGrowth§-0.624
+grossMargins§0.70339996
+ebitdaMargins§0.49976003
+trailingPegRatio§None

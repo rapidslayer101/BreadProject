@@ -1,0 +1,62 @@
+# reload+after+2024-01-22 06:27:09.865662
+address1§1801 Bayberry Court
+address2§PO Box 18100
+city§Richmond
+state§VA
+zip§23226-8100
+country§United States
+phone§804 289 9600
+website§https://www.brinks.com
+industry§Security & Protection Services
+industryKey§security-protection-services
+industryDisp§Security & Protection Services
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§The Brink's Company provides secure transportation, cash management, and other security-related services in North America, Latin America, Europe, and internationally. The company offers armored vehicle transportation of valuables; automated teller machine (ATM) management services, such as cash replenishment, cash forecasting, cash optimization, ATM remote monitoring, service call dispatching, transaction processing, installation, and first and second line maintenance services; and cash-in-transit services. It also provides transportation services for diamonds, jewelry, precious metals, securities, bank notes, currency, high-tech devices, electronics, and pharmaceuticals; cash management services, as well as cashier balancing, counterfeit detection, account consolidation, electronic reporting, check imaging, and reconciliation services. It serves banks and financial institutions, retailers, government agencies, mints, jewelers, and other commercial operations. The company was formerly known as The Pittston Company and changed its name to The Brink's Company in May 2003. The Brink's Company was founded in 1859 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§69500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard Mark Eubanks Jr.', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2442404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kurt B. McMaken', 'age': 53, 'title': 'Executive VP & CFO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1494490, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald J. Domanico', 'age': 64, 'title': "President of Brink's Capital, LLC", 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1769603, 'exercisedValue': 2326039, 'unexercisedValue': 22055}, {'maxAge': 1, 'name': 'Mr. Daniel J. Castillo', 'age': 54, 'title': 'Executive VP & President of North American Operations', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1629771, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Sweeney', 'age': 58, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesse  Jenkins', 'title': 'Head & Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsay Krause Blackwood', 'age': 46, 'title': 'Executive VP & General Counsel', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth A. Galloway', 'age': 44, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominik  Bossart', 'age': 48, 'title': "Executive VP and President of MEA, Asia & Brink's Global Services", 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James K. Parks', 'age': 54, 'title': 'Executive VP & President of Europe', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.88
+dividendYield§0.0107
+exDividendDate§1698969600
+payoutRatio§0.2847
+fiveYearAvgDividendYield§1.07
+beta§1.419
+priceToSalesTrailing12Months§0.77093196
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.83
+pegRatio§0.84
+lastDividendValue§0.22
+lastDividendDate§1698969600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Brinks Company (The)
+longName§The Brink's Company
+firstTradeDateEpochUtc§820679400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0aa1f1ad-9b52-3f57-ad1f-168ed93282f3
+messageBoardId§finmb_413156
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§98.0
+targetLowPrice§90.0
+targetMeanPrice§94.0
+targetMedianPrice§94.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.084
+earningsGrowth§1.389
+grossMargins§0.24083
+ebitdaMargins§0.16092
+trailingPegRatio§None

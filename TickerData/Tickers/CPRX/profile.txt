@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 16:44:12.202943
+address1§355 Alhambra Circle
+address2§Suite 801
+city§Coral Gables
+state§FL
+zip§33134
+country§United States
+phone§305 420 3200
+website§https://www.catalystpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Catalyst Pharmaceuticals, Inc., a commercial-stage biopharmaceutical company, focuses on developing and commercializing therapies for people with rare debilitating, chronic neuromuscular, and neurological diseases in the United States. It offers Firdapse, an amifampridine phosphate tablets for the treatment of patients with lambert-eaton myasthenic syndrome (LEMS); and Ruzurgi for the treatment of pediatric LEMS patients. The company develops Firdapse for the treatment of MuSK antibody positive myasthenia gravis and spinal muscular atrophy type. It has license agreements with BioMarin Pharmaceutical Inc.; and collaboration and license agreement with Endo Ventures Limited for the development and commercialization of generic Sabril tablets. Catalyst Pharmaceuticals, Inc. was founded in 2002 and is based in Coral Gables, Florida.
+fullTimeEmployees§82
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick J. McEnany', 'age': 76, 'title': 'Co-Founder, Chairman & President', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 1195923, 'exercisedValue': 0, 'unexercisedValue': 35252592}, {'maxAge': 1, 'name': 'Mr. Richard John  Daly M.B.A.', 'age': 62, 'title': 'CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 63125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Steven R. Miller Ph.D.', 'age': 61, 'title': 'Executive VP, COO & Chief Scientific Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 809027, 'exercisedValue': 0, 'unexercisedValue': 18247454}, {'maxAge': 1, 'name': 'Dr. Gary  Ingenito M.D., Ph.D.', 'age': 67, 'title': 'Chief Medical & Regulatory Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 751852, 'exercisedValue': 0, 'unexercisedValue': 11067285}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Del Carmen', 'age': 52, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 711702, 'exercisedValue': 0, 'unexercisedValue': 4007927}, {'maxAge': 1, 'name': 'Ms. Mary  Coleman', 'title': 'VP & Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Elsbernd J.D.', 'age': 59, 'title': 'Chief Compliance Officer & Chief Legal Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 311416, 'exercisedValue': 0, 'unexercisedValue': 107032}, {'maxAge': 1, 'name': 'Mr. Pete  Curry Sr.', 'title': 'Vice President of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Stanley  Iyadurai M.D., Ph.D.', 'title': 'Senior Vice President of Medical Affairs & Drug Discovery', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Preethi  Sundaram Ph.D.', 'age': 47, 'title': 'Chief Strategy Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 511255, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.014
+priceToSalesTrailing12Months§4.4984317
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.24
+exchange§NCM
+quoteType§EQUITY
+shortName§Catalyst Pharmaceuticals, Inc.
+longName§Catalyst Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1162996200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§701918ca-1fbf-3631-8a48-a246327450bb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§24.0
+targetMeanPrice§26.2
+targetMedianPrice§25.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§2.926
+grossMargins§0.59062
+ebitdaMargins§0.28781998
+trailingPegRatio§None

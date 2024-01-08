@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 02:45:22.458039
+address1§1441 Broadway
+address2§Suite 5116
+city§New York
+state§NY
+zip§10018
+country§United States
+phone§212 206 1216
+website§https://www.ideanomics.com
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§Ideanomics, Inc., through its subsidiaries, develops zero emission mobility solutions for the off-highway and on-highway commercial vehicle markets in Asia, Europe, and the United States. The company's Ideanomics Mobility business unit focuses on the commercial adoption of electric vehicles (EV) by commercial fleet operators. This business unit provides solutions for the procurement, financing, charging, and energy management needs for the fleet operators of commercial EVs; and zero emission mobility solutions, such as the provision of commercial electric vans, trucks, buses, electric tractors, and two-wheeled transportation, supporting by the provision of energy services and infrastructure for the EV market comprising charging systems, energy storage, and energy generation, including hydrogen and solar, and associated data and management applications. It also offers high-power inductive charging solutions for medium and heavy-duty EVs; manufactures and distributes electric powered tractors; manufactures and sells electric and hybrid electric propulsion kits, as well as electric motorcycles; sells EV bikes, scooters, and batteries under the Treeletrik brand; and designs, manufactures, and markets electric commercial vehicles, as well as performs retrofits to convert diesel powered specialty vehicles. The company's Ideanomics Capital business unit provides financing services, which focuses on the enhancement of efficiency, transparency, and profitability for the financial services industry. This business unit offers solutions for the real estate transactions, including title and escrow, residential and commercial title insurance, and closing and settlement services, as well as specialized offerings for the mortgage industry; and acts as the Financial Industry Regulatory Authority-registered broker dealer that operates a platform focused on private equity and debt. Ideanomics, Inc. was incorporated in 2004 and is headquartered in New York, New York.
+fullTimeEmployees§565
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shane B.  McMahon', 'age': 53, 'title': 'Founder & Independent Executive Chairman', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1138322, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alfred P. Poor', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 748061, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robin J. D. Mackie', 'age': 64, 'title': 'Chief Operating Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 505561, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anthony  Sklar', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'totalPay': 939188, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Zheng  Wu', 'age': 57, 'title': 'Chairman Emeritus', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 250000, 'exercisedValue': 0, 'unexercisedValue': 10417}, {'maxAge': 1, 'name': 'Mr. Scott  Morrison', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. George  Yuan', 'title': 'Chief Technology Officer of BBDCG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun  Zhu', 'title': 'Chief Operating Officer - Mobile Energy Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hao  Li', 'title': 'Head of Smart Energy Division-Mobile Energy Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Liqing  Hu', 'title': 'Chief Scientist for Medici Motors Works', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.479
+priceToSalesTrailing12Months§0.26275232
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.74
+exchange§NCM
+quoteType§EQUITY
+shortName§Ideanomics, Inc.
+longName§Ideanomics, Inc.
+firstTradeDateEpochUtc§1179927000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a7f51ae-8125-3823-b037-35cb78a95033
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.064
+grossMargins§-0.03401
+ebitdaMargins§-1.3624699
+trailingPegRatio§None

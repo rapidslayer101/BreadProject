@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 06:29:02.932683
+address1§175 West Jackson Boulevard
+address2§Suite 1000
+city§Chicago
+state§IL
+zip§60604
+country§United States
+phone§312 568 4200
+website§https://www.enova.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Enova International, Inc. operates as a financial services company with online lending that serves small businesses and consumers who are underserved by traditional banks. The company offers installment loans; line of credit accounts; CSO programs, including arranging loans with independent third-party lenders and assisting in the preparation of loan applications and loan documents; and bank programs, such as marketing services and loan servicing for near-prime unsecured consumer installment loan. It markets its financing products under the CashNetUSA, NetCredit, OnDeck, Headway Capital, Simplic, and Pangea names. The company, through its analytics and machine learning algorithms, serves approximately 8 million customers. Enova International, Inc. was incorporated in 2011 and is headquartered in Chicago, Illinois.
+fullTimeEmployees§1804
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David A. Fisher J.D.', 'age': 54, 'title': 'Chairman & CEO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 2616058, 'exercisedValue': 3699334, 'unexercisedValue': 16219431}, {'maxAge': 1, 'name': 'Mr. Steven E. Cunningham', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1400880, 'exercisedValue': 0, 'unexercisedValue': 3222679}, {'maxAge': 1, 'name': 'Mr. Sean  Rahilly', 'age': 50, 'title': 'General Counsel & Chief Compliance Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 867416, 'exercisedValue': 393921, 'unexercisedValue': 1588168}, {'maxAge': 1, 'name': 'Mr. Kirk L. F. Chartier', 'age': 59, 'title': 'Chief Strategy Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 954116, 'exercisedValue': 812287, 'unexercisedValue': 3197108}, {'maxAge': 1, 'name': 'Mr. James Joseph Lee', 'age': 45, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph M. DeCosmo', 'age': 57, 'title': 'CTO & Chief Analytics Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 561329, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsay  Savarese', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey  Kraft', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Drew', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.571
+priceToSalesTrailing12Months§1.6116201
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.29
+exchange§NYQ
+quoteType§EQUITY
+shortName§Enova International, Inc.
+longName§Enova International, Inc.
+firstTradeDateEpochUtc§1415889000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bcbc9cdb-c8a3-333a-bf70-6a07ee391445
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§45.0
+targetMeanPrice§59.33
+targetMedianPrice§60.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§7.871
+earningsGrowth§-0.178
+grossMargins§0.81122
+ebitdaMargins§0.0
+trailingPegRatio§None

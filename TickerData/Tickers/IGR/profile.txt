@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 13:30:26.214458
+address1§555 East Lancaster Avenue
+address2§Suite 120
+city§Radnor
+state§PA
+zip§19087
+country§United States
+phone§610 995 8900
+website§https://www.cbreclarion.com/ourfunds/Global-Real-Estate-Income-Fund/Pages/default.aspx
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§CBRE Clarion Global Real Estate Income Fund specializes in investments in various property types, including office, retail, diversified, apartments, industrials, hotels, healthcare, and storage. It invests in the public equity markets across the developed markets of North America, Europe, Australia, and Asia. The fund seeks to invest in stocks of companies operating across the real estate sector including REITs. It invests in stocks of companies across diversified market capitalizations. The fund employs fundamental analysis to create its portfolio. It conducts in-house research to make its investments.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Ritson Ferguson C.F.A.', 'age': 64, 'title': 'Chairman of The Board, Chief Executive Officer, President, Founding Partner and Managing Director', 'yearBorn': 1959, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jarrett Burt Kling', 'age': 79, 'title': 'Managing Director of Ing Clarion Real Estate Securities L P', 'yearBorn': 1944, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.72
+dividendYield§0.1338
+exDividendDate§1702944000
+payoutRatio§0.202
+fiveYearAvgDividendYield§9.48
+beta§1.363
+priceToSalesTrailing12Months§16.865294
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§CBRE Clarion Global Real Estate
+longName§CBRE Global Real Estate Income Fund
+firstTradeDateEpochUtc§1077719400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§5f99cc6a-40dd-355f-abda-d5fb7049dffc
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.019
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

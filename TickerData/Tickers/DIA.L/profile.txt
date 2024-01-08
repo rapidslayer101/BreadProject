@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 06:36:05.999505
+address1§Leaf C
+address2§Tower 42 Level 36 25 Old Broad Street
+city§London
+zip§EC2N 1HQ
+country§United Kingdom
+phone§44 2030 583 541
+website§https://www.dialight.com
+industry§Electrical Equipment & Parts
+industryKey§electrical-equipment-parts
+industryDisp§Electrical Equipment & Parts
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Dialight plc, together with its subsidiaries, primarily develops, manufactures, and supplies LED lighting solutions for use in hazardous and industrial applications in North America, Europe, the Middle East, Africa, and internationally. The company operates in two segments, Lighting, and Signals & Components. It offers high and low bays, and high outputs; conveyor, street, area, and flood lights; LED linear fixtures, such as low profile/top conduit linear, stainless steel linear, glass reinforced polyester linear, battery backup linear, and NSF linear; and wallpacks/bulkheads products. The company also provides lighting products for control systems and obstruction solutions. In addition, it offers signals and components, such as panel mount and circuit board indicators; and traffic, vehicle, and rail products. It serves heavy industry, pulp and paper, power generation, and oil and gas sectors. Dialight plc was founded in 1938 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§1358
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Fariyal  Khanbabi', 'age': 55, 'title': 'Group CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 507000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard F. Allan', 'age': 58, 'title': 'General Counsel & Company Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1430352000
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.5
+beta§0.214
+priceToSalesTrailing12Months§0.3882073
+currency§GBp
+forwardEps§12.9
+lastDividendValue§9.8
+lastDividendDate§1430352000
+exchange§LSE
+quoteType§EQUITY
+shortName§DIALIGHT PLC ORD 1.89P
+longName§Dialight plc
+firstTradeDateEpochUtc§754646400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bbcdc663-d4fb-327c-9e07-fded983639af
+messageBoardId§finmb_879557
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.754
+grossMargins§0.29673
+ebitdaMargins§0.015420001
+trailingPegRatio§None

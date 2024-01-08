@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 17:46:52.484379
+address1§Building D, Ronsin Technology Center
+address2§2nd Floor Chaoyang District
+city§Beijing
+zip§100102
+country§China
+website§https://www.liangzizhige.com
+industry§Education & Training Services
+sector§Consumer Defensive
+longBusinessSummary§QuantaSing Group Limited provides online learning services in the People's Republic of China. The company offers online courses, including financial literacy, short-video production, personal well-being, electronic keyboard, and meditation courses. It also offers marketing and enterprise talent management services to enterprise customers. In addition, the company provides online and literacy course to adult learners under various brands, including QiNiu, JiangZhen, and QianChi. QuantaSing Group Limited was founded in 2019 and is headquartered in Beijing, the People's Republic of China.
+fullTimeEmployees§1029
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dong  Xie', 'age': 43, 'title': 'CFO & Director', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jinshan  Li', 'age': 40, 'title': 'CTO & Director', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peng  Li', 'age': 40, 'title': 'Founder, Chairman of the Board & CEO', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leah  Guo', 'title': 'Associate Director of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xihao  Liu', 'age': 39, 'title': 'Senior VP & Director', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun  Wang', 'age': 32, 'title': 'Senior Vice President', 'yearBorn': 1991, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bo  Bai', 'age': 41, 'title': 'Senior Vice President', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guangfei  Zhao', 'age': 39, 'title': 'Senior Vice President', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.02900479
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.33
+exchange§NGM
+quoteType§EQUITY
+shortName§QuantaSing Group Limited
+longName§QuantaSing Group Limited
+firstTradeDateEpochUtc§1674657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d77a9a0e-e82c-3766-9d78-acea6a861c2b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§9.0
+targetMeanPrice§9.57
+targetMedianPrice§9.7
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.982
+grossMargins§0.86794
+ebitdaMargins§0.00851
+trailingPegRatio§None

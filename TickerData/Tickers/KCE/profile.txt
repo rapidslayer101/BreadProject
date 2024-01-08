@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 19:30:51.777050
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the capital markets segment of the S&P Total Market Index ("S&P TMI") and tracks the performance of publicly traded companies that do business as broker-dealers, asset managers, trust and custody banks or exchanges.
+maxAge§86400
+priceHint§2
+yield§0.0182
+totalAssets§272808064
+navPrice§99.40982
+currency§USD
+category§Financial
+ytdReturn§-0.025513899
+beta3Year§1.37
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1131408000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.1232543
+fiveYearAverageReturn§0.1802738
+exchange§PCX
+quoteType§ETF
+shortName§SPDR S&P Capital Markets ETF
+longName§SPDR S&P Capital Markets ETF
+firstTradeDateEpochUtc§1132065000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4602a0bf-59c6-3576-b830-dc268940e34d
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 19:32:14.567555
+address1§One Procter & Gamble Plaza
+city§Cincinnati
+state§OH
+zip§45202
+country§United States
+phone§513 983 1100
+website§https://www.pginvestor.com
+industry§Household & Personal Products
+sector§Consumer Defensive
+longBusinessSummary§The Procter & Gamble Company provides branded consumer packaged goods worldwide. It operates through five segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The Beauty segment offers conditioners, shampoos, styling aids, and treatments under the Head & Shoulders, Herbal Essences, Pantene, and Rejoice brands; and antiperspirants and deodorants, personal cleansing, and skin care products under the Olay, Old Spice, Safeguard, Secret, and SK-II brands. The Grooming segment provides shave care products and appliances under the Braun, Gillette, and Venus brand names. The Health Care segment offers toothbrushes, toothpastes, and other oral care products under the Crest and Oral-B brand names; and gastrointestinal, rapid diagnostics, respiratory, vitamins/minerals/supplements, pain relief, and other personal health care products under the Metamucil, Neurobion, Pepto-Bismol, and Vicks brands. The Fabric & Home Care segment provides fabric enhancers, laundry additives, and laundry detergents under the Ariel, Downy, Gain, and Tide brands; and air care, dish care, P&G professional, and surface care products under the Cascade, Dawn, Fairy, Febreze, Mr. Clean, and Swiffer brands. The Baby, Feminine & Family Care segment offers baby wipes, taped diapers, and pants under the Luvs and Pampers brands; adult incontinence and feminine care products under the Always, Always Discreet, and Tampax brands; and paper towels, tissues, and toilet papers under the Bounty, Charmin, and Puffs brands. The company sells its products primarily through mass merchandisers, e-commerce, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores, high-frequency stores, pharmacies, electronics stores, and professional channels, as well as directly to consumers. The Procter & Gamble Company was founded in 1837 and is headquartered in Cincinnati, Ohio.
+fullTimeEmployees§107000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jon R. Moeller', 'age': 59, 'title': 'President, CEO & Chairman of the Board', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 6718062, 'exercisedValue': 11523920, 'unexercisedValue': 15191089}, {'maxAge': 1, 'name': 'Mr. Andre  Schulten', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 2548841, 'exercisedValue': 1319224, 'unexercisedValue': 7077850}, {'maxAge': 1, 'name': 'Mr. Shailesh G. Jejurikar', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 3044239, 'exercisedValue': 2347940, 'unexercisedValue': 25525736}, {'maxAge': 1, 'name': 'Ms. R. Alexandra Keith', 'age': 55, 'title': 'Chief Executive Officer of Beauty & Executive Sponsor of Corporate Sustainability', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2555599, 'exercisedValue': 1847665, 'unexercisedValue': 2125512}, {'maxAge': 1, 'name': 'Ms. Ma. Fatima de Vera Francisco', 'age': 55, 'title': 'Chief Executive Officer of Baby, Feminine & Family Care and Executive Sponsor for Gender Equality', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2744506, 'exercisedValue': 5175992, 'unexercisedValue': 21442908}, {'maxAge': 1, 'name': 'Mr. Matthew W. Janzaruk', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vittorio  Cretella', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John T. Chevalier', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan Street Whaley', 'age': 49, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Patel', 'title': 'Chief Ethics & Compliance Officer and Chief Patent Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§3.76
+dividendYield§0.0255
+exDividendDate§1697673600
+payoutRatio§0.6019
+fiveYearAvgDividendYield§2.46
+beta§0.438
+priceToSalesTrailing12Months§4.1728544
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.92
+pegRatio§2.98
+exchange§NYQ
+quoteType§EQUITY
+shortName§Procter & Gamble Company (The)
+longName§The Procter & Gamble Company
+firstTradeDateEpochUtc§-252322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§49f38fe0-3598-34d6-bf4a-0a8791c9c8b9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§177.0
+targetLowPrice§139.0
+targetMeanPrice§165.43
+targetMedianPrice§168.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§23
+quickRatio§0.429
+earningsGrowth§0.161
+grossMargins§0.49251997
+ebitdaMargins§0.27185
+trailingPegRatio§3.4111

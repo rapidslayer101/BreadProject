@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 03:44:46.187707
+address1§401 North 31st Street
+city§Billings
+state§MT
+zip§59101
+country§United States
+phone§406 255 5311
+website§https://www.fibk.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Interstate BancSystem, Inc. operates as the bank holding company for First Interstate Bank that provides range of banking products and services in the United States. It offers various traditional depository products, including checking, savings, and time deposits; and repurchase agreements primarily for commercial and municipal depositors. The company also offers real estate loans comprising commercial real estate, construction, residential, agricultural, and other real estate loans; consumer loans comprising direct personal loans, credit card loans and lines of credit, and indirect loans; variable and fixed rate commercial loans for small and medium-sized manufacturing, wholesale, retail, and service businesses for working capital needs and business expansions; and agricultural loans. In addition, it provides a range of trust, employee benefit, investment management, insurance, agency, and custodial services to individuals, businesses, and nonprofit organizations. Further, the company offers marketing, credit review, loan servicing, credit cards issuance and servicing, mortgage loan sales and servicing, indirect consumer loan purchasing and processing, loan collection services, other operational, and specialized staff support services, as well as online and mobile banking services. It serves individuals, businesses, municipalities, and other entities in various industries, including agriculture, construction, education, governmental services, healthcare, hospitality, housing, professional services, real estate development, retail, technology, tourism, and wholesale trade. First Interstate BancSystem, Inc. was incorporated in 1971 and is headquartered in Billings, Montana.
+fullTimeEmployees§3783
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin P. Riley', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2760404, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marcy D. Mutch', 'age': 64, 'title': 'Executive VP & CFO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1142748, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk D. Jensen Esq.', 'age': 53, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 784219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karlyn M. Knieriem', 'age': 56, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 670039, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristina R. Robbins', 'age': 54, 'title': 'Senior VP & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori A. Meyer', 'age': 46, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brittany  Cremer', 'title': 'PR & Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David Della Camera', 'title': 'Director of Corporate Development & Financial Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel B. Turitto', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David C. Redmond', 'title': 'Senior VP & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.88
+dividendYield§0.0623
+exDividendDate§1698969600
+payoutRatio§0.6912
+fiveYearAvgDividendYield§4.29
+beta§0.897
+priceToSalesTrailing12Months§3.0423446
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.37
+pegRatio§1.53
+exchange§NMS
+quoteType§EQUITY
+shortName§First Interstate BancSystem, In
+longName§First Interstate BancSystem, Inc.
+firstTradeDateEpochUtc§1269437400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§952a202c-e3a6-379d-9858-c9e5c2324429
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§24.0
+targetMeanPrice§29.0
+targetMedianPrice§26.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§7
+earningsGrowth§-0.125
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

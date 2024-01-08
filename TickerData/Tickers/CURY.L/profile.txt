@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 07:36:03.877305
+address1§1 Portal Way
+city§London
+zip§W3 6RS
+country§United Kingdom
+phone§44 12 1415 7047
+website§https://www.currysplc.com
+industry§Specialty Retail
+industryKey§specialty-retail
+industryDisp§Specialty Retail
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Currys plc operates as a retailer of technology products and services. It offers consumer electronics and mobile technology products and services; and mobile virtual network operator and consumer electrical repair services. The company also sells its products through online; and offers insurance services. The company was formerly known as Dixons Carphone plc and changed its name to Currys plc in September 2021. Currys plc was founded in 1884 and is based in London, the United Kingdom.
+fullTimeEmployees§28000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alex  Baldock', 'age': 51, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1369000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Marsh', 'age': 55, 'title': 'Group CFO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 615000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsay  Haselhurst', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Gamble', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dan Fox Homan', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nigel  Paterson', 'age': 56, 'title': 'General Counsel & Company Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paula  Coughlan', 'title': 'Chief People, Communications & Sustainability Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ed  Connolly', 'title': 'Chief Commercial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fredrik  Tonnesen', 'title': 'Nordics Chief Executive Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1672272000
+payoutRatio§0.2703
+fiveYearAvgDividendYield§5.35
+beta§1.301
+priceToSalesTrailing12Months§0.06223953
+currency§GBp
+lastDividendValue§1.0
+lastDividendDate§1672272000
+exchange§LSE
+quoteType§EQUITY
+shortName§CURRYS PLC ORD 0.1P
+longName§Currys plc
+firstTradeDateEpochUtc§1254380400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d3a96507-d060-3d96-8d2d-10a498ee5d6d
+messageBoardId§finmb_418171
+targetHighPrice§90.0
+targetLowPrice§45.0
+targetMeanPrice§60.57
+targetMedianPrice§57.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§0.294
+grossMargins§0.14896
+ebitdaMargins§0.02544
+trailingPegRatio§None

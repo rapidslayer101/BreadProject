@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 17:34:21.126455
+address1§9950 Woodloch Forest Drive
+address2§Suite 2800
+city§The Woodlands
+state§TX
+zip§77380
+country§United States
+phone§346 786 5000
+website§https://www.westernmidstream.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Western Midstream Partners, LP, together with its subsidiaries, operates as a midstream energy company primarily in the United States. It is involved in gathering, compressing, treating, processing, and transporting natural gas; gathering, stabilizing, and transporting condensate, natural gas liquids (NGLs), and crude oil; and gathering and disposing produced water. It also buys and sells natural gas, NGLs, and condensate. The company operates assets located in Texas, New Mexico, the Rocky Mountains, and North-central Pennsylvania. Western Midstream Holdings, LLC operates as the general partner of the company. The company was formerly known as Western Gas Equity Partners, LP and changed its name to Western Midstream Partners, LP in February 2019. Western Midstream Partners, LP was incorporated in 2007 and is based in The Woodlands, Texas.
+fullTimeEmployees§2022
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael P. Ure', 'age': 46, 'title': 'President, CEO & Director - Western Midstream Holdings LLC', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 2613447, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristen S. Shults', 'age': 38, 'title': 'Senior VP & CFO - Western Midstream Holdings LLC', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 933689, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Catherine A. Green', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer of Western Midstream Holdings, LLC', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1431913, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher B. Dial', 'age': 46, 'title': 'Senior VP, General Counsel & Corporate Secretary of Western Midstream Holdings, LLC', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1078595, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert W. Bourne', 'age': 67, 'title': 'Senior VP & Chief Commercial Officer of Western Midstream Holdings, LLC', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1121698, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith  Herndon', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Edwards Jenkins IV', 'title': 'Director of Investor Relations - Western Midstream Holdings LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan A. Greenberg', 'title': 'Vice President of Corporate Development - Western Midstream Holdings LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Crystal J. Sled', 'title': 'Senior VP of Human Capital Mgmt., Diversity, Equity, & Inclusion - Western Midstream Holdings LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alejandro O. Nebreda', 'title': 'Senior Vice President of Business Services - Western Midstream Holdings LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.49
+dividendYield§0.087299995
+exDividendDate§1698710400
+payoutRatio§0.89239997
+fiveYearAvgDividendYield§10.85
+beta§2.72
+priceToSalesTrailing12Months§3.578678
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.27
+pegRatio§2.82
+exchange§NYQ
+quoteType§EQUITY
+shortName§Western Midstream Partners, LP
+longName§Western Midstream Partners, LP
+firstTradeDateEpochUtc§1355149800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7d690e43-9382-32a3-86aa-a3b0e89c08cb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§27.0
+targetMeanPrice§31.0
+targetMedianPrice§31.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.755
+earningsGrowth§0.061
+grossMargins§0.68772006
+ebitdaMargins§0.60432
+trailingPegRatio§None

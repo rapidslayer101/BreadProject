@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 23:44:23.817147
+address1§222 Berkeley Street
+address2§5th Floor
+city§Boston
+state§MA
+zip§02116
+country§United States
+phone§617 986 6744
+website§https://www.draftkings.com
+industry§Gambling
+sector§Consumer Cyclical
+longBusinessSummary§DraftKings Inc. operates as a digital sports entertainment and gaming company in the United States and internationally. It provides online sports betting and casino, daily fantasy sports, media, and other consumer products, as well as retails sportsbooks. The company also engages in the design and development of sports betting and casino gaming software for online and retail sportsbooks, and iGaming operators. In addition, it offers DraftKings marketplace, a digital collectibles ecosystem designed for mainstream accessibility that offers curated NFT drops and supports secondary-market transactions. DraftKings Inc. is headquartered in Boston, Massachusetts.
+fullTimeEmployees§4200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason D. Robins', 'age': 42, 'title': 'Co-Founder, Chairman & CEO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 3725399, 'exercisedValue': 10122754, 'unexercisedValue': 80541208}, {'maxAge': 1, 'name': 'Mr. Paul  Liberman', 'age': 39, 'title': 'Co-Founder, President of Global Technology & Product and Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 931908, 'exercisedValue': 4674338, 'unexercisedValue': 29832398}, {'maxAge': 1, 'name': 'Mr. Matthew  Kalish', 'age': 41, 'title': 'Co-Founder, President of DraftKings North America & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 880326, 'exercisedValue': 882397, 'unexercisedValue': 22410484}, {'maxAge': 1, 'name': 'Mr. Jason K. Park', 'age': 46, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1570075, 'exercisedValue': 769101, 'unexercisedValue': 3014843}, {'maxAge': 1, 'name': 'Mr. R. Stanton Dodge Esq.', 'age': 55, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1093550, 'exercisedValue': 0, 'unexercisedValue': 27312068}, {'maxAge': 1, 'name': 'Mr. Joseph  DeCristofaro', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Aguiar', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.861
+priceToSalesTrailing12Months§4.702573
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.27
+pegRatio§0.27
+exchange§NMS
+quoteType§EQUITY
+shortName§DraftKings Inc.
+longName§DraftKings Inc.
+firstTradeDateEpochUtc§1564061400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§47773a3f-6e82-3d25-9694-3fe1bef57bc7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§22.5
+targetMeanPrice§40.18
+targetMedianPrice§42.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§31
+quickRatio§0.745
+grossMargins§0.37351
+ebitdaMargins§-0.24181
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 09:27:41.871367
+address1§1007 Market Street
+city§Wilmington
+state§DE
+zip§19801
+country§United States
+phone§302 773 1000
+website§https://www.chemours.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§The Chemours Company provides performance chemicals in North America, the Asia Pacific, Europe, the Middle East, Africa, and Latin America. It operates through three segments: Titanium Technologies, Thermal & Specialized Solutions, and Advanced Performance Materials. The Titanium Technologies segment provides TiO2 pigment under the Ti-Pure brand for delivering whiteness, brightness, opacity, durability, efficiency, and protection in various of applications, such as architectural and industrial coatings, flexible and rigid plastic packaging, polyvinylchloride, laminate papers used for furniture and building materials, coated paper, and coated paperboard used for packaging. The Thermal & Specialized Solutions segment offers of refrigerants, thermal management solutions, propellants, foam blowing agents, and specialty solvents. The Advanced Performance Materials segment products portfolio includes various industrial resins, specialty products, membranes, and coatings for consumer electronics, semiconductors, digital communications, transportation, energy, oil and gas, and medical, and other applications. The company sells its products through direct and indirect channels, as well as through a network of resellers and distributors. The Chemours Company was incorporated in 2014 and is headquartered in Wilmington, Delaware.
+fullTimeEmployees§6600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark E. Newman', 'age': 60, 'title': 'CEO, President & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2165997, 'exercisedValue': 4768232, 'unexercisedValue': 6312825}, {'maxAge': 1, 'name': 'Ms. Denise M.  Dignam', 'age': 57, 'title': 'President of Titanium Technologies', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 977063, 'exercisedValue': 0, 'unexercisedValue': 130731}, {'maxAge': 1, 'name': 'Mr. Jonathan S. Lock', 'age': 42, 'title': 'Section 16 Officer, Senior VP & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Camela T. Wisel', 'age': 48, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  Ontjes', 'title': 'Vice President of FP&A and Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristine M. Wellman', 'age': 54, 'title': 'Senior VP, General Counsel & Company Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alvenia  Scarborough', 'age': 49, 'title': 'Senior VP of Corporate Communications & Chief Brand Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron  Charles', 'title': 'Senior Vice President of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew S. Abbott', 'age': 46, 'title': 'Senior VP & Chief Enterprise Transformation Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aditya  Beri', 'title': 'Interim President of Titanium Technologies & Chemical Solutions Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.032
+exDividendDate§1699920000
+payoutRatio§0.3145
+fiveYearAvgDividendYield§4.15
+beta§2.126
+priceToSalesTrailing12Months§0.77334124
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.73
+pegRatio§1.38
+exchange§NYQ
+quoteType§EQUITY
+shortName§Chemours Company (The)
+longName§The Chemours Company
+firstTradeDateEpochUtc§1434720600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aa53ca0b-650d-3d85-84f5-9fa156f7a2cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§26.0
+targetMeanPrice§33.22
+targetMedianPrice§31.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§0.77
+earningsGrowth§-0.914
+grossMargins§0.21003
+ebitdaMargins§0.035639998
+trailingPegRatio§None

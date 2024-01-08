@@ -1,0 +1,31 @@
+# reload+after+2024-01-23 03:38:27.949130
+address1§27-28 Eastcastle Street
+city§London
+zip§W1W 8DH
+country§United Kingdom
+phone§44 84 5607 0062
+website§https://www.i-nexus.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§i-nexus Global plc provides cloud-based strategy execution software that enables large organizations to deploy and execute strategy worldwide. It helps prioritize, align, and manage the projects and actions needed to meet these goals; and real time performance measurement to gauge results and drive continuous improvement. i-nexus Global plc was incorporated in 2018 and is headquartered in Coventry, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Simon  Crowther', 'age': 46, 'title': 'CEO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 195814, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Drew David Whibley', 'age': 33, 'title': 'CFO, Secretary & Director', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 132193, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Davies', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'totalPay': 9000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.906
+priceToSalesTrailing12Months§0.28501272
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§I-NEXUS GLOBAL PLC ORD 10P
+longName§i-nexus Global plc
+firstTradeDateEpochUtc§1529564400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§a075bb72-1780-35bc-bc3d-7fd3f8c08340
+recommendationKey§none
+quickRatio§0.505
+grossMargins§0.8032
+ebitdaMargins§-0.2336
+trailingPegRatio§None

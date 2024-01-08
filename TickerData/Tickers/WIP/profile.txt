@@ -1,0 +1,26 @@
+# reload+after+2024-01-23 12:34:23.764259
+longBusinessSummary§The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics. The index is designed to measure the total return performance of inflation-linked bonds outside the United States with fixed-rate coupon payments that are linked to an inflation index. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.0652
+totalAssets§445663328
+navPrice§41.24786
+currency§USD
+category§World Bond
+ytdReturn§-0.018836401
+beta3Year§1.42
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1205366400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0459829
+fiveYearAverageReturn§0.0007974
+exchange§PCX
+quoteType§ETF
+shortName§SPDR FTSE International Governm
+longName§SPDR FTSE International Government Inflation-Protected Bond ETF
+firstTradeDateEpochUtc§1205933400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§60f2bfea-ed0a-36ff-9864-e008e1e67a36
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

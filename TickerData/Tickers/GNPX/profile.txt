@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 04:45:04.310029
+address1§3300 Bee Cave Road
+address2§Suite 650-227
+city§Austin
+state§TX
+zip§78746
+country§United States
+phone§877 774 4679
+website§https://www.genprex.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Genprex, Inc., a clinical-stage gene therapy company, focuses on developing therapies for patients with cancer and diabetes. Its lead product candidate is REQORSA (GPX-001) that is in Phase 1/2 and 2 clinical trials to treat non-small cell lung cancer and small cell lung cancer. The company is also developing GPX-002 for the treatment of type 1 diabetes, and GPX-003 for the treatment of type 2 diabetes. Genprex, Inc. was incorporated in 2009 and is headquartered in Austin, Texas.
+fullTimeEmployees§31
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John Rodney Varner', 'age': 66, 'title': 'Co-Founder, Chairman, President & CEO', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 886974, 'exercisedValue': 0, 'unexercisedValue': 316330}, {'maxAge': 1, 'name': 'Mr. Ryan M. Confer M.S.', 'age': 41, 'title': 'Chief Financial Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 606572, 'exercisedValue': 0, 'unexercisedValue': 79084}, {'maxAge': 1, 'name': 'Ms. Catherine M. Vaczy Esq.', 'age': 62, 'title': 'Executive VP, General Counsel, Corporate Secretary & Chief Strategy Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 704935, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David M. Schloss', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas C. Gallagher Esq.', 'title': 'Senior Vice President of Intellectual Property & Licensing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark S. Berger M.D.', 'age': 68, 'title': 'Chief Medical Officer', 'yearBorn': 1955, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Suzanne  Thornton-Jones', 'title': 'Senior Vice President of Regulatory Affairs & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jack A. Roth F.A.C.S., M.D.', 'title': 'Chairman of Scientific & Medical Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-0.318
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.35
+exchange§NCM
+quoteType§EQUITY
+shortName§Genprex, Inc.
+longName§Genprex, Inc.
+firstTradeDateEpochUtc§1522330200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d506e914-dc7c-30af-b5b9-638e83c34981
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§8.0
+targetLowPrice§8.0
+targetMeanPrice§8.0
+targetMedianPrice§8.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§2.7
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

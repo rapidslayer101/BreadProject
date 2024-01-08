@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 07:38:42.467845
+address1§100 Grayston Drive
+address2§Sandown PO Box 785700
+city§Sandton
+zip§2196
+country§South Africa
+phone§27 11 286 7000
+fax§27 11 286 7966
+website§https://www.investec.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Investec Group provides various financial products and services in the United Kingdom, South Africa, and internationally. The company offers wealth and investment products and services, including portfolio management, wealth management, fund management, and custody related services; discretionary wealth management, financial planning, stockbroking, and investment advisory services for private clients, charities, and trusts. It also provides specialist banking products and services comprising private banking products, such as property finance, lending, savings, foreign exchange, private capital, life assurance and investment products, and transactional banking services; deposit raising, treasury solutions, and investment related activities; corporate and investment banking products, including lending, advisory, hedging, cash deposits and savings, and equity placement services to government, institutions, corporates, private equity, and intermediaries. Investec Group was founded in 1974 and is based in Sandton, South Africa.
+fullTimeEmployees§7400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Fani  Titi B.Sc., BSc (Hons), M.A., M.B.A.', 'age': 61, 'title': 'Group CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2019, 'totalPay': 3426000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nishlan Andre Samujh BAcc, CA(SA), Dip (Tax)', 'age': 49, 'title': 'Group Finance Director, CFO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hugo  Steyn', 'title': 'Head of SA Corporate Finance Business', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lyndon  Subroyen', 'title': 'Group Head of Digital & Technology', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lesley R. Penfold', 'title': 'Global Head of Share Schemes & Secretarial', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Setlogane  Manchidi', 'title': 'Head of Corporate Social Investment', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mrs. Kathryn  Farndell', 'title': 'Head of Compliance -South Africa', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent  Langlois', 'title': 'Head of Principal Investments - South Africa', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Spencer', 'title': 'Chief Operating Officer of The SA Specialist Banking Business', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Kerr', 'title': 'Head of Risk South Africa', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§6
+shareHolderRightsRisk§10
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1577750400
+maxAge§86400
+priceHint§2
+dividendRate§0.33
+dividendYield§0.063
+exDividendDate§1701907200
+payoutRatio§0.42209998
+fiveYearAvgDividendYield§6.23
+beta§1.12
+priceToSalesTrailing12Months§1.5172092
+currency§GBp
+forwardEps§74.93
+pegRatio§1.83
+exchange§LSE
+quoteType§EQUITY
+shortName§INVESTEC PLC ORD GBP0.0002
+longName§Investec Group
+firstTradeDateEpochUtc§1027321200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d0aab319-eb28-3c93-a3ee-b15f6d80e28c
+targetHighPrice§645.7
+targetLowPrice§530.0
+targetMeanPrice§586.14
+targetMedianPrice§590.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§0.37
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

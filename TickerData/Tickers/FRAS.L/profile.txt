@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 21:37:56.208879
+address1§Brook Park East
+address2§Unit A
+city§Shirebrook
+zip§NG20 8RY
+country§United Kingdom
+phone§44 34 4245 9200
+website§https://www.frasers.group
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§Frasers Group Plc, together with its subsidiaries, retails sports and leisure clothing, footwear, equipment, accessories, and apparel through department stores, shops, and online in the United Kingdom, Europe, the United States, Asia, Oceania, and internationally. The company operates through four segments: UK Sports Retail, Premium Lifestyle, International Retail, and Wholesale & Licensing. It is also involved in the wholesale distribution and sale of sports and leisure clothing, footwear, equipment, and apparel; and licensing activities. The company offers its products under its own and third party brands, which include Slazenger, Everlast, Lonsdale, Karrimor, 18montrose, Evans Cycles, Flannels, Frasers, Game, House of Fraser, Jack Wills, Sofa.com, Sports Direct, USC, Cruise, and van mildert. The company was formerly known as Sports Direct International plc and changed its name to Frasers Group Plc in December 2019. Frasers Group Plc was founded in 1982 and is headquartered in Shirebrook, the United Kingdom. Frasers Group plc operates as a subsidiary of MASH Holdings Limited.
+fullTimeEmployees§32000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael  Murray', 'age': 34, 'title': 'CEO & Executive Director', 'yearBorn': 1989, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Stuart Wootton', 'age': 43, 'title': 'CFO & Executive Director', 'yearBorn': 1980, 'fiscalYear': 2023, 'totalPay': 251000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Al-Mudallal', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas James Piper', 'title': 'Head of Legal', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beckie  Stanion', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hans  Gysel', 'age': 61, 'title': 'Head of European Retail', 'yearBorn': 1962, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Nevitt', 'age': 53, 'title': 'Chief Commercial Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Epstein', 'title': 'Managing Director of Premium & Luxury', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ger  Wright', 'title': 'Managing Director of Sports', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katie  Smith', 'title': 'Financial Controller of UK Group', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§5
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1273622400
+payoutRatio§0.0
+beta§1.834
+priceToSalesTrailing12Months§0.72463804
+currency§GBp
+forwardEps§95.86
+pegRatio§0.28
+exchange§LSE
+quoteType§EQUITY
+shortName§FRASERS GROUP PLC ORD 10P
+longName§Frasers Group Plc
+firstTradeDateEpochUtc§1028098800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§e7f3084f-ad7d-3123-a3bf-1ad59905cbb6
+targetHighPrice§1100.0
+targetLowPrice§550.0
+targetMeanPrice§899.17
+targetMedianPrice§980.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.587
+earningsGrowth§0.293
+grossMargins§0.43515998
+ebitdaMargins§0.12408
+trailingPegRatio§None

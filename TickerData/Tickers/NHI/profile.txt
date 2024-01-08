@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 00:31:41.453971
+address1§222 Robert Rose Drive
+city§Murfreesboro
+state§TN
+zip§37129-6346
+country§United States
+phone§615 890 9100
+fax§615 225 3030
+website§https://www.nhireit.com
+industry§REIT—Healthcare Facilities
+sector§Real Estate
+longBusinessSummary§Incorporated in 1991, National Health Investors, Inc. (NYSE:NHI) is a real estate investment trust specializing in sale, leasebacks, joint-ventures, senior housing operating partnerships, and mortgage and mezzanine financing of need-driven and discretionary senior housing and medical investments. NHI's portfolio consists of independent living, assisted living and memory care communities, entrance-fee retirement communities, skilled nursing facilities, and specialty hospitals.
+fullTimeEmployees§25
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. D. Eric Mendelsohn', 'age': 61, 'title': 'President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1206880, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John L. Spaid', 'age': 63, 'title': 'Executive VP of Finance, CFO & Treasurer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 699150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Carlton Pascoe', 'age': 42, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 456858, 'exercisedValue': 235762, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Louis Travis', 'age': 48, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 484150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin Sallee Gaines', 'age': 51, 'title': 'Senior VP & Chief Transaction Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 564938, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dana Rolfson Hambly', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kimberly  Ouimet', 'title': 'Director of Corporate Compliance & Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle R. Kelly', 'title': 'Senior Vice President of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Susan V. Sidwell', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Colleen  Schaller', 'title': 'Real Estate Transaction Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§6
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.6
+dividendYield§0.0678
+exDividendDate§1703721600
+payoutRatio§1.4754
+fiveYearAvgDividendYield§6.37
+beta§0.959
+priceToSalesTrailing12Months§7.4052343
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.73
+pegRatio§0.63
+exchange§NYQ
+quoteType§EQUITY
+shortName§National Health Investors, Inc.
+longName§National Health Investors, Inc.
+firstTradeDateEpochUtc§687015000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8ed2529-4c7f-36a7-a45e-c4fab5041e81
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§54.0
+targetMeanPrice§56.0
+targetMedianPrice§55.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§6
+quickRatio§0.889
+earningsGrowth§-0.141
+grossMargins§0.96472
+ebitdaMargins§0.77218
+trailingPegRatio§None

@@ -1,0 +1,33 @@
+# reload+after+2024-01-22 00:41:05.519868
+address1§Holborn Gate
+address2§First Floor 330 Holborn
+city§London
+zip§WC1V 7QT
+country§United Kingdom
+phone§44 2071 297 903
+website§https://verditek.com
+industry§Solar
+sector§Technology
+longBusinessSummary§Verditek PLC operates as a clean technology company in the United Kingdom, Italy, and rest of Europe. It manufactures and commercializes solar technologies, and lightweight flexible solar panels. The company's solar modules are used in various applications, such as transportation, real estate, consumer retail, and telecom sectors, as well as in caravans and holiday homes, solar carports and electric vehicle charging, and hotel, safari, glamping, and corporate events; and military, disaster relief, and construction camps. The company was incorporated in 2016 and is based in London, the United Kingdom.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert James Richards', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 152037, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George Francis Katzaros', 'age': 58, 'title': 'Founder & Non-Executive Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 25000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vicki  Johnson', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark F. Magnacca', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura  Azpilicueta', 'title': 'Chief Sales Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.173
+priceToSalesTrailing12Months§2.133641
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§VERDITEK PLC ORD GBP0.0004
+longName§Verditek PLC
+firstTradeDateEpochUtc§1502348400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f0d68efd-64a9-3e23-8dd6-90044d9dd7c3
+recommendationKey§none
+quickRatio§0.66
+grossMargins§-0.48372
+ebitdaMargins§0.0
+trailingPegRatio§None

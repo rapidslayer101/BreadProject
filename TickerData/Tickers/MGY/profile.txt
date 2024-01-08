@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 06:31:18.642789
+address1§Nine Greenway Plaza
+address2§Suite 1300
+city§Houston
+state§TX
+zip§77046
+country§United States
+phone§713 842 9050
+website§https://www.magnoliaoilgas.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Magnolia Oil & Gas Corporation engages in the acquisition, development, exploration, and production of oil, natural gas, and natural gas liquids reserves in the United States. Its properties are located primarily in Karnes County and the Giddings area in South Texas principally comprising the Eagle Ford Shale and the Austin Chalk formation. The company was incorporated in 2017 and is headquartered in Houston, Texas.
+fullTimeEmployees§213
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher G. Stavros', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1664969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Michael Corales CPA', 'age': 43, 'title': 'Senior VP, CFO and Principal Accounting & Financial Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 708741, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  F. Millican', 'age': 47, 'title': 'Senior Vice President of Operations', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 792835, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy D. Yang', 'age': 51, 'title': 'Executive Vice President, General Counsel, Corporate Secretary & Land', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1173538, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jim  Johnson', 'title': 'Vice President of Finance, IR & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.46
+dividendYield§0.0219
+exDividendDate§1699401600
+payoutRatio§0.16420001
+beta§2.005
+priceToSalesTrailing12Months§3.4739795
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.36
+pegRatio§-0.98
+exchange§NYQ
+quoteType§EQUITY
+shortName§Magnolia Oil & Gas Corporation
+longName§Magnolia Oil & Gas Corporation
+firstTradeDateEpochUtc§1498743000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f8fad6a0-98ef-37bb-880d-89a60ee7d7f4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§31.0
+targetLowPrice§18.0
+targetMeanPrice§25.21
+targetMedianPrice§24.25
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§2.651
+earningsGrowth§-0.581
+grossMargins§0.84269
+ebitdaMargins§0.72292
+trailingPegRatio§None

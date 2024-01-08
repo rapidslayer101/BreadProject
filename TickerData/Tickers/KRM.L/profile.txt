@@ -1,0 +1,32 @@
+# reload+after+2024-01-20 03:39:27.277018
+address1§5 Ireland Yard
+city§London
+zip§EC4V 5EH
+country§United Kingdom
+phone§44 203 740 3900
+website§https://www.krm22.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§KRM22 Plc, together with its subsidiaries, develops and sells risk management software to the financial services industry in the United Kingdom, Europe, the United States, and internationally. The company offers Risk Cockpit, a digital risk register that brings risk policies and operational controls; and Market Surveillance that offers analytics and contextual market surveillance tools to help capital market firms to identify and manage the potential risks of market abuse; MARIA, a custom risk scoring system that allow to create internal metrics on customers performance. It also provides Post-Trade solution, which creates custom risk views for risk calculations performed and deliver maximum risk value. Further, it provides At-Trade Risk, which offers P&L, margin, and position management in real-time; and Pre-Trade solution, which helps to combat time consuming and error prone processes by maintaining, auditing, and approving trading limits in one centralized application. KRM22 Plc was founded in 2017 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§45
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Keith Todd CBE, MA', 'age': 69, 'title': 'Executive Chairman', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 73000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Douglas Casner', 'age': 63, 'title': 'CEO & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 244000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kim M. Suter', 'age': 42, 'title': 'CFO, Company Secretary & Executive Director', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 173000, 'exercisedValue': 0, 'unexercisedValue': 7732}, {'maxAge': 1, 'name': 'Mr. Libor  Soucek', 'age': 52, 'title': 'Chief Technology Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Billy  Murray', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Carol  Tarpey', 'title': 'Financial Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§-0.057
+priceToSalesTrailing12Months§2.3548281
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§KRM22 PLC ORD 10P
+longName§KRM22 Plc
+firstTradeDateEpochUtc§1525071600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bece2548-dcdc-33d2-b85f-9d502e6a4a64
+recommendationKey§none
+quickRatio§0.494
+grossMargins§0.76315004
+ebitdaMargins§-0.82561
+trailingPegRatio§None

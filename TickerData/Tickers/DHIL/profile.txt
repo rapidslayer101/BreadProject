@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 00:44:23.330970
+address1§325 John H. McConnell Boulevard
+address2§Suite 200
+city§Columbus
+state§OH
+zip§43215
+country§United States
+phone§614 255 3333
+fax§614 255 3363
+website§https://www.diamond-hill.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Diamond Hill Investment Group, Inc., through its subsidiary, Diamond Hill Capital Management, Inc., provides investment advisory and fund administration services in the United States. It sponsors, distributes, and offers investment advisory and related services to its clients through pooled investment vehicles, including the Diamond Hill Funds, separately managed accounts, and model delivery programs. The company also provides fund administration services, including portfolio and regulatory compliance, treasury and financial oversight, and general business management and governance of the mutual fund complex, as well as oversight of back-office service providers, such as the custodian, fund accountant, and transfer agent. Diamond Hill Investment Group, Inc. was founded in 1990 and is based in Columbus, Ohio.
+fullTimeEmployees§129
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Heather Elizabeth Brilliant C.F.A.', 'age': 46, 'title': 'CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 2349171, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Edward Line CPA', 'age': 56, 'title': 'CFO & Treasurer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 918100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jo Ann Quinif', 'age': 47, 'title': 'President & Chief Client Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew J. Stadelman C.F.A.', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary Richard Young', 'age': 53, 'title': 'MD of Administration & Chief Compliance Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carlotta D. King', 'title': 'General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan  Stuart CFA', 'title': 'Head of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lara  Hoffmans C.F.A.', 'title': 'Managing Director of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anna  Corona', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Cook CPA', 'age': 42, 'title': 'Controller', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§6.0
+dividendYield§0.0375
+exDividendDate§1700784000
+payoutRatio§0.41439998
+beta§0.923
+priceToSalesTrailing12Months§3.3432565
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Diamond Hill Investment Group, 
+longName§Diamond Hill Investment Group, Inc.
+firstTradeDateEpochUtc§834067800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a47e02cc-de01-305f-b9f6-a3df64d082ec
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§2.148
+earningsGrowth§-0.436
+grossMargins§0.44419998
+ebitdaMargins§0.30008
+trailingPegRatio§None

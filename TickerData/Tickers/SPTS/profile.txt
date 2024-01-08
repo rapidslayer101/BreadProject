@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 21:33:23.890758
+longBusinessSummary§The fund invests at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of short term (1-3 years) public obligations of the U.S. Treasury.
+maxAge§86400
+priceHint§2
+yield§0.0361
+totalAssets§5581024768
+navPrice§28.98554
+currency§USD
+category§Short Government
+ytdReturn§-0.0017212001
+beta3Year§0.24
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1322611200
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0019584
+fiveYearAverageReturn§0.011978101
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Portfolio Short Term Treas
+longName§SPDR Portfolio Short Term Treasury ETF
+firstTradeDateEpochUtc§1322749800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ff336ce5-bee8-3e2c-951d-b35bc1d231eb
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 07:44:29.893929
+address1§350 Camino De La Reina
+address2§Suite 100
+city§San Diego
+state§CA
+zip§92108
+country§United States
+phone§877 445 4581
+website§https://www.encorecapital.com
+industry§Mortgage Finance
+sector§Financial Services
+longBusinessSummary§Encore Capital Group, Inc., a specialty finance company, provides debt recovery solutions and other related services for consumers across financial assets worldwide. The company purchases portfolios of defaulted consumer receivables at deep discounts to face value, as well as manages them by working with individuals as they repay their obligations and works toward financial recovery. It is also involved in the provision of early stage collection, business process outsourcing, and contingent collection services, as well as debt servicing and other portfolio management services to credit originator for non-performing loans. Encore Capital Group, Inc. was incorporated in 1999 and is headquartered in San Diego, California.
+fullTimeEmployees§6900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ashish  Masih', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1540385, 'exercisedValue': 183804, 'unexercisedValue': 446582}, {'maxAge': 1, 'name': 'Mr. Jonathan C. Clark', 'age': 64, 'title': 'Executive VP, Principal Accounting Officer, CFO & Treasurer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 1108482, 'exercisedValue': 0, 'unexercisedValue': 707073}, {'maxAge': 1, 'name': 'Mr. Andrew E. Asch', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 583029, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan B. Bell', 'age': 44, 'title': 'President of Midland Credit Management', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 893106, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Monique  Dumais-Chrisope', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Thomas', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Carmichael', 'title': 'Senior VP and Chief Risk & Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Faryar  Borhani', 'title': 'Senior Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Ting', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheryl  Wright', 'title': 'Senior Vice President of Corporate & Government Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§5
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.459
+priceToSalesTrailing12Months§0.9899941
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.59
+pegRatio§0.99
+exchange§NMS
+quoteType§EQUITY
+shortName§Encore Capital Group Inc
+longName§Encore Capital Group, Inc.
+firstTradeDateEpochUtc§931527000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f7e06ec9-f5a9-3a62-a54a-1d011531bd40
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§56.0
+targetLowPrice§52.0
+targetMeanPrice§54.33
+targetMedianPrice§55.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§14.014
+earningsGrowth§-0.352
+grossMargins§1.0
+ebitdaMargins§0.23434
+trailingPegRatio§None

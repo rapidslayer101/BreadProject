@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 06:46:50.711012
+address1§919 East Hillsdale Boulevard
+address2§4th Floor
+city§Foster City
+state§CA
+zip§94404
+country§United States
+phone§650 801 6100
+fax§650 801 6101
+website§https://www.qualys.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Qualys, Inc. provides cloud-based information technology (IT), security, and compliance solutions in the United States and internationally. The company offers Qualys Cloud Apps, which includes Vulnerability Management; Vulnerability Management, Detection and Response; Threat Protection; Continuous Monitoring; Patch Management; Multi-Vector Endpoint Detection and Response; Certificate Assessment; SaaS Detection and Response; Secure Enterprise Mobility; Custom Assessment and Remediation; Context Extended Detection and Response; Network Detection and Response; Policy Compliance; Security Configuration Assessment; PCI Compliance; File Integrity Monitoring; Security Assessment Questionnaire; Out of-Band Configuration Assessment; Web Application Scanning; Web Application Firewall; Global Asset Inventory; Cybersecurity Asset Management; Certificate Inventory; Cloud Inventory; Cloud Security Assessment; and Container Security. Its integrated suite of IT, security, and compliance solutions delivered on its Qualys Cloud Platform enables customers to identify and manage IT assets, collect, and analyze IT security data, discover, and prioritize vulnerabilities, recommend, and implement remediation actions, and verify the implementation of such actions. The company also provides asset tagging and management, reporting and dashboards, questionnaires and collaboration, remediation and workflow, big data correlation and analytics engine, and alerts and notifications, which enable integrated workflows, management and real-time analysis, and reporting across IT, security, and compliance solutions. The company offers its solutions through its sales teams, as well as through its network of channel partners, such as security consulting organizations, managed service providers, resellers, and consulting firms. It serves enterprises, government entities, and small and medium-sized businesses in various industries, including education, financial services, government, healthcare, insurance, manufacturing, media, retail, technology, and utilities. The company was incorporated in 1999 and is headquartered in Foster City, California.
+fullTimeEmployees§2155
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sumedh S. Thakar', 'age': 47, 'title': 'President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1031246, 'exercisedValue': 8389454, 'unexercisedValue': 20180498}, {'maxAge': 1, 'name': 'Ms. Joo Mi  Kim', 'title': 'CFO & Principal Accounting Officer', 'fiscalYear': 2022, 'totalPay': 603582, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce K. Posey', 'age': 71, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 533821, 'exercisedValue': 4223969, 'unexercisedValue': 2626101}, {'maxAge': 1, 'name': 'Mr. Nicolas  Chaillan', 'age': 39, 'title': 'Federal Chief Technology Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ishpreet  Singh', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Blair  King', 'title': 'Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tami  Casey', 'title': 'Director of Global Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rima Touma Bruno', 'title': 'Chief Human Resource Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Trull', 'title': 'Chief Information Security Officer & Senior VP for Security Solution Architecture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dilip  Bachwani', 'title': 'CTO & Senior VP of Enterprise TruRisk Platform', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.586
+priceToSalesTrailing12Months§12.26553
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.29
+pegRatio§4.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Qualys, Inc.
+longName§Qualys, Inc.
+firstTradeDateEpochUtc§1348839000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1707a6fa-0cd2-3a8a-8ace-0b9504bbf4e8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§230.0
+targetLowPrice§114.0
+targetMeanPrice§161.0
+targetMedianPrice§152.5
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§16
+quickRatio§1.433
+earningsGrowth§0.746
+grossMargins§0.80008006
+ebitdaMargins§0.33706
+trailingPegRatio§2.0534

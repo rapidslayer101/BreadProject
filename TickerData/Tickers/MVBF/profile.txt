@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 10:46:08.656992
+address1§301 Virginia Avenue
+city§Fairmont
+state§WV
+zip§26554
+country§United States
+phone§304 363 4800
+website§https://www.mvbbanking.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§MVB Financial Corp., through its subsidiaries, provides financial services to individuals and corporate clients. The company operates through five segments: CoRe Banking, Mortgage Banking, Professional Services, Edge Ventures, and The Financial Holding Company. It offers various demand deposit accounts, savings accounts, money market accounts, and certificates of deposit; and commercial, consumer, and real estate mortgage loans, as well as lines of credit. The company also provides debit cards; cashier's checks; safe deposit rental facilities; and non-deposit investment services, as well as financial technology (Fintech) banking services. In addition, it offers title insurance; and integrated regulatory compliance, state licensing, financial crimes prevention, and enterprise risk management services that include consulting, outsourcing, testing, and training solutions. Further, the company offers a customizable suite of fraud prevention services for merchants, credit agencies, Fintech companies, and other vendors; and consulting for the development of online and mobile banking platforms, and digital products for Fintech companies, as well as develops software. It operates full-service branches in West Virginia and Virginia. MVB Financial Corp. was founded in 1997 and is based in Fairmont, West Virginia.
+fullTimeEmployees§477
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Larry F. Mazza CPA', 'age': 62, 'title': 'CEO & Non-Independent Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 915742, 'exercisedValue': 161243, 'unexercisedValue': 1728025}, {'maxAge': 1, 'name': 'Mr. Donald T. Robinson', 'age': 48, 'title': 'CFO, President & Treasurer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 553630, 'exercisedValue': 288827, 'unexercisedValue': 1578490}, {'maxAge': 1, 'name': 'Mr. Craig Bradley Greathouse', 'age': 51, 'title': 'Executive VP & Chief Administration Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 381598, 'exercisedValue': 0, 'unexercisedValue': 80564}, {'maxAge': 1, 'name': 'Mr. John C. Marion', 'age': 54, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 378269, 'exercisedValue': 0, 'unexercisedValue': 34400}, {'maxAge': 1, 'name': 'Patrick  Runge', 'title': 'Senior VP & CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Louis Giorgio', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa J. McCormick', 'title': 'Corporate Secretary/ Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Baker', 'title': 'Vice President of Corporate Communications & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric L. Tichenor', 'age': 55, 'title': 'Treasurer of MVB Bank Inc', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 103566, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John T. Schirripa', 'age': 61, 'title': 'Chief Commercial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 506535, 'exercisedValue': 0, 'unexercisedValue': 3157870}]
+auditRisk§6
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.68
+dividendYield§0.0297
+exDividendDate§1701302400
+payoutRatio§0.382
+fiveYearAvgDividendYield§1.8
+beta§0.938
+priceToSalesTrailing12Months§1.9156368
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.1
+exchange§NCM
+quoteType§EQUITY
+shortName§MVB Financial Corp.
+longName§MVB Financial Corp.
+firstTradeDateEpochUtc§1344000600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9320750d-dafb-3b79-8de8-2c6d7b9fa31e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§26.0
+targetMeanPrice§27.88
+targetMedianPrice§27.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§0.342
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

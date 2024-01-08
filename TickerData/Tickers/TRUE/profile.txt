@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:47:38.641249
+address1§1401 Ocean Avenue
+address2§Suite 200
+city§Santa Monica
+state§CA
+zip§90401
+country§United States
+phone§800 200 2000
+website§https://www.truecar.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§TrueCar, Inc. operates as an internet-based information, technology, and communication services company in the United States. It operates its platform on the TrueCar website and mobile applications. Its platform enables users to obtain market-based pricing data on new and used cars, and to connect with its network of TrueCar certified dealers. The company also offers forecast and consulting services regarding determination of the residual value of an automobile at given future points in time, which are used to underwrite automotive loans and leases, and by financial institutions to measure exposure and risk across loan, lease, and fleet portfolios. In addition, it provides TrueCar Trade, which gives consumers information on the value of their trade-in vehicles and enables them to obtain a guaranteed trade-in price before setting foot in the dealership; and DealerScience that provides dealers with advanced digital retailing software tools. The company was formerly known as Zag.com Inc. TrueCar, Inc. was incorporated in 2005 and is headquartered in Santa Monica, California.
+fullTimeEmployees§441
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jantoon E. Reigersman', 'age': 41, 'title': 'President & CEO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 619657, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey J. Swart', 'age': 55, 'title': 'Executive VP, Secretary & General Counsel', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 561245, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Foley', 'age': 39, 'title': 'Chief Financial Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Angel', 'title': 'Chief People Officer & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Zaineb  Bokhari', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay  Nieman', 'title': 'Head of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Green', 'title': 'Senior Vice President of Major Accounts', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay  Ku', 'title': 'Chief Revenue Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§6
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.614
+priceToSalesTrailing12Months§1.8794339
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.03
+pegRatio§-0.21
+exchange§NMS
+quoteType§EQUITY
+shortName§TrueCar, Inc.
+longName§TrueCar, Inc.
+firstTradeDateEpochUtc§1400247000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c0d83f0b-82a6-330d-a881-1e69e6d95c61
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.5
+targetLowPrice§2.3
+targetMeanPrice§3.27
+targetMedianPrice§3.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§4.703
+grossMargins§0.90299004
+ebitdaMargins§-0.38998002
+trailingPegRatio§None

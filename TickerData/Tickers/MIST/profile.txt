@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 22:46:02.221656
+address1§1111 Dr. Frederik-Philips Boulevard
+address2§Suite 420
+city§Montreal
+state§QC
+zip§H4M 2X6
+country§Canada
+phone§514 336 0444
+website§https://www.milestonepharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Milestone Pharmaceuticals Inc., a biopharmaceutical company, focuses on the development and commercialization of cardiovascular medicines. The company's lead product candidate is etripamil, a novel and potent calcium channel blocker, which is in Phase III clinical trial for the treatment of paroxysmal supraventricular tachycardia in the United States and Canada; and Phase II clinical trial for the treatment of atrial fibrillation and rapid ventricular rate. Milestone Pharmaceuticals Inc. has a license and collaboration agreement with Ji Xing Pharmaceuticals to develop and commercialize etripamil prophylactic and therapeutic uses in humans. The company was incorporated in 2003 and is headquartered in Montréal, Canada.
+fullTimeEmployees§39
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph G. Oliveto M.B.A.', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 905712, 'exercisedValue': 0, 'unexercisedValue': 1270320}, {'maxAge': 1, 'name': 'Mr. Amit  Hasija', 'age': 50, 'title': 'CFO & Executive VP of Corporate Development', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 603181, 'exercisedValue': 0, 'unexercisedValue': 25300}, {'maxAge': 1, 'name': 'Dr. David B. Bharucha FACC, M.D., Ph.D.', 'age': 61, 'title': 'Chief Medical Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 440674, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Philippe  Douville M.B.A., Ph.D.', 'age': 61, 'title': 'Founder, Strategic Advisor & Member of Scientific Advisory Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Nelson', 'age': 42, 'title': 'Chief Operating Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kim  Fox', 'title': 'Vice President of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roshan  Girglani', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Philip T. Sager FACC, FAHA, FHRS, M.D.', 'age': 67, 'title': 'Chief Medical Advisor & Member of the Scientific Advisory Board', 'yearBorn': 1956, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Guy  Rousseau', 'title': 'SVP of Regulatory Affairs and Quality Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anita  Holz', 'title': 'VP & Head of Medical Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.778
+priceToSalesTrailing12Months§12.797985
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.62
+exchange§NMS
+quoteType§EQUITY
+shortName§Milestone Pharmaceuticals Inc.
+longName§Milestone Pharmaceuticals Inc.
+firstTradeDateEpochUtc§1557408600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fef8fa0a-f2b8-346f-8ec3-172c3e402265
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.0
+targetLowPrice§3.0
+targetMeanPrice§10.8
+targetMedianPrice§9.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§9.593
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

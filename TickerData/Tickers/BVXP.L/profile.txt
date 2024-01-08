@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 12:35:46.472195
+address1§7 Romans Business Park
+address2§East Street
+city§Farnham
+zip§GU9 7SX
+country§United Kingdom
+phone§44 12 5272 8001
+fax§44 12 5272 8002
+website§https://www.bioventix.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Bioventix PLC creates, manufactures, and supplies sheep monoclonal antibodies (SMAs) for diagnostic applications worldwide. The company offers a portfolio of purified SMAs for thyroid, vitamin D, cardiac, drugs of abuse, fertility, oncology, and miscellaneous indications; and Pyrene (HOP-G) ELISA kit to monitor human exposure to industrial pollutants. It also provides contract SMAs and recombinant services. Bioventix PLC was incorporated in 2003 and is based in Farnham, the United Kingdom.
+fullTimeEmployees§12
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter John Harrison MA', 'age': 65, 'title': 'CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 281633, 'exercisedValue': 0, 'unexercisedValue': 130100}, {'maxAge': 1, 'name': 'Mr. Bruce Edward Heath Hiscock', 'age': 65, 'title': 'CFO & Director', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 95991, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.52
+dividendYield§0.0347
+exDividendDate§1699488000
+payoutRatio§0.8592
+fiveYearAvgDividendYield§2.62
+beta§0.396
+priceToSalesTrailing12Months§17.818048
+currency§GBp
+forwardEps§180.1
+lastDividendValue§90.0
+lastDividendDate§1699488000
+exchange§LSE
+quoteType§EQUITY
+shortName§BIOVENTIX PLC ORD 5P
+longName§Bioventix PLC
+firstTradeDateEpochUtc§1398754800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3bce0cd0-5096-3a30-943d-df35acaa81a1
+messageBoardId§finmb_23782495
+targetHighPrice§4400.0
+targetLowPrice§4400.0
+targetMeanPrice§4400.0
+targetMedianPrice§4400.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§5.74
+earningsGrowth§-0.02
+grossMargins§0.93536
+ebitdaMargins§0.79581
+trailingPegRatio§None

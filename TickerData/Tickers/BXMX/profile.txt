@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 10:27:36.598573
+address1§333 West Wacker Drive
+city§Chicago
+state§IL
+zip§60606-1220
+country§United States
+phone§312 917 7700
+website§https://www.nuveen.com/CEF/Product/Overview.aspx?FundCode=BXMX
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Nuveen S&P 500 Buy-Write Income Fund is a closed-ended equity indexed mutual fund launched by Nuveen Investments, Inc. It is co-managed by Nuveen Fund Advisors LLC and Gateway Investment Advisers, LLC. The fund invests in the public equity markets of the United States. It seeks to invest in stocks of companies operating across diversified sectors. The fund also invests through index call options. It seeks to replicate the performance of the S&P 500 Index by investing in proportion to their weighting in the index. The fund was formerly known as Nuveen Equity Premium Income Fund. Nuveen S&P 500 Buy-Write Income Fund was formed on July 23, 2004 and domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Thomas Buckius C.F.A., CFA', 'age': 54, 'title': 'Portfolio Manager', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth Howard Toft C.F.A., CFA', 'age': 57, 'title': 'Portfolio Manager', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel Mitchell Ashcraft C.F.A., CFA', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.95
+dividendYield§0.0743
+exDividendDate§1702512000
+payoutRatio§0.47779998
+fiveYearAvgDividendYield§7.07
+beta§0.907
+priceToSalesTrailing12Months§56.262558
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Nuveen S&P 500 Buy-Write Income
+longName§Nuveen S&P 500 Buy-Write Income Fund
+firstTradeDateEpochUtc§1098883800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a68e08a2-36a1-3d5a-bfa1-1e482c6484b8
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.273
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

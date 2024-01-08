@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 13:27:51.299670
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240242/blackrock-enhanced-capital-and-income-fund-inc-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Enhanced Capital and Income Fund, Inc. is a closed ended equity mutual fund launched by BlackRock, Inc. The fund is managed by BlackRock Advisors, LLC. It invests in public equity markets across the globe. The fund seeks to invest in securities of companies operating across diversified sectors. It also invests through derivatives, with an emphasis on writing call options. The fund was formerly known as Capital & Income Strategies Fund, Inc. BlackRock Enhanced Capital and Income Fund, Inc. was formed on April 30, 2004 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle G. McClements C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Accettella', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Burnside M.B.A.', 'age': 48, 'title': 'Portfolio Manager', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.19
+dividendYield§0.0642
+exDividendDate§1704931200
+payoutRatio§0.42040002
+fiveYearAvgDividendYield§6.2
+beta§1.014
+priceToSalesTrailing12Months§79.0989
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Capital and Income Fu
+longName§BlackRock Enhanced Capital and Income Fund, Inc.
+firstTradeDateEpochUtc§1085578200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bb22d759-7d47-3f30-9212-57929c489d46
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.037
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

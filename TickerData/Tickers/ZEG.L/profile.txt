@@ -1,0 +1,39 @@
+# reload+after+2024-01-23 01:41:35.216798
+address1§8 Sackville Street
+address2§Mayfair
+city§London
+zip§W1S 3DG
+country§United Kingdom
+website§https://www.zegona.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Zegona Communications plc engages in investing in telecommunications, media, and technology businesses in Europe. The company was incorporated in 2015 and is based in London, the United Kingdom.
+fullTimeEmployees§6
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Eamonn  Francis O'Hare", 'age': 60, 'title': 'Founder, Executive Chairman & CEO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 710854, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert W. Samuelson', 'age': 57, 'title': 'Founder, COO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 536309, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard S. Kalika', 'age': 64, 'title': 'Founder & Investment Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dean  Checkley', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Menno  Kremer', 'title': 'Investment Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1625097600
+payoutRatio§0.0
+fiveYearAvgDividendYield§4.72
+beta§2.553
+currency§GBp
+forwardEps§-0.49
+exchange§LSE
+quoteType§EQUITY
+shortName§ZEGONA COMMUNICATIONS PLC
+longName§Zegona Communications plc
+firstTradeDateEpochUtc§1426752000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§473ccccf-77a9-33bf-a2de-963e5c32b1d5
+targetHighPrice§0.9
+targetLowPrice§0.9
+targetMeanPrice§0.9
+targetMedianPrice§0.9
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§13.171
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

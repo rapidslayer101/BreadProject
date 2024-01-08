@@ -1,0 +1,44 @@
+# reload+after+2024-01-21 18:45:15.113810
+address1§350 Fifth Avenue
+address2§72nd Floor Suite 7240
+city§New York
+state§NY
+zip§10118
+country§United States
+phone§431 890 6360
+website§https://www.hookipapharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§HOOKIPA Pharma Inc., a clinical stage biopharmaceutical company, develops immunotherapeutics targeting infectious diseases and cancers based on its proprietary arenavirus platform. The company's lead infectious disease product candidate is HB-101, which is in a randomized double-blinded Phase II clinical trial in patients awaiting kidney transplantation from cytomegalovirus-positive donors. Its lead oncology product candidates are HB-201 and HB-202 that are in Phase I/II clinical trial for the treatment of human papillomavirus 16-positive cancers. The company's preclinical stage products include HB-300 program for prostate cancer; and HB-700 for targeting mutated KRAS in pancreatic, colorectal, and lung cancer. HOOKIPA Pharma Inc. has a collaboration with Gilead Sciences, Inc. to collaborate on preclinical research programs to evaluate potential vaccine products using or incorporating its replicating and non-replicating technology platforms for the treatment, cure, diagnosis, or prevention of Hepatitis B Virus. The company was incorporated in 2011 and is headquartered in New York, New York.
+fullTimeEmployees§156
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joern  Aldag', 'age': 64, 'title': 'CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 549338, 'exercisedValue': 0, 'unexercisedValue': 281055}, {'maxAge': 1, 'name': 'Dr. Reinhard  Kandera Ph.D.', 'age': 54, 'title': 'CFO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 468305, 'exercisedValue': 0, 'unexercisedValue': 77565}, {'maxAge': 1, 'name': 'Ms. Christine D. Baker M.B.A.', 'age': 58, 'title': 'Executive Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 610520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Rolf M. Zinkernagel M.D., Ph.D.', 'age': 79, 'title': 'Co-Founder', 'yearBorn': 1944, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andreas  Bergthaler', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lukas  Flatz', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Roman  Necina Ph.D.', 'age': 55, 'title': 'Chief Operations Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Klaus  Orlinger Ph.D.', 'age': 45, 'title': 'Chief Scientific Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew L. S. Beck', 'title': 'Executive Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Szumera', 'title': 'Executive Director of Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.978
+priceToSalesTrailing12Months§3.5877235
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.72
+pegRatio§-0.06
+exchange§NMS
+quoteType§EQUITY
+shortName§HOOKIPA Pharma Inc.
+longName§HOOKIPA Pharma Inc.
+firstTradeDateEpochUtc§1555594200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4fc7c674-d2aa-3bcd-a128-4deb756f8490
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§3.0
+targetMeanPrice§5.08
+targetMedianPrice§5.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.222
+grossMargins§-2.96224
+ebitdaMargins§0.0
+trailingPegRatio§None

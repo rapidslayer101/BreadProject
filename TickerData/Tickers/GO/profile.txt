@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 20:45:04.542953
+address1§5650 Hollis Street
+city§EmeryVille
+state§CA
+zip§94608
+country§United States
+phone§510 845 1999
+website§https://www.groceryoutlet.com
+industry§Grocery Stores
+sector§Consumer Defensive
+longBusinessSummary§Grocery Outlet Holding Corp. engages in ownership and operation of a network of independently operated stores in the United States. The company's stores offer products in various categories, such as dairy and deli, produce, floral, and fresh meat and seafood products, as well as grocery, general merchandise, health and beauty care, frozen foods, and beer and wine. Grocery Outlet Holding Corp. was founded in 1946 and is headquartered in Emeryville, California.
+fullTimeEmployees§864
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Joseph Sheedy Jr.', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1315417, 'exercisedValue': 5768337, 'unexercisedValue': 263673}, {'maxAge': 1, 'name': 'Mr. Charles C. Bracher', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1099649, 'exercisedValue': 4558516, 'unexercisedValue': 3080533}, {'maxAge': 1, 'name': 'Ms. Pamela B. Burke', 'age': 55, 'title': 'Chief Stores Officer & Executive VP', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 918607, 'exercisedValue': 2391169, 'unexercisedValue': 923676}, {'maxAge': 1, 'name': 'Mr. Steven K. Wilson', 'age': 59, 'title': 'Executive VP & Chief Purchasing Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 746295, 'exercisedValue': 1624331, 'unexercisedValue': 724628}, {'maxAge': 1, 'name': 'Ms. Lindsay E. Gray', 'title': 'Senior Vice President of Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harrison  Lewis', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arvind  Bhatia', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Luke D. Thompson', 'age': 51, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jon  Decker', 'title': 'Senior Vice President of Stores, Sales & Merchandising', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alejandro Alvarez Correa', 'title': 'Senior VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.078
+priceToSalesTrailing12Months§0.6727163
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.14
+pegRatio§2.17
+exchange§NMS
+quoteType§EQUITY
+shortName§Grocery Outlet Holding Corp.
+longName§Grocery Outlet Holding Corp.
+firstTradeDateEpochUtc§1561037400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3d6954dd-72e5-3b90-95d2-a6e6546058f8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.0
+targetLowPrice§20.0
+targetMeanPrice§31.58
+targetMedianPrice§30.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.462
+earningsGrowth§0.588
+grossMargins§0.313
+ebitdaMargins§0.05474
+trailingPegRatio§None

@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 03:34:25.802995
+address1§1021 West Hastings Street
+address2§Suite 3500
+city§Vancouver
+state§BC
+zip§V6E 0C3
+country§Canada
+phone§604-684-9648
+fax§604-684-3123
+website§https://www.wheatonpm.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§Wheaton Precious Metals Corp. primarily sells precious metals in North America, Europe, and South America. It produces and sells gold, silver, palladium, and cobalt deposits. The company was formerly known as Silver Wheaton Corp. and changed its name to Wheaton Precious Metals Corp. in May 10, 2017. Wheaton Precious Metals Corp. was founded in 2004 and is headquartered in Vancouver, Canada.
+fullTimeEmployees§42
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Randy V. J. Smallwood P.Eng.', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2108255, 'exercisedValue': 2696938, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary D. Brown CA, CFA', 'age': 56, 'title': 'Senior VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 954546, 'exercisedValue': 2008679, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Curt Domenico Bernardi', 'age': 55, 'title': 'Senior VP of Legal & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 975778, 'exercisedValue': 975599, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Haytham Henry Hodaly', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'totalPay': 964863, 'exercisedValue': 1189142, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick Eugene Drouin', 'title': 'President of Wheaton International & Chief Sustainability Officer', 'fiscalYear': 2022, 'totalPay': 647503, 'exercisedValue': 684651, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Burns M.Sc., P.Geo.', 'title': 'Vice President of Technical Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emma  Murray', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Simona  Antolak', 'title': 'Vice President of Communications & Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nikola  Tatarkin', 'title': 'President of Wheaton Precious Metals International Ltd', 'fiscalYear': 2022, 'totalPay': 596587, 'exercisedValue': 894339, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamie  Beirnes', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.6
+dividendYield§0.0126
+exDividendDate§1701043200
+payoutRatio§0.508
+fiveYearAvgDividendYield§1.31
+beta§0.601
+priceToSalesTrailing12Months§22.999678
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.26
+pegRatio§8.9
+exchange§NYQ
+quoteType§EQUITY
+shortName§Wheaton Precious Metals Corp
+longName§Wheaton Precious Metals Corp.
+firstTradeDateEpochUtc§1120656600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a3a55a3a-b624-3b7a-9e91-381349c43bb2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§69.0
+targetLowPrice§47.0
+targetMeanPrice§56.8
+targetMedianPrice§56.14
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§38.622
+earningsGrowth§-0.408
+grossMargins§0.76333
+ebitdaMargins§0.69745004
+trailingPegRatio§None

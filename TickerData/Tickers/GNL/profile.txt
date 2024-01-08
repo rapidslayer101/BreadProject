@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 13:29:55.521565
+address1§650 Fifth Avenue
+address2§30th Floor
+city§New York
+state§NY
+zip§10019-6108
+country§United States
+phone§212 415 6500
+fax§212 421 5799
+website§https://www.globalnetlease.com
+industry§REIT—Diversified
+sector§Real Estate
+longBusinessSummary§Global Net Lease, Inc. (NYSE: GNL) is a publicly traded real estate investment trust listed on the NYSE focused on acquiring a diversified global portfolio of commercial properties, with an emphasis on sale-leaseback transactions involving single tenant, mission critical income producing net-leased assets across the United States, Western and Northern Europe.
+fullTimeEmployees§1
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward Michael Weil Jr.', 'age': 56, 'title': 'Co-CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Larry Nelson', 'age': 73, 'title': 'Co-CEO & Director', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 52445, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Masterson CPA', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 67449, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesse  Galloway', 'title': 'Executive VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ori  Kravel', 'title': 'Senior Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Slear', 'title': 'Executive Vice President of Acquisitions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqui  Shimmin', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Wagstaff', 'title': 'Vice President of Asset Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.42
+dividendYield§0.14479999
+exDividendDate§1704931200
+payoutRatio§12.4333
+fiveYearAvgDividendYield§11.66
+beta§1.334
+priceToSalesTrailing12Months§5.6604786
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§Global Net Lease, Inc.
+longName§Global Net Lease, Inc.
+firstTradeDateEpochUtc§1433251800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e592f0cc-fa1a-301e-8103-b7d0f6a176f1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§8.0
+targetMeanPrice§12.13
+targetMedianPrice§12.75
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.784
+grossMargins§0.67800003
+ebitdaMargins§0.5653
+trailingPegRatio§None

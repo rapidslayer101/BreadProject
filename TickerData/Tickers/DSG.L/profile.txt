@@ -1,0 +1,48 @@
+# reload+after+2024-01-20 22:36:06.646676
+address1§Chineham Business Park
+address2§12 Cedarwood Crockford Lane
+city§Basingstoke
+zip§RG24 8WD
+country§United Kingdom
+phone§44 20 7749 6100
+fax§44 20 7729 6108
+website§https://www.dillistonegroup.com
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Dillistone Group Plc provides technology solutions and services in the United Kingdom, Europe, the Americas, Australia, and internationally. It offers FileFinder, a solution for executive search firms; GatedTalent, a platform that connects executives and recruiters; ISV.online that offers online skills testing, working with recruiters, consultancies, and employers; and Talentis Global, a next generation executive search, recruiting, and candidate sourcing platform. The company also offers Voyager, which includes Voyager Infinity that streamlines the recruitment processes for various types of permanent, contract, and temporary positions; and Voyager Mid-Office, an automated way of managing placements, processing timesheets, raising invoices, paying staff, and updating accounts packages. It serves recruitment, staffing, and executive search businesses, as well as corporate talent acquisition teams. The company was founded in 1983 and is headquartered in Basingstoke, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason Stuart Starr', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 140000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian John Mackin', 'age': 50, 'title': 'Finance Director, Financial Controller, Secretary & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 75994, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Brian Mather', 'age': 46, 'title': 'COO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 113000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Warburton', 'age': 46, 'title': 'CTO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 113000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Thomas Hammond', 'age': 40, 'title': 'Chief Engineering Officer & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 110000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1528934400
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.96
+beta§0.587
+priceToSalesTrailing12Months§0.4311645
+currency§GBp
+forwardEps§0.7
+lastDividendValue§0.5
+lastDividendDate§1528934400
+exchange§LSE
+quoteType§EQUITY
+shortName§DILLISTONE GROUP PLC ORD 5P
+longName§Dillistone Group Plc
+firstTradeDateEpochUtc§1150354800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§82f90e50-c646-3074-9b4b-0ff1265cb174
+messageBoardId§finmb_27546958
+targetHighPrice§20.0
+targetLowPrice§20.0
+targetMeanPrice§20.0
+targetMedianPrice§20.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.379
+grossMargins§0.86373
+ebitdaMargins§0.19186
+trailingPegRatio§None

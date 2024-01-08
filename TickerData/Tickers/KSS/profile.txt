@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 07:30:59.160496
+address1§N56 W17000 Ridgewood Drive
+city§Menomonee Falls
+state§WI
+zip§53051
+country§United States
+phone§262 703 7000
+website§https://www.Kohls.com
+industry§Department Stores
+sector§Consumer Cyclical
+longBusinessSummary§Kohl's Corporation operates as a omnichannel retailer in the United States. It offers branded apparel, footwear, accessories, beauty, and home products through its stores and website. The company provides its products primarily under the brand names of Croft & Barrow, Jumping Beans, SO, Sonoma Goods for Life, and Sonoma Goods for Life, as well as Food Network, LC Lauren Conrad, Nine West, and Simply Vera Vera Wang. Kohl's Corporation was founded in 1988 and is headquartered in Menomonee Falls, Wisconsin.
+fullTimeEmployees§97000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas A. Kingsbury', 'age': 70, 'title': 'CEO & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 752453, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill  Timm', 'age': 49, 'title': 'Senior EVP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 969588, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Siobhan Catherine McFeeney', 'age': 51, 'title': 'Senior EVP & Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 660910, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christie  Raymond', 'age': 53, 'title': 'Senior EVP & Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 693385, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Andrew Rupe', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer J. Kent', 'age': 51, 'title': 'Senior EVP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mari  Steinmetz', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle A. Banks', 'age': 59, 'title': 'Chief Diversity, Equity & Inclusion Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron  Murray', 'title': 'Interim Chief Merchandising Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas David George Jones', 'title': 'Chief Merchandising & Digital Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0756
+exDividendDate§1701734400
+payoutRatio§0.42169997
+fiveYearAvgDividendYield§5.69
+beta§1.962
+priceToSalesTrailing12Months§0.16689807
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.69
+pegRatio§-0.6
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kohl's Corporation
+longName§Kohl's Corporation
+firstTradeDateEpochUtc§706282200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e2f43810-0384-3696-9e73-3c01eadedcc6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.0
+targetLowPrice§15.0
+targetMeanPrice§24.36
+targetMedianPrice§24.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§0.046
+earningsGrowth§-0.354
+grossMargins§0.36815
+ebitdaMargins§0.05131
+trailingPegRatio§None

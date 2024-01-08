@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 02:43:46.691175
+address1§131 Clarendon Street
+city§Boston
+state§MA
+zip§02116
+country§United States
+phone§617 425 4600
+website§https://www.brooklinebancorp.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Brookline Bancorp, Inc. operates as a bank holding company for the Brookline Bank that provide commercial, business, and retail banking services to corporate, municipal, and retail customers in the United States. Its deposit products include demand checking, NOW, money market, and savings accounts. The company's loan portfolio primarily comprises first mortgage loans secured by commercial, multi-family, and residential real estate properties; loans to business entities comprising commercial lines of credit; loans to condominium associations; loans and leases used to finance equipment for small businesses; financing for construction and development projects; and home equity and other consumer loans. It also provides term loans, letters of credit, foreign exchange, cash management, investment advisory, and online and mobile banking services, as well as invests in debt and equity securities. Brookline Bancorp, Inc. was founded in 1871 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§813
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul A. Perrault', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 1886264, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. McCurdy Esq.', 'age': 54, 'title': 'Co-President & COO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1031527, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Carl M. Carlson', 'age': 59, 'title': 'Co-President & Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 949452, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James M. Cosman', 'age': 72, 'title': 'Chief Operations Officer', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 738459, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darryl J. Fess', 'age': 61, 'title': 'President, CEO & Director of Brookline Bank', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 827883, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marissa S. Martin', 'age': 40, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janytra M. Brooks', 'age': 40, 'title': 'Chief Human Resources Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Meiklejohn', 'age': 59, 'title': 'Chief Credit Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 616436, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael P. Goldrick', 'age': 58, 'title': 'President & CEO of PCSB Bank', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Fanger', 'age': 65, 'title': 'CEO of Eastern Funding LLC, President of Eastern Funding LLC and Director of Eastern Funding LLC', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 538466, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§3
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.54
+dividendYield§0.0508
+exDividendDate§1699488000
+payoutRatio§0.5567
+fiveYearAvgDividendYield§3.83
+beta§0.79
+priceToSalesTrailing12Months§2.8740406
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.97
+pegRatio§2.13
+exchange§NMS
+quoteType§EQUITY
+shortName§Brookline Bancorp, Inc.
+longName§Brookline Bancorp, Inc.
+firstTradeDateEpochUtc§890836200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ac7b33d1-2768-34ed-8aa4-18acb9509f4e
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§9.5
+targetMeanPrice§10.9
+targetMedianPrice§11.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§5
+earningsGrowth§-0.344
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

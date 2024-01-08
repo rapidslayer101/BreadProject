@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 20:43:41.981859
+address1§3920 Arkwright Road
+address2§2nd Floor
+city§Macon
+state§GA
+zip§31210
+country§United States
+phone§478 822 2801
+website§https://www.blue-bird.com
+industry§Auto Manufacturers
+sector§Consumer Cyclical
+longBusinessSummary§Blue Bird Corporation, together with its subsidiaries, designs, engineers, manufactures, and sells school buses in the United States, Canada, and internationally. The company operates through two segments, Bus and Parts. It offers Type C, Type D, and specialty buses; and alternative power options through its propane powered, gasoline powered, compressed natural gas powered, and electric powered school buses, as well as diesel engines. The company also sells replacement bus parts; and provides financing services and extended warranties related to its products. Blue Bird Corporation sells its products through drop ship fulfillment and a network of dealers, as well as directly to fleet operators, the United States government, and state governments; independent service centers; and maintains a parts distribution center. The company was formerly known as Hennessy Capital Acquisition Corp and changed its name to Blue Bird Corporation. Blue Bird Corporation was founded in 1927 and is headquartered in Macon, Georgia.
+fullTimeEmployees§1829
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Philip  Horlock', 'age': 67, 'title': 'CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 606020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Razvan  Radulescu', 'age': 48, 'title': 'CFO, Principal Financial & Principal Accounting Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 736480, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ted M. Scartz', 'age': 42, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 371563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Britton  Smith', 'title': 'President & Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark R. Benfield', 'title': 'Executive Director of Profitability & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Nelles', 'title': 'Senior Vice President of Global Supply Chain Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vijay  Boova', 'title': 'Senior Vice President of  Lean Transformation & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Sanfrey', 'title': 'Senior Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Craig  West', 'title': 'Vice President \x96 Corporate Controller & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Boule', 'title': 'President & CEO of Micro Bird', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§6
+compensationRisk§5
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.304
+priceToSalesTrailing12Months§0.70645756
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.35
+pegRatio§0.1
+exchange§NGM
+quoteType§EQUITY
+shortName§Blue Bird Corporation
+longName§Blue Bird Corporation
+firstTradeDateEpochUtc§1395322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§26078841-045f-30f6-bd97-11c50c20bb6c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§38.0
+targetLowPrice§25.0
+targetMeanPrice§30.7
+targetMedianPrice§30.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.399
+grossMargins§0.12257
+ebitdaMargins§0.057490002
+trailingPegRatio§None

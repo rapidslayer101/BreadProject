@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 17:46:32.419425
+address1§150 West 30th Street
+address2§Suite 500
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 600 9272
+website§https://www.payoneer.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Payoneer Global Inc. operates a payment and commerce-enabling platform worldwide. It delivers a suite of services that includes cross-border payments, B2B accounts payable/accounts receivable, multi-currency account, physical and virtual Mastercard cards, working capital, merchant, tax, compliance and risk, and others. The company's platform delivers bank-grade security, stability, and redundancy. Its cross-border payment solutions support to pay and get paid quickly. The company serves approximately 190 countries and territories. Payoneer Global Inc. was founded in 2005 and is based in New York, New York.
+fullTimeEmployees§2336
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John R. Caplan', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 742202, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arnon  Kraft', 'age': 49, 'title': 'Chief Operating Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 650965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tsafi Erlich Goldman', 'age': 57, 'title': 'Chief Legal & Regulatory Officer and Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 772200, 'exercisedValue': 0, 'unexercisedValue': 2094496}, {'maxAge': 1, 'name': 'Mr. Scott H. Galit', 'age': 53, 'title': 'Senior Advisor & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 962200, 'exercisedValue': 0, 'unexercisedValue': 25579998}, {'maxAge': 1, 'name': 'Mr. Assaf  Ronen', 'age': 49, 'title': 'Advisor', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 592007, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beatrice  Ordonez', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Itai  Perry', 'title': 'Senior VP of Finance & Principal Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarit  Frumkes', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michelle  Wang', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Micheal  Sheehy', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§0.811
+currency§USD
+exchange§NGM
+quoteType§EQUITY
+shortName§Payoneer Global Inc. Warrant
+longName§Payoneer Global Inc.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1fcee58e-6fee-339e-bd36-65416b5fecbd
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.085
+grossMargins§0.85277003
+ebitdaMargins§0.10406
+trailingPegRatio§None

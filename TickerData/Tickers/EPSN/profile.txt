@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 11:44:35.150094
+address1§500 Dallas Street
+address2§Suite 1250
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§281 670 0002
+fax§281 668 0985
+website§https://www.epsilonenergyltd.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Epsilon Energy Ltd., a natural gas and oil company, engages in the acquisition, development, gathering, and production of natural oil and gas reserves in the United States. The company operates through Upstream and Gathering System segments. It has natural gas production in the Marcellus Shale in Pennsylvania; and oil, natural gas liquids, and natural gas production in the Anadarko Basin in Oklahoma. The company was incorporated in 2005 and is based in Houston, Texas.
+fullTimeEmployees§9
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jason P. Stabell', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 400000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Andrew Williamson', 'age': 34, 'title': 'Chief Financial Officer', 'yearBorn': 1989, 'fiscalYear': 2022, 'totalPay': 305000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry Nelson Clanton', 'age': 60, 'title': 'Chief Operating Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 379500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shannon  Lemke', 'title': 'Vice President of Exploration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.25
+dividendYield§0.0509
+exDividendDate§1702512000
+payoutRatio§0.42369998
+beta§0.35
+priceToSalesTrailing12Months§2.9106457
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.59
+exchange§NGM
+quoteType§EQUITY
+shortName§Epsilon Energy Ltd.
+longName§Epsilon Energy Ltd.
+firstTradeDateEpochUtc§1195137000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b9bea8bf-da09-32a7-9f6b-486763c4771c
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§6.777
+earningsGrowth§-0.957
+grossMargins§0.77718
+ebitdaMargins§0.64919
+trailingPegRatio§None

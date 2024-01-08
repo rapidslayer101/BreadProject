@@ -1,0 +1,48 @@
+# reload+after+2024-01-22 00:31:03.409749
+address1§921 chemin de la RiviEre-du-Nord
+city§Saint-Jérôme
+state§QC
+zip§J7Y 5G2
+country§Canada
+phone§450 432 5466
+website§https://thelionelectric.com/en
+industry§Farm & Heavy Construction Machinery
+sector§Industrials
+longBusinessSummary§The Lion Electric Company designs, develops, manufactures, and distributes purpose-built all-electric medium and heavy-duty urban vehicles in North America. The company's products include battery systems, chassis, bus bodies, and truck cabins. It also distributes truck and bus parts, as well as accessories. The Lion Electric Company was incorporated in 2008 and is based in Saint-Jérôme, Canada.
+fullTimeEmployees§1500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marc  Bedard', 'age': 59, 'title': 'Founder, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 685308, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas  Brunet', 'age': 41, 'title': 'President', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 441316, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yannick  Poulin', 'age': 41, 'title': 'Chief Operating Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 304934, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Coulombe', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francois  Beaulieu', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabelle  Adjahi', 'title': 'Vice President of Investor Relations & Sustainable Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dominique  Perron', 'title': 'Chief Legal Officer & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominik  Beckman', 'title': 'Vice President of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Maxime  Gauvin', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nathalie  Giroux', 'age': 47, 'title': 'Chief People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 250869, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§6
+compensationRisk§9
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.677
+priceToSalesTrailing12Months§1.6452326
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.3
+exchange§NYQ
+quoteType§EQUITY
+shortName§The Lion Electric Company
+longName§The Lion Electric Company
+firstTradeDateEpochUtc§1602163800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9c9d3373-44a0-35d9-a6d4-9af22f13fa22
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§7.0
+targetLowPrice§2.0
+targetMeanPrice§3.5
+targetMedianPrice§2.75
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.068
+grossMargins§-0.0051599997
+ebitdaMargins§-0.23753999
+trailingPegRatio§None

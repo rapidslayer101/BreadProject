@@ -1,0 +1,33 @@
+# reload+after+2024-01-22 00:40:42.715524
+address1§24 Dublin Street
+city§Croydon
+zip§EH1 3PP
+country§United Kingdom
+website§https://www.tialis.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. Its cloud and hosting services include co-location, private, public, and hybrid cloud, DR and business continuity, and cloud migration; network and connectivity service includes cloud connectivity, multi-protocol label switching, local and wide area network, and distributed denial of service protection services; collaboration services comprise hosted telephony and unified communication; managed services include remote infrastructure management, tech bars and on-site resources, field and smart hands, threat protection, and professional services; and device management services comprise procurement, configuration and integration, deployment, management, and retirement services. The company was formerly known as IDE Group Holdings plc and changed its name to Tialis Essential IT PLC in November 2022. Tialis Essential IT PLC was founded in 2005 and is based in Edinburgh, the United Kingdom.
+fullTimeEmployees§191
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew George Parker', 'age': 54, 'title': 'Executive Chairman', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 53333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Ian Smith', 'age': 59, 'title': 'Executive Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 221000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Dobbie', 'age': 64, 'title': 'Co-Founder', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 20000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1401840000
+payoutRatio§0.0
+beta§-0.049
+priceToSalesTrailing12Months§0.77751034
+currency§GBp
+forwardEps§20.0
+exchange§LSE
+quoteType§EQUITY
+shortName§TIALIS ESSENTIAL IT PLC ORD 1P
+longName§Tialis Essential IT PLC
+firstTradeDateEpochUtc§1277881200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d463d38a-770b-34c9-beb6-3416098003dd
+recommendationKey§none
+quickRatio§1.011
+grossMargins§0.32152998
+ebitdaMargins§0.11929
+trailingPegRatio§None

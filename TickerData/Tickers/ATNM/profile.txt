@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 14:26:53.695580
+address1§275 Madison Avenue
+address2§7th Floor
+city§New York
+state§NY
+zip§10016
+country§United States
+phone§646 677 3870
+website§https://www.actiniumpharma.com
+industry§Biotechnology
+industryKey§biotechnology
+industryDisp§Biotechnology
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Actinium Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, develops targeted radiotherapies to deliver cancer-killing radiation to treat patients with high unmet medical needs. Its lead product candidate, I-131 apamistamab (Iomab-B) that is in a pivotal Phase III clinical trial for elderly relapsed or refractory acute myeloid leukemia trial for bone marrow transplant conditioning; and a Phase I study with a CD19- targeted CAR T-cell therapy with memorial sloan kettering cancer center. The company also offers clinical and preclinical development programs that utilize multiple isotopes, including Actinium-225, Iodine-131, and Lutetium-177 directed at multiple targets in oncology and hematology, including CD45, CD33, HER3, and other. It has collaboration with Astellas Pharma, Inc. to develop theranostics for solid tumor indications; EpicentRx, Inc that focuses on a novel CD47 immunotherapy targeted radiotherapy; and AVEO Oncology that focuses on developing a HER3 targeting ARC for solid tumors. The company is based in New York, New York.
+fullTimeEmployees§49
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sandesh C. Seth M.B.A., M.S.', 'age': 59, 'title': 'Chairman & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1145000, 'exercisedValue': 0, 'unexercisedValue': 1133900}, {'maxAge': 1, 'name': "Mr. Steven  O'Loughlin BS", 'age': 37, 'title': 'CFO & Corporate Secretary', 'yearBorn': 1986, 'fiscalYear': 2022, 'totalPay': 585000, 'exercisedValue': 0, 'unexercisedValue': 370734}, {'maxAge': 1, 'name': 'Dr. Paul  Diamond Esq., Ph.D.', 'title': 'Vice President of Patent & Legal Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David  Gould', 'title': 'Senior Vice President of Corporate Development & Corporate Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bernie  Cunningham P.M.P., Ph.D.', 'title': 'Executive Director of Clinical Supply Chain & Logistics and CMC Project Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Qing  Liang', 'title': 'VP & Head of Radiation Sciences', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Avinash  Desai M.D.', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenny  Hsieh', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sunitha  Lakshminarayanan', 'title': 'Senior VP, Head of CMC & Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elaina  Haeuber', 'title': 'VP & Head of Clinical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.051
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.9
+exchange§ASE
+quoteType§EQUITY
+shortName§Actinium Pharmaceuticals, Inc. 
+longName§Actinium Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1356618600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§45c3a99a-9523-3f0f-ae76-8cfe4623774f
+messageBoardId§finmb_7845787
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§9.8
+targetMeanPrice§23.47
+targetMedianPrice§20.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§9.568
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

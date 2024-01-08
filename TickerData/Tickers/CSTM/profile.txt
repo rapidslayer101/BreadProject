@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 17:28:13.965468
+address1§Washington Plaza
+address2§40-44 Rue Washington
+city§Paris
+zip§75008
+country§France
+phone§33 1 73 01 46 00
+website§https://www.constellium.com
+industry§Aluminum
+sector§Basic Materials
+longBusinessSummary§Constellium SE, together with its subsidiaries, engages in the design, manufacture, and sale of specialty rolled and extruded aluminum products for the packaging, aerospace, automotive, other transportation and industrial end-markets. The company operates through three segments: Packaging & Automotive Rolled Products, Aerospace & Transportation, and Automotive Structures & Industry. The Packaging & Automotive Rolled Products segment produces rolled aluminum products, including can stock and closure stock for the beverage and food industry, as well as foil stock for the flexible packaging market. It also supplies automotive body sheets and heat exchangers for the automotive market; and specialty reflective sheets. The Aerospace & Transportation segment provides rolled aluminum products, including aerospace plates, sheets, and extrusions; and aerospace wing skins, as well as plates and sheets for use in transportation, industry, and defense applications. The Automotive Structures & Industry segment offers extruded products and technologically advanced structures for the automotive industry, including crash-management systems, body structures, side impact beams, and battery enclosures; and hard and soft alloy extruded profiles for various industry applications in the automotive, engineering, rail, and other transportation end markets. This segment also provides downstream technology and services, which include pre-machining, surface treatment, research and development, and technical support services. The company sells its products directly or through distributors in France, Germany, the Czech Republic, the United Kingdom, Switzerland, and the United States, as well as Shanghai, and Seoul. Constellium SE was incorporated in 2010 and is headquartered in Paris, France.
+fullTimeEmployees§10800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jean-Marc  Germain', 'age': 56, 'title': 'CEO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 3458528, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack  Guo', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ludovic  Piquier', 'age': 50, 'title': 'Senior VP of Manufacturing Excellence & Chief Technical Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vittorio  Rossetti', 'age': 58, 'title': 'Senior VP, Chief Information Officer & Chief Digital Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Leach', 'age': 61, 'title': 'Senior VP, Group General Counsel & Secretary', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicolas  Brun', 'age': 57, 'title': 'Senior Vice President of Public Affairs, Communications & Sustainability', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Ryan Jurkovic', 'age': 51, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Basten', 'age': 47, 'title': 'President of Packaging & Automotive Rolled Products Business Unit', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ingrid  Joerg', 'age': 54, 'title': 'President of Aerospace & Transportation Business Unit', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Clark', 'age': 63, 'title': 'Senior VP & Advisor to the CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.022
+priceToSalesTrailing12Months§0.36478972
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.12
+pegRatio§-4.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§Constellium SE
+longName§Constellium SE
+firstTradeDateEpochUtc§1369315800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fe382186-13e2-382c-bcc8-9c76eb9b6827
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§25.08
+targetLowPrice§21.07
+targetMeanPrice§23.68
+targetMedianPrice§24.08
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.538
+earningsGrowth§-0.511
+grossMargins§0.08554
+ebitdaMargins§0.06961
+trailingPegRatio§None

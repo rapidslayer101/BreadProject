@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 06:47:19.767287
+address1§168 Centennial Parkway
+address2§Suite 200
+city§Louisville
+state§CO
+zip§80027
+country§United States
+phone§720 316 1225
+website§https://www.sovosbrands.com
+industry§Packaged Foods
+sector§Consumer Defensive
+longBusinessSummary§Sovos Brands, Inc., through its subsidiaries, operates as a consumer-packaged food company that manufactures and distributes consumer food products in the United States. The company operates in two segments, Dinner and Sauces, and Breakfast and Snacks. It provides pasta sauces, dry pasta, soups, frozen entrees, frozen pizza, yogurts, pancake and waffle mixes, other baking mixes, and frozen waffles under the Rao's, Michael Angelo's, noosa, and Birch Benders brands. The company sells its products principally to retail outlets and wholesale distributors, including traditional supermarkets, mass merchants, warehouse clubs, wholesalers, specialty food distributors, military commissaries, and non-food outlets, such as drug store chains, dollar stores, and e-commerce retailers. Sovos Brands, Inc. was incorporated in 2017 and is headquartered in Louisville, Colorado.
+fullTimeEmployees§690
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Todd R. Lachman', 'age': 60, 'title': 'Founder, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2706943, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. E. Yuri Hermida', 'age': 49, 'title': 'President', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 691547, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk A. Jensen', 'age': 48, 'title': 'Chief Operating Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 983747, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher W. Hall', 'age': 61, 'title': 'Chief Financial Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 721541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Lisa Y. O'Driscoll", 'age': 48, 'title': 'Chief Administrative Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joshua  Levine', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isobel A. Jones Esq.', 'age': 56, 'title': 'Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Risa  Cretella', 'age': 42, 'title': 'Chief Sales Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katie J. Gvazdinskas', 'age': 43, 'title': 'Chief Human Resources Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lance  Byers', 'title': 'Senior Vice President of Logistics & Customer Service', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.01
+priceToSalesTrailing12Months§2.2545147
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.85
+pegRatio§1.49
+exchange§NMS
+quoteType§EQUITY
+shortName§Sovos Brands, Inc.
+longName§Sovos Brands, Inc.
+firstTradeDateEpochUtc§1632403800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§075773bb-3ec8-3665-a14e-b2bb1a0e88a3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§21.0
+targetMeanPrice§22.78
+targetMedianPrice§23.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§9
+quickRatio§2.362
+earningsGrowth§0.0
+grossMargins§0.29751
+ebitdaMargins§0.17859
+trailingPegRatio§None

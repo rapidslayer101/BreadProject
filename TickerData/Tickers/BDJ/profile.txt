@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 09:27:10.897154
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240225/blackrock-enhanced-equity-dividend-trust-usd-fund
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§BlackRock Enhanced Equity Dividend Trust is a closed-ended equity mutual fund launched by BlackRock, Inc. The fund is managed by BlackRock Advisors, LLC. It invests in the public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in dividend paying stocks of companies across all market capitalizations. The fund also invests through derivatives, with an emphasis on option writing. It benchmarks the performance of its portfolio against the Russell 1000 Value Index. The fund was formerly known as BlackRock Enhanced Dividend Achievers TM Trust. BlackRock Enhanced Equity Dividend Trust was formed on August 31, 2005 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle G. McClements C.F.A.', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kathleen M. Anderson', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antonio  DeSpirito III', 'age': 55, 'title': 'Portfolio Manager', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher M. Accettella', 'title': 'Portfolio Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Franco  Tapia C.F.A.', 'age': 45, 'title': 'Managing Director', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Zhao', 'age': 42, 'title': 'Managing Director', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.67
+dividendYield§0.0858
+exDividendDate§1704931200
+payoutRatio§0.98330003
+fiveYearAvgDividendYield§7.7
+beta§1.038
+priceToSalesTrailing12Months§32.45526
+currency§USD
+dateShortInterest§1702598400
+lastDividendValue§0.111
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Enhanced Equity Divid
+longName§BlackRock Enhanced Equity Dividend Trust
+firstTradeDateEpochUtc§1125408600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b2492290-5eef-37d5-bfaf-f28e1c9e152f
+messageBoardId§finmb_23004366
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.137
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

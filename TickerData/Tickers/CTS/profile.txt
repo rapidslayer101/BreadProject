@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 11:28:19.232764
+address1§4925 Indiana Avenue
+city§Lisle
+state§IL
+zip§60532
+country§United States
+phone§630 577 8800
+website§https://www.ctscorp.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§CTS Corporation manufactures and sells sensors, actuators, and connectivity components in North America, Europe, and Asia. The company provides sensors and actuators for use in passenger or commercial vehicles; connectivity components for telecommunications infrastructure, information technology, and other high-speed applications; switches, temperature sensors, and potentiometers supplied to multiple markets; and fabricated piezoelectric materials and substrates used primarily in medical, industrial, aerospace and defense, and information technology markets. In addition, the company sells and markets its products through its sales engineers, independent manufacturers' representatives, and distributors. CTS Corporation was founded in 1896 and is headquartered in Lisle, Illinois.
+fullTimeEmployees§4209
+companyOfficers§[{'maxAge': 1, 'name': "Mr. Kieran M. O'Sullivan", 'age': 61, 'title': 'Chairman, President & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2251443, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ashish  Agrawal', 'age': 52, 'title': 'VP & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 888116, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Scott L. D'Angelo", 'age': 52, 'title': 'VP, General Counsel & Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 696710, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Baumeister', 'age': 56, 'title': 'Senior Vice President', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 512650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Edward Murray', 'age': 52, 'title': 'Senior Vice President', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 531936, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Michael White', 'age': 37, 'title': 'Corporate Controller & Principal Accounting Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mitchell J. Walorski', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.16
+dividendYield§0.0038
+exDividendDate§1703721600
+payoutRatio§0.0842
+fiveYearAvgDividendYield§0.49
+beta§0.626
+priceToSalesTrailing12Months§2.336813
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.32
+pegRatio§1.73
+exchange§NYQ
+quoteType§EQUITY
+shortName§CTS Corporation
+longName§CTS Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e16433ff-d3ad-3248-b0ce-2608a95c3c76
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§38.0
+targetMeanPrice§42.33
+targetMedianPrice§39.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§2.429
+earningsGrowth§0.189
+grossMargins§0.35706002
+ebitdaMargins§0.20959999
+trailingPegRatio§None

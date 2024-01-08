@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 17:43:41.539714
+address1§17021 Aldine Westfield Road
+city§Houston
+state§TX
+zip§77073-5101
+country§United States
+phone§713 439 8600
+website§https://www.bakerhughes.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Baker Hughes Company provides a portfolio of technologies and services to energy and industrial value chain worldwide. It operates through two segments: Oilfield Services & Equipment (OFSE) and Industrial & Energy Technology (IET). The OFSE segment designs and manufactures products and provides related services, including exploration, appraisal, development, production, rejuvenation, and decommissioning for onshore and offshore oilfield operations. This segment also provides drilling services, drill bits, and drilling and completions fluids; completions, intervention, measurements, pressure pumping, and wireline services; artificial lift systems, and oilfield and industrial chemicals; subsea projects and services, flexible pipe systems, and surface pressure control systems; and integrated well services and solutions. It serves oil and natural gas companies; the United States and international independent oil and natural gas companies; national or state-owned oil companies; engineering, procurement, and construction contractors; geothermal companies; and other oilfield service companies. The IET segment designs, manufactures, tests, and installs gas technology equipment, including drivers, driven equipment, flow control, and turnkey solutions for the mechanical-drive, compression, and power-generation applications; and gas technology services, such as advanced solutions, spare parts, specialized field service engineers, and repair services. This segment also provides rack-based vibration monitoring equipment and sensors; integrated asset performance management products; inspection services; pumps, valves, and gears; precision sensors and instrumentation, and controls. It serves upstream, midstream, downstream, onshore, offshore, and small and large scale customers. The company was formerly known as Baker Hughes, a GE company and changed its name to Baker Hughes Company in October 2019. Baker Hughes Company was incorporated in 2016 and is based in Houston, Texas.
+fullTimeEmployees§57000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lorenzo  Simonelli', 'age': 50, 'title': 'Chairman, President & CEO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 4035326, 'exercisedValue': 0, 'unexercisedValue': 2313578}, {'maxAge': 1, 'name': 'Ms. Nancy K. Buese CPA', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 2141784, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maria Claudia Borras', 'age': 54, 'title': 'Executive Vice President of Oilfield Services & Equipment', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1870609, 'exercisedValue': 333487, 'unexercisedValue': 385546}, {'maxAge': 1, 'name': 'Mr. Larry Brian Worrell', 'age': 47, 'title': 'Strategic Advisor', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2612009, 'exercisedValue': 0, 'unexercisedValue': 899721}, {'maxAge': 1, 'name': 'Ms. Rebecca  Charlton', 'age': 45, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Fleece', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chase  Mulvehill', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Georgia  Magno', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deanna L. Jones', 'age': 54, 'title': 'Executive Vice President of People, Communications & Transformation', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neeraj  Sethi', 'title': 'Director of Sales & Commercial - OFS', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0239
+exDividendDate§1698969600
+payoutRatio§0.4611
+fiveYearAvgDividendYield§3.15
+beta§1.419
+priceToSalesTrailing12Months§1.3778542
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.05
+pegRatio§0.49
+exchange§NMS
+quoteType§EQUITY
+shortName§Baker Hughes Company
+longName§Baker Hughes Company
+firstTradeDateEpochUtc§544714200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1b696385-7cd0-39c8-bb5b-bacf3c9bf05d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§47.0
+targetLowPrice§35.0
+targetMeanPrice§41.63
+targetMedianPrice§42.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§25
+quickRatio§0.848
+grossMargins§0.21053
+ebitdaMargins§0.14779
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 04:36:01.364460
+address1§First Floor, Suite 3
+address2§1 Duchess Street
+city§London
+zip§W1W 6AN
+country§United Kingdom
+phone§44 20 7258 8670
+fax§44 20 7487 4641
+website§https://www.conygar.com
+industry§Real Estate - Development
+industryKey§real-estate-development
+industryDisp§Real Estate - Development
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§The Conygar Investment Company PLC ("the Company") is incorporated in the United Kingdom and domiciled in England and Wales, is registered at Companies House under registration number 04907617, listed on the AIM market of the London Stock Exchange and limited by shares. The financial information set out in this report covers the six months to 31 March 2023, with comparative amounts shown for the six months to 31 March 2022 and the year to 30 September 2022, and includes the results and net assets of the Company and its subsidiaries, together referred to as the Group.
+fullTimeEmployees§111
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert Thomas Ernest Ware BA, FCA', 'age': 68, 'title': 'CEO & Executive Director', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 400000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Baldwin', 'age': 54, 'title': 'Financial Director, Company Secretary & Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 190000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederick Nicholas Gruffudd Jones', 'age': 42, 'title': 'Property Director & Director', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 190000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher James David Ware', 'age': 37, 'title': 'Property Director & Director', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 190000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1452124800
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.05
+beta§0.452
+priceToSalesTrailing12Months§3.905717
+currency§GBp
+lastDividendValue§1.75
+lastDividendDate§1452124800
+exchange§LSE
+quoteType§EQUITY
+shortName§CONYGAR INVESTMENT COMPANY PLC 
+longName§The Conygar Investment Company PLC
+firstTradeDateEpochUtc§1066806000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§d246f4da-4750-3d96-ad56-6c8fb7a8c11b
+messageBoardId§finmb_10393314
+recommendationKey§none
+quickRatio§0.603
+grossMargins§-0.36168998
+ebitdaMargins§-0.65924
+trailingPegRatio§None

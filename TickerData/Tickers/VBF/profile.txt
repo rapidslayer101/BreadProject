@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 23:34:06.666195
+address1§1331 Spring Street, NW
+address2§Suite 2500
+city§Atlanta
+state§GA
+zip§30309
+country§United States
+phone§(404) 892-0896
+website§https://www.invesco.com/portal/site/us/investors/closed-end/product-detail?productId=30454
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Invesco Bond Fund is a close ended fixed income mutual fund launched by Invesco Ltd. The fund is co-managed by Invesco Advisers, Inc, INVESCO Asset Management (Japan) Limited, INVESCO Asset Management Deutschland GmbH, INVESCO Asset Management Limited, Invesco Hong Kong Limited, INVESCO Senior Secured Management, Inc., and Invesco Canada Ltd. It invests in fixed income markets. The fund primarily invests in fixed-rate investment-grade corporate bonds. It benchmarks the performance of its portfolio against the Barclays Baa U.S. Corporate Bond Index. It was formerly known as Invesco Van Kampen Bond Fund. Invesco Bond Fund was formed in 1970 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Colin D. Meadows', 'age': 52, 'title': 'Principal Executive Officer and President', 'yearBorn': 1971, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Mehlman', 'title': 'Executive Director', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Virginia  Keehan', 'title': 'Vice President and Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chuck  Burge', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Darren S. Hughes C.F.A.', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Roberts CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Stryker CFA', 'title': 'Senior Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Brill C.F.A.', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Hyman', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.78
+dividendYield§0.0504
+exDividendDate§1705363200
+payoutRatio§40.075
+fiveYearAvgDividendYield§4.2
+beta§0.442
+priceToSalesTrailing12Months§17.923532
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Invesco Bond Fund
+longName§Invesco Bond Fund
+firstTradeDateEpochUtc§409329000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ab119912-867c-3b09-b361-076bdcced534
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§8.609
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

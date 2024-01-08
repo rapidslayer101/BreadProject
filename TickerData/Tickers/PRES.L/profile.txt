@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 19:40:07.854963
+address1§Pressure Technologies Building
+address2§Meadowhall Road
+city§Sheffield
+zip§S9 1BT
+country§United Kingdom
+phone§44 33 3015 0710
+website§https://www.pressuretechnologies.com
+industry§Oil & Gas Equipment & Services
+sector§Energy
+longBusinessSummary§Pressure Technologies plc, through its subsidiaries, designs, manufactures, and sells high pressure systems for the oil and gas, defense, industrial gases, and hydrogen energy markets in the United Kingdom, France, Norway, the United States, Rest of Europe, Germany, the Netherlands, Taiwan, and internationally. It operates through two segments, Cylinders and Precision Machined Components. The Cylinders segment designs, manufactures, and reconditions seamless high pressure gas cylinders. The Precision Machined Components segment manufactures specialized precision engineered valve wear parts used in the oil and gas industries. Pressure Technologies plc was founded in 1897 and is headquartered in Sheffield, the United Kingdom.
+fullTimeEmployees§197
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher Lee Walters', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 322939, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Locking', 'age': 50, 'title': 'Group Financial Controller', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 172000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen John Hammell', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Graham', 'title': 'Group Human Resources Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1455753600
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.45
+beta§1.374
+priceToSalesTrailing12Months§0.41695768
+currency§GBp
+forwardEps§1.3
+pegRatio§0.75
+exchange§LSE
+quoteType§EQUITY
+shortName§PRESSURE TECHNOLOGIES PLC ORD 5
+longName§Pressure Technologies plc
+firstTradeDateEpochUtc§1181113200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§420715b6-05b7-39e2-91d6-def1e91e53eb
+targetHighPrice§58.0
+targetLowPrice§40.0
+targetMeanPrice§49.0
+targetMedianPrice§49.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.945
+grossMargins§0.23682
+ebitdaMargins§-0.0049
+trailingPegRatio§None

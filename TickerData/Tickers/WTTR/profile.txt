@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 07:34:28.515364
+address1§1223 West Loop South
+address2§Suite 1400
+city§Houston
+state§TX
+zip§77027
+country§United States
+phone§713 235 9500
+website§https://www.selectenergy.com
+industry§Specialty Chemicals
+sector§Basic Materials
+longBusinessSummary§Select Water Solutions, Inc., an oilfield services company, provides water management and chemical solutions to the onshore oil and gas industry in the United States. The company operates through three segments: Water Services, Water Infrastructure, and Oilfield Chemicals. The Water Services segment provides water-related services, including water transfer, flow back and well testing, water containment, fluids hauling, water monitoring, and water network automation; technology solutions comprising hydrographic mapping, water volume and quality monitoring, remote pit and tank monitoring, leak detection, asset and fuel tracking, and automated-equipment services, as well as various on-site rental equipment and workforce accommodation services. The Water Infrastructure segment develops, builds, and operates semi-permanent and permanent pipeline infrastructure solutions to support oil and gas well development. The Oilfield Chemicals segment develops, manufactures, and provides a suite of chemicals, water treatment solutions, and services used in hydraulic fracturing, stimulation, cementing, production, pipelines, and well completions, polymers, including viscosity, crosslinkers, friction reducers, surfactants, buffers, breakers, and other chemical technologies to pressure pumping service companies. This segment also offers production chemical solutions for underperforming wells, corrosion and scale monitoring, chemical inventory management, well failure analysis, and lab services. The company was formerly known as Select Energy Services, Inc. and changed its name to Select Water Solutions, Inc. in May 2023. Select Water Solutions, Inc. was incorporated in 2016 and is headquartered in Houston, Texas.
+fullTimeEmployees§4000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John D. Schmitz', 'age': 63, 'title': 'President, CEO & Chairman', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1540576, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas L. Swyka', 'age': 43, 'title': 'CFO & Senior VP', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 643475, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael C. Skarke', 'age': 41, 'title': 'Executive VP & COO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 656290, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher K. George', 'age': 36, 'title': 'Senior VP of Corporate Development, Investor Relations, & Sustainability', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 594913, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cody J. Ortowski', 'age': 46, 'title': 'Executive Vice President of Business & Regulatory Affairs', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 692219, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian P. Szymanski', 'age': 55, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suzanne J. Colbert', 'age': 54, 'title': 'Senior VP & CTO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christina Marie Ibrahim', 'age': 55, 'title': 'Senior VP, General Counsel, Chief Compliance Officer & Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul L. Pistono', 'age': 54, 'title': 'Executive Vice President of Oilfield Chemicals', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 442816, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Lyons', 'title': 'Executive VP & Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§3
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.24
+dividendYield§0.0322
+exDividendDate§1699228800
+payoutRatio§0.38459998
+beta§1.755
+priceToSalesTrailing12Months§0.5628985
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.16
+pegRatio§-0.48
+exchange§NYQ
+quoteType§EQUITY
+shortName§Select Water Solutions, Inc.
+longName§Select Water Solutions, Inc.
+firstTradeDateEpochUtc§1498483800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§563ba0f9-5a30-3a52-b904-53d8a81c06c4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§13.0
+targetLowPrice§8.25
+targetMeanPrice§11.25
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§1.726
+earningsGrowth§-0.371
+grossMargins§0.22142
+ebitdaMargins§0.13795
+trailingPegRatio§None

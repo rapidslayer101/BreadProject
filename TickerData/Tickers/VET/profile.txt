@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 02:34:08.373497
+address1§3500, 520 3rd Avenue SW
+city§Calgary
+state§AB
+zip§T2P 0R3
+country§Canada
+phone§403 269 4884
+fax§403 476 8100
+website§https://www.vermilionenergy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Vermilion Energy Inc., together with its subsidiaries, engages in the acquisition, exploration, development, and production of petroleum and natural gas in North America, Europe, and Australia. The company owns 82% working interest in 796,648 net acres of developed land and 85% working interest in 384,237 net acres of undeveloped land in Canada; 149,043 net acres of land in the Powder River basin in the United States; 96% working interest in 258,125 net acres of developed land and 100% working interest in 106,993 net acres of undeveloped land in the Aquitaine and Paris Basins in France; 53% working interest in 1,604,206 net acres of land in the Netherlands; 107,351 net developed acres and 1,549,929 net undeveloped acres in Germany; 975,374 net acres land in Croatia; 614,625 net acres land in Hungary; and 97,907 net acres land in Slovakia. It also owns 20% interests in the offshore Corrib natural gas field located to the northwest coast of Ireland; and 100% working interest in the Wandoo offshore oil field and related production facilities that covers 59,552 acres located on Western Australia's northwest shelf. Vermilion Energy Inc. was founded in 1994 and is headquartered in Calgary, Canada.
+fullTimeEmployees§740
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Anthony  Hatcher P.Eng.', 'age': 50, 'title': 'President, CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 337043, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lars William Glemser', 'title': 'VP & CFO', 'fiscalYear': 2022, 'totalPay': 296297, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jenson  Tan P.Eng.', 'title': 'Vice President of Business Development', 'fiscalYear': 2022, 'totalPay': 266519, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle  Preston CFA', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tamar  Epstein', 'title': 'General Counsel of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terrance Gerald Hergott C.M.A., CPA', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Averyl  Schraven', 'title': 'Vice President of People & Culture', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Seatter P.Eng.', 'title': 'MD of United States Business Unit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sven  Tummers', 'title': 'Managing Director of the Germany and Netherlands Business Units', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Carty', 'title': 'Managing Director of Australia Business Unit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.0247
+exDividendDate§1703721600
+payoutRatio§0.066199996
+fiveYearAvgDividendYield§13.14
+beta§2.637
+priceToSalesTrailing12Months§0.9379876
+currency§USD
+dateShortInterest§1700006400
+forwardEps§2.85
+pegRatio§0.26
+exchange§NYQ
+quoteType§EQUITY
+shortName§Vermilion Energy Inc.
+longName§Vermilion Energy Inc.
+firstTradeDateEpochUtc§1284471000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§72cb0751-a2fe-37d4-997a-0c8355f63eeb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.94
+targetLowPrice§17.94
+targetMeanPrice§17.94
+targetMedianPrice§17.94
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.411
+earningsGrowth§-0.789
+grossMargins§0.70806
+ebitdaMargins§0.98324996
+trailingPegRatio§None

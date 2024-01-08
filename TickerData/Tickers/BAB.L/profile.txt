@@ -1,0 +1,58 @@
+# reload+after+2024-01-21 07:35:41.419863
+address1§33 Wigmore Street
+city§London
+zip§W1U 1QX
+country§United Kingdom
+phone§44 20 7355 5300
+website§https://www.babcockinternational.com
+industry§Engineering & Construction
+industryKey§engineering-construction
+industryDisp§Engineering & Construction
+sector§Industrials
+sectorKey§industrials
+sectorDisp§Industrials
+longBusinessSummary§Babcock International Group PLC, together with its subsidiaries, provides value-add services for aerospace, defense, and security in the United Kingdom, rest of Europe, Africa, North America, Australasia, and internationally. The company operates through four segments: Marine, Nuclear, Land, and Aviation. It designs, procures, operates, and manages critical utility and process equipment; offers asset management, defense and maritime training, information and intelligence, equipment and system, and facilities and infrastructure services, as well as naval platforms; and designs, manufactures, and provides through-life support for mechanical and electrical systems and equipment. The company also offers naval architecture, engineering, and project management services; submarines and complex engineering services in support of various decommissioning programs and projects, training and operation support, new build program management, and design and installation; critical vehicle fleet management, and equipment support and training services for military and civil customers; and designs, assesses, manufactures, installs, maintains, and decommissions vehicles for police, fire and ambulance, civil service, military, and other security-focused organizations. In addition, it provides plain line track renewal services; and engineering services for track projects, signaling, telecommunications, and on-track plants. Further, the company offers critical engineering services to defense and civil customers, including pilot training, equipment support, and airbase management, as well as operates aviation fleets that provide delivering emergency services. The company was founded in 1891 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§26115
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David C. Lockwood B.A., F.C.A., O.B.E., RSA', 'age': 61, 'title': 'CEO & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1741000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Mellors ACA, MA', 'age': 54, 'title': 'CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1140000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Richard  Drake', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Paul Gollan', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas James William Borrett', 'title': 'Group Company Secretary & General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Hill', 'title': 'Group Director of Communications', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nikki  Fox', 'title': 'Chief Human Resources Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bob  Whiley', 'title': 'Managing Director of Babcock Networks', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Howie M.B.E.', 'title': 'Chief Corporate Affairs Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Newman', 'title': 'Chief Executive Officer of Land Sector', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0077
+exDividendDate§1700697600
+payoutRatio§0.0
+fiveYearAvgDividendYield§4.33
+beta§1.272
+priceToSalesTrailing12Months§0.50021493
+currency§GBp
+forwardEps§41.58
+pegRatio§1.61
+lastDividendValue§1.7
+lastDividendDate§1700697600
+exchange§LSE
+quoteType§EQUITY
+shortName§BABCOCK INTERNATIONAL GROUP PLC
+longName§Babcock International Group PLC
+firstTradeDateEpochUtc§618822000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§767623a9-aa40-34cd-b6b9-1a7c9688734c
+messageBoardId§finmb_873887
+targetHighPrice§565.0
+targetLowPrice§400.0
+targetMeanPrice§500.0
+targetMedianPrice§529.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.746
+earningsGrowth§1.97
+grossMargins§0.04871
+ebitdaMargins§0.0651
+trailingPegRatio§None

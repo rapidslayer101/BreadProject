@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 22:45:24.009553
+address1§40 Burton Hills Boulevard
+address2§Suite 415
+city§Nashville
+state§TN
+zip§37215
+country§United States
+phone§615 465 4487
+website§https://www.i3verticals.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§i3 Verticals, Inc. provides integrated payment and software solutions primarily to the public sector and healthcare markets in the United States. It operates in two segments, Software and Services, and Merchant Services. The company offers payment processing services that enables upper and lower court case management, collections, finance and accounting, motor vehicle and carrier registration, e-filing and taxation, license plate inventory, property tax management, utility billing, professional licensing, document workflow, and law enforcement software; assists public schools in completing payment processing functions, including accepting payments for online or at school lunches, and school activities. It also provides software platforms, such as electronic healthcare records and revenue cycle management solutions; insurance adjudication, patient engagement platforms, billing, scheduling, and integrated payments solutions; and workflow software and associated professional services to medical insurance payers. In addition, the company engages in software licenses and subscriptions, transaction-based fees, ongoing software maintenance and support, and other software-related solutions; and payment processing and gateway fees, as well as other related fixed transaction or service fees. Further, it sells equipment, and offers non-software related professional services. The company offers its solutions to clients through direct sales force; distribution partners comprising independent software vendors, independent sales organizations, and value-added resellers. i3 Verticals, Inc. was founded in 2012 and is headquartered in Nashville, Tennessee.
+fullTimeEmployees§1663
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gregory S. Daily', 'age': 63, 'title': 'Chairman & CEO', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 334114, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederick  Stanford', 'age': 61, 'title': 'President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 338739, 'exercisedValue': 0, 'unexercisedValue': 703000}, {'maxAge': 1, 'name': 'Mr. Clay M. Whitson', 'age': 66, 'title': 'CFO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 298222, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Christians', 'age': 64, 'title': 'Chief Operating Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pete  Panagakis', 'age': 51, 'title': 'Chief Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Maple', 'age': 49, 'title': 'General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diana  Day-Cartee', 'title': 'Head of Enterprise Customer Experience', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amber  Murphy', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hume  Miller', 'title': 'Head of i3 Education', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey C. Smith', 'age': 36, 'title': 'Senior Vice President of Finance', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.501
+priceToSalesTrailing12Months§1.8276315
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.96
+pegRatio§-0.27
+exchange§NMS
+quoteType§EQUITY
+shortName§i3 Verticals, Inc.
+longName§i3 Verticals, Inc.
+firstTradeDateEpochUtc§1529587800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§176a22b8-2f0c-3563-b0ff-191da0653b0a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§23.0
+targetMeanPrice§28.14
+targetMedianPrice§28.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.73
+grossMargins§0.78242993
+ebitdaMargins§0.16061
+trailingPegRatio§None

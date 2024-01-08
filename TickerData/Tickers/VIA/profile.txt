@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 17:47:50.035940
+address1§12140 Wickchester Lane
+address2§Suite 100
+city§Houston
+state§TX
+zip§77079
+country§United States
+phone§713 600 2600
+website§https://viarenewables.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Via Renewables, Inc., through its subsidiaries, operates as an independent retail energy services company in the United States. It operates through two segments, Retail Electricity and Retail Natural Gas. The Retail Electricity segment engages in the transmission and sale of electricity to residential and commercial customers. The Retail Natural Gas segment is involved in the transportation, distribution, and sale of natural gas to residential and commercial customers. As of December 31, 2022, the company operated in 102 utility service territories across 19 states and the District of Columbia. It has approximately 331,000 residential customer equivalents. The company was formerly known as Spark Energy, Inc. and changed its name to Via Renewables, Inc. in August 2021. Via Renewables, Inc. was founded in 1999 and is headquartered in Houston, Texas.
+fullTimeEmployees§160
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Keith Maxwell III', 'age': 58, 'title': 'President, CEO & Executive Chairman', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 273703, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Barajas', 'age': 39, 'title': 'CFO & Chief Risk Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 428694, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Konikowski', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 577197, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Rabalais', 'title': 'Director of FP&A and Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Kuznar', 'title': 'Head of Retail Market', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1677542400
+payoutRatio§0.9295
+fiveYearAvgDividendYield§12.1
+beta§1.346
+priceToSalesTrailing12Months§0.1716453
+currency§USD
+dateShortInterest§1702598400
+exchange§NMS
+quoteType§EQUITY
+shortName§Via Renewables, Inc.
+longName§Via Renewables, Inc.
+firstTradeDateEpochUtc§1406640600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§87a3ca4b-e7ae-3885-b441-55b59b5b9957
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§1.798
+grossMargins§0.23697
+ebitdaMargins§0.06933
+trailingPegRatio§None

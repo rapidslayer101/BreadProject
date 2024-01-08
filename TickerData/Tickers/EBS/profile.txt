@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 13:28:51.414322
+address1§400 Professional Drive
+address2§Suite 400
+city§Gaithersburg
+state§MD
+zip§20879
+country§United States
+phone§240 631 3200
+fax§240 631 3203
+website§https://www.emergentbiosolutions.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Emergent BioSolutions Inc., a life sciences company, focuses on the provision of preparedness and response solutions that address accidental, deliberate, and naturally occurring public health threats (PHTs) in the United States. Its products address PHTs, which include chemical, biological, radiological, nuclear, and explosives; emerging infectious diseases; travel health; public health crises; and acute, emergency, and community care. The company offers ACAM2000, a smallpox vaccine; Anthrasil to for inhalational anthrax; Botulism Antitoxin Heptavalent to treat botulinum disease; BioThrax, an anthrax vaccine; Ebanga, a monoclonal antibody to treat infection caused by Zaire ebolavirus; raxibacumab injection for the treatment of inhalational anthrax; reactive skin decontamination lotion kits; TEMBEXA for the treatment of human smallpox disease; Trobigard, an auto-injector atropine sulfate and obidoxime chloride auto-injector for the emergency treatment of known or suspected exposure to nerve agents; and vaccinia immune globulin intravenous that addresses complications from smallpox vaccine. It also provides NARCAN, a nasal spray for the emergency treatment of known or suspected opioid overdose; Vivotif, an oral vaccine for typhoid fever; and Vaxchora, a single-dose oral vaccine to treat cholera. In addition, the company is developing AV7909, an anthrax vaccine; CGRD-001, a pralidoxime chloride/atropine auto-injector; CHIKV VLP, a chikungunya virus VLP vaccine; EBS-LASV; EGRD-001, a diazepam auto-injector; SIAN, an antidote for the initial treatment of acute poisoning of cyanide; and UniFlu, a universal influenza vaccine. Further, it provides contract development and manufacturing services comprising drug substance and product manufacturing, and packaging, as well as technology transfer, process, and analytical development services. The company was incorporated in 1998 and is headquartered in Gaithersburg, Maryland.
+fullTimeEmployees§2500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard S. Lindahl M.B.A.', 'age': 59, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 799378, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer L. Fox', 'title': 'Executive VP of External Affairs, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'totalPay': 675744, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Haywood  Miller', 'title': 'Interim Chief Executive Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert G. Burrows', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Coleen  Glessner', 'title': 'Executive Vice President of Global Quality and Ethics & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michelle  Pepin', 'title': 'Senior VP & Chief Human Resource Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie  Duatschek', 'title': 'Senior VP, Chief Strategy & Transformation Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kelly Lyn Warfield', 'title': 'Senior VP of Science & Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul A. Williams', 'title': 'Senior Vice President of Products Business', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'William  Hartzel', 'title': 'Senior Vice President of Manufacturing & Bioservices', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.001
+priceToSalesTrailing12Months§0.10349595
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.95
+pegRatio§0.02
+exchange§NYQ
+quoteType§EQUITY
+shortName§Emergent Biosolutions, Inc.
+longName§Emergent BioSolutions Inc.
+firstTradeDateEpochUtc§1163601000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§248c1b0b-cb74-394b-ab4a-08030c4a6847
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.0
+targetLowPrice§5.0
+targetMeanPrice§5.0
+targetMedianPrice§5.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§0.458
+grossMargins§0.27319
+ebitdaMargins§-0.0103400005
+trailingPegRatio§None

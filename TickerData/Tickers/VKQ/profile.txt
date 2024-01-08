@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 09:34:11.173322
+address1§1331 Spring Street, NW
+address2§Suite 2500
+city§Atlanta
+state§GA
+zip§30309
+country§United States
+phone§(404) 892-0896
+website§https://www.invesco.com/static/us/productdetail?productId=30590&productType=FUND
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Invesco Municipal Trust is a closed-ended fixed income mutual fund launched by Invesco Ltd. The fund is co-managed by Invesco Advisers, Inc., INVESCO Asset Management (Japan) Limited, INVESCO Asset Management Deutschland GmbH, INVESCO Asset Management Limited, Invesco Hong Kong Limited, INVESCO Senior Secured Management, Inc., and Invesco Canada Ltd. It primarily invests in investment grade municipal securities which include municipal bonds, municipal notes, municipal commercial paper, and lease obligations. The fund employs fundamental analysis with bottom-up security selection approach to create its portfolio. It was formerly known as Invesco Van Kampen Municipal Trust. Invesco Municipal Trust was formed on September 27, 1991 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Colin D. Meadows', 'age': 52, 'title': 'Principal Executive Officer and President', 'yearBorn': 1971, 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark E. Paris', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Stryker CFA', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James D. Phillips', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julius D. Williams', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Connelly', 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Tim  O'Reilly", 'title': 'Portfolio Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1388448000
+maxAge§86400
+priceHint§2
+dividendRate§0.42
+dividendYield§0.0437
+exDividendDate§1705363200
+payoutRatio§23.005
+fiveYearAvgDividendYield§5.14
+beta§0.51
+priceToSalesTrailing12Months§11.928834
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Invesco Municipal Trust
+longName§Invesco Municipal Trust
+firstTradeDateEpochUtc§690733800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e1f10034-56df-3709-949f-72707e962e32
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.175
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

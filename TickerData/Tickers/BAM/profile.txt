@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 14:27:03.709410
+address1§Brookfield Place
+address2§Bay Wellington Tower, Suite 300 181 Bay Street
+city§Toronto
+state§ON
+zip§M5J 2T3
+country§Canada
+phone§416 363 9491
+website§https://www.brookfield.com
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Brookfield Asset Management Ltd. is a real estate investment firm specializing in alternative asset management services. Its renewable power and transition business includes the operates in the hydroelectric, wind, solar, distributed generation, and sustainable solution sector. The company's infrastructure business engages in the utilities, transport, midstream, and data infrastructure sectors. In addition, its private equity business offers industrial, infrastructure, and business services sectors; and real estate business, which includes housing, logistics, hospitality, science and innovation, office, and retail sectors. Further, it provides credit business; and insurance solution in the reinsurance, annuities, operating platform, and investment solutions sectors. Brookfield Asset Management Ltd. was incorporated in 2022 and is headquartered in Toronto, Canada.
+fullTimeEmployees§2500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark Joseph Carney FPC, MPC, PRC', 'age': 58, 'title': 'Chair of Board & Head of Transition Investing', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Bruce Flatt', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 742643, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Connor David Teskey', 'age': 35, 'title': 'President and CEO Renewable Power & Transition', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 1660607, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bahir  Manios', 'age': 44, 'title': 'Managing Partner & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 992332, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori Anne Pearson F.C.A., FCPA', 'age': 61, 'title': 'Managing Partner & COO', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin B. Beber', 'age': 53, 'title': 'Managing Partner, Chief Administrative Officer & General Counsel', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian William Kingston', 'age': 49, 'title': 'Managing Partner, CEO of Real Estate & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1500000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cyrus  Madon', 'age': 57, 'title': 'Managing Partner, CEO of Private Equity & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 567497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel J. B. Pollock', 'age': 57, 'title': 'Managing Partner, CEO of Infrastructure & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 567497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominic  Dodds', 'title': 'Managing Director of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§9
+compensationRisk§7
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.28
+dividendYield§0.0334
+exDividendDate§1701216000
+payoutRatio§0.0
+priceToSalesTrailing12Months§3.6966064
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.54
+pegRatio§2.62
+lastDividendValue§0.32
+lastDividendDate§1701216000
+exchange§NYQ
+quoteType§EQUITY
+shortName§Brookfield Asset Management Inc
+longName§Brookfield Asset Management Ltd.
+firstTradeDateEpochUtc§1669905000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1a7b8a7f-177e-324e-9685-e780c47649c6
+messageBoardId§finmb_1783392266
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§26.0
+targetMeanPrice§38.52
+targetMedianPrice§39.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§2.282
+grossMargins§0.76883006
+ebitdaMargins§0.6982
+trailingPegRatio§None

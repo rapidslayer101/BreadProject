@@ -1,0 +1,47 @@
+# reload+after+2024-01-22 04:43:07.369054
+address1§2207 90B Street SW
+city§Edmonton
+state§AB
+zip§T6X 1V8
+country§Canada
+website§https://www.auroramj.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Aurora Cannabis Inc., together with its subsidiaries, produces, distributes, and sells cannabis and cannabis-derivative products in Canada and internationally. It operates through three segments: Canadian Cannabis, European Cannabis, and Plant Propagation. The company produces, distributes, and sells medical and consumer cannabis products in Canada. It is also involved in the distribution of wholesale medical cannabis in the European Union (EU); distribution of wholesale medical cannabis in various international markets, including Australia, the Caribbean, South America, and Israel; supply of propagated vegetables and ornamental plants in North America; and distribution and sale of hemp-derived cannabidiol (CBD) products. In addition, the company cultivates and sells dried cannabis, cannabis oils, capsules, edible cannabis, cannabis extracts, and soft gels, which are ingested in various ways, including smoking, vaporizing, and consumption in the form of oil, capsules, edibles, and extracts; and provides dried flowers, vapes, dried milled strains, strain-specific extracts, strain specific cannabis oils, and concentrates. Further, it offers recreational cannabis products, such as flowers, vapes, ingestibles, concentrates, extracts, and CBD products; and patient counseling and outreach services. The company's adult-use brand portfolio includes Aurora Drift, San Rafael '71, Daily Special, Whistler, Being, and Greybeard, as well as CBD brands, Reliva and KG7; and medical cannabis brands include MedReleaf, CanniMed, Aurora, Whistler Medical Marijuana Co, Pedanios, Bidiol, and CraftPlant. Aurora Cannabis Inc. is headquartered in Edmonton, Canada.
+fullTimeEmployees§1338
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Miguel  Martin', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 1508971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glen  Ibbott', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'totalPay': 468328, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Miller', 'title': 'Executive Vice President of Operations & Supply Chain', 'fiscalYear': 2023, 'totalPay': 370952, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori  Schick', 'title': 'Executive Vice President of Human Resources', 'fiscalYear': 2023, 'totalPay': 351864, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andre  Jerome', 'title': 'Executive Vice President of Global Business Development', 'fiscalYear': 2023, 'totalPay': 341330, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ananth  Krishnan', 'title': 'Vice President of Capital Markets & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nathalie  Clark', 'title': 'Executive VP, General Counsel & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michelle  Lefler', 'title': 'Vice President of Communications & Public Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jonathan  Page Ph.D.', 'age': 54, 'title': 'Senior Science Advisor', 'yearBorn': 1969, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rick  Savone', 'title': 'Senior Vice President of Global Government Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.976
+priceToSalesTrailing12Months§1.0109078
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.05
+exchange§NCM
+quoteType§EQUITY
+shortName§Aurora Cannabis Inc.
+longName§Aurora Cannabis Inc.
+firstTradeDateEpochUtc§1405431000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§79661ff2-5e39-3f70-bc48-d7785f587e85
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.19
+targetLowPrice§2.35
+targetMeanPrice§2.77
+targetMedianPrice§2.77
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§1.14
+grossMargins§0.022920001
+ebitdaMargins§-0.63843
+trailingPegRatio§None

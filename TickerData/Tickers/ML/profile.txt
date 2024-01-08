@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 20:31:22.201559
+address1§30 West 21st Street
+address2§9th Floor
+city§New York
+state§NY
+zip§10010
+country§United States
+phone§212 380 9865
+website§https://www.moneylion.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§MoneyLion Inc. provides a digital financial platform. The company's platform offers access to banking, borrowing, and investing solutions for customers. Its principal products include roarmoney, a digital demand deposit account; instacash, a cash advance product that gives customers early access to their recurring income deposits; Credit Builder Plus; MoneyLion Investing, an online investment account that offers access to separately managed accounts invested based on model exchange-traded fund portfolios; and MoneyLion Crypto, an online cryptocurrency account. It also provides embedded finance marketplace connecting and matching consumers with real-time, personalized product, and service recommendations through its proprietary integrative technology; and offers creative media and marketing services to clients across industries through its media division. The company is headquartered in New York, New York.
+fullTimeEmployees§677
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Diwakar M Choubey', 'age': 41, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 1127800, 'exercisedValue': 0, 'unexercisedValue': 1134863}, {'maxAge': 1, 'name': 'Mr. Richard  Correia', 'age': 49, 'title': 'CFO, Treasurer & President', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1262800, 'exercisedValue': 0, 'unexercisedValue': 1633781}, {'maxAge': 1, 'name': 'Mr. Timmie  Hong', 'age': 40, 'title': 'Chief Product Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 987800, 'exercisedValue': 0, 'unexercisedValue': 799761}, {'maxAge': 1, 'name': 'Mr. Mark  Torossian', 'age': 39, 'title': 'Chief Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean Michael Horgan', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adam  VanWagner', 'age': 41, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cynthia  Kleinbaum', 'title': 'Chief Customer Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeff  Frommer', 'title': 'Chief Content Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.661
+priceToSalesTrailing12Months§1.6038721
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.34
+exchange§NYQ
+quoteType§EQUITY
+shortName§MoneyLion Inc.
+longName§MoneyLion Inc.
+firstTradeDateEpochUtc§1597411800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d01fd9b0-1e9d-3e8b-93dc-247afbfb7218
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§102.0
+targetLowPrice§30.58
+targetMeanPrice§64.12
+targetMedianPrice§58.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§5.43
+grossMargins§0.46284
+ebitdaMargins§0.00827
+trailingPegRatio§None

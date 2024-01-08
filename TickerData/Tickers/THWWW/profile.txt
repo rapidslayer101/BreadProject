@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 00:47:34.431461
+address1§9320 Lakeside Boulevard
+address2§Suite 300
+city§The Woodlands
+state§TX
+zip§77381
+country§United States
+phone§800 832 4242
+fax§281 362 5435
+website§https://www.targethospitality.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§Target Hospitality Corp. operates as a specialty rental and hospitality services company in North America. The company operates through four segments: Hospitality & Facilities Services - South, Hospitality & Facilities Services - Midwest, Government, and TCPL Keystone. It owns a network of specialty rental accommodation units. In addition, the company provides catering and food, maintenance, housekeeping, grounds-keeping, security, health and recreation, workforce community management, concierge, and laundry services. It serves the U.S. government, government contractors, investment grade natural resource development companies, and energy infrastructure companies. Target Hospitality Corp. was founded in 1978 and is headquartered in The Woodlands, Texas.
+fullTimeEmployees§921
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Bradley Archer', 'age': 52, 'title': 'CEO, President & Non-Independent Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 2779691, 'exercisedValue': 0, 'unexercisedValue': 2593040}, {'maxAge': 1, 'name': 'Mr. Eric T. Kalamaras', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1194390, 'exercisedValue': 0, 'unexercisedValue': 2422628}, {'maxAge': 1, 'name': 'Mr. Troy C. Schrenk', 'age': 47, 'title': 'Chief Commercial Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1010383, 'exercisedValue': 0, 'unexercisedValue': 760566}, {'maxAge': 1, 'name': 'Mr. Jason Paul Vlacich', 'age': 45, 'title': 'Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Schuck', 'title': 'Senior Vice President of Investor Relations & Financial Planning', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heidi Diane Lewis', 'age': 50, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Margarita  Salazar', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew A. Aberdale', 'age': 57, 'title': 'Advisor', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 12544682, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danny  Handshoe', 'title': 'Senior Vice President of Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§5
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+beta§2.123
+currency§USD
+exchange§NCM
+quoteType§EQUITY
+shortName§Target Hospitality Corp.
+longName§Target Hospitality Corp.
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§86f1fd3b-8cf0-3b70-aacf-baf6dfeb2dff
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.559
+earningsGrowth§1.198
+grossMargins§0.68584996
+ebitdaMargins§0.58401
+trailingPegRatio§None

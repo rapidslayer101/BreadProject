@@ -1,0 +1,55 @@
+# reload+after+2024-01-23 12:45:42.704711
+address1§5321 Corporate Boulevard
+city§Baton Rouge
+state§LA
+zip§70808
+country§United States
+phone§225 926 1000
+fax§225 926 1005
+website§https://www.lamar.com
+industry§REIT—Specialty
+sector§Real Estate
+longBusinessSummary§Lamar Advertising Company operates as an outdoor advertising company in North America. It operates approximately 363,000 displays across the United States and Canada. It offers advertisers a range of billboard, interstate logo, transit, and airport advertising formats helping local businesses and national brands. The company was founded in 1902 and is based in Baton Rouge, Louisiana.
+fullTimeEmployees§3500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Kevin Patrick Reilly Jr.', 'age': 69, 'title': 'Executive Chairman', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 768217, 'exercisedValue': 5559000, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean E. Reilly', 'age': 61, 'title': 'CEO & President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2185834, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay Lecoryelle Johnson', 'age': 46, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1312900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Micky  Vint', 'title': 'Executive Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sukhvinder  Singh', 'age': 52, 'title': 'Senior Vice President of Technology and Innovation', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James R. McIlwain', 'title': 'Secretary & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John M. Miller', 'title': 'Executive Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tammy  Duncan', 'title': 'Executive Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hal  Kilshaw', 'title': 'Executive Vice President of Governmental Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee  Kantrow Jr.', 'age': 48, 'title': 'Executive Vice President of Business Development', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§4
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.0
+dividendYield§0.048800003
+exDividendDate§1702598400
+payoutRatio§1.2251999
+fiveYearAvgDividendYield§4.3
+beta§1.506
+priceToSalesTrailing12Months§4.989857
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.19
+pegRatio§7.13
+exchange§NMS
+quoteType§EQUITY
+shortName§Lamar Advertising Company
+longName§Lamar Advertising Company
+firstTradeDateEpochUtc§838992600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fb36e1ad-4006-3d4b-98b3-7f996e35d996
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§112.0
+targetLowPrice§92.0
+targetMeanPrice§103.0
+targetMedianPrice§105.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§0.506
+earningsGrowth§-0.047
+grossMargins§0.67079
+ebitdaMargins§0.45279
+trailingPegRatio§None

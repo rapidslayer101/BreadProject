@@ -1,0 +1,23 @@
+# reload+after+2024-01-20 10:27:18.268452
+longBusinessSummary§The fund invests 100% of its total assets in (i) cash, (ii) U.S. government securities, such as U.S. Treasury bills, notes, and other obligations issued by, or guaranteed as to principal and interest by, the U.S. government (including its agencies and instrumentalities), and (iii) repurchase agreements that are collateralized fully by such U.S. government securities or cash.
+maxAge§86400
+priceHint§2
+totalAssets§178086400
+navPrice§100.7
+currency§USD
+category§Ultrashort Bond
+ytdReturn§0.00089429994
+beta3Year§0.0
+fundFamily§PIMCO
+fundInceptionDate§1687305600
+legalType§Exchange Traded Fund
+exchange§PCX
+quoteType§ETF
+shortName§PIMCO U.S. Treasury Index Fund 
+longName§PIMCO Ultra Short Government Active Exchange-Traded Fund
+firstTradeDateEpochUtc§1687786200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4ff7fbdb-b8b7-387a-b974-653303dcab52
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 21:27:07.200057
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240174/blackrock-build-america-bond-trust-fund
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§BlackRock Taxable Municipal Bond Trust is a closed-ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in the fixed income markets of the United States. It primarily invests in taxable municipal securities, which include Build America Bonds. The fund also invests in tax-exempt securities, U.S. treasury securities, obligations of the U.S. government, its agencies and instrumentalities, and corporate bonds. It was formerly known as BlackRock Build America Bond Trust. BlackRock Taxable Municipal Bond Trust was formed on August 27, 2010 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 55, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter J. Hayes', 'title': 'Portfolio Mang.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Pruskowski', 'title': 'Portfolio Mang.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 61, 'title': 'Portfolio Mang.', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Kalinoski C.F.A.', 'age': 51, 'title': 'Portfolio Mang.', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christian  Romaglino C.F.A.', 'title': 'Portfolio Mang.', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.11
+dividendYield§0.0747
+exDividendDate§1697155200
+fiveYearAvgDividendYield§6.45
+currency§USD
+dateShortInterest§1695945600
+lastDividendValue§0.093
+lastDividendDate§1702512000
+exchange§NYQ
+quoteType§EQUITY
+shortName§BlackRock Taxable Municipal Bon
+longName§BlackRock Taxable Municipal Bond Trust
+firstTradeDateEpochUtc§1283175000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ebaca4cd-9362-3aa7-a152-59e5f4718774
+messageBoardId§finmb_107573468
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

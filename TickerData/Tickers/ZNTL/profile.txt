@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 20:48:08.271965
+address1§1359 Broadway
+address2§Suite 1710
+city§New York
+state§NY
+zip§10018
+country§United States
+phone§212 433 3791
+website§https://zentalis.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Zentalis Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on discovering and developing small molecule therapeutics for the treatment of various cancers. Its products candidatures include the ZN-c3, an inhibitor of WEE1, a protein tyrosine kinase, which is in Phase 2 clinical trial for the treatment of inhibitor for advanced solid tumors and hematological malignancies; in Phase 2 clinical trial as a monotherapy for the treatment of uterine serous carcinoma indications; Phase 2 clinical trial in Cyclin E1 driven high-grade serous ovarian cancer, fallopian tube, or primary peritoneal cancer; Phase 1/2 clinical trial in combination with PARPi for platinum-resistant ovarian cancer; Phase 1b clinical trial in combination with chemotherapy in platinum-resistant ovarian, and peritoneal or fallopian tube cancer; Phase 1/2 clinical trial in combination with chemotherapy in relapsed or refractory osteosarcoma; Phase 1/2 clinical trial with encorafenib and cetuximab for mutant metastatic colorectal cancer; and Phase 1/2 clinical trial in combination with chemotherapy in pancreatic cancer. The company's products pipeline also includes ZN-d5, an oral small molecule inhibitor of B-cell lymphoma 2, for hematological malignancies and related disorders; and BCL-xL heterobifunctional degrader, a member of the anti-apoptotic BCL-2 proteins, for solid tumors and hematological malignancies. Zentalis Pharmaceuticals, Inc. has licensing agreements and strategic collaborations with Recurium IP Holdings, LLC; Pfizer, Inc.; Zentera Therapeutics: and GlaxoSmithKline plc. The company was incorporated in 2014 and is headquartered in New York, New York.
+fullTimeEmployees§156
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Kimberly Lynn Blackwell M.D.', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1121439, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cameron S. Gallagher M.B.A.', 'age': 53, 'title': 'Co-Founder, President & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 767694, 'exercisedValue': 0, 'unexercisedValue': 149800}, {'maxAge': 1, 'name': 'Ms. Melissa B. Epperly M.B.A.', 'age': 45, 'title': 'CFO & Treasurer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 721642, 'exercisedValue': 0, 'unexercisedValue': 142665}, {'maxAge': 1, 'name': 'Ms. Andrea  Paul J.D.', 'age': 42, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 668204, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Carrie  Brownstein M.D.', 'age': 53, 'title': 'Chief Medical Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 755060, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Mark  Lackner Ph.D.', 'age': 56, 'title': 'Chief Translational Officer & Head of Biomarker Strategy and Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kimberly  Freeman', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.663
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.76
+exchange§NGM
+quoteType§EQUITY
+shortName§Zentalis Pharmaceuticals, Inc.
+longName§Zentalis Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1585920600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§39a4bee6-8ddb-3930-b936-d5bcf9eb8cf7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§12.0
+targetMeanPrice§31.5
+targetMedianPrice§32.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§8.769
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

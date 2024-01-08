@@ -1,0 +1,46 @@
+# reload+after+2024-01-21 05:40:02.388838
+address1§6-8 Greencoat Place
+address2§Victoria
+city§London
+zip§SW1P 1PL
+country§United Kingdom
+phone§0203 301 8330
+website§https://palacecapitalplc.com
+industry§REIT—Diversified
+sector§Real Estate
+longBusinessSummary§Palace Capital plc is a real estate investment firm specializing in investment in entities operating in the property sector. It seeks to invest in United Kingdom. Palace Capital plc is based in London, the United Kingdom.
+fullTimeEmployees§11
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Steven Jonathan Owen FCA, LLB, MCT', 'age': 66, 'title': 'Executive Chairman', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 221500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Hood', 'title': 'Head of Investment', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Davies', 'title': 'Head of Asset Management', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Wolfe', 'title': 'Financial Controller', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Higgins', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.0679
+exDividendDate§1700697600
+payoutRatio§1.7073
+fiveYearAvgDividendYield§5.97
+beta§0.735
+priceToSalesTrailing12Months§2.7124674
+currency§GBp
+forwardEps§16.8
+pegRatio§4.13
+exchange§LSE
+quoteType§EQUITY
+shortName§PALACE CAPITAL PLC ORD 10P
+longName§Palace Capital Plc
+firstTradeDateEpochUtc§1112166000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§b1c3bd38-d2b9-3e71-af09-21a47de8942f
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.676
+grossMargins§0.45466998
+ebitdaMargins§0.32344002
+trailingPegRatio§None

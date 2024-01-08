@@ -1,0 +1,38 @@
+# reload+after+2024-01-21 01:36:23.444185
+address1§19-20 Great Pulteney Street
+address2§Soho
+city§London
+zip§W1F 9NF
+country§United Kingdom
+phone§44 20 7493 8400
+website§https://fletcherking.co.uk
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Fletcher King Plc provides a range of property and advisory services in the United Kingdom. The company offers services in the areas of property fund management, property asset management, investment broking, valuations, ratings, and development. Fletcher King Plc was incorporated in 1986 and is based in London, the United Kingdom.
+fullTimeEmployees§16
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Jonathan R. Fletcher FRICS', 'age': 80, 'title': 'Non-Executive Chairman & Founding Partner', 'yearBorn': 1943, 'fiscalYear': 2023, 'totalPay': 76000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul James Andrews MRICS', 'age': 50, 'title': 'MD & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 195000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter Edwin Bailey A.C.A., ACA', 'age': 55, 'title': 'Finance Director, Company Secretary & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 120000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Anthony Dickman B.Sc.', 'age': 65, 'title': 'Executive Director', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 179000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0224
+exDividendDate§1695859200
+payoutRatio§0.344
+fiveYearAvgDividendYield§4.37
+beta§0.331
+priceToSalesTrailing12Months§1.1198196
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§FLETCHER KING PLC ORD 10P
+longName§Fletcher King Plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1e7f615e-2792-3c7d-91b5-4f68a3b68043
+recommendationKey§none
+quickRatio§6.871
+earningsGrowth§0.429
+grossMargins§1.0
+ebitdaMargins§0.06814
+trailingPegRatio§None

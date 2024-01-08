@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 02:45:41.217894
+address1§1070 Terra Bella Avenue
+city§Mountain View
+state§CA
+zip§94043
+country§United States
+phone§650 679 7626
+website§https://www.knightscope.com
+industry§Security & Protection Services
+sector§Industrials
+longBusinessSummary§Knightscope, Inc. designs, develops, manufactures, markets, deploys, and supports autonomous security robots (ASR) in the United States. Its products include K3 and K5 ASRs designed to roam a geo-fenced area autonomously by utilizing numerous sensors and lasers, either on a random basis or based on a particular patrolling algorithm to navigate around people, vehicles, and objects in dynamic indoor or outdoor environments; K1, an ASR for used in indoors or outdoors and at ingress/egress points for both people and vehicles; and K7, a multi-terrain ASR. The company also develops and operates the Knightscope security operations center (KSOC), a browser-based interface, which allows real-time data access service to its clients for alert of an abnormal event; and Knightscope network operations center (KNOC), a custom set of tools that enables it to manage and monitor the network of ASRs with alerts related to critical indicators and statistics, including charging, software, navigation, and temperatures, as well as to execute over-the-air software upgrades, patches, and other related items. In addition, it offers Knightscope+ remote monitoring, an optional service for clients that operate without a fully staffed 24/7 security operations center. The company serves universities, municipalities, rail, healthcare, parks, casinos, corporations, law enforcement, county agencies, and property management companies, as well as the U.S. federal government. Knightscope, Inc. was incorporated in 2013 and is headquartered in Mountain View, California.
+fullTimeEmployees§111
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Santana Li', 'age': 53, 'title': 'Chairman, CEO & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 775168, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mallorie Sara Burak', 'age': 52, 'title': 'President & CFO', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 608848, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mercedes  Soria', 'age': 49, 'title': 'Executive VP & Chief Intelligence Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 508848, 'exercisedValue': 0, 'unexercisedValue': 944719}, {'maxAge': 1, 'name': 'Mr. Peter M. Weinberg', 'age': 62, 'title': 'General Counsel', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 255000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stacy Dean Stephens', 'age': 51, 'title': 'Executive VP & Chief Client Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron J. Lehnhardt', 'age': 50, 'title': 'Executive VP & Chief Design Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason M. Gonzalez', 'title': 'Senior Vice President of Client Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§4.470007
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.23
+exchange§NGM
+quoteType§EQUITY
+shortName§Knightscope, Inc.
+longName§Knightscope, Inc.
+firstTradeDateEpochUtc§1643293800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4ed9eecd-99c1-31dd-b0d6-b8548291f79d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.0
+targetLowPrice§4.0
+targetMeanPrice§4.0
+targetMedianPrice§4.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.871
+grossMargins§-0.10994001
+ebitdaMargins§-2.0802698
+trailingPegRatio§None

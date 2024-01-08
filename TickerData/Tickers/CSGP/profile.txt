@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 17:44:15.122595
+address1§1331 L Street, NW
+city§Washington
+state§DC
+zip§20005
+country§United States
+phone§202 346 6500
+website§https://www.costargroup.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§CoStar Group, Inc. provides information, analytics, and online marketplace services to the commercial real estate, hospitality, residential, and related professionals industries in the United States, Canada, Europe, the Asia Pacific, and Latin America. The company offers CoStar Property that provides inventory of office, industrial, retail, multifamily, hospitality, and student housing properties and land; CoStar Sales, a robust database of comparable commercial real estate sales transactions; CoStar Market Analytics to view and report on aggregated market and submarket trends; and CoStar Tenant, an online business-to-business prospecting and analytical tool that provides tenant information. It also provides Leasing, a tool to capture, manage, and maintain lease data; CoStar Lease Analysis; Public Record, a searchable database of commercially zoned parcels; CoStar Real Estate Manager, a real estate lease administration, portfolio management, and lease accounting compliance software solution; and CoStar Risk Analytics and CoStar Investment. In addition, it offers apartment marketing sites, such as ApartmentFinder.com, ForRent.com, ApartmentHomeLiving.com, WestsideRentals.com, AFTER55.com, CorporateHousing.com, ForRentUniversity.com, Apartamentos.com, and Off Campus Partners; LoopNet Premium Lister; LoopNet Diamond, Platinum, and Gold Ads; LandsofAmerica.com, LandAndFarm.com, and LandWatch.com for rural land for-sale; BizBuySell.com, BizQuest.com, and FindaFranchise.com for operating businesses and franchises for-sale; Ten-X, an online auction platform for commercial real estate; and HomeSnap, an online and mobile software platform, as well as Homes.com, a homes for sale listings site. The company was founded in 1987 and is headquartered in Washington, the District of Columbia.
+fullTimeEmployees§5653
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew C. Florance', 'age': 59, 'title': 'Founder, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3894090, 'exercisedValue': 0, 'unexercisedValue': 63736472}, {'maxAge': 1, 'name': 'Mr. Scott T. Wheeler', 'age': 59, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1470334, 'exercisedValue': 0, 'unexercisedValue': 1959838}, {'maxAge': 1, 'name': 'Ms. Lisa C. Ruggles', 'age': 56, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1267461, 'exercisedValue': 0, 'unexercisedValue': 2590667}, {'maxAge': 1, 'name': 'Mr. Frank A. Simuro', 'age': 56, 'title': 'Chief Technology Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1358255, 'exercisedValue': 0, 'unexercisedValue': 6308083}, {'maxAge': 1, 'name': 'Mr. Frederick G. Saint', 'age': 57, 'title': 'President of Marketplaces', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1264928, 'exercisedValue': 0, 'unexercisedValue': 1919560}, {'maxAge': 1, 'name': 'Mr. Jason  Butler', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cyndi  Eakin', 'title': 'Senior VP of Investor Relations & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gene  Boxer', 'age': 48, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew R. Blocher', 'title': 'Vice President of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Swartz', 'title': 'Senior Vice President of Global Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.881
+priceToSalesTrailing12Months§13.907986
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.33
+pegRatio§3.36
+exchange§NMS
+quoteType§EQUITY
+shortName§CoStar Group, Inc.
+longName§CoStar Group, Inc.
+firstTradeDateEpochUtc§899299800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§da59ed25-e789-336a-9fc0-7ecfc2b9c395
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§106.0
+targetLowPrice§70.0
+targetMeanPrice§93.38
+targetMedianPrice§95.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§13.142
+earningsGrowth§0.222
+grossMargins§0.80554
+ebitdaMargins§0.1871
+trailingPegRatio§3.4009

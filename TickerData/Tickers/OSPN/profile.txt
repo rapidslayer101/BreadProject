@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 20:46:29.124382
+address1§1 Marina Park Drive
+address2§Unit 1410
+city§Boston
+state§MA
+zip§02210
+country§United States
+phone§312 766 4001
+website§https://www.onespan.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§OneSpan Inc., together with its subsidiaries, designs, develops, and markets digital solutions for identity, authentication, and secure digital agreements worldwide. The company offers OneSpan Sign, a range of e-signature requirements for occasional agreement to processing tens of thousands of transactions; OneSpan Cloud Authentication, a cloud-based multifactor authentication solution that supports a range of authentication options, including biometrics, push notification, and visual cryptograms for transaction data security, SMS, and hardware authenticators; and OneSpan Identity Verification, which enables banks and financial institutions identity verification services. It also provides Mobile Security Suite, a software development kit that protect mobile transactions; Digipass Authenticators, consisting of a wide variety of authentication devices; and authentication servers that provides a range of strong authentication utilities and solutions designed to allow organizations to securely authenticate users and transactions. In addition, it offers Virtual Room, a purpose-built, high-assurance solution that blends the simplicity of a consumer video collaboration app with high-assurance identity and authentication security; OneSpan Notary; and Digipass CX, a cloud-connected high-assurance identity verification and authentication devices. It sells its solutions through its direct sales force, as well as through distributors, resellers, systems integrators, and original equipment manufacturers. The company was formerly known as VASCO Data Security International, Inc. and changed its name to OneSpan Inc. in May 2018. OneSpan Inc. was founded in 1991 and is headquartered in Boston, Massachusetts.
+fullTimeEmployees§814
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew P. Moynahan', 'age': 53, 'title': 'President, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1054030, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jorge A. Garcia Martell', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'totalPay': 504091, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lara  Mataac', 'title': 'General Counsel & Chief Compliance Officer', 'fiscalYear': 2022, 'totalPay': 428289, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Bosshart CPA', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'totalPay': 486527, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. Lillie', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph A. Maxa P.E.', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarah  Hanel', 'title': 'Senior Director of Global Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giovanni  Verhaeghe', 'title': 'Vice President of Corporate Development & Hardware Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Aurelio', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Vignollet', 'title': 'Senior Vice President of Research & Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.87
+priceToSalesTrailing12Months§1.6613897
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.92
+pegRatio§-30.15
+exchange§NCM
+quoteType§EQUITY
+shortName§OneSpan Inc.
+longName§OneSpan Inc.
+firstTradeDateEpochUtc§895757400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ab396cd5-3f45-300e-8a81-9a3e0e05e639
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§9.5
+targetMeanPrice§13.67
+targetMedianPrice§13.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.228
+grossMargins§0.66523004
+ebitdaMargins§-0.06224
+trailingPegRatio§None

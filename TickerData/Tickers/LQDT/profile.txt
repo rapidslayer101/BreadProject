@@ -1,0 +1,52 @@
+# reload+after+2024-01-19 21:45:51.063560
+address1§6931 Arlington Road
+address2§Suite 200
+city§Bethesda
+state§MD
+zip§20814
+country§United States
+phone§202 467 6868
+fax§202 558 6282
+website§https://liquidityservices.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Liquidity Services, Inc. provides e-commerce marketplaces, self-directed auction listing tools, and value-added services in the United States and internationally. The company operates through four segments: GovDeals, Retail Supply Chain Group (RSCG), Capital Assets Group (CAG), and Machinio. Its marketplaces include liquidation.com that enable corporations to sell surplus and salvage consumer goods and retail capital assets; GovDeals marketplace, which provides self-directed service solutions in which sellers list their own assets that enables local and state government entities, and commercial businesses located in the United States and Canada to sell surplus and salvage assets; and AllSurplus, a centralized marketplace that connects global buyer base with assets from across the network of marketplaces in a single destination. The company also offers a suite of services, including surplus management, asset valuation, asset sales, marketing, returns management, asset recovery, and ecommerce services. In addition, it operates a global search engine platform for listing used equipment for sale in the construction, machine tool, transportation, printing, and agriculture sectors. The company offers products from industry verticals, such as consumer electronics, general merchandise, apparel, scientific equipment, aerospace parts and equipment, technology hardware, real estate, energy equipment, industrial capital assets, heavy equipment, fleet and transportation equipment, and specialty equipment. The company was incorporated in 1999 and is headquartered in Bethesda, Maryland.
+fullTimeEmployees§716
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William P. Angrick III', 'age': 55, 'title': 'Co-founder, Chairman of the Board of Directors & CEO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 632868, 'exercisedValue': 0, 'unexercisedValue': 8416236}, {'maxAge': 1, 'name': 'Mr. Jorge A. Celaya', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 504677, 'exercisedValue': 275020, 'unexercisedValue': 646999}, {'maxAge': 1, 'name': 'Mr. Steven J. Weiskircher', 'age': 49, 'title': 'Chief Technology Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 415396, 'exercisedValue': 1310574, 'unexercisedValue': 98105}, {'maxAge': 1, 'name': 'Mr. Mark A. Shaffer', 'age': 49, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 410927, 'exercisedValue': 858274, 'unexercisedValue': 18427}, {'maxAge': 1, 'name': 'Mr. John P. Daunt', 'age': 57, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 455427, 'exercisedValue': 117017, 'unexercisedValue': 1505746}, {'maxAge': 1, 'name': 'Mr. Anthony D. Long', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Novelette E. Murray', 'age': 57, 'title': 'Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.428
+priceToSalesTrailing12Months§1.6284608
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.17
+pegRatio§-1.09
+exchange§NMS
+quoteType§EQUITY
+shortName§Liquidity Services, Inc.
+longName§Liquidity Services, Inc.
+firstTradeDateEpochUtc§1141050600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4b9e3ae6-47ee-32b7-93b1-0fb0801963cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§27.0
+targetMeanPrice§27.5
+targetMedianPrice§27.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.051
+earningsGrowth§-0.259
+grossMargins§0.54741
+ebitdaMargins§0.101969995
+trailingPegRatio§None

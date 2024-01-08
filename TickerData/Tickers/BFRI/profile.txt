@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 19:43:38.904954
+address1§120 Presidential Way
+address2§Suite 330
+city§Woburn
+state§MA
+zip§01801
+country§United States
+phone§781-245-1325
+website§https://www.biofrontera-us.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Biofrontera Inc., a biopharmaceutical company, engages in the commercialization of pharmaceutical products for the treatment of dermatological conditions in the United States. The company offers Ameluz, a prescription drug for use in combination with the BF-RhodoLED lamp series, for photodynamic therapy for the lesion-directed and field-directed treatment of actinic keratosis of mild-to-moderate severity on the face and scalp. It also provides Xepi, a topical non-fluorinated quinolone that inhibits bacterial growth for the treatment of impetigo. The company was incorporated in 2015 and is headquartered in Woburn, Massachusetts.
+fullTimeEmployees§81
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Hermann  Luebbert Ph.D.', 'age': 67, 'title': 'Chairman, CEO & President', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 476355, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eugene Frederick Leffler III', 'age': 38, 'title': 'Chief Financial Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 316317, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erica F. Gates CPA, M.B.A.', 'title': 'Senior Director of Finance & Principal Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon  Lyons M.B.A., Ph.D.', 'title': 'Vice President of Scientific & Medical Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alycia  Torres', 'title': 'Vice President of Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Hakansson J.D.', 'title': 'General Counsel & Head of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Samantha  Widdicombe', 'title': 'Senior Director of Strategic Accounts & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Baldyga', 'title': 'Vice President of & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.782
+priceToSalesTrailing12Months§0.12730052
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.07
+exchange§NCM
+quoteType§EQUITY
+shortName§Biofrontera Inc.
+longName§Biofrontera Inc.
+firstTradeDateEpochUtc§1635514200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f81dad8d-7768-38b3-a53c-f0f095b62379
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§7.0
+targetMeanPrice§20.0
+targetMedianPrice§20.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.362
+grossMargins§0.48446
+ebitdaMargins§-0.63752997
+trailingPegRatio§None

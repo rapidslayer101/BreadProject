@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 00:32:24.473605
+address1§The Sharp Building
+address2§Hogan Place
+city§Dublin
+zip§D02 TY74
+country§Ireland
+phone§353 1 709 4000
+website§https://www.perrigo.com
+industry§Drug Manufacturers—Specialty & Generic
+sector§Healthcare
+longBusinessSummary§Perrigo Company plc provides over-the-counter health and wellness solutions to enhance individual well-being in Ireland, the United States, France, Belgium, China, the United Kingdom, Germany, Switzerland, Austria, Italy, Australia, Greece, and Spain. It operates through Consumer Self-Care Americas and Consumer Self-Care International segments. The Consumer Self-Care Americas segment develops, manufacture, and markets self-care products including upper respiratory, pain and sleep-aids, digestive health, nutrition, healthy lifestyle, skincare, women's health, and other products, as well as vitamins, minerals and supplements, and oral self-care in the United States and Canada. This segment offers its products under Burt's Bees, Compeed, Dr. Fresh, Firefly, Good Sense, Mederma, Nasonex, Plackers, Prevacid24HR, REACH, Rembrandt, and Steripod brands. Consumer Self-Care International segment comprises consumer self-care product categories outside the U.S. and Canada, including branded products in Europe and Australia, and store brand products in the United Kingdom and parts of Europe and Asia, which develops, manufactures, markets, and distributes consumer self-care brands through a network of drug and grocery store retailers, e-commerce stores, and para-pharmacies in more than 29 countries, primarily in Europe. In addition, the company offers contract manufacturing services. Perrigo Company plc was founded in 1887 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§8900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eduardo Guarita Bezerra', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 1459126, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kyle L. Hanson', 'age': 58, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 729869, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Svend  Andersen', 'age': 61, 'title': 'Executive VP & President of Consumer Self-Care International', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1166932, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Lockwood-Taylor', 'title': 'President, CEO & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald C. Janish', 'age': 57, 'title': 'Chief Transformation Officer and Executive VP of Global Operations & Supply Chain', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shannon  Hukill', 'title': 'Senior Director of Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas M. Farrington', 'age': 66, 'title': 'Chief Information Officer & Executive VP', 'yearBorn': 1957, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Ives', 'age': 42, 'title': 'Executive VP & Chief Scientific Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley  Joseph', 'title': 'Vice President of Global Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary  Reilly-Brest', 'title': 'Director of Global Organizational and Human Resource Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.09
+dividendYield§0.0322
+exDividendDate§1701302400
+payoutRatio§13.4875
+fiveYearAvgDividendYield§2.27
+beta§0.737
+priceToSalesTrailing12Months§0.98732454
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.99
+pegRatio§1.31
+exchange§NYQ
+quoteType§EQUITY
+shortName§Perrigo Company plc
+longName§Perrigo Company plc
+firstTradeDateEpochUtc§692980200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1136e894-8c18-36cd-8916-719b157aa549
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.0
+targetLowPrice§42.0
+targetMeanPrice§46.33
+targetMedianPrice§48.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.348
+grossMargins§0.35146
+ebitdaMargins§0.14057
+trailingPegRatio§0.8842

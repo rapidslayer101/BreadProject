@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 08:40:12.442568
+address1§Redrow House
+address2§St. David's Park Ewloe
+city§Flintshire
+zip§CH5 3RX
+country§United Kingdom
+phone§44 1244 520 044
+fax§44 1244 520 720
+website§https://redrowplc.co.uk
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Redrow plc focuses on housebuilding activities in the United Kingdom. It is involved in acquires, develops, and resells land; develops and sells residential housing properties; and business park maintenance services. Redrow plc was founded in 1974 and is based in Flintshire, the United Kingdom.
+fullTimeEmployees§2189
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew  Brennan-Pratt', 'age': 48, 'title': 'Group Chief Executive & Executive Director', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1098000, 'exercisedValue': 92200, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara M. Richmond BSc (Hons), FCA', 'age': 63, 'title': 'CFO, Group Finance Director & Executive Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 716000, 'exercisedValue': 63510, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen Margaret Jones', 'title': 'Group Human Resources Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Steve  Greenhalgh', 'title': 'Managing Director of Lancashire Division', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Justin  Brow', 'title': 'Head of Construction', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Glenn  Coles', 'title': 'Head of Strategic Land', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tim  Stone', 'title': 'Regional Chief Executive for Western & London', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Clare  Hindley', 'title': 'Head of Training', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Garry  Cornell', 'title': 'Sustainability Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Ford', 'title': 'Group Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.050100002
+exDividendDate§1695254400
+payoutRatio§0.352
+fiveYearAvgDividendYield§3.57
+beta§1.691
+priceToSalesTrailing12Months§0.9571666
+currency§GBp
+forwardEps§45.81
+pegRatio§-0.75
+exchange§LSE
+quoteType§EQUITY
+shortName§REDROW PLC ORD 10.5P
+longName§Redrow plc
+firstTradeDateEpochUtc§768639600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§08467463-4fe8-3d99-b434-d0870afd3103
+targetHighPrice§750.0
+targetLowPrice§460.0
+targetMeanPrice§616.54
+targetMedianPrice§615.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§0.314
+earningsGrowth§3.744
+grossMargins§0.23883
+ebitdaMargins§0.18853001
+trailingPegRatio§None

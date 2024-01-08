@@ -1,0 +1,58 @@
+# reload+after+2024-01-23 18:36:05.674356
+address1§1 Rockingham Way
+address2§Redhouse Interchange Adwick-le-Street
+city§Doncaster
+zip§DN6 7NA
+country§United Kingdom
+website§https://www.dfscorporate.co.uk
+industry§Furnishings, Fixtures & Appliances
+industryKey§furnishings-fixtures-appliances
+industryDisp§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§DFS Furniture plc designs, manufactures, sells, delivers, installs, and retails upholstered furniture in the United Kingdom and the Republic of Ireland. The company retails sofas under the DFS and Sofology brand names. It also engages in the manufacture of upholstered furniture and the supply of contract logistics. The company operates a network of DFS showrooms and Sofology stores, as well as sells its products through websites. DFS Furniture plc was founded in 1969 and is headquartered in Doncaster, the United Kingdom.
+fullTimeEmployees§5284
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy Giles Stacey', 'age': 52, 'title': 'Group CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 665000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Anthony Fallon', 'age': 53, 'title': 'CFO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 506640, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell  Harte', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  McDonald', 'title': 'Group Company Secretary & General Counsel', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joanne  Shawcroft', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Salden', 'title': 'Managing Director of the Sofa Delivery Company', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emma  Dinnis', 'title': 'Managing Director of Sofology', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Smith', 'title': 'Chief Executive Officer of DFS', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.0385
+exDividendDate§1701302400
+payoutRatio§0.53610003
+fiveYearAvgDividendYield§4.94
+beta§1.669
+priceToSalesTrailing12Months§0.2619049
+currency§GBp
+forwardEps§16.31
+pegRatio§0.4
+lastDividendValue§3.0
+lastDividendDate§1701302400
+exchange§LSE
+quoteType§EQUITY
+shortName§DFS FURNITURE PLC ORD GBP0.10
+longName§DFS Furniture plc
+firstTradeDateEpochUtc§1425628800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§414668fe-1edf-3c80-bcce-e6cd59ce492c
+messageBoardId§finmb_879328
+targetHighPrice§200.0
+targetLowPrice§121.0
+targetMeanPrice§166.2
+targetMedianPrice§175.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.116
+earningsGrowth§0.767
+grossMargins§0.54385
+ebitdaMargins§0.081549995
+trailingPegRatio§None

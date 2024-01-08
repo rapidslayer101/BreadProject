@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 09:45:09.586767
+address1§900 Wilshire Boulevard
+address2§Suite 1250
+city§Los Angeles
+state§CA
+zip§90017
+country§United States
+phone§213 382 2200
+website§https://www.hanmi.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Hanmi Financial Corporation operates as the holding company for Hanmi Bank that provides business banking products and services in the United States. It offers various deposit products, including noninterest-bearing checking accounts, interest-bearing checking and savings accounts, negotiable order of withdrawal accounts, money market accounts, and certificates of deposit. The company also provides real estate loans, such as commercial property, construction, and residential property loans; and commercial and industrial loans, such as commercial term loans and commercial lines of credit, as well as international finance, and trade services and products comprising letters of credit, and import and export financing. In addition, it offers consumer loans, secured and unsecured loans, home equity loans, residential mortgages, and credit cards; finance lending to small and middle market businesses; and small business administration loans for business purposes, which comprise owner-occupied commercial real estate, business acquisitions, start-ups, franchise financing, working capital, improvements and renovations, inventory and equipment, and debt-refinancing, as well as equipment lease financing. The company was founded in 1982 and is headquartered in Los Angeles, California.
+fullTimeEmployees§619
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Bonita I. Lee', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1563068, 'exercisedValue': 0, 'unexercisedValue': 416000}, {'maxAge': 1, 'name': 'Mr. Romolo C. Santarosa', 'age': 67, 'title': 'Senior EVP & CFO', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 799232, 'exercisedValue': 0, 'unexercisedValue': 36000}, {'maxAge': 1, 'name': 'Mr. Anthony I. Kim', 'age': 55, 'title': 'Senior EVP & Chief Banking Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 533978, 'exercisedValue': 0, 'unexercisedValue': 37500}, {'maxAge': 1, 'name': 'Mr. Matthew D. Fuhr', 'age': 60, 'title': 'EVP & Chief Credit Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 483924, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Du', 'age': 50, 'title': 'Senior VP & Chief Risk Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 362277, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph A. Pangrazio', 'age': 63, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vivian I. Kim', 'age': 41, 'title': 'Executive VP, General Counsel & Chief People Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0529
+exDividendDate§1698969600
+payoutRatio§0.3401
+fiveYearAvgDividendYield§4.61
+beta§0.998
+priceToSalesTrailing12Months§2.222767
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.39
+pegRatio§0.91
+exchange§NMS
+quoteType§EQUITY
+shortName§Hanmi Financial Corporation
+longName§Hanmi Financial Corporation
+firstTradeDateEpochUtc§765639000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ca549005-8f8c-37d6-aedd-db65722c3f41
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§22.0
+targetLowPrice§18.0
+targetMeanPrice§20.0
+targetMedianPrice§21.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+earningsGrowth§-0.306
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

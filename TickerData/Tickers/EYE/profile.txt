@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 04:44:39.938624
+address1§Building 2200
+address2§2435 Commerce Avenue
+city§Duluth
+state§GA
+zip§30096
+country§United States
+phone§770 822 3600
+website§https://www.nationalvision.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§National Vision Holdings, Inc., through its subsidiaries, operates as an optical retailer in the United States. The company operates in two segments, Owned & Host and Legacy. It offers eyeglasses and contact lenses, and optical accessory products; provides eye exams through its America's Best, Eyeglass World, Vista Optical, Fred Meyer, and Vista Optical military, as well as Vision Center branded stores; and offers health maintenance organization and optometric services. The company was founded in 1990 and is headquartered in Duluth, Georgia.
+fullTimeEmployees§13975
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. L. Reade Fahs', 'age': 62, 'title': 'CEO, President & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1023296, 'exercisedValue': 53125, 'unexercisedValue': 301111}, {'maxAge': 1, 'name': 'Mr. Patrick R. Moore', 'age': 59, 'title': 'Senior VP & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 630104, 'exercisedValue': 0, 'unexercisedValue': 2345684}, {'maxAge': 1, 'name': 'Mr. Jared  Brandman', 'age': 46, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 402214, 'exercisedValue': 0, 'unexercisedValue': 979969}, {'maxAge': 1, 'name': 'Mr. Joe  VanDette', 'age': 45, 'title': 'Senior VP & Chief Marketing Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 442081, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Clark', 'age': 48, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 382371, 'exercisedValue': 0, 'unexercisedValue': 258267}, {'maxAge': 1, 'name': 'Ms. Melissa  Rasmussen', 'age': 45, 'title': 'Senior VP, Chief Accounting Officer & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 208052, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ravi  Acharya', 'age': 48, 'title': 'Chief Technology Officer & Senior VP', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Mann C.F.A.', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacqueline  Grove', 'title': 'Senior VP of Talent, Development, Culture, Diversity, Equity & Inclusion and Philanthropy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Myrick', 'age': 58, 'title': 'Senior Vice President of Real Estate', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§6
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.371
+priceToSalesTrailing12Months§0.75436544
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.56
+pegRatio§4.89
+exchange§NMS
+quoteType§EQUITY
+shortName§National Vision Holdings, Inc.
+longName§National Vision Holdings, Inc.
+firstTradeDateEpochUtc§1509111000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eaa2d12d-8afc-3f0e-8440-64ec4770f054
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§18.0
+targetMeanPrice§21.0
+targetMedianPrice§19.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§0.952
+grossMargins§0.53274
+ebitdaMargins§0.06516
+trailingPegRatio§None

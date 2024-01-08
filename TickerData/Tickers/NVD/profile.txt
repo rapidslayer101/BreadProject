@@ -1,0 +1,23 @@
+# reload+after+2024-01-21 19:46:19.341723
+longBusinessSummary§The fund is an actively managed exchange traded fund that attempts to replicate 1.5x the inverse (-150%) daily percentage change of the underlying stock by entering into a swap agreement on the underlying stock. The fund advisor aims to generate the inverse daily performance of the underlying stock for a single day.
+maxAge§86400
+priceHint§2
+totalAssets§1904731
+navPrice§19.26
+currency§USD
+category§Trading--Inverse Equity
+ytdReturn§0.0117279
+beta3Year§0.0
+fundFamily§Graniteshares
+fundInceptionDate§1692576000
+legalType§Exchange Traded Fund
+exchange§NGM
+quoteType§ETF
+shortName§GraniteShares 1.5x Short NVDA D
+longName§GraniteShares 1.5x Short NVDA Daily ETF
+firstTradeDateEpochUtc§1692711000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§601892ec-e72b-33be-af57-266ca2354792
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

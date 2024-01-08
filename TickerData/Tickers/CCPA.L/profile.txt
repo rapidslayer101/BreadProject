@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 08:35:56.229839
+address1§Celtic Park
+city§Glasgow
+zip§G40 3RE
+country§United Kingdom
+phone§44 8712 261 888
+website§https://www.celticfc.com
+industry§Entertainment
+industryKey§entertainment
+industryDisp§Entertainment
+sector§Communication Services
+sectorKey§communication-services
+sectorDisp§Communication Services
+longBusinessSummary§Celtic plc, through its subsidiary, Celtic F.C. Limited, operates a professional football club in the United Kingdom. The company operates through three segments: Football and Stadium Operations, Merchandising, and Multimedia and Other Commercial Activities. It is involved in the operation of a professional football club covering various activities, including football operations and investment; operation of the Celtic FC Youth Academy; match ticketing; merchandising; partner programs; marketing and brand protection; multimedia; stadium operations; facilities and property; catering and hospitality; public and supporter relations; and human resources. The company also engages in the retail, wholesale, and e-commerce activities; and sale of television rights and sponsorships. Celtic plc was founded in 1887 and is based in Glasgow, the United Kingdom.
+fullTimeEmployees§942
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael Gordon Kenneth Nicholson', 'age': 47, 'title': 'CEO, Director of Legal & Football Affairs and Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 711937, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  McKay', 'age': 47, 'title': 'CFO & Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 565324, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher Michael Duffy', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.04
+dividendYield§0.028199999
+exDividendDate§1690416000
+fiveYearAvgDividendYield§2.75
+beta§0.335
+priceToSalesTrailing12Months§1.0336095
+currency§GBp
+lastDividendValue§3.6
+lastDividendDate§1690416000
+exchange§LSE
+quoteType§EQUITY
+shortName§CELTIC PLC 6% CNV CUM PRF 60P
+longName§Celtic plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§4fed80ef-065c-3e01-92a2-1f6ec3746c43
+messageBoardId§finmb_878673
+recommendationKey§none
+quickRatio§1.231
+grossMargins§0.20374
+ebitdaMargins§0.25188
+trailingPegRatio§None

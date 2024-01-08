@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 14:40:38.551960
+address1§35 Tameside Drive
+address2§Castle Bromwich
+city§Birmingham
+zip§B35 7AG
+country§United Kingdom
+phone§44 12 1748 8075
+fax§44 12 1748 8010
+website§https://tandemgroupplc.co.uk
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§Tandem Group plc designs, develops, distributes, and retails sports, leisure, and mobility products in the United Kingdom and internationally. The company offers bicycles and accessories under the Boss, British Eagle, Claud Butler, Dawes, Elswick, Explorer, Falcon, Pulse, Squish, Townsend, and Zombie brands; football training products under the Kickmaster and Strike brands; golf products under the Ben Sayers and Pro Rider brands; and garden and camping products under the Airwave and Airwave Four Seasons brands. It also provides homewares and household appliances under the Jack Stonehouse and Snapframes brands; mobility products under the Pro Rider brand; outdoor play products under the Airwave, Hedstrom Play, and Hedstrom brands; and snooker, pool, and table sports products under the Pot Black brand. In addition, the company offers wheeled toys under the Bored, E-moto, Li-Fe, Stunted, MoVe, Wired, and Zoomies brands. The company was incorporated in 1958 and is headquartered in Birmingham, the United Kingdom.
+fullTimeEmployees§74
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Peter Stuart Kimberley', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 241500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phil  Ratcliffe', 'age': 61, 'title': 'Group Commercial Director & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 187000, 'exercisedValue': 0, 'unexercisedValue': 100877}, {'maxAge': 1, 'name': 'Mr. David Steven Rock', 'title': 'Group Financial Controller & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.0625
+exDividendDate§1683763200
+payoutRatio§0.813
+fiveYearAvgDividendYield§2.7
+beta§1.335
+priceToSalesTrailing12Months§0.3373158
+currency§GBp
+forwardEps§7.2
+exchange§LSE
+quoteType§EQUITY
+shortName§TANDEM GROUP PLC ORD 25P
+longName§Tandem Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§07561f35-7c39-3b63-84c6-b6483ebd4c15
+targetHighPrice§350.0
+targetLowPrice§350.0
+targetMeanPrice§350.0
+targetMedianPrice§350.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.82
+grossMargins§0.26864
+ebitdaMargins§-0.00247
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 20:31:00.768870
+address1§150 North Bartlett Street
+city§Medford
+state§OR
+zip§97501
+country§United States
+phone§541 776 6401
+website§https://www.lithiamotors.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Lithia Motors, Inc. operates as an automotive retailer. The company operates through Domestic, Import, and Luxury segments. It offers new and used vehicles; vehicle financing services; warranties, insurance contracts, and vehicle and theft protection services; and automotive repair and maintenance services, as well as sells body and parts for the new vehicles under the Driveway and GreenCars brand names. The company provides its services through a network of locations, e-commerce platforms, and captive finance division in 28 states of the United States and 3 Canadian provinces. Lithia Motors, Inc. was founded in 1946 and is headquartered in Medford, Oregon.
+fullTimeEmployees§21875
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sidney B. DeBoer', 'age': 80, 'title': 'Founder & Chairman', 'yearBorn': 1943, 'fiscalYear': 2015, 'totalPay': 146667, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan B. DeBoer', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2015, 'totalPay': 3302852, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tina H. Miller', 'age': 41, 'title': 'Senior VP & CFO', 'yearBorn': 1982, 'fiscalYear': 2015, 'totalPay': 1124835, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher S. Holzshu', 'age': 50, 'title': 'Executive VP, COO & Secretary', 'yearBorn': 1973, 'fiscalYear': 2015, 'totalPay': 1865004, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George N. Hines', 'age': 50, 'title': 'Senior VP and Chief Technology & Innovation Officer', 'yearBorn': 1973, 'fiscalYear': 2015, 'totalPay': 921199, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Hillier', 'age': 60, 'title': 'Regional President', 'yearBorn': 1963, 'fiscalYear': 2015, 'totalPay': 1203997, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David G. Stork', 'age': 60, 'title': 'Senior VP & Chief Administrative Officer', 'yearBorn': 1963, 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary M. Glandon', 'age': 64, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1959, 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan L. Osterhout', 'title': 'Regional President', 'fiscalYear': 2015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Wai C. Liang', 'age': 67, 'title': 'Senior Vice President of DCH Operations', 'yearBorn': 1956, 'fiscalYear': 2015, 'totalPay': 583029, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1451520000
+maxAge§86400
+priceHint§2
+dividendRate§2.0
+dividendYield§0.0067000003
+exDividendDate§1699488000
+payoutRatio§0.048899997
+fiveYearAvgDividendYield§0.67
+beta§1.616
+priceToSalesTrailing12Months§0.2696801
+currency§USD
+dateShortInterest§1702598400
+forwardEps§37.34
+pegRatio§4.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lithia Motors, Inc.
+longName§Lithia Motors, Inc.
+firstTradeDateEpochUtc§850919400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§902341c5-95d0-36d1-b2eb-b0feb5c624b1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§440.0
+targetLowPrice§220.0
+targetMeanPrice§327.83
+targetMedianPrice§327.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.287
+earningsGrowth§-0.206
+grossMargins§0.16909
+ebitdaMargins§0.06404
+trailingPegRatio§0.6266

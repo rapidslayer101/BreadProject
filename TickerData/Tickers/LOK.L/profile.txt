@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 07:39:35.306508
+address1§112 Hawley Lane
+city§Farnborough
+zip§GU14 8JE
+country§United Kingdom
+phone§44 12 5252 1010
+website§https://www.loknstore.co.uk
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Lok'nStore Group Plc engages in the development and operation of self-storage centers in the United Kingdom. It offers household storage services for storage rooms, vehicle storage, student packages, and forces and services packages. The company also operates business self-storage units for storage rooms, pallet storage, document archiving, flexible space, and commercial vehicle storage; and provides insurance services. It operates through 42 stores under the Lok'nStore brand. The company was founded in 1995 and is headquartered in Farnborough, the United Kingdom.
+fullTimeEmployees§193
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew  Jacobs', 'age': 64, 'title': 'Executive Chairman', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 275520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil James John Newman-Shepherd', 'age': 47, 'title': 'Group MD & Executive Director', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 210342, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond Alan Davies', 'age': 66, 'title': 'Group Finance Director & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 543005, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Stephen Lampard', 'age': 42, 'title': 'Property Director & Executive Director', 'yearBorn': 1981, 'fiscalYear': 2023, 'totalPay': 89142, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.19
+dividendYield§0.0234
+exDividendDate§1700697600
+payoutRatio§1.1502
+fiveYearAvgDividendYield§2.0
+beta§0.69
+priceToSalesTrailing12Months§10.736036
+currency§GBp
+forwardEps§30.45
+exchange§LSE
+quoteType§EQUITY
+shortName§LOK'N STORE GROUP PLC ORD 1P
+longName§Lok'nStore Group Plc
+firstTradeDateEpochUtc§962175600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8088467f-b762-3d1f-b6c6-28a61bf05385
+targetHighPrice§1352.0
+targetLowPrice§950.0
+targetMeanPrice§1151.0
+targetMedianPrice§1151.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§5.531
+earningsGrowth§-0.68
+grossMargins§0.55461
+ebitdaMargins§0.47585
+trailingPegRatio§None

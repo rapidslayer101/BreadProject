@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 07:34:16.939663
+address1§100 Valvoline Way
+address2§Suite 100
+city§Lexington
+state§KY
+zip§40509
+country§United States
+phone§859 357 7777
+website§https://www.valvoline.com
+industry§Oil & Gas Refining & Marketing
+sector§Energy
+longBusinessSummary§Valvoline Inc. engages in the operation and franchising of vehicle service centers and retail stores in the United States and Canada. The company, through its service centers, provides fluid exchange for motor oil, transmission and differential fluid, and coolant; parts replacement for batteries, filters, wiper blades, and belts; and safety services, such as tire inflation and rotation, bulbs, and safety checks. It offers its services for passenger cars, hybrid and battery electric vehicles, and light and medium duty vehicles. The company was founded in 1866 and is headquartered in Lexington, Kentucky.
+fullTimeEmployees§9600
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lori A. Flees', 'age': 53, 'title': 'CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1357849, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary E. Meixelsperger', 'age': 63, 'title': 'Chief Financial Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1216181, 'exercisedValue': 0, 'unexercisedValue': 2045667}, {'maxAge': 1, 'name': "Ms. Julie Marie O'Daniel", 'age': 56, 'title': 'Senior VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 798192, 'exercisedValue': 156619, 'unexercisedValue': 322014}, {'maxAge': 1, 'name': 'Mr. Linne R. Fulcher', 'age': 52, 'title': 'Senior VP & COO', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dione R. Sturgeon', 'age': 45, 'title': 'Chief Accounting Officer & Controller', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Travis Dobbins', 'age': 51, 'title': 'Senior VP & CTO', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mahmoud B. Sharaf', 'title': 'VP of Investor Relations & Chief Liaison to Investment Community', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan L. Caldwell', 'age': 46, 'title': 'Senior VP & Chief People Officer', 'yearBorn': 1977, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher R. Mottet', 'title': 'Chief Audit Executive', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jordan M. Denny', 'title': 'Treasurer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0146
+exDividendDate§1669852800
+payoutRatio§0.1016
+fiveYearAvgDividendYield§1.68
+beta§1.412
+priceToSalesTrailing12Months§3.1517456
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.94
+pegRatio§2.2
+exchange§NYQ
+quoteType§EQUITY
+shortName§Valvoline Inc.
+longName§Valvoline Inc.
+firstTradeDateEpochUtc§1474637400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9904bfb7-91d7-3eee-8f3f-14ce2248fdea
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§46.0
+targetLowPrice§36.0
+targetMeanPrice§39.78
+targetMedianPrice§40.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§2.334
+earningsGrowth§0.403
+grossMargins§0.37721002
+ebitdaMargins§0.25189
+trailingPegRatio§None

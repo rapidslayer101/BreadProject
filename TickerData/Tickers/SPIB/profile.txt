@@ -1,0 +1,26 @@
+# reload+after+2024-01-20 03:33:22.057010
+longBusinessSummary§The fund invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of U.S. corporate bonds that have a maturity of greater than or equal to 1 year and less than 10 years.
+maxAge§86400
+priceHint§2
+yield§0.038399998
+totalAssets§7520081920
+navPrice§32.55164
+currency§USD
+category§Corporate Bond
+ytdReturn§-0.0082242
+beta3Year§0.79
+fundFamily§SPDR State Street Global Advisors
+fundInceptionDate§1234224000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§-0.0165997
+fiveYearAverageReturn§0.0239573
+exchange§PCX
+quoteType§ETF
+shortName§SPDR Portfolio Intermediate Ter
+longName§SPDR Portfolio Intermediate Term Corporate Bond ETF
+firstTradeDateEpochUtc§1235140200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a1882b5-5007-37c3-97df-43c535c1b516
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

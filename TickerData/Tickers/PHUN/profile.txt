@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 10:46:37.417410
+address1§1002 West Avenue
+city§Austin
+state§TX
+zip§78701
+country§United States
+phone§512 693 4199
+website§https://www.phunware.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Phunware, Inc., together with its subsidiaries, offers integrated software platform that equips companies with the products, solutions, and services to engage, manage, and monetize their mobile application portfolios in the United States and internationally. The company's products and services include cloud-based mobile software that licenses in software development kits (SDKs) form utilized inside mobile applications, such as analytics that provides data related to application use and engagement; content management that allows application administrators to create and manage app content in a cloud-based portal; alerts, notifications, and messaging; marketing automation that enables location-triggered messages and workflow; advertising; and location-based services that include mapping, navigation, wayfinding, workflow, asset management, and policy enforcement. It is also involved in the integration of its SDK licenses into existing applications maintained by its customers, as well as custom application development and support services; provision of cloud-based vertical solutions for healthcare, retail, sports, aviation, real estate, hospitality, education, and other applications; offering application transactions, including re-occurring and one-time transactional media purchases for application discovery, user acquisition and audience building, audience engagement, and audience monetization; and pre-packaged and custom high-end personal computer systems for gaming, streaming, and cryptocurrency mining enthusiasts. The company was founded in 2009 and is headquartered in Austin, Texas.
+fullTimeEmployees§106
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher D. Olive', 'age': 53, 'title': 'Executive VP, General Counsel & Chief Legal Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 354102, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Snavely', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Troy Lee Reisner', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendhan  Botkin', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tushar  Patel', 'title': 'Executive Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeremy  Kidd', 'title': 'Senior Vice President of Sales & Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randall  Crowder', 'age': 43, 'title': 'Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 606760, 'exercisedValue': 0, 'unexercisedValue': 463590}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§10.179
+priceToSalesTrailing12Months§0.8613042
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.1
+exchange§NCM
+quoteType§EQUITY
+shortName§Phunware, Inc.
+longName§Phunware, Inc.
+firstTradeDateEpochUtc§1477661400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§afde7489-c9bc-35d9-b98b-a0b2905a42a8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.5
+targetLowPrice§0.15
+targetMeanPrice§0.78
+targetMedianPrice§0.73
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.215
+grossMargins§0.12672
+ebitdaMargins§-1.63637
+trailingPegRatio§None

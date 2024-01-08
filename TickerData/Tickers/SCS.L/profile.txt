@@ -1,0 +1,44 @@
+# reload+after+2024-01-22 23:40:21.014912
+address1§45-49 Villiers Street
+city§Sunderland
+zip§SR1 1HA
+country§United Kingdom
+phone§44 1917 313 000
+website§https://www.scsplc.co.uk
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§ScS Group plc, together with its subsidiaries, engages in the retail of upholstered furniture, flooring, and related products in the United Kingdom. Its stores offer various furniture products; and flooring products, such as carpets, rugs, wood, and laminate and vinyl tiling products. The company also provides sofa products. The company also sells its products stores and online through its Website, scs.co.uk. ScS Group plc was incorporated in 1996 and is headquartered in Sunderland, the United Kingdom.
+fullTimeEmployees§1801
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steve Trevor Carson', 'age': 56, 'title': 'CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 576584, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Fleetwood', 'title': 'Chief Financial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard Alexander Dominic Beere ACA', 'age': 57, 'title': 'Operations Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 254685, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucy  Clough', 'title': 'People Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard James Butts', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary George Kemp', 'age': 61, 'title': 'Logistics Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 191906, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.15
+dividendYield§0.054899998
+exDividendDate§1700092800
+payoutRatio§1.1157
+fiveYearAvgDividendYield§7.83
+beta§0.752
+priceToSalesTrailing12Months§0.27464703
+currency§GBp
+forwardEps§22.1
+exchange§LSE
+quoteType§EQUITY
+shortName§SCS GROUP PLC ORD 0.1P
+longName§ScS Group plc
+firstTradeDateEpochUtc§1422432000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§01dd4ddb-f43b-3a04-a3f4-4e9ae8e52c9a
+targetHighPrice§270.0
+targetLowPrice§270.0
+targetMeanPrice§270.0
+targetMedianPrice§270.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.829
+earningsGrowth§-0.384
+grossMargins§0.46767
+ebitdaMargins§0.042329997
+trailingPegRatio§None

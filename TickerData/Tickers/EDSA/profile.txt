@@ -1,0 +1,41 @@
+# reload+after+2024-01-23 10:44:30.481054
+address1§100 Spy Court
+city§Markham
+state§ON
+zip§L3R 5H6
+country§Canada
+phone§289 800 9600
+website§https://www.edesabiotech.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Edesa Biotech, Inc., a clinical-stage biopharmaceutical company, engages in the research and development, manufacture, and commercialization of pharmaceutical products for inflammatory and immune-related diseases. Its lead product candidates are EB05, a monoclonal antibody, which is in Phase 3 clinical study for the treatment of acute respiratory distress syndrome in Covid-19 patients; and EB01, a topical vanishing cream containing non-steroidal anti-inflammatory compound that has completed Phase 2b clinical study to treat chronic allergic contact dermatitis. The company also develops EB02, an extension of secretory phospholipase 2 anti-inflammatory cream for treating erythema, swelling, and exudation associated with hemorrhoids disease; and EB06, an anti- chemokine ligand 10 (CXCL10) monoclonal antibody in vitiligo. It has a collaboration agreement with NovImmune SA to develop monoclonal antibodies targeting products containing toll-like receptor 4 and CXCL10 for therapeutic, prophylactic, and diagnostic applications in humans and animals; and Yissum Research Development Company for the development of products for therapeutic, prophylactic, and diagnostic uses in topical dermal and anorectal applications, as well as for the use in dermatologic and gastrointestinal conditions. The company was founded in 2015 and is headquartered in Markham, Canada.
+fullTimeEmployees§16
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Pardeep  Nijhawan FRCPC, M.D.', 'age': 52, 'title': 'CEO, Company Secretary & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 475332, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael J. Brooks M.B.A., Ph.D.', 'age': 45, 'title': 'President', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 439274, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen L. Lemieux BA, CA, CPA, MMPA', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 402856, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.932
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.5
+exchange§NCM
+quoteType§EQUITY
+shortName§Edesa Biotech, Inc.
+longName§Edesa Biotech, Inc.
+firstTradeDateEpochUtc§1277127000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§feae63c9-ecbf-391a-bfe7-79648f666a2a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§57.0
+targetLowPrice§21.0
+targetMeanPrice§36.67
+targetMedianPrice§32.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.287
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

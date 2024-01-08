@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 10:31:14.190297
+address1§4350 South Monaco Street
+address2§Suite 500
+city§Denver
+state§CO
+zip§80237
+country§United States
+phone§303 773 1100
+website§https://www.mdcholdings.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§M.D.C. Holdings, Inc., through its subsidiaries, engages in the homebuilding and financial service businesses. Its homebuilding operations include purchasing finished lots or developing lots for the construction and sale primarily of single-family detached homes to first-time and first-time move-up homebuyers under the Richmond American Homes name. The company conducts its homebuilding operations in Arizona, California, Nevada, New Mexico, Oregon, Texas, Washington, Colorado, Idaho, Utah, Alabama, Florida, Maryland, Pennsylvania, Tennessee, and Virginia. Its financial services operations comprise originating mortgage loans primarily for homebuyers; providing insurance coverage primarily to its homebuilding subsidiaries and subcontractors for homes sold by its homebuilding subsidiaries, and for work performed in completed subdivisions; acting as a re-insurer on the claims; selling third-party personal property and casualty insurance products to homebuyers; and offering title agency services to homebuilding subsidiaries and customers in Colorado, Florida, Maryland, Nevada, Pennsylvania, and Virginia. The company was founded in 1972 and is headquartered in Denver, Colorado.
+fullTimeEmployees§1643
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Larry A. Mizel', 'age': 80, 'title': 'Executive Chairman', 'yearBorn': 1943, 'fiscalYear': 2022, 'totalPay': 8169570, 'exercisedValue': 0, 'unexercisedValue': 15734004}, {'maxAge': 1, 'name': 'Mr. David D. Mandarich', 'age': 75, 'title': 'President, CEO & Director', 'yearBorn': 1948, 'fiscalYear': 2022, 'totalPay': 7009060, 'exercisedValue': 14913409, 'unexercisedValue': 2321856}, {'maxAge': 1, 'name': 'Mr. Robert Nathaniel Martin', 'age': 44, 'title': 'Senior VP & CFO', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 2359420, 'exercisedValue': 0, 'unexercisedValue': 310343}, {'maxAge': 1, 'name': 'Mr. Michael L. Kaplan J.D.', 'age': 54, 'title': 'SVP & General Counsel', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 529799, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Derek R. Kimmerle', 'age': 38, 'title': 'VP, Chief Accounting Officer & Controller', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan  Berry', 'title': 'Director of Corporate Finance & Assistant Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Krista  Montgomery', 'title': 'Senior VP of Human Resources & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack  Gallagher', 'title': 'Regional President of Maryland, Virginia & Florida - Richmond American Homes Corporation', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn  Huth', 'title': 'Senior VP of National Finance - Richmond American Homes', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Natasha  Gandhi', 'title': 'Senior Division President of South, North  & Central Colorado', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.1
+dividendYield§0.039300002
+exDividendDate§1699315200
+payoutRatio§0.4262
+fiveYearAvgDividendYield§3.94
+beta§1.569
+priceToSalesTrailing12Months§0.8284783
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.16
+pegRatio§0.8
+exchange§NYQ
+quoteType§EQUITY
+shortName§M.D.C. Holdings, Inc.
+longName§M.D.C. Holdings, Inc.
+firstTradeDateEpochUtc§321633000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§40735821-c5e2-343f-b2a7-9546718a2bdc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§57.0
+targetLowPrice§49.0
+targetMeanPrice§52.6
+targetMedianPrice§51.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§2.752
+earningsGrowth§-0.292
+grossMargins§0.20236999
+ebitdaMargins§0.11726
+trailingPegRatio§None

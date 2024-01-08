@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 06:35:37.125156
+address1§33 Kingsway
+city§London
+zip§WC2B 6UF
+country§United Kingdom
+phone§44 2075 165 000
+website§https://www.ascential.com
+industry§Advertising Agencies
+industryKey§advertising-agencies
+industryDisp§Advertising Agencies
+sector§Communication Services
+sectorKey§communication-services
+sectorDisp§Communication Services
+longBusinessSummary§Ascential plc provides specialist information, analytics, events, and e-commerce optimization platforms in the United Kingdom, rest of Europe, the United States, Canada, China, rest of the Asia Pacific, the Middle East, Africa, and Latin America. The company operates through four segments: Digital Commerce, Product Design, Marketing, and Retail & Financial Services. It offers industry-specific business intelligence, insights, and forecasting through data and digital subscription tools and events. The company was formerly known as Trident Floatco PLC and changed its name to Ascential plc in January 2016. Ascential plc was incorporated in 2016 and is based in London, the United Kingdom.
+fullTimeEmployees§3500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Duncan Anthony Painter', 'age': 53, 'title': 'CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 948000, 'exercisedValue': 0, 'unexercisedValue': 40758}, {'maxAge': 1, 'name': 'Ms. Amanda Jane Gradden', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 702000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sean  Harley', 'title': 'Chief Information Officer & President of Siberia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rory  Elliott', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracey  Gray', 'title': 'Chief People Officer & EVP of People', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Thomas', 'title': 'Chief Executive of Futures, Intelligence & Events', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Payne', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stuart  Carnegie', 'title': 'Chief Product Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carla  Buzasi', 'title': 'President of Product Design', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James C. DiPaula Jr.', 'age': 61, 'title': 'President of Digital Commerce', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1589414400
+payoutRatio§0.0
+beta§1.088
+priceToSalesTrailing12Months§2.2839608
+currency§GBp
+forwardEps§15.93
+pegRatio§1.58
+lastDividendValue§4.0
+lastDividendDate§1589414400
+exchange§LSE
+quoteType§EQUITY
+shortName§ASCENTIAL PLC ORD 1P
+longName§Ascential plc
+firstTradeDateEpochUtc§1455004800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§21b9b1a7-96f7-3718-918b-fc651527c71b
+messageBoardId§finmb_322192511
+targetHighPrice§365.0
+targetLowPrice§310.0
+targetMeanPrice§334.17
+targetMedianPrice§327.5
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.882
+grossMargins§0.6146
+ebitdaMargins§0.18123
+trailingPegRatio§None

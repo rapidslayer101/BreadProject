@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 10:31:25.452792
+address1§200 Oceangate
+address2§Suite 100
+city§Long Beach
+state§CA
+zip§90802
+country§United States
+phone§562 435 3666
+website§https://www.molinahealthcare.com
+industry§Healthcare Plans
+sector§Healthcare
+longBusinessSummary§Molina Healthcare, Inc. provides managed healthcare services to low-income families and individuals under the Medicaid and Medicare programs and through the state insurance marketplaces. It operates in four segments, Medicaid, Medicare, Marketplace, and Other. The company served in across 19 states. The company was founded in 1980 and is headquartered in Long Beach, California.
+fullTimeEmployees§15000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph Michael Zubretsky', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 7131388, 'exercisedValue': 127159688, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Lowell Keim', 'age': 58, 'title': 'Senior EVP, CFO & Treasurer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2724929, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Edwin Woys', 'age': 64, 'title': 'Senior EVP & COO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 2333986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Don Barlow Esq., J.D., M.P.H.', 'age': 60, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1999599, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maurice Sebastian Hebert CPA', 'age': 60, 'title': 'Chief Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph F. Krocheski CFA', 'age': 53, 'title': 'Senior Vice President of Investor Relations', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joann  Zarza-Garrido', 'title': 'Vice President of Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry D. Anderson', 'title': 'Executive VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Keith  Wilson', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Thomas Reynolds', 'title': 'Senior Vice President of Health Plans', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.492
+priceToSalesTrailing12Months§0.6790696
+currency§USD
+dateShortInterest§1702598400
+forwardEps§23.56
+pegRatio§1.17
+exchange§NYQ
+quoteType§EQUITY
+shortName§Molina Healthcare Inc
+longName§Molina Healthcare, Inc.
+firstTradeDateEpochUtc§1057152600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ad253301-9204-3ff9-bc7b-63207e5d5b0a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§435.0
+targetLowPrice§315.0
+targetMeanPrice§379.23
+targetMedianPrice§380.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§13
+quickRatio§1.429
+earningsGrowth§0.066
+grossMargins§0.13217
+ebitdaMargins§0.052210003
+trailingPegRatio§None

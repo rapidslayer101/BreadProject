@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 02:39:43.602793
+address1§The Shard
+address2§Level 12 32 London Bridge Street
+city§London
+zip§SE1 9SG
+country§United Kingdom
+phone§44 330 6780710
+website§https://www.mitie.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§Mitie Group plc, together with its subsidiaries, provides strategic outsourcing services in the United Kingdom and internationally. The company operates in eight segments: Business Services, Technical Services, Central Government & Defense (CG&D), Communities, Care & Custody, Landscapes, Waste, and Spain. The company provides security services, such as manned guarding and technology-backed monitoring solutions, and fire and security systems installations; and general, specialist, and technical cleaning services in offices, buildings, transport and logistics hubs, and high-security environments. It is also involved in the provision of technology-backed engineering; maintenance, repair, and mechanical and electrical project activities; energy, carbon, and water management services; air conditioning and disinfection solutions; telecoms and energy services; and remote asset monitoring and digital workplace solutions. In addition, the company provides facilities management services across central government and defense contracts; decarbonization solutions; and engineering services. Further, it offers integrated facilities management services to public sector customers, which focuses on community environments in healthcare, schools and universities, emergency services, and local authorities; portering services; public services in immigration, criminal justice, and healthcare; horticultural and winter landscaping services; and waste reduction and treatment solutions. The company was incorporated in 1936 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§65000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Phil  Bentley', 'age': 64, 'title': 'CEO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 1921593, 'exercisedValue': 0, 'unexercisedValue': 2791806}, {'maxAge': 1, 'name': 'Mr. Simon Charles Kirkpatrick', 'age': 45, 'title': 'CFO & Executive Director', 'yearBorn': 1978, 'fiscalYear': 2023, 'totalPay': 688696, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cijo  Joseph', 'title': 'Chief Technology & Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fiona  Lawrence', 'title': 'Group IR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Dickinson', 'title': 'Chief Legal Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jasmine  Hudson', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Saunders', 'title': 'Managing Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Towse', 'title': 'Managing Director of Business Services', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim  Howell', 'title': 'Managing Director of Landscapes Business', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Venn', 'title': 'Managing Director of Technical Services & Chief Government Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§9
+shareHolderRightsRisk§10
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.033099998
+exDividendDate§1702512000
+payoutRatio§0.42029998
+fiveYearAvgDividendYield§3.33
+beta§1.313
+priceToSalesTrailing12Months§0.32114732
+currency§GBp
+forwardEps§10.59
+pegRatio§9.51
+exchange§LSE
+quoteType§EQUITY
+shortName§MITIE GROUP PLC ORD 2.5P
+longName§Mitie Group plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§8010d7a3-554d-3ee7-9b9f-d4ca745545f4
+targetHighPrice§137.0
+targetLowPrice§125.0
+targetMeanPrice§129.4
+targetMedianPrice§125.0
+recommendationMean§1.2
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§0.87
+earningsGrowth§0.304
+grossMargins§0.108739994
+ebitdaMargins§0.04343
+trailingPegRatio§None

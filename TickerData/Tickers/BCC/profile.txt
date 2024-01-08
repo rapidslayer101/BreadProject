@@ -1,0 +1,62 @@
+# reload+after+2024-01-20 07:27:09.391706
+address1§1111 West Jefferson Street
+address2§Suite 300
+city§Boise
+state§ID
+zip§83702-5389
+country§United States
+phone§208 384 6161
+website§https://www.bc.com
+industry§Building Materials
+industryKey§building-materials
+industryDisp§Building Materials
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Boise Cascade Company engages in manufacture of wood products and distribution of building materials in the United States and Canada. It operates through two segments, Wood Products and Building Materials Distribution. The Wood Products segment manufactures laminated veneer lumber and laminated beams used in headers and beams; I-joists for residential and commercial flooring and roofing systems, and other structural applications; structural, appearance, and industrial plywood panels; and ponderosa pine lumber products. This segment's products are used in new residential construction, residential repair-and-remodeling markets, light commercial construction, and industrial applications. It sells its products to dealers, home improvement centers, wholesalers, specialty distributors, and industrial converters. The Building Materials Distribution segment distributes a line of building materials, including oriented strand boards, plywood, and lumber; general line items, such as siding, composite decking, doors, metal products, insulation, and roofing; and engineered wood products. This segment sells its products to dealers, home improvement centers, and specialty distributors. The company was incorporated in 2004 and is headquartered in Boise, Idaho.
+fullTimeEmployees§7250
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nathan R. Jorgensen', 'age': 58, 'title': 'CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3469906, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kelly E. Hibbs', 'age': 57, 'title': 'Senior VP, CFO, Principal Financial & Accounting Officer and Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1369702, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jill M. Twedt', 'age': 43, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 1088719, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dean Michael Brown', 'age': 61, 'title': 'Executive Vice President of Wood Products', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1450702, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Robert Strom', 'age': 55, 'title': 'Executive Vice President of Building Materials Distribution', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1413092, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin D. Nuxoll', 'age': 63, 'title': 'Senior Vice President of Human Resources', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Hoffmann', 'age': 64, 'title': 'Senior Vice President of Purchasing - Building Materials Distribution', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Johnson', 'age': 58, 'title': 'Senior Vice President of Engineered Wood Products Sales & Marketing, Wood Products', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Seymour', 'age': 51, 'title': 'Senior Vice President of Manufacturing Operations - Wood Products', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim R. Wickham', 'age': 57, 'title': 'Senior VP of Building Materials Distribution & Eastern Operations', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0062
+exDividendDate§1701302400
+payoutRatio§0.0515
+fiveYearAvgDividendYield§0.85
+beta§1.601
+priceToSalesTrailing12Months§0.74406105
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.25
+pegRatio§-0.43
+lastDividendValue§5.2
+lastDividendDate§1701302400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Boise Cascade, L.L.C.
+longName§Boise Cascade Company
+firstTradeDateEpochUtc§1360161000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1fc5efe0-2098-3df2-813a-97ce9f2f586f
+messageBoardId§finmb_26014489
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§156.0
+targetLowPrice§112.0
+targetMeanPrice§128.8
+targetMedianPrice§130.0
+recommendationMean§2.8
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§2.522
+earningsGrowth§-0.351
+grossMargins§0.21024
+ebitdaMargins§0.11514
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 16:46:59.550151
+address1§399 Binney Street
+address2§2nd Floor
+city§Cambridge
+state§MA
+zip§02139
+country§United States
+phone§617 370 8837
+website§https://www.relaytx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Relay Therapeutics, Inc. operates as a clinical-stage precision medicines company. It engages in transforming the drug discovery process with an initial focus on enhancing small molecule therapeutic discovery in targeted oncology and genetic disease indications. The company's lead product candidates include RLY-4008, an oral small molecule inhibitor of fibroblast growth factor receptor 2 (FGFR2), which is in a first-in-human clinical trial for patients with advanced or metastatic FGFR2-altered solid tumors; RLY-2608, a lead mutant-PI3Ka inhibitor program that targets phosphoinostide 3 kinase alpha; and GDC-1971, an oral small molecule inhibitor of protein tyrosine phosphatase Src homology region 2 domain-containing phosphatase-2 that is in Phase 1 trial in patients with advanced solid tumors. In addition, it has collaboration and license agreements with D. E. Shaw Research, LLC to research certain biological targets through the use of D. E. Shaw Research computational modeling capabilities focused on analysis of protein motion to develop and commercialize compounds and products directed to such targets; and Genentech, Inc. for the development and commercialization of GDC-1971. The company was formerly known as Allostery, Inc. and changed its name to Relay Therapeutics, Inc. in December 2015. Relay Therapeutics, Inc. was incorporated in 2015 and is headquartered in Cambridge, Massachusetts.
+fullTimeEmployees§343
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexis A. Borisy A.M.', 'age': 51, 'title': 'Co-Founder & Independent Chairman', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 85000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Sanjiv K. Patel M.A., M.B.A., M.D., MBBS', 'age': 49, 'title': 'CEO, President & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1026746, 'exercisedValue': 4483852, 'unexercisedValue': 9815068}, {'maxAge': 1, 'name': 'Dr. Mark  Murcko Ph.D.', 'age': 63, 'title': 'Co-Founder & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Catinazzo', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 599825, 'exercisedValue': 1023379, 'unexercisedValue': 815077}, {'maxAge': 1, 'name': 'Mr. Brian R. Adams J.D.', 'age': 49, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 598534, 'exercisedValue': 0, 'unexercisedValue': 2299209}, {'maxAge': 1, 'name': 'Dr. Donald A. Bergstrom M.D., Ph.D.', 'age': 51, 'title': 'President of Research & Development', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 711255, 'exercisedValue': 3393188, 'unexercisedValue': 2519389}, {'maxAge': 1, 'name': 'Mr. Peter  Rahmer', 'title': 'Chief Corporate Development Officer', 'fiscalYear': 2022, 'totalPay': 570517, 'exercisedValue': 519960, 'unexercisedValue': 153865}, {'maxAge': 1, 'name': 'Dr. Deborah  Palestrant Ph.D.', 'title': 'Vice President of Corporate Development & Strategy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Watters Ph.D.', 'title': 'Chief Scientific Officer of Late Research', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Beni B. Wolf M.D., Ph.D.', 'title': 'Chief Medical Officer & Head of Precision Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.659
+priceToSalesTrailing12Months§54.945484
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.09
+pegRatio§0.04
+exchange§NGM
+quoteType§EQUITY
+shortName§Relay Therapeutics, Inc.
+longName§Relay Therapeutics, Inc.
+firstTradeDateEpochUtc§1594906200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b35ff0f0-789e-3476-a6a9-2f56995bbd89
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§33.0
+targetLowPrice§9.4
+targetMeanPrice§22.4
+targetMedianPrice§24.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§15.977
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

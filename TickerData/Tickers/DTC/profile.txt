@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 19:28:46.019810
+address1§1001 Mustang Drive
+city§Grapevine
+state§TX
+zip§76051
+country§United States
+phone§817 900 2664
+website§https://solobrands.com
+industry§Internet Retail
+sector§Consumer Cyclical
+longBusinessSummary§Solo Brands, Inc. operates a direct-to-consumer platform that offers outdoor and lifestyle branded products in the United States. The company provides camp stoves under the Solo Stove Lite brand name; fire pits under the Solo Stove brand name; kayaks under the Oru brand name; paddle boards under the ISLE brand name; and storage solutions for fire pits, firewood, and other accessories. It also offers swim trunks, casual shorts, sport products, polos, shirts, and lounge products under the Chubbies brand name; consumables, such as color packs, starters, natural charcoal, and firewood products; and accessories comprising shelters, shields, roasting sticks, tools, paddles, and pumps under the Solo Stove, Oru, and ISLE brands. Solo Brands, Inc. was founded in 2011 and is headquartered in Grapevine, Texas.
+fullTimeEmployees§350
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John  Merris', 'age': 40, 'title': 'President, CEO & Director', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1147524, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Andrea K. Tarbox', 'age': 72, 'title': 'Interim CFO & Director', 'yearBorn': 1951, 'fiscalYear': 2022, 'totalPay': 72250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew Scott Webb', 'age': 35, 'title': 'Chief Operating Officer', 'yearBorn': 1988, 'fiscalYear': 2022, 'totalPay': 8775439, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kent Roger Christensen', 'age': 43, 'title': 'General Counsel', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 368118, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Lee Studdard', 'age': 54, 'title': 'Chief People Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§6
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.851
+priceToSalesTrailing12Months§0.6479839
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.03
+pegRatio§0.47
+exchange§NYQ
+quoteType§EQUITY
+shortName§Solo Brands, Inc.
+longName§Solo Brands, Inc.
+firstTradeDateEpochUtc§1635427800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7e49f5ea-79bf-300f-b075-c265a1eade45
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§5.5
+targetMeanPrice§8.75
+targetMedianPrice§8.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.754
+grossMargins§0.61458
+ebitdaMargins§0.12717
+trailingPegRatio§None

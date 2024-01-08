@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 03:43:20.309583
+address1§2121 Rosecrans Avenue
+address2§Suite 6300
+city§El Segundo
+state§CA
+zip§90245
+country§United States
+phone§310 587 1477
+website§https://www.amark.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§A-Mark Precious Metals, Inc., together with its subsidiaries, operates as a precious metals trading company. It operates through three segments: Wholesale Sales & Ancillary Services, Direct-to-Consumer, and Secured Lending. The Wholesale Sales & Ancillary Services segment sells gold, silver, platinum, and palladium in the form of bars, plates, powders, wafers, grains, ingots, and coins. This segment also offers various ancillary services, including financing, storage, consignment, logistics, and various customized financial programs; and designs and produces minted silver products. The Direct-to-Consumer segment provides access to an array of gold, silver, copper, platinum, and palladium products primarily through its websites. It operates various company-owned websites targeting specific niches within the precious metals retail market. This segment also operates as a direct retailer of precious metals to the investor community and markets its precious metal products on television, radio, and the internet, as well as through customer service outreach. The Secured Lending segment originates and acquires commercial loans secured by bullion and numismatic coins; and serves coin and precious metal dealers, investors, and collectors. It serves customers, including financial institutions, bullion retailers, industrial manufacturers and fabricators, sovereign mints, refiners, coin and metal dealers, investors, collectors, and e-commerce and other retail customers. The company has operations in the United States, rest of North America, Europe, the Asia Pacific, Africa, and Australia. A-Mark Precious Metals, Inc. was founded in 1965 and is headquartered in El Segundo, California.
+fullTimeEmployees§413
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gregory N. Roberts', 'age': 61, 'title': 'CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1451081, 'exercisedValue': 2823523, 'unexercisedValue': 30772520}, {'maxAge': 1, 'name': 'Mr. Thor G. Gjerdrum', 'age': 56, 'title': 'President', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1430878, 'exercisedValue': 627571, 'unexercisedValue': 480556}, {'maxAge': 1, 'name': 'Ms. Kathleen  Simpson-Taylor', 'age': 60, 'title': 'CFO, Executive VP & Assistant Secretary', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 928725, 'exercisedValue': 0, 'unexercisedValue': 1028950}, {'maxAge': 1, 'name': 'Mr. Brian  Aquilino', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 616534, 'exercisedValue': 0, 'unexercisedValue': 2177700}, {'maxAge': 1, 'name': 'Mr. Michael Robert Wittmeyer', 'age': 33, 'title': 'Director & Consultant', 'yearBorn': 1990, 'fiscalYear': 2023, 'totalPay': 757086, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Armik  Zakian', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven H. Reiner', 'title': 'Executive VP of Capital Markets & Investor Relations and President of CFC', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Meltzer', 'age': 65, 'title': 'Executive VP, General Counsel, Secretary & Director', 'yearBorn': 1958, 'fiscalYear': 2023, 'totalPay': 311298, 'exercisedValue': 0, 'unexercisedValue': 34375}, {'maxAge': 1, 'name': 'Mr. David W. G. Madge', 'age': 63, 'title': 'Chief Marketing Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 557873, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamie  Meadows', 'title': 'President of AMST', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§3
+compensationRisk§6
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.0274
+exDividendDate§1696809600
+payoutRatio§0.1515
+beta§0.074
+priceToSalesTrailing12Months§0.06854548
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.39
+exchange§NMS
+quoteType§EQUITY
+shortName§A-Mark Precious Metals, Inc.
+longName§A-Mark Precious Metals, Inc.
+firstTradeDateEpochUtc§1395063000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f5ed9b96-36bf-3f00-a863-b2f53370e2f6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§40.0
+targetMeanPrice§41.25
+targetMedianPrice§40.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.227
+earningsGrowth§-0.579
+grossMargins§0.0271
+ebitdaMargins§0.018070001
+trailingPegRatio§None

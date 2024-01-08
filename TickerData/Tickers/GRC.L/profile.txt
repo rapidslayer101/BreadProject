@@ -1,0 +1,40 @@
+# reload+after+2024-01-21 21:38:06.079667
+address1§Clive Court
+address2§Unit 3 Bartholomews Walk Cambridgeshire Business Park
+city§Ely
+zip§CB7 4EA
+country§United Kingdom
+phone§44 33 0999 0222
+website§https://www.grci.group
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§GRC International Group plc offers various products and services to address the information technology (IT) governance, risk management, and compliance requirements of organizations in the United Kingdom, rest of Europe, the United States, Ireland, Italy, Australia, and internationally. The company provides classroom-based training courses related to data protection, cyber security, ISO 27001 certification and related topics. It also offers on-site and remote support consulting services to help organizations design and implement data protection, privacy, and cyber security policies and procedures, including penetration testing, and payment card industry data security standards. In addition, the company publishes and distributes books, templates, and software; develops and sells software solutions; and software-as-a service products, such as cyber essentials certification, CyberComply platform, vulnerability scanning, e-learning, privacy as a service, and document kits templates. GRC International Group plc was founded in 2002 and is headquartered in Ely, the United Kingdom.
+fullTimeEmployees§176
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alan Philip Calder', 'age': 66, 'title': 'CEO & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 297000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher John Hartshorne FCCA', 'age': 40, 'title': 'Finance Director, Company Secretary & Executive Director', 'yearBorn': 1983, 'fiscalYear': 2023, 'totalPay': 175000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.473
+priceToSalesTrailing12Months§0.3066108
+currency§GBp
+forwardEps§0.1
+exchange§LSE
+quoteType§EQUITY
+shortName§GRC INTERNATIONAL GROUP PLC ORD
+longName§GRC International Group plc
+firstTradeDateEpochUtc§1520236800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§604e6976-7dbb-3c56-b03f-37572bfde5bc
+targetHighPrice§20.0
+targetLowPrice§16.0
+targetMeanPrice§18.0
+targetMedianPrice§18.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.216
+grossMargins§0.60551
+ebitdaMargins§-0.12987
+trailingPegRatio§None

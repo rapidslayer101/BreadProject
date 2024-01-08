@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 01:30:50.432612
+address1§1 Corporate Way
+city§Lansing
+state§MI
+zip§48951
+country§United States
+phone§517 381 5500
+website§https://www.jackson.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§Jackson Financial Inc., through its subsidiaries, primarily provides a suite of annuities to retail investors in the United States. The company operates through three segments: Retail Annuities, Institutional Products, and Closed Life and Annuity Blocks. The Retail Annuities segment offers various retirement income and savings products, including variable, fixed index, fixed, and payout annuities, as well as registered index-linked annuities and lifetime income solutions. The Institutional Products segment provides traditional guaranteed investment contracts; funding agreements comprising agreements issued in conjunction with its participation in the U.S. federal home loan bank program; and medium-term funding agreement-backed notes. The Closed Life and Annuity Blocks segment offers various protection products, such as whole life, universal life, variable universal life, and term life insurance products, as well as fixed, fixed index, and payout annuities; and a block of group payout annuities. The company also offers investment management services. It sells its products through a distribution network that includes independent broker-dealers, banks and other financial institutions, warehouses and regional broker-dealers, and independent registered investment advisors, third-party platforms, and insurance agents. The company was formerly known as Brooke (Holdco1) Inc. and changed its name to Jackson Financial Inc. in July 2020. Jackson Financial Inc. was incorporated in 2006 and is headquartered in Lansing, Michigan.
+fullTimeEmployees§2975
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Laura Louene Prieskorn', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2874120, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marcia Lynn Wadsten F.S.A.', 'age': 56, 'title': 'Executive VP & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2096600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig Donald Smith C.F.A.', 'age': 55, 'title': 'President, CEO & Chief Investment Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2469991, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Eric Romine', 'age': 58, 'title': 'President & CEO of Jackson National Life Distributors LLC', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1565748, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Devkumar Dilip Ganguly', 'age': 47, 'title': 'Executive VP & COO', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Don Wayne Cummings', 'age': 59, 'title': 'Senior VP, Controller & Chief Accounting Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Ray Hicks', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth Ann Werner', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie Lynn Chelko', 'age': 49, 'title': 'Executive VP & General Counsel', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dana Scamarcia Rapier', 'title': 'Senior VP & Chief Human Resources Officer of Jackson', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§2
+compensationRisk§2
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.48
+dividendYield§0.0502
+exDividendDate§1701216000
+payoutRatio§0.2133
+beta§1.557
+priceToSalesTrailing12Months§0.7946791
+currency§USD
+dateShortInterest§1702598400
+forwardEps§15.62
+exchange§NYQ
+quoteType§EQUITY
+shortName§Jackson Financial Inc.
+longName§Jackson Financial Inc.
+firstTradeDateEpochUtc§1630503000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4cf82481-8ac3-3810-b9e8-53c6d59c556b
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§55.0
+targetLowPrice§38.0
+targetMeanPrice§45.8
+targetMedianPrice§43.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.103
+earningsGrowth§0.56
+grossMargins§-0.010930001
+ebitdaMargins§0.0
+trailingPegRatio§None

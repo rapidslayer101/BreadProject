@@ -1,0 +1,37 @@
+# reload+after+2024-01-23 08:39:57.216580
+address1§Namber House
+address2§23 Davis Road
+city§Chessington
+zip§KT9 1HS
+country§United Kingdom
+phone§44 20 8296 7000
+website§https://www.northamber.com
+industry§Electronics & Computer Distribution
+sector§Technology
+longBusinessSummary§Northamber plc, together with its subsidiaries, engages in the supply of computer hardware, computer printers and peripheral products, computer telephony products, and other electronic transmission equipment in the United Kingdom. The company offers audio visual products, such as collaboration and conferencing, connectivity and control, interactive displays, lighting, live solutions, professional audio and displays, projection, and security and thermal solutions; and computer accessories and components, dictation, disk and memory, laptop/desktop PCs, mice and keyboards, monitors, tablets and virtual desktop. It also provides networking and security, including cloud security and management, endpoint and network security, firewall feature licenses, and networking and security accessories; barcode solutions; and office products, printers, and scanners; as well as DM SW and solutions. In addition, the company offers servers and infrastructure comprising infrastructure HW and SW, server component, servers, storage and backup, and UPS. Further, it provides desktop and server apps, and desktop and server OS. The company also exports its products to the Republic of Ireland, the Channel Islands, Isle of Man, and members of the European Union. Northamber plc was incorporated in 1980 and is headquartered in Chessington, the United Kingdom.
+fullTimeEmployees§108
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Alexander Michael Phillips', 'age': 36, 'title': 'Executive Chairman', 'yearBorn': 1987, 'fiscalYear': 2023, 'totalPay': 50000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Phelim Henry', 'age': 61, 'title': 'Operations Director & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 123000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Antony Richard Lee', 'age': 57, 'title': 'Finance Director & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 121000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Dosanjh', 'age': 54, 'title': 'Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 115000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Keefe', 'title': 'Group MD & Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sivapragasam  Yoganathan ACMA', 'title': 'CFO & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.01
+dividendYield§0.0135
+exDividendDate§1702512000
+payoutRatio§0.48389998
+fiveYearAvgDividendYield§1.04
+beta§-0.081
+priceToSalesTrailing12Months§0.18046527
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§NORTHAMBER PLC ORD 1P
+longName§Northamber plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§96e79c63-835d-32d6-84ca-275bce813473
+recommendationKey§none
+quickRatio§1.335
+grossMargins§0.13262999
+ebitdaMargins§-0.00115
+trailingPegRatio§None

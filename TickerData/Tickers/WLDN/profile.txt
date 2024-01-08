@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 04:48:00.478456
+address1§2401 East Katella Avenue
+address2§Suite 300
+city§Anaheim
+state§CA
+zip§92806
+country§United States
+phone§800 424 9144
+fax§714 940 4920
+website§https://www.willdan.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Willdan Group, Inc., together with its subsidiaries, provides professional, technical and consulting services primarily in the United States. It operates in two segments, Energy, and Engineering and Consulting. The Energy segment offers comprehensive audit and surveys, program design, master planning, demand reduction, grid optimization, benchmarking analyses, design engineering, construction management, performance contracting, installation, alternative financing, and measurement and verification services, as well as software and data analytics. The Engineering and Consulting segment provides building and safety, city engineering and code enforcement, development plan review and inspection, disaster recovery, geotechnical and earthquake engineering, planning and surveying, contract staff support, program and construction management, structural engineering, transportation and traffic engineering, and water resources services. This segment also offers district administration, financial consulting, and federal compliance services. It serves public and governmental agencies, including cities, counties, redevelopment agencies, water districts, school districts, and universities; investor and municipal owned energy utilities; state and federal agencies; and commercial and industrial firms, as well as various other special districts and agencies. The company was founded in 1964 and is headquartered in Anaheim, California.
+fullTimeEmployees§1491
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael A. Bieber', 'age': 54, 'title': 'CEO, Director & President', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 918753, 'exercisedValue': 468870, 'unexercisedValue': 516551}, {'maxAge': 1, 'name': 'Mr. Creighton K. Early', 'age': 70, 'title': 'Executive VP & CFO', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 429250, 'exercisedValue': 0, 'unexercisedValue': 239833}, {'maxAge': 1, 'name': 'Mr. Micah H. Chen', 'age': 50, 'title': 'Executive VP & General Counsel', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 409766, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Albert Leo Kaschalk CPA', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kate M. Nguyen', 'title': 'Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§5
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.399
+priceToSalesTrailing12Months§0.5742655
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.51
+exchange§NGM
+quoteType§EQUITY
+shortName§Willdan Group, Inc.
+longName§Willdan Group, Inc.
+firstTradeDateEpochUtc§1164119400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1d7dbf89-355a-333a-acb2-516758ab35a7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§26.0
+targetLowPrice§25.0
+targetMeanPrice§25.5
+targetMedianPrice§25.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.477
+earningsGrowth§17.975
+grossMargins§0.36018002
+ebitdaMargins§0.06776
+trailingPegRatio§None

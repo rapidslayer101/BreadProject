@@ -1,0 +1,42 @@
+# reload+after+2024-01-21 07:35:55.931844
+address1§32-33 Cowcross Street
+city§London
+zip§EC1M 6DF
+country§United Kingdom
+phone§44 20 3150 0252
+website§https://celadonpharma.com/
+industry§Drug Manufacturers - Specialty & Generic
+industryKey§drug-manufacturers-specialty-generic
+industryDisp§Drug Manufacturers - Specialty & Generic
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§Celadon Pharmaceuticals Plc engages in the research, cultivation, manufacturing, and sale of cannabis-based medicines. The company primarily focuses on growing indoor hydroponic cannabis for use in medicinal products used to treat chronic pain, as well as autism spectrum disorders. Celadon Pharmaceuticals Plc was founded in 2018 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§24
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Gareth Short', 'age': 55, 'title': 'CEO & Executive Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 246150, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan Paul Turner', 'age': 45, 'title': 'CFO & Director', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerin  Williams', 'age': 53, 'title': 'Company Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§3516.2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§CELADON PHARMACEUTICALS PLC ORD
+longName§Celadon Pharmaceuticals Plc
+firstTradeDateEpochUtc§1648710000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§75700cf1-0670-379a-8b0b-9d83c3694b7b
+messageBoardId§finmb_665486265
+targetHighPrice§235.0
+targetLowPrice§235.0
+targetMeanPrice§235.0
+targetMedianPrice§235.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.84
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

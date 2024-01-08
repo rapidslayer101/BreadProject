@@ -1,0 +1,30 @@
+# reload+after+2024-01-23 01:41:15.378012
+address1§FWD Financial Centre
+address2§6th Floor Unit 607 308 Des Voeux Road Central
+city§Sheung Wan
+country§Hong Kong
+website§https://www.worldsec.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Worldsec Limited, a closed-ended investment company, invests in small and medium sized trading companies in the Greater China and South East Asian regions. The company was founded in 1991 and is based in Sheung Wan, Hong Kong.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ying-Chew  Cheong B.Sc., CPA, MSc.', 'age': 76, 'title': 'Deputy Chairman', 'yearBorn': 1947, 'fiscalYear': 2022, 'totalPay': 9431, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiu Shun  She', 'age': 63, 'title': 'Executive Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 9431, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.961
+priceToSalesTrailing12Months§1.0899314
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§WORLDSEC LD ORD USD0.001
+longName§Worldsec Limited
+firstTradeDateEpochUtc§978422400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§99452f75-706c-3bcb-8295-41c2d95c96e8
+recommendationKey§none
+quickRatio§32.468
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 09:31:32.363356
+address1§8800 East Raintree Drive
+address2§Suite 300
+city§Scottsdale
+state§AZ
+zip§85260
+country§United States
+phone§480 515 8100
+website§https://www.meritagehomes.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§Meritage Homes Corporation, together with its subsidiaries, designs and builds single-family attached and detached homes in the United States. The company operates through two segments, Homebuilding and Financial Services. It acquires and develops land; and constructs, markets, and sells homes for first-time and first move-up buyers in Texas, Arizona, California, Colorado, Florida, North Carolina, South Carolina, Georgia, and Tennessee. The company also offers title and escrow, mortgage, title insurance, and closing/settlement services to its homebuyers. Meritage Homes Corporation was founded in 1985 and is based in Scottsdale, Arizona.
+fullTimeEmployees§1921
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven J. Hilton', 'age': 62, 'title': 'Executive Chairman', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 2030349, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillippe  Lord', 'age': 49, 'title': 'Executive VP, CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 4347983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hilla  Sferruzza', 'age': 47, 'title': 'CFO & Executive VP', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2139639, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clinton  Szubinski', 'age': 46, 'title': 'Executive VP & COO', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 2677744, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Malissia R. Clinton', 'age': 54, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1238231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Javier  Feliciano', 'age': 49, 'title': 'Chief People Officer & Executive VP', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 970075, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison L. Sasser', 'age': 47, 'title': 'VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emily  Tadano', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Hahn', 'title': 'President of Greenville-South Carolina Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elliot A. Mann', 'title': 'Southern California Division President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.08
+dividendYield§0.0064
+exDividendDate§1702512000
+payoutRatio§0.0374
+beta§1.818
+priceToSalesTrailing12Months§0.9449861
+currency§USD
+dateShortInterest§1702598400
+forwardEps§19.27
+pegRatio§-0.7
+exchange§NYQ
+quoteType§EQUITY
+shortName§Meritage Homes Corporation
+longName§Meritage Homes Corporation
+firstTradeDateEpochUtc§585927000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§559c9b34-8729-3717-a36a-84533a4273db
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§207.0
+targetLowPrice§151.0
+targetMeanPrice§176.88
+targetMedianPrice§173.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.951
+earningsGrowth§-0.158
+grossMargins§0.24749
+ebitdaMargins§0.1575
+trailingPegRatio§None

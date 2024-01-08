@@ -1,0 +1,60 @@
+# reload+after+2024-01-22 23:26:15.310289
+address1§Aegonplein 50
+address2§PO Box 85
+city§The Hague
+zip§2501 CB
+country§Netherlands
+phone§31 70 344 8305
+website§https://www.aegon.com
+industry§Insurance - Diversified
+industryKey§insurance-diversified
+industryDisp§Insurance - Diversified
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Aegon Ltd. provides insurance, pensions, retirement, and asset management services in the Americas, the Netherlands, the United Kingdom, and internationally. The company offers life, accident, property and casualty, and health insurance; annuities, retirement plans, and mutual funds; mortgage loans; and individual retirement accounts, as well as stable value, investment management, and digital banking solutions. It offers its products under the Aegon and Transamerica brands. The company was founded in 1844 and is headquartered in The Hague, the Netherlands.
+fullTimeEmployees§18500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. E.  Friese', 'age': 61, 'title': 'CEO & Chairman of Management Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 3187100, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew James Rider', 'age': 60, 'title': 'CFO & Member of Executive Board', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2249267, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Marco Baptist Arie Keim RA', 'age': 61, 'title': 'CEO of Aegon International & Member of the Management Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Onno van Klinken', 'age': 54, 'title': 'General Counsel, Executive VP & Member of the Management Board', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bas Christian NieuweWeme', 'age': 51, 'title': 'CEO of Aegon Asset Management & Member of Management Board', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Anthony Holliday-Williams', 'age': 53, 'title': 'CEO of Aegon UK & Member of Management Board', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duncan  Russell', 'age': 45, 'title': 'Chief Transformation Officer & Member of Management Board', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wilford Herndon Fuller', 'age': 52, 'title': 'Member of the Management Board and CEO of Aegon Americas', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elisabetta  Caldera', 'age': 53, 'title': 'Chief Human Resources Officer & Member of the Management Board', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deborah  Waters', 'age': 56, 'title': 'CTO & Member of the Management Board', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§10
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.28
+dividendYield§0.048899997
+exDividendDate§1693267200
+payoutRatio§0.66160005
+fiveYearAvgDividendYield§5.36
+beta§1.209
+priceToSalesTrailing12Months§-0.7587742
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.7
+pegRatio§-0.01
+lastDividendValue§0.151
+lastDividendDate§1693267200
+exchange§NYQ
+quoteType§EQUITY
+shortName§Aegon Ltd. New York Registry Sh
+longName§Aegon Ltd.
+firstTradeDateEpochUtc§488813400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fa4c72bf-54d8-3b25-b1d6-80228088fc24
+messageBoardId§finmb_247906
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.36
+targetLowPrice§5.36
+targetMeanPrice§5.36
+targetMedianPrice§5.36
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.045
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

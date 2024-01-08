@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 05:35:56.785850
+address1§Business Centre Victory
+address2§10th Floor 103, Ibraimov Street
+city§Bishkek
+zip§720011
+country§Kyrgyzstan
+phone§996 312 976100
+website§https://www.chaarat.com
+industry§Gold
+industryKey§gold
+industryDisp§Gold
+sector§Basic Materials
+sectorKey§basic-materials
+sectorDisp§Basic Materials
+longBusinessSummary§Chaarat Gold Holdings Limited operates as a gold mining company. The company owns and operates the Tulkubash and the Kyzyltash gold projects in the Kyrgyz Republic, as well as the Kapan mine in Armenia. It explores for gold, copper, and zinc deposits. Chaarat Gold Holdings Limited was incorporated in 2007 and is based in Bishkek, Kyrgyzstan.
+fullTimeEmployees§1132
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martin Axel Christer Andersson', 'age': 57, 'title': 'Executive Chairman', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 216127, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Mackenzie', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Wiwen-Nilsson', 'title': 'Senior Advisor', 'fiscalYear': 2022, 'totalPay': 390600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dimitar Lazarov Dimitrov', 'title': 'Senior Vice President of Exploration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.767
+priceToSalesTrailing12Months§0.55402225
+currency§GBp
+forwardEps§-0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§CHAARAT GOLD HOLDINGS LTD ORD U
+longName§Chaarat Gold Holdings Limited
+firstTradeDateEpochUtc§1194508800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§2ab0c60c-7a77-328c-bb5b-0f033112e9da
+messageBoardId§finmb_38648491
+targetHighPrice§0.11
+targetLowPrice§0.11
+targetMeanPrice§0.11
+targetMedianPrice§0.11
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.097
+grossMargins§-0.01211
+ebitdaMargins§-0.03122
+trailingPegRatio§None

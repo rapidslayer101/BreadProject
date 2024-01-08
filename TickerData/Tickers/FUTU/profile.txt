@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 22:44:55.709457
+address1§Bangkok Bank Building
+address2§11th Floor No. 18 Bonham Strand West
+city§Sheung Wan
+country§Hong Kong
+phone§852 2523 3588
+website§https://www.futuholdings.com
+industry§Capital Markets
+sector§Financial Services
+longBusinessSummary§Futu Holdings Limited provides digitalized securities brokerage and wealth management product distribution service in Hong Kong and internationally. It offers online financial services, including securities and derivative trades brokerage, margin financing and fund distribution services through its Futubull and Moomoo digital platforms. The company also provides financial information and online community services; online wealth management services under the brand of Money Plus through its Futubull and moomoo platforms, which give access to mutual funds, private funds, and bonds; market data and information services; and NiuNiu Community, which serves as an open forum for users and clients to share insights, ask questions, and exchange ideas. In addition, the company provides initial public offering subscription and employee share option plan solution services. Futu Holdings Limited was founded in 2007 and is based in Sheung Wan, Hong Kong.
+fullTimeEmployees§2784
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hua  Li', 'age': 46, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1977, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu  Chen', 'age': 47, 'title': 'Chief Financial Officer', 'yearBorn': 1976, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Yuan', 'title': 'Chief of Staff & Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching-Yee Joey  Poon', 'age': 36, 'title': 'Head of Compliance', 'yearBorn': 1987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li  Xu', 'age': 40, 'title': 'Senior Vice President', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.791
+priceToSalesTrailing12Months§0.7909011
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.4
+pegRatio§62.46
+exchange§NGM
+quoteType§EQUITY
+shortName§Futu Holdings Limited
+longName§Futu Holdings Limited
+firstTradeDateEpochUtc§1552055400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c659d3f5-2e77-317e-8fff-518767e3783a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§89.94
+targetLowPrice§45.94
+targetMeanPrice§69.09
+targetMedianPrice§70.4
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§1.262
+earningsGrowth§0.485
+grossMargins§0.9315
+ebitdaMargins§0.0
+trailingPegRatio§None

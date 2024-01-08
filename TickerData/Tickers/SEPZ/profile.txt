@@ -1,0 +1,24 @@
+# reload+after+2024-01-22 13:33:06.941706
+longBusinessSummary§The fund is an actively-managed ETF that seeks to achieve its investment objective by investing substantially all of its assets in options on the S&P 500 Price Index. It will purchase call options and sell put options on the S&P 500 Price Index or an ETF that seeks to track the performance of the S&P 500 Price Index on each Initial Investment Day with an expiration on the next Roll Date. It is non-diversified.
+maxAge§86400
+priceHint§2
+yield§0.0355
+totalAssets§17230530
+navPrice§33.048
+currency§USD
+ytdReturn§-0.0121523
+beta3Year§0.71
+fundFamily§TrueShares
+fundInceptionDate§1598832000
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0931807
+exchange§BTS
+quoteType§ETF
+shortName§Listed Funds Trust TrueShares S
+longName§TrueShares Structured Outcome (September) ETF
+firstTradeDateEpochUtc§1598967000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7e5aa462-d889-391c-adff-788c71180e77
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

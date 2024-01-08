@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 19:46:31.752964
+address1§3000 Tannery Way
+city§Santa Clara
+state§CA
+zip§95054
+country§United States
+phone§408 753 4000
+fax§408 753 4001
+website§https://www.paloaltonetworks.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§Palo Alto Networks, Inc. provides cybersecurity solutions worldwide. The company offers firewall appliances and software; and Panorama, a security management solution for the global control of network security platform as a virtual or a physical appliance. It also provides subscription services covering the areas of threat prevention, malware and persistent threat, URL filtering, laptop and mobile device protection, DNS security, Internet of Things security, SaaS security API, and SaaS security inline, as well as threat intelligence, and data loss prevention. In addition, the company offers cloud security, secure access, security operations, and threat intelligence and security consulting; professional services, including architecture design and planning, implementation, configuration, and firewall migration; education services, such as certifications, as well as online and in-classroom training; and support services. It sells its products and services through its channel partners, as well as directly to medium to large enterprises, service providers, and government entities operating in various industries, including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications. Palo Alto Networks, Inc. was incorporated in 2005 and is headquartered in Santa Clara, California.
+fullTimeEmployees§14182
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Nikesh  Arora C.F.A.', 'age': 55, 'title': 'Chairman & CEO', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 6050885, 'exercisedValue': 104070288, 'unexercisedValue': 551369984}, {'maxAge': 1, 'name': 'Mr. William D. Jenkins Jr.', 'age': 57, 'title': 'President', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1906836, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nir  Zuk', 'age': 51, 'title': 'Founder, Executive VP, CTO & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1124878, 'exercisedValue': 6230576, 'unexercisedValue': 279869696}, {'maxAge': 1, 'name': 'Mr. Dipak  Golechha', 'age': 49, 'title': 'Executive VP & CFO', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 1502023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee  Klarich', 'age': 48, 'title': 'Executive VP & Chief Product Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1407023, 'exercisedValue': 55569752, 'unexercisedValue': 323085984}, {'maxAge': 1, 'name': 'Mr. Yuming  Mao', 'title': 'Founder & Chief Architect', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Josh D. Paul', 'age': 47, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meerah  Rajavel', 'age': 51, 'title': 'Chief Information Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Clay  Bilby', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Byrd', 'title': 'Executive VP, General Counsel & Corporate Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§10
+shareHolderRightsRisk§9
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.265
+priceToSalesTrailing12Months§12.3772545
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.42
+pegRatio§2.29
+exchange§NMS
+quoteType§EQUITY
+shortName§Palo Alto Networks, Inc.
+longName§Palo Alto Networks, Inc.
+firstTradeDateEpochUtc§1342791000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cdadbf64-62b3-3acb-993b-eee92ff5b66f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§400.0
+targetLowPrice§190.0
+targetMeanPrice§297.37
+targetMedianPrice§290.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§41
+quickRatio§0.766
+earningsGrowth§8.333
+grossMargins§0.73352
+ebitdaMargins§0.10872
+trailingPegRatio§1.9136

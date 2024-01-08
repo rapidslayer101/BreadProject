@@ -1,0 +1,35 @@
+# reload+after+2024-01-21 13:44:48.225628
+address1§Building 5
+address2§2nd Floor No.18, Gongping Road Hongkou District
+city§Shanghai
+zip§200082
+country§China
+phone§86 21 6417 9625
+website§https://www.qk365.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§FLJ Group Limited operates a long-term apartment rental platform in the People's Republic of China. The company leases apartments from landlords, transforms them into standardized furnished rooms, and leases to people. It also provides internet connection and utility services as part of the lease agreement. The company was formerly known as Q&K International Group Limited and changed its name to FLJ Group Limited in September 2022. FLJ Group Limited was founded in 2012 and is based in Shanghai, the People's Republic of China.
+fullTimeEmployees§28
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Chengcai  Qu', 'age': 40, 'title': 'Chairman of the Board, CEO, COO & VP', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhichen  Sun', 'age': 40, 'title': 'Chief Financial Officer', 'yearBorn': 1983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jiamin  Chen', 'age': 42, 'title': 'VP, GM of Investment & Financing Department and Director', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gang  Xie', 'age': 50, 'title': 'CTO & Director', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zongquan  Yang', 'age': 39, 'title': 'Head of Product Management, Senior Manager of IT Center & Director', 'yearBorn': 1984, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§-1.113
+priceToSalesTrailing12Months§0.528828
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§FLJ Group Limited
+longName§FLJ Group Limited
+firstTradeDateEpochUtc§1572964200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97862cb9-27a4-3c38-8768-30f983a78e9a
+gmtOffSetMilliseconds§-18000000
+recommendationMean§3.0
+recommendationKey§hold
+quickRatio§0.06
+grossMargins§-0.071440004
+ebitdaMargins§-1.00583
+trailingPegRatio§None

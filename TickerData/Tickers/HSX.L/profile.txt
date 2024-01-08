@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 08:38:15.644830
+address1§Chesney House
+address2§96 Pitts Bay Road
+city§Pembroke
+zip§HM 08
+country§Bermuda
+phone§441-278-8300
+website§https://www.hiscoxgroup.com
+industry§Insurance—Property & Casualty
+sector§Financial Services
+longBusinessSummary§Hiscox Ltd, through its subsidiaries, provides insurance and reinsurance services in the United Kingdom, Europe, the United States, and internationally. The company operates through four segments: Hiscox Retail, Hiscox London Market, Hiscox Re & ILS, and Corporate Centre. It offers commercial insurance for small-and medium-sized businesses; and personal lines cover, including high-value household, fine art, luxury motor, classic car, and partners and direct-to-consumer using both traditional and digital trading models. The company also provides property insurance; marine and energy insurance; aviation insurance; casualty insurance; specialty insurance; kidnap and ransom insurance; and other specialty insurance, such as contingency, terrorism, personal accident, and product recall. In addition, it offers healthcare and casualty reinsurance services, as well as investment services. Hiscox Ltd was founded in 1901 and is headquartered in Pembroke, Bermuda.
+fullTimeEmployees§3000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hamayou Akbar Hussain', 'age': 50, 'title': 'Group CEO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1390959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul David Cooper', 'age': 51, 'title': 'Group CFO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1421284, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joanne Riddick Musselle', 'age': 52, 'title': 'Group Chief Underwriting Officer & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1099542, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephane  Flaquet', 'title': 'Group Chief Operations & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd  Isaac', 'title': 'Group Chief Investment & Treasury Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Loake', 'title': 'Group Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Dr. Yana  O'Sullivan", 'title': 'Group Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marc  Wetherhill', 'age': 50, 'title': 'Group General Counsel & Company Secretary', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Ms. Kylie  O'Connor", 'title': 'Group Communications Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Regine  Fiddler', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.29
+dividendYield§0.0276
+exDividendDate§1692230400
+payoutRatio§0.4987
+fiveYearAvgDividendYield§2.21
+beta§0.629
+priceToSalesTrailing12Months§1.1996971
+currency§GBp
+forwardEps§1.29
+pegRatio§0.3
+exchange§LSE
+quoteType§EQUITY
+shortName§HISCOX LTD ORD 6.5P (DI)
+longName§Hiscox Ltd
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§dcbb09fc-05e5-32c4-b6ef-ea114be1f2c2
+targetHighPrice§15.06
+targetLowPrice§9.65
+targetMeanPrice§12.19
+targetMedianPrice§12.44
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§3.273
+earningsGrowth§6.299
+grossMargins§0.24488
+ebitdaMargins§0.122700006
+trailingPegRatio§None

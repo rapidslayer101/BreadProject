@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 10:48:04.929969
+address1§711 Broadway
+address2§Suite 320
+city§San Antonio
+state§TX
+zip§78215
+country§United States
+phone§210 678 3700
+website§https://www.xpel.com
+industry§Auto Parts
+sector§Consumer Cyclical
+longBusinessSummary§XPEL, Inc. sells, distributes, and installs after-market automotive products. The company offers automotive surface and paint protection, headlight protection, and automotive and architectural window films, as well as proprietary software. It also provides merchandise and apparel; ceramic coatings; and tools and accessories, which include squeegees and microfiber towels, application fluids, plotter cutters, knives, and other products. In addition, the company offers paint protection kits, car wash products, after-care products, and installation tools through its website. The company sells and distributes its products through independent installers and new car dealerships, third-party distributors, automobile original equipment manufacturers, and company-owned installation centers, as well as through franchisees and online channels. The company serves in the United States, China, Canada, Continental Europe, the United Kingdom, Asia Pacific, Latin America, the Middle East/Africa, and internationally. XPEL, Inc. was founded in 1997 and is headquartered in San Antonio, Texas.
+fullTimeEmployees§818
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan L. Pape', 'age': 41, 'title': 'Chairman, President & CEO', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 782835, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barry R. Wood', 'age': 60, 'title': 'Senior VP & CFO', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 490024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy A. Hartt', 'age': 55, 'title': 'Co-Founder and VP of Technical Operations & OEM', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 199828, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tunde  Awodiran', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Mayall', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Pu', 'title': 'Managing Director of Asia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Rimas', 'title': 'Vice President of Revenue', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christen L. Coffee', 'title': 'VP & Controller', 'fiscalYear': 2022, 'totalPay': 71255, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Christopher  Hardy', 'title': 'Sales Manager of U.S. East', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§8
+compensationRisk§4
+shareHolderRightsRisk§6
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.642
+priceToSalesTrailing12Months§3.7952502
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.33
+exchange§NCM
+quoteType§EQUITY
+shortName§XPEL, Inc.
+longName§XPEL, Inc.
+firstTradeDateEpochUtc§1561987800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7fc7868d-d9d6-3f33-883c-efa1cab0b86a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§74.0
+targetLowPrice§60.0
+targetMeanPrice§67.0
+targetMedianPrice§67.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.741
+earningsGrowth§0.021
+grossMargins§0.41309
+ebitdaMargins§0.19657
+trailingPegRatio§None

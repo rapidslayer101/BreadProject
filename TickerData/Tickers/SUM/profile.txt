@@ -1,0 +1,52 @@
+# reload+after+2024-01-23 04:33:30.832366
+address1§1801 California Street
+address2§Suite 3500
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§303 893 0012
+fax§303 893 6993
+website§https://summit-materials.com
+industry§Building Materials
+sector§Basic Materials
+longBusinessSummary§Summit Materials, Inc. operates as a vertically integrated construction materials company. It operates in three segments: West, East, and Cement. The company offers aggregates, cement, ready-mix concrete, asphalt paving mixes, and concrete products, as well as plastics components. It also provides asphalt paving and related services. In addition, the company operates municipal waste, construction, and demolition debris landfills; and liquid asphalt terminals. It serves the public infrastructure, and residential and nonresidential end markets in the United States; and in British Columbia, Canada. The company was founded in 2009 and is headquartered in Denver, Colorado.
+fullTimeEmployees§4800
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Anne P. Noonan', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2277624, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Burke Gaskill', 'age': 41, 'title': 'Executive VP, Chief Legal Officer & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 743460, 'exercisedValue': 0, 'unexercisedValue': 6912}, {'maxAge': 1, 'name': 'Ms. Karli S. Anderson', 'age': 50, 'title': 'Executive VP of Chief People & ESG Officer and Head of Communications', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 679857, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian J. Harris', 'age': 67, 'title': 'Executive Officer', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1026946, 'exercisedValue': 0, 'unexercisedValue': 86472}, {'maxAge': 1, 'name': 'Mr. Kekin M. Ghelani', 'age': 49, 'title': 'Chief Strategy & Growth Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 840559, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Anderson', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Larkin', 'title': 'Vice President, Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Trent  Musso', 'title': 'Senior VP of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Loomes', 'title': 'President of Continental Cement Company, L.L.C.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julio  DaSilva', 'title': 'Chief Information Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.352
+priceToSalesTrailing12Months§1.7508137
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.76
+pegRatio§1.32
+exchange§NYQ
+quoteType§EQUITY
+shortName§Summit Materials, Inc.
+longName§Summit Materials, Inc.
+firstTradeDateEpochUtc§1426167000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6970bdc2-2010-30b9-803f-bdcf3973858a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§50.0
+targetLowPrice§39.0
+targetMeanPrice§43.09
+targetMedianPrice§43.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§1.761
+earningsGrowth§1.667
+grossMargins§0.29119
+ebitdaMargins§0.21313
+trailingPegRatio§None

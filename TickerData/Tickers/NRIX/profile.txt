@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 08:46:16.784880
+address1§1700 Owens Street
+address2§Suite 205
+city§San Francisco
+state§CA
+zip§94158
+country§United States
+phone§415 660 5320
+fax§415 525 4200
+website§https://www.nurixtx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Nurix Therapeutics, Inc., a clinical stage biopharmaceutical company, focuses on the discovery, development, and commercialization of small molecule and cell therapies for the treatment of cancer and other diseases. The company develops NX-2127, an orally bioavailable Bruton's tyrosine kinase (BTK) degrader for the treatment of relapsed or refractory B-cell malignancies; NX-5948, an orally bioavailable BTK degrader for the treatment of relapsed or refractory B-cell malignancies and autoimmune diseases; and NX-1607, an orally bioavailable Casitas B-lineage lymphoma proto-oncogene-B (CBL-B) inhibitor for immuno-oncology indications. It is also developing DeTIL-0255, a drug-enhanced investigational cell therapy product that uses NX-0255 ex vivo to enhance tumor infiltrating lymphocytes propagation and phenotypic characteristics. The company has a strategic collaboration agreement with Gilead Sciences, Inc. to discover, develop, and commercialize a pipeline of protein degradation drugs for patients with cancer and other challenging diseases; and Sanofi S.A. The company was formerly known as Nurix Inc. and changed its name to Nurix Therapeutics, Inc. in October 2018. The company was incorporated in 2009 and is headquartered in San Francisco, California.
+fullTimeEmployees§297
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Arthur T. Sands M.D., Ph.D.', 'age': 61, 'title': 'CEO, President & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 910982, 'exercisedValue': 0, 'unexercisedValue': 3619367}, {'maxAge': 1, 'name': 'Mr. Johannes  Van Houte', 'age': 57, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 650741, 'exercisedValue': 0, 'unexercisedValue': 735309}, {'maxAge': 1, 'name': 'Dr. Gwenn M. Hansen Ph.D.', 'age': 52, 'title': 'Chief Scientific Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 661190, 'exercisedValue': 0, 'unexercisedValue': 1948408}, {'maxAge': 1, 'name': 'Dr. John  Kuriyan Ph.D.', 'title': 'Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Rapé Ph.D.', 'title': 'Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Arthur  Weiss M.D., Ph.D.', 'title': 'Founder & Member of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rita  Kwong', 'title': 'Senior Accounting Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Christine  Ring J.D., Ph.D.', 'age': 58, 'title': 'Chief Legal Officer & Chief Compliance Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 595830, 'exercisedValue': 599893, 'unexercisedValue': 5469113}, {'maxAge': 1, 'name': 'Mr. Eric C. Schlezinger J.D.', 'age': 56, 'title': 'Chief People Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jason  Kantor Ph.D.', 'title': 'Chief Business Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§10
+shareHolderRightsRisk§8
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.872
+priceToSalesTrailing12Months§6.977489
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.0
+exchange§NGM
+quoteType§EQUITY
+shortName§Nurix Therapeutics, Inc.
+longName§Nurix Therapeutics, Inc.
+firstTradeDateEpochUtc§1595597400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§961e16e7-4ed3-306e-9661-e0e70ede1cf2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§9.0
+targetMeanPrice§26.58
+targetMedianPrice§26.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§4.255
+grossMargins§-1.70425
+ebitdaMargins§-2.22123
+trailingPegRatio§None

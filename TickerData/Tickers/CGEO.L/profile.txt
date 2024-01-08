@@ -1,0 +1,45 @@
+# reload+after+2024-01-23 08:37:59.506736
+address1§3-5 Tatishvili street
+city§Tbilisi
+zip§0179
+country§Georgia
+phone§995 322 000 000
+fax§995 322 000 900
+website§https://www.georgiacapital.ge
+industry§Conglomerates
+sector§Industrials
+longBusinessSummary§Georgia Capital PLC is a private equity and venture capital firm specializing in early stage, organic growth and acquisitions. It consider greenfields through mature stage companies. The firm typically invests in automotive retail, education services, hotels, resorts & cruise lines, restaurants, beverages, healthcare, banks, property and casualty insurance, life and health insurance, advertising, diversified REITs, water utilities, and renewable electricity. It seeks to invest in Georgia. The firm seeks board position in public portfolio companies. It exits through IPO or trade sale in five to ten years. The firm raises capital through equity and debt market transactions. Georgia Capital PLC was founded in 2018 and is based in Tbilisi, Georgia with additional office in London, Greater London and Bristol, United Kingdom. Georgia Capital PLC operates independently of BGEO Group plc as of May 29, 2018.
+fullTimeEmployees§19114
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Irakli  Gilauri', 'age': 47, 'title': 'Chairman & CEO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 2993398, 'exercisedValue': 1521097, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giorgi  Alpaidze', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Giorgi  Ketiladze', 'title': 'MD & Head of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Levan  Dadiani', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Avtandil  Namicheishvili', 'age': 49, 'title': 'Deputy Chief Executive Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eka  Duchidze', 'title': 'Executive Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ia  Gabunia', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gigi  Getia C.F.A.', 'title': 'Senior Director of Investments', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zura  Nemsadze', 'title': 'Head of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nino  Vakhvakhishvili', 'title': 'Chief Economist', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§10
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.24
+priceToSalesTrailing12Months§3.3354151
+currency§GBp
+forwardEps§2.61
+exchange§LSE
+quoteType§EQUITY
+shortName§GEORGIA CAPITAL PLC ORD 1P
+longName§Georgia Capital PLC
+firstTradeDateEpochUtc§1527577200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ed2c0da9-2c40-3481-88f9-755b8da8b209
+targetHighPrice§52.1
+targetLowPrice§52.1
+targetMeanPrice§52.1
+targetMedianPrice§52.1
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

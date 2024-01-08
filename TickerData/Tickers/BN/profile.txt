@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 03:27:28.153893
+address1§Brookfield Place
+address2§Suite 100 181 Bay Street
+city§Toronto
+state§ON
+zip§M5J 2T3
+country§Canada
+phone§416-363-9491
+fax§416-363-2856
+website§https://www.brookfield.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Brookfield Corporation is an alternative asset manager and REIT/Real Estate Investment Manager firm focuses on real estate, renewable power, infrastructure and venture capital and private equity assets. It manages a range of public and private investment products and services for institutional and retail clients. It typically makes investments in sizeable, premier assets across geographies and asset classes. It invests both its own capital as well as capital from other investors. Within private equity and venture capital, it focuses on acquisition, early ventures, control buyouts and financially distressed, buyouts and corporate carve-outs, recapitalizations, convertible, senior and mezzanine financings, operational and capital structure restructuring, strategic re-direction, turnaround, and under-performing midmarket companies. It invests in both public debt and equity markets. It invests in private equity sectors with focus on Business Services include infrastructure, healthcare, road fuel distribution and marketing, construction and real estate; Industrials include manufacturers of automotive batteries, graphite electrodes, returnable plastic packaging, and sanitation management and development; and Residential/ infrastructure services. It targets companies which likely possess underlying real assets, primarily in sectors such as industrial products, building materials, metals, mining, homebuilding, oil and gas, paper and packaging, manufacturing and forest product sectors. It invests globally with focus on North America including Brazil, the United States, Canada; Europe; and Australia; and Asia-Pacific. The firm considers equity investments in the range of $2 million to $500 million. It has a four-year investment period and a 10-year term with two one-year extensions. The firm prefers to take minority stake and majority stake. Brookfield Corporation was founded in 1997 and based in Toronto, Canada with additional offices across Northern America; South America; Europe; Middle East and Asia.
+fullTimeEmployees§202500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Bruce Flatt', 'age': 58, 'title': 'Managing Partner, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 742643, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas H. Goodman C.A.', 'title': 'President & CFO', 'fiscalYear': 2022, 'totalPay': 1107652, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cyrus  Madon', 'age': 57, 'title': 'Chief Executive Officer of Private Equity Group', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 567497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sachin G. Shah CPA', 'age': 46, 'title': 'Chief Executive Officer of Insurance Solutions', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1107565, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samuel J. B. Pollock', 'age': 57, 'title': 'Chief Executive Officer of Infrastructure', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 567497, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian William Kingston', 'age': 49, 'title': 'Chief Executive Officer of Real Estate', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1500000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David James Nowak', 'age': 53, 'title': 'Managing Partner of Private Equity', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pierre  McNeil', 'age': 60, 'title': 'Managing Director of Private Equity', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori Anne Pearson F.C.A., FCPA', 'age': 61, 'title': 'Managing Partner & COO', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dominic  Dodds', 'title': 'Managing Director of Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§5
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.28
+dividendYield§0.0073
+exDividendDate§1701216000
+payoutRatio§4.2
+fiveYearAvgDividendYield§1.2
+beta§1.661
+priceToSalesTrailing12Months§0.61481684
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.79
+pegRatio§0.15
+exchange§NYQ
+quoteType§EQUITY
+shortName§Brookfield Corporation
+longName§Brookfield Corporation
+firstTradeDateEpochUtc§441642600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fc37fbde-490e-37c1-a587-38a18b9aa4c7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§73.53
+targetLowPrice§33.04
+targetMeanPrice§56.73
+targetMedianPrice§58.83
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.962
+earningsGrowth§-0.501
+grossMargins§0.16928
+ebitdaMargins§0.25695
+trailingPegRatio§None

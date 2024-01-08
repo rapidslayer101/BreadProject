@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 06:43:04.913704
+address1§1 Skyview Drive
+city§Fort Worth
+state§TX
+zip§76155
+country§United States
+phone§682 278 9000
+website§https://www.aa.com
+industry§Airlines
+sector§Industrials
+longBusinessSummary§American Airlines Group Inc., through its subsidiaries, operates as a network air carrier. The company provides scheduled air transportation services for passengers and cargo through its hubs in Charlotte, Chicago, Dallas/Fort Worth, Los Angeles, Miami, New York, Philadelphia, Phoenix, and Washington, D.C., as well as through partner gateways in London, Doha, Madrid, Seattle/Tacoma, Sydney, and Tokyo. As of December 31, 2022, it operated a mainline fleet of 925 aircraft. The company was formerly known as AMR Corporation and changed its name to American Airlines Group Inc. in December 2013. American Airlines Group Inc. was founded in 1926 and is headquartered in Fort Worth, Texas.
+fullTimeEmployees§132800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert D. Isom Jr.', 'age': 59, 'title': 'CEO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1233649, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David G. Seymour', 'age': 58, 'title': 'Executive VP & COO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 786838, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen L. Johnson', 'age': 66, 'title': 'Chief Strategy Officer & Vice Chair', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 799108, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Devon E. May', 'age': 48, 'title': 'Executive VP & CFO', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ganesh  Jayaram', 'title': 'Executive VP and Chief Digital & Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Scott  Long', 'title': 'Managing Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Priya R. Aiyar', 'age': 48, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald J. Defeo', 'title': 'Senior VP and Chief Communications & Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mecole  Brown', 'title': 'Senior VP & Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vasu S. Raja', 'age': 46, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§9
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1580774400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.27
+beta§1.568
+priceToSalesTrailing12Months§0.16797365
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.08
+pegRatio§0.06
+exchange§NMS
+quoteType§EQUITY
+shortName§American Airlines Group, Inc.
+longName§American Airlines Group Inc.
+firstTradeDateEpochUtc§1127827800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b73d98bf-8d5e-382f-9d49-b84d8f52f152
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§8.0
+targetMeanPrice§14.61
+targetMedianPrice§14.0
+recommendationMean§2.9
+recommendationKey§hold
+numberOfAnalystOpinions§14
+quickRatio§0.517
+grossMargins§0.27462998
+ebitdaMargins§0.13492
+trailingPegRatio§0.047

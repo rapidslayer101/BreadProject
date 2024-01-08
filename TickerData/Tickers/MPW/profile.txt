@@ -1,0 +1,56 @@
+# reload+after+2024-01-22 00:31:26.990554
+address1§1000 Urban Center Drive
+address2§Suite 501
+city§Birmingham
+state§AL
+zip§35242-2225
+country§United States
+phone§205 969 3755
+fax§205 969 3756
+website§https://www.medicalpropertiestrust.com
+industry§REIT—Healthcare Facilities
+sector§Real Estate
+longBusinessSummary§Medical Properties Trust, Inc. is a self-advised real estate investment trust formed in 2003 to acquire and develop net-leased hospital facilities. From its inception in Birmingham, Alabama, the Company has grown to become one of the world's largest owners of hospital real estate with 441 facilities and approximately 44,000 licensed beds as of September 30, 2023. Since the end of the third quarter, the Company has sold four facilities and now owns approximately 43,000 licensed beds in nine countries across three continents. MPT's financing model facilitates acquisitions and recapitalizations and allows operators of hospitals to unlock the value of their real estate assets to fund facility improvements, technology upgrades and other investments in operations.
+fullTimeEmployees§119
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Edward K. Aldag Jr.', 'age': 59, 'title': 'Founder, Chairman, President & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3645213, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Steven Hamner CPA', 'age': 66, 'title': 'Founder, Executive VP, CFO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1973599, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Kevin Hanna', 'age': 50, 'title': 'Senior VP, Chief Accounting Officer & Controller', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tim  Berryman', 'title': 'Managing Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew T. Babin C.F.A.', 'title': 'Senior Managing Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rosa H. Hooper', 'title': 'Senior VP of Operations, Assistant Secretary and MD of Asset Management & Underwriting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. R. Lucas Savage', 'title': 'VP & Head of Global Acquisitions', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry H. Portal', 'title': 'Senior VP & Senior Advisor to the CEO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles R. Lambert', 'age': 52, 'title': 'VP, Treasurer & MD of Capital Markets', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§4
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.88
+dividendYield§0.24790001
+exDividendDate§1701820800
+payoutRatio§10.545501
+fiveYearAvgDividendYield§7.71
+beta§1.166
+priceToSalesTrailing12Months§1.49676
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.84
+pegRatio§-1.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Medical Properties Trust, Inc.
+longName§Medical Properties Trust, Inc.
+firstTradeDateEpochUtc§1120829400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8cb967fb-0b03-37a2-b18d-503123589a28
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§4.0
+targetMeanPrice§6.82
+targetMedianPrice§6.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§11
+quickRatio§3.137
+earningsGrowth§-0.486
+grossMargins§0.96764
+ebitdaMargins§0.6381
+trailingPegRatio§None

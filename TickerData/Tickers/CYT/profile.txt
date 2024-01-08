@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 11:44:19.350054
+address1§128 Spring Street
+address2§Building A Suite 510
+city§Lexington
+state§MA
+zip§02421
+country§United States
+phone§857 285 4140
+website§https://cyteir.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Cyteir Therapeutics, Inc., a clinical-stage biotechnology company, develops and commercializes the oncology therapeutics. Its lead product CYT-0851, an oral investigational drug that inhibits monocarboxylate transporters that is in Phase I/II clinical trial for monotherapy in solid tumors and hematologic malignancies, as well as for combination therapy in solid tumors and hematologic malignancies. Cyteir Therapeutics, Inc. was incorporated in 2012 and is headquartered in Lexington, Massachusetts.
+fullTimeEmployees§46
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph S. Zakrzewski', 'age': 61, 'title': 'Independent Investor & Independent Chairman of the Board', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 81500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Markus F. Renschler M.D.', 'age': 62, 'title': 'President, CEO & Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 718620, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kevin  Mills Ph.D.', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David G. Gaiero', 'age': 45, 'title': 'CFO & Treasurer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Dr. Tom  O'Shea Ph.D.", 'title': 'Senior Vice President of Clinical Pharmacology & Preclinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Krisztina  Nemenyi Ph.D.', 'title': 'Senior Vice President of Regulatory Affairs and Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.069
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.87
+exchange§NMS
+quoteType§EQUITY
+shortName§Cyteir Therapeutics, Inc.
+longName§Cyteir Therapeutics, Inc.
+firstTradeDateEpochUtc§1624023000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fe3971ec-1a5e-36ca-8d47-68e4e988de27
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§21.655
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

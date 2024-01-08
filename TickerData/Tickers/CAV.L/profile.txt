@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 00:35:55.699891
+address1§One Bartholomew Close
+city§London
+zip§EC1A 7BL
+country§United Kingdom
+phone§44 20 7220 0500
+website§https://www.finncap.com
+industry§Capital Markets
+industryKey§capital-markets
+industryDisp§Capital Markets
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Cavendish Financial plc provides various financial services to growth companies in the United Kingdom. The company offers equities research, distribution and execution, and analytics services. It provides investment banking services, such as strategic advisory and capital raising services comprising public market fund raisings, including placings, rights issues, and open offers; IPOs; sell-side or buy-side private M&A; public company M&A; debt arrangement and advice; private capital fund raisings; and general advice on strategic options, as well as acts as a corporate broker/NOMAD on a retained basis. It offers its services to listed and private companies, private equity and hedge funds, institutional investors, family offices, investment trusts, and private client fund managers. It serves various sectors, including technology, consumer, life sciences, support services, industrial technology, energy, mining, and financials. The company was formerly known as finnCap Group plc and changed its name to Cavendish Financial plc in September 2023. Cavendish Financial plc was founded in 2007 and is based in London, the United Kingdom.
+fullTimeEmployees§157
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John  Farrugia', 'title': 'Co-CEO & Director', 'fiscalYear': 2023, 'totalPay': 554770, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Charles Snow', 'age': 56, 'title': 'COO & Director', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 220248, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian Jonathan Morse', 'age': 52, 'title': 'Co-CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Procter', 'age': 52, 'title': 'CFO & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Davis Tubby', 'title': 'Head of Compliance', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Xenophontos', 'title': 'HR Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Simon Lloyd Maynard', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.2288
+exDividendDate§1663804800
+payoutRatio§0.0
+beta§1.211
+priceToSalesTrailing12Months§1.5365937
+currency§GBp
+lastDividendValue§1.15
+lastDividendDate§1663804800
+exchange§LSE
+quoteType§EQUITY
+shortName§CAVENDISH FINANCIAL PLC ORD 1P
+longName§Cavendish Financial plc
+firstTradeDateEpochUtc§1543996800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§61c7cc80-3e06-3b4b-95e2-c98164a6e63c
+messageBoardId§finmb_590174659
+recommendationKey§none
+quickRatio§1.683
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

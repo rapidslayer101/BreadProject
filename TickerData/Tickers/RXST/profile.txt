@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 09:47:04.575157
+address1§100 Columbia
+city§Aliso Viejo
+state§CA
+zip§92656
+country§United States
+phone§949 521 7830
+website§https://www.rxsight.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§RxSight, Inc., an ophthalmic medical device company, engages in the research and development, manufacture, and sale of light adjustable intraocular lenses (LAL) used in cataract surgery in the United States and internationally. It offers RxSight system that enables doctors to customize and enhance the visual acuity for patients after cataract surgery. The company's RxSight system includes RxSight light delivery device, an office-based light treatment device that delivers UV light in a programmed pattern to modify the LAL based on the visual correction needed to achieve desired vision after cataract surgery. It primarily serves cataract doctors. The company was formerly known as Calhoun Vision, Inc. and changed its name to RxSight, Inc. in February 2017. RxSight, Inc. was incorporated in 1997 and is headquartered in Aliso Viejo, California.
+fullTimeEmployees§292
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ronald M. Kurtz M.D.', 'age': 60, 'title': 'President, CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1025471, 'exercisedValue': 0, 'unexercisedValue': 19159}, {'maxAge': 1, 'name': 'Ms. Shelley B. Thunen', 'age': 69, 'title': 'CFO & Assistant Secretary', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 651355, 'exercisedValue': 0, 'unexercisedValue': 297356}, {'maxAge': 1, 'name': 'Dr. Ilya  Goldshleger Ph.D.', 'age': 48, 'title': 'Chief Operating Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 657813, 'exercisedValue': 0, 'unexercisedValue': 748185}, {'maxAge': 1, 'name': 'Mr. Eric J. Weinberg', 'age': 62, 'title': 'Chief Commercial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 638897, 'exercisedValue': 0, 'unexercisedValue': 1936087}, {'maxAge': 1, 'name': 'Ms. Rebecca  Williston', 'title': 'Vice President of Accounting & Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Haller Ph.D.', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Huang', 'title': 'Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roy  Freeman', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Vaughn', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Gaines', 'title': 'Senior VP of Commercial Operations & Business Process', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.193
+priceToSalesTrailing12Months§17.274067
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.2
+pegRatio§-1.2
+exchange§NGM
+quoteType§EQUITY
+shortName§RxSight, Inc.
+longName§RxSight, Inc.
+firstTradeDateEpochUtc§1627651800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§07da8956-a5ad-3592-ab35-e9dc0189ee49
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§42.0
+targetLowPrice§32.0
+targetMeanPrice§37.0
+targetMedianPrice§36.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§7.767
+grossMargins§0.56843
+ebitdaMargins§-0.65650004
+trailingPegRatio§None

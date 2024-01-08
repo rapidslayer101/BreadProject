@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 15:47:58.835418
+address1§1450 Brickell Avenue
+address2§31st Floor
+city§Miami
+state§FL
+zip§33131
+country§United States
+phone§305 379 2322
+fax§305 381 4180
+website§https://www.whitehorsefinance.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§WhiteHorse Finance, Inc. is business development company, non-diversified, closed end management company specializing in originating senior secured loans, lower middle market, growth capital industries. It invests in broadline retail, office services and supplies, building products, health care services, health care supplies, research and consulting services, application software, home furnishings, specialized consumer services, data processing and outsourced services, leisure facilities, cable, and satellite. It prefers to invest in United States. It typically invests between $5 million to $25 million in companies having enterprise value of between $50 million and $350 million.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stuart D. Aronson', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joyson C. Thomas CPA', 'age': 41, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Schaffer', 'title': 'Investor Relations Contact', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marco A. Collazos', 'age': 47, 'title': 'Chief Compliance Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard H. Siegel J.D.', 'age': 57, 'title': 'Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.54
+dividendYield§0.120799996
+exDividendDate§1702944000
+payoutRatio§2.1324
+fiveYearAvgDividendYield§10.97
+beta§1.331
+priceToSalesTrailing12Months§2.8615663
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.81
+pegRatio§1.32
+exchange§NMS
+quoteType§EQUITY
+shortName§WhiteHorse Finance, Inc.
+longName§WhiteHorse Finance, Inc.
+firstTradeDateEpochUtc§1354804200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8c4e0ce4-623f-3bca-83d3-d7b8060b2f41
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§12.0
+targetMeanPrice§13.21
+targetMedianPrice§13.38
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.741
+earningsGrowth§0.456
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

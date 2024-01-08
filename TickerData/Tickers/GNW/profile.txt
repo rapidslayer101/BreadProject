@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 13:29:57.065548
+address1§6620 West Broad Street
+city§Richmond
+state§VA
+zip§23230
+country§United States
+phone§804 281 6000
+website§https://www.genworth.com
+industry§Insurance—Life
+sector§Financial Services
+longBusinessSummary§Genworth Financial, Inc. provides insurance products in the United States and internationally. It operates in three segments: Enact, U.S. Life Insurance, and Runoff. The Enact segment offers mortgage insurance products primarily insuring prime-based, individually underwritten residential mortgage loans; and pool mortgage insurance products. The U.S. Life Insurance segment offers long-term care insurance products; and service traditional life insurance and fixed annuity products in the United States. The Runoff segment includes variable annuity, variable life insurance, and corporate-owned life insurance, as well as funding agreements. It distributes its products through sales force, in-house sales representatives, and digital marketing programs. The company was founded in 1871 and is headquartered in Richmond, Virginia.
+fullTimeEmployees§2500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Thomas Joseph McInerney', 'age': 66, 'title': 'President, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 4183095, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory Scott Karawan', 'age': 58, 'title': 'Executive VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1426569, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Hagerman', 'age': 55, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1380989, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Keith Haendiges', 'age': 62, 'title': 'Advisor', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1446523, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerome Thomas Upton', 'age': 59, 'title': 'Executive VP, CFO & Principal Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly Alison Saltzgaber', 'title': 'Executive VP & Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cristina Elizabeth Ahn', 'age': 41, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1982, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarah E. Crews', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John G. Apostle II', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Paul Vrolyk', 'title': 'Chief Actuary and Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1223424000
+payoutRatio§0.0
+fiveYearAvgDividendYield§3.09
+beta§1.035
+priceToSalesTrailing12Months§0.4065397
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.99
+pegRatio§1.58
+exchange§NYQ
+quoteType§EQUITY
+shortName§Genworth Financial Inc
+longName§Genworth Financial, Inc.
+firstTradeDateEpochUtc§1085491800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c23c7890-46f2-3139-a4e4-1cc1ea0581df
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.5
+targetLowPrice§6.5
+targetMeanPrice§6.5
+targetMedianPrice§6.5
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.073
+earningsGrowth§-0.778
+grossMargins§0.1159
+ebitdaMargins§0.0
+trailingPegRatio§None

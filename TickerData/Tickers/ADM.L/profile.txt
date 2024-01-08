@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 07:35:23.792675
+address1§Ty Admiral
+address2§David Street
+city§Cardiff
+zip§CF10 2EH
+country§United Kingdom
+phone§44 3332 202 062
+website§https://admiralgroup.co.uk
+industry§Insurance - Property & Casualty
+industryKey§insurance-property-casualty
+industryDisp§Insurance - Property & Casualty
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Admiral Group plc, a financial services company, provides motor, household, travel, and pet insurance, as well as personal lending products worldwide. It operates through UK Insurance, International Insurance, Admiral Money, and Other segments. The company provides underwriting services, which includes motor, household, pet, and travel insurance, as well as car and home insurance; and provides unsecured personal loans and car finance products primarily in the United Kingdom. It offers its insurance product and services under the Admiral, Admiral Money, Apparent, Balumba, Bell, Compare.com, ConTe.it, Diamond, Elephant, Elephant Auto, Gladiator, L'Olivier, Qualitas Auto, and Veygo brands. The company was founded in 1993 and is headquartered in Cardiff, the United Kingdom.
+fullTimeEmployees§11000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Milena  Mondini-de-Focatiis', 'age': 46, 'title': 'Group CEO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1132915, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geraint  Jones', 'age': 46, 'title': 'CFO & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 692796, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Marisja  Kocznur', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith Gerald Davies', 'age': 55, 'title': 'Group Chief Risk & Compliance Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Berengere  Peter', 'title': 'Group Head of People Experience', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Graham Stevens CBE', 'age': 61, 'title': 'Advisor', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 421285, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lorna  Connelly', 'title': 'Head of Claims', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cristina  Nestares', 'title': 'Chief Executive Officer of UK Insurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elena Betes Novoa', 'title': 'Chief Executive Officer of Comparison Platforms', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Elisa De Blas', 'title': 'Head of Business Strategy - Admiral Seguros', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.76
+dividendYield§0.028099999
+exDividendDate§1694044800
+payoutRatio§0.67800003
+fiveYearAvgDividendYield§4.21
+beta§0.188
+priceToSalesTrailing12Months§4.7115755
+currency§GBp
+forwardEps§138.73
+pegRatio§5.99
+lastDividendValue§13.0
+lastDividendDate§1694044800
+exchange§LSE
+quoteType§EQUITY
+shortName§ADMIRAL GROUP PLC ORD 0.1P
+longName§Admiral Group plc
+firstTradeDateEpochUtc§1095922800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ba3470f8-676f-3402-95e2-867de55b509e
+messageBoardId§finmb_728553
+targetHighPrice§3044.0
+targetLowPrice§1850.0
+targetMeanPrice§2425.5
+targetMedianPrice§2240.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§12
+quickRatio§0.335
+earningsGrowth§-0.053
+grossMargins§0.59330004
+ebitdaMargins§0.30764
+trailingPegRatio§2.2069

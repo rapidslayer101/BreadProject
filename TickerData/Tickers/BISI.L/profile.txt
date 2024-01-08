@@ -1,0 +1,44 @@
+# reload+after+2024-01-20 06:35:46.525999
+address1§12 Little Portland Street
+address2§2nd Floor
+city§London
+zip§W1W 8BJ
+country§United Kingdom
+phone§44 20 7415 5030
+website§https://bisichi.co.uk
+industry§Thermal Coal
+industryKey§thermal-coal
+industryDisp§Thermal Coal
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Bisichi PLC engages in the coal mining and processing activities in South Africa. The company owns an interest in the Black Wattle Colliery, a coal mining and washing operation located in Mpumulanga, South Africa. It is also involved in the retail property investment and residential property development activities in the United Kingdom, as well as share dealing business. The company was formerly known as Bisichi Mining Plc and changed its name to Bisichi PLC in March 2020. Bisichi PLC was incorporated in 1910 and is based in London, the United Kingdom.
+fullTimeEmployees§243
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew Robert Heller A.C.A., ACA, M.A., MA', 'age': 54, 'title': 'MD & Executive Chairman', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1637000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Garrett John Casey C.A., CA (SA)', 'age': 46, 'title': 'Finance Director, Secretary & Executive Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 805000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  John Grobler Pr Cert Eng', 'age': 75, 'title': 'Director of Mining & Executive Director', 'yearBorn': 1948, 'fiscalYear': 2022, 'totalPay': 610000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.07
+dividendYield§0.055999998
+exDividendDate§1704326400
+payoutRatio§0.2617
+fiveYearAvgDividendYield§4.55
+beta§0.008
+priceToSalesTrailing12Months§0.18007804
+currency§GBp
+lastDividendValue§3.0
+lastDividendDate§1704326400
+exchange§LSE
+quoteType§EQUITY
+shortName§BISICHI PLC ORD 10P
+longName§Bisichi PLC
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§62da78b9-5895-346a-93b4-bdb24dd09206
+messageBoardId§finmb_875757
+recommendationKey§none
+quickRatio§0.757
+grossMargins§0.25287
+ebitdaMargins§0.25228
+trailingPegRatio§None

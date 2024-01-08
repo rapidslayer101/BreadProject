@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 19:46:23.911413
+address1§Bahnhofstrasse 7
+city§Zug
+zip§6300
+country§Switzerland
+phone§41 58 810 0182
+website§https://oculis.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Oculis Holding AG, a clinical-stage biopharmaceutical company, develops novel topical treatments for ophthalmic diseases for both back- and front-of-the-eye. The company's lead candidate is OCS-01, a topical dexamethasone formulation, which is in Phase 3 clinical trials for the treatment of diabetic macular edema; OCS-02, a topical biologic candidate that is in Phase 2b clinical trials for the treatment for keratoconjunctivitis sicca, or dry eye disease; and OCS-05, a novel neuroprotective agent for acute optic neuritis and other neuro-ophtha disorders, such as glaucoma, diabetic retinopathy, geographic atrophy, and neurotrophic keratitis. The company is based in Zug, Switzerland.
+fullTimeEmployees§28
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Riad  Sherif M.B.A., M.D.', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sylvia  Cheung', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Weibo  Ding', 'age': 52, 'title': 'Global COO & GM of China', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bastian  Dehmel', 'age': 52, 'title': 'Chief Development Officer & Head of Development', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Joanne  Chang M.D., Ph.D.', 'age': 62, 'title': 'Head of Medical Affairs & Chief Medical Officer', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Páll Ragnar Jóhannesson', 'age': 42, 'title': 'Chief Strategy Officer', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Fang  Li', 'title': 'Senior Vice President of Regulatory Affairs', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Weil', 'title': 'Chief Commercial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.217
+priceToSalesTrailing12Months§450.24887
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.7
+exchange§NGM
+quoteType§EQUITY
+shortName§Oculis Holding AG
+longName§Oculis Holding AG
+firstTradeDateEpochUtc§1621344600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§48d18c2f-9253-3694-a9c9-9afae38b7b9c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§63.97
+targetLowPrice§20.99
+targetMeanPrice§32.1
+targetMedianPrice§28.98
+recommendationMean§1.3
+recommendationKey§strong_buy
+numberOfAnalystOpinions§8
+quickRatio§4.911
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

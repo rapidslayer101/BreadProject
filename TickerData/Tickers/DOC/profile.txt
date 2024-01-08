@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 13:28:41.781352
+address1§309 N. Water Street, Seventh Floor
+address2§Suite 500
+city§Milwaukee
+state§WI
+zip§53202-5772
+country§United States
+phone§414 367 5600
+website§https://www.docreit.com
+industry§REIT—Healthcare Facilities
+sector§Real Estate
+longBusinessSummary§Physicians Realty Trust is a self-managed health care real estate company organized to acquire, selectively develop, own, and manage health care properties that are leased to physicians, hospitals, and health care delivery systems. The Company invests in real estate that is integral to providing high quality health care. The Company conducts its business through an UPREIT structure in which its properties are owned by Physicians Realty L.P., a Delaware limited partnership (the operating partnership), directly or through limited partnerships, limited liability companies or other subsidiaries. The Company is the sole general partner of the operating partnership and, as of June 30, 2023, owned approximately 96.0% of OP Units.
+fullTimeEmployees§101
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John T. Thomas', 'age': 57, 'title': 'President, CEO & Trustee', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2782918, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey Nelson Theiler', 'age': 49, 'title': 'Executive VP, CFO & Head of Investor Relations', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1386399, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Del Mar Deeni Taylor', 'age': 66, 'title': 'Executive VP & Chief Investment Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 1408759, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Lucey', 'age': 61, 'title': 'Chief Accounting & Administrative Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1013479, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark D. Theine', 'age': 40, 'title': 'Executive Vice President of Asset Management', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 1136618, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley D. Page J.D.', 'age': 62, 'title': 'Senior VP & General Counsel', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 942736, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel M. Klein J.D.', 'age': 58, 'title': 'Senior VP & Deputy Chief Investment Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 648549, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Mark Dukes C.C.I.M.', 'age': 60, 'title': 'Senior Vice President of Asset Management', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy M. Hall', 'age': 40, 'title': 'Senior Vice President of Leasing & Physician Strategy', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laurie P. Becker', 'age': 43, 'title': 'Senior VP & Controller', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.92
+dividendYield§0.071
+exDividendDate§1704153600
+payoutRatio§4.6
+fiveYearAvgDividendYield§5.57
+beta§0.872
+priceToSalesTrailing12Months§5.9628034
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.23
+pegRatio§-6.44
+exchange§NYQ
+quoteType§EQUITY
+shortName§Physicians Realty Trust
+longName§Physicians Realty Trust
+firstTradeDateEpochUtc§1374240600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2e09a5b0-1eac-3840-8404-f266726d465c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§18.0
+targetLowPrice§11.0
+targetMeanPrice§14.75
+targetMedianPrice§15.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§2.653
+earningsGrowth§-0.813
+grossMargins§0.66440004
+ebitdaMargins§0.59459996
+trailingPegRatio§None

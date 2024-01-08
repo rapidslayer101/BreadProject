@@ -1,0 +1,39 @@
+# reload+after+2024-01-20 16:32:12.825594
+address1§500 East Pratt Street
+address2§Suite 1300
+city§Baltimore
+state§MD
+zip§21202
+country§United States
+phone§410-752-5900
+website§https://www.adamsfunds.com
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Adams Natural Resources Fund, Inc. is a publicly owned investment manager. The firm invests in the public equity markets across the globe. The firm manages closed-end equity fund focused on the energy and material sectors. It invests in stocks of companies of all market capitalizations operating in the energy and natural resources sector including oil companies, exploration and production, utilities, services, and basic materials sectors. The firm employs a fundamental analysis with a bottom-up stock picking approach while focusing on earnings growth prospects, defendable market position, market competition, macroeconomic backdrop, cash flow generation, valuation, capital allocation, return on capital, mileposts and catalysts, and point in cycle identification to make its investments. It benchmarks the performance of its portfolios against a composite index of 80% Dow Jones Oil and Gas Index and 20% Dow Jones Basic Materials Index. The firm was formerly known as Petroleum & Resources Corporation. Adams Natural Resources Fund, Inc. was founded in 1929 and is based in Baltimore, Maryland with an additional office in Boston, Massachusetts.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James P. Haynie C.F.A.', 'age': 60, 'title': 'Chief Executive Officer and Senior Portfolio Manager', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian S. Hook C.F.A., CPA', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas Cotton Swindell', 'age': 59, 'title': 'President and Portfolio Manager', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janis F. Kerns', 'age': 59, 'title': 'General Counsel, Corporate Secretary & Chief Compliance Officer', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory W. Buckley', 'age': 52, 'title': 'Executive VP & Portfolio Manager', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine M. Sloan CPA', 'title': 'Treasurer & Director of Human Resources', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Kijesky C.F.A.', 'title': 'VP of Research & Senior Equity Analyst', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael E. Rega C.F.A.', 'age': 63, 'title': 'VP of Research & Senior Equity Analyst', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey R. Schollaert C.F.A.', 'title': 'Senior Equity Analyst', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xuying  Chang C.F.A.', 'title': 'Senior Equity Analyst', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§4.2
+dividendYield§0.19860001
+exDividendDate§1700179200
+payoutRatio§0.4005
+fiveYearAvgDividendYield§5.87
+beta§1.171
+priceToSalesTrailing12Months§23.307302
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.06
+exchange§NYQ
+quoteType§EQUITY
+shortName§Adams Natural Resources Fund, I
+longName§Adams Natural Resources Fund, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9ec65df1-065a-359d-bc81-f9840e730c30
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.72
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

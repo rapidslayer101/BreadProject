@@ -1,0 +1,37 @@
+# reload+after+2024-01-22 17:29:15.609679
+address1§Two International Place
+city§Boston
+state§MA
+zip§02110
+country§United States
+phone§617-482-8260
+website§https://funds.eatonvance.com/Senior-Income-Trust-EVF.php
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§Eaton Vance Senior Income Trust is a closed-ended fixed income mutual fund launched and managed by Eaton Vance Management. The fund invests in the fixed income markets of the United States. It seeks to invest in the securities of companies operating across the diversified sectors. The fund primarily invests in senior secured floating rate loans. It benchmarks the performance of its portfolio against the S&P/LSTA Leveraged Loan Index. Eaton Vance Senior Income Trust was formed on October 30, 1998 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James F. Kirchner', 'age': 56, 'title': 'Treasurer and Principal Financial & Accounting Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maureen Ann Gemma', 'age': 63, 'title': 'Chief Legal Officer & Secretary', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Francis Froio', 'age': 55, 'title': 'Chief Compliance Officer', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.66
+dividendYield§0.10560001
+exDividendDate§1703635200
+payoutRatio§0.9443
+fiveYearAvgDividendYield§7.32
+beta§0.586
+priceToSalesTrailing12Months§6.5661902
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Eaton Vance Senior Income Trust
+longName§Eaton Vance Senior Income Trust
+firstTradeDateEpochUtc§909585000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea85365f-00aa-3dac-a6bb-8b131e622b29
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.304
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

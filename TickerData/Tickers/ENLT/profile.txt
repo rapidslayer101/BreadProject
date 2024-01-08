@@ -1,0 +1,44 @@
+# reload+after+2024-01-23 02:44:34.122638
+address1§Afek Industrial Park
+address2§13 Amal St
+city§Rosh Haayin
+zip§4809249
+country§Israel
+phone§972 3 900 8700
+website§https://www.enlightenergy.co.il
+industry§Utilities—Renewable
+sector§Utilities
+longBusinessSummary§Enlight Renewable Energy Ltd operates as a renewable energy platform in Israel and internationally. The company initiates, plans, develops, constructs, and operates projects to produce electricity from renewable energy sources. It develops wind energy and solar energy projects, as well as energy storage projects. The company was incorporated in 1981 and is headquartered in Rosh HaAyin, Israel.
+fullTimeEmployees§262
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gilad  Yavetz', 'age': 53, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 675000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Amit  Paz', 'age': 57, 'title': 'Co-Founder and Senior VP of Engineering, Contracting & Procurement', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 404000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nir  Yehuda', 'age': 69, 'title': 'Chief Financial Officer', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 397000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ilan  Goren', 'age': 50, 'title': 'Vice President of Global Project Development, Israel Business Development & Construction', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 369000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Perach  Lerner', 'title': '? Vice President of Regulation & Community Relations', 'fiscalYear': 2022, 'totalPay': 334000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Ellsworth', 'title': 'Co-founder & CEO of Clenera', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ayelet  Cohen Israeli', 'title': 'Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yosef  Lefkovitz', 'title': 'Vice President of Corporate Finance and M&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Haimovitz Adv.', 'age': 58, 'title': 'VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian T. Hansen', 'title': 'General Counsel of Clenera', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.659
+priceToSalesTrailing12Months§9.017401
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.05
+pegRatio§0.39
+exchange§NMS
+quoteType§EQUITY
+shortName§Enlight Renewable Energy Ltd.
+longName§Enlight Renewable Energy Ltd
+firstTradeDateEpochUtc§1672756200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a2e803f3-bda5-3b9b-8f7c-dc84733178d7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§23.0
+targetLowPrice§19.0
+targetMeanPrice§20.6
+targetMedianPrice§21.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.721
+earningsGrowth§-0.123
+grossMargins§0.82077
+ebitdaMargins§0.78429
+trailingPegRatio§None

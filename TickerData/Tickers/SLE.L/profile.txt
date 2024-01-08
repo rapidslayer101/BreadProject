@@ -1,0 +1,35 @@
+# reload+after+2024-01-22 20:40:19.413793
+address1§3300 Lake Drive
+address2§Citywest Business Campus
+city§Dublin
+zip§24
+country§Ireland
+phone§353 1 291 6292
+website§https://www.sanleonenergy.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§San Leon Energy plc, together with its subsidiaries, engages in the exploration and production of oil and gas properties. Its flagship property is the OML 18 covering an area of approximately 1,035 square kilometers located in the Southern Niger Delta in Nigeria. The company was incorporated in 1995 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§16
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Oisin  Fanning', 'age': 64, 'title': 'CEO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2021, 'totalPay': 1593052, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian Lester Tedder', 'age': 54, 'title': 'CFO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2021, 'totalPay': 37724, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joel David Price', 'age': 51, 'title': 'COO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2021, 'totalPay': 558787, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Finian Alan Campbell', 'age': 50, 'title': 'Director of Commercial & Business Development and Company Secretary', 'yearBorn': 1973, 'fiscalYear': 2021, 'totalPay': 160327, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§2
+exDividendDate§1588809600
+payoutRatio§0.0
+beta§0.495
+priceToSalesTrailing12Months§12.6617155
+currency§GBp
+forwardEps§0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§SAN LEON ENERGY PLC ORD EUR0.01
+longName§San Leon Energy plc
+firstTradeDateEpochUtc§1222671600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§7cb89d54-1043-3232-8995-628247f235f8
+recommendationKey§none
+quickRatio§18.989
+grossMargins§1.0
+ebitdaMargins§-0.90841
+trailingPegRatio§None

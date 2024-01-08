@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 11:36:05.852411
+address1§16 Great Marlborough Street
+address2§Park Royal
+city§London
+zip§W1F 7HS
+country§United Kingdom
+phone§44 20 7947 9100
+website§https://www.diageo.com
+industry§Beverages - Wineries & Distilleries
+industryKey§beverages-wineries-distilleries
+industryDisp§Beverages - Wineries & Distilleries
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Diageo plc, together with its subsidiaries, engages in the production, marketing, and sale of alcoholic beverages. It offers scotch, gin, vodka, rum, raki, liqueur, wine, tequila, Chinese white spirits, cachaça, and brandy, as well as beer, including cider and flavoured malt beverages. The company also provides Canadian, Irish, American, and Indian-Made Foreign Liquor whiskies, as well as ready to drink and non-alcoholic products. It provides its products primarily under the Johnnie Walker, Guinness, Tanqueray, Baileys, Smirnoff, Captain Morgan, Crown Royal, Don Julio, Cîroc, Buchanan's, Casamigos, J&B, and Ketel One brands. The company operates in the United States, the United Kingdom, Turkey, Australia, Korea, India, Greater China, Brazil, Mexico, South Africa, Nigeria, and internationally. Diageo plc was incorporated in 1886 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§30269
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lavanya  Chandrashekar', 'age': 51, 'title': 'CFO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2585000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Debra A. Crew', 'age': 52, 'title': 'CEO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 79000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yvonne  Harrison', 'title': 'Corporate Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Bailey Shropshire Jr.', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cristina  Diezhandino', 'age': 56, 'title': 'Chief Marketing Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Louise  Prashad', 'title': 'Chief HR Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. John  O'Keeffe", 'age': 51, 'title': 'President of Asia Pacific, Global Travel & India', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Pilkington', 'title': 'Chief Marketing & Innovation Officer of Diageo North America', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dayalan  Nayager', 'age': 42, 'title': 'President of Africa & Chief Commercial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ewan  Andrew', 'title': 'President of Global Supply Chain & Procurement and Chief Sustainability Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.028900001
+exDividendDate§1692835200
+payoutRatio§0.4723
+fiveYearAvgDividendYield§2.23
+beta§0.33
+priceToSalesTrailing12Months§3.7333074
+currency§GBp
+forwardEps§1.64
+pegRatio§9.91
+lastDividendValue§49.17
+lastDividendDate§1692835200
+exchange§LSE
+quoteType§EQUITY
+shortName§DIAGEO PLC ORD 28 101/108P
+longName§Diageo plc
+firstTradeDateEpochUtc§578646000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1a65490a-ffb9-3e43-ada3-968e75d68a24
+messageBoardId§finmb_375780
+targetHighPrice§41.09
+targetLowPrice§23.46
+targetMeanPrice§31.53
+targetMedianPrice§31.84
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§23
+quickRatio§0.573
+earningsGrowth§0.146
+grossMargins§0.60077
+ebitdaMargins§0.33068
+trailingPegRatio§2.2709

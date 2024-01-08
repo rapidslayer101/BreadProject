@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 03:47:46.801541
+address1§1000 Spring Street
+city§Silver Spring
+state§MD
+zip§20910
+country§United States
+phone§301 608 9292
+website§https://www.unither.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§United Therapeutics Corporation, a biotechnology company, engages in the development and commercialization of products to address the unmet medical needs of patients with chronic and life-threatening diseases in the United States and internationally. Its commercial therapies include Remodulin to treat patients with pulmonary arterial hypertension (PAH) to diminish symptoms associated with exercise; Tyvaso, an inhaled solution via ultrasonic nebulizer; Tyvaso DPI, an inhaled dry powder via pre-filled and single-use cartridges; Remunity Pump, a small, lightweight, durable pump and separate controller; Orenitram, a tablet dosage form of treprostinil, to delay disease progression and improve exercise capacity in PAH patients; Unituxin, a monoclonal antibody for treating high-risk neuroblastoma; and Adcirca, an oral PDE-5 inhibitor to enhance the exercise ability in PAH patients. The company also engages in developing RemoPro and Ralinepag for the treatment of PAH; Aurora-GT, a gene therapy product to rebuild the blood vessels in the lungs; and TETON studies, which are the studies of Tyvaso for the treatment of idiopathic pulmonary fibrosis. It has licensing and collaboration agreements with DEKA Research & Development Corp. to develop a semi-disposable system for the subcutaneous delivery of treprostinil; MannKind Corporation to develop and license treprostinil inhalation powder and the Dreamboat device; and Arena Pharmaceuticals, Inc. to develop Ralinepag. The company was incorporated in 1996 and is headquartered in Silver Spring, Maryland.
+fullTimeEmployees§985
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Martine A. Rothblatt J.D., M.B.A., Ph.D.', 'age': 68, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 5322204, 'exercisedValue': 56145352, 'unexercisedValue': 497331264}, {'maxAge': 1, 'name': 'Mr. Michael I. Benkowitz', 'age': 51, 'title': 'President & COO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 2828435, 'exercisedValue': 7832730, 'unexercisedValue': 90841432}, {'maxAge': 1, 'name': 'Mr. James C. Edgemond', 'age': 55, 'title': 'CFO & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2005784, 'exercisedValue': 1487706, 'unexercisedValue': 71325464}, {'maxAge': 1, 'name': 'Mr. Paul A. Mahon J.D.', 'age': 59, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2309202, 'exercisedValue': 13200417, 'unexercisedValue': 70995872}, {'maxAge': 1, 'name': 'Mr. Dewey  Steadman C.F.A.', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Holly  Hobson', 'title': 'Associate Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin T. Gray', 'title': 'Senior Vice President of Strategic Operations & Logistics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Poisson', 'age': 55, 'title': 'Executive VP of Technical Operations', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Leigh  Peterson', 'title': 'Senior Vice President of Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gil  Golden', 'title': 'Senior VP & Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§3
+shareHolderRightsRisk§3
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.529
+priceToSalesTrailing12Months§4.890592
+currency§USD
+dateShortInterest§1702598400
+forwardEps§22.07
+pegRatio§1.2
+exchange§NMS
+quoteType§EQUITY
+shortName§United Therapeutics Corporation
+longName§United Therapeutics Corporation
+firstTradeDateEpochUtc§929626200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§440c9b7e-c029-3b01-95aa-6591f5b5d37d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§375.0
+targetLowPrice§178.0
+targetMeanPrice§288.93
+targetMedianPrice§306.07
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§4.293
+earningsGrowth§0.096
+grossMargins§0.88872004
+ebitdaMargins§0.52733004
+trailingPegRatio§1.4024

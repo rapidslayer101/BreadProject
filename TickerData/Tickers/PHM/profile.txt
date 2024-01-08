@@ -1,0 +1,55 @@
+# reload+after+2024-01-22 07:32:16.716207
+address1§3350 Peachtree Road NE
+address2§Suite 1500
+city§Atlanta
+state§GA
+zip§30326
+country§United States
+phone§404 978 6400
+website§https://www.pultegroup.com
+industry§Residential Construction
+sector§Consumer Cyclical
+longBusinessSummary§PulteGroup, Inc., through its subsidiaries, primarily engages in the homebuilding business in the United States. It acquires and develops land primarily for residential purposes; and constructs housing on such land. The company also offers various home designs, including single-family detached, townhomes, condominiums, and duplexes under the Centex, Pulte Homes, Del Webb, DiVosta Homes, American West, and John Wieland Homes and Neighborhoods brand names. As of December 31, 2022, it controlled 211,112 lots, of which 108,848 were owned and 102,264 were under land option agreements. In addition, the company arranges financing through the origination of mortgage loans primarily for homebuyers; sells the servicing rights for the originated loans; and provides title insurance policies, and examination and closing services to homebuyers. The company was founded in 1950 and is headquartered in Atlanta, Georgia.
+fullTimeEmployees§6524
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan R. Marshall', 'age': 48, 'title': 'President, CEO & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 5878888, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Robert T. O'Shaughnessy", 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 3458291, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd N. Sheldon', 'age': 55, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1850566, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Koart', 'age': 59, 'title': 'Executive VP & COO', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph L. Drouin', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James P. Zeumer', 'title': 'Vice President of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manish M. Shrivastava', 'age': 53, 'title': 'VP & Chief Marketing Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin Alan Henry', 'age': 55, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James L. Ossowski', 'age': 55, 'title': 'Senior Vice President of Finance', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anthony W. Barbee', 'title': 'Area President of North Area', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§3
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.8
+dividendYield§0.007900001
+exDividendDate§1702857600
+payoutRatio§0.0523
+fiveYearAvgDividendYield§1.16
+beta§1.542
+priceToSalesTrailing12Months§1.2815036
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.51
+pegRatio§1.65
+exchange§NYQ
+quoteType§EQUITY
+shortName§PulteGroup, Inc.
+longName§PulteGroup, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9624adff-51b6-3616-bf4f-260872454b5a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§139.0
+targetLowPrice§81.0
+targetMeanPrice§105.11
+targetMedianPrice§104.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§18
+quickRatio§0.772
+earningsGrowth§0.078
+grossMargins§0.29112
+ebitdaMargins§0.21635
+trailingPegRatio§0.3183

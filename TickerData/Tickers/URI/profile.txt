@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 05:34:01.053878
+address1§100 First Stamford Place
+address2§Suite 700
+city§Stamford
+state§CT
+zip§06902
+country§United States
+phone§203 622 3131
+fax§203 622 6080
+website§https://www.unitedrentals.com
+industry§Rental & Leasing Services
+sector§Industrials
+longBusinessSummary§United Rentals, Inc., through its subsidiaries, operates as an equipment rental company. It operates in two segments, General Rentals and Specialty. The General Rentals segment rents general construction and industrial equipment includes backhoes, skid-steer loaders, forklifts, earthmoving equipment, and material handling equipment; aerial work platforms, such as boom and scissor lifts; and general tools and light equipment comprising pressure washers, water pumps, and power tools for construction and industrial companies, manufacturers, utilities, municipalities, homeowners, and government entities. The specialty segment rents specialty construction products, including trench safety equipment consists of trench shields, aluminum hydraulic shoring systems, slide rails, crossing plates, construction lasers, and line testing equipment for underground work; power and heating, ventilating, and air conditioning equipment, such as portable diesel generators, electrical distribution equipment, and temperature control equipment; fluid solutions equipment for fluid containment, transfer, and treatment; and mobile storage equipment and modular office space. This segment serves construction companies involved in infrastructure projects, and municipalities and industrial companies. It also sells aerial lifts, reach forklifts, telehandlers, compressors, and generators; construction consumables, tools, small equipment, and safety supplies; and parts for equipment that is owned by its customers, as well as provides repair and maintenance services. The company sells used equipment through its sales force, brokers, website, at auctions, and directly to manufacturers. The company operates a network of 1,521 rental locations in the United States, Canada, Europe, Australia, and New Zealand. United Rentals, Inc. was incorporated in 1997 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§24600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew J. Flannery', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 4173191, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Grace', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1152608, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew B. Limoges', 'age': 40, 'title': 'VP, Controller & Principal Accounting Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 729806, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig Adam Pintoff', 'age': 53, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1781745, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael D. Durand', 'title': 'Executive VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel T. Higgins', 'title': 'VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth Carolyn Grenfell', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joli L. Gross', 'age': 52, 'title': 'Senior VP, General Counsel, Corporate Secretary & Chief Sustainability Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert N. Halsey', 'title': 'Vice President of Marketing', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth B. Mettel', 'title': 'Senior Vice President of Performance Analytics', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§5.92
+dividendYield§0.0109
+exDividendDate§1699315200
+payoutRatio§0.1291
+beta§1.863
+priceToSalesTrailing12Months§2.6400125
+currency§USD
+dateShortInterest§1702598400
+forwardEps§42.96
+pegRatio§0.9
+exchange§NYQ
+quoteType§EQUITY
+shortName§United Rentals, Inc.
+longName§United Rentals, Inc.
+firstTradeDateEpochUtc§882455400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§84473062-10a0-372a-894b-7d774799df1a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§650.0
+targetLowPrice§322.0
+targetMeanPrice§490.76
+targetMedianPrice§510.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§0.733
+earningsGrowth§0.188
+grossMargins§0.41978002
+ebitdaMargins§0.31101
+trailingPegRatio§1.3832

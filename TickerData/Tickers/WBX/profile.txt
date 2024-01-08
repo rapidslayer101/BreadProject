@@ -1,0 +1,40 @@
+# reload+after+2024-01-23 07:34:19.019336
+address1§Carrer del Foc, 68
+city§Barcelona
+zip§08038
+country§Spain
+phone§34 930 18 16 68
+website§https://wallbox.com
+industry§Electronic Components
+sector§Technology
+longBusinessSummary§Wallbox N.V., a technology company, designs, manufactures, and distributes charging solutions for residential, business, and public use. The company operates in three segments: Europe-Middle East Asia, North America, and Asia-Pacific. It offers EV charging hardware products, such as Pulsar Plus, an AC smart charger for home or multi-family residence; Commander 2, an AC smart charger for fleets and businesses with a 7-inch touchscreen display that provides a personalized and secure user interface for multiple users; Copper SB, an AC smart charger for fleets and businesses with an integrated socket that makes it compatible with both type 1 and type 2 charging cables; Quasar1 & 2, a DC bi-directional charger for home-use that allows to charge and discharge electric vehicle, and enables to use car battery to power home or sell energy back to the grid; Supernova, a DC fast charger equipment designed for public use; and Hypernova that allows to optimize available power and adapt to the number of EVs connected for public charging along highways and transcontinental road networks. The company also provides EV charging software solutions, including the myWallbox platform, a cloud based software designed to provide smart management of its chargers in residential and business parking settings, such as workplaces, fleets, and semi-public parking lots; Electromaps, a hardware-agnostic e-mobility service provider and charger management software that enables users to find publicly available charging ports; and Sirius, an energy management solution that is designed to seamlessly integrates the electric grid with solar, on-site batteries, and other renewable energy sources. In addition, it offers upgrades and accessories, which includes energy meters, EV charging cables, pedestals, and RFID cards; and installation, maintenance, and charging network management services. Wallbox N.V. was incorporated in 2015 and is headquartered in Barcelona, Spain.
+fullTimeEmployees§1250
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Enric  Asuncion Escorsa', 'age': 37, 'title': 'Co-Founder, CEO & Executive Director', 'yearBorn': 1986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eduard  Castaneda Mane', 'age': 36, 'title': 'Co-founder & Chief Innovation Officer', 'yearBorn': 1987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jordi  Lainz Gavalda', 'age': 54, 'title': 'Chief Financial Officer', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oriol  Riba Magrazo', 'title': 'Chief Operations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jaume  Ferre', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Tractenberg', 'title': 'Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Juan  Sagales', 'title': 'General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Myriam Lhermurier Boublil', 'title': 'Chief Communications & Public Affairs Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Javier  Riano', 'title': 'Chief Marketing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas  Alfaro', 'title': 'Chief Business Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.311
+priceToSalesTrailing12Months§2.17892
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.69
+exchange§NYQ
+quoteType§EQUITY
+shortName§Wallbox N.V.
+longName§Wallbox N.V.
+firstTradeDateEpochUtc§1618839000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§05377f8d-5290-3b3b-8b0c-46cef520a959
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§5.02
+targetLowPrice§1.64
+targetMeanPrice§3.49
+targetMedianPrice§3.51
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§0.896
+grossMargins§0.36112
+ebitdaMargins§-0.98293996
+trailingPegRatio§None

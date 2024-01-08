@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 15:43:13.052964
+address1§2468 Industrial Row Dr
+city§Troy
+state§MI
+zip§48084
+country§United States
+phone§855 420 0020
+website§https://www.agrify.com
+industry§Engineering & Construction
+sector§Industrials
+longBusinessSummary§Agrify Corporation develops precision hardware and software cultivation and extraction solutions for the cannabis and hemp industry in the United States. The company offers vertical farming units and Agrify Insights Software-as-a-Service software; integrated grow racks and LED grow lights; and non-proprietary products designed, engineered, and manufactured by third parties, such as air cleaning systems and pesticide-free surface protection products. It also provides associated services comprising consulting, engineering, and construction. In addition, the company offers hydrocarbon, alcohol, solventless, post-processing, and lab equipment, as well as provides indoor farming solutions. It offers equipment and services in a contract and purchase order. The company was formerly known as Agrinamics, Inc. and changed its name to Agrify Corporation in September 2019. Agrify Corporation was incorporated in 2016 and is headquartered in Troy, Michigan.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Raymond Nobu Chang Jr.', 'age': 52, 'title': 'CEO, Chairman of the Board & Corporate Secretary', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 558578, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Kessler', 'age': 45, 'title': 'Chief Scientific Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 302397, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheryl  Elliott', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'J.D.  Skinner', 'title': 'Senior Vice President of Systems Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Towns', 'age': 37, 'title': 'Executive VP & GM of Extraction Division', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§3
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.056
+priceToSalesTrailing12Months§0.112467006
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.26
+exchange§NCM
+quoteType§EQUITY
+shortName§Agrify Corporation
+longName§Agrify Corporation
+firstTradeDateEpochUtc§1611844200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a32adcc9-d2aa-316a-84e3-0f1305e71601
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§240.0
+targetLowPrice§240.0
+targetMeanPrice§240.0
+targetMedianPrice§240.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.034
+grossMargins§-1.55279
+ebitdaMargins§0.0
+trailingPegRatio§None

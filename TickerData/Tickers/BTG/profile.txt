@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 09:27:33.315939
+address1§Park Place
+address2§Suite 3400 666 Burrard Street
+city§Vancouver
+state§BC
+zip§V6C 2X8
+country§Canada
+phone§604 681 8371
+fax§604 681 6209
+website§https://www.b2gold.com
+industry§Gold
+sector§Basic Materials
+longBusinessSummary§B2Gold Corp. operates as a gold producer with three operating mines in Mali, the Philippines, and Namibia. It operates the Fekola Mine in Mali, the Masbate Mine in the Philippines, and the Otjikoto Mine in Namibia. The company also has an 25% interest in the Calibre Mining Corp.; and approximately 19% interest in BeMetals Corp. In addition, it has a portfolio of other evaluation and exploration assets in Mali, Uzbekistan, and Finland. The company was incorporated in 2006 and is headquartered in Vancouver, Canada.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Clive Thomas Johnson', 'age': 65, 'title': 'President, CEO & Director', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 2066333, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael Andrew Cinnamond CPA, L.L.B.', 'age': 56, 'title': 'Senior VP of Finance & CFO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 963903, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Lytle B.Sc., M.Sc., P.E.', 'title': 'Senior VP & COO', 'fiscalYear': 2022, 'totalPay': 960195, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Randall  Chatwin J.D.', 'title': 'Senior Vice President of Legal & Corporate Communications', 'fiscalYear': 2022, 'totalPay': 783162, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis Robert Stansbury', 'age': 70, 'title': 'Senior Vice President of Engineering & Project Evaluations', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 894779, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  McDonald', 'title': 'Vice President of Investor Relations & Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ninette  Krohnert', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin  Pemberton P.E.', 'title': 'Chief Mine Planning Engineer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Dawe', 'title': 'Managing Director and Country Manager of Namibia', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor J. King', 'title': 'Senior Vice President of Exploration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§3
+compensationRisk§3
+shareHolderRightsRisk§7
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.16
+dividendYield§0.052600004
+exDividendDate§1701388800
+payoutRatio§0.64
+beta§1.097
+priceToSalesTrailing12Months§1.9718539
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.27
+pegRatio§0.53
+exchange§ASE
+quoteType§EQUITY
+shortName§B2Gold Corp
+longName§B2Gold Corp.
+firstTradeDateEpochUtc§1214314200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6acf5841-c41a-36e7-b0d0-e91b2ad1f3d6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§4.94
+targetLowPrice§4.0
+targetMeanPrice§4.45
+targetMedianPrice§4.42
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§1.047
+grossMargins§0.62490004
+ebitdaMargins§0.57732
+trailingPegRatio§None

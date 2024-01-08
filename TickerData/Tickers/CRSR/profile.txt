@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 12:44:14.370118
+address1§115 N. McCarthy Boulevard
+city§Fremont
+state§CA
+zip§95035
+country§United States
+phone§510 657 8747
+website§https://www.corsair.com
+industry§Computer Hardware
+sector§Technology
+longBusinessSummary§Corsair Gaming, Inc., together with its subsidiaries, designs, markets, and distributes gaming and streaming peripherals, components and systems in the Americas, Europe, the Middle East, and the Asia Pacific. It offers gamer and creator peripherals, including gaming keyboards, mice, headsets, and controllers, as well as capture cards, stream decks, USB microphones, studio accessories, and EpocCam software. The company also provides gaming components and systems comprising power supply units, cooling solutions, computer cases, and DRAM modules, as well as prebuilt and custom-built gaming PCs, and others; and PC gaming software comprising iCUE for gamers and Elgato's streaming suite for streamers and content creators. In addition, it offers coaching and training, and other services. The company sells its products through a network of distributors and retailers, including online retailers, as well as directly to consumers through its website. Corsair Gaming, Inc. was incorporated in 1994 and is headquartered in Milpitas, California. Corsair Gaming, Inc. is a subsidiary of Corsair Group (Cayman), LP.
+fullTimeEmployees§2480
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Andrew J. Paul', 'age': 66, 'title': 'Co-Founder, CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 719933, 'exercisedValue': 0, 'unexercisedValue': 9710000}, {'maxAge': 1, 'name': 'Ms. Thi L. La', 'age': 58, 'title': 'President, COO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 574600, 'exercisedValue': 0, 'unexercisedValue': 6707750}, {'maxAge': 1, 'name': 'Mr. Michael G. Potter', 'age': 56, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 536600, 'exercisedValue': 0, 'unexercisedValue': 1910700}, {'maxAge': 1, 'name': 'Mr. Ronald  Van Veen', 'title': 'Vice President of Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carina M. Tan', 'title': 'VP & General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michael  Buchanan', 'title': 'Senior Vice President of Worldwide Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter E. Hilliard', 'age': 56, 'title': 'Chief Human Resources Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bertrand  Chevalier', 'age': 51, 'title': 'Executive Vice President of Gaming Products', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 770000, 'exercisedValue': 7700423, 'unexercisedValue': 6057750}, {'maxAge': 1, 'name': 'Matthew  Hsu', 'title': 'Senior Vice President of System Products', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julian  Fest', 'title': 'Senior Vice President of Streaming Products', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.645
+priceToSalesTrailing12Months§0.9709749
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.79
+pegRatio§0.25
+exchange§NMS
+quoteType§EQUITY
+shortName§Corsair Gaming, Inc.
+longName§Corsair Gaming, Inc.
+firstTradeDateEpochUtc§1600867800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d5e86567-94f4-3e17-be3b-ef6995d4dfe9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§21.0
+targetLowPrice§14.0
+targetMeanPrice§17.57
+targetMedianPrice§17.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§1.003
+grossMargins§0.24660999
+ebitdaMargins§0.04276
+trailingPegRatio§None

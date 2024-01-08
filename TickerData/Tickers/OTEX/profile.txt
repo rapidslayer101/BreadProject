@@ -1,0 +1,53 @@
+# reload+after+2024-01-20 19:46:29.640338
+address1§275 Frank Tompa Drive
+city§Waterloo
+state§ON
+zip§N2L 0A1
+country§Canada
+fax§519 888 7111
+website§https://www.opentext.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Open Text Corporation provides information management software and solutions. The company offers content services, which includes content collaboration and intelligent capture to records management, collaboration, e-signatures, and archiving; and operates experience cloud platform that provides customer experience and web content management, digital asset management, customer analytics, AI and insights, e-discovery, digital fax, omnichannel communications, secure messaging, and voice of customer, as well as customer journey, testing, and segmentation. It also provides cybersecurity cloud solutions to protect, prevent, detect, respond and quickly recover from threats across endpoints, network, applications, IT infrastructure and data, AI-led threat intelligence; and to protect critical information and processes through threat intelligence, forensics, identity, encryption, and cloud-based application security. In addition, the company offers business network cloud for digital supply chains and secure e-commerce ecosystems including digitize and automate procure-to-pay and order-to-cash processes; IT operations management cloud for automation and advancement of IT support and asset management; and analytics & AI cloud solutions that offers artificial intelligence with practical usage to provide organizations with actionable insights and better automation, such as visualizations, advanced natural language processing and understanding, and integrated computer vision capabilities. In addition, it provides application automation cloud, developers cloud, and services. Further, it has strategic partnerships with SAP SE, Google Cloud, Amazon AWS, Microsoft Corporation, Oracle Corporation, Salesforce.com Corporation, DXC Technology Company, Accenture plc, Capgemini Technology Services SAS, Deloitte Consulting LLP, Hewlett Packard Enterprises, and Tata Consultancy Services. Open Text Corporation was incorporated in 1991 and is headquartered in Waterloo, Canada.
+fullTimeEmployees§24050
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark J. Barrenechea', 'age': 58, 'title': 'Vice Chairman, CEO & CTO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 3469175, 'exercisedValue': 0, 'unexercisedValue': 9735090}, {'maxAge': 1, 'name': 'Ms. Madhu  Ranganathan CPA, M.B.A.', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1799250, 'exercisedValue': 0, 'unexercisedValue': 1660679}, {'maxAge': 1, 'name': 'Mr. Muhi S. Majzoub', 'age': 63, 'title': 'Executive VP & Chief Product Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1575579, 'exercisedValue': 252412, 'unexercisedValue': 887643}, {'maxAge': 1, 'name': 'Mr. Simon David Harrison', 'age': 53, 'title': 'Executive Vice President of Enterprise Sales', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 1601868, 'exercisedValue': 0, 'unexercisedValue': 352127}, {'maxAge': 1, 'name': 'Mr. Paul Michael Duggan', 'age': 48, 'title': 'Executive VP & Chief Customer Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 1858410, 'exercisedValue': 0, 'unexercisedValue': 59806}, {'maxAge': 1, 'name': 'Mr. Cosmin  Balota', 'age': 49, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry Edward Blount', 'title': 'Senior VP & Global Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael F. Acedo', 'age': 42, 'title': 'Executive VP, Chief Legal Officer & Corporate Secretary', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jen  Bell', 'title': 'Vice President &  Chief Communications Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas M. Parker', 'age': 52, 'title': 'Executive Vice President of Corporate Development', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§3
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.0249
+exDividendDate§1701302400
+payoutRatio§0.7589
+fiveYearAvgDividendYield§1.98
+beta§1.149
+priceToSalesTrailing12Months§2.155317
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.07
+pegRatio§0.51
+exchange§NMS
+quoteType§EQUITY
+shortName§Open Text Corporation
+longName§Open Text Corporation
+firstTradeDateEpochUtc§822493800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d8810248-5ac8-392b-be92-edd0439edd15
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§60.0
+targetLowPrice§38.0
+targetMeanPrice§50.25
+targetMedianPrice§50.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.62
+grossMargins§0.76121
+ebitdaMargins§0.24813999
+trailingPegRatio§None

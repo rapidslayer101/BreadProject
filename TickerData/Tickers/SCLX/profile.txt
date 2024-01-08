@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 12:47:07.514028
+address1§960 San Antonio Road
+city§Palo Alto
+state§CA
+zip§94303
+country§United States
+phone§650 516 4310
+website§https://www.scilexholding.com
+industry§Drug Manufacturers—General
+sector§Healthcare
+longBusinessSummary§Scilex Holding Company, a biopharmaceutical company, focuses on acquiring, developing, and commercializing non-opioid management products for the treatment of acute and chronic pain. It offers ZTlido, a prescription lidocaine topical product for the relief of neuropathic pain related with postherpetic neuralgia, which is a form of post-shingles nerve pain. The company also develops SP-102, a viscous gel formulation of corticosteroid for epidural injections that is in a Phase III clinical trial to treat lumbosacral radicular pain; SP-103, which is in Phase II clinical trial for the treatment of low back pain; and SP-104 (4.5 mg), a novel low-dose delayed-release naltrexone hydrochloride formulation that has completed Phase I clinical trial for the treatment of fibromyalgia. The company is headquartered in Palo Alto, California. Scilex Holding Company is a subsidiary of Sorrento Therapeutics, Inc.
+fullTimeEmployees§109
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Henry H. Ji Ph.D.', 'age': 59, 'title': 'Executive Chairman', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 4345737, 'exercisedValue': 0, 'unexercisedValue': 4304681}, {'maxAge': 1, 'name': 'Mr. Jaisim  Shah', 'age': 63, 'title': 'President, CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 785733, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Ma', 'age': 51, 'title': 'Senior VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Suketu D. Desai Ph.D.', 'age': 57, 'title': 'Chief Technical Officer & Senior VP', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven F. Lincoln J.D.', 'title': 'General Counsel & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Suresh K. Khemani', 'age': 63, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 456820, 'exercisedValue': 0, 'unexercisedValue': 3799157}, {'maxAge': 1, 'name': 'Dr. Dmitri V. Lissin M.D.', 'age': 63, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 528826, 'exercisedValue': 0, 'unexercisedValue': 3054720}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.611
+priceToSalesTrailing12Months§4.3270745
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.57
+exchange§NCM
+quoteType§EQUITY
+shortName§Scilex Holding Company
+longName§Scilex Holding Company
+firstTradeDateEpochUtc§1614954600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ea412020-7b31-3199-90c2-cf75b3e7ae39
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§4.0
+targetMeanPrice§6.92
+targetMedianPrice§4.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.08
+grossMargins§0.65325
+ebitdaMargins§-2.27181
+trailingPegRatio§None

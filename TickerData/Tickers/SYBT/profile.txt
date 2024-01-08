@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 20:47:28.048890
+address1§1040 East Main Street
+city§Louisville
+state§KY
+zip§40206
+country§United States
+phone§502 582 2571
+website§https://www.syb.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Stock Yards Bancorp, Inc. operates as a holding company for Stock Yards Bank & Trust Company that provides various financial services for individuals, corporations, and others in the United States. It operates in two segments, Commercial Banking, and WM&T. The Commercial Banking segment offers mortgage banking and deposit services; retail, commercial, and commercial real estate lending services; and online banking, mobile banking, private banking, leasing, treasury management, merchant, international banking, correspondent banking, and other banking services. This segment also provides securities brokerage services through an arrangement with a third party broker-dealer. The WM&T segment provides investment management, financial and retirement planning, and trust and estate services, as well as retirement plan management for businesses and corporations. It provides services in Louisville, central, eastern, and northern Kentucky, as well as Indianapolis, Indiana and Cincinnati, Ohio metropolitan markets. The company was founded in 1904 and is headquartered in Louisville, Kentucky.
+fullTimeEmployees§1067
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James A. Hillebrand', 'age': 55, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1536390, 'exercisedValue': 1106730, 'unexercisedValue': 3100875}, {'maxAge': 1, 'name': 'Mr. Philip S. Poindexter', 'age': 57, 'title': 'President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 915211, 'exercisedValue': 363575, 'unexercisedValue': 1531726}, {'maxAge': 1, 'name': 'Mr. T. Clay Stinnett', 'age': 49, 'title': 'Executive VP, Treasurer & CFO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 746693, 'exercisedValue': 521271, 'unexercisedValue': 1329062}, {'maxAge': 1, 'name': 'Mr. Michael V. Rehm', 'age': 58, 'title': 'Executive VP and Chief Lending Officer of Stock Yards Bank & Trust Company', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 617754, 'exercisedValue': 55031, 'unexercisedValue': 269325}, {'maxAge': 1, 'name': 'Mr. Michael B. Newton', 'title': 'Senior VP & Principal Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. Craig Bradley Jr.', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Brown', 'title': 'Market President of Cincinnati/NKY', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William M. Dishman III', 'age': 60, 'title': 'Executive VP & Chief Risk Officer of Stock Yards Bank & Trust Company', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 512218, 'exercisedValue': 198148, 'unexercisedValue': 1104016}, {'maxAge': 1, 'name': 'Mr. Michael J. Croce', 'age': 53, 'title': 'Executive VP & Director of Retail Banking of Stock Yards Bank & Trust Company', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Paula  Moan', 'title': 'Market President of Indianapolis', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.024
+exDividendDate§1702598400
+payoutRatio§0.3023
+fiveYearAvgDividendYield§2.39
+beta§0.834
+priceToSalesTrailing12Months§4.457144
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.3
+pegRatio§1.35
+exchange§NMS
+quoteType§EQUITY
+shortName§Stock Yards Bancorp, Inc.
+longName§Stock Yards Bancorp, Inc.
+firstTradeDateEpochUtc§732983400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§49e4787e-3d55-3ad8-94a1-b5aea94c893d
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§62.0
+targetLowPrice§43.0
+targetMeanPrice§51.67
+targetMedianPrice§50.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§3
+earningsGrowth§-0.052
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

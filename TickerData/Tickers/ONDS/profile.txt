@@ -1,0 +1,43 @@
+# reload+after+2024-01-22 19:46:26.459924
+address1§411 Waverley Oaks Road
+address2§Suite 114
+city§Waltham
+state§MA
+zip§02452
+country§United States
+phone§888 350 9994
+website§https://www.ondas.com
+industry§Communication Equipment
+sector§Technology
+longBusinessSummary§Ondas Holdings Inc., through its subsidiaries, provides private wireless, drone, and automated data solutions. It operates in two segments, Ondas Networks and Ondas Autonomous Systems. The company designs, develops, manufactures, sells, and supports FullMAX, a software defined radio (SDR) platform for wide-area broadband networks. Its FullMAX SDR platform enables secure and reliable industrial-grade connectivity for truly mission-critical applications. The company also offers Optimus, an AI-powered drone with imaging payloads; the Airbase, a ruggedized weatherproof base station for housing, data processing, and cloud transfer; Insightful, a secure web portal and API, which enables remote interaction with the system, data, and resulting analytics anywhere in the world; and the Raider, a counter-drone system for security and the protection of critical infrastructure, assets, and people from the threat of hostile drones. It serves users in rail, energy, mining, agriculture, public safety, critical infrastructure, and government markets in the United States and internationally. The company is headquartered in Waltham, Massachusetts.
+fullTimeEmployees§116
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric Ashley Brock CPA', 'title': 'Interim CFO, Chairman, CEO & President', 'fiscalYear': 2022, 'totalPay': 228451, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stewart W. Kantor', 'age': 60, 'title': 'Co-Founder & President of Ondas Networks', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 336643, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jim  Taylor', 'title': 'President of Transportation Business Unit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Meir  Kliner', 'title': 'President of Ondas Autonomous Systems', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.04
+priceToSalesTrailing12Months§9.46793
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.35
+exchange§NCM
+quoteType§EQUITY
+shortName§Ondas Holdings Inc.
+longName§Ondas Holdings Inc.
+firstTradeDateEpochUtc§1607092200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§656af948-6eea-37de-91a1-ea623fac6245
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.5
+targetLowPrice§2.0
+targetMeanPrice§2.5
+targetMedianPrice§2.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.731
+grossMargins§0.43914002
+ebitdaMargins§0.0
+trailingPegRatio§None

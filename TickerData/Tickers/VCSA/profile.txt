@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 18:47:48.348773
+address1§850 NW 13th Avenue
+city§Portland
+state§OR
+zip§97209
+country§United States
+phone§503 345 9399
+website§https://www.vacasa.com
+industry§Software—Application
+sector§Technology
+longBusinessSummary§Vacasa, Inc. operates vacation rental management platform in North America, Belize, and Costa Rica. The company enables guests to search, discover, and book its properties on Vacasa.com and the Vacasa Guest App. It also provides services to buy and sell vacation homes through its network of real estate agents. The company was founded in 2009 and is headquartered in Portland, Oregon
+fullTimeEmployees§7900
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert  Greyber', 'age': 53, 'title': 'CEO, Interim Chief Product Officer & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 578932, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Schuman', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Banczak', 'age': 54, 'title': 'COO & Principal Operating Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harish  Naidu', 'title': 'Chief Product & Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ryan John Domyancic C.F.A.', 'title': 'Senior Director of Investor Relations and Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Boyden', 'title': 'Chief Legal Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manu S. Sivanandam', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tawanda  Starms', 'title': 'Chief People Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert E. Milne', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. T.J.  Clark', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§10
+compensationRisk§9
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.891
+priceToSalesTrailing12Months§0.14463498
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.3
+pegRatio§0.1
+exchange§NMS
+quoteType§EQUITY
+shortName§Vacasa, Inc.
+longName§Vacasa, Inc.
+firstTradeDateEpochUtc§1617975000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§32b6ae27-b932-36df-8adc-3773921186b2
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§8.0
+targetMeanPrice§10.9
+targetMedianPrice§11.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§5
+quickRatio§0.363
+grossMargins§0.54018
+ebitdaMargins§0.00837
+trailingPegRatio§None

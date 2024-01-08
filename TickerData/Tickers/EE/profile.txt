@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 09:28:53.972710
+address1§2445 Technology Forest Boulevard
+address2§Level 6
+city§The Woodlands
+state§TX
+zip§77381
+country§United States
+phone§832 813 7100
+fax§832 813 7103
+website§https://www.excelerateenergy.com
+industry§Oil & Gas Midstream
+sector§Energy
+longBusinessSummary§Excelerate Energy, Inc. provides flexible liquefied natural gas (LNG) solutions worldwide. The company offers regasification services, including floating storage and regasification units (FSRUs), infrastructure development, and LNG and natural gas supply, procurement, and distribution services; LNG terminal services; natural gas supply to-power projects; and a suite of smaller-scale gas distribution solutions. It also leases an LNG terminal in Bahia, Brazil. Excelerate Energy, Inc. was founded in 2003 and is headquartered in The Woodlands, Texas. Excelerate Energy, Inc. operates as a subsidiary of Excelerate Energy Holdings, LLC.
+fullTimeEmployees§890
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steven M. Kobos', 'age': 58, 'title': 'President, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1700186, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dana A. Armstrong', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 777240, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alisa Newman Hood', 'age': 48, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 876750, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel H. Bustos', 'age': 51, 'title': 'Senior Advisor', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 986861, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David A. Liner', 'age': 50, 'title': 'Executive VP & COO', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Bent', 'age': 56, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Craig  Hicks Jr.', 'title': 'Vice President of Investor Relations & ESG', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy Thompson Broussard', 'age': 46, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Simpson', 'age': 42, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.1
+dividendYield§0.0069
+exDividendDate§1701043200
+payoutRatio§0.0862
+priceToSalesTrailing12Months§1.1482337
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.8
+pegRatio§1.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§Excelerate Energy, Inc.
+longName§Excelerate Energy, Inc.
+firstTradeDateEpochUtc§1649856600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a57b8491-d1d8-3c10-94dd-54bcf83b130a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§18.0
+targetMeanPrice§24.0
+targetMedianPrice§24.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§3.946
+earningsGrowth§0.198
+grossMargins§0.31156
+ebitdaMargins§0.25093
+trailingPegRatio§None

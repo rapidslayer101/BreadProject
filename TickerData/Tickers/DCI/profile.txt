@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 06:28:29.300668
+address1§1400 West 94th Street
+city§Bloomington
+state§MN
+zip§55431
+country§United States
+phone§952 887 3131
+website§https://www.donaldson.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Donaldson Company, Inc. manufactures and sells filtration systems and replacement parts worldwide. The company operates through three segments: Mobile Solutions, Industrial Solutions, and Life Sciences. Its Mobile Solutions segment provides replacement filters for air and liquid filtration applications, such as air filtration systems; liquid filtration systems for fuel, lube, and hydraulic applications; exhaust and emissions systems and sensors; indicators; and monitoring systems. This segment sells its products to original equipment manufacturers (OEMs) in the construction, mining, agriculture, aerospace, defense, and transportation markets; and to independent distributors, and OEM dealer networks. The company's Industrial Solutions segment offers dust, fume, and mist collectors; compressed air and industrial gasses purification systems; and hydraulic and lubricated rotating equipment applications, as well as gas and liquid filtration for industrial processes. This segment sells its products to various distributors, OEMs, and end-users. Its Life Sciences segment provides micro-environment gas and liquid filtration for food, beverage, and industrial processes; bioprocessing equipment, that includes bioreactors and fermenters; and bioprocessing consumables, such as chromatography devices, reagents and filters, and polytetrafluoroethylene membrane-based products, as well as specialized air and gas filtration systems for applications, including hard disk drives, semi-conductor manufacturing and sensors, battery systems, and powertrain components to OEMs and various end-users. The company was founded in 1915 and is headquartered in Bloomington, Minnesota.
+fullTimeEmployees§13000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Tod E. Carpenter', 'age': 64, 'title': 'Chairman, CEO & President', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 2527807, 'exercisedValue': 1112805, 'unexercisedValue': 19517780}, {'maxAge': 1, 'name': 'Mr. Scott J. Robinson', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 1055931, 'exercisedValue': 826447, 'unexercisedValue': 2608447}, {'maxAge': 1, 'name': 'Ms. Amy C. Becker', 'age': 58, 'title': 'Chief Legal Officer & Corporate Secretary', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 884342, 'exercisedValue': 94979, 'unexercisedValue': 2479142}, {'maxAge': 1, 'name': 'Mr. Thomas R. Scalf', 'age': 57, 'title': 'President of Enterprise Operations & Supply Chain', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 917932, 'exercisedValue': 895604, 'unexercisedValue': 2999534}, {'maxAge': 1, 'name': 'Mr. Richard B. Lewis', 'age': 51, 'title': 'President of Mobile Solutions', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 890112, 'exercisedValue': 65695, 'unexercisedValue': 1902516}, {'maxAge': 1, 'name': 'Mr. Andrew J. Cebulla', 'age': 52, 'title': 'Global Corporate Controller & Principal Accounting Officer', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Wynblatt', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tammylynne  Jonas', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarika  Dhadwal', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David E. Wood', 'title': 'Vice President of Corporate Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§4
+compensationRisk§5
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.015700001
+exDividendDate§1701648000
+payoutRatio§0.3254
+fiveYearAvgDividendYield§1.57
+beta§1.092
+priceToSalesTrailing12Months§2.2263234
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.53
+pegRatio§1.99
+exchange§NYQ
+quoteType§EQUITY
+shortName§Donaldson Company, Inc.
+longName§Donaldson Company, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d1d344f1-0884-380a-8d5a-590bcbac023f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§69.0
+targetLowPrice§65.0
+targetMeanPrice§66.5
+targetMedianPrice§66.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§4
+quickRatio§0.92
+earningsGrowth§0.071
+grossMargins§0.34323
+ebitdaMargins§0.17307
+trailingPegRatio§2.2478

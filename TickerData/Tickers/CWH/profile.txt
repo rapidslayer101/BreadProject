@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 22:28:24.381374
+address1§250 Parkway Drive
+address2§Suite 270
+city§Lincolnshire
+state§IL
+zip§60069
+country§United States
+phone§847 808 3000
+website§https://www.campingworld.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Camping World Holdings, Inc., together its subsidiaries, retails recreational vehicles (RVs), and related products and services. It operates in two segments, Good Sam Services and Plans; and RV and Outdoor Retail. The company provides a portfolio of services, protection plans, products, and resources in the RV industry. It also offers extended vehicle service contracts; roadside assistance plans; property and casualty insurance programs; travel protection and planning; and RV and outdoor related consumer shows, as well as produces various monthly and annual RV focused consumer magazines; and operates the Coast to Coast Club. In addition, the company provides new and used RVs; vehicle financing; RV repair and maintenance services; various RV parts, equipment, supplies, and accessories, which include towing and hitching products, satellite and GPS systems, electrical and lighting products, appliances and furniture, and other products; and collision repair services comprising fiberglass front and rear cap replacement, windshield replacement, interior remodel solutions, and paint and body work. Further, it offers equipment, gears, and supplies for camping, hunting, fishing, skiing, snowboarding, bicycling, skateboarding, and marine and watersports equipment and supplies, as well as operates Good Sam Club, a membership organization that offers savings on a range of products and services and provides co-branded credit cards. It serves customers through dealerships, and online and e-commerce platforms. Camping World Holdings, Inc. was founded in 1966 and is headquartered in Lincolnshire, Illinois.
+fullTimeEmployees§12942
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Marcus A. Lemonis', 'age': 49, 'title': 'Chairman & CEO', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 11192, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brent L. Moody', 'age': 61, 'title': 'President & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 2131400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karin L. Bell', 'age': 63, 'title': 'Chief Financial Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1119290, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew D. Wagner', 'age': 36, 'title': 'Chief Operating Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'totalPay': 1424083, 'exercisedValue': 0, 'unexercisedValue': 720}, {'maxAge': 1, 'name': 'Mr. Thomas E. Kirn', 'age': 36, 'title': 'Principal Accounting Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lindsey  Christen', 'title': 'Chief Administrative & Legal Officer and Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brett Richard Andress C.F.A.', 'title': 'Senior Vice President of Corporate Development & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Brenda  Wintrow', 'title': 'Executive Vice President of Camping World Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vilma  Fraguada', 'title': 'President of Good Sam Media & Events', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom  Hamil', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.0202
+exDividendDate§1702425600
+payoutRatio§7.6923
+fiveYearAvgDividendYield§4.75
+beta§2.636
+priceToSalesTrailing12Months§0.17324063
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.4
+pegRatio§1.04
+exchange§NYQ
+quoteType§EQUITY
+shortName§Camping World Holdings, Inc.
+longName§Camping World Holdings, Inc.
+firstTradeDateEpochUtc§1475847000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2b79ac06-d93a-3811-9dac-7621fe825eb9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§35.0
+targetLowPrice§19.0
+targetMeanPrice§27.09
+targetMedianPrice§26.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.173
+earningsGrowth§-0.669
+grossMargins§0.30181998
+ebitdaMargins§0.05816
+trailingPegRatio§None

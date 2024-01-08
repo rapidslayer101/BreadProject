@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 05:44:18.061705
+address1§1141-A Cummings Road
+city§Santa Paula
+state§CA
+zip§93060
+country§United States
+phone§805 525 1245
+website§https://www.calavo.com
+industry§Food Distribution
+sector§Consumer Defensive
+longBusinessSummary§Calavo Growers, Inc. markets and distributes avocados, prepared avocados, and other perishable foods to retail grocery and foodservice customers, club stores, mass merchandisers, food distributors, and wholesale customers worldwide. It operates through two segments, Grown and Prepared. The Grown segment distributes tomatoes and papayas; and procures avocados grown in California, Mexico, Peru, and Colombia. The Prepared segment is involved in the distribution of prepared avocado products, salsa, fresh-cut fruit and vegetables, fresh prepared entrees salads, wraps, sandwiches, parfaits, and fresh snacking products, as well as ready-to-heat entrees, other hot bars and various deli items, meals kit components, and salad kits. The company offers its products under the Calavo brands and related logos; and Avo Fresco, Bueno, Calavo Gold, Calavo Salsa Lisa, Salsa Lisa, Celebrate the Taste, El Dorado, Fresh Ripe, Select, Taste of Paradise, The First Name in Avocados, Tico, Mfresh, Maui Fresh International, Triggered Avocados, ProRipeVIP, RIPE NOW!, Renaissance Food Group, Garden Highway Fresh Cut, Garden Highway, and Garden Highway Chef Essentials trademarks. Calavo Growers, Inc. was founded in 1924 and is headquartered in Santa Paula, California.
+fullTimeEmployees§3266
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shawn C. Munsell', 'age': 48, 'title': 'Chief Financial Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 444874, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald Anthony Araiza', 'age': 63, 'title': 'Executive Vice President of Calavo Foods Division', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 509293, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lecil E. Cole', 'age': 83, 'title': 'CEO & President', 'yearBorn': 1940, 'fiscalYear': 2022, 'totalPay': 21833, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Browne', 'age': 64, 'title': 'Executive Vice President of Sales & Operations', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 547860, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Mueller', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Paul Alan Harrison', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott H. Runge', 'title': 'Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.59
+dividendYield§0.0209
+exDividendDate§1695686400
+payoutRatio§0.0
+fiveYearAvgDividendYield§1.85
+beta§0.666
+priceToSalesTrailing12Months§0.5124131
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.57
+pegRatio§3.08
+exchange§NMS
+quoteType§EQUITY
+shortName§Calavo Growers, Inc.
+longName§Calavo Growers, Inc.
+firstTradeDateEpochUtc§1027344600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f9c7c563-8692-3003-9988-5c2edb7a0aa9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§30.0
+targetMeanPrice§37.0
+targetMedianPrice§36.5
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§0.809
+earningsGrowth§4.286
+grossMargins§0.07683
+ebitdaMargins§0.031240001
+trailingPegRatio§None

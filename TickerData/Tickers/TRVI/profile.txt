@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 11:47:38.812566
+address1§195 Church Street
+address2§16th Floor
+city§New Haven
+state§CT
+zip§06510
+country§United States
+phone§203 304 2499
+website§https://www.trevitherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Trevi Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of Haduvio for the treatment of serious cough conditions targeting the central and peripheral nervous systems. The company is developing Haduvio, an oral extended-release formulation of nalbuphine, which is in phase 2b/3 clinical trial for the treatment of chronic pruritus, chronic cough in patients with idiopathic pulmonary fibrosis. It has a license agreement with Endo Pharmaceuticals Inc. to develop and commercialize products incorporating nalbuphine hydrochloride in any formulation. The company was incorporated in 2011 and is headquartered in New Haven, Connecticut.
+fullTimeEmployees§25
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Jennifer L. Good', 'age': 58, 'title': 'Co-Founder, CEO, President & Director', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 781850, 'exercisedValue': 0, 'unexercisedValue': 33222}, {'maxAge': 1, 'name': 'Dr. Thomas R. Sciascia M.D.', 'age': 70, 'title': 'Co-Founder & Chief Science Officer', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 530475, 'exercisedValue': 0, 'unexercisedValue': 25316}, {'maxAge': 1, 'name': 'Dr. David J. Clark A.F.P.M., M.D., M.R.C.P.', 'age': 58, 'title': 'Chief Medical Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 325386, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Delfini', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Galletta', 'age': 45, 'title': 'Controller & Chief Accounting Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Katie  McManus', 'title': 'Communications Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Farrell  Simon Pharm.D.', 'title': 'Chief Commercial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danine  Summers', 'age': 65, 'title': 'Vice President of Medical Affairs', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.6
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.41
+exchange§NGM
+quoteType§EQUITY
+shortName§Trevi Therapeutics, Inc.
+longName§Trevi Therapeutics, Inc.
+firstTradeDateEpochUtc§1557235800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a113135-b079-3dd8-b58f-6d658f375d63
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§6.0
+targetMeanPrice§7.33
+targetMedianPrice§7.5
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§6
+quickRatio§17.179
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

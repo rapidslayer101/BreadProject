@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 14:30:12.526435
+address1§7456 16th Street East
+city§Sarasota
+state§FL
+zip§34243
+country§United States
+phone§941 362 1200
+website§https://www.heliostechnologies.com
+industry§Specialty Industrial Machinery
+sector§Industrials
+longBusinessSummary§Helios Technologies, Inc., together with its subsidiaries, provides engineered motion control and electronic control technology solutions in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company operates in two segments, Hydraulics and Electronics. The Hydraulics segment offers cartridge valve technology products to control rates and direction of fluid flow, and to regulate and control pressures for industrial and mobile applications; hydraulic quick release coupling solutions for the agriculture, construction equipment, and industrial markets; and hydraulic system design that provides engineered solutions for machine users, manufacturers, or designers. This segment sells its products under the Sun Hydraulics, Faster, Custom Fluidpower, Seungwon, NEM, Taimi, Daman, and Schultes brands. The Electronics segment offers displays, controls, and instrumentation products for off-highway, recreational marine, powersports and specialty vehicles, agriculture and water pumping, power generation, engine-driven industrial equipment, and health and wellness markets. This segment sells its products under the Enovation Controls, Zero Off, Murphy, HCT, Balboa Water Group, and Joyonway brands. It sells its hydraulic products primarily through value-add distributors, as well as directly to original equipment manufacturers (OEMs); and electronic products to OEMs, distributors, and system integrators. The company was formerly known as Sun Hydraulics Corporation and changed its name to Helios Technologies, Inc. in June 2019. Helios Technologies, Inc. was founded in 1970 and is headquartered in Sarasota, Florida.
+fullTimeEmployees§2400
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Josef  Matosevic', 'age': 52, 'title': 'President, CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1554667, 'exercisedValue': 0, 'unexercisedValue': 66309}, {'maxAge': 1, 'name': 'Mr. Marc A. Greenberg', 'age': 46, 'title': 'General Counsel & Secretary', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 395739, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matteo  Arduini', 'age': 50, 'title': 'President of Quick Release Couplings', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 495199, 'exercisedValue': 0, 'unexercisedValue': 6420}, {'maxAge': 1, 'name': 'Mr. Sean  Bagan', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tania  Almond', 'title': 'Vice President of Investor Relations, Corporate Communications & Risk Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jonathan  Kaufmann', 'title': 'Chief Engineer of Design', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Benjamin  Kaufmann', 'title': 'Chief Engineer of R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rick  Martich', 'age': 52, 'title': 'President of Hydraulics - Americas', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Pierre  Parent', 'title': 'Senior VP & MD of Balboa Water Group, LLC', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lee F. Wichlacz', 'age': 59, 'title': 'President of Electronics', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§2
+compensationRisk§10
+shareHolderRightsRisk§7
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0085
+exDividendDate§1704240000
+payoutRatio§0.22780001
+fiveYearAvgDividendYield§0.68
+beta§0.991
+priceToSalesTrailing12Months§1.6700007
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.66
+pegRatio§4.74
+exchange§NYQ
+quoteType§EQUITY
+shortName§Helios Technologies, Inc.
+longName§Helios Technologies, Inc.
+firstTradeDateEpochUtc§852820200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§762c5340-0116-3b2c-b2ab-a53fb9275f61
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§70.0
+targetLowPrice§50.0
+targetMeanPrice§56.8
+targetMedianPrice§55.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§5
+quickRatio§1.295
+earningsGrowth§-0.831
+grossMargins§0.32187998
+ebitdaMargins§0.17979
+trailingPegRatio§None

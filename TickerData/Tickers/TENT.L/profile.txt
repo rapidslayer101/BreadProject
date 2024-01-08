@@ -1,0 +1,20 @@
+# reload+after+2024-01-22 20:40:45.257952
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§TRIPLE POINT ENERGY TRANSITION 
+longName§Triple Point Energy Transition Ord
+firstTradeDateEpochUtc§1603090800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§69597612-8fa9-3ac7-a611-2c0352beaa90
+targetHighPrice§80.0
+targetLowPrice§80.0
+targetMeanPrice§80.0
+targetMedianPrice§80.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+trailingPegRatio§None

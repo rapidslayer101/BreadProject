@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 03:47:57.542183
+address1§108 Wilmot Road
+city§Deerfield
+state§IL
+zip§60015
+country§United States
+phone§847 315 3700
+website§https://www.walgreensbootsalliance.com
+industry§Pharmaceutical Retailers
+sector§Healthcare
+longBusinessSummary§Walgreens Boots Alliance, Inc. operates as a healthcare, pharmacy, and retail company in the United States, the United Kingdom, Germany, and internationally. It operates through three segments: U.S. Retail Pharmacy, International, and U.S. Healthcare. The U.S. Retail Pharmacy segment engages in operation of the retail drugstores, health and wellness services, specialty, and home delivery pharmacy services, which offers health and wellness, beauty, personal care and consumables, and general merchandise. The International segment offers sale of prescription drugs and health and wellness, beauty, personal care, and other consumer products outside the United States; and operates pharmacy-led health and beauty retail businesses under the Boots brand stores in the United Kingdom, the Republic of Ireland, and Thailand, as well as the Benavides brand in Mexico and the Ahumada brand in Chile. The U.S. Healthcare segment provides VillageMD, a national provider of value-based care with primary, multi-specialty, and urgent care providers serving patients in traditional clinic settings, in patients' homes and online appointments; Shields, a specialty pharmacy integrator and accelerator for hospitals; and CareCentrix, a participant in the post-acute and home care management sectors. Walgreens Boots Alliance, Inc. was founded in 1909 and is headquartered in Deerfield, Illinois.
+fullTimeEmployees§330000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stefano  Pessina', 'age': 82, 'title': 'Executive Chairman of the Board', 'yearBorn': 1941, 'fiscalYear': 2023, 'totalPay': 66726, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manmohan  Mahajan', 'age': 44, 'title': 'Senior VP & Interim Global CFO', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 1161122, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ornella  Barra', 'age': 70, 'title': 'Chief Operating Officer of International', 'yearBorn': 1953, 'fiscalYear': 2023, 'totalPay': 1444368, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John P. Driscoll', 'age': 64, 'title': 'Executive VP & President of U.S. Healthcare', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 1553832, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy C. Wentworth', 'age': 63, 'title': 'CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Todd D. Heckman', 'age': 50, 'title': 'VP, Interim Global Controller & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Neal Joseph Sample Ph.D.', 'age': 48, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1975, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tiffany Ann Kanaga', 'title': 'Vice President of Global Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Danielle Carim Gray', 'age': 45, 'title': 'Executive VP & Global Chief Legal Officer', 'yearBorn': 1978, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth A. Leonard', 'title': 'Senior VP & Chief Communications Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§5
+compensationRisk§9
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.0
+dividendYield§0.04
+exDividendDate§1708041600
+payoutRatio§2.9091
+fiveYearAvgDividendYield§4.6
+beta§0.746
+priceToSalesTrailing12Months§0.15145448
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.66
+pegRatio§-0.83
+exchange§NMS
+quoteType§EQUITY
+shortName§Walgreens Boots Alliance, Inc.
+longName§Walgreens Boots Alliance, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§888fa4a2-1f3d-3718-83dd-229207680ca9
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§21.0
+targetMeanPrice§27.0
+targetMedianPrice§25.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§15
+quickRatio§0.259
+grossMargins§0.18882
+ebitdaMargins§0.028199999
+trailingPegRatio§7.4139

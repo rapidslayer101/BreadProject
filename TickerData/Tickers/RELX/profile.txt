@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 07:32:42.323773
+address1§1-3 Strand
+city§London
+zip§WC2N 5JR
+country§United Kingdom
+phone§44 20 7166 5500
+fax§44 20 7166 5799
+website§https://www.relx.com
+industry§Specialty Business Services
+sector§Industrials
+longBusinessSummary§RELX PLC, together with its subsidiaries, provides information-based analytics and decision tools for professional and business customers in North America, Europe, and internationally. It operates through four segments: Risk; Scientific, Technical & Medical; Legal; and Exhibitions. The Risk segment offers information-based analytics and decision tools that combine public and industry specific content with technology and algorithms to assist clients in evaluating and predicting risk. The Scientific, Technical & Medical segment provides information and analytics that help institutions and professionals to progress in science and advance healthcare. The Legal segment provides legal, regulatory, and business information and analytics that help customers in decision-making, as well as increases the productivity. The Exhibitions segment is involved in the business that combines face-to-face with data and digital tools to help customers learn about markets, source products, and complete transactions. The company was formerly known as Reed Elsevier PLC and changed its name to RELX PLC in July 2015. RELX PLC was incorporated in 1903 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§35000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Erik  Engstrom M.Sc Econ, M.Sc Eng., MBA', 'age': 60, 'title': 'CEO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4598454, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas Lawrence Luff', 'age': 56, 'title': 'CFO & Executive Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2720391, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kumsal Bayazit Besson', 'age': 49, 'title': 'Chief Executive Officer of Scientific, Technical & Medical', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Colin  Tennant', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry Adam Udow', 'age': 65, 'title': 'Chief Legal Officer & Company Secretary', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Abrahams', 'title': 'Head of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rosemary  Thomson', 'age': 54, 'title': 'Chief Human Resources Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Kelsey', 'title': 'Chief Executive Officer of Risk', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jelena  Sevo', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Walsh', 'title': 'Chief Executive Officer of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§3
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.7
+dividendYield§0.0176
+exDividendDate§1691020800
+payoutRatio§0.584
+fiveYearAvgDividendYield§2.27
+beta§0.467
+priceToSalesTrailing12Months§8.212592
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.1
+exchange§NYQ
+quoteType§EQUITY
+shortName§RELX PLC PLC
+longName§RELX PLC
+firstTradeDateEpochUtc§781450200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§eddf013b-f4ce-347d-bdf0-2933b65d9623
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§41.1
+targetLowPrice§41.1
+targetMeanPrice§41.1
+targetMedianPrice§41.1
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§0.4
+earningsGrowth§0.165
+grossMargins§0.64339995
+ebitdaMargins§0.31432
+trailingPegRatio§None

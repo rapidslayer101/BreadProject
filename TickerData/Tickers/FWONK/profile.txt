@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 08:44:56.193635
+address1§12300 Liberty Boulevard
+city§Englewood
+state§CO
+zip§80112
+country§United States
+phone§720 875 5400
+website§https://www.libertymedia.com/companies/formula-one-group.html
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§Formula One Group, through its subsidiary Formula 1, engages in the motorsports business in the United States and internationally. The company holds commercial rights for the FIA Formula One world championship, approximately a nine-month long motor race-based competition in which teams compete for the constructors' championship and drivers compete for the drivers' championship. It is also involved in the operation of the Formula 1 Paddock Club hospitality program; and provision of freight, logistical, and travel related services for the teams and other third parties, as well as the F2 and F3 race series. The company was founded in 1950 and is based in Englewood, Colorado. Formula One Group operates as a subsidiary of Liberty Media Corporation.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stefano  Domenicali', 'age': 58, 'title': 'President & CEO', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§2
+exDividendDate§1689811200
+payoutRatio§0.0
+beta§1.097
+priceToSalesTrailing12Months§5.260436
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.88
+pegRatio§-46.89
+exchange§NMS
+quoteType§EQUITY
+shortName§Liberty Media Corporation - Ser
+longName§Formula One Group
+firstTradeDateEpochUtc§1404826200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6ab6976a-c74f-3a74-b2d1-23708c87a3c4
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§92.0
+targetLowPrice§68.0
+targetMeanPrice§81.4
+targetMedianPrice§82.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.376
+earningsGrowth§0.26
+grossMargins§0.32009998
+ebitdaMargins§0.20392999
+trailingPegRatio§None

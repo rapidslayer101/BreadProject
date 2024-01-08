@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 11:28:08.978276
+address1§925 North Eldridge Parkway
+city§Houston
+state§TX
+zip§77079-2703
+country§United States
+phone§281 293 1000
+website§https://www.conocophillips.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids in the United States and internationally. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; various LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects. ConocoPhillips was founded in 1917 and is headquartered in Houston, Texas.
+fullTimeEmployees§9800
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Ryan M. Lance', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 5663471, 'exercisedValue': 36928712, 'unexercisedValue': 163684432}, {'maxAge': 1, 'name': 'Mr. William L. Bullock Jr.', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 2760421, 'exercisedValue': 2883681, 'unexercisedValue': 13937645}, {'maxAge': 1, 'name': 'Mr. Dominic E. Macklon', 'age': 53, 'title': 'Executive Vice President of Strategy, Sustainability & Technology', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1994970, 'exercisedValue': 794349, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly Brunetti Rose J.D.', 'age': 56, 'title': 'Senior VP of Legal & General Counsel', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2174272, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nicholas G. Olds', 'age': 53, 'title': 'Executive Vice President of Lower 48', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1762943, 'exercisedValue': 4329892, 'unexercisedValue': 1658354}, {'maxAge': 1, 'name': 'Mr. Timothy A. Leach', 'age': 63, 'title': 'Director & Advisor', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 2393337, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Andrew M. O'Brien", 'age': 48, 'title': 'Senior Vice President of Global Operations', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heather  Hrap', 'age': 50, 'title': 'Senior Vice President of Human Resources & Real Estate and Facilities Services', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew D. Lundquist', 'age': 62, 'title': 'Senior Vice President of Government Affairs', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. William Giraud IV, J.D.', 'age': 43, 'title': 'Senior VP of Corporate Planning & Development', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.29
+dividendYield§0.0197
+exDividendDate§1699833600
+payoutRatio§0.4946
+fiveYearAvgDividendYield§2.57
+beta§1.25
+priceToSalesTrailing12Months§2.2375667
+currency§USD
+dateShortInterest§1702598400
+forwardEps§10.09
+pegRatio§-1.29
+exchange§NYQ
+quoteType§EQUITY
+shortName§ConocoPhillips
+longName§ConocoPhillips
+firstTradeDateEpochUtc§378657000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§97afc5c1-9a02-314c-bde1-c064281437c5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§164.0
+targetLowPrice§117.0
+targetMeanPrice§137.31
+targetMedianPrice§138.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§26
+quickRatio§1.462
+earningsGrowth§-0.346
+grossMargins§0.4732
+ebitdaMargins§0.41215
+trailingPegRatio§None

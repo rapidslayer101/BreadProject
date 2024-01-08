@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 01:32:19.152086
+address1§Griffin Capital Plaza
+address2§1520 E. Grand Avenue
+city§El Segundo
+state§CA
+zip§90245-4341
+country§United States
+phone§310 606 3200
+fax§310 606 5910
+website§https://pkst.com
+industry§REIT—Office
+sector§Real Estate
+longBusinessSummary§Peakstone Realty Trust (NYSE: PKST) is an internally managed, real estate investment trust (REIT) that owns and operates a high-quality, newer-vintage portfolio of predominantly single-tenant industrial and office properties. These assets are generally leased to creditworthy tenants under long-term net lease agreements with contractual rent escalations. As of March 31, 2023, Peakstone's wholly-owned portfolio consists of 19 million square feet across 24 states in primarily high-growth, strategic coastal and sunbelt markets.
+fullTimeEmployees§36
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael J. Escalante', 'age': 63, 'title': 'CEO, President & Trustee', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 3970410, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Javier F. Bitar', 'age': 61, 'title': 'CFO & Treasurer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1795960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nina Momtazee Sitzer', 'age': 55, 'title': 'COO & Chief Legal Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1684675, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott A. Tausk', 'age': 63, 'title': 'Consultant', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 958046, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan K. Yamasawa', 'age': 55, 'title': 'Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig J. Phillips LEED AP', 'age': 62, 'title': 'Managing Director of Industrial Properties', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Travis W. Bushman', 'age': 45, 'title': 'Managing Director of Asset Management', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max  Kaminsky', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lily  Fong', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie  DiTolla', 'title': 'Senior Vice President of Corporate Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§4
+compensationRisk§6
+shareHolderRightsRisk§9
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.9
+dividendYield§0.052800003
+exDividendDate§1703721600
+payoutRatio§0.0
+priceToSalesTrailing12Months§7.6320615
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.45
+exchange§NYQ
+quoteType§EQUITY
+shortName§Peakstone Realty Trust
+longName§Peakstone Realty Trust
+firstTradeDateEpochUtc§1681479000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ad435bb9-3ae7-38a2-b120-bb51fa5ae5ee
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§11.5
+targetMeanPrice§15.25
+targetMedianPrice§15.25
+recommendationMean§3.5
+recommendationKey§hold
+numberOfAnalystOpinions§2
+quickRatio§9.821
+grossMargins§0.3068
+ebitdaMargins§-0.80791
+trailingPegRatio§None

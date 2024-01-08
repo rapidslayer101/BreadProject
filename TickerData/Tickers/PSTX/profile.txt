@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 08:46:46.247285
+address1§9390 Towne Centre Drive
+address2§Suite 200
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 779 3100
+website§https://poseida.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Poseida Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on developing therapeutics for patients with high unmet medical needs. The company develops P-PSMA-ALLO1, an autologous chimeric antigen receptor T cell (CAR-T) product candidate that is in Phase I trial for the treatment of patients with metastatic castrate resistant prostate cancer (mCRPC). It is also developing P-BCMA-ALLO1, which is in Phase I trial to treat patients with relapsed/refractory multiple myeloma; and P-MUC1C-ALLO1 that is in Phase I trial for treating a range of solid tumors, including breast, colorectal, lung, ovarian, pancreatic, and renal cancers. In addition, the company engages in the development of P-CD19CD20-ALLO1 for B cell malignancies and other autoimmune diseases; and P-BCMACD19-ALLO1, an allogeneic, off-the-shelf CAR-T product candidate in preclinical development for multiple myeloma. Further, it is developing P-PSMA-101, an allogeneic CAR-T product candidate for treating mCRPC. Additionally, the company engages in the development of P-OTC-101, a liver-directed gene therapy for the in vivo treatment of ornithine transcarbamylase deficiency; P-FVIII-101, a clinical stage liver-directed gene therapy for the in vivo treatment of hemophilia A; and P-PAH-101, a liver-directed gene therapy for the in vivo treatment of phenylketonuria. Poseida Therapeutics, Inc. has a research collaboration and license agreement with Takeda Pharmaceuticals USA, Inc., F. Hoffmann-La Roche Ltd, and Hoffmann-La Roche Inc. The company was incorporated in 2014 and is headquartered in San Diego, California.
+fullTimeEmployees§327
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark J. Gergen J.D.', 'age': 60, 'title': 'Executive Chairman of the Board', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 920740, 'exercisedValue': 0, 'unexercisedValue': 817228}, {'maxAge': 1, 'name': 'Mr. Harry J. Leonhardt Esq., J.D.', 'age': 66, 'title': 'General Counsel, Chief Compliance Officer & Corporate Secretary', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 630233, 'exercisedValue': 0, 'unexercisedValue': 25579}, {'maxAge': 1, 'name': 'Mr. Brent  Warner', 'age': 39, 'title': 'President of Gene Therapy', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 835929, 'exercisedValue': 0, 'unexercisedValue': 151938}, {'maxAge': 1, 'name': 'Dr. Kristin  Yarema Ph.D.', 'age': 51, 'title': 'President & CEO', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Johanna M. Mylet CPA', 'age': 36, 'title': 'Chief Financial Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Loren  Wagner', 'title': 'Senior Vice President of Global Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristin  Martin', 'title': 'Chief People & Administration Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sarah  Thailing', 'title': 'Senior Director of Corporate Communications & IR', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Devon J. Shedlock Ph.D.', 'title': 'Chief Scientific Officer of Cell Therapy', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lisa  Portale', 'title': 'Senior Vice President of Regulatory Affairs', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.336
+priceToSalesTrailing12Months§6.09195
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.57
+pegRatio§-0.8
+exchange§NMS
+quoteType§EQUITY
+shortName§Poseida Therapeutics, Inc.
+longName§Poseida Therapeutics, Inc.
+firstTradeDateEpochUtc§1594387800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§291e20e1-54d3-33de-96cd-b23bf8be3533
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§10.0
+targetMeanPrice§14.0
+targetMedianPrice§12.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§3.216
+grossMargins§-1.98702
+ebitdaMargins§-2.63842
+trailingPegRatio§None

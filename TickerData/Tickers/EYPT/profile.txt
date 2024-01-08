@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 22:44:40.127760
+address1§480 Pleasant Street
+address2§Suite A-210
+city§Watertown
+state§MA
+zip§02472
+country§United States
+phone§617 926 5000
+fax§617 926 5050
+website§https://eyepointpharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§EyePoint Pharmaceuticals, Inc. focuses on developing and commercializing therapeutics to help improve the lives of patients with serious eye disorders. The company's pipeline leverages its proprietary erodible Durasert E technology for sustained intraocular drug delivery, including EYP-1901, an investigational sustained delivery intravitreal anti-VEGF treatment, which is in Phase 2 clinical trials. The company was formerly known as pSivida Corp. and changed its name to EyePoint Pharmaceuticals, Inc. in March 2018. EyePoint Pharmaceuticals, Inc. was incorporated in 1987 and is headquartered in Watertown, Massachusetts.
+fullTimeEmployees§144
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jay S. Duker M.D.', 'age': 64, 'title': 'President, CEO & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 848501, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Pine', 'age': 47, 'title': 'Chief Business Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 764853, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. George O. Elston', 'age': 58, 'title': 'Executive VP & CFO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 743859, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Maciocio', 'title': 'Senior Vice President of Manufacturing & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Said  Saim Ph.D.', 'age': 65, 'title': 'Senior VP & CTO', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron I. Honig Esq.', 'title': 'Chief Legal Officer & Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Leonard', 'title': 'Chief People Officer & Senior VP of  IT', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dario A. Paggiarino', 'age': 66, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 694187, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Scott Jones', 'age': 56, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 672084, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isabelle  Lefebvre', 'title': 'Chief Regulatory Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§3
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.711
+priceToSalesTrailing12Months§23.429943
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.81
+exchange§NGM
+quoteType§EQUITY
+shortName§EyePoint Pharmaceuticals, Inc.
+longName§EyePoint Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1106836200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§564ca7d9-104b-3085-b6a2-17354e99fc88
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§68.0
+targetLowPrice§22.0
+targetMeanPrice§41.67
+targetMedianPrice§44.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§2.136
+grossMargins§-0.59824
+ebitdaMargins§-1.90631
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 16:34:17.487524
+address1§1095 Avenue of the Americas
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§212 395 1000
+website§https://www.verizon.com
+industry§Telecom Services
+sector§Communication Services
+longBusinessSummary§Verizon Communications Inc., through its subsidiaries, provides communications, technology, information, and entertainment products and services to consumers, businesses, and governmental entities worldwide. It operates in two segments, Verizon Consumer Group (Consumer) and Verizon Business Group (Business). The Consumer segment provides wireless services across the wireless networks in the United States under the Verizon and TracFone brands and through wholesale and other arrangements; and fixed wireless access (FWA) broadband through its wireless networks. It also offers wireline services in the Mid-Atlantic and Northeastern United States, as well as Washington D.C. through its fiber-optic network, Verizon Fios product portfolio, and a copper-based network. The Business segment provides wireless and wireline communications services and products, including data, video, conferencing, corporate networking, security and managed network, local and long-distance voice, network access, and various IoT services and products, as well as FWA broadband through its wireless networks. The company was formerly known as Bell Atlantic Corporation and changed its name to Verizon Communications Inc. in June 2000. Verizon Communications Inc. was incorporated in 1983 and is headquartered in New York, New York.
+fullTimeEmployees§110500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Hans E. Vestberg', 'age': 58, 'title': 'Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 5332693, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Craig L. Silliman', 'age': 55, 'title': 'Executive VP & President of Verizon Global Services', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 2134399, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle  Malady', 'age': 55, 'title': 'Executive VP & CEO of Verizon Business Group', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 6613565, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sowmyanarayan  Sampath', 'age': 46, 'title': 'Executive VP & CEO of Verizon Consumer Group', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1754076, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony T. Skiadas', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mary-Lee  Stillwell', 'age': 49, 'title': 'Senior VP of Accounting & External Reporting and Controller', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph J. Russo', 'title': 'Executive VP & President of Global Networks and Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brady  Connor', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vandana  Venkatesh', 'age': 51, 'title': 'Executive VP & Chief Legal Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James J. Gerace', 'age': 59, 'title': 'Senior VP & Chief Communications Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§7
+compensationRisk§2
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.66
+dividendYield§0.066199996
+exDividendDate§1704758400
+payoutRatio§0.5277
+fiveYearAvgDividendYield§5.15
+beta§0.383
+priceToSalesTrailing12Months§1.2603365
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.62
+pegRatio§32.15
+exchange§NYQ
+quoteType§EQUITY
+shortName§Verizon Communications Inc.
+longName§Verizon Communications Inc.
+firstTradeDateEpochUtc§438273000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§a708480c-0400-3ea0-b2d3-ca752db5c3b1
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§48.0
+targetLowPrice§31.0
+targetMeanPrice§40.67
+targetMedianPrice§41.5
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§24
+quickRatio§0.511
+earningsGrowth§-0.031
+grossMargins§0.58691
+ebitdaMargins§0.35789
+trailingPegRatio§7.2511

@@ -1,0 +1,35 @@
+# reload+after+2024-01-23 20:40:21.685975
+address1§27-28 Eastcastle Street
+city§London
+zip§W1W 8DH
+country§United Kingdom
+phone§917 776 3027
+website§https://seeen.com
+industry§Internet Content & Information
+sector§Communication Services
+longBusinessSummary§SEEEN plc operates a social platform for sharing video micro-moments worldwide. The company offers JetStream, an AI video analysis process to media monitoring for videos; CreatorSuite, which enables customers to drive increased views and customer conversions; and Dialog-To-Clip, a plug-in generating efficiencies for video editing in Adobe Premiere Pro with AI driven in-video search. It also provides managed video optimization services through multichannel network. The company was incorporated in 2017 and is based in London, the United Kingdom.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adrian Laurence Hargrave', 'age': 43, 'title': 'CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2021, 'totalPay': 122312, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carmel Elizabeth Elinor Warren F.C.A.', 'age': 57, 'title': 'CFO & Company Sec.', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jacob  Coby', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+currency§GBp
+forwardEps§-0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§SEEEN PLC ORD 0.1P
+longName§SEEEN plc
+firstTradeDateEpochUtc§1506495600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§6818d145-d9e2-35c2-98f2-97b627968149
+targetHighPrice§0.2
+targetLowPrice§0.2
+targetMeanPrice§0.2
+targetMedianPrice§0.2
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

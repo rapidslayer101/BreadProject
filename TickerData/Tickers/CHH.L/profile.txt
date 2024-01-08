@@ -1,0 +1,54 @@
+# reload+after+2024-01-20 03:35:58.039899
+address1§No.1 Marlborough Way
+address2§Tunstall
+city§Stoke-On-Trent
+zip§ST6 5NZ
+country§United Kingdom
+phone§44 1782 577566
+fax§44 1782 524355
+website§https://www.churchill1795.com
+industry§Furnishings, Fixtures & Appliances
+industryKey§furnishings-fixtures-appliances
+industryDisp§Furnishings, Fixtures & Appliances
+sector§Consumer Cyclical
+sectorKey§consumer-cyclical
+sectorDisp§Consumer Cyclical
+longBusinessSummary§Churchill China plc manufactures and sells ceramic and related products in the United Kingdom, rest of Europe, the United States, and internationally. It provides plates, bowls, trays and boards, crates and carriers, stands and risers, cookware, counter serving ware, cups, mugs, saucers, beverage pots, jugs, chip mugs, dip pots and sauce dishes, lids, glassware, cutlery, utensils, and accessories, as well as raw materials for the ceramics industry. The company offers its products to pubs, restaurant and hotel chains, sports and conference venues, health and education establishments, and contract caterers, as well as for consumer use. Churchill China plc was founded in 1795 and is headquartered in Stoke-on-Trent, the United Kingdom.
+fullTimeEmployees§802
+companyOfficers§[{'maxAge': 1, 'name': "Mr. David M. O'Connor", 'age': 66, 'title': 'CEO & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 542525, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Andrew Roper', 'age': 46, 'title': 'Executive Director & Sales and Marketing Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 429872, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Cunningham', 'age': 51, 'title': 'CFO & Director', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0233
+exDividendDate§1695254400
+payoutRatio§0.42169997
+fiveYearAvgDividendYield§2.09
+beta§1.055
+priceToSalesTrailing12Months§1.8717722
+currency§GBp
+forwardEps§80.9
+pegRatio§4.66
+lastDividendValue§11.0
+lastDividendDate§1695254400
+exchange§LSE
+quoteType§EQUITY
+shortName§CHURCHILL CHINA PLC ORD 10P
+longName§Churchill China plc
+firstTradeDateEpochUtc§784195200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§16937687-5c39-35aa-9b16-6f7d7f15a030
+messageBoardId§finmb_878705
+targetHighPrice§1560.0
+targetLowPrice§1560.0
+targetMeanPrice§1560.0
+targetMedianPrice§1560.0
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§1
+quickRatio§1.977
+earningsGrowth§0.101
+grossMargins§0.88761
+ebitdaMargins§0.16083999
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-21 04:45:04.966912
+address1§14 Par-la-Ville Road
+address2§PO Box HM 1593
+city§Hamilton
+zip§HM 08
+country§Bermuda
+phone§441 295 6935
+fax§441 295 3494
+website§https://www.goldenocean.bm
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§Golden Ocean Group Limited, a shipping company, owns and operates a fleet of dry bulk vessels worldwide. It operates dry bulk vessels comprising of Newcastlemax, Capesize, Panamax, and Ultramax vessels in the spot and time charter markets. The company's vessels transport a range of bulk commodities, such as ores, coal, grains, and fertilizers. As of March 16, 2023, it owned a fleet of 74 dry bulk vessels. The company is based in Hamilton, Bermuda.
+fullTimeEmployees§38
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lars-Christian  Svensen', 'age': 37, 'title': 'Interim CEO & Chief Commercial Officer of Golden Ocean Management AS', 'yearBorn': 1986, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peder Carl Gram Simonsen', 'age': 49, 'title': 'Chief Financial Officer of Golden Ocean Management AS', 'yearBorn': 1974, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tord  Brath', 'title': 'Head of Global Operations', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1640908800
+maxAge§86400
+priceHint§2
+dividendRate§0.5
+dividendYield§0.049099997
+exDividendDate§1701734400
+payoutRatio§1.2294999
+fiveYearAvgDividendYield§11.26
+beta§1.272
+priceToSalesTrailing12Months§2.3088584
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.94
+pegRatio§-104.8
+exchange§NMS
+quoteType§EQUITY
+shortName§Golden Ocean Group Limited
+longName§Golden Ocean Group Limited
+firstTradeDateEpochUtc§855325800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9d99e3f7-d38d-3b80-a6f2-ebbea4017c9f
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.5
+targetLowPrice§9.0
+targetMeanPrice§10.94
+targetMedianPrice§11.25
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§0.374
+earningsGrowth§-0.731
+grossMargins§0.37306
+ebitdaMargins§0.35068
+trailingPegRatio§None

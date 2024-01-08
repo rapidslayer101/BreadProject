@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 04:45:27.777652
+address1§660 West Germantown Pike
+address2§Suite 110
+city§Plymouth Meeting
+state§PA
+zip§19462
+country§United States
+phone§267 440 4200
+fax§267 440 4242
+website§https://www.inovio.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Inovio Pharmaceuticals, Inc., a biotechnology company, focuses on the discovery, development, and commercialization of DNA medicines to treat and protect people from diseases associated with human papillomavirus (HPV), cancer, and infectious diseases. Its DNA medicines platform uses precisely designed SynCon that identify and optimize the DNA sequence of the target antigen, as well as CELLECTRA smart devices technology that facilitates delivery of the DNA plasmids. The company engages in conducting and planning clinical studies of its DNA medicines for HPV-associated precancers. Its products in pipeline include VGX-3100 for the treatment of HPV-related cervical high-grade dysplasia, including cervical, vulvar, and anal dysplasia and is under phase II/III clinical trials; INO-3107 for HPV-related recurrent respiratory rapillomatosis and is under Phase 1/2 trial; INO-5401 for the treatment of glioblastoma multiforme and is under Phase 2 trial; INO-4201 for Ebola Virus Disease and is under phase 1b trial; and INO-4500 vaccine for lassa fever, which is under phase 1b trial. Its partners and collaborators include Advaccine Biopharmaceuticals Suzhou Co, ApolloBio Corporation, AstraZeneca, The Bill & Melinda Gates Foundation, Coalition for Epidemic Preparedness Innovations, Defense Advanced Research Projects Agency, The U.S. Department of Defense, HIV Vaccines Trial Network, International Vaccine Institute, Kaneka Eurogentec, National Cancer Institute, National Institutes of Health, National Institute of Allergy and Infectious Diseases, the Parker Institute for Cancer Immunotherapy, Plumbline Life Sciences, Regeneron Pharmaceuticals, Richter-Helm BioLogics, Thermo Fisher Scientific, the University of Pennsylvania, the Walter Reed Army Institute of Research, and The Wistar Institute. The company was incorporated in 1983 and is headquartered in Plymouth Meeting, Pennsylvania.
+fullTimeEmployees§184
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jacqueline E. Shea Ph.D.', 'age': 57, 'title': 'CEO, President & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1079282, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter D. Kies', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 688724, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Laurent M. Humeau Ph.D.', 'age': 56, 'title': 'Chief Scientific Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 673589, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Thomas  Hong', 'title': 'Manager of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Crotty J.D.', 'age': 49, 'title': 'General Counsel & Chief Compliance Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. E. J. Brandreth MBA', 'title': 'Senior Vice President of Quality Assurance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Jeffrey  Skolnik', 'title': 'Senior Vice President of Clinical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert J. Juba Jr.', 'title': 'Senior Vice President of Biological Manufacturing & Clinical Supply Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Kemmerrer M.B.A., P.E.', 'title': 'Senior Vice President of Engineering Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn D. Bridy M.A., M.B.A.', 'title': 'Senior Vice President of Business Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§4
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.953
+priceToSalesTrailing12Months§230.1454
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.3
+pegRatio§-0.03
+exchange§NCM
+quoteType§EQUITY
+shortName§Inovio Pharmaceuticals, Inc.
+longName§Inovio Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§913127400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ac020a93-0ebc-3108-95e6-c7f296b9daee
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.0
+targetLowPrice§0.4
+targetMeanPrice§1.13
+targetMedianPrice§1.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§3.88
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-20 12:27:50.721287
+address1§Avenida Barbacena, 1200
+city§Belo Horizonte
+state§MG
+zip§30190-131
+country§Brazil
+phone§55 31 3506 5024
+website§https://www.cemig.com.br
+industry§Utilities—Diversified
+sector§Utilities
+longBusinessSummary§Companhia Energética de Minas Gerais - CEMIG, through its subsidiaries, engages in the generation, transmission, distribution, and sale of energy in Brazil. As of December 31, 2022, the company operated 69 hydroelectric, wind, and solar plants with an installed capacity of 5,519 MW; 351,163 miles of distribution lines; and 4,580 miles of transmission lines. It is also involved in the acquisition, transportation, and distribution of gas and its sub products and derivatives; provision of cloud solution, IT infrastructure, IT management, and cybersecurity services; provision of technology systems and systems for operational management of public service concessions; sale and trading of energy; provision of telecommunications services; and distributed generation, account services, cogeneration, energy efficiency, and supply and storage management activities. The company was incorporated in 1952 and is headquartered in Belo Horizonte, Brazil.
+fullTimeEmployees§4969
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Reynaldo Passanezi Filho', 'age': 58, 'title': 'CEO, President & Member of Executive Board', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Leonardo George de Magalhães', 'title': 'Chief Officer for Finance & Investor Relations and Member of Executive Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dimas  Costa', 'age': 69, 'title': 'Chief Trading Officer & Member of Executive Board', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marney Tadeu Antunes', 'age': 61, 'title': 'Chief Distribution Officer & Member of Executive Board', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thadeu Carneiro da Silva', 'age': 41, 'title': 'Chief Generation & Transmission Officer & Member of Executive Board', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marco Da Camino Ancona Lopez Soligo', 'age': 55, 'title': 'Executive Director of CemigPar & Member of Executive Board', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cristiana Maria Fortini Pinto e Silva', 'title': 'Regulatory & Legal Director and Member of Management Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Leonardo Felipe Mesquita', 'title': 'Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paulo Eduardo Pereira Guimarães', 'title': 'Head of Corporate Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel Perrelli Lanca', 'title': 'Deputy Director of Compliance, Corporate Risks & Internal Controls', 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§5
+compensationRisk§2
+shareHolderRightsRisk§8
+overallRisk§4
+governanceEpochDate§1704067200
+maxAge§86400
+priceHint§4
+dividendRate§0.22
+dividendYield§0.0967
+exDividendDate§1703203200
+payoutRatio§0.5018
+fiveYearAvgDividendYield§6.52
+beta§0.756
+priceToSalesTrailing12Months§0.15428835
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.06
+exchange§NYQ
+quoteType§EQUITY
+shortName§Comp En De Mn Cemig
+longName§Companhia Energética de Minas Gerais - CEMIG
+firstTradeDateEpochUtc§848327400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§641921a2-214b-3bb7-a113-4a54c0d04ff7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.9
+targetLowPrice§2.6
+targetMeanPrice§2.75
+targetMedianPrice§2.75
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.096
+earningsGrowth§0.046
+grossMargins§0.18438
+ebitdaMargins§0.20928
+trailingPegRatio§None

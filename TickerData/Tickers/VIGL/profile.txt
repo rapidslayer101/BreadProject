@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 10:47:50.455718
+address1§100 Forge Road
+address2§Suite 700 Watertown
+city§Watertown
+state§MA
+zip§02472
+country§United States
+phone§857 254 4445
+website§https://www.vigilneuro.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Vigil Neuroscience, Inc., a clinical-stage biotechnology company, focuses on developing treatments for rare and common neurodegenerative diseases by restoring the vigilance of microglia, the sentinel immune cells of the brain. Its lead candidate is VGL101, a human monoclonal antibody agonist targeting human triggering receptor expressed on myeloid cells 2 and is in a Phase 2 proof-of-concept trial in patients with adult-onset leukoencephalopathy with axonal spheroids and pigmented glia (ALSP), a rare and fatal neurodegenerative disease. The company is also conducting IND-enabling studies with a novel small molecule TREM2 agonist program to treat common neurodegenerative diseases associated with microglial dysfunction, with an initial focus on Alzheimer's disease in genetically defined subpopulations. Vigil Neuroscience, Inc. was incorporated in 2020 and is headquartered in Watertown, Massachusetts.
+fullTimeEmployees§66
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ivana  Magovcevic-Liebisch J.D., Ph.D.', 'age': 56, 'title': 'President, CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 908250, 'exercisedValue': 0, 'unexercisedValue': 4097781}, {'maxAge': 1, 'name': 'Ms. Jennifer  Ziolkowski CPA', 'age': 49, 'title': 'Chief Financial Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 617555, 'exercisedValue': 0, 'unexercisedValue': 846857}, {'maxAge': 1, 'name': 'Sharon  Morani', 'title': 'Director of Facilities & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Park  Guo CPA', 'title': 'Accounting Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kelly  Neelon Ph.D.', 'title': 'Vice President of CMC & Technical Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David  Gray Ph.D.', 'age': 48, 'title': 'Chief Scientific Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leah  Gibson', 'title': 'Vice President of Investor Relations and Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Verni J.D.', 'age': 48, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'April  Effort M.B.A., M.S.', 'title': 'VP & Head of Corporate Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Evan A. Thackaberry DABT, Ph.D.', 'age': 50, 'title': 'Senior VP & Head of Early Development', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.35
+exchange§NMS
+quoteType§EQUITY
+shortName§Vigil Neuroscience, Inc.
+longName§Vigil Neuroscience, Inc.
+firstTradeDateEpochUtc§1641565800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9b10bff7-1ef3-33c0-b2e1-6e14b738d161
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§24.0
+targetLowPrice§4.0
+targetMeanPrice§18.75
+targetMedianPrice§21.5
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§13.237
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

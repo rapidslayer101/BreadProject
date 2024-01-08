@@ -1,0 +1,58 @@
+# reload+after+2024-01-21 15:26:37.638144
+address1§500 Dallas Street
+address2§Suite 1700
+city§Houston
+state§TX
+zip§77002
+country§United States
+phone§832 219 9001
+website§https://www.amplifyenergy.com
+industry§Oil & Gas E&P
+industryKey§oil-gas-e-p
+industryDisp§Oil & Gas E&P
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Amplify Energy Corp., together with its subsidiaries, engages in the acquisition, development, exploitation, and production of oil and natural gas properties in the United States. The company's properties consist of operated and non-operated working interests in producing and undeveloped leasehold acreage, as well as working interests in identified producing wells located in Oklahoma, the Rockies, federal waters offshore Southern California, East Texas/North Louisiana, and Eagle Ford. The company was founded in 2017 and is headquartered in Houston, Texas.
+fullTimeEmployees§208
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Martyn A. Willsher', 'age': 44, 'title': 'President, CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 989454, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric M. Willis', 'age': 44, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 613300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James G. Frew', 'age': 45, 'title': 'Senior VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Furbee', 'age': 40, 'title': 'Senior VP & COO', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Dulany', 'age': 47, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason W. Moore', 'title': 'Vice President of Human Resources & Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony William Lopez', 'age': 42, 'title': 'Senior Vice President of Engineering & Exploitation', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 374704, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Jordan', 'title': 'Director of Finance & Treasurer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§4
+compensationRisk§3
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1584057600
+payoutRatio§0.0
+beta§2.123
+priceToSalesTrailing12Months§0.86409175
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.37
+pegRatio§0.05
+lastDividendValue§0.1
+lastDividendDate§1584057600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Amplify Energy Corp.
+longName§Amplify Energy Corp.
+firstTradeDateEpochUtc§1334928600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§241e3676-95c0-313a-8da2-689fcd2446f1
+messageBoardId§finmb_134724049
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§11.0
+targetMeanPrice§11.0
+targetMedianPrice§11.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§0.501
+grossMargins§0.42154998
+ebitdaMargins§0.21041
+trailingPegRatio§None

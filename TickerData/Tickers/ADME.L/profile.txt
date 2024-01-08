@@ -1,0 +1,38 @@
+# reload+after+2024-01-20 19:35:23.684884
+address1§60 Gracechurch Street
+city§London
+zip§EC3V 0HR
+country§United Kingdom
+phone§44 20 7459 4718
+website§https://www.admenergyplc.com
+industry§Oil & Gas E&P
+industryKey§oil-gas-e-p
+industryDisp§Oil & Gas E&P
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§ADM Energy plc operates as a natural resource investment company. The company has interests in OML 113, an offshore license that covers an area of 835 square kilometers; and OML 141, an oil mining license covering an area of 1,295 square kilometers located in Nigeria. It also invests in metals, minerals, and oil and gas projects. The company was formerly known as MX Oil plc and changed its name to ADM Energy plc in June 2019. ADM Energy plc was incorporated in 2004 and is based in London, the United Kingdom.
+fullTimeEmployees§6
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Stefan  Olivier', 'age': 44, 'title': 'CEO & Director', 'yearBorn': 1979, 'fiscalYear': 2020, 'totalPay': 10000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'H.H. Shaikh Ahmed Bin Dalmook Al Maktoum', 'title': 'President', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Thato  Mngomezulu', 'title': 'Head of Corporate Communications & New Ventures', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wilhelmus  Burgers', 'title': 'Geologist & Geophysical Lead', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lewis  Boddy', 'title': 'Financial Controller', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ben  Harber', 'title': 'Secretary', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1609372800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.756
+priceToSalesTrailing12Months§27.37558
+currency§GBp
+forwardEps§-0.7
+exchange§LSE
+quoteType§EQUITY
+shortName§ADM ENERGY PLC ORD 1P
+longName§ADM Energy plc
+firstTradeDateEpochUtc§1134720000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0b540e59-8a86-362a-8c49-9568bf56d36b
+messageBoardId§finmb_24703959
+recommendationKey§none
+quickRatio§0.11
+grossMargins§2.33871
+ebitdaMargins§0.0
+trailingPegRatio§None

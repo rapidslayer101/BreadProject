@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 11:34:27.401642
+address1§100 Old Wilson Bridge Road
+city§Columbus
+state§OH
+zip§43085
+country§United States
+phone§614-438-3210
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§Worthington Steel, Inc. operates as a steel processor in North America. It offers carbon flat-rolled steel and tailor welded blanks, as well as electrical steel laminations; and aluminum tailor welded blanks. The company serves various end-markets, including automotive, heavy truck, agriculture, construction, and energy. Worthington Steel, Inc. was incorporated in 2023 and is based in Columbus, Ohio.
+fullTimeEmployees§4600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey R. Klingler', 'age': 51, 'title': 'Executive VP & COO', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1411641, 'exercisedValue': 0, 'unexercisedValue': 134637}, {'maxAge': 1, 'name': 'Ms. Michaune D. Tillman', 'age': 52, 'title': 'VP & General Counsel', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 676207, 'exercisedValue': 0, 'unexercisedValue': 89984}, {'maxAge': 1, 'name': 'Mr. Geoffrey G. Gilmore', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.64
+dividendYield§0.0257
+exDividendDate§1710288000
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.36913735
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.57
+exchange§NYQ
+quoteType§EQUITY
+shortName§Worthington Steel, Inc.
+longName§Worthington Steel, Inc.
+firstTradeDateEpochUtc§1701700200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§54df3bae-f130-381e-aae8-432a2567320a
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§29.0
+targetLowPrice§29.0
+targetMeanPrice§29.0
+targetMedianPrice§29.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§1.083
+grossMargins§0.11902001
+ebitdaMargins§0.07658
+trailingPegRatio§None

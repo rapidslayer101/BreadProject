@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 22:31:32.488316
+address1§1545 Route 206 South
+address2§Suite 302
+city§Bedminster
+state§NJ
+zip§07921
+country§United States
+phone§908 484 8805
+website§https://www.matinasbiopharma.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Matinas BioPharma Holdings, Inc., a clinical-stage biopharmaceutical company, focuses on the discovery and development of various product candidates. It develops products using its lipid nanocrystal (LNC) platform technology. The company's LNC delivery technology platform utilizes lipid nano-crystals for the delivery of small molecules, nucleic acids, gene therapies, vaccines, proteins, and peptides. Its lead product candidate is LYPDISO, a prescription-only omega-3 fatty acid-based composition intended for the treatment of cardiovascular and metabolic conditions. The company also offers MAT2203, an oral formulation of amphotericin B that is in Phase II clinical trials for the prevention of invasive fungal infections due to immunosuppressive therapy in patients. In addition, it provides MAT2501, an orally administered formulation of the broad-spectrum aminoglycoside antibiotic amikacin that has completed Phase I clinical trials to treat various types of multidrug-resistant bacteria, including non-tuberculous mycobacterium infections, as well as various multidrug-resistant gram negative and intracellular bacterial infections. Matinas BioPharma Holdings, Inc. has a research collaboration with the National Institute of Allergy and Infectious Diseases for the development of Gilead's antiviral remdesivir; and a feasibility collaboration with Genentech, Inc. for the development of oral formulations. Matinas BioPharma Holdings, Inc. was incorporated in 2013 and is based in Bedminster, New Jersey.
+fullTimeEmployees§34
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jerome D. Jabbour J.D.', 'age': 49, 'title': 'Co-Founder, CEO, President & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 881500, 'exercisedValue': 0, 'unexercisedValue': 40250}, {'maxAge': 1, 'name': 'Dr. Theresa  Matkovits Ph.D.', 'age': 56, 'title': 'Chief Development Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 601000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. James J. Ferguson FACC, M.D.', 'age': 69, 'title': 'Chief Medical Officer', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 619920, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keith A. Kucinski CPA, M.B.A.', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 249053, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hui  Liu M.B.A., Ph.D.', 'age': 55, 'title': 'Chief Technology Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frank  Calamusa', 'title': 'Executive Director and Head of Manufacturing & Supply Chain', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Hoover M.B.A.', 'age': 53, 'title': 'Chief Business Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.764
+priceToSalesTrailing12Months§21.625868
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.12
+exchange§ASE
+quoteType§EQUITY
+shortName§Matinas Biopharma Holdings, Inc
+longName§Matinas BioPharma Holdings, Inc.
+firstTradeDateEpochUtc§1405949400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§61dd6a0e-9ad0-3bcd-b1dc-4dae373fc621
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§1.0
+targetLowPrice§0.3
+targetMeanPrice§0.65
+targetMedianPrice§0.65
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§5.641
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,46 @@
+# reload+after+2024-01-23 18:35:54.689892
+address1§13A Stanton Road
+address2§Unit 1
+city§Seven Hills
+state§NSW
+zip§2147
+country§Australia
+phone§61 2 9420 0690
+fax§61 2 9420 0692
+website§https://www.cap-xx.com
+industry§Electronic Components
+industryKey§electronic-components
+industryDisp§Electronic Components
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§CAP-XX Limited, together with its subsidiaries, develops, manufactures, and sells supercapacitors in the Asia Pacific, Europe, and North America. The company offers ultra-thin prismatic supercaps, small cylindrical supercaps, coin cell supercaps, lithium ion capacitors, large cylindrical cells, and large microgrid and truck start modules. It provides its products for the use in various applications, such as asset tracking, auto, locks, POS, PDAs, scanners, smart meters, wearable devices, wireless sensors, battery support, energy harvesting, power backup, and peak power support applications. The company was formerly known as Energy Storage Systems Pty Limited. CAP-XX Limited was incorporated in 1990 and is headquartered in Seven Hills, Australia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Lars  Stegmann', 'age': 53, 'title': 'CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 276836, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Taylor', 'age': 60, 'title': 'CFO & Co-Company Secretary', 'yearBorn': 1963, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dallas  Garratt B.E.', 'title': 'Vice President of Operations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Buckingham', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Bilyk', 'title': 'Vice President of Research', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.358
+priceToSalesTrailing12Months§1.3980609
+currency§GBp
+forwardEps§0.0
+exchange§LSE
+quoteType§EQUITY
+shortName§CAP-XX LIMITED ORD NPV
+longName§CAP-XX Limited
+firstTradeDateEpochUtc§1145430000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§ad3f15ce-e12a-3765-b1a9-ea458dc3dca7
+messageBoardId§finmb_738382
+targetHighPrice§0.08
+targetLowPrice§0.07
+targetMeanPrice§0.07
+targetMedianPrice§0.07
+recommendationMean§1.0
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§1.537
+grossMargins§0.43263
+ebitdaMargins§-1.9305
+trailingPegRatio§None

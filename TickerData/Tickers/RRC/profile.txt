@@ -1,0 +1,56 @@
+# reload+after+2024-01-23 17:32:52.368279
+address1§100 Throckmorton Street
+address2§Suite 1200
+city§Fort Worth
+state§TX
+zip§76102
+country§United States
+phone§817 870 2601
+fax§817 869 4390
+website§https://www.rangeresources.com
+industry§Oil & Gas E&P
+sector§Energy
+longBusinessSummary§Range Resources Corporation operates as an independent natural gas, natural gas liquids (NGLs), and oil company in the United States. The company engages in the exploration, development, and acquisition of natural gas and oil properties. It markets and sells natural gas and NGLs to utilities, marketing and midstream companies, and industrial users; petrochemical end users, marketers/traders, and natural gas processors; and oil and condensate to crude oil processors, transporters, and refining and marketing companies. The company was formerly known as Lomak Petroleum, Inc. and changed its name to Range Resources Corporation in 1998. The company was founded in 1976 and is headquartered in Fort Worth, Texas.
+fullTimeEmployees§544
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Dennis L. Degner', 'age': 50, 'title': 'CEO, President & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1030096, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark S. Scucchi', 'age': 45, 'title': 'Executive VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1027670, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan W. Farquharson', 'age': 65, 'title': 'Senior Vice President of Reservoir Engineering & Economics', 'yearBorn': 1958, 'fiscalYear': 2022, 'totalPay': 723354, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dori A. Ginn', 'age': 65, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1958, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Laith  Sando', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erin W. McDowell', 'title': 'Senior VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Windle', 'title': 'Manager of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Juli G. Basinger', 'title': 'Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0104
+exDividendDate§1702512000
+payoutRatio§0.0581
+fiveYearAvgDividendYield§0.78
+beta§1.826
+priceToSalesTrailing12Months§2.4121394
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.9
+pegRatio§-4.75
+exchange§NYQ
+quoteType§EQUITY
+shortName§Range Resources Corporation
+longName§Range Resources Corporation
+firstTradeDateEpochUtc§330269400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§2e38f085-c47b-3bd8-8e45-e40dbd246ed7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§49.0
+targetLowPrice§21.0
+targetMeanPrice§36.04
+targetMedianPrice§36.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§26
+quickRatio§0.591
+earningsGrowth§-0.866
+grossMargins§0.52261
+ebitdaMargins§0.75908995
+trailingPegRatio§2.6667

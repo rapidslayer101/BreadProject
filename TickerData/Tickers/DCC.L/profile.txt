@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 06:36:04.596588
+address1§DCC House
+address2§Leopardstown Road Foxrock
+city§Dublin
+zip§18
+country§Ireland
+phone§353 1 279 9400
+website§https://www.dcc.ie
+industry§Oil & Gas Refining & Marketing
+industryKey§oil-gas-refining-marketing
+industryDisp§Oil & Gas Refining & Marketing
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§DCC plc provides sales, marketing, and support services worldwide. The company operates through DCC Energy, DCC Healthcare, and DCC Technology segments. It sells and markets liquefied petroleum gas (LPG), refrigerants, and natural gas; markets, sells, and retails transport and commercial fuels, heating oils, and related products and services; operates retail petrol stations; resells fuel cards; distributes oil; and provides logistics services. It also offers products and services to healthcare providers, and health and beauty brand owners; contract manufacturing services to the health and beauty sector; nutrition products, such as vitamins and health supplements; beauty products; and product development, formulation, manufacturing, and packaging services. In, addition it distributes consumer technology products, including smart home products, peripherals and software, and accessories, as well as provides supply chain services. The company was founded in 1976 and is headquartered in Dublin, Ireland.
+fullTimeEmployees§16000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Donal  Murphy B.Comm, BFS, MBA', 'age': 57, 'title': 'CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1826287, 'exercisedValue': 0, 'unexercisedValue': 1031662}, {'maxAge': 1, 'name': 'Mr. Kevin  Lucey', 'title': 'CFO & Executive Director', 'fiscalYear': 2023, 'totalPay': 926490, 'exercisedValue': 0, 'unexercisedValue': 150557}, {'maxAge': 1, 'name': 'Mr. Darragh  Byrne', 'title': 'General Counsel & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Quinn', 'title': 'Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rossa  White', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nicola  McCracken', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Conor  Costigan', 'age': 52, 'title': 'Managing Director of DCC Healthcare', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Eddie  O'Brien", 'title': 'Chief Strategy & Sustainability Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Clive  Fitzharris', 'title': 'Chief Executive Officer of DCC Technology', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Fabian  Ziegler', 'title': 'Chief Executive Officer of DCC Energy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§1
+overallRisk§2
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§1.9
+dividendYield§0.033299997
+exDividendDate§1700697600
+payoutRatio§0.5324
+fiveYearAvgDividendYield§2.87
+beta§0.743
+priceToSalesTrailing12Months§0.27218077
+currency§GBp
+forwardEps§495.38
+pegRatio§5.89
+lastDividendValue§63.04
+lastDividendDate§1700697600
+exchange§LSE
+quoteType§EQUITY
+shortName§DCC PLC ORD EUR0.25 (CDI)
+longName§DCC plc
+firstTradeDateEpochUtc§946972800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0fcd98fc-fbdb-38db-b7c4-cf754a44aa5f
+messageBoardId§finmb_878759
+targetHighPrice§9000.0
+targetLowPrice§5085.0
+targetMeanPrice§6778.82
+targetMedianPrice§6650.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.806
+earningsGrowth§-0.047
+grossMargins§0.11967
+ebitdaMargins§0.03915
+trailingPegRatio§None

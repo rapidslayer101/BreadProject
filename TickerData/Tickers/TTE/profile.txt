@@ -1,0 +1,55 @@
+# reload+after+2024-01-21 10:33:52.832971
+address1§2, place Jean Millier
+address2§La DEfense 6
+city§Courbevoie
+zip§92078
+country§France
+phone§33 01 47 44 45 46
+fax§33 01 47 44 49 44
+website§https://www.totalenergies.com
+industry§Oil & Gas Integrated
+sector§Energy
+longBusinessSummary§TotalEnergies SE, a multi-energy company, produces and markets fuels, natural gas, and electricity in France, rest of Europe, North America, Africa, and internationally. It operates through Integrated Gas, Renewables & Power; Exploration & Production; Refining & Chemicals; and Marketing & Services segments. The Integrated Gas, Renewables & Power segment engages in integrated gas, including liquified natural gas (LNG), and low carbon electricity businesses; and upstream and midstream LNG activities. Its Exploration & Production segment offers carbon storage and nature-based solutions. The Refining & Chemicals segment provides refining, petrochemicals, and specialty chemicals; and supply and trading of oil, and marine shipping services. Its Marketing & Services segment engages in the supply and marketing of petroleum products. TotalEnergies SE was formerly known as TOTAL SE and changed its name to TotalEnergies SE in June 2021. The company was founded in 1924 and is headquartered in Courbevoie, France.
+fullTimeEmployees§101279
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick  Pouyanné', 'age': 60, 'title': 'Chairman, CEO & President', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 4769672, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Pierre  Sbraire', 'age': 58, 'title': 'Chief Financial Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Marie-Noëlle  Semeria', 'title': 'Senior VP & Group CTO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michel  Hourcard', 'title': 'SVP of Development & Ops Techniques - Exploration/Production & SVP of Scientific & Technical Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Renaud  Lions', 'title': 'Senior Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aurélien  Hamelle', 'title': 'Senior Vice President of Legal', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacques-Emmanuel  Saulnier', 'title': 'Senior Vice President of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thierry  Pflimlin', 'age': 64, 'title': 'President of Marketing & Services', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Francoise  Leroy', 'age': 71, 'title': 'Head of Merger & Acquisitions', 'yearBorn': 1952, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Odile  de Damas-Nottin', 'title': 'Senior Vice President of Audit & Internal Control', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§4
+compensationRisk§1
+shareHolderRightsRisk§8
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.17
+dividendYield§0.0464
+exDividendDate§1703721600
+payoutRatio§0.3948
+fiveYearAvgDividendYield§6.04
+beta§0.781
+priceToSalesTrailing12Months§0.7037725
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.62
+pegRatio§-0.98
+exchange§NYQ
+quoteType§EQUITY
+shortName§TotalEnergies SE
+longName§TotalEnergies SE
+firstTradeDateEpochUtc§688397400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§fd8d77ee-3d7f-3782-9dd0-e3cdd084a8de
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§86.0
+targetLowPrice§61.0
+targetMeanPrice§74.02
+targetMedianPrice§71.27
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§11
+quickRatio§0.585
+earningsGrowth§0.066
+grossMargins§0.34667
+ebitdaMargins§0.23277001
+trailingPegRatio§None

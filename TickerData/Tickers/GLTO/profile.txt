@@ -1,0 +1,42 @@
+# reload+after+2024-01-22 16:45:03.112923
+address1§Ole Maaloes Vej 3
+address2§Copenhagen N
+city§Copenhagen
+zip§2200
+country§Denmark
+phone§45 70 70 52 10
+website§https://galecto.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Galecto, Inc., a clinical-stage biotechnology company, develops molecules for the treatment of fibrosis, cancer, inflammation, and other related diseases. The company's lead product candidate is GB2064, which is in Phase IIa for the treatment of myelofibrosis. It also develops GB0139, an inhaled small molecule inhibitor of galectin-3 that is in Phase IIb clinical trial for the treatment of fibrotic lung diseases, such as idiopathic pulmonary fibrosis, a life-threatening progressive fibrotic disease of the lung; GB2064, a selective oral small molecule inhibitor of LOXL2 that is in Phase 2a clinical trial for the treatment of myelofibrosis; and GB1211, a selective oral galectin-3 inhibitor that is in Phase IIa for the treatment of cancer, as well as in Phase Ib/IIa for fibrosis. Galecto, Inc. was founded in 2011 and is headquartered in Copenhagen, Denmark.
+fullTimeEmployees§45
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Hans T. Schambye M.D., Ph.D.', 'age': 57, 'title': 'Co-Founder, President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 700135, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan P. Freve CPA, CPA', 'age': 45, 'title': 'Chief Financial Officer', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 604926, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ulf J. Nilsson', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hakon  Leffler', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Tariq  Sethi M.D., B.Sc., M.A., Ph.D., FRCP', 'title': 'Co-Founder & Member of the Clinical Advisory Board - IPF', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anders  Pedersen', 'age': 63, 'title': 'Chief Operating Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 540395, 'exercisedValue': 0, 'unexercisedValue': 122251}, {'maxAge': 1, 'name': 'Mr. Garrett  Winslow Esq.', 'age': 44, 'title': 'Senior VP, General Counsel & Corporate Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§1.172
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.21
+pegRatio§-0.01
+exchange§NMS
+quoteType§EQUITY
+shortName§Galecto, Inc.
+longName§Galecto, Inc.
+firstTradeDateEpochUtc§1603978200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§02979a5f-1464-39f8-9850-05e5507f8b48
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§2.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§3.614
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

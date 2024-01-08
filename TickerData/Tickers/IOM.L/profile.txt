@@ -1,0 +1,45 @@
+# reload+after+2024-01-20 18:38:42.770777
+address1§6 Atlantic Quay
+address2§55 Robertson Street Lister Pavilion
+city§Glasgow
+zip§G2 8JD
+country§United Kingdom
+phone§44 14 1931 6400
+website§https://www.iomart.com
+industry§Software—Infrastructure
+sector§Technology
+longBusinessSummary§iomart Group plc engages in the provision of cloud hosting and managed services in the United Kingdom and internationally. It operates in two segments, Cloud Services and Easyspace. The Cloud Services segment offers managed cloud computing facilities and services, such as colocation data centre and disaster recovery services through a network of owned data centres, to the larger SME and corporate markets. The segment uses several routes to market including iomart Cloud, Infrastructure as a Service (IaaS), Rapidswitch, Cristie Data, Sonassi, LDeX, Bytemark, Memset, ORIIUM, Pavilion IT, and P2. The Easyspace segment provides various shared hosting and domain registration services to micro and SME companies. It also offers data and application management solutions; hybrid and cloud infrastructure technology solutions; and managed Azure Cloud, Azure solution design and implementation, support and optimization, and licensing services. iomart Group Plc was founded in 1998 and is headquartered in Glasgow, the United Kingdom.
+fullTimeEmployees§480
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Lucy  Dimes', 'age': 57, 'title': 'CEO & Executive Chairman', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 44327, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott Thomas Cunningham C.A.', 'age': 52, 'title': 'CFO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 427736, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neil  Christie', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Strain', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon Mars Leach', 'title': 'Chief Marketing Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Savage', 'title': 'Chief Commercial Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie  Brown', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.05
+dividendYield§0.0358
+exDividendDate§1704326400
+payoutRatio§0.9379
+fiveYearAvgDividendYield§3.02
+beta§0.542
+priceToSalesTrailing12Months§1.366513
+currency§GBp
+forwardEps§11.83
+exchange§LSE
+quoteType§EQUITY
+shortName§IOMART GROUP PLC ORD 1P
+longName§iomart Group plc
+firstTradeDateEpochUtc§956127600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§dd76cf94-3473-37a9-bd80-39735d83122c
+targetHighPrice§185.0
+targetLowPrice§149.0
+targetMeanPrice§167.0
+targetMedianPrice§167.0
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.091
+earningsGrowth§-0.118
+grossMargins§0.54078996
+ebitdaMargins§0.23051001
+trailingPegRatio§None

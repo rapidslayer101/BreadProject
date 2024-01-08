@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 10:32:19.792487
+address1§4 Liberty Lane West
+city§Hampton
+state§NH
+zip§03842
+country§United States
+phone§603 750 0001
+website§https://www.planetfitness.com
+industry§Leisure
+sector§Consumer Cyclical
+longBusinessSummary§Planet Fitness, Inc., together with its subsidiaries, franchises and operates fitness centers under the Planet Fitness brand. The company operates through three segments: Franchise, Corporate-Owned Stores, and Equipment. The Franchise segment is involved in franchising business in the United States, Puerto Rico, Canada, Panama, Mexico, and Australia. The Corporate-Owned Stores segment operates corporate-owned stores in the United States and Canada. The Equipment segment engages in the sale of fitness equipment to franchisee-owned stores in the United States and Canada. Planet Fitness, Inc. was founded in 1992 and is headquartered in Hampton, New Hampshire.
+fullTimeEmployees§3137
+companyOfficers§[{'maxAge': 1, 'name': 'Governor Craig R. Benson', 'age': 67, 'title': 'Interim CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 65000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Fitzgerald', 'age': 62, 'title': 'Chief Financial Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 981330, 'exercisedValue': 0, 'unexercisedValue': 594756}, {'maxAge': 1, 'name': 'Mr. William  Bode', 'title': 'Division President of U.S. Franchise', 'fiscalYear': 2022, 'totalPay': 638732, 'exercisedValue': 0, 'unexercisedValue': 1222205}, {'maxAge': 1, 'name': 'Ms. Jennifer  Simmons', 'age': 53, 'title': 'Division President of Corporate Clubs', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 480894, 'exercisedValue': 0, 'unexercisedValue': 141003}, {'maxAge': 1, 'name': 'Mr. Edward  Hymes', 'age': 55, 'title': 'President & COO', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Brian M. O'Donnell", 'age': 44, 'title': 'VP & Chief Accounting Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Barber', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stacey  Caravella', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Vartanian', 'title': 'General Counsel & Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. McCall  Gosselin', 'title': 'Senior Vice President of Communications and Corporate Social Responsibility', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§8
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1479427200
+payoutRatio§0.0
+beta§1.428
+priceToSalesTrailing12Months§6.3991623
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.5
+pegRatio§0.16
+exchange§NYQ
+quoteType§EQUITY
+shortName§Planet Fitness, Inc.
+longName§Planet Fitness, Inc.
+firstTradeDateEpochUtc§1438867800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e01097dd-ba3d-3ef0-9a93-9b6fe0586d32
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§100.0
+targetLowPrice§57.0
+targetMeanPrice§72.71
+targetMedianPrice§72.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§17
+quickRatio§1.716
+earningsGrowth§0.438
+grossMargins§0.54811
+ebitdaMargins§0.42426
+trailingPegRatio§None

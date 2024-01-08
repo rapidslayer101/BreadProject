@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 16:41:16.178893
+address1§19 Tai Seng Avenue
+address2§No. 07-01
+city§Singapore
+zip§534054
+country§Singapore
+phone§65 6411 6900
+fax§65 6479 6305
+website§https://xppower.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§XP Power Limited, an investment holding company, designs and manufactures power supply solutions in Europe, North America, and Asia. The company offers AC-DC power supplies, DC-DC converters, high voltage DC-DC converters, high voltage AC-DC power supplies, RF power systems, EMI filters, custom power supplies, and 3 phase power supplies. It also offers engineering services. The company serves healthcare, industrial technology, and semiconductor equipment manufacturing industries. XP Power Limited was founded in 1988 and is based in Singapore.
+fullTimeEmployees§2918
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Gavin Peter Griggs', 'title': 'CEO & Executive Director', 'fiscalYear': 2022, 'totalPay': 602000, 'exercisedValue': 0, 'unexercisedValue': 46314}, {'maxAge': 1, 'name': 'Mr. Andy  Sng', 'age': 53, 'title': 'Executive VP of Asia & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 199000, 'exercisedValue': 0, 'unexercisedValue': 17777}, {'maxAge': 1, 'name': 'Mr. Matthew John Webb', 'age': 49, 'title': 'CFO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adrian  Irwin', 'title': 'Executive Vice President of Global Manufacturing & Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  Bocock', 'title': 'Technical Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Laver', 'age': 60, 'title': 'President of Corporate Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 281172, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Blyth', 'title': 'Executive Vice President of Global Products', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay  Warner', 'title': 'Executive Vice President - N. America Sales & Engineering Services', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Bartlett', 'title': 'Head of Product Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hiren  Shah', 'title': 'Executive Vice President of Engineering', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.94
+dividendYield§0.094
+exDividendDate§1694044800
+payoutRatio§0.7959
+fiveYearAvgDividendYield§3.07
+beta§1.357
+priceToSalesTrailing12Months§0.982034
+currency§GBp
+forwardEps§111.89
+pegRatio§0.4
+exchange§LSE
+quoteType§EQUITY
+shortName§XP POWER LIMITED ORD 1P (DI)
+longName§XP Power Limited
+firstTradeDateEpochUtc§962780400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§bbb5edff-e05c-3895-a191-6fa352676902
+targetHighPrice§2550.0
+targetLowPrice§1400.0
+targetMeanPrice§1818.75
+targetMedianPrice§1710.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.047
+grossMargins§0.42171
+ebitdaMargins§0.14251
+trailingPegRatio§None

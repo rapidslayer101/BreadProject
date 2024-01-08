@@ -1,0 +1,51 @@
+# reload+after+2024-01-20 13:33:45.207343
+address1§1835 Dueber Avenue SW
+city§Canton
+state§OH
+zip§44706
+country§United States
+phone§330 471 7000
+fax§330 458 6006
+website§https://www.timkensteel.com
+industry§Steel
+sector§Basic Materials
+longBusinessSummary§TimkenSteel Corporation engages in manufacture and sale of alloy steel, and carbon and micro-alloy steel products in the United States and internationally. It offers carbon, micro-alloy, and alloy steel ingots, bars, tubes, and billets. Its products are used in gears; hubs; axles; crankshafts and connecting rods; oil country drill pipes; bits and collars; bearing races and rolling elements; bushings; fuel injectors; wind energy shafts; anti-friction bearings; and other applications. The company also provides custom-make precision steel components. It offers its products and services to the automotive; oil and gas; industrial equipment; mining; construction; rail; defense; heavy truck; agriculture; and power generation sectors. The company was founded in 1899 and is headquartered in Canton, Ohio.
+fullTimeEmployees§1700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael S. Williams B.Sc.', 'age': 63, 'title': 'CEO, President & Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 1442748, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kristopher R. Westbrooks', 'age': 45, 'title': 'Executive VP & CFO', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 730645, 'exercisedValue': 0, 'unexercisedValue': 511077}, {'maxAge': 1, 'name': 'Ms. Kristine C. Syrvalin', 'age': 54, 'title': 'Executive VP, General Counsel & Chief Human Resources Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 486105, 'exercisedValue': 0, 'unexercisedValue': 83018}, {'maxAge': 1, 'name': 'Mr. Kevin A. Raketich', 'age': 56, 'title': 'EVP & Chief Commercial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 461204, 'exercisedValue': 0, 'unexercisedValue': 323332}, {'maxAge': 1, 'name': 'Mr. Nicholas A. Yacobozzi', 'age': 37, 'title': 'Corporate Controller, Chief Accounting Officer & Principal Accounting Officer', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer K. Beeman', 'title': 'Senior Manager of Communications & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§9
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1440460800
+payoutRatio§0.0
+beta§1.65
+priceToSalesTrailing12Months§0.74324596
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.89
+pegRatio§-0.67
+exchange§NYQ
+quoteType§EQUITY
+shortName§TimkenSteel Corporation
+longName§TimkenSteel Corporation
+firstTradeDateEpochUtc§1403184600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§1ade833c-61cf-3176-b908-682c03f1de82
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§28.0
+targetMeanPrice§28.0
+targetMedianPrice§28.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.745
+grossMargins§0.09752
+ebitdaMargins§0.08096
+trailingPegRatio§0.6931

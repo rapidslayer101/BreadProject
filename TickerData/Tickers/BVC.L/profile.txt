@@ -1,0 +1,50 @@
+# reload+after+2024-01-22 14:35:44.593473
+address1§Neve Ne’eman Ind. Area
+address2§4 Ha’harash Street POB 7318
+city§Hod HaSharon
+zip§4524075
+country§Israel
+phone§972 9 866 2525
+fax§972 9 866 2500
+website§https://www.batm.com
+industry§Medical Instruments & Supplies
+industryKey§medical-instruments-supplies
+industryDisp§Medical Instruments & Supplies
+sector§Healthcare
+sectorKey§healthcare
+sectorDisp§Healthcare
+longBusinessSummary§BATM Advanced Communications Ltd., together with its subsidiaries, develops, produces, and markets real-time technologies in Israel, the United States, and Europe. It operates through two segments, Networking and Cyber, and Bio-Medical. The Networking and Cyber segment is involved in the research and development, production, and marketing of data communication products, including network function virtualization, edge computing, carrier ethernet and MPLS access solutions, cyber network monitoring, and network encryption. This segment also offers software services, such as training and technical support, laboratory service and maintenance; and construction contracts. The Bio-Medical segment offers molecular biology diagnostics; and solutions to treat pathogenic and medical waste in laboratories and hospitals, as well as for pharmaceutical manufacturing plants and agricultural applications. This segment also administers testing services; and distributes diagnostic equipment and medical supplies of various brands. The company was incorporated in 1992 and is headquartered in Hod Hasharon, Israel.
+fullTimeEmployees§949
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Moti  Nagar', 'title': 'CEO & Executive Director', 'fiscalYear': 2022, 'totalPay': 241276, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Zvi  Marom', 'age': 68, 'title': 'Founder & Non-Executive Director', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 450330, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ran  Noy CPA', 'age': 44, 'title': 'CFO & Director', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yair  Livneh', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1639008000
+payoutRatio§0.0
+beta§0.561
+priceToSalesTrailing12Months§0.80239856
+currency§GBp
+forwardEps§0.01
+lastDividendValue§0.74
+lastDividendDate§1639008000
+exchange§LSE
+quoteType§EQUITY
+shortName§BATM ADVANCED COMMUNICATIONS LD
+longName§BATM Advanced Communications Ltd.
+firstTradeDateEpochUtc§942307200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§1f1c67da-59ba-32d1-8d36-7a0ddee4a9f5
+messageBoardId§finmb_138608
+recommendationKey§none
+quickRatio§1.488
+earningsGrowth§-0.456
+grossMargins§0.34527
+ebitdaMargins§0.018550001
+trailingPegRatio§None

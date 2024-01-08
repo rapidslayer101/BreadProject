@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 03:45:51.481515
+address1§Three Bala Plaza East
+address2§Suite 506
+city§Bala Cynwyd
+state§PA
+zip§19004
+country§United States
+phone§844 511 9056
+website§https://www.larimartx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Larimar Therapeutics, Inc., a clinical-stage biotechnology company, focuses on developing treatments for rare diseases using its novel cell penetrating peptide technology platform. Its lead product candidate is CTI-1601, which is in Phase 2 clinical trial for the treatment of Friedreich's ataxia, a rare, progressive, and fatal genetic disease. The company is headquartered in Bala Cynwyd, Pennsylvania.
+fullTimeEmployees§26
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Carole S. Ben-Maimon M.D.', 'age': 64, 'title': 'CEO, President & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 845634, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Celano CPA', 'age': 64, 'title': 'Secretary & CFO', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 562621, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Berman', 'title': 'Vice President of Finance & Administration', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer Spokes Johansson', 'title': 'Vice President of Legal & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Russell G. Clayton Sr., D.O', 'age': 62, 'title': 'Chief Medical Officer', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Gopi  Shankar M.B.A., Ph.D.', 'age': 52, 'title': 'Chief Development Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Francis Michael Conway CPA', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§7
+compensationRisk§9
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.455
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.05
+exchange§NGM
+quoteType§EQUITY
+shortName§Larimar Therapeutics, Inc.
+longName§Larimar Therapeutics, Inc.
+firstTradeDateEpochUtc§1403184600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0bb9528f-7ec3-38bd-aa61-f67b2741ad55
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§17.0
+targetLowPrice§4.5
+targetMeanPrice§12.38
+targetMedianPrice§14.0
+recommendationMean§1.4
+recommendationKey§strong_buy
+numberOfAnalystOpinions§4
+quickRatio§14.576
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,51 @@
+# reload+after+2024-01-21 21:46:51.001174
+address1§950 Tower Lane
+address2§6th Floor
+city§Foster City
+state§CA
+zip§94404
+country§United States
+phone§650 587 7700
+website§https://www.quinstreet.com
+industry§Advertising Agencies
+sector§Communication Services
+longBusinessSummary§QuinStreet, Inc., an online performance marketing company, provides customer acquisition services for its clients in the United States and internationally. The company offers online marketing services, such as qualified clicks, leads, calls, applications, and customers through its websites or third-party publishers. It serves financial and home services industries. The company was incorporated in 1999 and is headquartered in Foster City, California.
+fullTimeEmployees§937
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Douglas  Valenti', 'age': 63, 'title': 'Chairman, President & CEO', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 738890, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  Wong', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 589500, 'exercisedValue': 0, 'unexercisedValue': 712800}, {'maxAge': 1, 'name': 'Mr. Timothy J. Stevens J.D.', 'age': 56, 'title': 'Executive VP of Strategic Initiatives & Business Development and COO', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 548400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nina  Bhanap', 'age': 50, 'title': 'CTO and President of Product & Technology', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 687500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin J. Collins', 'age': 59, 'title': 'Chief Legal & Privacy Officer', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 515000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hayden  Blair', 'title': 'Senior Manager of Finance & Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ashley  Heller', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Brooks', 'age': 50, 'title': 'Senior Vice President', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 317760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Crisp', 'title': 'Senior Vice President of Search Engine Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Chen', 'age': 37, 'title': 'Senior Vice President', 'yearBorn': 1986, 'fiscalYear': 2023, 'totalPay': 300108, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§5
+compensationRisk§5
+shareHolderRightsRisk§7
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.092
+priceToSalesTrailing12Months§1.1928582
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.41
+pegRatio§3.12
+exchange§NMS
+quoteType§EQUITY
+shortName§QuinStreet, Inc.
+longName§QuinStreet, Inc.
+firstTradeDateEpochUtc§1265898600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§74403f7f-ecbb-3127-a254-71d0b1d510c0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§19.0
+targetLowPrice§10.0
+targetMeanPrice§13.88
+targetMedianPrice§13.63
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§1.489
+earningsGrowth§1.426
+grossMargins§0.07812
+ebitdaMargins§-0.01959
+trailingPegRatio§None

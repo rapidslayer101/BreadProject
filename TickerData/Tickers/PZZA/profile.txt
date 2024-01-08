@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 08:46:49.505169
+address1§2002 Papa John’s Boulevard
+city§Louisville
+state§KY
+zip§40299-2367
+country§United States
+phone§502 261 7272
+website§https://www.papajohns.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Papa John's International, Inc. operates and franchises pizza delivery and carryout restaurants under the Papa John's trademark in the United States and internationally. It operates through four segments: Domestic Company-Owned Restaurants, North America Commissaries, North America Franchising, and International Operations. The company also operates dine-in and delivery restaurants under the Papa John's trademark internationally. The company was founded in 1984 and is based in Louisville, Kentucky.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Robert M. Lynch', 'age': 46, 'title': 'President, CEO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1035015, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline Miller Oyler', 'age': 57, 'title': 'Chief Legal & Risk Officer and Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 482873, 'exercisedValue': 0, 'unexercisedValue': 926935}, {'maxAge': 1, 'name': 'Ms. Amanda M. Clark', 'age': 43, 'title': 'Chief Operating Officer For International', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 479231, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ravi  Thanawala', 'age': 39, 'title': 'CFO & Principal Accounting Officer', 'yearBorn': 1984, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Falciola', 'title': 'Chief Insights and Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stacy  Frole', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Shambura', 'title': 'Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elias  Reyna', 'title': 'Chief People & Diversity Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Madeline  Chadwick', 'title': 'Chief Corporate Affairs Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shane  Hutchins', 'title': 'Chief Supply Chain Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§1
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.84
+dividendYield§0.026500002
+exDividendDate§1699574400
+payoutRatio§0.73190004
+fiveYearAvgDividendYield§1.55
+beta§1.17
+priceToSalesTrailing12Months§1.0875938
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.83
+pegRatio§4.76
+exchange§NMS
+quoteType§EQUITY
+shortName§Papa John's International, Inc.
+longName§Papa John's International, Inc.
+firstTradeDateEpochUtc§739546200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§719e72e4-50d8-362b-a3da-487eb608b696
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§100.0
+targetLowPrice§65.0
+targetMeanPrice§79.69
+targetMedianPrice§79.5
+recommendationMean§2.2
+recommendationKey§buy
+numberOfAnalystOpinions§16
+quickRatio§0.495
+earningsGrowth§1.087
+grossMargins§0.3066
+ebitdaMargins§0.0964
+trailingPegRatio§1.4166

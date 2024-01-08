@@ -1,0 +1,20 @@
+# reload+after+2024-01-20 07:40:45.628695
+maxAge§86400
+priceHint§2
+currency§GBp
+exchange§LSE
+quoteType§EQUITY
+shortName§TRITAX EUROBOX PLC ORD EUR0.01 
+longName§Tritax EuroBox plc
+firstTradeDateEpochUtc§1531119600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§868950cc-3931-3f89-afed-298e852dba5e
+targetHighPrice§0.86
+targetLowPrice§0.52
+targetMeanPrice§0.69
+targetMedianPrice§0.69
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§4
+trailingPegRatio§None

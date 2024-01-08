@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 08:33:17.659137
+address1§3101 South Packerland Drive
+city§Green Bay
+state§WI
+zip§54313
+country§United States
+phone§920 592 2000
+website§https://schneider.com
+industry§Trucking
+sector§Industrials
+longBusinessSummary§Schneider National, Inc., together with its subsidiaries, engages in the provision of surface transportation and logistics solutions in the United States, Canada, and Mexico. The company operates through three segments: Truckload, Intermodal, and Logistics. The Truckload segment offers over the road freight transportation services primarily through dry van, bulk, temperature-controlled, and flat-bed equipment across either network or dedicated configurations. The Intermodal segment provides door-to-door container on flat car services through a combination of rail and dray transportation using company-owned containers, chassis, and trucks. The Logistics segment offers asset-light freight brokerage, supply chain, warehousing, and import/export services to manage and move its customers' freight. It also leases equipment, such as trucks to owner-operators; and provides insurance for the company drivers and owner-operators. The company was founded in 1935 and is headquartered in Green Bay, Wisconsin.
+fullTimeEmployees§17050
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Mark B. Rourke', 'age': 59, 'title': 'CEO, President & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2478961, 'exercisedValue': 0, 'unexercisedValue': 719343}, {'maxAge': 1, 'name': 'Mr. Shaleen  Devgun', 'age': 51, 'title': 'Executive VP and Chief Innovation & Technology Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 935574, 'exercisedValue': 115375, 'unexercisedValue': 60310}, {'maxAge': 1, 'name': 'Mr. Robert M. Reich Jr.', 'age': 56, 'title': 'Executive VP & Chief Administrative Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 881065, 'exercisedValue': 37150, 'unexercisedValue': 56784}, {'maxAge': 1, 'name': 'Mr. Thomas G. Jackson', 'age': 57, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 882019, 'exercisedValue': 0, 'unexercisedValue': 122850}, {'maxAge': 1, 'name': 'Mr. Darrell  Campbell', 'title': 'Executive VP & CFO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kara  Leiterman', 'title': 'Manager of Media Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Angela  Fish', 'age': 51, 'title': 'Executive Vice President of Human Resources', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Filter', 'age': 52, 'title': 'Executive VP & Group President of Transportation & Logistics', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelly A. Dumas-Magnin', 'title': 'VP & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Steve  Bindas', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§10
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.36
+dividendYield§0.0148
+exDividendDate§1701907200
+payoutRatio§0.19549999
+fiveYearAvgDividendYield§1.19
+beta§0.898
+priceToSalesTrailing12Months§0.75555015
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.48
+pegRatio§94.56
+exchange§NYQ
+quoteType§EQUITY
+shortName§Schneider National, Inc.
+longName§Schneider National, Inc.
+firstTradeDateEpochUtc§1491485400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d63e8c74-85b1-3f95-8d8f-a7ababc606ba
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§36.0
+targetLowPrice§23.0
+targetMeanPrice§26.86
+targetMedianPrice§26.5
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§14
+quickRatio§1.528
+earningsGrowth§-0.714
+grossMargins§0.18197
+ebitdaMargins§0.13312
+trailingPegRatio§None

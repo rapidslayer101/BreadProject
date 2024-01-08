@@ -1,0 +1,40 @@
+# reload+after+2024-01-22 03:46:48.856476
+address1§303 South Broadway
+address2§Suite 125
+city§Tarrytown
+state§NY
+zip§10591
+country§United States
+phone§914 987 2876
+website§https://www.paxmedica.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§PaxMedica, Inc., a clinical stage biopharmaceutical company, focuses on the development of anti-purinergic drug therapies for the treatment of disorders with intractable neurologic symptoms. The company's lead product candidate is PAX-101, an intravenous formulation of suramin for the treatment of autism spectrum disorder, myalgic encephalomyelitis/chronic fatigue syndrome, long COVID-19 syndrome, and human African trypanosomiasis (HAT). It also develops PAX-102, an intranasal formulation of suramin, as well as other new chemical entities that are targeted and selective antagonists of purine receptor subtypes; and PAX-HAT-301 for the treatment of HAT. The company was formerly known as Purinix Pharmaceuticals LLC and changed its name to PaxMedica, Inc. in April 2020. PaxMedica, Inc. was incorporated in 2018 and is based in Tarrytown, New York.
+fullTimeEmployees§3
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Howard J. Weisman', 'age': 64, 'title': 'CEO & Chairman', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 640000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen Douglas Sheldon', 'age': 43, 'title': 'CFO & COO', 'yearBorn': 1980, 'fiscalYear': 2022, 'totalPay': 198663, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David W. Hough M.D.', 'age': 66, 'title': 'Chief Medical Officer', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 327500, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.09
+exchange§NCM
+quoteType§EQUITY
+shortName§PaxMedica, Inc.
+longName§PaxMedica, Inc.
+firstTradeDateEpochUtc§1661520600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d24d809e-a374-32ef-abd8-827ce1a10f55
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§3.0
+targetLowPrice§3.0
+targetMeanPrice§3.0
+targetMedianPrice§3.0
+recommendationKey§none
+numberOfAnalystOpinions§1
+quickRatio§0.505
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

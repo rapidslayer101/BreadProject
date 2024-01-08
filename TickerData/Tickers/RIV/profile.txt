@@ -1,0 +1,35 @@
+# reload+after+2024-01-22 20:32:47.352295
+address1§325 North LaSalle Street
+address2§Suite 645
+city§Chicago
+state§IL
+zip§60654
+country§United States
+phone§312-832-1440
+fax§312-832-1461
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§RiverNorth Opportunities Fund, Inc. is a close ended equity mutual fund co- launched and co- managed by ALPS Advisors, Inc. and RiverNorth Capital Management, LLC. It invests in the equity markets. The fund seeks to invest in stocks of companies operating across the diversified sectors. RiverNorth Opportunities Fund, Inc. was formed on December 24, 2015 and is domiciled in the United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick William Galley C.F.A.', 'age': 47, 'title': 'Co-Portfolio Mang.', 'yearBorn': 1975, 'fiscalYear': 2020, 'totalPay': 0, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Stephen Andrew O'Neill C.F.A., CFA", 'age': 43, 'title': 'Co-Portfolio Mang.', 'yearBorn': 1979, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1609372800
+maxAge§86400
+priceHint§2
+dividendRate§1.53
+dividendYield§0.1543
+exDividendDate§1699920000
+fiveYearAvgDividendYield§14.29
+currency§USD
+dateShortInterest§1695945600
+exchange§NYQ
+quoteType§EQUITY
+shortName§RiverNorth Opportunities Fund, 
+longName§RiverNorth Opportunities Fund, Inc.
+firstTradeDateEpochUtc§1452263400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§785ee02a-5d11-3b20-95a5-c748214a3c9d
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

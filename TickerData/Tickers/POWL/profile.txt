@@ -1,0 +1,55 @@
+# reload+after+2024-01-20 19:46:41.741688
+address1§8550 Mosley Road
+city§Houston
+state§TX
+zip§77075-1180
+country§United States
+phone§713 944 6900
+fax§713 947 4453
+website§https://www.powellind.com
+industry§Electrical Equipment & Parts
+sector§Industrials
+longBusinessSummary§Powell Industries, Inc., together with its subsidiaries, designs, develops, manufactures, sells, and services custom-engineered equipment and systems. The company's principal products include integrated power control room substations, custom-engineered modules, electrical houses, medium-voltage circuit breakers, monitoring and control communications systems, motor control centers, switches, and bus duct systems, as well as traditional and arc-resistant distribution switchgears and control gears. Its products have application in voltages ranging from 480 volts to 38,000 volts. The company also provide field service inspection, installation, commissioning, modification and repair, spare parts, retrofit and retrofill components for existing systems, and replacement circuit breakers for switchgear. It serves onshore and offshore production, liquefied natural gas facilities and terminals, pipelines, refineries, and petrochemical plants, as well as electric utility, light rail traction power, mining and metals, pulp and paper, data centers and other municipal, commercial, and industrial markets. The company has operations in the United States, Canada, the Middle East, Africa, Europe, Mexico, and Central and South America. Powell Industries, Inc. was founded in 1947 and is headquartered in Houston, Texas.
+fullTimeEmployees§2363
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Brett A. Cope', 'age': 55, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1651436, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael W. Metcalf', 'age': 55, 'title': 'Executive VP, CFO, Secretary & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 811666, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary  King', 'title': 'Director of Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§7
+compensationRisk§5
+shareHolderRightsRisk§4
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.05
+dividendYield§0.012999999
+exDividendDate§1699920000
+payoutRatio§0.2328
+fiveYearAvgDividendYield§3.3
+beta§0.711
+priceToSalesTrailing12Months§1.3802717
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.28
+pegRatio§1.65
+exchange§NMS
+quoteType§EQUITY
+shortName§Powell Industries, Inc.
+longName§Powell Industries, Inc.
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e10782ed-b987-3304-b610-f364166d3db3
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§85.0
+targetLowPrice§85.0
+targetMeanPrice§85.0
+targetMedianPrice§85.0
+recommendationMean§3.0
+recommendationKey§hold
+numberOfAnalystOpinions§1
+quickRatio§1.381
+earningsGrowth§1.978
+grossMargins§0.21100001
+ebitdaMargins§0.10170999
+trailingPegRatio§1.1023

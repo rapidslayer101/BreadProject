@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 05:33:09.950321
+address1§Shell Centre
+city§London
+zip§SE1 7NA
+country§United Kingdom
+phone§44 20 7934 1234
+website§https://www.shell.com
+industry§Oil & Gas Integrated
+sector§Energy
+longBusinessSummary§Shell plc operates as an energy and petrochemical company Europe, Asia, Oceania, Africa, the United States, and Rest of the Americas. The company operates through Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions segments. It explores for and extracts crude oil, natural gas, and natural gas liquids; markets and transports oil and gas; produces gas-to-liquids fuels and other products; and operates upstream and midstream infrastructure necessary to deliver gas to market. The company also markets and trades natural gas, liquefied natural gas (LNG), crude oil, electricity, carbon-emission rights; and markets and sells LNG as a fuel for heavy-duty vehicles. In addition, it trades in and refines crude oil and other feed stocks, such as low-carbon fuels, lubricants, bitumen, sulphur, gasoline, diesel, aviation fuel, and marine fuel; produces and sells petrochemicals for industrial use; and manages oil sands activities. Further, the company produces base chemicals comprising ethylene, propylene, and aromatics, as well as intermediate chemicals, such as styrene monomer, propylene oxide, solvents, detergent alcohols, ethylene oxide, and ethylene glycol. Additionally, it generates electricity through wind and solar resources; produces and sells hydrogen; and provides electric vehicle charging services. The company was formerly known as Royal Dutch Shell plc and changed its name to Shell plc in January 2022. Shell plc was founded in 1907 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§91140
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Sinead  Gorman', 'age': 46, 'title': 'CFO & Director', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 3234155, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wael  Sawan', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robin  Mooldijk', 'age': 56, 'title': 'Director of Projects & Technology', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tjerk  Huysinga', 'title': 'Executive Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Philippa  Bounds', 'age': 52, 'title': 'Legal Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rachel  Solway', 'title': 'Chief Human Resources & Corporate Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Graham  van't Hoff", 'age': 61, 'title': 'Executive Vice President of Chemicals', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Stephanie  Boyde', 'title': 'Executive VP of Remuneration & HR Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Hill', 'age': 54, 'title': 'Executive Vice President of Shell Energy', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Paul Eggleston', 'title': 'Executive Vice President of Finance Downstream', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§1
+compensationRisk§3
+shareHolderRightsRisk§6
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.65
+dividendYield§0.0403
+exDividendDate§1700092800
+payoutRatio§0.2746
+fiveYearAvgDividendYield§5.05
+beta§0.555
+priceToSalesTrailing12Months§0.63161963
+currency§USD
+dateShortInterest§1702598400
+forwardEps§8.24
+pegRatio§-0.91
+exchange§NYQ
+quoteType§EQUITY
+shortName§Shell PLC
+longName§Shell plc
+firstTradeDateEpochUtc§783613800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e39b49aa-851e-3ab5-9e57-224b1192b7b0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§85.0
+targetLowPrice§66.0
+targetMeanPrice§74.04
+targetMedianPrice§72.8
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.0
+earningsGrowth§0.141
+grossMargins§0.26507
+ebitdaMargins§0.2074
+trailingPegRatio§None

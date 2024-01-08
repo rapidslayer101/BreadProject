@@ -1,0 +1,42 @@
+# reload+after+2024-01-20 11:43:44.282698
+address1§3940 Trust Way
+city§Hayward
+state§CA
+zip§94545
+country§United States
+phone§510 780 0819
+website§https://benitec.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Benitec Biopharma Inc., a clinical-stage biotechnology company, focuses on the development of novel genetic medicines. The company develops DNA-directed RNA interference-based therapeutics for chronic and life-threatening human conditions. It is developing BB-301, an adeno-associated virus based gene therapy agent for treating oculopharyngeal muscular dystrophy. The company was incorporated in 1995 and is headquartered in Hayward, California.
+fullTimeEmployees§17
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jerel A. Banks M.D., Ph.D.', 'age': 48, 'title': 'Executive Chairman & CEO', 'yearBorn': 1975, 'fiscalYear': 2023, 'totalPay': 848068, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Megan Joan Boston BComm, CA, Dip., GAICD', 'age': 51, 'title': 'Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 439168, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Michael  Graham', 'title': 'Head of Discovery & Founding Scientist', 'fiscalYear': 2023, 'totalPay': 130022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Claudia  Kloth', 'title': 'Senior Vice President of Manufacturing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.848
+priceToSalesTrailing12Months§112.15794
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-2.41
+exchange§NCM
+quoteType§EQUITY
+shortName§Benitec Biopharma Inc.
+longName§Benitec Biopharma Inc.
+firstTradeDateEpochUtc§1403616600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§b3cc27a2-16b5-3a55-8f58-57577c96b7a7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§6.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§1
+quickRatio§5.716
+grossMargins§2.4133298
+ebitdaMargins§0.0
+trailingPegRatio§None

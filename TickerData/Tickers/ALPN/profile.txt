@@ -1,0 +1,49 @@
+# reload+after+2024-01-22 06:43:17.691526
+address1§188 East Blaine Street
+address2§Suite 200
+city§Seattle
+state§WA
+zip§98102
+country§United States
+phone§206 788 4545
+website§https://www.alpineimmunesciences.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Alpine Immune Sciences, Inc. operates as a clinical-stage immunotherapy company. It focuses on creating various immunotherapies through protein engineering technologies for autoimmune and inflammatory diseases. The company has strategic collaborations with biopharmaceutical companies and has a pipeline of clinical and preclinical candidates in development. Its pipeline includes Povetacicept, a dual B cell cytokine antagonist for multiple autoimmune and inflammatory diseases; and Acazicolcept, a dual inhibitor of the CD28 and ICOS T cell costimulatory pathways for treatment of severe inflammatory diseases. Alpine Immune Sciences, Inc. was incorporated in 2007 and is headquartered in Seattle, Washington.
+fullTimeEmployees§126
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Mitchell H. Gold M.D.', 'age': 55, 'title': 'Executive Chairman & CEO', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 778200, 'exercisedValue': 0, 'unexercisedValue': 3826649}, {'maxAge': 1, 'name': 'Dr. Stanford  Peng M.D., Ph.D.', 'age': 52, 'title': 'President and Head of Research & Development', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 751200, 'exercisedValue': 0, 'unexercisedValue': 1979010}, {'maxAge': 1, 'name': 'Mr. Paul  Rickey', 'age': 44, 'title': 'Senior VP, CFO, Treasurer & Secretary', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 577100, 'exercisedValue': 0, 'unexercisedValue': 540467}, {'maxAge': 1, 'name': 'Dr. Wayne R. Gombotz', 'age': 64, 'title': 'Chief Technology Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Temre  Johnson', 'title': 'Head of IR & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Remy  Durand Ph.D.', 'age': 38, 'title': 'Chief Business Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Wolfgang  Dummer M.D., Ph.D.', 'age': 57, 'title': 'Chief Medical Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§8
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.309
+priceToSalesTrailing12Months§33.482887
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.34
+exchange§NGM
+quoteType§EQUITY
+shortName§Alpine Immune Sciences, Inc.
+longName§Alpine Immune Sciences, Inc.
+firstTradeDateEpochUtc§1434547800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e994e1f0-358a-395f-b1e2-8dc3a2a1a651
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§22.0
+targetMeanPrice§27.5
+targetMedianPrice§28.0
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§3.75
+grossMargins§-1.49125
+ebitdaMargins§-2.12971
+trailingPegRatio§None

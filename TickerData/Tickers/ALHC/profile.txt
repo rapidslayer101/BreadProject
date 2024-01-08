@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 07:43:17.022918
+address1§1100 West Town and Country Road
+address2§Suite 1600
+city§Orange
+state§CA
+zip§92868
+country§United States
+phone§844 310 2247
+website§https://www.alignmenthealthcare.com
+industry§Healthcare Plans
+sector§Healthcare
+longBusinessSummary§Alignment Healthcare, Inc., a tech-enabled Medicare advantage company, operates consumer-centric health care platform. It provides customized health care in the United States to seniors and those who need it through its Medicare advantage plans. The company owns Medicare advantage plans in the states of California, North Carolina, Nevada, Arizona, Florida, and Texas. The company was founded in 2013 and is based in Orange, California.
+fullTimeEmployees§1037
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. John E. Kao', 'age': 61, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1633082, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert Thomas Freeman', 'age': 33, 'title': 'Chief Financial Officer', 'yearBorn': 1990, 'fiscalYear': 2022, 'totalPay': 948743, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dawn Christine Maroney', 'age': 56, 'title': 'President of Health Markets & CEO of Health Plan', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1123517, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Donald S. Furman M.B.A., M.D.', 'age': 73, 'title': 'Co-Founder & Chief Clinical Officer', 'yearBorn': 1950, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charlotte  LeBlanc', 'title': 'Chief Accounting Officer and Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hakan  Kardes', 'age': 36, 'title': 'Chief Technology & Experience Officer', 'yearBorn': 1987, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert L. Scavo', 'age': 58, 'title': 'Chief Information Officer & Senior VP of Provider Reimbursement', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher J. Joyce', 'age': 59, 'title': 'Chief Legal & Administrative Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda  Root', 'title': 'Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hyong J. Kim M.D.', 'age': 54, 'title': 'Chief Medical Officer', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§7
+compensationRisk§10
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.441
+priceToSalesTrailing12Months§0.8740104
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.59
+pegRatio§0.29
+exchange§NMS
+quoteType§EQUITY
+shortName§Alignment Healthcare, Inc.
+longName§Alignment Healthcare, Inc.
+firstTradeDateEpochUtc§1616765400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7ab3003f-f2a3-31fc-a5ff-b15fdc54d455
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§8.0
+targetMeanPrice§9.61
+targetMedianPrice§9.0
+recommendationMean§2.1
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§1.514
+grossMargins§0.11
+ebitdaMargins§-0.068280004
+trailingPegRatio§None

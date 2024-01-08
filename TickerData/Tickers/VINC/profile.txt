@@ -1,0 +1,42 @@
+# reload+after+2024-01-23 14:47:50.514437
+address1§260 Sheridan Avenue
+address2§Suite 400
+city§Palo Alto
+state§CA
+zip§94306
+country§United States
+phone§650 800 6676
+website§https://vincerx.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Vincerx Pharma, Inc., a clinical-stage biopharmaceutical company, researches and develops therapies to address unmet medical needs for the treatment of cancer in the United States. It is developing enitociclib, a cyclin-dependent kinase-9 inhibitor that is in Phase 1 clinical trials for treating patients with hematologic malignancies; and VIP236, a small molecule drug conjugate that is in Phase 1 clinical trials to treat solid tumors. The company's preclinical stage product candidates include VIP943 and VIP924 for the treatment of hematologic malignancies. Vincerx Pharma, Inc. was founded in 2019 is based in Palo Alto, California.
+fullTimeEmployees§41
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Ahmed M. Hamdy M.D.', 'age': 58, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 609844, 'exercisedValue': 0, 'unexercisedValue': 500}, {'maxAge': 1, 'name': 'Dr. Raquel E. Izumi Ph.D.', 'age': 53, 'title': 'Founder, President, COO, Secretary & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 551660, 'exercisedValue': 0, 'unexercisedValue': 500}, {'maxAge': 1, 'name': 'Mr. Alexander A. Seelenberger M.B.A.', 'age': 44, 'title': 'Chief Financial Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 458029, 'exercisedValue': 0, 'unexercisedValue': 467}, {'maxAge': 1, 'name': 'Mr. Tom C. Thomas J.D.', 'age': 64, 'title': 'Founder, General Counsel & Chief Legal Officer', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 444142, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. John C. Byrd M.D.', 'title': 'Founder & Chairman of Scientific Advisory Board', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hans-Georg  Lerchen Ph.D.', 'title': 'Chief Scientific Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gabriela  Jairala', 'title': 'Sr Executive Director of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Quarford', 'title': 'Vice President of Quality Operations & Compliance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Merrick SPHR', 'title': 'Senior Director of People & Culture and Head of Human Resource', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Beatrix  Stelte-Ludwig Ph.D.', 'title': 'Executive Chief Development Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.096
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.58
+exchange§NCM
+quoteType§EQUITY
+shortName§Vincerx Pharma, Inc.
+longName§Vincerx Pharma, Inc.
+firstTradeDateEpochUtc§1590586200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§46789548-9ff1-3829-9a39-73e43f85b2b7
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§10.0
+targetLowPrice§4.0
+targetMeanPrice§7.0
+targetMedianPrice§7.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§2.471
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

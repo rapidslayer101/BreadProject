@@ -1,0 +1,48 @@
+# reload+after+2024-01-21 15:31:04.091742
+address1§230 Park Avenue
+address2§20th Floor
+city§New York
+state§NY
+zip§10169
+country§United States
+phone§212 317 5700
+website§https://lumentfinancetrust.com
+industry§REIT—Mortgage
+sector§Real Estate
+longBusinessSummary§Lument Finance Trust, Inc., a real estate investment trust, focuses on investing in, financing, and managing a portfolio of commercial real estate (CRE) debt investments in the United States. The company primarily invests in transitional floating rate commercial mortgage loans on middle market multi-family assets; and other CRE -related investments, including mezzanine loans, preferred equity, commercial mortgage-backed securities, fixed rate loans, construction loans, and other CRE debt instruments. Lument Finance Trust, Inc. is qualified as a real estate investment trust (REIT) under the Internal Revenue Code of 1986. As a REIT, it would not be subject to federal income taxes if it distributes at least 90% of its taxable income to its stockholders. The company was formerly known as Hunt Companies Finance Trust, Inc. and changed its name to Lument Finance Trust, Inc. in December 2020. The company was incorporated in 2012 and is headquartered in New York, New York.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Peter Flynn J.D.', 'age': 46, 'title': 'CEO & Chairman of the Board', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Anthony Briggs', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Joseph Henson', 'age': 70, 'title': 'President', 'yearBorn': 1953, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Brendan  Gover', 'title': 'Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charles  Duddy', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kian Fui Chong', 'age': 51, 'title': 'Senior Vice President of Hunt Investment Management, LLC', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+dividendRate§0.28
+dividendYield§0.1162
+exDividendDate§1703721600
+payoutRatio§1.087
+fiveYearAvgDividendYield§10.55
+beta§1.169
+priceToSalesTrailing12Months§4.3458395
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.39
+pegRatio§-0.84
+exchange§NYQ
+quoteType§EQUITY
+shortName§Lument Finance Trust, Inc.
+longName§Lument Finance Trust, Inc.
+firstTradeDateEpochUtc§1363959000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§76df2251-4c21-3c20-8ec8-ccc75ca93f52
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§2.75
+targetLowPrice§2.25
+targetMeanPrice§2.5
+targetMedianPrice§2.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§140.225
+earningsGrowth§15.416
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

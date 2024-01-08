@@ -1,0 +1,50 @@
+# reload+after+2024-01-21 23:31:30.570281
+address1§Two Pennsylvania Plaza
+city§New York
+state§NY
+zip§10121
+country§United States
+phone§212 465 4111
+website§https://www.msgsports.com
+industry§Entertainment
+sector§Communication Services
+longBusinessSummary§Madison Square Garden Sports Corp. operates as a professional sports company in the United States. The company owns and operates a portfolio of assets that consists of the New York Knickerbockers of the National Basketball Association (NBA) and the New York Rangers of the National Hockey League. Its other professional franchises include two development league teams, the Hartford Wolf Pack of the American Hockey League and the Westchester Knicks of the NBA G League. The company also owns Knicks Gaming, an esports franchise that competes in the NBA 2K League, as well as a controlling interest in Counter Logic Gaming, a North American esports organization. In addition, it operates two professional sports team performance centers, the Madison Square Garden Training Center in Greenburgh. The company was formerly known as The Madison Square Garden Company. Madison Square Garden Sports Corp. was incorporated in 2015 and is based in New York, New York.
+fullTimeEmployees§558
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James Lawrence Dolan', 'age': 68, 'title': 'Executive Chairman', 'yearBorn': 1955, 'fiscalYear': 2023, 'totalPay': 4899322, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David G. Hopkinson', 'age': 52, 'title': 'President & COO', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 3760874, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria M. Mink', 'age': 54, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 2122898, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jamaal T. Lesane', 'age': 47, 'title': 'Executive VP & General Counsel', 'yearBorn': 1976, 'fiscalYear': 2023, 'totalPay': 1517442, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Granville-Smith', 'age': 56, 'title': 'Executive Vice President', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 946704, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexander  Shvartsman', 'age': 50, 'title': 'Senior VP, Controller & Principal Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 623427, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra P. Kapell', 'title': 'Chief Administrative Officer & Executive VP', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ari  Danes C.F.A.', 'title': 'Senior Vice President of Investor Relations & Treasury', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deirdre  Latour', 'age': 50, 'title': 'Executive VP & Chief Communications Officer', 'yearBorn': 1973, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron  Skotarczak', 'age': 51, 'title': 'Executive VP and Chief Sales & Marketing Officer', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§5
+boardRisk§10
+compensationRisk§5
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+exDividendDate§1665705600
+payoutRatio§0.0
+beta§0.706
+priceToSalesTrailing12Months§4.688003
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.06
+pegRatio§5.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Madison Square Garden Sports Co
+longName§Madison Square Garden Sports Corp.
+firstTradeDateEpochUtc§1442496600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c77c9467-d779-35b3-b9d6-eb9330b355cc
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§285.0
+targetLowPrice§220.0
+targetMeanPrice§244.6
+targetMedianPrice§235.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§0.213
+grossMargins§0.47002998
+ebitdaMargins§0.12061
+trailingPegRatio§None

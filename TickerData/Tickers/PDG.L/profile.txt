@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 15:40:03.508894
+address1§Loxley House
+address2§2 Oakwood Court Little Oak Drive Annesley
+city§Nottingham
+zip§NG15 0DR
+country§United Kingdom
+phone§44 16 2372 5200
+website§https://www.pendragonplc.com
+industry§Auto & Truck Dealerships
+sector§Consumer Cyclical
+longBusinessSummary§Pendragon PLC, together with its subsidiaries, operates in the automotive retail sector in the United Kingdom. The company operates through three segments: UK Motor, Software, and Leasing segments. Its UK Motor segment includes sale and servicing of vehicles in the UK; Software segment includes Licencing of Software as a Service to global automotive business users; and Leasing segment includes provision of fleet and contract hire. The company sells new and used motor cars, motorbikes, trucks, and vans, as well as offers associated aftersales activities of service, body repair, and parts sales. It also operates carstore.com, an online marketplace for used cars; and distributes aftermarket parts, accessories, and workshop consumables under the Quickco brand. In addition, the company provides cloud-based dealer management systems; and Licence Link, an online license checking tool for fleets, as well as hires and leases cars and vans to small, medium, and large fleets under the Pendragon Vehicle Management brand, and retails vehicles under the Evans Halshaw and Stratstone brand names. Pendragon PLC was incorporated in 1988 and is headquartered in Nottingham, the United Kingdom.
+fullTimeEmployees§5334
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William R. Berman', 'age': 56, 'title': 'CEO, COO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1313000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark Simon Willis', 'age': 47, 'title': 'CFO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 650000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Akbar', 'title': 'Managing Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard James Maloney', 'title': 'Company Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§9
+compensationRisk§9
+shareHolderRightsRisk§6
+overallRisk§9
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1555545600
+payoutRatio§0.0
+fiveYearAvgDividendYield§5.68
+beta§0.389
+priceToSalesTrailing12Months§0.1212393
+currency§GBp
+forwardEps§3.18
+exchange§LSE
+quoteType§EQUITY
+shortName§PENDRAGON PLC ORD 5P
+longName§Pendragon PLC
+firstTradeDateEpochUtc§626688000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§34214c11-f072-3750-8558-d21c2bd12dc5
+targetHighPrice§38.0
+targetLowPrice§32.0
+targetMeanPrice§35.0
+targetMedianPrice§35.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.379
+earningsGrowth§0.011
+grossMargins§0.12312
+ebitdaMargins§0.031
+trailingPegRatio§None

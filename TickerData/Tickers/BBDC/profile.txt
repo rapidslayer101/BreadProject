@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 06:27:06.524941
+address1§300 South Tryon Street
+address2§Suite 2500
+city§Charlotte
+state§NC
+zip§28202
+country§United States
+phone§704 805 7200
+website§https://www.barings.com/en-us/guest/funds/business-development-companies/barings-bdc
+industry§Asset Management
+industryKey§asset-management
+industryDisp§Asset Management
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Barings BDC, Inc. is a publicly traded, externally managed investment company that has elected to be treated as a business development company under the Investment Company Act of 1940. It seeks to invest primarily in senior secured loans, first lien debt, unitranche, second lien debt, subordinated debt, equity co-investments and senior secured private debt investments in private middle-market companies that operate across a wide range of industries. It specializes in mezzanine, leveraged buyouts, management buyouts, ESOPs, change of control transactions, acquisition financings, growth financing, and recapitalizations in lower middle market, mature, and later stage companies. It invests in manufacturing and distribution; business services and technology; transportation and logistics; consumer product and services. It invests in United States. It invests in companies with EBITDA of $10 million to $75 million, typically in private equity sponsor backed.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eric J. Lloyd', 'age': 54, 'title': 'Executive Chairman of the Board & CEO', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ian  Fowler', 'age': 59, 'title': 'President', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth A. Murray CPA', 'age': 45, 'title': 'CFO, COO & Controller', 'yearBorn': 1978, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael A. Desieno', 'age': 37, 'title': 'Chief Accounting Officer', 'yearBorn': 1986, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Chillag', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ashlee  Steinnerd', 'age': 41, 'title': 'Chief Legal Officer', 'yearBorn': 1982, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory  MacCordy', 'age': 63, 'title': 'Chief Compliance Officer', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Salmon', 'title': 'Head of European Real Estate Asset Management', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alexandra  Pacini', 'age': 31, 'title': 'Secretary', 'yearBorn': 1992, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Albert  Perley', 'title': 'Treasurer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§1.04
+dividendYield§0.1162
+exDividendDate§1701734400
+payoutRatio§1.1111
+fiveYearAvgDividendYield§7.89
+beta§0.677
+priceToSalesTrailing12Months§3.4437578
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.2
+pegRatio§1.52
+lastDividendValue§0.26
+lastDividendDate§1701734400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Barings BDC, Inc.
+longName§Barings BDC, Inc.
+firstTradeDateEpochUtc§1172154600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e191f9db-e34a-3095-b450-666b47c566c3
+messageBoardId§finmb_4149997
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§8.5
+targetMeanPrice§9.67
+targetMedianPrice§9.75
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§6
+quickRatio§5.645
+earningsGrowth§0.9
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,50 @@
+# reload+after+2024-01-19 23:40:21.508871
+address1§Yorke House
+address2§Arleston Way
+city§Solihull
+zip§B90 4LH
+country§United Kingdom
+website§https://www.securetrustbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§Secure Trust Bank PLC provides banking and financial products and services in the United Kingdom. It operates through four segments: Real Estate Finance, Commercial Finance, Vehicle Finance, and Retail Finance. The Real Estate Finance segment provides secured loans against property assets. The Commercial Finance segment provides invoice discounting solutions, coronavirus business interruption loan scheme, and recovery loan schemes. The Vehicle Finance segment provides hire purchase lending for used cars. The Retail Finance segment offers unsecured finance for consumer products, including bicycles, music, furniture, outdoor/leisure, electronics, dental, jewelry, home improvements, and football season tickets. It also engages in the leasing of property business. Secure Trust Bank PLC was founded in 1952 and is headquartered in Solihull, the United Kingdom.
+fullTimeEmployees§940
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David Andrew McCreadie', 'age': 54, 'title': 'CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1060000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel Michelle Lawrence A.C.M.A.', 'age': 53, 'title': 'CFO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 687000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katie  Docherty', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Mayo', 'title': 'General Counsel', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anne  McKenning', 'title': 'HR Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John  Bevan', 'title': 'Managing Director of Commercial Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Davies', 'title': 'Chief Executive Officer of Retail Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Harper', 'title': 'Chief Risk Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Geoff  Ray', 'title': 'Managing Director of Real Estate Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Julian  Hartley', 'title': 'Managing Director Savings & Vehicle Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§6
+boardRisk§5
+compensationRisk§6
+shareHolderRightsRisk§1
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.45
+dividendYield§0.0671
+exDividendDate§1693440000
+payoutRatio§0.2997
+fiveYearAvgDividendYield§4.49
+beta§0.809
+priceToSalesTrailing12Months§0.9677646
+currency§GBp
+forwardEps§214.67
+pegRatio§0.1
+exchange§LSE
+quoteType§EQUITY
+shortName§SECURE TRUST BANK PLC ORD 40P
+longName§Secure Trust Bank PLC
+firstTradeDateEpochUtc§1320220800
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§3a65f84e-bcd2-3691-a24e-37abb6059c8f
+targetHighPrice§1745.0
+targetLowPrice§1000.0
+targetMeanPrice§1352.33
+targetMedianPrice§1384.5
+recommendationMean§1.6
+recommendationKey§buy
+numberOfAnalystOpinions§6
+earningsGrowth§-0.417
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

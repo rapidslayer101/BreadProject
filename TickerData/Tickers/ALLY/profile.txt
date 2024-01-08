@@ -1,0 +1,61 @@
+# reload+after+2024-01-20 10:26:32.766657
+address1§Ally Detroit Center
+address2§Floor 10 500 Woodward Avenue
+city§Detroit
+state§MI
+zip§48226
+country§United States
+phone§866 710 4623
+website§https://www.ally.com
+industry§Credit Services
+industryKey§credit-services
+industryDisp§Credit Services
+sector§Financial Services
+sectorKey§financial-services
+sectorDisp§Financial Services
+longBusinessSummary§Ally Financial Inc., a digital financial-services company, provides various digital financial products and services to consumer, commercial, and corporate customers primarily in the United States and Canada. It operates through Automotive Finance Operations, Insurance Operations, Mortgage Finance Operations, and Corporate Finance Operations segments. The Automotive Finance Operations segment offers automotive financing services, including providing retail installment sales contracts, loans and operating leases, term loans to dealers, financing dealer floorplans and other lines of credit to dealers, warehouse lines to automotive retailers, and fleet financing. It also provides financing services to companies and municipalities for the purchase or lease of vehicles, and vehicle-remarketing services. The Insurance Operations segment offers consumer finance protection and insurance products through the automotive dealer channel, and commercial insurance products directly to dealers. This segment provides vehicle service and maintenance contract, and guaranteed asset protection products; and underwrites commercial insurance coverages, which primarily insure dealers' vehicle inventory. The Mortgage Finance Operations segment manages consumer mortgage loan portfolio that includes bulk purchases of jumbo and low-to-moderate income mortgage loans originated by third parties, as well as direct-to-consumer mortgage offerings. The Corporate Finance Operations segment provides senior secured leveraged cash flow and asset-based loans to middle market companies; leveraged loans; and commercial real estate product to serve companies in the healthcare industry. The company also offers commercial banking products and services. In addition, it provides securities brokerage and investment advisory services. The company was formerly known as GMAC Inc. and changed its name to Ally Financial Inc. in May 2010. Ally Financial Inc. was founded in 1919 and is based in Detroit, Michigan.
+fullTimeEmployees§11600
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Jeffrey J. Brown', 'age': 50, 'title': 'CEO & Director', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 5334508, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas R. Timmerman', 'age': 60, 'title': 'President of Dealer Financial Services', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 2582698, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Diane E. Morais', 'age': 57, 'title': 'President of Consumer & Commercial Banking Products - Ally Bank', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 2331315, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley J. Brown', 'age': 57, 'title': 'Corporate Treasurer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1565859, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Russell E . Hutchinson', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David J. DeBrunner', 'age': 57, 'title': 'VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sathish  Muthukrishnan', 'age': 49, 'title': 'Chief Information, Data & Digital Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sean  Leary', 'title': 'Head of Investor Relations and Enterprise FP&A', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Soto', 'title': 'Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Isvara M. A. Wilson', 'title': 'Acting General Counsel & Deputy General Counsel of Corporate & Securities', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§10
+shareHolderRightsRisk§2
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.2
+dividendYield§0.0341
+exDividendDate§1698710400
+payoutRatio§0.3252
+fiveYearAvgDividendYield§2.94
+beta§1.411
+priceToSalesTrailing12Months§1.4427389
+currency§USD
+dateShortInterest§1702598400
+forwardEps§3.61
+pegRatio§-0.98
+lastDividendValue§0.3
+lastDividendDate§1698710400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Ally Financial Inc.
+longName§Ally Financial Inc.
+firstTradeDateEpochUtc§1390919400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§8a909f5e-e918-3002-951c-d3779f9fbb0b
+messageBoardId§finmb_955855
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§51.0
+targetLowPrice§23.2
+targetMeanPrice§35.18
+targetMedianPrice§35.0
+recommendationMean§2.6
+recommendationKey§hold
+numberOfAnalystOpinions§18
+earningsGrowth§0.004
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§2.38

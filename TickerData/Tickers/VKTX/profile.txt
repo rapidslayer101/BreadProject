@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 00:47:51.313545
+address1§9920 Pacific Heights Boulevard
+address2§Suite 350
+city§San Diego
+state§CA
+zip§92121
+country§United States
+phone§858 704 4660
+website§https://www.vikingtherapeutics.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Viking Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the development of novel therapies for metabolic and endocrine disorders. The company's lead drug candidate is VK2809, an orally available tissue and receptor-subtype selective agonist of the thyroid hormone receptor beta (TRß), which is in Phase IIb clinical trials to treat patients with biopsy-confirmed non-alcoholic steatohepatitis, as well as NAFLD. It also develops VK5211, an orally available non-steroidal selective androgen receptor modulator that is in Phase II clinical trials for the treatment of patients recovering from non-elective hip fracture surgery; VK0612, an orally available Phase IIb-ready drug candidate for type 2 diabetes; VK2735, a novel dual agonist of the glucagon-like peptide, which is in Phase 1 SAD/MAD clinical trial, and VK0214, an orally available tissue and receptor-subtype selective agonist of the TRß for X-linked adrenoleukodystrophy. The company was incorporated in 2012 and is headquartered in San Diego, California.
+fullTimeEmployees§23
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Brian  Lian Ph.D.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 965115, 'exercisedValue': 0, 'unexercisedValue': 5242550}, {'maxAge': 1, 'name': 'Mr. Gregory S. Zante', 'age': 52, 'title': 'Chief Financial Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 603500, 'exercisedValue': 0, 'unexercisedValue': 366013}, {'maxAge': 1, 'name': 'Ms. Marianne  Mancini', 'age': 58, 'title': 'Chief Operating Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 633300, 'exercisedValue': 0, 'unexercisedValue': 1412689}, {'maxAge': 1, 'name': 'Mr. Michael  Morneau', 'age': 58, 'title': 'Vice President of Finance & Administration', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 375333, 'exercisedValue': 0, 'unexercisedValue': 490518}, {'maxAge': 1, 'name': 'Dr. Geoffrey E. Barker Ph.D.', 'title': 'Senior Vice President of Pharmaceutical Development', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.526
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.12
+pegRatio§-0.5
+exchange§NCM
+quoteType§EQUITY
+shortName§Viking Therapeutics, Inc.
+longName§Viking Therapeutics, Inc.
+firstTradeDateEpochUtc§1430227800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e658b393-1b8d-3e3b-b1d5-0d5bdf22cb43
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§28.0
+targetMeanPrice§34.0
+targetMedianPrice§35.0
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§9
+quickRatio§28.067
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-20 10:28:58.557549
+address1§6688 N. Central Expressway
+address2§Suite 1300
+city§Dallas
+state§TX
+zip§75206
+country§United States
+phone§214 239 6500
+website§https://www.ehab.com
+industry§Medical Care Facilities
+sector§Healthcare
+longBusinessSummary§Enhabit, Inc. provides home health and hospice services in the United States. Its home health services include patient education, pain management, wound care and dressing changes, cardiac rehabilitation, infusion therapy, pharmaceutical administration, and skilled observation and assessment services; practices to treat chronic diseases and conditions, including diabetes, hypertension, arthritis, Alzheimer's disease, low vision, spinal stenosis, Parkinson's disease, osteoporosis, complex wound care and chronic pain, along with disease-specific plans for patients with diabetes, congestive heart failure, post-orthopedic surgery, or injury and respiratory diseases; and physical, occupational and speech therapists provide therapy services. The company offers hospice services, including pain and symptom management, palliative and dietary counseling, social worker visits, spiritual counseling, and bereavement counseling services to meet the individual physical, emotional, spiritual, and psychosocial needs of terminally ill patients and their families. As of December  31, 2022, it operated in 252 home health agencies and 105 hospice agencies across 23 states. The company was formerly known as Encompass Health Home Health Holdings, Inc. and changed its name to Enhabit, Inc. in March 2022. Enhabit, Inc. was incorporated in 2014 and is based in Dallas, Texas.
+fullTimeEmployees§10000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Barbara Ann Jacobsmeyer B.S., M.A., P.T.', 'age': 57, 'title': 'President, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1255610, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Crissy Buchanan Carlisle', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 611664, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tanya R. Marion', 'age': 49, 'title': 'Chief Human Resources Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 445855, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julie Diane Jolley B.S.N., R.N.', 'age': 51, 'title': 'Executive Vice President of Home Health & Hospice Operations', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 642652, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeanne  Kalvaitis B.S.N., R.N.', 'age': 66, 'title': 'Executive Vice President of Hospice Operations', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 288384, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Brewer', 'title': 'Chief Investor Relations Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dylan C. Black', 'age': 54, 'title': 'General Counsel & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald L. Langham Jr., M.B.A., P.T.', 'age': 46, 'title': 'Executive Vice President of Clinical Excellence & Strategy', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§1
+compensationRisk§6
+shareHolderRightsRisk§2
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.46649972
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.22
+pegRatio§-0.85
+exchange§NYQ
+quoteType§EQUITY
+shortName§Enhabit, Inc.
+longName§Enhabit, Inc.
+firstTradeDateEpochUtc§1655991000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§7574f4cd-4116-383d-a309-120760e37b84
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§8.0
+targetMeanPrice§10.79
+targetMedianPrice§10.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§1.427
+grossMargins§0.48951
+ebitdaMargins§0.077989995
+trailingPegRatio§None

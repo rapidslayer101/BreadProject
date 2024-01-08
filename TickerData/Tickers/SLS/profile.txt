@@ -1,0 +1,43 @@
+# reload+after+2024-01-23 11:47:15.884272
+address1§Times Square Tower
+address2§Suite 2503 7 Times Square
+city§New York
+state§NY
+zip§10036
+country§United States
+phone§646 200 5278
+website§https://www.sellaslifesciences.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§SELLAS Life Sciences Group, Inc., a late-stage clinical biopharmaceutical company, focuses on the development of novel cancer immunotherapies for various cancer indications in the United States. The company's lead product candidate is galinpepimut-S (GPS), a cancer immunotherapeutic agent that targets Wilms tumor 1, which is in Phase 3 clinical trials for the treatment of acute myeloid leukemia; and in Phase 1/2 clinical trials for the treatment for ovarian cancer. It has a strategic collaboration with Merck & Co., Inc. to evaluate GPS as it is administered in combination with PD1 blocker pembrolizumab in a Phase 1/2 clinical trial enrolling patients in up to five cancer indications, including hematologic malignancies and solid tumors; and GenFleet Therapeutics (Shanghai), Inc. for the development and commercialization of GFH009, a highly selective small molecule CDK9 inhibitor, currently under Phase 1 clinical trials. The company is headquartered in New York, New York.
+fullTimeEmployees§17
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Angelos M. Stergiou M.D., ScD h.c.', 'age': 47, 'title': 'Founder, President, CEO & Director', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 921985, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Barbara A. Wood Esq.', 'age': 60, 'title': 'Executive VP, General Counsel & Corporate Secretary', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 632660, 'exercisedValue': 0, 'unexercisedValue': 8078}, {'maxAge': 1, 'name': 'Mr. Robert M. Francomano', 'age': 56, 'title': 'Senior VP & Chief Commercial Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 667354, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Thomas Burns CPA', 'age': 38, 'title': 'Senior VP & CFO', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 338446, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Dragan  Cicic M.D., MBA', 'age': 60, 'title': 'Senior Vice President of Clinical Development', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 466430, 'exercisedValue': 0, 'unexercisedValue': 55739}, {'maxAge': 1, 'name': 'Mr. Andrew  Elnatan', 'title': 'VP and Head of Regulatory Affairs, Chemistry, Manufacturing and Controls & Quality', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§2.253
+priceToSalesTrailing12Months§Infinity
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.96
+exchange§NCM
+quoteType§EQUITY
+shortName§SELLAS Life Sciences Group, Inc
+longName§SELLAS Life Sciences Group, Inc.
+firstTradeDateEpochUtc§1205328600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§d5f0c150-9f89-3f17-8497-1832af4e7670
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§4.0
+targetMeanPrice§7.0
+targetMedianPrice§8.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.338
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,54 @@
+# reload+after+2024-01-23 08:28:53.203001
+address1§4 Irving Place
+city§New York
+state§NY
+zip§10003
+country§United States
+phone§212 460 4600
+website§https://www.conedison.com
+industry§Utilities—Regulated Electric
+sector§Utilities
+longBusinessSummary§Consolidated Edison, Inc., through its subsidiaries, engages in the regulated electric, gas, and steam delivery businesses in the United States. It offers electric services to approximately 3.6 million customers in New York City and Westchester County; gas to approximately 1.1 million customers in Manhattan, the Bronx, parts of Queens, and Westchester County; and steam to approximately 1,530 customers in parts of Manhattan. The company also supplies electricity to approximately 0.3 million customers in southeastern New York and northern New Jersey; and gas to approximately 0.1 million customers in southeastern New York. In addition, it operates 543 circuit miles of transmission lines; 15 transmission substations; 63 distribution substations; 87,951 in-service line transformers; 3,869 pole miles of overhead distribution lines; and 2,320 miles of underground distribution lines, as well as 4,359 miles of mains and 377,741 service lines for natural gas distribution. Further, the company owns, develops, and operates renewable and energy infrastructure projects; and provides energy-related products and services to wholesale and retail customers, as well as invests in electric and gas transmission projects. It primarily sells electricity to industrial, commercial, residential, and government customers. Consolidated Edison, Inc. was founded in 1823 and is based in New York, New York.
+fullTimeEmployees§14319
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Timothy P. Cawley', 'age': 58, 'title': 'Chairman, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 3515347, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert N. Hoglund', 'age': 61, 'title': 'Senior VP & CFO', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 1958936, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deneen Lynette Donnley', 'age': 58, 'title': 'Senior VP & General Counsel', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 1418635, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Sanchez', 'age': 57, 'title': 'President & CEO of Orange and Rockland Utilities, Inc.', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1223557, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Ketschke', 'age': 51, 'title': 'President of Consolidated Edison Company of New York, Inc.', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1384407, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Miller', 'age': 60, 'title': 'VP, Controller & Chief Accounting Officer', 'yearBorn': 1963, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan C. Childress', 'title': 'Director of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yukari  Saegusa', 'age': 55, 'title': 'VP & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sylvia V. Dooley', 'title': 'VP & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stuart  Nachmias', 'age': 58, 'title': 'President & CEO of Con Edison Transmission, Inc.', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§6
+compensationRisk§1
+shareHolderRightsRisk§4
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§3.24
+dividendYield§0.0346
+exDividendDate§1699920000
+payoutRatio§0.4756
+fiveYearAvgDividendYield§3.66
+beta§0.365
+priceToSalesTrailing12Months§2.1170475
+currency§USD
+dateShortInterest§1702598400
+forwardEps§5.28
+pegRatio§3.28
+exchange§NYQ
+quoteType§EQUITY
+shortName§Consolidated Edison, Inc.
+longName§Consolidated Edison, Inc.
+firstTradeDateEpochUtc§-252322200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§4e67af4d-9f8c-3d24-8c2f-eead828efbf6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§103.0
+targetLowPrice§73.0
+targetMeanPrice§89.5
+targetMedianPrice§89.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§15
+quickRatio§0.636
+earningsGrowth§-0.116
+grossMargins§0.48766997
+ebitdaMargins§0.31160998
+trailingPegRatio§2.7385

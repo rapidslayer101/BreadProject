@@ -1,0 +1,38 @@
+# reload+after+2024-01-22 23:31:33.307508
+address1§50 Hudson Yards
+city§New York
+state§NY
+zip§10001
+country§United States
+phone§212 810 5300
+fax§212 810 5801
+website§https://www.blackrock.com/investing/products/240205/blackrock-muni-intermediate-duration-fund-inc-usd-fund
+industry§Asset Management
+sector§Financial Services
+longBusinessSummary§BlackRock Muni Intermediate Duration Fund, Inc. is a closed ended fixed income mutual fund launched by BlackRock, Inc. It is managed by BlackRock Advisors, LLC. The fund invests in fixed income markets. It primarily invests in investment grade municipal bonds exempt from federal income taxes and with a duration of three to ten years at the time of investment. BlackRock Muni Intermediate Duration Fund, Inc. was formed on August 1, 2003 and is domiciled in United States.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Charles Choon Sik Park', 'age': 56, 'title': 'Chief Compliance Officer and Anti-Money Laundering Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul Louis Audet', 'age': 69, 'title': 'Trustee', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Mr. Walter C. O'Connor C.F.A.", 'age': 61, 'title': 'Portfolio Manager', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Theodore R. Jaeckel Jr., CFA', 'age': 62, 'title': 'Portfolio Manager', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.66
+dividendYield§0.056500003
+exDividendDate§1704931200
+payoutRatio§7.4333
+fiveYearAvgDividendYield§4.3
+beta§0.504
+priceToSalesTrailing12Months§12.743819
+currency§USD
+dateShortInterest§1702598400
+exchange§NYQ
+quoteType§EQUITY
+shortName§Blackrock Muni Intermediate Dur
+longName§BlackRock Municipal Income Fund, Inc.
+firstTradeDateEpochUtc§1059571800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§e9ab773e-09cd-3bf7-90c5-d5ffc3014605
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§0.159
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

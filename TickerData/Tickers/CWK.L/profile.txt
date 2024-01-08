@@ -1,0 +1,59 @@
+# reload+after+2024-01-22 12:36:02.371399
+address1§Crane Court
+address2§Hesslewood Country Office Park Ferriby Road
+city§Hessle
+zip§HU13 0PA
+country§United Kingdom
+phone§44 14 8227 5000
+website§https://www.cranswick.plc.uk
+industry§Packaged Foods
+industryKey§packaged-foods
+industryDisp§Packaged Foods
+sector§Consumer Defensive
+sectorKey§consumer-defensive
+sectorDisp§Consumer Defensive
+longBusinessSummary§Cranswick plc manufactures and supplies food products to grocery retailers, food service sector, and other food producers in the United Kingdom, Continental Europe, and internationally. The company offers fresh pork, gourmet bacon and gammon, fresh and coated chicken, ready to eat chicken, charcuterie, houmous and dips, and olives and antipasti, gourmet sausages, cooked meats, and gourmet pastries, as well as provides food services. It also offers snacks and sharing boxes under the Bodega brand; olives, olive oil, and pulses under the Cypressa brand; Mediterranean foods under the Ramona's Kitchen brand name; and pet food and supplies under the Vitalin and Alpha Feeds, as well as operates export business. Cranswick plc was incorporated in 1972 and is based in Hessle, the United Kingdom.
+fullTimeEmployees§14200
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Adam Hartley Couch', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1501000, 'exercisedValue': 1482346, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John Mark Bottomley B.Sc., F.C.A.', 'age': 60, 'title': 'CFO & Executive Director', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 1001000, 'exercisedValue': 984112, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher  Aldersley', 'title': 'Executive Director & COO', 'fiscalYear': 2023, 'totalPay': 669000, 'exercisedValue': 810513, 'unexercisedValue': 2622}, {'maxAge': 1, 'name': 'Mr. James  Brisby', 'title': 'Chief Commercial Officer & Executive Director', 'fiscalYear': 2023, 'totalPay': 1000000, 'exercisedValue': 980012, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven Garrick Glover LLB', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§9
+compensationRisk§8
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.82
+dividendYield§0.021300001
+exDividendDate§1702512000
+payoutRatio§0.3377
+fiveYearAvgDividendYield§2.01
+beta§0.444
+priceToSalesTrailing12Months§0.83908343
+currency§GBp
+forwardEps§234.63
+pegRatio§3.03
+lastDividendValue§22.7
+lastDividendDate§1702512000
+exchange§LSE
+quoteType§EQUITY
+shortName§CRANSWICK PLC ORD 10P
+longName§Cranswick plc
+firstTradeDateEpochUtc§583743600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§591556ca-ac68-3c8c-bb99-5e84c63eab15
+messageBoardId§finmb_877480
+targetHighPrice§4694.0
+targetLowPrice§3800.0
+targetMeanPrice§4371.75
+targetMedianPrice§4425.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.102
+earningsGrowth§0.297
+grossMargins§0.13482
+ebitdaMargins§0.08759
+trailingPegRatio§None

@@ -1,0 +1,62 @@
+# reload+after+2024-01-22 07:26:34.054556
+address1§1615 Wynkoop Street
+city§Denver
+state§CO
+zip§80202
+country§United States
+phone§303 357 7310
+fax§303 357 7315
+website§https://www.anteromidstream.com
+industry§Oil & Gas Midstream
+industryKey§oil-gas-midstream
+industryDisp§Oil & Gas Midstream
+sector§Energy
+sectorKey§energy
+sectorDisp§Energy
+longBusinessSummary§Antero Midstream Corporation owns, operates, and develops midstream energy infrastructure in the Appalachian Basin. It operates through Gathering and Processing, and Water Handling segments. The Gathering and Processing segment includes a network of gathering pipelines and compressor stations that collects and processes production from Antero Resources' wells in West Virginia and Ohio. The Water Handling segment delivers fresh water from sources, including the Ohio River, local reservoirs, and various regional waterways; uses water handling systems to transport flowback and produced water; and offers pumping stations, water storage, and blending facilities. The company was incorporated in 2013 and is headquartered in Denver, Colorado.
+fullTimeEmployees§586
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul M. Rady', 'age': 69, 'title': 'President, Chairman & CEO', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 1034529, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan E. Krueger', 'age': 38, 'title': 'CFO, VP of Finance & Treasurer', 'yearBorn': 1985, 'fiscalYear': 2022, 'totalPay': 285602, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael N. Kennedy', 'age': 48, 'title': 'Senior VP of Finance & Director', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 625643, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yvette K. Schultz', 'age': 41, 'title': 'Senior VP of Legal, Chief Compliance Officer, General Counsel & Secretary', 'yearBorn': 1982, 'fiscalYear': 2022, 'totalPay': 294810, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. Patrick Ash', 'age': 44, 'title': 'Senior Vice President of Reserves, Planning & Midstream', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 470385, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jon S. McEvers', 'title': 'Senior Vice President of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheri L. Pearce', 'age': 55, 'title': 'Senior VP of Accounting & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron S. G. Merrick', 'age': 61, 'title': 'Chief Administrative Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Woodward', 'age': 64, 'title': 'Senior Vice President of Business Development', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. Kevin Ellis', 'title': 'Regional Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§9
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.9
+dividendYield§0.0723
+exDividendDate§1698105600
+payoutRatio§1.2329
+fiveYearAvgDividendYield§12.77
+beta§2.137
+priceToSalesTrailing12Months§5.460125
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.96
+pegRatio§1.49
+lastDividendValue§0.225
+lastDividendDate§1698105600
+exchange§NYQ
+quoteType§EQUITY
+shortName§Antero Midstream Corporation
+longName§Antero Midstream Corporation
+firstTradeDateEpochUtc§1493904600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§25ec916d-56b8-312e-969d-bf2e4e4b51d4
+messageBoardId§finmb_276417619
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§14.0
+targetLowPrice§12.0
+targetMeanPrice§13.21
+targetMedianPrice§13.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§7
+quickRatio§0.856
+earningsGrowth§0.176
+grossMargins§0.80739
+ebitdaMargins§0.74231005
+trailingPegRatio§None

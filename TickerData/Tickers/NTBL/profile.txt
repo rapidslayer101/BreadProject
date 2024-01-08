@@ -1,0 +1,39 @@
+# reload+after+2024-01-21 04:46:17.562818
+address1§320 Hatch Drive
+city§Foster City
+state§CA
+zip§94404
+country§United States
+phone§415-851-2410
+website§https://www.notablelabs.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Notable Labs, Ltd., a clinical-stage platform therapeutics company, engages in developing predictive precision medicines for patients with cancer. The company, through its proprietary Predictive Precision Medicines Platform (PPMP), bio-simulates a cancer treatment and predicts, whether or not the patient is likely to respond to that specific therapeutic. Its PPMP is designed to identify and select clinically responsive patients prior to their treatment and thus fast-track clinical development in this patient population. The company's pipeline includes Volasertib, a potent Polo-like kinase 1 (PLK-1) inhibitor for acute myeloid leukemia (AML), pediatric leukemia, and myelodysplastic syndromes indications; and Fosciclopirox, a pro-drug of ciclopirox for AML. Notable Labs, Ltd. is headquartered in Foster City, California.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Matthew De Silva', 'title': 'Founder & Executive Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Thomas A. Bock M.B.A., M.D.', 'title': 'CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Joseph P. Wagner Ph.D.', 'title': 'Chief Scientific Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§103.86138
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.6
+exchange§NCM
+quoteType§EQUITY
+shortName§Notable Labs, Ltd.
+longName§Notable Labs, Ltd.
+firstTradeDateEpochUtc§1412170200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§9e25d101-7671-335a-b328-0a6fce687c00
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§9.0
+targetLowPrice§9.0
+targetMeanPrice§9.0
+targetMedianPrice§9.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§0.301
+grossMargins§0.76154
+ebitdaMargins§0.0
+trailingPegRatio§None

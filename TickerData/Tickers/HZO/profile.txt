@@ -1,0 +1,51 @@
+# reload+after+2024-01-23 23:30:19.191679
+address1§2600 McCormick Drive
+address2§Suite 200
+city§Clearwater
+state§FL
+zip§33759
+country§United States
+phone§727 531 1700
+website§https://www.marinemax.com
+industry§Specialty Retail
+sector§Consumer Cyclical
+longBusinessSummary§MarineMax, Inc. operates as a recreational boat and yacht retailer and superyacht services company in the United States. It operates in two segments, Retail Operations and Product Manufacturing. The company sells new and used recreational boats, including pleasure and fishing boats, mega-yachts, yachts, sport cruisers, motor yachts, e-power yachts, pontoon boats, ski boats, jet boats, and other recreational boats. It also offers marine parts and accessories comprising marine electronics; dock and anchoring products that include boat fenders, lines, and anchors; boat covers; trailer parts; water sport accessories, which comprise tubes, lines, wakeboards, and skis; engine parts; oils; lubricants; steering and control systems; corrosion control products and service products; high-performance accessories, including propellers and instruments; and a line of boating accessories, such as life jackets, inflatables, and water sports equipment. In addition, the company provides novelty items, such as shirts, caps, and license plates; marine engines and equipment; maintenance, repair, and slip and storage services; and boat or yacht brokerage services, as well as yacht charters and power catamarans. Further, it offers new or used boat finance services; arranges insurance coverage, including boat property, disability, undercoating, gel sealant, fabric protection, trailer tire and wheel protection, and casualty insurance coverage; and manufactures and sells sport yachts and yachts. Additionally, the company operates MarineMax vacations in Tortola and British Virgin Islands. It also markets and sells its products through offsite locations and print catalog. MarineMax, Inc. was incorporated in 1998 and is based in Clearwater, Florida.
+fullTimeEmployees§3928
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William H. McGill Jr.', 'age': 79, 'title': 'Executive Chairman', 'yearBorn': 1944, 'fiscalYear': 2023, 'totalPay': 1332611, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William Brett McGill', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 2203650, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael H. McLamb', 'age': 58, 'title': 'Executive VP, CFO, Secretary & Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1130482, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles A. Cashman', 'age': 60, 'title': 'Executive VP & Chief Revenue Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 867400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kyle G. Langbehn', 'title': 'Executive VP & President of Retail Operations', 'fiscalYear': 2023, 'totalPay': 1106807, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony E. Cassella Jr.', 'age': 54, 'title': 'Executive VP of Finance & Chief Accounting Officer', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 516393, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Manny A. Alvare III', 'title': 'Vice President of Legal Affairs', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shawn C. Berg', 'title': 'Executive VP & Chief Digital Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beth  Garland', 'title': 'Senior Vice President of People Strategy', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§6
+compensationRisk§3
+shareHolderRightsRisk§5
+overallRisk§4
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.621
+priceToSalesTrailing12Months§0.33592537
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.87
+pegRatio§0.26
+exchange§NYQ
+quoteType§EQUITY
+shortName§MarineMax, Inc.  (FL)
+longName§MarineMax, Inc.
+firstTradeDateEpochUtc§896880600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bc4ff6c1-33b2-34d6-a375-ae71e81a9088
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§45.0
+targetLowPrice§31.0
+targetMeanPrice§39.71
+targetMedianPrice§40.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.345
+earningsGrowth§-0.617
+grossMargins§0.34882
+ebitdaMargins§0.10159001
+trailingPegRatio§None

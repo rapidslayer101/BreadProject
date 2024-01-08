@@ -1,0 +1,26 @@
+# reload+after+2024-01-21 02:30:18.305407
+longBusinessSummary§Under normal circumstances, the fund will invest at least 80% of its total assets in high-yield bonds included in the index. The index is comprised of (a) long positions in USD-denominated high yield corporate bonds ("high yield bonds") and (b) short positions in U.S. Treasury notes or bonds ("Treasury Securities") of, in aggregate, approximate equivalent duration to the high yield bonds.
+maxAge§86400
+priceHint§2
+yield§0.060700003
+totalAssets§121016560
+navPrice§62.5192
+currency§USD
+category§Nontraditional Bond
+ytdReturn§-0.004531
+beta3Year§0.33
+fundFamily§ProShares
+fundInceptionDate§1369094400
+legalType§Exchange Traded Fund
+threeYearAverageReturn§0.0583325
+fiveYearAverageReturn§0.0548665
+exchange§BTS
+quoteType§ETF
+shortName§ProShares High Yield Interest R
+longName§ProShares High Yield—Interest Rate Hedged
+firstTradeDateEpochUtc§1369315800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§24e56429-23ea-33cd-aa75-1a3c656a8619
+gmtOffSetMilliseconds§-18000000
+trailingPegRatio§None

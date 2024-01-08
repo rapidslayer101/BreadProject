@@ -1,0 +1,54 @@
+# reload+after+2024-01-19 23:45:45.343778
+address1§22801 St. Clair Avenue
+city§Cleveland
+state§OH
+zip§44117
+country§United States
+phone§216 481 8100
+website§https://www.lincolnelectric.com
+industry§Tools & Accessories
+sector§Industrials
+longBusinessSummary§Lincoln Electric Holdings, Inc., through its subsidiaries, designs, develops, manufactures, and sells welding, cutting, and brazing products worldwide. The company operates through three segments: Americas Welding, International Welding, and The Harris Products Group. It offers brazing and soldering filler metals, arc welding equipment, plasma and oxyfuel cutting systems, wire feeding systems, fume control equipment, welding accessories, and specialty gas regulators, as well as consumables used in the brazing and soldering alloys market. In addition, it is involved in the retail business in the United States. Further, the company manufactures copper and aluminum headers, distributor assemblies, and manifolds for the heating, ventilation, and air conditioning sector in the United States and Mexico. The company serves general fabrication, energy and process, automotive and transportation, and construction and infrastructure industries, as well as heavy fabrication, ship building, and maintenance and repair markets. It sells its products directly to users of welding products, as well as through industrial distributors, retailers, and agents. The company was founded in 1895 and is headquartered in Cleveland, Ohio.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher L. Mapes', 'age': 61, 'title': 'Executive Chairman', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 4405607, 'exercisedValue': 0, 'unexercisedValue': 23447052}, {'maxAge': 1, 'name': 'Mr. Steven B. Hedlund', 'age': 56, 'title': 'President, CEO & COO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2068887, 'exercisedValue': 495005, 'unexercisedValue': 3218551}, {'maxAge': 1, 'name': 'Mr. Gabriel  Bruno', 'age': 55, 'title': 'Executive VP, CFO & Treasurer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 1634464, 'exercisedValue': 1214181, 'unexercisedValue': 1543301}, {'maxAge': 1, 'name': 'Ms. Jennifer I. Ansberry', 'age': 49, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1247401, 'exercisedValue': 536001, 'unexercisedValue': 996249}, {'maxAge': 1, 'name': 'Ms. Michele R. Kuhrt', 'age': 56, 'title': 'Executive VP & Chief Human Resources Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1399282, 'exercisedValue': 208590, 'unexercisedValue': 1412682}, {'maxAge': 1, 'name': 'Ms. Lisa A. Dietrich', 'age': 50, 'title': 'Executive VP & Chief Information Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amanda H. Butler', 'title': 'Vice President of Investor Relations & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael J. Whitehead', 'age': 49, 'title': 'Senior VP and President of Global Automation, Cutting & Additive Businesses', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Douglas S. Lance', 'age': 54, 'title': 'Senior VP & President of North America \x96 Americas Welding', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey P. Allman', 'age': 52, 'title': 'Senior Vice President of Strategy & Business Development', 'yearBorn': 1971, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§4
+compensationRisk§2
+shareHolderRightsRisk§7
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§2.84
+dividendYield§0.0134000005
+exDividendDate§1703721600
+payoutRatio§0.2998
+fiveYearAvgDividendYield§1.75
+beta§1.182
+priceToSalesTrailing12Months§2.972964
+currency§USD
+dateShortInterest§1702598400
+forwardEps§9.57
+pegRatio§2.43
+exchange§NMS
+quoteType§EQUITY
+shortName§Lincoln Electric Holdings, Inc.
+longName§Lincoln Electric Holdings, Inc.
+firstTradeDateEpochUtc§765725400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6b9497f3-4f18-3eda-890b-75866fcea3d8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§232.0
+targetLowPrice§165.0
+targetMeanPrice§203.0
+targetMedianPrice§206.5
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.157
+earningsGrowth§0.187
+grossMargins§0.34816003
+ebitdaMargins§0.1844
+trailingPegRatio§1.7888

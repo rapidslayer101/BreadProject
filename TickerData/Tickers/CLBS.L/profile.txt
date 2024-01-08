@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 10:35:55.992786
+address1§Windmill House
+address2§91-93 Windmill Road
+city§Sunbury-on-Thames
+zip§TW16 7EF
+country§United Kingdom
+phone§44 19 3289 3333
+website§https://www.celebrus.com
+industry§Software - Application
+industryKey§software-application
+industryDisp§Software - Application
+sector§Technology
+sectorKey§technology
+sectorDisp§Technology
+longBusinessSummary§Celebrus Technologies plc, together with its subsidiaries, provides information technology products and services. It offers Celebrus, a suite of data-driven solutions for data capture, fraud and scams, and data management solutions. The company provides services that are focused on delivering data management solutions using public and private cloud infrastructure; and fraud detection and prevention services through fraud data platform. In addition, it designs and builds performant platforms for critical business, analytics, compliance, risk, marketing, and artificial intelligence applications. The company serves finance and banking, retail, travel, healthcare, and telecom sectors in the United Kingdom, rest of Europe, the United States, and internationally. The company was formerly known as D4t4 Solutions Plc and changed its name to Celebrus Technologies plc in November 2023. Celebrus Technologies plc was incorporated in 1985 and is headquartered in Sunbury-on-Thames, the United Kingdom.
+fullTimeEmployees§151
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Guerino Luigi Bruno III', 'age': 41, 'title': 'CEO & Director', 'yearBorn': 1982, 'fiscalYear': 2023, 'totalPay': 311000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ashoni Kumar Mehta', 'age': 57, 'title': 'CFO & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 195000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark G. Boxall Esq.', 'age': 60, 'title': 'Chief Operating Officer', 'yearBorn': 1963, 'fiscalYear': 2023, 'totalPay': 188000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ant  Phillips', 'title': 'Chief Technology Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tiffany  Staples', 'title': 'Vice President of Marketing', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mark  Krebs', 'title': 'Vice President of Global Sales', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vicky  Baker', 'title': 'Head of HR, People & Culture', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Bennett', 'title': 'Chief Security Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Henry Thorne', 'title': 'Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.03
+dividendYield§0.0143
+exDividendDate§1701907200
+payoutRatio§0.33009997
+fiveYearAvgDividendYield§1.23
+beta§1.328
+priceToSalesTrailing12Months§3.2468178
+currency§GBp
+forwardEps§12.4
+pegRatio§2.36
+lastDividendValue§0.0092
+lastDividendDate§1701907200
+exchange§LSE
+quoteType§EQUITY
+shortName§CELEBRUS TECHNOLOGIES PLC ORD 2
+longName§Celebrus Technologies plc
+firstTradeDateEpochUtc§1699430400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§86b0b8ad-5115-3206-9e6c-ab7543b28470
+messageBoardId§finmb_882613
+targetHighPrice§450.0
+targetLowPrice§330.0
+targetMeanPrice§390.0
+targetMedianPrice§390.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.939
+grossMargins§0.55697
+ebitdaMargins§0.13135
+trailingPegRatio§None

@@ -1,0 +1,43 @@
+# reload+after+2024-01-20 16:47:04.045903
+address1§2061 Avy Avenue
+address2§2nd Floor
+city§Menlo Park
+state§CA
+zip§94025
+country§United States
+phone§650-645-9751
+website§https://investors.runwaygrowth.com
+industry§Credit Services
+sector§Financial Services
+longBusinessSummary§Runway Growth Finance Corp. is a business development company specializing investments in senior-secured loans to late stage and growth companies. It prefers to make investments in companies engaged in the technology, life sciences, healthcare and information services, business services and select consumer services and products sectors. It prefers to investments in companies engaged in electronic equipment and instruments, systems software, hardware, storage and peripherals and specialized consumer services, application software, healthcare technology, internet software and services, data processing and outsourced services, internet retail, human resources and employment services, biotechnology, healthcare equipment and education services. It invests in senior secured loans between $10 million and $75 million.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. David R. Spreng', 'age': 59, 'title': 'Founder, Chairman, Pres, CIO & CEO (Leave of Absence)', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 0, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Greifeld', 'title': 'Investment Adviser & Acting CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas B. Raterman', 'title': 'CFO, COO, Sec., Treasurer & Acting Pres', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Colleen  Corwell', 'title': 'Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Goldrich', 'title': 'Managing Director of Technology', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ted  Cavan', 'title': 'Managing Director of Technology', 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.8
+dividendYield§0.15100001
+exDividendDate§1691971200
+payoutRatio§1.0
+currency§USD
+dateShortInterest§1695945600
+forwardEps§1.95
+pegRatio§0.72
+exchange§NMS
+quoteType§EQUITY
+shortName§Runway Growth Finance Corp.
+longName§Runway Growth Finance Corp.
+firstTradeDateEpochUtc§1634823000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0d871355-4074-384b-aaa4-f8bae9f70fa6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§15.0
+targetLowPrice§13.0
+targetMeanPrice§13.78
+targetMedianPrice§13.5
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§9
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

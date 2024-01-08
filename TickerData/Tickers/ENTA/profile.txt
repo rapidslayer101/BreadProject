@@ -1,0 +1,49 @@
+# reload+after+2024-01-23 08:44:34.418924
+address1§500 Arsenal Street
+city§Watertown
+state§MA
+zip§02472
+country§United States
+phone§617 607 0800
+fax§617 607 0530
+website§https://www.enanta.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Enanta Pharmaceuticals, Inc., a biotechnology company, discovers and develops small molecule drugs for the treatment of viral infections and liver diseases. Its product pipeline comprises EDP-514, which is in phase 1b clinical development for the treatment of chronic infection with hepatitis B virus or HBV; EDP-938 and EDP-323, which is in phase II clinical development for the treatment of respiratory syncytial virus; EDP-235, which is in phase II clinical development for the treatment of human coronaviruses; and Glecaprevir, which is in the market for the treatment of chronic infection with hepatitis C virus or HCV. The company has a collaborative development and license agreement with Abbott Laboratories to develop, manufacture, and commercialize HCV NS3 and NS3/4A protease inhibitor compounds, including paritaprevir and glecaprevir. Enanta Pharmaceuticals, Inc. was incorporated in 1995 and is headquartered in Watertown, Massachusetts.
+fullTimeEmployees§145
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Jay R. Luly Ph.D.', 'age': 67, 'title': 'President, CEO & Director', 'yearBorn': 1956, 'fiscalYear': 2022, 'totalPay': 1227506, 'exercisedValue': 460721, 'unexercisedValue': 10717033}, {'maxAge': 1, 'name': 'Mr. Paul J. Mellett Jr.', 'age': 68, 'title': 'Senior VP of Finance & Administration and CFO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 650936, 'exercisedValue': 100863, 'unexercisedValue': 2133748}, {'maxAge': 1, 'name': 'Dr. Yat Sun Or Ph.D.', 'age': 71, 'title': 'Senior VP of Research & Development and Chief Scientific Officer', 'yearBorn': 1952, 'fiscalYear': 2022, 'totalPay': 720163, 'exercisedValue': 0, 'unexercisedValue': 3573237}, {'maxAge': 1, 'name': 'Mr. Nathaniel S. Gardiner J.D.', 'age': 69, 'title': 'Senior VP, General Counsel & Secretary', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 657949, 'exercisedValue': 0, 'unexercisedValue': 2323126}, {'maxAge': 1, 'name': 'Dr. Scott T. Rottinghaus M.D.', 'age': 49, 'title': 'Senior VP & Chief Medical Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 616728, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Viera', 'title': 'Senior Director of Investor Relations & Corporate Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tara Lynn Kieffer Ph.D.', 'age': 45, 'title': 'Senior Vice President of New Product Strategy & Development', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 496852, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan  Luu', 'age': 48, 'title': 'Senior Vice President of Business Development', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 535805, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§4
+shareHolderRightsRisk§8
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.471
+priceToSalesTrailing12Months§3.2198281
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-4.71
+exchange§NMS
+quoteType§EQUITY
+shortName§Enanta Pharmaceuticals, Inc.
+longName§Enanta Pharmaceuticals, Inc.
+firstTradeDateEpochUtc§1363872600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0716474a-69e6-3365-b278-ac9fe128aaa5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§40.0
+targetLowPrice§12.0
+targetMeanPrice§23.88
+targetMedianPrice§22.0
+recommendationMean§2.5
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§6.522
+grossMargins§1.0
+ebitdaMargins§-1.70239
+trailingPegRatio§None

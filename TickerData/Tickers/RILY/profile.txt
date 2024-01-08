@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 23:46:58.620920
+address1§11100 Santa Monica Blvd.
+address2§Suite 800
+city§Los Angeles
+state§CA
+zip§90025
+country§United States
+phone§310 966 1444
+fax§310 966 1448
+website§https://brileyfin.com
+industry§Financial Conglomerates
+sector§Financial Services
+longBusinessSummary§B. Riley Financial, Inc., through its subsidiaries, provides financial services to corporate, institutional, and high net worth clients in North America, Australia, and Europe. The company operates through six segments: Capital Markets, Wealth Management, Financial Consulting, Auction and Liquidation, Communications, and Consumer. The Capital Markets segments offers investment banking, equity research, institutional sales and trading, securities lending, fund and asset management, direct lending, venture capital, proprietary trading, and investment services; merger and acquisition, restructuring advisory, and recapitalization services; public and private equity offerings; and debt financing solutions. This segment also trades in equity securities. The Wealth Management segment provides wealth management and tax services. The Financial Consulting segment offers bankruptcy restructuring and turnaround management, forensic accounting and litigation support, valuation and appraisal, and real estate services. The Auction and Liquidation Segment provides auction and liquidation services. The Communications segment offers dial-up, mobile broadband and digital subscriber line services under the NetZero and Juno brands; cloud communication services; VoIP cloud-based technology and communication devices and subscription services through magicJack; and mobile phone voice, text, and data services and devices through Marconi Wireless. The Consumer segment provides licensing of trademarks; and sells laptop and computer accessories. The company was formerly known as Great American Group, Inc. and changed its name to B. Riley Financial, Inc. in November 2014. B. Riley Financial, Inc. was founded in 1973 and is headquartered in Los Angeles, California.
+fullTimeEmployees§2210
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Bryant Richard Riley', 'age': 56, 'title': 'Co-Founder, Chairman & Co-CEO', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1248758, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas J. Kelleher', 'age': 56, 'title': 'Co-Founder, Co-CEO & Director', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 4048758, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenneth M. Young', 'age': 59, 'title': 'President', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 2468749, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Phillip  Ahn CFA', 'age': 53, 'title': 'CFO & COO', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1389968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alan Neil Forman J.D.', 'age': 62, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 1284475, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew Thomas Moore', 'age': 46, 'title': 'Chief Executive Officer of B. Riley Securities, Inc.,', 'yearBorn': 1977, 'fiscalYear': 2022, 'totalPay': 1939174, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Shribman', 'age': 38, 'title': 'Chief Investment Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard E. Weitzman', 'age': 61, 'title': 'Chief Accounting Officer & Senior VP', 'yearBorn': 1962, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Perry M. Mandarino', 'title': 'Head of Corporate Finance & Senior MD', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy  Wood', 'title': 'Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§7
+compensationRisk§8
+shareHolderRightsRisk§2
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.0
+dividendYield§0.17969999
+exDividendDate§1700179200
+payoutRatio§2.4691
+fiveYearAvgDividendYield§5.38
+beta§1.588
+priceToSalesTrailing12Months§0.4973007
+currency§USD
+dateShortInterest§1702598400
+exchange§NGM
+quoteType§EQUITY
+shortName§B. Riley Financial, Inc.
+longName§B. Riley Financial, Inc.
+firstTradeDateEpochUtc§1187011800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§89e82491-191d-3eb3-8dcb-f44949b682ed
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.607
+grossMargins§0.07197
+ebitdaMargins§0.0
+trailingPegRatio§None

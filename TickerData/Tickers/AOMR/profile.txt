@@ -1,0 +1,58 @@
+# reload+after+2024-01-21 09:26:38.984708
+address1§3344 Peachtree Road Northeast
+address2§Suite 1725
+city§Atlanta
+state§GA
+zip§30326
+country§United States
+phone§404 953 4900
+website§https://www.angeloakreit.com
+industry§REIT - Mortgage
+industryKey§reit-mortgage
+industryDisp§REIT - Mortgage
+sector§Real Estate
+sectorKey§real-estate
+sectorDisp§Real Estate
+longBusinessSummary§Angel Oak Mortgage REIT, Inc., a real estate finance company, focuses on acquiring and investing in first lien non- qualified mortgage loans and other mortgage-related assets in the United States mortgage market. It offers investment securities; residential mortgage loans; and commercial mortgage loans. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. Angel Oak Mortgage REIT, Inc. was incorporated in 2018 and is headquartered in Atlanta, Georgia.
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Sreeniwas Vikram Prabhu', 'age': 49, 'title': 'President & CEO', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon Robert Filson', 'age': 42, 'title': 'Treasurer & CFO', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 640000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Patrick  Journy', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'KC  Kelleher', 'title': 'Head of Corporate Finance & Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Namit  Sinha', 'title': 'Chief Investment Officer of Private Strategies', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David William Gordon', 'title': 'Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§6
+shareHolderRightsRisk§7
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.28
+dividendYield§0.123
+exDividendDate§1700524800
+payoutRatio§0.4752
+beta§1.393
+priceToSalesTrailing12Months§15.277689
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.15
+lastDividendValue§0.32
+lastDividendDate§1700524800
+exchange§NYQ
+quoteType§EQUITY
+shortName§Angel Oak Mortgage REIT, Inc.
+longName§Angel Oak Mortgage REIT, Inc.
+firstTradeDateEpochUtc§1623936600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§379006af-c400-3372-bb12-aad9dff03055
+messageBoardId§finmb_600542140
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§12.0
+targetLowPrice§9.0
+targetMeanPrice§10.33
+targetMedianPrice§10.0
+recommendationMean§2.7
+recommendationKey§hold
+numberOfAnalystOpinions§3
+quickRatio§1.704
+grossMargins§0.31133
+ebitdaMargins§0.0
+trailingPegRatio§None

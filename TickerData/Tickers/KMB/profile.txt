@@ -1,0 +1,54 @@
+# reload+after+2024-01-21 00:30:56.030588
+address1§PO Box 619100
+city§Dallas
+state§TX
+zip§75261-9100
+country§United States
+phone§972 281 1200
+website§https://www.kimberly-clark.com
+industry§Household & Personal Products
+sector§Consumer Defensive
+longBusinessSummary§Kimberly-Clark Corporation, together with its subsidiaries, manufactures and markets personal care and consumer tissue products worldwide. It operates through three segments: Personal Care, Consumer Tissue, and K-C Professional. The company's Personal Care segment offers disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, and other related products under the Huggies, Pull-Ups, Little Swimmers, GoodNites, DryNites, Sweety, Kotex, U by Kotex, Intimus, Thinx, Poise, Depend, Plenitud, Softex, and other brand names. Its Consumer Tissue segment provides facial and bathroom tissues, paper towels, napkins, and related products under the Kleenex, Scott, Cottonelle, Viva, Andrex, Scottex, Neve, and other brand names. The company's K-C Professional segment offers wipers, tissues, towels, apparel, soaps, and sanitizers under the Kleenex, Scott, WypAll, Kimtech, and KleenGuard brands. In addition, it sells household use products directly to supermarkets, mass merchandisers, drugstores, warehouse clubs, variety and department stores, and other retail outlets, as well as through other distributors and e-commerce; and away-from-home use products directly to manufacturing, lodging, office building, food service, and public facilities, as well as through e-commerce. The company was founded in 1872 and is headquartered in Dallas, Texas.
+fullTimeEmployees§44000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Michael D. Hsu', 'age': 59, 'title': 'Chairman & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3912840, 'exercisedValue': 1716094, 'unexercisedValue': 7856650}, {'maxAge': 1, 'name': 'Mr. Nelson  Urdaneta', 'age': 51, 'title': 'Senior VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1522672, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zackery A. Hicks', 'age': 59, 'title': 'Chief Digital & Technology Officer', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 1963983, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey P. Melucci', 'age': 52, 'title': 'Chief Business Development & Legal Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1605942, 'exercisedValue': 262598, 'unexercisedValue': 155605}, {'maxAge': 1, 'name': 'Mr. Russell C. Torres', 'age': 51, 'title': 'President of North America Consumer Business', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1518415, 'exercisedValue': 0, 'unexercisedValue': 45870}, {'maxAge': 1, 'name': 'Brian  Ezzell', 'title': 'VP of Finance & Interim Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandra R. A. Karrmann', 'age': 57, 'title': 'Senior VP & Chief Human Resources Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 968829, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tristram  Wilkinson', 'age': 54, 'title': 'President of Asia Pacific Consumer Business', 'yearBorn': 1969, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison  Lewis', 'age': 55, 'title': 'Chief Growth Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gonzalo  Uribe', 'age': 51, 'title': 'President of Latin American Consumer Business', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 938358, 'exercisedValue': 0, 'unexercisedValue': 219061}]
+auditRisk§1
+boardRisk§6
+compensationRisk§8
+shareHolderRightsRisk§4
+overallRisk§3
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§4.72
+dividendYield§0.038599998
+exDividendDate§1701907200
+payoutRatio§0.90379995
+fiveYearAvgDividendYield§3.31
+beta§0.4
+priceToSalesTrailing12Months§2.0226824
+currency§USD
+dateShortInterest§1702598400
+forwardEps§7.07
+pegRatio§2.0
+exchange§NYQ
+quoteType§EQUITY
+shortName§Kimberly-Clark Corporation
+longName§Kimberly-Clark Corporation
+firstTradeDateEpochUtc§322151400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§319f9bda-f839-37ec-9524-26fad07b17fb
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§153.0
+targetLowPrice§111.0
+targetMeanPrice§129.65
+targetMedianPrice§127.0
+recommendationMean§3.1
+recommendationKey§hold
+numberOfAnalystOpinions§17
+quickRatio§0.456
+earningsGrowth§0.254
+grossMargins§0.3389
+ebitdaMargins§0.18129998
+trailingPegRatio§2.089

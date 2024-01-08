@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 13:44:56.324899
+address1§8725 Pendery Place
+address2§Suite 201
+city§Bradenton
+state§FL
+zip§34201
+country§United States
+phone§941 907 9800
+website§https://www.firstwatch.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§First Watch Restaurant Group, Inc. operates and franchises restaurants under the First Watch trade name in the United States. The company was formerly known as AI Fresh Super Holdco, Inc. and changed its name to First Watch Restaurant Group, Inc. in December 2019. The company was founded in 1983 and is headquartered in Bradenton, Florida.
+fullTimeEmployees§12000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christopher A. Tomasso', 'age': 53, 'title': 'CEO, President & Director', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 1219297, 'exercisedValue': 0, 'unexercisedValue': 4375325}, {'maxAge': 1, 'name': 'Mr. Henry Melville Hope III', 'age': 61, 'title': 'CFO & Treasurer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 685245, 'exercisedValue': 0, 'unexercisedValue': 650821}, {'maxAge': 1, 'name': 'Mr. Eric Richard Hartman', 'age': 50, 'title': 'Executive VP & Chief Development Officer of First Watch Restaurants, Inc', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 671009, 'exercisedValue': 0, 'unexercisedValue': 1041742}, {'maxAge': 1, 'name': 'Mr. John Daniel Jones', 'age': 44, 'title': 'Chief Operations Officer', 'yearBorn': 1979, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jay Anthony Wolszczak', 'age': 53, 'title': 'Chief Legal Officer, General Counsel & Secretary', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Laura Anne Sorensen', 'age': 49, 'title': 'Chief People Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 549451, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shane  Schaibly', 'age': 40, 'title': 'Senior Vice President of Culinary Strategy of First Watch Restaurants Inc', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lilah  Rippett', 'age': 64, 'title': 'Senior Vice President of Supply Chain of First Watch Restaurants, Inc', 'yearBorn': 1959, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rob  Conti', 'age': 53, 'title': 'Senior Vice President of Information Technology of First Watch Restaurants Inc', 'yearBorn': 1970, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matt  Eisenacher', 'age': 43, 'title': 'Chief Brand Officer', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§10
+boardRisk§10
+compensationRisk§7
+shareHolderRightsRisk§6
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.062
+priceToSalesTrailing12Months§1.3397956
+currency§USD
+dateShortInterest§1702598400
+forwardEps§0.47
+pegRatio§1.18
+exchange§NMS
+quoteType§EQUITY
+shortName§First Watch Restaurant Group, I
+longName§First Watch Restaurant Group, Inc.
+firstTradeDateEpochUtc§1633095000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§ba8a19d0-8cbd-3f78-b174-94909d8d20a5
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§28.0
+targetLowPrice§18.0
+targetMeanPrice§22.78
+targetMedianPrice§23.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.408
+earningsGrowth§117.42
+grossMargins§0.21492
+ebitdaMargins§0.09353
+trailingPegRatio§None

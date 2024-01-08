@@ -1,0 +1,41 @@
+# reload+after+2024-01-21 18:47:36.447151
+address1§104 Cooper Court
+city§Los Gatos
+state§CA
+zip§95032
+country§United States
+phone§408 649 5760
+website§https://www.tenonmed.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Tenon Medical, Inc., a medical device company, engages in the development of surgical implant systems to treat severe lower back pain in the United States and Puerto Rico. The company offers CATAMARAN SI-Joint Fusion System to fuse sacroiliac joints (SI-Joints) to treat SI-Joint dysfunction that often causes severe lower back pain; and features fixation device that passes through the axial and sagittal planes of the ilium and sacrum, as well as stabilizes and transfixes the SI joints. Tenon Medical, Inc. was incorporated in 2012 and is headquartered in Los Gatos, California.
+fullTimeEmployees§22
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Richard M. Ferrari', 'age': 69, 'title': 'Founder & Chairman', 'yearBorn': 1954, 'fiscalYear': 2022, 'totalPay': 620000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Foster', 'age': 55, 'title': 'CEO, President & Director', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 370000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Ginn', 'age': 57, 'title': 'Founder, CTO & Director', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 423125, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steven M. Van Dick', 'age': 68, 'title': 'Executive VP of Finance & Administration and CFO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 423125, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+priceToSalesTrailing12Months§1.6494285
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-3.6
+exchange§NCM
+quoteType§EQUITY
+shortName§Tenon Medical, Inc.
+longName§Tenon Medical, Inc.
+firstTradeDateEpochUtc§1651066200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§0c1acbc1-8c15-391c-b914-dd7230a9ffa8
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§6.0
+targetLowPrice§6.0
+targetMeanPrice§6.0
+targetMedianPrice§6.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§2
+quickRatio§1.343
+grossMargins§0.19816
+ebitdaMargins§0.0
+trailingPegRatio§None

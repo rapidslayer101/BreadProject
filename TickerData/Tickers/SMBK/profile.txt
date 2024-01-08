@@ -1,0 +1,53 @@
+# reload+after+2024-01-21 05:33:15.604462
+address1§5401 Kingston Pike
+address2§Suite 600
+city§Knoxville
+state§TN
+zip§37919
+country§United States
+phone§865 437 5700
+website§https://www.smartbank.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§SmartFinancial, Inc. operates as the bank holding company for SmartBank that provides various financial services to individuals and corporate customers in Tennessee, Alabama, and Florida. It operates through Commercial Real Estate, Consumer Real Estate, Construction and Land Development, Commercial and Industrial, Leases, and Consumer and Other segments. The company offers noninterest-bearing and interest-bearing checking, interest-bearing demand, savings, money market, time deposit, individual retirement accounts, as well as certificates of deposit. It also provides commercial and residential real estate, consumer real estate, and construction and land development loans; commercial and financial loans; mortgage loans; and direct consumer installment, educational, agriculture, and other revolving credit loans; equipment financing leases to small and mid-size companies; and overdraft facilities. In addition, the company offers wealth management, insurance, mortgage origination, and internet and mobile banking services. SmartFinancial, Inc. is headquartered in Knoxville, Tennessee.
+fullTimeEmployees§583
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. William Young Carroll Jr.', 'age': 54, 'title': 'President, CEO & Director', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 961270, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ronald J. Gorczynski', 'age': 57, 'title': 'Executive VP & CFO', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 479835, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rhett D. Jordan', 'age': 51, 'title': 'Executive VP & Chief Credit Officer of SmartBank', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 463930, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Beverly  Atchley', 'title': 'Senior VP & Senior Director of Operations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cynthia A. Cain', 'age': 50, 'title': 'Executive VP & Chief Accounting Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nathan  Strall', 'title': 'Head of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelley L. Fowler', 'title': 'Senior VP and Director of Marketing & Public Relations - SmartBank', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca C. Boyd', 'age': 42, 'title': 'Executive VP & Chief People Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gary Wayne Petty Jr.', 'age': 48, 'title': 'Executive VP & Chief Risk Officer', 'yearBorn': 1975, 'fiscalYear': 2022, 'totalPay': 140500, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Travis  Lytle', 'title': 'Senior VP and Director of Community Development & Community Reinvestment Act Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§9
+compensationRisk§5
+shareHolderRightsRisk§3
+overallRisk§6
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.32
+dividendYield§0.0135
+exDividendDate§1699574400
+payoutRatio§0.1476
+fiveYearAvgDividendYield§2.5
+beta§0.72
+priceToSalesTrailing12Months§2.5775354
+currency§USD
+dateShortInterest§1702598400
+forwardEps§1.79
+exchange§NYQ
+quoteType§EQUITY
+shortName§SmartFinancial, Inc.
+longName§SmartFinancial, Inc.
+firstTradeDateEpochUtc§1065533400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§49839349-6672-3f00-b099-e68e42e28230
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§27.5
+targetLowPrice§22.0
+targetMeanPrice§24.14
+targetMedianPrice§23.0
+recommendationMean§2.4
+recommendationKey§buy
+numberOfAnalystOpinions§7
+earningsGrowth§-0.824
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,49 @@
+# reload+after+2024-01-19 21:45:43.192815
+address1§4637 NW 18th Avenue
+city§Camas
+state§WA
+zip§98607
+country§United States
+phone§360 566 4460
+website§https://www.nlight.net
+industry§Semiconductors
+sector§Technology
+longBusinessSummary§nLIGHT, Inc. designs, manufactures, and sells semiconductor and fiber lasers for industrial, microfabrication, and aerospace and defense applications. It operates in two segments, Laser Products and Advanced Development. The company also provides fiber amplifiers, and beam combination and control systems for use in high-energy laser systems in directed energy applications. It sells its products through direct sales force in the United States, China, South Korea, and European countries, as well as through various independent sales representatives and distributors in Asia, Europe, and South America. The company was formerly known as nLight Photonics Corporation and changed its name to nLIGHT, Inc. in January 2016. nLIGHT, Inc. was incorporated in 2000 and is headquartered in Camas, Washington.
+fullTimeEmployees§1000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Scott H. Keeney', 'age': 58, 'title': 'Co-Founder, Chairman, President & CEO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 519104, 'exercisedValue': 3961427, 'unexercisedValue': 6919100}, {'maxAge': 1, 'name': 'Mr. Joseph  Corso', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 314484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Farmer', 'title': 'Co-Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Schechter', 'title': 'Chief Operating Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Nias', 'age': 51, 'title': 'VP, Corporate Controller & Chief Accounting Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Martinsen', 'age': 61, 'title': 'Chief Technology Officer', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 317568, 'exercisedValue': 837763, 'unexercisedValue': 7119833}, {'maxAge': 1, 'name': 'Julie  Dimmick', 'title': 'VP, General Counsel & Corporate Secretary', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerry  Hill', 'title': 'VP of Human Resources & Treasury', 'fiscalYear': 2022, 'totalPay': 230353, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bill  Willson', 'title': 'Managing Director of Fiber Division', 'fiscalYear': 2022, 'totalPay': 101520, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph V. DeBartolo', 'title': 'VP & General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§8
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§8
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§2.435
+priceToSalesTrailing12Months§2.763662
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.25
+pegRatio§-0.65
+exchange§NMS
+quoteType§EQUITY
+shortName§nLIGHT, Inc.
+longName§nLIGHT, Inc.
+firstTradeDateEpochUtc§1524749400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§aa39eaad-173b-3939-9329-b6d279653284
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§20.0
+targetLowPrice§9.0
+targetMeanPrice§15.4
+targetMedianPrice§16.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§5
+quickRatio§4.638
+grossMargins§0.19604
+ebitdaMargins§-0.16750999
+trailingPegRatio§None

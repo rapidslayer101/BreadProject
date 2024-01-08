@@ -1,0 +1,53 @@
+# reload+after+2024-01-22 12:44:41.634444
+address1§401 Charmany Drive
+city§Madison
+state§WI
+zip§53719
+country§United States
+phone§608 238 8008
+website§https://www.firstbusiness.com
+industry§Banks—Regional
+sector§Financial Services
+longBusinessSummary§First Business Financial Services, Inc. operates as the bank holding company for First Business Bank that provides commercial banking products and services for small and medium-sized businesses, business owners, executives, professionals, and high net worth individuals. It offers deposit products, such as non-interest-bearing transaction accounts, interest-bearing transaction accounts, money market accounts, time deposits, and certificates of deposit. The company also provides loan products, including commercial real estate loans, commercial and industrial loans, small business administration loans, and direct financing leases, as well as consumer and other loans comprising home equity, first and second mortgage, and other personal loans for professional and executive clients. It offers commercial lending, asset-based lending, equipment financing, accounts receivable financing, vendor financing, floorplan financing, treasury management services, and company retirement plans; trust and estate administration, financial planning, investment management, and private banking services; and investment portfolio administrative, asset-liability management, and asset-liability management process validation services for other financial institutions. The company was founded in 1909 and is headquartered in Madison, Wisconsin.
+fullTimeEmployees§348
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Corey A. Chambas', 'age': 60, 'title': 'CEO & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 1099688, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David R. Seiler', 'age': 58, 'title': 'President & COO', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 633454, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark J. Meloy', 'age': 61, 'title': 'Executive Vice President', 'yearBorn': 1962, 'fiscalYear': 2022, 'totalPay': 444322, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley A. Quade', 'age': 56, 'title': 'Chief Credit Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 449321, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian D. Spielmann', 'age': 40, 'title': 'CFO & Treasurer', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin D. Crampton CPA', 'age': 38, 'title': 'Chief Accounting Officer', 'yearBorn': 1985, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel S. Ovokaitys', 'age': 49, 'title': 'Chief Information Officer', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Theresa M. Wiese', 'title': 'Managing Director of Compliance & Risk Management', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodie  Johnson', 'title': 'Senior Director of Marketing & Communications', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jodi A. Chandler', 'age': 58, 'title': 'Chief Human Resources Officer', 'yearBorn': 1965, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§2
+compensationRisk§1
+shareHolderRightsRisk§3
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.91
+dividendYield§0.0238
+exDividendDate§1698969600
+payoutRatio§0.2014
+fiveYearAvgDividendYield§2.75
+beta§0.801
+priceToSalesTrailing12Months§2.346274
+currency§USD
+dateShortInterest§1702598400
+forwardEps§4.69
+pegRatio§1.12
+exchange§NMS
+quoteType§EQUITY
+shortName§First Business Financial Servic
+longName§First Business Financial Services, Inc.
+firstTradeDateEpochUtc§1131546600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§3cde97cb-cc7b-355e-b977-7e28f2c58ca6
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§44.0
+targetLowPrice§40.0
+targetMeanPrice§41.0
+targetMedianPrice§40.0
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+earningsGrowth§-0.064
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

@@ -1,0 +1,48 @@
+# reload+after+2024-01-23 15:37:58.786554
+address1§2 Eaton Gate
+city§London
+zip§SW1W 9BJ
+country§United Kingdom
+phone§44 2030 430 280
+fax§44 2030 430 281
+website§https://www.gemdiamonds.com
+industry§Other Precious Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Gem Diamonds Limited, together with its subsidiaries, operates diamond mines. The company's flagship project is the Leteng mine located in the located in the Maluti Mountains of Lesotho. It is also involved in the production, manufacture, wholesale, retail, and marketing rough and polished diamonds. In addition, the company provides technical, financial, administrative, and management consulting services. It operates in Lesotho, Belgium, British Virgin Islands, South Africa, the United Kingdom, and Cyprus. Gem Diamonds Limited was incorporated in 2005 and is headquartered in London, the United Kingdom.
+fullTimeEmployees§362
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Clifford Thomas Elphick BCom, BCompt Hons', 'age': 62, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 819858, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Michael BCom Hons, CA(SA)', 'age': 52, 'title': 'CFO & Executive Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 545921, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brandon  de Bruin', 'age': 51, 'title': 'Chief Operating Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Minelle  Zech', 'age': 48, 'title': 'Group Human Resources Manager', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kiki  Constantopoulos', 'age': 43, 'title': 'Group Financial Controller', 'yearBorn': 1980, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jaco  Houman', 'age': 48, 'title': 'Senior Manager of Technical & Projects', 'yearBorn': 1975, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gavin Anthony Beevers BSc Hons', 'age': 73, 'title': 'Technical Advisor', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 55000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§2
+boardRisk§8
+compensationRisk§9
+shareHolderRightsRisk§1
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§1652918400
+payoutRatio§0.0
+beta§1.301
+priceToSalesTrailing12Months§0.11531509
+currency§GBp
+forwardEps§0.0
+pegRatio§-0.18
+exchange§LSE
+quoteType§EQUITY
+shortName§GEM DIAMONDS LIMITED ORD USD0.0
+longName§Gem Diamonds Limited
+firstTradeDateEpochUtc§1171440000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§11312781-0031-3da8-9ecf-6349f62fb601
+targetHighPrice§0.3
+targetLowPrice§0.2
+targetMeanPrice§0.25
+targetMedianPrice§0.25
+recommendationMean§1.5
+recommendationKey§strong_buy
+numberOfAnalystOpinions§2
+quickRatio§0.59
+grossMargins§0.20558001
+ebitdaMargins§0.16229
+trailingPegRatio§None

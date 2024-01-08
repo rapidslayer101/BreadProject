@@ -1,0 +1,51 @@
+# reload+after+2024-01-22 19:43:58.744591
+address1§1310 Point Street
+city§Baltimore
+state§MD
+zip§21231-3380
+country§United States
+phone§833 883 0162
+website§https://constellationenergy.com
+industry§Utilities—Renewable
+sector§Utilities
+longBusinessSummary§Constellation Energy Corporation generates and sells electricity in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It sells natural gas, and other energy-related products and services. The company has approximately 32,355 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities; municipalities; cooperatives; and commercial, industrial, governmental, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland.
+fullTimeEmployees§13370
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Joseph  Dominguez', 'age': 59, 'title': 'President, CEO & Director', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 3354059, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel L. Eggers C.F.A.', 'age': 47, 'title': 'Executive VP & CFO', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1524913, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael R. Koehler', 'age': 56, 'title': 'Executive VP & Chief Administration Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 2129471, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryan Craig Hanson', 'age': 57, 'title': 'Executive VP & Chief Generation Officer', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1912187, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  McHugh', 'age': 51, 'title': 'Executive VP & Chief Commercial Officer', 'yearBorn': 1972, 'fiscalYear': 2022, 'totalPay': 1464057, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew N. Bauer', 'age': 46, 'title': 'Senior VP & Controller', 'yearBorn': 1977, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David O. Dardis', 'age': 50, 'title': 'Executive VP & General Counsel', 'yearBorn': 1973, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Judy  Rader', 'title': 'Senior VP of Corporate Affairs & Chief Communications Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susie  Kutansky', 'title': 'Senior VP & Chief Human Resources Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Susan R. Landahl', 'age': 62, 'title': 'Senior Vice President', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§4
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§9
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§1.13
+dividendYield§0.0097
+exDividendDate§1700092800
+payoutRatio§0.1894
+priceToSalesTrailing12Months§1.4033251
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.56
+pegRatio§0.68
+exchange§NMS
+quoteType§EQUITY
+shortName§Constellation Energy Corporatio
+longName§Constellation Energy Corporation
+firstTradeDateEpochUtc§1642602600
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§94024140-042e-3512-9082-146cb5dfa616
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§151.0
+targetLowPrice§51.0
+targetMeanPrice§121.92
+targetMedianPrice§126.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§0.902
+grossMargins§0.122889996
+ebitdaMargins§0.15661
+trailingPegRatio§None

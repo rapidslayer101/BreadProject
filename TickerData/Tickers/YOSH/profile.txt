@@ -1,0 +1,35 @@
+# reload+after+2024-01-22 19:48:06.024162
+address1§6940 Beach Boulevard
+address2§Suite D-705
+city§Buena Park
+state§CA
+zip§90621
+country§United States
+phone§714 694 2403
+website§https://www.yoshiharuramen.com
+industry§Restaurants
+sector§Consumer Cyclical
+longBusinessSummary§Yoshiharu Global Co. operates Japanese restaurants in California. It offers ramen, sushi rolls, bento boxes, and other Japanese cuisines. The company was founded in 2016 and is based in Buena Park, California.
+fullTimeEmployees§130
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. James  Chae', 'age': 59, 'title': 'Chairman of the Board, President & CEO', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 917000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Soojae Ryan Cho', 'age': 54, 'title': 'CFO, Treasurer & Secretary', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 151060, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+priceToSalesTrailing12Months§0.751182
+currency§USD
+dateShortInterest§1702598400
+exchange§NCM
+quoteType§EQUITY
+shortName§Yoshiharu Global Co.
+longName§Yoshiharu Global Co.
+firstTradeDateEpochUtc§1662730200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§f2a49181-3e46-35c8-851f-5f1736c64cec
+gmtOffSetMilliseconds§-18000000
+recommendationKey§none
+quickRatio§1.124
+grossMargins§0.095410004
+ebitdaMargins§-0.45329
+trailingPegRatio§None

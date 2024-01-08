@@ -1,0 +1,30 @@
+# reload+after+2024-01-21 23:39:55.667888
+address1§325 North Saint Paul Street
+address2§Suite 4900
+city§Dallas
+state§TX
+zip§75201-3881
+country§United States
+phone§214 647 9593
+fax§214 853 9369
+website§https://www.nbprivateequitypartners.com
+longBusinessSummary§NB Private Equity Partners Limited specializes in private equity fund of funds and co-investments. In fund of fund investments, it invests in private equity fund managed by other sponsors and funds of funds managed by the investment manager. In co-investments, it makes direct investments alongside other sponsors. Within direct investments the fund specializes in buyout. The fund seeks to invest in industrials, technology, transportation, business services, communications and media, consumer discretionary, energy, financial services and healthcare. It mainly prefers to invest in North America, followed by Europe and Asia. It also prefers to take majority stake in its portfolio companies.
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Joana Rocha Scaff', 'title': 'Managing Director of New York', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Paul  Daggett CFA', 'title': 'Principal of Dallas', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Doug  Manor', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yoshiyuki  Yagisawa', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. José Luis González Pastor', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li  Li', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Maura Reily Kennedy', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael S. Kramer', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kent  Chan C.F.A.', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jacquelyn  Wang', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+beta§0.79
+priceToSalesTrailing12Months§212.2663
+currency§USD
+exchange§LSE
+quoteType§EQUITY
+shortName§NB PRIVATE EQUITY PARTNERS LIMI
+longName§NB Private Equity Partners Limited
+firstTradeDateEpochUtc§1538982000
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§9ffba978-776f-3917-9541-27e49248c2de
+recommendationKey§none
+quickRatio§0.144
+grossMargins§1.0
+ebitdaMargins§0.0
+trailingPegRatio§None

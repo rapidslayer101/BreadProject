@@ -1,0 +1,47 @@
+# reload+after+2024-01-20 19:27:57.908381
+address1§7 Rue du Gabian
+city§Monaco
+zip§98000
+country§Monaco
+phone§377 93 25 09 40
+fax§377 93 25 09 42
+website§https://www.costamare.com
+industry§Marine Shipping
+sector§Industrials
+longBusinessSummary§Costamare Inc. engages in owning and chartering containerships and dry bulk vessels that are chartered to liner companies providing transportation of cargoes worldwide. As of March 21, 2023, it had a fleet of fleet of 71 containerships and 45 dry bulk vessels. The company was founded in 1974 and is based in Monaco.
+fullTimeEmployees§2700
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Konstantinos V. Konstantakopoulos', 'age': 54, 'title': 'Chairman & CEO', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gregory G. Zikos', 'age': 54, 'title': 'CFO & Director', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anastasios  Gabrielides', 'age': 58, 'title': 'General Counsel & Secretary', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Lund', 'title': 'Chief Commercial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge§86400
+priceHint§2
+dividendRate§0.46
+dividendYield§0.0405
+exDividendDate§1705622400
+payoutRatio§0.126
+fiveYearAvgDividendYield§5.21
+beta§1.394
+priceToSalesTrailing12Months§1.0424463
+currency§USD
+dateShortInterest§1702598400
+forwardEps§2.65
+pegRatio§-0.22
+exchange§NYQ
+quoteType§EQUITY
+shortName§Costamare Inc.
+longName§Costamare Inc.
+firstTradeDateEpochUtc§1288877400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c206a5ac-9790-3bf7-9339-9c1818874451
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§11.0
+targetLowPrice§10.0
+targetMeanPrice§10.33
+targetMedianPrice§10.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§1.238
+earningsGrowth§-0.491
+grossMargins§0.475
+ebitdaMargins§0.41162
+trailingPegRatio§None

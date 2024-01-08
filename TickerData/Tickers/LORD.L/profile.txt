@@ -1,0 +1,43 @@
+# reload+after+2024-01-21 11:39:35.796506
+address1§Radford Industrial Estate
+address2§Unit 1 Goodhall Street
+city§London
+zip§NW10 6UA
+country§United Kingdom
+website§https://www.lordsgrouptradingplc.co.uk
+industry§Industrial Distribution
+sector§Industrials
+longBusinessSummary§Lords Group Trading plc distributes building materials, plumbing, heating, and DIY goods to local tradesmen, developers, small and medium construction companies, and retail customers. The company operates in two divisions, Merchanting; and Plumbing and Heating. It also distributes heating and plumbing products to a network of independent merchants, installers, and general public. In addition, the company sells its products through online channels. Lords Group Trading plc was founded in 1985 and is based in London, the United Kingdom.
+fullTimeEmployees§902
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Shanker Bhupendrabhai Patel', 'age': 52, 'title': 'Group CEO & Director', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 713000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Michael Day', 'age': 39, 'title': 'Group CFO, COO & Director', 'yearBorn': 1984, 'fiscalYear': 2022, 'totalPay': 2469000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jamie  Herd', 'title': 'Managing Director of Merchanting Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.02
+dividendYield§0.0396
+exDividendDate§1694649600
+payoutRatio§0.3759
+beta§1.199
+priceToSalesTrailing12Months§0.18236749
+currency§GBp
+forwardEps§5.81
+exchange§LSE
+quoteType§EQUITY
+shortName§LORDS GROUP TRADING PLC ORD 0.5
+longName§Lords Group Trading plc
+firstTradeDateEpochUtc§1626764400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§f587d06d-b8a3-37a6-8e8b-9f43cd4de7ce
+targetHighPrice§106.0
+targetLowPrice§100.0
+targetMeanPrice§103.67
+targetMedianPrice§105.0
+recommendationMean§1.7
+recommendationKey§buy
+numberOfAnalystOpinions§3
+quickRatio§0.765
+earningsGrowth§-0.017
+grossMargins§0.20249
+ebitdaMargins§0.050359998
+trailingPegRatio§None

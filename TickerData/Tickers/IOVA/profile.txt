@@ -1,0 +1,50 @@
+# reload+after+2024-01-20 13:45:29.469962
+address1§825 Industrial Road
+address2§Suite 400
+city§San Carlos
+state§CA
+zip§94070
+country§United States
+phone§650 260 7120
+website§https://www.iovance.com
+industry§Biotechnology
+sector§Healthcare
+longBusinessSummary§Iovance Biotherapeutics, Inc., a clinical-stage biotechnology company, focuses on developing and commercializing cancer immunotherapy products to harness the power of a patient's immune system to eradicate cancer cells. The company's lead product candidate is lifileucel that is in Phase II clinical trial for the treatment of metastatic melanoma and cervical cancer. It also develops LN-145 for the treatment of metastatic non-small cell lung cancer; IOV-4001 for the treatment of melanoma non-small cell lung cancer; IOV-2001; and IOV-3001. Iovance Biotherapeutics, Inc. has collaborations and licensing agreements with H. Lee Moffitt Cancer Center; M.D. Anderson Cancer Center; Ohio State University; Centre hospitalier de l'Université de Montreal; Cellectis S.A.; Novartis Pharma AG; Melanoma Institute Australia; and Beth-Israel Deaconess Medical Center. The company was formerly known as Lion Biotechnologies, Inc. and changed its name to Iovance Biotherapeutics, Inc. in June 2017. Iovance Biotherapeutics, Inc. was incorporated in 2007 and is headquartered in San Carlos, California.
+fullTimeEmployees§503
+companyOfficers§[{'maxAge': 1, 'name': 'Dr. Frederick G. Vogt Esq., J.D., Ph.D.', 'age': 49, 'title': 'Interim CEO, President, General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'totalPay': 1386600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean-Marc  Bellemin M.B.A.', 'age': 50, 'title': 'CFO, Principal Accounting Officer & Treasurer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 932200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Igor P. Bilinsky', 'age': 50, 'title': 'Chief Operating Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 932200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Friedrich  Graf Finckenstein M.D.', 'age': 56, 'title': 'Chief Medical Officer', 'yearBorn': 1967, 'fiscalYear': 2022, 'totalPay': 1058200, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sara  Pellegrino', 'title': 'Vice President of Investor Relations & Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Winton', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard B. Johnson M.B.A.', 'age': 63, 'title': 'Chief Business Officer', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Ziegler M.B.A.', 'title': 'Executive Vice President of Commercial', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Raj K. Puri M.D., Ph.D.', 'title': 'Executive VP of Regulatory Strategy & Translational Medicine', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian  Shew M.B.A.', 'title': 'Senior VP & Head of Digital and Information Technology', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§7
+boardRisk§6
+compensationRisk§7
+shareHolderRightsRisk§3
+overallRisk§5
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§0.378
+priceToSalesTrailing12Months§3065.9482
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-1.37
+pegRatio§0.23
+exchange§NGM
+quoteType§EQUITY
+shortName§Iovance Biotherapeutics, Inc.
+longName§Iovance Biotherapeutics, Inc.
+firstTradeDateEpochUtc§1287149400
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§c5aa837d-1163-386d-bcfa-bbff50dd3670
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§30.0
+targetLowPrice§12.0
+targetMeanPrice§20.42
+targetMedianPrice§19.0
+recommendationMean§1.9
+recommendationKey§buy
+numberOfAnalystOpinions§12
+quickRatio§3.973
+grossMargins§0.0
+ebitdaMargins§0.0
+trailingPegRatio§None

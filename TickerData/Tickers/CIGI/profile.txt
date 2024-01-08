@@ -1,0 +1,54 @@
+# reload+after+2024-01-22 14:44:03.659834
+address1§1140 Bay Street
+address2§Suite 4000
+city§Toronto
+state§ON
+zip§M5S 2B4
+country§Canada
+website§https://www.colliers.com
+industry§Real Estate Services
+sector§Real Estate
+longBusinessSummary§Colliers International Group Inc. provides commercial real estate professional and investment management services to corporate and institutional clients in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers transaction brokerage services, including sales, leasing, and debt finance services, as well as landlord and tenant representation services; capital markets and investment services; and mortgage investment banking services. The company provides outsourcing and advisory services, such as corporate and workplace solutions; occupier; engineering and design, appraisal and valuation, and loan services; workplace strategy; property marketing; and research services. It also offers property management services comprising building operations and maintenance, facilities management, lease administration, property accounting and financial reporting, contract management and, construction management; and project management services, which include bid document review, construction monitoring and delivery management, contract administration and integrated cost control, development management, facility and engineering functionality, milestone and performance monitoring, quality assurance, risk management and strategic project consulting. In addition, the company provides investment management services that consists of asset management and investor advisory services. The company was founded in 1972 and is headquartered in Toronto, Canada.
+fullTimeEmployees§19000
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Christian  Mayer', 'age': 50, 'title': 'Chief Financial Officer', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 877390, 'exercisedValue': 2631000, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elias  Mulamoottil', 'age': 53, 'title': 'Co-Chief Investment Officer', 'yearBorn': 1970, 'fiscalYear': 2022, 'totalPay': 877390, 'exercisedValue': 4238000, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zachary  Michaud', 'age': 40, 'title': 'Co-Chief Investment Officer', 'yearBorn': 1983, 'fiscalYear': 2022, 'totalPay': 877390, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Ross McLernon BA', 'age': 58, 'title': 'Chief Executive Officer of Real Estate Services Global', 'yearBorn': 1965, 'fiscalYear': 2022, 'totalPay': 6841824, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert D. Hemming CGA, CPA', 'age': 55, 'title': 'Senior VP & Chief Accounting Officer', 'yearBorn': 1968, 'fiscalYear': 2022, 'totalPay': 254932, 'exercisedValue': 1705800, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Matthew  Hawkins', 'age': 40, 'title': 'Head of National Office Agency & Development UK, VP, Legal Counsel and Corporate Secretary', 'yearBorn': 1983, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charlotte  Williams', 'title': 'Head of Public Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Finley', 'age': 47, 'title': 'Chief Brand & People Officer', 'yearBorn': 1976, 'fiscalYear': 2022, 'totalPay': 1582956, 'exercisedValue': 167050, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Bowden', 'title': 'Chief Executive Officer of Colliers Real Estate Strategy & Consulting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. John W. Kenny CPV, FAPI, FRICS', 'title': 'Chief Executive Officer of Asia Pacific', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§10
+compensationRisk§10
+shareHolderRightsRisk§10
+overallRisk§10
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+dividendRate§0.3
+dividendYield§0.0026
+exDividendDate§1703721600
+payoutRatio§0.6383
+fiveYearAvgDividendYield§0.18
+beta§1.573
+priceToSalesTrailing12Months§1.290495
+currency§USD
+dateShortInterest§1702598400
+forwardEps§6.49
+pegRatio§1.07
+exchange§NMS
+quoteType§EQUITY
+shortName§Colliers International Group In
+longName§Colliers International Group Inc.
+firstTradeDateEpochUtc§790612200
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§bdf9fa74-a784-3fb0-a409-d7ef2695dbc0
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§130.0
+targetLowPrice§109.0
+targetMeanPrice§122.86
+targetMedianPrice§125.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§7
+quickRatio§0.804
+earningsGrowth§0.963
+grossMargins§0.39903
+ebitdaMargins§0.12880999
+trailingPegRatio§None

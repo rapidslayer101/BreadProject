@@ -1,0 +1,50 @@
+# reload+after+2024-01-23 04:43:29.639045
+address1§1950 Camino Vida Roble
+city§Carlsbad
+state§CA
+zip§92008
+country§United States
+phone§760 431 9286
+fax§800 431 9722
+website§https://www.atecspine.com
+industry§Medical Devices
+sector§Healthcare
+longBusinessSummary§Alphatec Holdings, Inc., a medical technology company, designs, develops, and advances technologies for the surgical treatment of spinal disorders. It manufactures and sells implants and instruments through third-party suppliers. The company offers SafeOp Neural InformatiX System, an Alpha InformatiX product platform; Sigma PTP Access and Patient Positioning System; split-blade retractors; Sigma-ALIF Access System, a procedure-specific access system; EOS imaging system that provides full-body imaging; spinal implants and fixation systems; and NanoTec and Calibrate PSX, as well as various standalone implants for height restoration and stabilization. It also provides biologics comprising 3D ProFuse Osteoconductive Bioscaffold for ease of handling and better endplate-to-endplate contact; AlphaGRAFT DBM Fibers comprising demineralized fibers; AlphaGRAFT Cellular Bone Matrix, a growth factor-enriched cellular bone matrix; AlphaGRAFT CBM; AlphaGRAFT Demineralized Bone Matrix comprising demineralized human tissues; BioCORE Moldable Bioactive Graft, a synthetic mineral-collagen composite matrix that can be molded to fit the bone defect; and Amnioshield Amniotic Tissue Barrier, an allograft for spinal surgical barrier applications. The company sells its products through a network of independent sales agents and direct sales representatives in the United States and internationally. Alphatec Holdings, Inc. was founded in 1990 and is headquartered in Carlsbad, California.
+fullTimeEmployees§705
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Patrick S. Miles', 'age': 57, 'title': 'Executive Chairman, CEO & President', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1591642, 'exercisedValue': 0, 'unexercisedValue': 6966724}, {'maxAge': 1, 'name': 'Mr. J. Todd Koning', 'age': 50, 'title': 'Executive VP & CFO', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 815289, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David P. Sponsel', 'age': 44, 'title': 'Executive Vice President of Sales', 'yearBorn': 1979, 'fiscalYear': 2022, 'totalPay': 848188, 'exercisedValue': 0, 'unexercisedValue': 132309}, {'maxAge': 1, 'name': 'Mr. Craig E. Hunsaker', 'age': 59, 'title': 'Executive VP of People and Culture', 'yearBorn': 1964, 'fiscalYear': 2022, 'totalPay': 909334, 'exercisedValue': 0, 'unexercisedValue': 4673225}, {'maxAge': 1, 'name': 'Mr. Eric  Dasso', 'age': 50, 'title': 'Executive Vice President of Adjunctive Technologies', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1000432, 'exercisedValue': 0, 'unexercisedValue': 149373}, {'maxAge': 1, 'name': 'Mr. Tyson Eliot Marshall', 'age': 49, 'title': 'General Counsel & Corporate Secretary', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ali  Shorooghi', 'age': 37, 'title': 'Senior Vice President of Marketing', 'yearBorn': 1986, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Allen', 'age': 63, 'title': 'Executive Vice President of Commercial Operations', 'yearBorn': 1960, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Lish', 'age': 42, 'title': 'Senior Vice President of Research & Development', 'yearBorn': 1981, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Luiz  Pimenta', 'title': 'Chief Medical Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§8
+compensationRisk§7
+shareHolderRightsRisk§4
+overallRisk§7
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+payoutRatio§0.0
+beta§1.429
+priceToSalesTrailing12Months§4.159542
+currency§USD
+dateShortInterest§1702598400
+forwardEps§-0.96
+pegRatio§-0.81
+exchange§NMS
+quoteType§EQUITY
+shortName§Alphatec Holdings, Inc.
+longName§Alphatec Holdings, Inc.
+firstTradeDateEpochUtc§1150119000
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§6d57fffc-14e0-39e7-8422-343a2c961962
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§32.0
+targetLowPrice§16.0
+targetMeanPrice§21.85
+targetMedianPrice§22.0
+recommendationMean§1.8
+recommendationKey§buy
+numberOfAnalystOpinions§10
+quickRatio§1.276
+grossMargins§0.63048
+ebitdaMargins§-0.19850999
+trailingPegRatio§None

@@ -1,0 +1,45 @@
+# reload+after+2024-01-21 19:40:45.440069
+address1§Lynx Business Park
+address2§Unit 1B Fordham Road
+city§Snailwell
+zip§CB8 7NY
+country§United Kingdom
+phone§44 16 3872 1500
+website§https://tristel.com
+industry§Medical Instruments & Supplies
+sector§Healthcare
+longBusinessSummary§Tristel plc develops, manufactures, and sells infection prevention products in the United Kingdom and internationally. The company operates through three segments: Hospital Medical Device Decontamination, Hospital Environmental Surface Disinfection, and Other. It offers medical instrument disinfection products, including airway management, cardiology, ear, nose and throat, endoscopy, gastrointestinal physiology, laboratory, ophthalmology, phlebotomy, reproductive health/IVF, surface, ultrasound, urology, women's health, and other products under the Tristel brand. Tristel plc was founded in 1993 and is headquartered in Snailwell, the United Kingdom.
+fullTimeEmployees§208
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Paul Christopher Swinney', 'age': 66, 'title': 'CEO & Executive Director', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 450000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth A. Dixon', 'age': 53, 'title': 'CFO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 327000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bart Victor Margaretha Leemans', 'age': 59, 'title': 'Executive Director', 'yearBorn': 1964, 'fiscalYear': 2023, 'totalPay': 305000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Heidi A. Allard', 'title': 'UK Finance Director, Global Financial Controller & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.11
+dividendYield§0.0233
+exDividendDate§1700697600
+payoutRatio§0.70129997
+fiveYearAvgDividendYield§1.58
+beta§0.353
+priceToSalesTrailing12Months§6.057673
+currency§GBp
+forwardEps§16.32
+exchange§LSE
+quoteType§EQUITY
+shortName§TRISTEL PLC ORD 1P
+longName§Tristel plc
+firstTradeDateEpochUtc§1117609200
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§07821ebf-b55d-30f1-8e15-74cb95e31653
+targetHighPrice§525.0
+targetLowPrice§375.0
+targetMeanPrice§458.25
+targetMedianPrice§466.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§4
+quickRatio§2.854
+earningsGrowth§0.516
+grossMargins§0.81021005
+ebitdaMargins§0.18007
+trailingPegRatio§None

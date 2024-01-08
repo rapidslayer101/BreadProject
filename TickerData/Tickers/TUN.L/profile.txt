@@ -1,0 +1,34 @@
+# reload+after+2024-01-23 16:40:46.217737
+address1§60 Gracechurch Street
+address2§6th Floor
+city§London
+zip§EC3V 0HR
+country§United Kingdom
+website§https://www.tungstenwest.com
+industry§Other Industrial Metals & Mining
+sector§Basic Materials
+longBusinessSummary§Tungsten West PLC operates as a mining development company in the United Kingdom. It owns and operates a Hemerdon tungsten and tin mine located near the village of Plympton, in Devon, England. Tungsten West PLC was incorporated in 2018 and is based in London, the United Kingdom.
+fullTimeEmployees§15
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Neil  Gawthorpe', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 4968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alistair  Stobie', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lucy  Clifford B.Sc.', 'title': 'Human Resource Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§4
+payoutRatio§0.0
+beta§0.757
+priceToSalesTrailing12Months§2.199352
+currency§GBp
+forwardEps§-0.01
+exchange§LSE
+quoteType§EQUITY
+shortName§TUNGSTEN WEST PLC ORD GBP0.01
+longName§Tungsten West PLC
+firstTradeDateEpochUtc§1634799600
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§0fec71ac-50f2-37b7-b486-726363fd859f
+recommendationMean§1.0
+recommendationKey§strong_buy
+quickRatio§0.75
+grossMargins§0.29288998
+ebitdaMargins§0.0
+trailingPegRatio§None

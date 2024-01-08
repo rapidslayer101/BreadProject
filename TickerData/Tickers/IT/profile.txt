@@ -1,0 +1,52 @@
+# reload+after+2024-01-22 09:30:35.383301
+address1§56 Top Gallant Road
+address2§PO Box 10212
+city§Stamford
+state§CT
+zip§06902-7700
+country§United States
+phone§203 964 0096
+website§https://www.gartner.com
+industry§Information Technology Services
+sector§Technology
+longBusinessSummary§Gartner, Inc. operates as a research and advisory company in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Research, Conferences, and Consulting. The Research segment delivers its research primarily through a subscription service that include on-demand access to published research content, data and benchmarks, and direct access to a network of research experts. The Conferences segment offers business professionals in an organization the opportunity to learn, share, and network. The Consulting segment offers market research, custom analysis, and on-the-ground support services. This segment also offers actionable solutions for IT-related priorities, including IT cost optimization, digital transformation, and IT sourcing optimization. Gartner, Inc. was founded in 1979 and is headquartered in Stamford, Connecticut.
+fullTimeEmployees§19500
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Eugene A. Hall', 'age': 66, 'title': 'CEO & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 3348676, 'exercisedValue': 0, 'unexercisedValue': 30098260}, {'maxAge': 1, 'name': 'Mr. Craig W. Safian', 'age': 54, 'title': 'Executive VP & CFO', 'yearBorn': 1969, 'fiscalYear': 2022, 'totalPay': 1881274, 'exercisedValue': 4602758, 'unexercisedValue': 12974976}, {'maxAge': 1, 'name': 'Mr. Alwyn  Dawkins', 'age': 57, 'title': 'Executive Vice President of Global Business Sales', 'yearBorn': 1966, 'fiscalYear': 2022, 'totalPay': 1556792, 'exercisedValue': 0, 'unexercisedValue': 12510333}, {'maxAge': 1, 'name': 'Ms. Robin B. Kranich', 'age': 52, 'title': 'Executive VP & Chief HR Officer', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1557244, 'exercisedValue': 967941, 'unexercisedValue': 1916353}, {'maxAge': 1, 'name': 'Mr. Scott C. Hensel', 'age': 50, 'title': 'Executive Vice President of Global Services & Delivery', 'yearBorn': 1973, 'fiscalYear': 2022, 'totalPay': 1526672, 'exercisedValue': 0, 'unexercisedValue': 7661781}, {'maxAge': 1, 'name': 'Mr. William James Wartinbee', 'age': 49, 'title': 'Senior Vice President of Global Sales Strategy & Operations', 'yearBorn': 1974, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Altaf  Rupani', 'title': 'Executive VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Cohen', 'title': 'Group Vice President of Investor Relations', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas Sang Kim', 'age': 51, 'title': 'Executive VP, General Counsel & Secretary', 'yearBorn': 1972, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Beck', 'age': 62, 'title': 'Executive Vice President of Global Technology Sales', 'yearBorn': 1961, 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§3
+boardRisk§3
+compensationRisk§4
+shareHolderRightsRisk§2
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1672444800
+maxAge§86400
+priceHint§2
+exDividendDate§932342400
+payoutRatio§0.0
+beta§1.284
+priceToSalesTrailing12Months§5.7538133
+currency§USD
+dateShortInterest§1702598400
+forwardEps§11.96
+pegRatio§6.09
+exchange§NYQ
+quoteType§EQUITY
+shortName§Gartner, Inc.
+longName§Gartner, Inc.
+firstTradeDateEpochUtc§749827800
+timeZoneFullName§America/New_York
+timeZoneShortName§EST
+uuid§cd32106b-cb6d-3321-930c-f34574ea388c
+gmtOffSetMilliseconds§-18000000
+targetHighPrice§515.0
+targetLowPrice§385.0
+targetMeanPrice§447.78
+targetMedianPrice§445.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§9
+quickRatio§0.734
+earningsGrowth§0.041
+grossMargins§0.68264997
+ebitdaMargins§0.22809
+trailingPegRatio§None
