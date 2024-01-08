@@ -257,7 +257,7 @@ def get_ticker_data(ticker):
 
 
 def get_ticker_stats(ticker):
-    # Scrapes information from the statistics tab on Yahoo Finance
+    # Scrapes information from the statistics page on Yahoo Finance
     stats_site = f"https://finance.yahoo.com/quote/{ticker}/key-statistics?p={ticker}"
     return _site_scraper(stats_site)
 
@@ -362,15 +362,15 @@ def _raw_get_daily_info(site):
     return df
     
 
-def get_day_most_active(offset: int = 0, count: int = 100):
+def get_day_most_active(offset: int = 0, count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     return _raw_get_daily_info(f"https://finance.yahoo.com/most-active?offset={offset}&count={count}")
 
 
-def get_day_gainers(count: int = 100):
+def get_day_gainers(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     return _raw_get_daily_info(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
 
 
-def get_day_losers(count: int = 100):
+def get_day_losers(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     return _raw_get_daily_info(f"https://finance.yahoo.com/losers?offset=0&count={count}")
 
 
@@ -378,11 +378,11 @@ def get_day_trending_tickers():
     return _raw_get_daily_info(f"https://finance.yahoo.com/trending-tickers")
 
 
-def get_day_top_etfs(count: int = 100):
+def get_day_top_etfs(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     return _raw_get_daily_info(f"https://finance.yahoo.com/etfs?offset=0&count={count}")
 
 
-def get_day_top_mutual(count: int = 100):
+def get_day_top_mutual(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     return _raw_get_daily_info(f"https://finance.yahoo.com/mutualfunds?offset=0&count={count}")
 
 
@@ -464,7 +464,6 @@ def get_earnings_for_date(date, offset=0, count=100):
     date = Timestamp(date).strftime("%Y-%m-%d")
     url = f"https://finance.yahoo.com/calendar/earnings?day={date}&offset={offset}&size={count}"
     # https://query2.finance.yahoo.com/v1/finance/trending/US?count=50&useQuotes=true&fields=logoUrl%2CregularMarketChangePercent
-    print(req.get(url).headers)
 
     return read_html(req.get(url, headers=default_headers).text)[0]
 
@@ -511,9 +510,9 @@ def get_futures():
     return read_html(req.get(site, headers=default_headers).text)[0]
 
 
-def get_undervalued_large_caps():
+def get_undervalued_large_caps(offset: int = 0, count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     # Returns the undervalued large caps table from Yahoo Finance
-    site = "https://finance.yahoo.com/screener/predefined/undervalued_large_caps?offset=0&count=100"
+    site = "https://finance.yahoo.com/screener/predefined/undervalued_large_caps?offset={offset}&count={count}"
     return read_html(req.get(site, headers=default_headers).text)[0]
 
 

@@ -118,14 +118,29 @@ if __name__ == "__main__":
     # nasdaq = ??? a mess of like 400 different types, more research needed
 
     # todo list of functions that are not linked to a ticker
+    #print(get_day_trending_tickers())
+    #print(get_day_top_futures())
+    #print(get_day_highest_open_interest())
+    #print(get_day_highest_implied_volatility())
+    #print(get_day_top_world_indices())
+    #print(get_day_top_forex_rates())
+    #print(get_day_top_us_bonds())
+    #print(get_day_top_crypto())
+    #print(get_currencies())
+    #print(get_futures())
 
-    print(get_earnings_for_date("2021-10-20"))
+    # todo list of functions that ONLY SHOW US REGION
+    #print(get_day_most_active())
+    #print(get_day_gainers())
+    #print(get_day_losers())
+    #print(get_day_top_etfs())
+    #print(get_day_top_mutual())
+    #print(get_undervalued_large_caps())
 
-    input()
 
     while True:
-        #c_name = input("Ticker name: ")
-        c_name = "Tesla"
+        c_name = input("Ticker name: ")
+        #c_name = "Tesla"
         c_ticker, c_index = tns(c_name)
         if not c_ticker:
             print("Ticker not found: TNS failed to resolve ticker")
@@ -193,18 +208,13 @@ if __name__ == "__main__":
     #print(t_object.splits)  # returns table of splits
     #print(t_object.get_shares_full(start="2022-01-01", end=None))  # returns table
 
-    # todo get list of all ticker based functions in ticker_and_indexes.py << lewis job
-
-    #input("FINISHED.")
-    #print(get_ticker_history("tsla", datetime.now()-timedelta(days=1), datetime.now(), "1d", "1m"))
+    #print(get_earnings_history()) + print(t_object.earnings_dates)  # todo use this to create earnings history table
+    #print(get_analysts_info())
 
 
-    # get live price of apple
+
+    # get live price of apple  # todo make a function to get live price of ticker
     #print(get_live_price('aapl'))
-
-
-    #url = "https://www.google.com/finance/quote/TSLA:NASDAQ"
-    #print(get(url).text)
 
     # live price sources:
     # https://www.google.com/finance/quote/TSLA:NASDAQ
