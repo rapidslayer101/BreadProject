@@ -72,6 +72,8 @@ def force_float(elt):
 
 
 def _convert_to_numeric(s):
+    if isinstance(s, float):
+        return s
 
     if "M" in s:
         s = s.strip("M")
@@ -80,7 +82,7 @@ def _convert_to_numeric(s):
     if "B" in s:
         s = s.strip("B")
         return force_float(s) * 1_000_000_000
-    
+
     return force_float(s)
 
 
@@ -286,9 +288,6 @@ def get_ticker_stats(ticker):
 # todo check which of below functions are useful
 def _parse_json(url, headers=default_headers):
     html = requests.get(url=url, headers=headers).text
-    print(html)
-    input()
-
     json_str = html.split('root.App.main =')[1].split(
         '(this)')[0].split(';\n}')[0].strip()
     
@@ -343,6 +342,7 @@ def _raw_get_daily_info(site):
     fields_to_change = [x for x in df.columns.tolist() if "Vol" in x or x == "Market Cap"]
     
     for field in fields_to_change:
+
         if type(df[field][0]) == str:
             df[field] = df[field].map(_convert_to_numeric)
             
@@ -363,166 +363,65 @@ def get_day_losers(count: int=100):
     return _raw_get_daily_info(f"https://finance.yahoo.com/losers?offset=0&count={count}")
 
 
-# todo BROKEN CHECK IF WORKS
-def get_top_crypto():
-    
-    '''Gets the top 100 Cryptocurrencies by Market Cap'''      
+def get_day_trending_tickers():
+    return _raw_get_daily_info(f"https://finance.yahoo.com/trending-tickers")
 
+
+def get_day_top_etfs(count: int=100):
+    return _raw_get_daily_info(f"https://finance.yahoo.com/etfs?offset=0&count={count}")
+
+
+def get_day_top_mutual(count: int=100):
+    return _raw_get_daily_info(f"https://finance.yahoo.com/mutualfunds?offset=0&count={count}")
+
+
+def get_day_top_futures(headers=default_headers):
+    # why is there a unnamed column???
+    return pd.read_html(requests.get("https://finance.yahoo.com/commodities", headers=headers).text)[0]
+
+
+def get_day_highest_open_interest(count: int=100, headers=default_headers):
+    # uses a different table format than other daily infos
+    return pd.read_html(requests.get(f"https://finance.yahoo.com/options/highest-open-interest?offset=0&count={count}", headers=headers).text)[0]
+
+
+def get_day_highest_implied_volatility(count: int=100, headers=default_headers):
+    # uses a different table format than other daily infos
+    return pd.read_html(requests.get(f"https://finance.yahoo.com/options/highest-implied-volatility?offset=0&count={count}", headers=headers).text)[0]
+
+
+def get_day_top_world_indices():
+    return _raw_get_daily_info(f"https://finance.yahoo.com/world-indices")
+
+
+def get_day_top_forex_rates():
+    return _raw_get_daily_info(f"https://finance.yahoo.com/currencies")
+
+
+def get_day_top_us_bonds():
+    return _raw_get_daily_info(f"https://finance.yahoo.com/bonds")
+
+
+def get_day_top_crypto():
+    # Gets the top 100 Cryptocurrencies by Market Cap
     session = HTMLSession()
-    
     resp = session.get("https://finance.yahoo.com/cryptocurrencies?offset=0&count=100")
-    
-    tables = pd.read_html(resp.html.raw_html)               
-                    
-    df = tables[0].copy()
-
-    
+    df = pd.read_html(resp.html.raw_html)[0].copy()
     df["% Change"] = df["% Change"].map(lambda x: float(str(x).strip("%").strip("+").replace(",", "")))
     del df["52 Week Range"]
-    del df["1 Day Chart"]
+    del df["Day Chart"]
     
     fields_to_change = [x for x in df.columns.tolist() if "Volume" in x \
                         or x == "Market Cap" or x == "Circulating Supply"]
     
     for field in fields_to_change:
-        
         if type(df[field][0]) == str:
             df[field] = df[field].map(lambda x: _convert_to_numeric(str(x)))
 
     session.close()        
                 
     return df
-                    
-
-# todo check usefulness against yf.Ticker(ticker).dividends.values
-def get_dividends(ticker, start_date=None, end_date=None, index_as_date=True, headers=default_headers):
-    '''Downloads historical dividend data into a pandas data frame.
-    
-       @param: ticker
-       @param: start_date = None
-       @param: end_date = None
-       @param: index_as_date = True
-    '''
-    
-    # build and connect to URL
-    site, params = build_url(ticker, start_date, end_date, "1d")
-    resp = requests.get(site, params=params, headers=headers)
-
-    if not resp.ok:
-        return pd.DataFrame()
-
-    # get JSON response
-    data = resp.json()
-    
-    # check if there is data available for dividends
-    if "events" not in data["chart"]["result"][0] or "dividends" not in data["chart"]["result"][0]['events']:
-        return pd.DataFrame()
-    
-    # get the dividend data
-    frame = pd.DataFrame(data["chart"]["result"][0]['events']['dividends'])
-    
-    frame = frame.transpose()
         
-    frame.index = pd.to_datetime(frame.index, unit = "s")
-    frame.index = frame.index.map(lambda dt: dt.floor("d"))
-    
-    # sort in chronological order
-    frame = frame.sort_index()
-        
-    frame['ticker'] = ticker.upper()
-    
-    # remove old date column
-    frame = frame.drop(columns='date')
-    
-    frame = frame.rename({'amount': 'dividend'}, axis = 'columns')
-    
-    if not index_as_date:  
-        frame = frame.reset_index()
-        frame.rename(columns={"index": "date"}, inplace = True)
-        
-    return frame
-
-
-# todo works, touch up code
-def get_splits(ticker, start_date=None, end_date=None, index_as_date=True, headers=default_headers):
-    '''Downloads historical stock split data into a pandas data frame.
-    
-       @param: ticker
-       @param: start_date = None
-       @param: end_date = None
-       @param: index_as_date = True
-    '''
-    
-    # build and connect to URL
-    site, params = build_url(ticker, start_date, end_date, "1d")
-    resp = requests.get(site, params=params, headers=headers)
-
-    if not resp.ok:
-        raise AssertionError(resp.json())
-
-    # get JSON response
-    data = resp.json()
-    
-    # check if there is data available for splits
-    if "splits" not in data["chart"]["result"][0]['events']:
-        raise AssertionError("There is no data available on stock splits, or none have occured")
-    
-    # get the split data
-    frame = pd.DataFrame(data["chart"]["result"][0]['events']['splits'])
-    
-    frame = frame.transpose()
-        
-    frame.index = pd.to_datetime(frame.index, unit="s")
-    frame.index = frame.index.map(lambda dt: dt.floor("d"))
-    
-    # sort in to chronological order
-    frame = frame.sort_index()
-        
-    frame['ticker'] = ticker.upper()
-    
-    # remove unnecessary columns
-    frame = frame.drop(columns=['date', 'denominator', 'numerator'])
-    
-    if not index_as_date:  
-        frame = frame.reset_index()
-        frame.rename(columns={"index": "date"}, inplace=True)
-        
-    return frame
-        
-
-# todo check against yf.Ticker(ticker).get_earnings()
-def get_earnings(ticker):
-    
-    '''Scrapes earnings data from Yahoo Finance for an input ticker 
-    
-       @param: ticker
-    '''
-
-    result = {
-        "quarterly_results": pd.DataFrame(),
-        "yearly_revenue_earnings": pd.DataFrame(),
-        "quarterly_revenue_earnings": pd.DataFrame()
-    }
-
-    financials_site = f"https://finance.yahoo.com/quote/{ticker}/financials?p={ticker}"
-
-    json_info = _parse_json(financials_site)
-
-    if "earnings" not in json_info:
-        return result
-
-    temp = json_info["earnings"]
-
-    if temp == None:
-        return result
-    
-    result["quarterly_results"] = pd.DataFrame.from_dict(temp["earningsChart"]["quarterly"])
-    
-    result["yearly_revenue_earnings"] = pd.DataFrame.from_dict(temp["financialsChart"]["yearly"])
-    
-    result["quarterly_revenue_earnings"] = pd.DataFrame.from_dict(temp["financialsChart"]["quarterly"])
-    
-    return result
 
 
 ### Earnings functions
@@ -539,23 +438,10 @@ def _parse_earnings_json(url, headers=default_headers):
         return json.loads(page_data)
 
 
-# todo check against yf.Ticker(ticker).get_earnings_dates()
-def get_next_earnings_date(ticker):
-    parsed_result = _parse_earnings_json(f"https://finance.yahoo.com/quote/{ticker}")
-    temp = parsed_result['context']['dispatcher']['stores']['QuoteSummaryStore']['calendarEvents']['earnings']['earningsDate'][0]['raw']
-
-    return datetime.datetime.fromtimestamp(temp)
-
-
 def get_earnings_history(ticker):
-        '''Inputs: @ticker
-           Returns the earnings calendar history of the input ticker with 
-           EPS actual vs. expected data.'''
-        url = f"https://finance.yahoo.com/calendar/earnings?symbol={ticker}"
-         
-        result = _parse_earnings_json(url)
-        
-        return result["context"]["dispatcher"]["stores"]["ScreenerResultsStore"]["results"]["rows"]
+    # Returns the earnings calendar history of the input ticker with EPS actual vs. expected data.'''
+    url = f"https://finance.yahoo.com/calendar/earnings?symbol={ticker}"
+    return pd.read_html(requests.get(url, headers=default_headers).text)[0]
 
 
 # todo does not scrap LSE, check against yf.Ticker(ticker).get_earnings()

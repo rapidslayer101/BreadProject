@@ -129,7 +129,7 @@ def load_ticker_info(_ticker):
 
 # code to generate ticker profile cache
 #counter = 0
-#for ticker_name in nasdaq_other:
+#for ticker_name in lse:
 #    counter += 1
 #    print(ticker_name[0], load_ticker_info(ticker_name[0]))
 #    print(f"{counter}/{len(nasdaq_other)}")
@@ -200,6 +200,8 @@ if __name__ == "__main__":
     # todo if ticker_data = {} deal with error
     print(ticker_data)
     print("\n")
+
+    #print(get_day_gainers())
 
     #input("Enter to fetch all data: ")
     t_object = yf.Ticker(c_ticker[0][0])
