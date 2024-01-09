@@ -1,5 +1,6 @@
 import tickers_and_cache as tnc
 
+print(tnc.generate_profiles())
 
 while True:
     #c_name = input("Ticker name: ")
