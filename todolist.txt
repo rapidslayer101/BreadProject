@@ -1,3 +1,8 @@
 - Function to get status of a given market
 - Function to get live price of ticker -- ticker.history or get_ticker_data() <-- prob last
 - Get extra links on ticker -- ticker.news -- feed to hydrant
+
+# lse = ["SHRS", "ETFS", "DPRS", "OTHR"]
+# todo detect type of ticker loaded
+# todo improve TNS for ETF type finder, eg ISF.L working (basically checking 2nd index)
+# nasdaq = ??? a mess of like 400 different types, more research needed

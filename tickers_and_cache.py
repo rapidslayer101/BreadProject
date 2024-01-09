@@ -1,69 +1,40 @@
-import requests as req
-from ftplib import FTP
-from io import BytesIO
-from random import randint
-from json import loads as json_loads
-from warnings import simplefilter as warning_filter
-from os import rename, mkdir
-from os.path import exists
+import requests as _req
+import re
+from ftplib import FTP as _FTP
+from io import BytesIO as _BytesIO
+from random import randint as _randint
+from json import loads as _json_loads
+from warnings import simplefilter as _warning_filter_
+from os import rename as _rename, mkdir as _mkdir, listdir as _listdir
+from os.path import exists as _exists
 from datetime import datetime, timedelta
 from pandas import read_excel, read_html, Timestamp
-from yfinance import Ticker
+from requests_html import HTMLSession as _HTMLSession
+from yfinance import Ticker as YF_ticker
 
 
-# file of functions to pull tickers and indexes from various sources
-# MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
+# HEAVILY MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
+# This file contains TNS, cache based functions and the Ticker class
+# TNS links TICKERS, INDEXES and COMPANIES together
+# This file should be called when the program starts
 
-if not exists("TickerData"):
-    mkdir("TickerData")
+
+if not _exists("TickerData"):
+    _mkdir("TickerData")
     print("Created TickerData directory...")
 else:
     print("Found TickerData directory...")
 
-if not exists("TickerData/Tickers"):
-    mkdir("TickerData/Tickers")
+if not _exists("TickerData/Tickers"):
+    _mkdir("TickerData/Tickers")
 
-warning_filter(action='ignore', category=FutureWarning)
-warning_filter(action='ignore', category=UserWarning)
+_warning_filter_(action='ignore', category=FutureWarning)
+_warning_filter_(action='ignore', category=UserWarning)
 default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                                  'Chrome/120.0.0.0 Safari/537.3'}
 
 
-try:
-    from requests_html import HTMLSession
-except Exception:
-    print("""Warning - Certain functionality 
-             requires requests_html, which is not installed.
-             
-             Install using: pip install requests_html""")
-
-    
-base_url = "https://query1.finance.yahoo.com/v8/finance/chart/"
-
-
-def force_float(elt):
-    try:
-        return float(elt)
-    except ValueError:
-        return elt
-
-
-def _convert_to_numeric(s):
-    if isinstance(s, float):
-        return s
-
-    if "M" in s:
-        s = s.strip("M")
-        return force_float(s) * 1_000_000
-    
-    if "B" in s:
-        s = s.strip("B")
-        return force_float(s) * 1_000_000_000
-
-    return force_float(s)
-
-
-def tickers_sp500():  # Downloads list of tickers currently listed in the S&P 500
+def _tickers_sp500_():  # Downloads list of tickers currently listed in the S&P 500
     sp500 = read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     sp_tickers = []
     for i in range(len(sp500)):
@@ -73,12 +44,12 @@ def tickers_sp500():  # Downloads list of tickers currently listed in the S&P 50
     return sp_tickers
 
 
-def _nasdaq_trader(search_param):  # Downloads list of nasdaq tickers
-    ftp = FTP("ftp.nasdaqtrader.com")
+def _nasdaq_trader_(search_param):  # Downloads list of nasdaq tickers
+    ftp = _FTP("ftp.nasdaqtrader.com")
     ftp.login()
     ftp.cwd("SymbolDirectory")
 
-    r = BytesIO()
+    r = _BytesIO()
     ftp.retrbinary(f'RETR {search_param}.txt', r.write)
 
     info = r.getvalue().decode()
@@ -99,15 +70,15 @@ def _nasdaq_trader(search_param):  # Downloads list of nasdaq tickers
     return ticker_data
 
 
-def tickers_nasdaq():  # Nasdaq stocks
-    return _nasdaq_trader("nasdaqlisted")
+def _tickers_nasdaq_():  # Nasdaq stocks
+    return _nasdaq_trader_("nasdaqlisted")
 
 
-def tickers_us_other():  # Nasdaq other, funds, etfs, etc.
-    return _nasdaq_trader("otherlisted")
+def _tickers_us_other_():  # Nasdaq other, funds, etfs, etc.
+    return _nasdaq_trader_("otherlisted")
     
 
-def tickers_dow():  # Dow_Jones_Industrial_Average
+def _tickers_dow_():  # Dow_Jones_Industrial_Average
     site = "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
     table = read_html(site, attrs={"id": "constituents"})[0]
     dow_tickers = []
@@ -118,7 +89,7 @@ def tickers_dow():  # Dow_Jones_Industrial_Average
     return dow_tickers    
 
 
-def tickers_nifty50():  # NIFTY 50, India
+def _tickers_nifty50_():  # NIFTY 50, India
     site = "https://en.wikipedia.org/wiki/NIFTY_50"
     table = read_html(site, attrs={"id": "constituents"})[0]
     nifty50 = []
@@ -128,40 +99,45 @@ def tickers_nifty50():  # NIFTY 50, India
     return nifty50
 
 
-def tickers_ftse100():  # UK 100
+def _tickers_ftse100_():  # UK 100
     table = read_html("https://en.wikipedia.org/wiki/FTSE_100_Index", attrs={"id": "constituents"})[0]
     ftse100 = []
     for i in range(len(table)):
-        ftse100.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
-
+        if str(table.values[i][1]).endswith("."):
+            ftse100.append(f"{table.values[i][1]}L§{table.values[i][0]}§{table.values[i][2]}")
+        else:
+            ftse100.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
     return ftse100
     
 
-def tickers_ftse250():  # UK 250
+def _tickers_ftse250_():  # UK 250
     table = read_html("https://en.wikipedia.org/wiki/FTSE_250_Index", attrs={"id": "constituents"})[0]
     ftse250 = []
     for i in range(len(table)):
-        ftse250.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
+        if str(table.values[i][1]).endswith("."):
+            ftse250.append(f"{table.values[i][1]}L§{table.values[i][0]}§{table.values[i][2]}")
+        else:
+            ftse250.append(f"{table.values[i][1]}.L§{table.values[i][0]}§{table.values[i][2]}")
     return ftse250
 
 
-def _writer_(file, refresh_days):
+def __writer__(file, refresh_days):
     with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
         f.write(f"# reload+after+{datetime.now()+timedelta(days=refresh_days)}\n")
         if file == "sp_500":
-            data = tickers_sp500()  #
+            data = _tickers_sp500_()
         elif file == "nasdaq":
-            data = tickers_nasdaq()
+            data = _tickers_nasdaq_()
         elif file == "nasdaq_other":
-            data = tickers_us_other()
+            data = _tickers_us_other_()
         elif file == "dow_jones":
-            data = tickers_dow()
+            data = _tickers_dow_()
         elif file == "nifty50":
-            data = tickers_nifty50()
+            data = _tickers_nifty50_()
         elif file == "ftse100":
-            data = tickers_ftse100()
+            data = _tickers_ftse100_()
         elif file == "ftse250":
-            data = tickers_ftse250()
+            data = _tickers_ftse250_()
 
         ticker_info = []
         for ticker in data:
@@ -171,15 +147,15 @@ def _writer_(file, refresh_days):
     return ticker_info
 
 
-def refresh_ticker_data(file, refresh_days):
+def _refresh_ticker_data_(file, refresh_days):
     if not exists(f"TickerData/{file}.txt"):
         print(f"Downloading {file} tickers...")
-        ticker_info = _writer_(file, refresh_days)
+        ticker_info = __writer__(file, refresh_days)
     else:
         with open(f"TickerData/{file}.txt", "r", encoding="utf-8") as f:
             file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
             if file_time < datetime.now():
-                ticker_info = _writer_(file, refresh_days)
+                ticker_info = __writer__(file, refresh_days)
                 print(f"Found and refreshed {file} tickers...")
             else:
                 print(f"Found {file} tickers...")
@@ -189,20 +165,23 @@ def refresh_ticker_data(file, refresh_days):
     return ticker_info
 
 
-def _lse_writer_(data, file, refresh_days):
+def __lse_writer__(data, file, refresh_days):
     with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
         f.write(f"# reload+after+{datetime.now()+timedelta(days=refresh_days)}\n")
         for ticker in data:
             line = ""
             for i in range(len(ticker)):
                 if i == 0:
-                    line += f"{ticker[i]}.L§"
+                    if ticker[i].endswith("."):
+                        line += f"{ticker[i]}L§"
+                    else:
+                        line += f"{ticker[i]}.L§"
                 else:
                     line += f"{ticker[i]}§"
             f.write(f"{line[:-1]}\n")
 
 
-def _lse_reader_():
+def __lse_reader__():
     if not exists(f"TickerData/lse.xlsx"):
         print("LSE tickers not found, please download the file from "
               "https://www.londonstockexchange.com/reports?tab=instruments, then save it as lse.xlsx in the "
@@ -213,20 +192,20 @@ def _lse_reader_():
         data = read_excel(f"TickerData/lse.xlsx", None)
         all_eq = data['1.0 All Equity'].values.tolist()[8:]
         all_no_eq = data['2.0 All Non-Equity'].values.tolist()[8:]
-        _lse_writer_(all_eq, "lse", 31)
-        _lse_writer_(all_no_eq, "lse_eq", 31)
-        rename("TickerData/lse.xlsx", "TickerData/lse_old.xlsx")
+        __lse_writer__(all_eq, "lse", 31)
+        __lse_writer__(all_no_eq, "lse_eq", 31)
+        _rename("TickerData/lse.xlsx", "TickerData/lse_old.xlsx")
         return all_eq, all_no_eq
 
 
-def refresh_lse_tickers():
+def _refresh_lse_tickers_():
     if not exists(f"TickerData/lse.txt") or not exists(f"TickerData/lse_eq.txt"):
-        return _lse_reader_()
+        return __lse_reader__()
     else:
         with open(f"TickerData/lse.txt", "r", encoding="utf-8") as f:
             file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
             if file_time < datetime.now():
-                return _lse_reader_()
+                return __lse_reader__()
             else:
                 print(f"Found lse and lse_eq tickers...")
                 _lse = []
@@ -239,39 +218,16 @@ def refresh_lse_tickers():
                 return _lse, _lse_eq
 
 
-def _site_scraper(site):
-    # load website so all contents can be scraped
-    tables = read_html(req.get(site, headers=default_headers).text)
-    data = {}
-    for table in tables:
-        for value in table.values:
-            data.update({value[0]: str(value[1:])[2:-2]})
-
-    return data
-
-
-def get_ticker_data(ticker):
-    # Scrapes data elements found on Yahoo Finance's quote page
-    site = f"https://finance.yahoo.com/quote/{ticker}?p={ticker}"
-    return _site_scraper(site)
-
-
-def get_ticker_stats(ticker):
-    # Scrapes information from the statistics page on Yahoo Finance
-    stats_site = f"https://finance.yahoo.com/quote/{ticker}/key-statistics?p={ticker}"
-    return _site_scraper(stats_site)
-
-
-def _ticker_info_writer_(_ticker):
+def __ticker_info_writer__(_ticker):
     try:
         t_object = Ticker(_ticker)
         t_info = t_object.info
-    except req.exceptions.HTTPError:
+    except _req.exceptions.HTTPError:
         print(f"Ticker {_ticker} profile failed to load: HTTPError")
         return {}
     ticker_profile = {}
     with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
-        r_day_add, r_hour_add = randint(0, 3), randint(0, 23)
+        r_day_add, r_hour_add = _randint(0, 3), _randint(0, 23)
         f.write(f"# reload+after+{datetime.now()+timedelta(days=12+r_day_add)+timedelta(hours=r_hour_add)}\n")
         # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
         ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
@@ -298,13 +254,36 @@ def _ticker_info_writer_(_ticker):
     return ticker_profile
 
 
+def _site_scraper_(site):
+    # load website so all contents can be scraped
+    tables = read_html(_req.get(site, headers=default_headers).text)
+    data = {}
+    for table in tables:
+        for value in table.values:
+            data.update({value[0]: str(value[1:])[2:-2]})
+
+    return data
+
+
+def get_ticker_data(ticker):
+    # Scrapes data elements found on Yahoo Finance's quote page
+    site = f"https://finance.yahoo.com/quote/{ticker}?p={ticker}"
+    return _site_scraper_(site)
+
+
+def get_ticker_stats(ticker):
+    # Scrapes information from the statistics page on Yahoo Finance
+    stats_site = f"https://finance.yahoo.com/quote/{ticker}/key-statistics?p={ticker}"
+    return _site_scraper_(stats_site)
+
+
 # loads company profile from cache or downloads it, returns profile data
 def load_ticker_info(_ticker):
     if exists(f"TickerData/Tickers/{_ticker}/profile.txt"):
         with open(f"TickerData/Tickers/{_ticker}/profile.txt", "r", encoding="utf-8") as f:
             file_time = datetime.strptime(f.readline().split("+")[2].replace("\n", ""), "%Y-%m-%d %H:%M:%S.%f")
             if file_time < datetime.now():
-                ticker_profile = _ticker_info_writer_(_ticker)
+                ticker_profile = __ticker_info_writer__(_ticker)
                 print(f"Reloaded ticker profile for {_ticker}")
             else:
                 ticker_profile = {}
@@ -313,8 +292,8 @@ def load_ticker_info(_ticker):
                     ticker_profile.update({key: value})
     else:
         if not exists(f"TickerData/Tickers/{_ticker}"):
-            mkdir(f"TickerData/Tickers/{_ticker}")
-        ticker_profile = _ticker_info_writer_(_ticker)
+            _mkdir(f"TickerData/Tickers/{_ticker}")
+        ticker_profile = __ticker_info_writer__(_ticker)
     return ticker_profile
 
 
@@ -323,7 +302,7 @@ def load_ticker_info(_ticker):
 def get_holders(ticker):
     # Scrapes the Holders page from Yahoo Finance for an input ticker
     holders_site = f"https://finance.yahoo.com/quote/{ticker}/holders?p={ticker}"
-    tables = read_html(req.get(holders_site, headers=default_headers).text)
+    tables = read_html(_req.get(holders_site, headers=default_headers).text)
     table_names = ["Major Holders", "Direct Holders (Forms 3 and 4)",
                    "Top Institutional Holders", "Top Mutual Fund Holders"]
     table_mapper = {key: val for key, val in zip(table_names, tables)}
@@ -335,15 +314,37 @@ def get_holders(ticker):
 def get_analysts_info(ticker):
     # Scrapes the Analysts page from Yahoo Finance for an input ticker
     analysts_site = f"https://finance.yahoo.com/quote/{ticker}/analysts?p={ticker}"
-    tables = read_html(req.get(analysts_site, headers=default_headers).text)
+    tables = read_html(_req.get(analysts_site, headers=default_headers).text)
     table_names = [table.columns[0] for table in tables]
     table_mapper = {key: val for key, val in zip(table_names, tables)}
 
     return table_mapper
 
 
-def _raw_get_daily_info(site):
-    session = HTMLSession()
+def _force_float_(elt):
+    try:
+        return float(elt)
+    except ValueError:
+        return elt
+
+
+def _convert_to_numeric_(s):
+    if isinstance(s, float):
+        return s
+
+    if "M" in s:
+        s = s.strip("M")
+        return _force_float_(s) * 1_000_000
+
+    if "B" in s:
+        s = s.strip("B")
+        return _force_float_(s) * 1_000_000_000
+
+    return _force_float_(s)
+
+
+def __raw_get_daily_info__(site):
+    session = _HTMLSession()
     resp = session.get(site)
     tables = read_html(resp.html.raw_html)
     df = tables[0].copy()
@@ -353,9 +354,8 @@ def _raw_get_daily_info(site):
     fields_to_change = [x for x in df.columns.tolist() if "Vol" in x or x == "Market Cap"]
     
     for field in fields_to_change:
-
         if type(df[field][0]) == str:
-            df[field] = df[field].map(_convert_to_numeric)
+            df[field] = df[field].map(_convert_to_numeric_)
             
     session.close()
     
@@ -363,61 +363,61 @@ def _raw_get_daily_info(site):
     
 
 def get_day_most_active(offset: int = 0, count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
-    return _raw_get_daily_info(f"https://finance.yahoo.com/most-active?offset={offset}&count={count}")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/most-active?offset={offset}&count={count}")
 
 
 def get_day_gainers(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
-    return _raw_get_daily_info(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
 
 
 def get_day_losers(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
-    return _raw_get_daily_info(f"https://finance.yahoo.com/losers?offset=0&count={count}")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/losers?offset=0&count={count}")
 
 
 def get_day_trending_tickers():
-    return _raw_get_daily_info(f"https://finance.yahoo.com/trending-tickers")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/trending-tickers")
 
 
 def get_day_top_etfs(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
-    return _raw_get_daily_info(f"https://finance.yahoo.com/etfs?offset=0&count={count}")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/etfs?offset=0&count={count}")
 
 
 def get_day_top_mutual(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
-    return _raw_get_daily_info(f"https://finance.yahoo.com/mutualfunds?offset=0&count={count}")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/mutualfunds?offset=0&count={count}")
 
 
 def get_day_top_futures():
-    # why is there a unnamed column???
-    return read_html(req.get("https://finance.yahoo.com/commodities", headers=default_headers).text)[0]
+    # why is there an unnamed column???
+    return read_html(_req.get("https://finance.yahoo.com/commodities", headers=default_headers).text)[0]
 
 
 def get_day_highest_open_interest(count: int = 100):
     # uses a different table format than other daily infos
-    return read_html(req.get(f"https://finance.yahoo.com/options/highest-open-interest?"
-                                     f"offset=0&count={count}", headers=default_headers).text)[0]
+    return read_html(_req.get(f"https://finance.yahoo.com/options/highest-open-interest?"
+                             f"offset=0&count={count}", headers=default_headers).text)[0]
 
 
 def get_day_highest_implied_volatility(count: int = 100):
     # uses a different table format than other daily infos
-    return read_html(req.get(f"https://finance.yahoo.com/options/highest-implied-volatility?"
-                                     f"offset=0&count={count}", headers=default_headers).text)[0]
+    return read_html(_req.get(f"https://finance.yahoo.com/options/highest-implied-volatility?"
+                             f"offset=0&count={count}", headers=default_headers).text)[0]
 
 
 def get_day_top_world_indices():
-    return _raw_get_daily_info(f"https://finance.yahoo.com/world-indices")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/world-indices")
 
 
 def get_day_top_forex_rates():
-    return _raw_get_daily_info(f"https://finance.yahoo.com/currencies")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/currencies")
 
 
 def get_day_top_us_bonds():
-    return _raw_get_daily_info(f"https://finance.yahoo.com/bonds")
+    return __raw_get_daily_info__(f"https://finance.yahoo.com/bonds")
 
 
 def get_day_top_crypto(offset: int = 0, count: int = 100):
     # Gets the top 100 Cryptocurrencies by Market Cap
-    session = HTMLSession()
+    session = _HTMLSession()
     resp = session.get(f"https://finance.yahoo.com/cryptocurrencies?offset={offset}&count={count}")
     df = read_html(resp.html.raw_html)[0].copy()
     df["% Change"] = df["% Change"].map(lambda x: float(str(x).strip("%").strip("+").replace(",", "")))
@@ -429,7 +429,7 @@ def get_day_top_crypto(offset: int = 0, count: int = 100):
     
     for field in fields_to_change:
         if type(df[field][0]) == str:
-            df[field] = df[field].map(lambda x: _convert_to_numeric(str(x)))
+            df[field] = df[field].map(lambda x: _convert_to_numeric_(str(x)))
 
     session.close()        
                 
@@ -438,7 +438,7 @@ def get_day_top_crypto(offset: int = 0, count: int = 100):
 
 ### Earnings functions
 def _parse_earnings_json(url):
-        resp = req.get(url, headers=default_headers)
+        resp = _req.get(url, headers=default_headers)
         
         content = resp.content.decode(encoding='utf-8', errors='strict')
         
@@ -447,13 +447,13 @@ def _parse_earnings_json(url):
         
         page_data = page_data.split('root.App.main = ', 1)[1]
         
-        return json_loads(page_data)
+        return _json_loads(page_data)
 
 
 def get_earnings_history(ticker):
     # Returns the earnings calendar history of the input ticker with EPS actual vs. expected data.'''
     url = f"https://finance.yahoo.com/calendar/earnings?symbol={ticker}"
-    return read_html(req.get(url, headers=default_headers).text)[0]
+    return read_html(_req.get(url, headers=default_headers).text)[0]
 
 
 # todo does not scrap LSE, check against yf.Ticker(ticker).get_earnings()
@@ -465,7 +465,7 @@ def get_earnings_for_date(date, offset=0, count=100):
     url = f"https://finance.yahoo.com/calendar/earnings?day={date}&offset={offset}&size={count}"
     # https://query2.finance.yahoo.com/v1/finance/trending/US?count=50&useQuotes=true&fields=logoUrl%2CregularMarketChangePercent
 
-    return read_html(req.get(url, headers=default_headers).text)[0]
+    return read_html(_req.get(url, headers=default_headers).text)[0]
 
 
 def get_earnings_in_date_range(start_date, end_date):
@@ -501,18 +501,160 @@ def get_earnings_in_date_range(start_date, end_date):
 def get_currencies():
     # Returns the currencies table from Yahoo Finance
     site = "https://finance.yahoo.com/currencies"
-    return read_html(req.get(site, headers=default_headers).text)[0]
+    return read_html(_req.get(site, headers=default_headers).text)[0]
 
 
 def get_futures():
     # Returns the futures table from Yahoo Finance
     site = "https://finance.yahoo.com/commodities"
-    return read_html(req.get(site, headers=default_headers).text)[0]
+    return read_html(_req.get(site, headers=default_headers).text)[0]
 
 
 def get_undervalued_large_caps(offset: int = 0, count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
     # Returns the undervalued large caps table from Yahoo Finance
     site = "https://finance.yahoo.com/screener/predefined/undervalued_large_caps?offset={offset}&count={count}"
-    return read_html(req.get(site, headers=default_headers).text)[0]
+    return read_html(_req.get(site, headers=default_headers).text)[0]
 
 
+#########################################################################
+# START OF CACHE LOAD SYSTEM
+
+
+# type ticker: [ticker, company/type (e.g. bond, etf), other data]
+# type index: [ticker, company, other data]
+# type weighted index: [ticker, company, weight, other data]
+
+sp_500 = _refresh_ticker_data_("sp_500", 7)  # type index
+nasdaq = _refresh_ticker_data_("nasdaq", 7)  # type tickers
+nasdaq_other = _refresh_ticker_data_("nasdaq_other", 7)  # type tickers
+dow_jones = _refresh_ticker_data_("dow_jones", 7)  # type weighted index
+nifty50 = _refresh_ticker_data_("nifty50", 7)  # type index
+ftse100 = _refresh_ticker_data_("ftse100", 7)  # type index
+ftse250 = _refresh_ticker_data_("ftse250", 7)  # type index
+lse, lse_eq = _refresh_lse_tickers_()  # type tickers
+
+tickers = {'nasdaq': nasdaq, 'lse': lse}
+tickers_all = {'nasdaq': nasdaq, 'nasdaq_other': nasdaq_other, 'lse': lse, 'lse_eq': lse_eq}
+indexes = {'sp_500': sp_500, 'dow_jones': dow_jones, 'nifty50': nifty50, 'ftse100': ftse100, 'ftse250': ftse250}
+
+print("Loaded tickers and indexes successfully...\n-------------------------------------------")
+
+
+def _tns_dict_from_search(search, ticker_list, index_list, search_dict=None):
+    if not search_dict:
+        search_dict = {}
+    for key in ticker_list.keys():
+        for ticker in ticker_list[key]:
+            if re.search(r"\b"+re.escape(search.lower())+r"\b", ticker[1].lower()):
+                relevant_indexes = []
+                for index in index_list.keys():
+                    for _ticker in index_list[index]:
+                        if ticker[0] == _ticker[0]:
+                            relevant_indexes.append(index)
+                search_dict.update({ticker[0]: ticker[1:]+[[relevant_indexes]]})
+    return search_dict
+
+
+def tns(name, other=False):  # ticker name system  # todo add ETF/TYPE searching support
+    related_tickers = _tns_dict_from_search(name, tickers, indexes)
+
+    # if no tickers found in {tickers} or if other=True, search {tickers_all}
+    if not related_tickers or other:
+        related_tickers = _tns_dict_from_search(name, tickers_all, indexes, related_tickers)
+
+    # remove empty values from related_tickers
+    for key in related_tickers.keys():
+        for value in related_tickers[key]:
+            if value == "":
+                related_tickers[key].remove(value)
+
+    return related_tickers
+
+
+# extra TNS code to try to detect if invalid ticker is returned from TNS and fix ticker
+# code also returns ticker data
+def tns_check(ticker, name):
+    ticker_live = get_ticker_data(ticker)
+    fixed = True
+    try:
+        ticker_live['Open']
+    except KeyError:
+        fixed = False
+    for key in ticker_live.keys():
+        if re.search(r"\b"+re.escape(name.lower())+r"\b", ticker_live[key].lower()):
+            print(f"TNS Check fixed: {ticker[0][0]} --> {key}")
+            ticker = [[key, ticker_live[key]]]
+            ticker_live = get_ticker_data(ticker[0][0])
+            fixed = True
+            break
+    if not fixed:
+        print(ticker_live)
+        exit(f"Ticker error: TNS Check failed to resolve ticker")
+    return ticker_live
+
+# code to generate ticker profile cache
+#counter = 0
+#for ticker_name in lse:
+#    counter += 1
+#    print(ticker_name[0], load_ticker_info(ticker_name[0]))
+#    print(f"{counter}/{len(nasdaq_other)}")
+#input()
+
+print("Loading profile data...")
+exec_dict = {}
+comp_names_l = {}
+comp_names_s = {}
+for folder in _listdir("TickerData/Tickers"):
+    if exists(f"TickerData/Tickers/{folder}/profile.txt"):
+        ticker_profile = load_ticker_info(folder)
+        if "companyOfficers" in ticker_profile:
+            exec_dict.update({folder: eval(ticker_profile["companyOfficers"])})
+        if "longName" in ticker_profile:
+            comp_names_l.update({folder: ticker_profile["longName"]})
+        if "shortName" in ticker_profile:
+            comp_names_s.update({folder: ticker_profile["shortName"]})
+
+
+def get_exec_data():
+    return exec_dict
+
+
+def get_comp_names_l():
+    return comp_names_l
+
+
+def get_comp_names_s():
+    return comp_names_s
+
+
+print("Loaded profile data successfully...\nFinished loading ticker_loader.py...\n"
+      "-------------------------------------------")
+
+
+class TNS:
+    def __init__(self, name, other=False):
+        self.name = name
+        self.tickers = tns(name, other=other)
+        if not self.tickers:
+            print("Ticker not found: TNS failed to resolve ticker")
+        else:
+            print(self.tickers)
+
+    def get_objects(self):
+        return [Ticker(key) for key in self.tickers.keys()]
+
+
+class Ticker:
+    def __init__(self, ticker):
+        self.ticker_obj = YF_ticker(ticker)
+        self.profile = None
+
+    def get_profile(self):
+        if self.profile:
+            return self.profile
+        else:
+            self.profile = load_ticker_info(self.ticker_obj.ticker)
+            return self.profile
+
+    def get_news(self):
+        return self.ticker_obj.news
