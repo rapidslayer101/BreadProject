@@ -266,6 +266,7 @@ class TNS:
     def __init__(self, name, other=False):
         self.name = name
         self.tickers = tns(name, other=other)
+        print(self.tickers)
         if not self.tickers:
             print("Ticker not found: TNS failed to resolve ticker")
         else:

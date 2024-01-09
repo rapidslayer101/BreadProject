@@ -257,11 +257,14 @@ def load_ticker_info(_ticker):
                 for line in f.readlines():
                     key, value = line.replace("\n", "").split("§")
                     ticker_profile.update({key: value})
-    else:
-        if not os.path.exists(f"TickerData/Tickers/{_ticker}"):
-            os.mkdir(f"TickerData/Tickers/{_ticker}")
+        return ticker_profile
+    elif not os.path.exists(f"TickerData/Tickers/{_ticker}"):
+        os.mkdir(f"TickerData/Tickers/{_ticker}")
         ticker_profile = __ticker_info_writer__(_ticker)
-    return ticker_profile
+        return ticker_profile
+    else:
+        print(f"Skipped folder {_ticker}")
+        return None
 
 #########################################################################
 # START OF CACHE LOAD SYSTEM - Before this line no file manipulation
@@ -313,47 +316,42 @@ def _tns_dict_from_search(search, ticker_list, index_list, search_dict=None):
     return search_dict
 
 
-def tns(name, other=False):  # ticker name system  # todo add ETF/TYPE searching support
-    related_tickers = _tns_dict_from_search(name, tickers, indexes)
+def tns(names, other=False):  # ticker name system  # todo add ETF/TYPE searching support
+    ticker_results = {}
+    for name in names:
+        related_tickers = _tns_dict_from_search(name, tickers, indexes)
 
-    # if no tickers found in {tickers} or if other=True, search {tickers_other}
-    if not related_tickers or other:
-        related_tickers = _tns_dict_from_search(name, tickers_other, indexes, related_tickers)
+        # if no tickers found in {tickers} or if other=True, search {tickers_other}
+        if not related_tickers or other:
+            related_tickers = _tns_dict_from_search(name, tickers_other, indexes, related_tickers)
 
-    # remove empty values from related_tickers
-    for key in related_tickers.keys():
-        for value in related_tickers[key]:
-            if value == "":
-                related_tickers[key].remove(value)
-
-    return related_tickers
-
-
-# todo options on generating profiles or verifying integrity
-# code to generate ticker profile cache
-def generate_profiles():
-    for key in tickers_all.keys():
-        counter = 0
-        for ticker_name in tickers_all[key]:
-            counter += 1
-            load_ticker_info(ticker_name[0])
-            print(f"{counter}/{len(tickers_all[key])} - {ticker_name[0]}")
+        # remove empty values from related_tickers
+        for key in related_tickers.keys():
+            for value in related_tickers[key]:
+                if value == "":
+                    related_tickers[key].remove(value)
+        ticker_results.update({name: related_tickers})
+    return ticker_results
 
 
-# todo load levels for which ticker lists are loaded, fold generate profile and load profiles into one function
-def load_profiles(other=False):
+def load_profiles():
     exec_dict = {}
     comp_names_l = {}
     comp_names_s = {}
-    for folder in os.listdir("TickerData/Tickers"):
-        if os.path.exists(f"TickerData/Tickers/{folder}/profile.txt"):
-            ticker_profile = load_ticker_info(folder)
-            if "companyOfficers" in ticker_profile:
-                exec_dict.update({folder: eval(ticker_profile["companyOfficers"])})
-            if "longName" in ticker_profile:
-                comp_names_l.update({folder: ticker_profile["longName"]})
-            if "shortName" in ticker_profile:
-                comp_names_s.update({folder: ticker_profile["shortName"]})
+    for key in tickers_all.keys():
+        counter = 0
+        for ticker in tickers_all[key]:
+            counter += 1
+            ticker_profile = load_ticker_info(ticker[0])
+            if ticker_profile:
+                if counter % 1000 == 0:
+                    print(f"{counter}/{len(tickers_all[key])} - {ticker[0]}")
+                if "companyOfficers" in ticker_profile:
+                    exec_dict.update({ticker[0]: eval(ticker_profile["companyOfficers"])})
+                if "longName" in ticker_profile:
+                    comp_names_l.update({ticker[0]: ticker_profile["longName"]})
+                if "shortName" in ticker_profile:
+                    comp_names_s.update({ticker[0]: ticker_profile["shortName"]})
 
     return exec_dict, comp_names_l, comp_names_s
 

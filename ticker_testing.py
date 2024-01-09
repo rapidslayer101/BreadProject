@@ -1,10 +1,8 @@
 import tickers_and_cache as tnc
 
-print(tnc.generate_profiles())
-
 while True:
     #c_name = input("Ticker name: ")
-    c_name = "Rolls-royce"
+    c_name = ["Rolls-royce", "Tesco"]
     t_objects = tnc.TNS(c_name, other=False).get_objects()
     if not t_objects:
         print("Ticker not found: TNS failed to resolve ticker")
