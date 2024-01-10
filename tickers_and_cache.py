@@ -1,5 +1,8 @@
 import json
+
 import requests_html
+from bs4 import BeautifulSoup
+
 from tickerlib import *
 
 
@@ -49,7 +52,7 @@ def get_holders(ticker):
                    "Top Institutional Holders", "Top Mutual Fund Holders"]
     table_mapper = {key: val for key, val in zip(table_names, tables)}
 
-    return table_mapper       
+    return table_mapper
 
 
 def get_analysts_info(ticker):
@@ -103,11 +106,11 @@ def __raw_get_daily_info__(site, uk=False):
     for field in fields_to_change:
         if type(df[field][0]) == str:
             df[field] = df[field].map(_convert_to_numeric_)
-            
+
     session.close()
-    
+
     return table_to_dict(df)
-    
+
 
 def get_day_most_active_us(offset: int = 0, count: int = 100):
     return __raw_get_daily_info__(f"https://finance.yahoo.com/most-active?offset={offset}&count={count}")
@@ -190,17 +193,59 @@ def get_day_top_crypto(offset: int = 0, count: int = 100):
     df["% Change"] = df["% Change"].map(lambda x: float(str(x).strip("%").strip("+").replace(",", "")))
     del df["52 Week Range"]
     del df["Day Chart"]
-    
+
     fields_to_change = [x for x in df.columns.tolist() if "Volume" in x \
                         or x == "Market Cap" or x == "Circulating Supply"]
-    
+
     for field in fields_to_change:
         if type(df[field][0]) == str:
             df[field] = df[field].map(lambda x: _convert_to_numeric_(str(x)))
 
-    session.close()        
-                
+    session.close()
+
     return df
+
+
+# TODO lewis function not done
+def get_bank_of_england_news():
+    endResult = []
+    soup = BeautifulSoup(requests.get("https://uk.finance.yahoo.com/topic/bank-of-england/", headers=default_headers).text, 'html.parser')
+    uL = soup.find("ul", {'class': 'My(0) P(0) Wow(bw) Ov(h)'})
+    articles = uL.find_all("li")
+    for article in articles:
+        # adblock LMAO
+        if article.find("div", {"class": "native-ad-item"}) != None:
+            continue
+        articleDiv = article.find("div").find("div").find_all("div")[2]
+        titleDiv = articleDiv.find("h3").find("a")
+        link = titleDiv["href"]
+        title = titleDiv.text
+        desc = articleDiv.find("p").text
+        result = [title, desc, f"https://uk.finance.yahoo.com{str(link)}"]
+        endResult.append(result)
+    print(endResult)
+
+
+# TODO lewis function not done
+def get_saving_spending_news():
+    endResult = []
+    soup = BeautifulSoup(
+        requests.get("https://uk.finance.yahoo.com/topic/saving-spending/", headers=default_headers).text,
+        'html.parser')
+    uL = soup.find("ul", {'class': 'My(0) P(0) Wow(bw) Ov(h)'})
+    articles = uL.find_all("li")
+    for article in articles:
+        # adblock LMAO
+        if article.find("div", {"class": "native-ad-item"}) != None:
+            continue
+        articleDiv = article.find("div").find("div").find_all("div")[2]
+        titleDiv = articleDiv.find("h3").find("a")
+        link = titleDiv["href"]
+        title = titleDiv.text
+        desc = articleDiv.find("p").text
+        result = [title, desc, f"https://uk.finance.yahoo.com{str(link)}"]
+        endResult.append(result)
+    print(endResult)
 
 
 ### Earnings functions
@@ -238,25 +283,25 @@ def get_earnings_in_date_range(start_date, end_date):
                    
            Returns the stock tickers with expected EPS data for all dates in the
            input range (inclusive of the start_date and end_date.'''
-    
+
         earnings_data = []
 
         days_diff = pandas.Timestamp(end_date)- pandas.Timestamp(start_date)
         days_diff = days_diff.days
         current_date = pandas.Timestamp(start_date)
-        
+
         dates = [current_date+datetime.timedelta(diff) for diff in range(days_diff + 1)]
         dates = [d.strftime("%Y-%m-%d") for d in dates]
- 
+
         i = 0
         while i < len(dates):
             try:
                 earnings_data += get_earnings_for_date(dates[i])
             except Exception:
                 pass
-            
+
             i += 1
-            
+
         return earnings_data
 
 
