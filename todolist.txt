@@ -6,3 +6,10 @@
 # todo detect type of ticker loaded
 # todo improve TNS for ETF type finder, eg ISF.L working (basically checking 2nd index)
 # nasdaq = ??? a mess of like 400 different types, more research needed
+
+# get live price of apple  # todo make a function to get live price of ticker
+#print(get_live_price('aapl'))
+
+# live price sources:
+# https://www.google.com/finance/quote/TSLA:NASDAQ
+# https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch

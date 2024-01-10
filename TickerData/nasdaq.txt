@@ -1,4 +1,4 @@
-# reload+after+2024-01-09 23:59:28.620426
+# reload+after+2024-01-17 01:04:09.004676
 AACI§Armada Acquisition Corp. I§Common Stock
 AACIU§Armada Acquisition Corp. I§Unit
 AACIW§Armada Acquisition Corp. I§Warrant
@@ -43,10 +43,6 @@ ACAD§ACADIA Pharmaceuticals Inc.§Common Stock
 ACAH§Atlantic Coastal Acquisition Corp.§Class A Common Stock
 ACAHU§Atlantic Coastal Acquisition Corp.§Unit
 ACAHW§Atlantic Coastal Acquisition Corp.§Warrant
-ACAX§Alset Capital Acquisition Corp.§Class A Common Stock
-ACAXR§Alset Capital Acquisition Corp.§Right
-ACAXU§Alset Capital Acquisition Corp.§Unit
-ACAXW§Alset Capital Acquisition Corp.§Warrant
 ACB§Aurora Cannabis Inc.§Common Shares
 ACBA§Ace Global Business Acquisition Limited§Ordinary Shares
 ACBAU§Ace Global Business Acquisition Limited§Unit
@@ -284,7 +280,9 @@ ANIP§ANI Pharmaceuticals, Inc.§Common Stock
 ANIX§Anixa Biosciences, Inc.§Common Stock
 ANL§Adlai Nortye Ltd.§American Depositary Shares
 ANNX§Annexon, Inc.§common stock
+ANSC§Agriculture & Natural Solutions Acquisition Corporation§Class A Ordinary Shares
 ANSCU§Agriculture & Natural Solutions Acquisition Corporation§Unit
+ANSCW§Agriculture & Natural Solutions Acquisition Corporation§Warrant
 ANSS§ANSYS, Inc.§Common Stock
 ANTE§AirNet Technology Inc.§American Depositary Shares, each representing one ordinary shares
 ANTX§AN2 Therapeutics, Inc.§Common Stock
@@ -513,7 +511,7 @@ BAOS§Baosheng Media Group Holdings Limited§Ordinary shares
 BASE§Couchbase, Inc.§Common Stock
 BATRA§Atlanta Braves Holdings, Inc.§Series A Common Stock
 BATRK§Atlanta Braves Holdings, Inc.§Series C Common Stock
-BAYA§Bayview Acquisition Corp§Class A Ordinary Share
+BAYA§Bayview Acquisition Corp§Ordinary Share
 BAYAR§Bayview Acquisition Corp§Right
 BAYAU§Bayview Acquisition Corp§Unit
 BBCP§Concrete Pumping Holdings, Inc. §Common Stock
@@ -1018,8 +1016,6 @@ CLRCR§ClimateRock§Right
 CLRCU§ClimateRock§Unit
 CLRCW§ClimateRock§Warrant
 CLRO§ClearOne, Inc.§Common Stock
-CLSA§Cabana Target Leading Sector Aggressive ETF
-CLSC§Cabana Target Leading Sector Conservative ETF
 CLSD§Clearside Biomedical, Inc.§Common Stock
 CLSK§CleanSpark, Inc.§Common Stock
 CLSM§Cabana Target Leading Sector Moderate ETF
@@ -2055,7 +2051,6 @@ HAIA§Healthcare AI Acquisition Corp.§Class A Ordinary Shares
 HAIAU§Healthcare AI Acquisition Corp.§Units
 HAIAW§Healthcare AI Acquisition Corp.§Warrants
 HAIN§The Hain Celestial Group, Inc.§Common Stock
-HALL§Hallmark Financial Services, Inc.§Common Stock
 HALO§Halozyme Therapeutics, Inc.§Common Stock
 HARP§Harpoon Therapeutics, Inc.§Common Stock
 HAS§Hasbro, Inc.§Common Stock
@@ -2200,6 +2195,7 @@ HUT§Hut 8 Corp.§Common Stock
 HWBK§Hawthorn Bancshares, Inc.§Common Stock
 HWC§Hancock Whitney Corporation§Common Stock
 HWCPZ§Hancock Whitney Corporation§6.25% Subordinated Notes due 2060
+HWH§HWH International Inc.§Common Stock
 HWKN§Hawkins, Inc.§Common Stock
 HYDR§Global X Hydrogen ETF
 HYFM§Hydrofarm Holdings Group, Inc.§Common Stock
@@ -2698,8 +2694,6 @@ LLYVK§Liberty Media Corporation§Series C Liberty Live Common Stock
 LMAT§LeMaitre Vascular, Inc.§Common Stock
 LMB§Limbach Holdings, Inc.§Common Stock
 LMBS§First Trust Low Duration Opportunities ETF
-LMDX§LumiraDx Limited§Common stock
-LMDXW§LumiraDx Limited§Warrant
 LMFA§LM Funding America, Inc.§Common Stock
 LMNR§Limoneira Co§Common Stock
 LNKB§LINKBANCORP, Inc.§Common Stock
@@ -3113,7 +3107,6 @@ NMFC§New Mountain Finance Corporation§Common Stock
 NMFCZ§New Mountain Finance Corporation§8.250% Notes due 2028
 NMIH§NMI Holdings Inc§Common Stock
 NMRA§Neumora Therapeutics, Inc.§Common Stock
-NMRD§Nemaura Medical Inc.§Common Stock
 NMRK§Newmark Group, Inc.§Class A Common Stock
 NMTC§NeuroOne Medical Technologies Corporation§Common Stock
 NN§NextNav Inc.§Common stock
@@ -3659,7 +3652,7 @@ PULM§Pulmatrix, Inc.§Common Stock
 PUYI§Puyi Inc.§American Depository Shares
 PVBC§Provident Bancorp, Inc.§Common Stock
 PWFL§PowerFleet, Inc.§Common Stock
-PWM§Prestige Wealth Inc.§Ordinary Shares
+PWM§Prestige Wealth Inc.§Class A Ordinary Shares
 PWOD§Penns Woods Bancorp, Inc.§Common Stock
 PWP§Perella Weinberg Partners§Class A Common Stock
 PWUP§PowerUp Acquisition Corp.§Class A Ordinary Shares
@@ -3824,6 +3817,7 @@ RGLD§Royal Gold, Inc.§Common Stock
 RGLS§Regulus Therapeutics Inc.§Common Stock
 RGNX§REGENXBIO Inc.§Common Stock
 RGP§Resources Connection, Inc.§Common Stock
+RGS§Regis Corporation§Common Stock
 RGTI§Rigetti Computing, Inc. §Common stock
 RGTIW§Rigetti Computing, Inc. §Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 RICK§RCI Hospitality Holdings, Inc.§Common Stock
@@ -3882,6 +3876,7 @@ ROI§RiskOn International, Inc.§Common Stock
 ROIC§Retail Opportunity Investments Corp.§Common Stock
 ROIV§Roivant Sciences Ltd.§Common Shares
 ROKU§Roku, Inc.§Class A Common Stock
+ROMA§Roma Green Finance Limited§Ordinary Shares
 ROOT§Root, Inc.§Common Stock
 ROP§Roper Technologies, Inc.§Common Stock
 ROST§Ross Stores, Inc.§Common Stock
@@ -3956,6 +3951,7 @@ SATL§Satellogic Inc.§Class A Ordinary Shares
 SATLW§Satellogic Inc.§Warrant
 SATS§EchoStar Corporation§Common stock
 SAVA§Cassava Sciences, Inc.§Common Stock
+SAVAW§Cassava Sciences, Inc.§Warrant
 SBAC§SBA Communications Corporation§Class A Common Stock
 SBCF§Seacoast Banking Corporation of Florida§Common Stock
 SBET§SharpLink Gaming Ltd.§Ordinary Shares
@@ -4074,6 +4070,7 @@ SKGRU§SK Growth Opportunities Corporation§Unit
 SKGRW§SK Growth Opportunities Corporation§Warrant
 SKIN§The Beauty Health Company§Class A Common Stock
 SKOR§FlexShares Credit-Scored US Corporate Bond Index Fund§
+SKRE§Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKWD§Skyward Specialty Insurance Group, Inc.§Common Stock
 SKYT§SkyWater Technology, Inc.§Common Stock
 SKYU§ProShares Ultra Cloud Computing
@@ -4091,8 +4088,6 @@ SLDB§Solid Biosciences Inc.§Common Stock
 SLDP§Solid Power, Inc.§Class A Common Stock
 SLDPW§Solid Power, Inc.§Warrant
 SLE§Super League Enterprise, Inc.§Common Stock
-SLGC§SomaLogic, Inc.§Class A Common Stock
-SLGCW§SomaLogic, Inc.§Warrant
 SLGL§Sol-Gel Technologies Ltd.§Common Stock
 SLM§SLM Corporation§Common Stock
 SLMBP§SLM Corporation§Floating Rate Non-Cumulative Preferred Stock, Series B
@@ -4265,10 +4260,6 @@ STSS§Sharps Technology Inc.§Common Stock
 STSSW§Sharps Technology Inc.§Warrant
 STTK§Shattuck Labs, Inc.§Common Stock
 STX§Seagate Technology Holdings PLC§Ordinary Shares (Ireland)
-STXD§Strive 1000 Dividend Growth ETF
-STXG§Strive 1000 Growth ETF
-STXK§Strive Small-Cap ETF§
-STXV§Strive 1000 Value ETF
 SUNW§Sunworks, Inc.§Common Stock
 SUPN§Supernus Pharmaceuticals, Inc.§Common Stock
 SURG§SurgePays, Inc.§Common Stock
@@ -4365,10 +4356,8 @@ TCRX§TScan Therapeutics, Inc.§Common Stock
 TCX§Tucows Inc.§Common Stock
 TDI§Touchstone Dynamic International ETF
 TDIV§First Trust NASDAQ Technology Dividend Index Fund
-TDSB§Cabana Target Drawdown 7 ETF
+TDSB§Cabana Target Beta ETF
 TDSC§Cabana Target Drawdown 10 ETF
-TDSD§Cabana Target Drawdown 13 ETF
-TDSE§Cabana Target Drawdown 16 ETF
 TDUP§ThredUp Inc.§Class A Common Stock
 TEAM§Atlassian Corporation §Class A Common Stock
 TECH§Bio-Techne Corp§Common Stock

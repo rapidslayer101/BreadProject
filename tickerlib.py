@@ -43,15 +43,17 @@ def _nasdaq_trader_(search_param):  # Downloads list of nasdaq tickers
 
     tickers = [x for x in splits if len(x) > 1]
     ticker_data = []
-    for i in range(len(tickers) - 4):
-        if tickers[i] == "100" and "-" in tickers[i + 2]:
-            stock_ticker = tickers[i + 1].split('\r\n')[1]
-            stock_name = tickers[i + 2].split(" - ")[0]
-            stock_type = str(tickers[i + 2].split(" - ")[1:])[2:-2]
-            ticker_data.append(f"{stock_ticker}§{stock_name}§{stock_type}")
-        elif tickers[i] == "100" and "-" not in tickers[i + 2] and "test stock" not in tickers[i + 2].lower():
-            stock_ticker = tickers[i + 1].split('\r\n')[1]
-            ticker_data.append(f"{stock_ticker}§{tickers[i + 2]}")
+    for i in range(len(tickers)-4):
+        if tickers[i] == "100" and "-" in tickers[i+2]:
+            stock_ticker = tickers[i+1].split('\r\n')[1]
+            stock_name = tickers[i+2].split(" - ")[0]
+            stock_type = str(tickers[i+2].split(" - ")[1:])[2:-2]
+            if ".W" not in stock_ticker:
+                ticker_data.append(f"{stock_ticker}§{stock_name}§{stock_type}")
+        elif tickers[i] == "100" and "-" not in tickers[i+2] and "test stock" not in tickers[i+2].lower():
+            stock_ticker = tickers[i+1].split('\r\n')[1]
+            if ".W" not in stock_ticker:
+                ticker_data.append(f"{stock_ticker}§{tickers[i+2]}")
 
     return ticker_data
 
@@ -176,9 +178,9 @@ def __lse_reader__():
         exit()
     else:
         print(f"Downloading lse tickers...")
-        data = pandas.read_excel(f"TickerData/lse.xlsx", None)
-        all_eq = data['1.0 All Equity'].values.tolist()[8:]
-        all_no_eq = data['2.0 All Non-Equity'].values.tolist()[8:]
+        _data = pandas.read_excel(f"TickerData/lse.xlsx", None)
+        all_eq = _data['1.0 All Equity'].values.tolist()[8:]
+        all_no_eq = _data['2.0 All Non-Equity'].values.tolist()[8:]
         __lse_writer__(all_eq, "lse", 31)
         __lse_writer__(all_no_eq, "lse_eq", 31)
         os.rename("TickerData/lse.xlsx", "TickerData/lse_old.xlsx")
@@ -261,9 +263,9 @@ def load_ticker_info(_ticker):
     elif not os.path.exists(f"TickerData/Tickers/{_ticker}"):
         os.mkdir(f"TickerData/Tickers/{_ticker}")
         ticker_profile = __ticker_info_writer__(_ticker)
+        print(f"Generated folder: {_ticker}")
         return ticker_profile
     else:
-        print(f"Skipped folder {_ticker}")
         return None
 
 #########################################################################
@@ -316,13 +318,13 @@ def _tns_dict_from_search(search, ticker_list, index_list, search_dict=None):
     return search_dict
 
 
-def tns(names, other=False):  # ticker name system  # todo add ETF/TYPE searching support
+def tns(names, search_all):  # ticker name system  # todo add ETF/TYPE searching support
     ticker_results = {}
     for name in names:
         related_tickers = _tns_dict_from_search(name, tickers, indexes)
 
         # if no tickers found in {tickers} or if other=True, search {tickers_other}
-        if not related_tickers or other:
+        if not related_tickers or search_all:
             related_tickers = _tns_dict_from_search(name, tickers_other, indexes, related_tickers)
 
         # remove empty values from related_tickers
@@ -338,14 +340,17 @@ def load_profiles():
     exec_dict = {}
     comp_names_l = {}
     comp_names_s = {}
+    total_tickers = 0
     for key in tickers_all.keys():
-        counter = 0
+        total_tickers += len(tickers_all[key])
+    counter = 0
+    for key in tickers_all.keys():
         for ticker in tickers_all[key]:
             counter += 1
             ticker_profile = load_ticker_info(ticker[0])
             if ticker_profile:
-                if counter % 1000 == 0:
-                    print(f"{counter}/{len(tickers_all[key])} - {ticker[0]}")
+                if counter % 2500 == 0:
+                    print(f"{counter}/{total_tickers} - {ticker[0]}")
                 if "companyOfficers" in ticker_profile:
                     exec_dict.update({ticker[0]: eval(ticker_profile["companyOfficers"])})
                 if "longName" in ticker_profile:

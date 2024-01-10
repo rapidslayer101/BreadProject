@@ -6,12 +6,20 @@ from tickerlib import *
 def _site_scraper_(site):
     # load website so all contents can be scraped
     tables = pandas.read_html(requests.get(site, headers=default_headers).text)
-    data = {}
+    _data = {}
     for table in tables:
         for value in table.values:
-            data.update({value[0]: str(value[1:])[2:-2]})
+            _data.update({value[0]: str(value[1:])[2:-2]})
 
-    return data
+    return _data
+
+
+def table_to_dict(table):
+    _data = {}
+    for value in table.values:
+        _data.update({value[0]: [x for x in value[1:]]})
+
+    return _data
 
 
 def get_ticker_data(ticker):
@@ -23,7 +31,12 @@ def get_ticker_data(ticker):
 def get_ticker_stats(ticker):
     # Scrapes information from the statistics page on Yahoo Finance
     stats_site = f"https://finance.yahoo.com/quote/{ticker}/key-statistics?p={ticker}"
-    return _site_scraper_(stats_site)
+    ticker_stats = _site_scraper_(stats_site)
+    if "Previous Close" in ticker_stats.keys():
+        print("Ticker doesnt have stats")
+        return {}
+    else:
+        return ticker_stats
 
 
 # todo this function does the same as t_object.institutional_holders,
@@ -39,7 +52,6 @@ def get_holders(ticker):
     return table_mapper       
 
 
-# todo provides 5 tables of unique data, check usefulness
 def get_analysts_info(ticker):
     # Scrapes the Analysts page from Yahoo Finance for an input ticker
     analysts_site = f"https://finance.yahoo.com/quote/{ticker}/analysts?p={ticker}"
@@ -72,47 +84,73 @@ def _convert_to_numeric_(s):
     return _force_float_(s)
 
 
-def __raw_get_daily_info__(site):
+def __raw_get_daily_info__(site, uk=False):
     session = requests_html.HTMLSession()
     resp = session.get(site)
     tables = pandas.read_html(resp.html.raw_html)
     df = tables[0].copy()
     df.columns = tables[0].columns
-    del df["52 Week Range"]
-    df["% Change"] = df["% Change"].map(lambda x: float(x.strip("%+").replace(",", "")))
-    fields_to_change = [x for x in df.columns.tolist() if "Vol" in x or x == "Market Cap"]
-    
+
+    if uk:
+        del df["52-week range"]
+        df["% change"] = df["% change"].map(lambda x: float(x.strip("%").replace(",", "")))
+        fields_to_change = [x for x in df.columns.tolist() if "Vol" in x or x == "Market cap"]
+    else:
+        del df["52 Week Range"]
+        df["% Change"] = df["% Change"].map(lambda x: float(x.strip("%+").replace(",", "")))
+        fields_to_change = [x for x in df.columns.tolist() if "Vol" in x or x == "Market Cap"]
+
     for field in fields_to_change:
         if type(df[field][0]) == str:
             df[field] = df[field].map(_convert_to_numeric_)
             
     session.close()
     
-    return df
+    return table_to_dict(df)
     
 
-def get_day_most_active(offset: int = 0, count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
+def get_day_most_active_us(offset: int = 0, count: int = 100):
     return __raw_get_daily_info__(f"https://finance.yahoo.com/most-active?offset={offset}&count={count}")
 
 
-def get_day_gainers(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
+def get_day_most_active_uk(offset: int = 0, count: int = 100):
+    return __raw_get_daily_info__(f"https://uk.finance.yahoo.com/most-active?offset={offset}&count={count}", True)
+
+
+def get_day_gainers_us(count: int = 100):
     return __raw_get_daily_info__(f"https://finance.yahoo.com/gainers?offset=0&count={count}")
 
 
-def get_day_losers(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
+def get_day_gainers_uk(count: int = 100):
+    return __raw_get_daily_info__(f"https://uk.finance.yahoo.com/gainers?offset=0&count={count}", True)
+
+
+def get_day_losers_us(count: int = 100):
     return __raw_get_daily_info__(f"https://finance.yahoo.com/losers?offset=0&count={count}")
+
+
+def get_day_losers_uk(count: int = 100):
+    return __raw_get_daily_info__(f"https://uk.finance.yahoo.com/losers?offset=0&count={count}", True)
 
 
 def get_day_trending_tickers():
     return __raw_get_daily_info__(f"https://finance.yahoo.com/trending-tickers")
 
 
-def get_day_top_etfs(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
+def get_day_top_etfs_us(count: int = 100):
     return __raw_get_daily_info__(f"https://finance.yahoo.com/etfs?offset=0&count={count}")
 
 
-def get_day_top_mutual(count: int = 100):  # todo NOT POSSIBLE TO SCRAPE REGIONS OTHER THAN US
+def get_day_top_etfs_uk(count: int = 100):
+    return __raw_get_daily_info__(f"https://uk.finance.yahoo.com/etfs?offset=0&count={count}", True)
+
+
+def get_day_top_mutual_us(count: int = 100):
     return __raw_get_daily_info__(f"https://finance.yahoo.com/mutualfunds?offset=0&count={count}")
+
+
+def get_day_top_mutual_uk(count: int = 100):
+    return __raw_get_daily_info__(f"https://uk.finance.yahoo.com/mutualfunds?offset=0&count={count}", True)
 
 
 def get_day_top_futures():
@@ -123,13 +161,13 @@ def get_day_top_futures():
 def get_day_highest_open_interest(count: int = 100):
     # uses a different table format than other daily infos
     return pandas.read_html(requests.get(f"https://finance.yahoo.com/options/highest-open-interest?"
-                             f"offset=0&count={count}", headers=default_headers).text)[0]
+                                         f"offset=0&count={count}", headers=default_headers).text)[0]
 
 
 def get_day_highest_implied_volatility(count: int = 100):
     # uses a different table format than other daily infos
     return pandas.read_html(requests.get(f"https://finance.yahoo.com/options/highest-implied-volatility?"
-                             f"offset=0&count={count}", headers=default_headers).text)[0]
+                                         f"offset=0&count={count}", headers=default_headers).text)[0]
 
 
 def get_day_top_world_indices():
@@ -263,17 +301,19 @@ def tns_check(ticker, name):
 
 
 class TNS:
-    def __init__(self, name, other=False):
-        self.name = name
-        self.tickers = tns(name, other=other)
-        print(self.tickers)
+    def __init__(self, c_list, search_all=False):
+        self.tickers = tns(c_list, search_all)
         if not self.tickers:
-            print("Ticker not found: TNS failed to resolve ticker")
-        else:
-            print(self.tickers)
+            print("Ticker not found: TNS failed to resolve ticker(s)")
 
     def get_objects(self):
-        return [Ticker(key) for key in self.tickers.keys()]
+        ticker_objects = {}
+        for key in self.tickers.keys():
+            ticker_objects.update({key: Ticker(key)})
+        return ticker_objects
+
+    def get_results(self):
+        return self.tickers
 
 
 class Ticker:

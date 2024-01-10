@@ -1,69 +1,45 @@
 import tickers_and_cache as tnc
 
+
+input()
 while True:
-    #c_name = input("Ticker name: ")
-    c_name = ["Rolls-royce", "Tesco"]
-    t_objects = tnc.TNS(c_name, other=False).get_objects()
+    c_list = ["Rolls-royce", "Tesco"]
+    t_objects = tnc.TNS(c_list).get_objects()
+    t_results = tnc.TNS(c_list).get_results()
     if not t_objects:
         print("Ticker not found: TNS failed to resolve ticker")
     else:
         break
 
-function_list = [function for function in dir(tnc) if not function.startswith('_')]
-print(function_list)
-
 print(t_objects)
+print(t_results)
 input()
 
-# todo list of functions that are not linked to a ticker
-#print(get_day_trending_tickers())
-#print(get_day_top_futures())
-#print(get_day_highest_open_interest())
-#print(get_day_highest_implied_volatility())
-#print(get_day_top_world_indices())
-#print(get_day_top_forex_rates())
-#print(get_day_top_us_bonds())
-#print(get_day_top_crypto())
-#print(get_currencies())
-#print(get_futures())
+# todo redo list of functions that are not linked to a ticker
+#print(tnc.get_day_trending_tickers())
+#print(tnc.get_day_top_futures())
+#print(tnc.get_day_highest_open_interest())
+#print(tnc.get_day_highest_implied_volatility())
+#print(tnc.get_day_top_world_indices())
+#print(tnc.get_day_top_forex_rates())
+#print(tnc.get_day_top_us_bonds())
+#print(tnc.get_day_top_crypto())
+#print(tnc.get_currencies())
+#print(tnc.get_futures())
+#print(tnc.get_day_most_active())
+#print(tnc.get_day_gainers())
+#print(tnc.get_day_losers())
+#print(tnc.get_day_top_etfs())
+#print(tnc.get_day_top_mutual())
+#print(tnc.get_undervalued_large_caps())
 
-# todo list of functions that ONLY SHOW US REGION
-#print(get_day_most_active())
-#print(get_day_gainers())
-#print(get_day_losers())
-#print(get_day_top_etfs())
-#print(get_day_top_mutual())
-#print(get_undervalued_large_caps())
+# 4 functions that are linked to ticker
+#print(tnc.get_ticker_stats("tsla"))
+#print(tnc.get_ticker_data("tsla"))
+#print(tnc.get_earnings_history()) + print(t_object.earnings_dates)  # todo use this to create earnings history table
+#print(tnc.get_analysts_info())
 
 
-c_ticker, c_index = tns(c_name)
-#print(c_ticker[0][0], c_index)
-print(c_ticker, c_index)
-
-ticker_data = tns_check(c_ticker[0][0], c_name)
-
-print(c_ticker[0][0], c_index)
-print(ticker_data)
-ticker_stats = get_ticker_stats(c_ticker[0][0])
-if "Previous Close" in ticker_stats.keys():
-    print("Ticker doesnt have stats")
-    ticker_stats = {}
-else:
-    print(ticker_stats)
-
-ticker_data = load_ticker_info(c_ticker[0][0])  # loads from cache or generates cache
-# todo if ticker_data = {} deal with error
-print(ticker_data)
-print("\n")
-
-t_object = Ticker(c_ticker[0][0])
-print(t_object.get_news())
-input()
-
-#input("Enter to fetch all data: ")
-t_object = YF_ticker(c_ticker[0][0])
-
-# todo testing and ordering in alphabetical order
 # Below are all the t_object functions
 #print(t_object.actions)  # returns dividends and stock split dates
 #print(get_analysts_info(c_ticker[0][0]))  # returns 5 tables of data
@@ -83,7 +59,7 @@ t_object = YF_ticker(c_ticker[0][0])
 #print(t_object.institutional_holders)  # returns table 10 rows, 5 columns
 #print(t_object.major_holders)  # returns basic table 4 deep
 #print(t_object.mutualfund_holders)  # returns table of 10 rows, 5 columns
-#print(get_holders(c_ticker[0][0])) # << this gives same output as the 3 above
+#print(tnc.get_holders(c_ticker[0][0])) # << this gives same output as the 3 above
 
 #print(t_object.news)  # returns a few related news articles, title, publisher, link
 
@@ -101,14 +77,3 @@ t_object = YF_ticker(c_ticker[0][0])
 #print(t_object.splits)  # returns table of splits
 #print(t_object.get_shares_full(start="2022-01-01", end=None))  # returns table
 
-#print(get_earnings_history()) + print(t_object.earnings_dates)  # todo use this to create earnings history table
-#print(get_analysts_info())
-
-
-
-# get live price of apple  # todo make a function to get live price of ticker
-#print(get_live_price('aapl'))
-
-# live price sources:
-# https://www.google.com/finance/quote/TSLA:NASDAQ
-# https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch
