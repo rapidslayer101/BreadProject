@@ -1,0 +1,53 @@
+# reload+after+2024-01-23 13:56:13.306335
+address1§Haweswater House
+address2§Lingley Mere Business Park Lingley Green Avenue Great Sankey
+city§Warrington
+zip§WA5 3LP
+country§United Kingdom
+phone§44 1925 237 000
+fax§44 34 5070 2058
+website§https://www.unitedutilities.com
+industry§Utilities—Regulated Water
+sector§Utilities
+longBusinessSummary§United Utilities Group PLC provides water and wastewater services in the United Kingdom. It is involved in the renewable energy generation, corporate trustee, financing, and property management activities; and provision of consulting, and project management services. The company operates 43,000 kilometers of water pipes; and 79,000 kilometers of wastewater pipes. United Utilities Group PLC was incorporated in 2008 and is based in Warrington, the United Kingdom.
+fullTimeEmployees§6000
+companyOfficers§[{'maxAge': 1, 'name': 'Ms. Louise  Beardmore', 'age': 49, 'title': 'CEO & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 703490, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip Anthony Aspin', 'age': 55, 'title': 'CFO & Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 715000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Gauterin', 'title': 'Customer Services & Technology Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Robert  Lee', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon Roger Gardiner', 'age': 55, 'title': 'General Counsel & Company Secretary', 'yearBorn': 1968, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Bullock', 'title': 'Regulation & Compliance Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Adrienne  McFarland', 'title': 'People and Health & Safety Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ruth  Henshaw', 'title': 'Head of Reward & Pensions', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brendan Francis Murphy', 'age': 53, 'title': 'Treasurer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Christopher Robert Laybutt', 'title': 'Investor Relations & Clean Energy Strategy Director', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§1
+boardRisk§2
+compensationRisk§5
+shareHolderRightsRisk§1
+overallRisk§1
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.47
+dividendYield§0.044899996
+exDividendDate§1703116800
+payoutRatio§1.4722999
+fiveYearAvgDividendYield§4.51
+beta§0.44
+priceToSalesTrailing12Months§3.861372
+currency§GBp
+forwardEps§53.81
+pegRatio§-11.86
+exchange§LSE
+quoteType§EQUITY
+shortName§UNITED UTILITIES GROUP PLC ORD 
+longName§United Utilities Group PLC
+firstTradeDateEpochUtc§629366400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§744373c6-cfe1-30d0-b82c-8cf39ef2d836
+targetHighPrice§1290.0
+targetLowPrice§918.0
+targetMeanPrice§1143.31
+targetMedianPrice§1170.0
+recommendationMean§2.3
+recommendationKey§buy
+numberOfAnalystOpinions§13
+quickRatio§1.734
+earningsGrowth§-0.669
+grossMargins§0.8901
+ebitdaMargins§0.45445
+trailingPegRatio§None

@@ -1,0 +1,52 @@
+# reload+after+2024-01-21 23:56:12.661878
+address1§Cody Technology Park
+address2§Ively Road
+city§Farnborough
+zip§GU14 0LX
+country§United Kingdom
+phone§44 1252 392 000
+website§https://www.qinetiq.com
+industry§Aerospace & Defense
+sector§Industrials
+longBusinessSummary§QinetiQ Group plc operates as a science and engineering company primarily in the defense, security, and infrastructure markets in the United Kingdom, the United States, Australia, Europe, and internationally. The company operates through EMEA Services and Global Products segments. It offers advanced materials and manufacturing products; artificial intelligence, analytics, and advanced computing technologies; cyber and electromagnetic technologies; human protection and performance systems; novel systems, and weapons and effects; platform and system design and assessment products; power sources, and energy storage and distribution products; robotics and autonomy services; secure communications and navigation systems; and sensing, processing, and data fusion systems. The company also provides testing and evaluation, training and simulation, and cyber and digital resilience services, as well as unmanned air, land, and surface targets. It serves defense, aviation and aerospace, energy and utility, financial services, government, law enforcement, marine, space, and telecommunications sectors. The company was founded in 2001 and is based in Farnborough, the United Kingdom.
+fullTimeEmployees§8268
+companyOfficers§[{'maxAge': 1, 'name': 'Mr. Steve  Wadey', 'age': 57, 'title': 'Group CEO & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 2162000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Borg', 'title': 'Group CFO & Corporate Governance and Director', 'fiscalYear': 2023, 'totalPay': 1393000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Sewart', 'title': 'Chief Technology & Operating Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'John  Haworth', 'title': 'Group Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James Stephen Field', 'title': 'Group Director Legal & Company Secretary', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Amanda  Nelson', 'title': 'Chief People Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Neville  Salkeld', 'title': 'Chief Strategy Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vicky  Weise', 'title': 'Chief Enterprise Services Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Willis', 'title': 'Chief Executive of UK Intelligence', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Iwicki', 'title': 'Executive VP of C5ISR Business - QinetiQ US', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+auditRisk§9
+boardRisk§4
+compensationRisk§8
+shareHolderRightsRisk§10
+overallRisk§8
+governanceEpochDate§1704067200
+compensationAsOfEpochDate§1703980800
+maxAge§86400
+priceHint§2
+dividendRate§0.08
+dividendYield§0.0255
+exDividendDate§1704326400
+payoutRatio§0.41849998
+fiveYearAvgDividendYield§2.16
+beta§0.394
+priceToSalesTrailing12Months§1.0145156
+currency§GBp
+forwardEps§29.99
+pegRatio§1.02
+exchange§LSE
+quoteType§EQUITY
+shortName§QINETIQ GROUP PLC ORD 1P
+longName§QinetiQ Group plc
+firstTradeDateEpochUtc§1139558400
+timeZoneFullName§Europe/London
+timeZoneShortName§GMT
+uuid§55f52fbb-a7c9-3950-8773-8cc7d961094c
+targetHighPrice§480.0
+targetLowPrice§330.0
+targetMeanPrice§429.0
+targetMedianPrice§448.5
+recommendationMean§2.0
+recommendationKey§buy
+numberOfAnalystOpinions§8
+quickRatio§1.078
+earningsGrowth§-0.426
+grossMargins§0.11897001
+ebitdaMargins§0.117740005
+trailingPegRatio§None
