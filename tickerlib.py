@@ -19,6 +19,17 @@ default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
                                  'Chrome/120.0.0.0 Safari/537.3'}
 
 
+def _site_scraper_(site):
+    # load website so all contents can be scraped
+    tables = pandas.read_html(requests.get(site, headers=default_headers).text)
+    _data = {}
+    for table in tables:
+        for value in table.values:
+            _data.update({value[0]: str(value[1:])[2:-2]})
+
+    return _data
+
+
 def _tickers_sp500_():  # Downloads list of tickers currently listed in the S&P 500
     sp500 = pandas.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     sp_tickers = []
@@ -40,19 +51,19 @@ def _nasdaq_trader_(search_param):  # Downloads list of nasdaq tickers
     info = r.getvalue().decode()
     splits = info.split("|")
 
-    tickers = [x for x in splits if len(x) > 1]
+    ticker_list = [x for x in splits if len(x) > 1]
     ticker_data = []
-    for i in range(len(tickers)-4):
-        if tickers[i] == "100" and "-" in tickers[i+2]:
-            stock_ticker = tickers[i+1].split('\r\n')[1]
-            stock_name = tickers[i+2].split(" - ")[0]
-            stock_type = str(tickers[i+2].split(" - ")[1:])[2:-2]
+    for i in range(len(ticker_list)-4):
+        if ticker_list[i] == "100" and "-" in ticker_list[i+2]:
+            stock_ticker = ticker_list[i+1].split('\r\n')[1]
+            stock_name = ticker_list[i+2].split(" - ")[0]
+            stock_type = str(ticker_list[i+2].split(" - ")[1:])[2:-2]
             if ".W" not in stock_ticker:
                 ticker_data.append(f"{stock_ticker}§{stock_name}§{stock_type}")
-        elif tickers[i] == "100" and "-" not in tickers[i+2] and "test stock" not in tickers[i+2].lower():
-            stock_ticker = tickers[i+1].split('\r\n')[1]
+        elif ticker_list[i] == "100" and "-" not in ticker_list[i+2] and "test stock" not in ticker_list[i+2].lower():
+            stock_ticker = ticker_list[i+1].split('\r\n')[1]
             if ".W" not in stock_ticker:
-                ticker_data.append(f"{stock_ticker}§{tickers[i+2]}")
+                ticker_data.append(f"{stock_ticker}§{ticker_list[i+2]}")
 
     return ticker_data
 
@@ -110,24 +121,24 @@ def _tickers_ftse250_():  # UK 250
 
 def __writer__(file, refresh_days):
     with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
-        f.write(f"# reload+after+{datetime.datetime.now() + datetime.timedelta(days=refresh_days)}\n")
+        f.write(f"# reload+after+{datetime.datetime.now()+datetime.timedelta(days=refresh_days)}\n")
         if file == "sp_500":
-            data = _tickers_sp500_()
+            ticker_data = _tickers_sp500_()
         elif file == "nasdaq":
-            data = _tickers_nasdaq_()
+            ticker_data = _tickers_nasdaq_()
         elif file == "nasdaq_other":
-            data = _tickers_us_other_()
+            ticker_data = _tickers_us_other_()
         elif file == "dow_jones":
-            data = _tickers_dow_()
+            ticker_data = _tickers_dow_()
         elif file == "nifty50":
-            data = _tickers_nifty50_()
+            ticker_data = _tickers_nifty50_()
         elif file == "ftse100":
-            data = _tickers_ftse100_()
+            ticker_data = _tickers_ftse100_()
         elif file == "ftse250":
-            data = _tickers_ftse250_()
+            ticker_data = _tickers_ftse250_()
 
         ticker_info = []
-        for ticker in data:
+        for ticker in ticker_data:
             f.write(f"{ticker}\n")
             ticker_info.append(ticker.split("§"))
 
@@ -153,10 +164,10 @@ def _refresh_ticker_data_(file, refresh_days):
     return ticker_info
 
 
-def __lse_writer__(data, file, refresh_days):
+def __lse_writer__(lse_data, file, refresh_days):
     with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
         f.write(f"# reload+after+{datetime.datetime.now() + datetime.timedelta(days=refresh_days)}\n")
-        for ticker in data:
+        for ticker in lse_data:
             line = ""
             for i in range(len(ticker)):
                 if i == 0:
@@ -218,7 +229,7 @@ def __ticker_info_writer__(_ticker):
     with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
         r_day_add, r_hour_add = random.randint(0, 3), random.randint(0, 23)
         f.write(
-            f"# reload+after+{datetime.datetime.now() + datetime.timedelta(days=12 + r_day_add) + datetime.timedelta(hours=r_hour_add)}\n")
+            f"# reload+after+{datetime.datetime.now() + datetime.timedelta(days=12+r_day_add)+datetime.timedelta(hours=r_hour_add)}\n")
         # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
         ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
                    "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
@@ -285,24 +296,25 @@ if not os.path.exists("TickerData/Tickers"):
 # type index: [ticker, company, other data]
 # type weighted index: [ticker, company, weight, other data]
 
-sp_500 = _refresh_ticker_data_("sp_500", 7)  # type index
-nasdaq = _refresh_ticker_data_("nasdaq", 7)  # type tickers
-nasdaq_other = _refresh_ticker_data_("nasdaq_other", 7)  # type tickers
-dow_jones = _refresh_ticker_data_("dow_jones", 7)  # type weighted index
-nifty50 = _refresh_ticker_data_("nifty50", 7)  # type index
-ftse100 = _refresh_ticker_data_("ftse100", 7)  # type index
-ftse250 = _refresh_ticker_data_("ftse250", 7)  # type index
-lse, lse_eq = _refresh_lse_tickers_()  # type tickers
+_sp_500_ = _refresh_ticker_data_("sp_500", 7)  # type index
+_nasdaq_ = _refresh_ticker_data_("nasdaq", 7)  # type tickers
+_nasdaq_other_ = _refresh_ticker_data_("nasdaq_other", 7)  # type tickers
+_dow_jones_ = _refresh_ticker_data_("dow_jones", 7)  # type weighted index
+_nifty50_ = _refresh_ticker_data_("nifty50", 7)  # type index
+_ftse100_ = _refresh_ticker_data_("ftse100", 7)  # type index
+_ftse250_ = _refresh_ticker_data_("ftse250", 7)  # type index
+_lse_, _lse_eq_ = _refresh_lse_tickers_()  # type tickers
 
-tickers = {'nasdaq': nasdaq, 'lse': lse}
-tickers_other = {'nasdaq_other': nasdaq_other, 'lse_eq': lse_eq}
-tickers_all = {'nasdaq': nasdaq, 'nasdaq_other': nasdaq_other, 'lse': lse, 'lse_eq': lse_eq}
-indexes = {'sp_500': sp_500, 'dow_jones': dow_jones, 'nifty50': nifty50, 'ftse100': ftse100, 'ftse250': ftse250}
+tickers = {'nasdaq': _nasdaq_, 'lse': _lse_}
+tickers_other = {'nasdaq_other': _nasdaq_other_, 'lse_eq': _lse_eq_}
+tickers_all = {'nasdaq': _nasdaq_, 'nasdaq_other': _nasdaq_other_, 'lse': _lse_, 'lse_eq': _lse_eq_}
+indexes = {'sp_500': _sp_500_, 'dow_jones': _dow_jones_, 'nifty50': _nifty50_,
+           'ftse100': _ftse100_, 'ftse250': _ftse250_}
 
 print("Loaded tickers and indexes successfully...\n-------------------------------------------")
 
 
-def _tns_dict_from_search(search, ticker_list, index_list, search_dict=None):
+def _tns_dict_from_search_(search, ticker_list, index_list, search_dict=None):
     if not search_dict:
         search_dict = {}
     for key in ticker_list.keys():
@@ -317,14 +329,14 @@ def _tns_dict_from_search(search, ticker_list, index_list, search_dict=None):
     return search_dict
 
 
-def tns(names, search_all):  # ticker name system  # todo add ETF/TYPE searching support
+def _tns_(names, search_all):  # ticker name system  # todo add ETF/TYPE searching support
     ticker_results = {}
     for name in names:
-        related_tickers = _tns_dict_from_search(name, tickers, indexes)
+        related_tickers = _tns_dict_from_search_(name, tickers, indexes)
 
         # if no tickers found in {tickers} or if other=True, search {tickers_other}
         if not related_tickers or search_all:
-            related_tickers = _tns_dict_from_search(name, tickers_other, indexes, related_tickers)
+            related_tickers = _tns_dict_from_search_(name, tickers_other, indexes, related_tickers)
 
         # remove empty values from related_tickers
         for key in related_tickers.keys():
@@ -333,6 +345,28 @@ def tns(names, search_all):  # ticker name system  # todo add ETF/TYPE searching
                     related_tickers[key].remove(value)
         ticker_results.update({name: related_tickers})
     return ticker_results
+
+
+# extra TNS code to try to detect if invalid ticker is returned from TNS and fix ticker
+# code also returns ticker data
+# def tns_check(ticker, name):
+#    ticker_live = get_ticker_data(ticker)
+#    fixed = True
+#    try:
+#        ticker_live['Open']
+#    except KeyError:
+#        fixed = False
+#    for key in ticker_live.keys():
+#        if re.search(r"\b"+re.escape(name.lower())+r"\b", ticker_live[key].lower()):
+#            print(f"TNS Check fixed: {ticker[0][0]} --> {key}")
+#            ticker = [[key, ticker_live[key]]]
+#            ticker_live = get_ticker_data(ticker[0][0])
+#            fixed = True
+#            break
+#    if not fixed:
+#        print(ticker_live)
+#        exit(f"Ticker error: TNS Check failed to resolve ticker")
+#    return ticker_live
 
 
 def load_profiles():
@@ -369,5 +403,80 @@ class _Data:
               "-------------------------------------------")
 
 
-#data = _Data()
+data = _Data()
+
+
+class TNS:
+    def __init__(self, c_list, search_all=False):
+        self.tickers = _tns_(c_list, search_all)
+        print(self.tickers)
+        if not self.tickers:
+            print("Ticker not found: TNS failed to resolve ticker(s)")
+
+    def get_objects(self):
+        ticker_objects = {}
+        for key in self.tickers.keys():
+            # getting only the 0 index means only the first result will be turned into an object
+            key = [key for key in self.tickers[key].keys()][0]
+            ticker_objects.update({key: _Ticker(key)})
+        return ticker_objects
+
+    def get_results(self):
+        return self.tickers
+
+    def get_objects_and_results(self):
+        return self.get_objects(), self.get_results()
+
+
+class _Ticker:
+    def __init__(self, ticker):
+        self.ticker = ticker
+        self._ticker_obj_ = yfinance.Ticker(ticker)
+        self._profile_ = None
+
+    def get_profile(self):
+        if self._profile_:
+            return self._profile_
+        else:
+            self._profile_ = load_ticker_info(self.ticker)
+            return self._profile_
+
+    def get_ticker_data(self):
+        # Scrapes data elements found on Yahoo Finance's quote page
+        site = f"https://finance.yahoo.com/quote/{self.ticker}?p={self.ticker}"
+        return _site_scraper_(site)
+
+    def get_ticker_stats(self):
+        # Scrapes information from the statistics page on Yahoo Finance
+        stats_site = f"https://finance.yahoo.com/quote/{self.ticker}/key-statistics?p={self.ticker}"
+        ticker_stats = _site_scraper_(stats_site)
+        if "Previous Close" in ticker_stats.keys():
+            print("Ticker doesnt have stats")
+            return {}
+        else:
+            return ticker_stats
+
+    # this function does the same as t_object.institutional_holders,
+    # t_object.major_holders, t_object.mutualfund_holders
+    def get_holders(self):
+        # Scrapes the Holders page from Yahoo Finance for an input ticker
+        holders_site = f"https://finance.yahoo.com/quote/{self.ticker}/holders?p={self.ticker}"
+        tables = pandas.read_html(requests.get(holders_site, headers=default_headers).text)
+        table_names = ["Major Holders", "Direct Holders (Forms 3 and 4)",
+                       "Top Institutional Holders", "Top Mutual Fund Holders"]
+        table_mapper = {key: val for key, val in zip(table_names, tables)}
+
+        return table_mapper
+
+    def get_analysts_info(self):
+        # Scrapes the Analysts page from Yahoo Finance for an input ticker
+        analysts_site = f"https://finance.yahoo.com/quote/{self.ticker}/analysts?p={self.ticker}"
+        tables = pandas.read_html(requests.get(analysts_site, headers=default_headers).text)
+        table_names = [table.columns[0] for table in tables]
+        table_mapper = {key: val for key, val in zip(table_names, tables)}
+
+        return table_mapper
+
+    def get_news(self):
+        return self._ticker_obj_.news
 

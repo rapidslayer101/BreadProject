@@ -1,18 +1,19 @@
 import tickers_and_cache as tnc
 
 # This file is for testing the ticker data and cache functions
+print(tnc.get_earnings_in_date_range_us("2023-01-05", "2023-01-10"))
+input()
 
-input("Input")
 while True:
     c_list = ["Rolls-royce", "Tesco"]
-    t_objects = tnc.TNS(c_list).get_objects()
-    t_results = tnc.TNS(c_list).get_results()
+    t_objects, t_results = tnc.TNS(c_list).get_objects_and_results()
     if not t_objects:
         print("Ticker not found: TNS failed to resolve ticker")
     else:
         break
 
-print(t_objects["Tesco"].get_news())
+for t in t_objects:
+    print(t, t_objects[t].get_ticker_stats())
 print(t_results)
 input()
 
