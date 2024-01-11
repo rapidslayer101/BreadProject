@@ -1,2 +1,4 @@
 /.idea
 /__pycache__
+BotData/token.txt
+/BotData/subscribed_users.txt
