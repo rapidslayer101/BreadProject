@@ -1,9 +1,9 @@
 import json
-
 import requests_html
-from bs4 import BeautifulSoup
-
 from tickerlib import *
+
+# This file contains functions that scrape data from Yahoo Finance
+# This file should be called when the program starts
 
 
 def _site_scraper_(site):
@@ -204,48 +204,6 @@ def get_day_top_crypto(offset: int = 0, count: int = 100):
     session.close()
 
     return df
-
-
-# TODO lewis function not done
-def get_bank_of_england_news():
-    endResult = []
-    soup = BeautifulSoup(requests.get("https://uk.finance.yahoo.com/topic/bank-of-england/", headers=default_headers).text, 'html.parser')
-    uL = soup.find("ul", {'class': 'My(0) P(0) Wow(bw) Ov(h)'})
-    articles = uL.find_all("li")
-    for article in articles:
-        # adblock LMAO
-        if article.find("div", {"class": "native-ad-item"}) != None:
-            continue
-        articleDiv = article.find("div").find("div").find_all("div")[2]
-        titleDiv = articleDiv.find("h3").find("a")
-        link = titleDiv["href"]
-        title = titleDiv.text
-        desc = articleDiv.find("p").text
-        result = [title, desc, f"https://uk.finance.yahoo.com{str(link)}"]
-        endResult.append(result)
-    print(endResult)
-
-
-# TODO lewis function not done
-def get_saving_spending_news():
-    endResult = []
-    soup = BeautifulSoup(
-        requests.get("https://uk.finance.yahoo.com/topic/saving-spending/", headers=default_headers).text,
-        'html.parser')
-    uL = soup.find("ul", {'class': 'My(0) P(0) Wow(bw) Ov(h)'})
-    articles = uL.find_all("li")
-    for article in articles:
-        # adblock LMAO
-        if article.find("div", {"class": "native-ad-item"}) != None:
-            continue
-        articleDiv = article.find("div").find("div").find_all("div")[2]
-        titleDiv = articleDiv.find("h3").find("a")
-        link = titleDiv["href"]
-        title = titleDiv.text
-        desc = articleDiv.find("p").text
-        result = [title, desc, f"https://uk.finance.yahoo.com{str(link)}"]
-        endResult.append(result)
-    print(endResult)
 
 
 ### Earnings functions

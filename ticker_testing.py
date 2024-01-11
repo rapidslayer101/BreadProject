@@ -1,7 +1,8 @@
 import tickers_and_cache as tnc
 
+# This file is for testing the ticker data and cache functions
 
-input()
+input("Input")
 while True:
     c_list = ["Rolls-royce", "Tesco"]
     t_objects = tnc.TNS(c_list).get_objects()
@@ -11,7 +12,7 @@ while True:
     else:
         break
 
-print(t_objects)
+print(t_objects["Tesco"].get_news())
 print(t_results)
 input()
 

@@ -9,10 +9,9 @@ import datetime
 import pandas
 import yfinance
 
-# HEAVILY MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
 # This file contains TNS, cache based functions and the Ticker class
+# HEAVILY MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
 # TNS links TICKERS, INDEXES and COMPANIES together
-# This file should be called when the program starts
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.simplefilter(action='ignore', category=UserWarning)
@@ -370,5 +369,5 @@ class _Data:
               "-------------------------------------------")
 
 
-data = _Data()
+#data = _Data()
 
