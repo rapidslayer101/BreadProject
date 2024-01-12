@@ -476,26 +476,29 @@ class _Ticker:
         else:
             return ticker_stats
 
-    # todo table_to_dict this function
     # this function does the same as t_object.institutional_holders,
     # t_object.major_holders, t_object.mutualfund_holders
     def holders(self):  # Scrapes the Holders page from Yahoo Finance for an input ticker
         holders_site = f"https://finance.yahoo.com/quote/{self.ticker}/holders?p={self.ticker}"
-        tables = pandas.read_html(requests.get(holders_site, headers=default_headers).text)
-        table_names = ["Major Holders", "Direct Holders (Forms 3 and 4)",
-                       "Top Institutional Holders", "Top Mutual Fund Holders"]
-        table_mapper = {key: val for key, val in zip(table_names, tables)}
+        holders_data = []
+        for table in pandas.read_html(requests.get(holders_site, headers=default_headers).text):
+            if isinstance(table, pandas.DataFrame):
+                holders_data.append(table_to_dict(table))
+            else:
+                holders_data.append(table)
 
-        return table_mapper
+        return holders_data
 
-    # todo table_to_dict this function
     def analysts_info(self):  # Scrapes the Analysts page from Yahoo Finance for an input ticker
         analysts_site = f"https://finance.yahoo.com/quote/{self.ticker}/analysts?p={self.ticker}"
-        tables = pandas.read_html(requests.get(analysts_site, headers=default_headers).text)
-        table_names = [table.columns[0] for table in tables]
-        table_mapper = {key: val for key, val in zip(table_names, tables)}
+        analysts_data = []
+        for table in pandas.read_html(requests.get(analysts_site, headers=default_headers).text):
+            if isinstance(table, pandas.DataFrame):
+                analysts_data.append(table_to_dict(table))
+            else:
+                analysts_data.append(table)
 
-        return table_mapper
+        return analysts_data
 
     def earnings_history(self):  # Scrapes the earnings calendar of ticker with EPS actual vs. expected.
         url = f"https://finance.yahoo.com/calendar/earnings?symbol={self.ticker}"
@@ -525,9 +528,10 @@ class _Ticker:
     def history(self, start=None, end=None, period=None, interval=None):
         return table_to_dict(self._ticker_obj_.history(start=start, end=end, period=period, interval=interval))
 
-    # todo table_to_dict this function
     def history_metadata(self):  # returns list and table 5 rows, 6 columns
-        return self._ticker_obj_.history_metadata
+        history_metadata = self._ticker_obj_.history_metadata
+        history_metadata["tradingPeriods"] = table_to_dict(history_metadata["tradingPeriods"])
+        return history_metadata
 
     def income_statement(self):
         return table_to_dict(self._ticker_obj_.income_stmt)
@@ -551,9 +555,14 @@ class _Ticker:
     def options(self):  # returns list of dates to use in option_chain (19 dates for example)
         return self._ticker_obj_.options
 
-    # todo table_to_dict this function
     def option_chain(self, date):  # returns table of 101x14, and table of 79x14 and metadata list
-        return self._ticker_obj_.option_chain(date)
+        option_data = []
+        for table in self._ticker_obj_.option_chain(date):
+            if isinstance(table, pandas.DataFrame):
+                option_data.append(table_to_dict(table))
+            else:
+                option_data.append(table)
+        return option_data
 
     def quarterly_balance_sheet(self):  # returns table 78 rows, 4 columns
         return table_to_dict(self._ticker_obj_.quarterly_balance_sheet)
@@ -567,9 +576,12 @@ class _Ticker:
     def quarterly_income_statement(self):  # returns table 46 rows, 4 columns
         return table_to_dict(self._ticker_obj_.quarterly_income_stmt)
 
-    # todo table_to_dict this function
     def splits(self):  # returns table of splits
-        return table_to_dict(self._ticker_obj_.splits)
+        split_data = self._ticker_obj_.splits
+        split_dict = {}
+        for index in split_data.index:
+            split_dict.update({str(index): split_data[index]})
+        return split_dict
 
     # todo table_to_dict this function
     def shares_full(self, start=None, end=None):  # returns table
