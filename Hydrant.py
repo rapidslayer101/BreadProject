@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dt_parse
 from openai import OpenAI
 import string
-import ticker_loader as ticker
+import tickers_and_cache as ticker
 
 NOSQL = False  # If true, does not try anything with MySQL
 NOLLM = False  # If true, does not try to use LLM
@@ -296,7 +296,7 @@ def summary_filter(title, rss_summary):
 Your task is to determine if they are related to companies or not.
 You should return your answers with either a Yes or No."""},
         {"role": "user", "content": f"Title:{title}\nSSummary:{rss_summary}"}]
-    completion = client.chat.completions.create(model="local-model", messages=messages, temperature=0.1,
+    completion = client.chat.completions.create(model="lunatic", messages=messages, temperature=0.1,
                                                 max_tokens=1).choices[0].message.content.lower().strip().translate(
         str.maketrans('', '', string.punctuation)).split(" ")[0]
     if completion == "yes" or completion == "true":
