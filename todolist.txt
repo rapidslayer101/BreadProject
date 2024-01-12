@@ -13,3 +13,5 @@
 # live price sources:
 # https://www.google.com/finance/quote/TSLA:NASDAQ
 # https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch
+
+#print(tnc.get_earnings_history()) + print(t_object.earnings_dates)  # todo use this to create earnings history table
