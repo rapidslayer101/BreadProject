@@ -1,4 +1,6 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 import time
 from bs4 import BeautifulSoup
 import requests
@@ -38,23 +40,62 @@ default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
                                  'Chrome/120.0.0.0 Safari/537.3'}
 
 
-# open browser and scrape
+class NewsScraper:
+    def __init__(self):
+        self.browser = webdriver.Chrome()
+        pass
 
-browser = webdriver.Chrome()
-browser.get("https://uk.finance.yahoo.com/topic/bank-of-england/")
-# scroll to bottom of page
-browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-# wait for page to load
-time.sleep(5)
-# get html
-html = browser.page_source
-# close browser
-browser.quit()
+    def scrape_site_for_links(self, site_url: str, scroll_time: int):
+        self.browser.get(site_url)
+        time.sleep(1)
+        while scroll_time > 0:
+            self.browser.find_element(By.XPATH, "//body").send_keys(Keys.END)
+            time.sleep(1)
+            scroll_time -= 1
 
-# parse html
-soup = BeautifulSoup(html, "html.parser")
-# find all news articles
-news_articles = soup.find_all("div", class_="Mb(5px)")
+        soup = BeautifulSoup(self.browser.page_source, "html.parser")
+        links = soup.find_all("a")
+
+        # Get links
+        for a_tag in links:
+            try:
+                print(a_tag["href"])
+            except KeyError:
+                print("Fail")
+        pass
+
+    def close(self):
+        self.browser.quit()
+    pass
+
+
+class YahooFinanceNewsScraper(NewsScraper):
+    acceptedConsent = False
+
+    def __init__(self):
+        super().__init__()
+
+    def accept_consent_cookies(self, site_url: str):
+        self.browser.get(site_url)
+        time.sleep(1)
+        self.browser.find_element(By.XPATH, "//button[@value='agree']").click()
+        self.acceptedConsent = True
+
+    def scrape_site_for_links(self, site_url: str, scroll_time: float):
+        if not self.acceptedConsent:
+            self.accept_consent_cookies(site_url)
+
+        super().scrape_site_for_links(site_url, scroll_time)
+
+    pass
+
+
+cnn = NewsScraper()
+cnn.scrape_site_for_links("https://edition.cnn.com/", 5)
+cnn.close()
+# yahoo = YahooFinanceNewsScraper()
+# yahoo.scrape_site_for_links("https://uk.finance.yahoo.com/topic/bank-of-england/", 5)
+# yahoo.close()
 
 
 # TODO lewis old functions
