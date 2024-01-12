@@ -8,6 +8,7 @@ import os
 import datetime
 import pandas
 import yfinance
+import sqlite3
 
 # This file contains TNS, cache based functions and the Ticker class
 # HEAVILY MODIFIED FROM YAHOO-FIN LIBRARY AT: https://pypi.org/project/yahoo-fin/#history
@@ -19,8 +20,13 @@ default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
                                  'Chrome/120.0.0.0 Safari/537.3'}
 
 
-def _site_scraper_(site):
-    # load website so all contents can be scraped
+# connect to the ticker database
+_ticker_db = sqlite3.connect("TickerData/ticker.db")
+_ticker_db.execute("CREATE TABLE IF NOT EXISTS profile (ticker TEXT PRIMARY KEY, refresh_time TEXT, profile_data TEXT,"
+                   " UNIQUE(ticker))")
+
+
+def _site_scraper_(site):  # load website so all contents can be scraped
     tables = pandas.read_html(requests.get(site, headers=default_headers).text)
     _data = {}
     for table in tables:
@@ -28,6 +34,19 @@ def _site_scraper_(site):
             _data.update({value[0]: str(value[1:])[2:-2]})
 
     return _data
+
+
+def table_to_dict(table, skip: int = 0):
+    _data_ = {}
+    for i, value in enumerate(table.values):
+        if skip > 0:
+            _data_.update({str(table.index[i]): [x for x in value[:-skip]]})
+        else:
+            _data_.update({str(table.index[i]): [x for x in value]})
+        # filtering disabled as it has the potential to mess up indexes
+        # _data.update({value[0]: [x for x in value[1:] if str(x) not in ["", "-", "nan", "NaN"]]})
+
+    return _data_
 
 
 def _tickers_sp500_():  # Downloads list of tickers currently listed in the S&P 500
@@ -208,14 +227,14 @@ def _refresh_lse_tickers_():
                 return __lse_reader__()
             else:
                 print(f"Found lse and lse_eq tickers...")
-                _lse = []
+                _lse_ = []
                 for ticker in f.readlines():
-                    _lse.append(ticker.replace("\n", "").split("§"))
+                    _lse_.append(ticker.replace("\n", "").split("§"))
+                _lse_eq_ = []
                 with open(f"TickerData/lse_eq.txt", "r", encoding="utf-8") as g:
-                    _lse_eq = []
                     for ticker in g.readlines()[1:]:
-                        _lse_eq.append(ticker.replace("\n", "").split("§"))
-                return _lse, _lse_eq
+                        _lse_eq_.append(ticker.replace("\n", "").split("§"))
+                return _lse_, _lse_eq_
 
 
 def __ticker_info_writer__(_ticker):
@@ -226,57 +245,58 @@ def __ticker_info_writer__(_ticker):
         print(f"Ticker {_ticker} profile failed to load: HTTPError")
         return {}
     ticker_profile = {}
-    with open(f"TickerData/Tickers/{_ticker}/profile.txt", "w", encoding="utf-8") as f:
-        r_day_add, r_hour_add = random.randint(0, 3), random.randint(0, 23)
-        f.write(
-            f"# reload+after+{datetime.datetime.now() + datetime.timedelta(days=12+r_day_add)+datetime.timedelta(hours=r_hour_add)}\n")
-        # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
-        ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
-                   "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
-                   "regularMarketVolume", "averageVolume", "averageVolume10days", "averageDailyVolume10Day", "bid",
-                   "ask", "bidSize", "askSize", "marketCap", "fiftyTwoWeekLow", "fiftyTwoWeekHigh", "fiftyDayAverage",
-                   "twoHundredDayAverage", "trailingAnnualDividendRate", "trailingAnnualDividendYield",
-                   "enterpriseValue", "profitMargins", "floatShares", "sharesOutstanding", "sharesShort",
-                   "sharesShortPriorMonth", "sharesShortPreviousMonthDate", "sharesPercentSharesOut",
-                   "heldPercentInsiders", "heldPercentInstitutions", "shortRatio", "shortPercentOfFloat",
-                   "impliedSharesOutstanding", "bookValue", "priceToBook", "lastFiscalYearEnd", "nextFiscalYearEnd",
-                   "mostRecentQuarter", "earningsQuarterlyGrowth", "netIncomeToCommon", "trailingEps",
-                   "lastSplitFactor", "lastSplitDate", "enterpriseToRevenue", "enterpriseToEbitda", "52WeekChange",
-                   "SandP52WeekChange", "symbol", "underlyingSymbol", "currentPrice", "totalCash", "totalCashPerShare",
-                   "ebitda", "totalDebt", "currentRatio", "totalRevenue", "debtToEquity", "revenuePerShare",
-                   "returnOnAssets", "returnOnEquity", "grossProfits", "freeCashflow", "operatingCashflow",
-                   "revenueGrowth", "operatingMargins", "financialCurrency"]
+    r_day_add, r_hour_add = random.randint(0, 3), random.randint(0, 23)
+    # the below keys are perceived as mostly live data (gained from get_ticker_data()), so excluded from the cache
+    ex_keys = ["previousClose", "open", "dayLow", "dayHigh", "regularMarketPreviousClose", "regularMarketOpen",
+               "regularMarketDayLow", "regularMarketDayHigh", "trailingPE", "forwardPE", "volume",
+               "regularMarketVolume", "averageVolume", "averageVolume10days", "averageDailyVolume10Day", "bid",
+               "ask", "bidSize", "askSize", "marketCap", "fiftyTwoWeekLow", "fiftyTwoWeekHigh", "fiftyDayAverage",
+               "twoHundredDayAverage", "trailingAnnualDividendRate", "trailingAnnualDividendYield",
+               "enterpriseValue", "profitMargins", "floatShares", "sharesOutstanding", "sharesShort",
+               "sharesShortPriorMonth", "sharesShortPreviousMonthDate", "sharesPercentSharesOut",
+               "heldPercentInsiders", "heldPercentInstitutions", "shortRatio", "shortPercentOfFloat",
+               "impliedSharesOutstanding", "bookValue", "priceToBook", "lastFiscalYearEnd", "nextFiscalYearEnd",
+               "mostRecentQuarter", "earningsQuarterlyGrowth", "netIncomeToCommon", "trailingEps",
+               "lastSplitFactor", "lastSplitDate", "enterpriseToRevenue", "enterpriseToEbitda", "52WeekChange",
+               "SandP52WeekChange", "symbol", "underlyingSymbol", "currentPrice", "totalCash", "totalCashPerShare",
+               "ebitda", "totalDebt", "currentRatio", "totalRevenue", "debtToEquity", "revenuePerShare",
+               "returnOnAssets", "returnOnEquity", "grossProfits", "freeCashflow", "operatingCashflow",
+               "revenueGrowth", "operatingMargins", "financialCurrency"]
 
-        for _key in t_info.keys():
-            if _key not in ex_keys:
-                t_info[_key] = str(t_info[_key]).replace("\n", "")
-                f.write(f"{_key}§{t_info[_key]}\n")
-                ticker_profile.update({_key: t_info[_key]})
+    data_to_write = ""
+    for _key in t_info.keys():
+        if _key not in ex_keys:
+            t_info[_key] = str(t_info[_key]).replace("\n", "")
+            data_to_write += f"{_key}§{t_info[_key]}\n"
+            ticker_profile.update({_key: t_info[_key]})
+
+    _ticker_db.execute(f"INSERT INTO profile VALUES (?, ?, ?)", (_ticker,
+                       datetime.datetime.now()+datetime.timedelta(days=12 + r_day_add) +
+                       datetime.timedelta(hours=r_hour_add), data_to_write))
+    _ticker_db.commit()
     return ticker_profile
 
 
 # loads company profile from cache or downloads it, returns profile data
 def load_ticker_info(_ticker):
-    if os.path.exists(f"TickerData/Tickers/{_ticker}/profile.txt"):
-        with open(f"TickerData/Tickers/{_ticker}/profile.txt", "r", encoding="utf-8") as f:
-            file_time = datetime.datetime.strptime(f.readline().split("+")[2].replace("\n", ""),
-                                                   "%Y-%m-%d %H:%M:%S.%f")
-            if file_time < datetime.datetime.now():
-                ticker_profile = __ticker_info_writer__(_ticker)
-                print(f"Reloaded ticker profile for {_ticker}")
-            else:
-                ticker_profile = {}
-                for line in f.readlines():
+    try:
+        refresh_time, profile_data = _ticker_db.execute(f"SELECT refresh_time, profile_data FROM "
+                                                        f"profile WHERE ticker = '{_ticker}'").fetchone()
+        refresh_time = datetime.datetime.strptime(refresh_time, "%Y-%m-%d %H:%M:%S.%f")
+        if refresh_time < datetime.datetime.now():
+            ticker_profile = __ticker_info_writer__(_ticker)
+            print(f"Reloaded ticker profile for {_ticker}")
+        else:
+            ticker_profile = {}
+            for line in profile_data.split("\n"):
+                if len(line) > 0:
                     key, value = line.replace("\n", "").split("§")
                     ticker_profile.update({key: value})
         return ticker_profile
-    elif not os.path.exists(f"TickerData/Tickers/{_ticker}"):
-        os.mkdir(f"TickerData/Tickers/{_ticker}")
+    except TypeError:
         ticker_profile = __ticker_info_writer__(_ticker)
-        print(f"Generated folder: {_ticker}")
+        print(f"Generated profile: {_ticker}")
         return ticker_profile
-    else:
-        return None
 
 #########################################################################
 # START OF CACHE LOAD SYSTEM - Before this line no file manipulation
@@ -288,28 +308,24 @@ if not os.path.exists("TickerData"):
 else:
     print("Found TickerData directory...")
 
-if not os.path.exists("TickerData/Tickers"):
-    os.mkdir("TickerData/Tickers")
-
-
 # type ticker: [ticker, company/type (e.g. bond, etf), other data]
 # type index: [ticker, company, other data]
 # type weighted index: [ticker, company, weight, other data]
 
-_sp_500_ = _refresh_ticker_data_("sp_500", 7)  # type index
-_nasdaq_ = _refresh_ticker_data_("nasdaq", 7)  # type tickers
-_nasdaq_other_ = _refresh_ticker_data_("nasdaq_other", 7)  # type tickers
-_dow_jones_ = _refresh_ticker_data_("dow_jones", 7)  # type weighted index
-_nifty50_ = _refresh_ticker_data_("nifty50", 7)  # type index
-_ftse100_ = _refresh_ticker_data_("ftse100", 7)  # type index
-_ftse250_ = _refresh_ticker_data_("ftse250", 7)  # type index
-_lse_, _lse_eq_ = _refresh_lse_tickers_()  # type tickers
+_sp_500 = _refresh_ticker_data_("sp_500", 7)  # type index
+_nasdaq = _refresh_ticker_data_("nasdaq", 7)  # type tickers
+_nasdaq_other = _refresh_ticker_data_("nasdaq_other", 7)  # type tickers
+_dow_jones = _refresh_ticker_data_("dow_jones", 7)  # type weighted index
+_nifty50 = _refresh_ticker_data_("nifty50", 7)  # type index
+_ftse100 = _refresh_ticker_data_("ftse100", 7)  # type index
+_ftse250 = _refresh_ticker_data_("ftse250", 7)  # type index
+_lse, _lse_eq = _refresh_lse_tickers_()  # type tickers
 
-tickers = {'nasdaq': _nasdaq_, 'lse': _lse_}
-tickers_other = {'nasdaq_other': _nasdaq_other_, 'lse_eq': _lse_eq_}
-tickers_all = {'nasdaq': _nasdaq_, 'nasdaq_other': _nasdaq_other_, 'lse': _lse_, 'lse_eq': _lse_eq_}
-indexes = {'sp_500': _sp_500_, 'dow_jones': _dow_jones_, 'nifty50': _nifty50_,
-           'ftse100': _ftse100_, 'ftse250': _ftse250_}
+_tickers = {'nasdaq': _nasdaq, 'lse': _lse}
+_tickers_other = {'nasdaq_other': _nasdaq_other, 'lse_eq': _lse_eq}
+_tickers_all = {'nasdaq': _nasdaq, 'nasdaq_other': _nasdaq_other, 'lse': _lse, 'lse_eq': _lse_eq}
+_indexes = {'sp_500': _sp_500, 'dow_jones': _dow_jones, 'nifty50': _nifty50,
+            'ftse100': _ftse100, 'ftse250': _ftse250}
 
 print("Loaded tickers and indexes successfully...\n-------------------------------------------")
 
@@ -329,14 +345,15 @@ def _tns_dict_from_search_(search, ticker_list, index_list, search_dict=None):
     return search_dict
 
 
-def _tns_(names, search_all):  # ticker name system  # todo add ETF/TYPE searching support
+# ticker name system  # todo add ETF/TYPE searching support
+def _tns_(names, search_all):
     ticker_results = {}
     for name in names:
-        related_tickers = _tns_dict_from_search_(name, tickers, indexes)
+        related_tickers = _tns_dict_from_search_(name, _tickers, _indexes)
 
-        # if no tickers found in {tickers} or if other=True, search {tickers_other}
+        # if no tickers found in {tickers} or if other=True, search {_tickers_other}
         if not related_tickers or search_all:
-            related_tickers = _tns_dict_from_search_(name, tickers_other, indexes, related_tickers)
+            related_tickers = _tns_dict_from_search_(name, _tickers_other, _indexes, related_tickers)
 
         # remove empty values from related_tickers
         for key in related_tickers.keys():
@@ -369,16 +386,17 @@ def _tns_(names, search_all):  # ticker name system  # todo add ETF/TYPE searchi
 #    return ticker_live
 
 
+# loads or generates profile data for all tickers
 def load_profiles():
     exec_dict = {}
     comp_names_l = {}
     comp_names_s = {}
     total_tickers = 0
-    for key in tickers_all.keys():
-        total_tickers += len(tickers_all[key])
+    for key in _tickers_all.keys():
+        total_tickers += len(_tickers_all[key])
     counter = 0
-    for key in tickers_all.keys():
-        for ticker in tickers_all[key]:
+    for key in _tickers_all.keys():
+        for ticker in _tickers_all[key]:
             counter += 1
             ticker_profile = load_ticker_info(ticker[0])
             if ticker_profile:
@@ -401,15 +419,19 @@ class _Data:
         self.exec_dict, self.comp_names_l, self.comp_names_s = load_profiles()
         print("Loaded profile data successfully...\nFinished loading...\n"
               "-------------------------------------------")
+        self.tickers = _tickers
+        self.tickers_all = _tickers_all
+        self.tickers_other = _tickers_other
+        self.indexes = _indexes
 
 
 data = _Data()
 
 
+# The ticker name system class
 class TNS:
-    def __init__(self, c_list, search_all=False):
-        self.tickers = _tns_(c_list, search_all)
-        print(self.tickers)
+    def __init__(self, company_list, search_all=False):
+        self.tickers = _tns_(company_list, search_all)
         if not self.tickers:
             print("Ticker not found: TNS failed to resolve ticker(s)")
 
@@ -434,20 +456,18 @@ class _Ticker:
         self._ticker_obj_ = yfinance.Ticker(ticker)
         self._profile_ = None
 
-    def get_profile(self):
+    def profile(self):  # returns profile data from cache
         if self._profile_:
             return self._profile_
         else:
             self._profile_ = load_ticker_info(self.ticker)
             return self._profile_
 
-    def get_ticker_data(self):
-        # Scrapes data elements found on Yahoo Finance's quote page
+    def ticker_data(self):  # Scrapes data elements found on Yahoo Finance's quote page
         site = f"https://finance.yahoo.com/quote/{self.ticker}?p={self.ticker}"
         return _site_scraper_(site)
 
-    def get_ticker_stats(self):
-        # Scrapes information from the statistics page on Yahoo Finance
+    def ticker_stats(self):  # Scrapes information from the statistics page on Yahoo Finance
         stats_site = f"https://finance.yahoo.com/quote/{self.ticker}/key-statistics?p={self.ticker}"
         ticker_stats = _site_scraper_(stats_site)
         if "Previous Close" in ticker_stats.keys():
@@ -458,25 +478,111 @@ class _Ticker:
 
     # this function does the same as t_object.institutional_holders,
     # t_object.major_holders, t_object.mutualfund_holders
-    def get_holders(self):
-        # Scrapes the Holders page from Yahoo Finance for an input ticker
+    def holders(self):  # Scrapes the Holders page from Yahoo Finance for an input ticker
         holders_site = f"https://finance.yahoo.com/quote/{self.ticker}/holders?p={self.ticker}"
-        tables = pandas.read_html(requests.get(holders_site, headers=default_headers).text)
-        table_names = ["Major Holders", "Direct Holders (Forms 3 and 4)",
-                       "Top Institutional Holders", "Top Mutual Fund Holders"]
-        table_mapper = {key: val for key, val in zip(table_names, tables)}
+        holders_data = []
+        for table in pandas.read_html(requests.get(holders_site, headers=default_headers).text):
+            if isinstance(table, pandas.DataFrame):
+                holders_data.append(table_to_dict(table))
+            else:
+                holders_data.append(table)
 
-        return table_mapper
+        return holders_data
 
-    def get_analysts_info(self):
-        # Scrapes the Analysts page from Yahoo Finance for an input ticker
+    def analysts_info(self):  # Scrapes the Analysts page from Yahoo Finance for an input ticker
         analysts_site = f"https://finance.yahoo.com/quote/{self.ticker}/analysts?p={self.ticker}"
-        tables = pandas.read_html(requests.get(analysts_site, headers=default_headers).text)
-        table_names = [table.columns[0] for table in tables]
-        table_mapper = {key: val for key, val in zip(table_names, tables)}
+        analysts_data = []
+        for table in pandas.read_html(requests.get(analysts_site, headers=default_headers).text):
+            if isinstance(table, pandas.DataFrame):
+                analysts_data.append(table_to_dict(table))
+            else:
+                analysts_data.append(table)
 
-        return table_mapper
+        return analysts_data
 
-    def get_news(self):
+    def earnings_history(self):  # Scrapes the earnings calendar of ticker with EPS actual vs. expected.
+        url = f"https://finance.yahoo.com/calendar/earnings?symbol={self.ticker}"
+        return table_to_dict(pandas.read_html(requests.get(url, headers=default_headers).text)[0])
+
+    def actions(self):  # returns dividends and stock split dates
+        return table_to_dict(self._ticker_obj_.actions)
+
+    def balance_sheet(self):
+        return table_to_dict(self._ticker_obj_.balance_sheet)
+
+    # print(t_object.capital_gains)  # returns blank
+
+    def cash_flow(self):
+        return table_to_dict(self._ticker_obj_.cash_flow)
+
+    # print(t_object.dividends.values)  # returns blank
+
+    def earnings_dates(self):  # returns table of earnings dates (EPS Estimate, EPS Actual, Surprise %)
+        return table_to_dict(self._ticker_obj_.earnings_dates)
+
+    def financials(self):
+        return table_to_dict(self._ticker_obj_.financials)
+
+    # todo check this is all the possible input parameters - function to get price history
+    # print(t_object.history(start="2021-01-01", end="2021-01-10", interval="1d"))  # example of calling history
+    def history(self, start=None, end=None, period=None, interval=None):
+        return table_to_dict(self._ticker_obj_.history(start=start, end=end, period=period, interval=interval))
+
+    def history_metadata(self):  # returns list and table 5 rows, 6 columns
+        history_metadata = self._ticker_obj_.history_metadata
+        history_metadata["tradingPeriods"] = table_to_dict(history_metadata["tradingPeriods"])
+        return history_metadata
+
+    def income_statement(self):
+        return table_to_dict(self._ticker_obj_.income_stmt)
+
+    def institutional_holders(self):  # returns table 10 rows, 5 columns
+        return table_to_dict(self._ticker_obj_.institutional_holders)
+
+    def major_holders(self):  # returns basic table 4 deep
+        return table_to_dict(self._ticker_obj_.major_holders)
+
+    def mutual_fund_holders(self):  # returns table of 10 rows, 5 columns
+        return table_to_dict(self._ticker_obj_.mutualfund_holders)
+
+    def news(self):  # returns yahoo finance news links in a dict
         return self._ticker_obj_.news
 
+    # print(t_object.option_chain('2021-10-15'))
+    # get option chain for specific expiration
+    # opt = msft.option_chain('YYYY-MM-DD')
+    # data available via: opt.calls, opt.puts
+    def options(self):  # returns list of dates to use in option_chain (19 dates for example)
+        return self._ticker_obj_.options
+
+    def option_chain(self, date):  # returns table of 101x14, and table of 79x14 and metadata list
+        option_data = []
+        for table in self._ticker_obj_.option_chain(date):
+            if isinstance(table, pandas.DataFrame):
+                option_data.append(table_to_dict(table))
+            else:
+                option_data.append(table)
+        return option_data
+
+    def quarterly_balance_sheet(self):  # returns table 78 rows, 4 columns
+        return table_to_dict(self._ticker_obj_.quarterly_balance_sheet)
+
+    def quarterly_cash_flow(self):  # returns table 53 rows, 4 columns
+        return table_to_dict(self._ticker_obj_.quarterly_cash_flow)
+
+    def quarterly_financials(self):  # returns table 46 rows, 4 columns
+        return table_to_dict(self._ticker_obj_.quarterly_financials)
+
+    def quarterly_income_statement(self):  # returns table 46 rows, 4 columns
+        return table_to_dict(self._ticker_obj_.quarterly_income_stmt)
+
+    def splits(self):  # returns table of splits
+        split_data = self._ticker_obj_.splits
+        split_dict = {}
+        for index in split_data.index:
+            split_dict.update({str(index): split_data[index]})
+        return split_dict
+
+    # todo table_to_dict this function
+    def shares_full(self, start=None, end=None):  # returns table
+        return self._ticker_obj_.get_shares_full(start=start, end=end)
