@@ -39,7 +39,6 @@ NotablePeopleHits = 0
 
 # Sources is a set to prevent dupe issues
 sources = set([])
-blacklist = set([])
 seen_URLs = set([])
 
 # Names of companies and their executives
@@ -95,14 +94,6 @@ def load_url_blacklist():
         except mysql.connector.Error as err:
             # Handle any errors that occur
             print(f"Error: {err}")
-
-
-def parse_blacklist(path):
-    global blacklist
-    # Read the entire content of the file
-    file = open(path, "r")
-    content = file.read()
-    blacklist = sorted(re.findall(r'\"(.*?)\"', content), key=len, reverse=True)
 
 
 def parse_sources(path):
@@ -257,34 +248,6 @@ def find_people_of_interest(text):
             NotablePeopleHits += 1
             CompanyNames.add(Execs[executive])
             print("Found " + executive + " in article")
-
-
-def get_article_text(url):
-    global errored_text
-    response = requests.get(url, headers={
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-                      'Chrome/118.0.0.0 Safari/537.36'})
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
-        txt = clean_text(soup.get_text().strip())
-        return txt
-    else:
-        print(f"[ERROR] Failed parsing Article URL {url}, expected 200 response, got {response.status_code}")
-        errored_text += 1
-        return "Error parsing text."
-
-
-def clean_text(text):
-    """
-    Takes a string, performs several cleaning operations on it and removes any occurrences of the blacklist
-    """
-    text = re.sub(r'\n+', '\n', text)
-    stripped_lines = [line.rstrip() for line in text.split('\n')]
-    text = '\n'.join(stripped_lines)
-    text = re.sub(r'\s+', ' ', text)
-    for item in blacklist:
-        text = text.replace(item, "")
-    return text
 
 
 def summary_filter(title, rss_summary):

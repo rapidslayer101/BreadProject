@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
+import re
 from bs4 import BeautifulSoup
 import requests
 
@@ -42,10 +43,13 @@ import requests
 default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                                  'Chrome/120.0.0.0 Safari/537.3'}
 
+blacklist = set([])
 
 class NewsScraper:
     def __init__(self):
-        self.browser = webdriver.Chrome()
+        options = webdriver.ChromeOptions()
+        options.add_argument("--headless")
+        self.browser = webdriver.Chrome(options=options)
 
     def scrape_site_for_links(self, site_url: str, scroll_time: float):
         self.browser.get(site_url)
@@ -94,9 +98,46 @@ class YahooFinanceNewsScraper(NewsScraper):
         super().scrape_site_for_links(site_url, scroll_time)
 
 
-cnn = NewsScraper()
-cnn.scrape_site_for_links("https://edition.cnn.com/", 5)
-cnn.close()
+def get_article_text(url):
+    response = requests.get(url, headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                      'Chrome/118.0.0.0 Safari/537.36'})
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, 'html.parser')
+        txt = clean_text(soup.get_text().strip())
+        return txt
+    else:
+        print(f"[ERROR] Failed parsing Article URL {url}, expected 200 response, got {response.status_code}")
+        return "Error parsing text."
+
+
+def clean_text(text):
+    """
+    Takes a string, performs several cleaning operations on it and removes any occurrences of the blacklist
+    """
+    text = re.sub(r'\n+', '\n', text)
+    stripped_lines = [line.rstrip() for line in text.split('\n')]
+    text = '\n'.join(stripped_lines)
+    text = re.sub(r'\s+', ' ', text)
+    for item in blacklist:
+        text = text.replace(item, "")
+    return text
+
+
+def parse_blacklist(path):
+    global blacklist
+    # Read the entire content of the file
+    file = open(path, "r")
+    content = file.read()
+    blacklist = sorted(re.findall(r'\"(.*?)\"', content), key=len, reverse=True)
+
+
+# cnn = NewsScraper()
+# print(cnn.scrape_site_for_links("https://edition.cnn.com/", 2))
+# cnn.close()
 # yahoo = YahooFinanceNewsScraper()
-# yahoo.scrape_site_for_links("https://uk.finance.yahoo.com/topic/bank-of-england/", 5)
+# yahoo.scrape_site_for_links("https://uk.finance.yahoo.com/topic/news/", 5)
 # yahoo.close()
+
+parse_blacklist("HydrantData/blacklist.txt")
+print(get_article_text("https://uk.finance.yahoo.com/news/interest-rate-cuts-bank-england-inflation-162216537.html"))
