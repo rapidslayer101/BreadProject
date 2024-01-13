@@ -21,14 +21,14 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dt_parse
 from openai import OpenAI
 import string
-import tickers_and_cache as ticker
+import tickers_and_cache as tnc
 
 NOSQL = False  # If true, does not try anything with MySQL
 NOLLM = False  # If true, does not try to use LLM
 NOURLBLACKLIST = True  # The blacklist won't be loaded.
-
+SHOWOUTDATEDARTICLES = False # articles older than 2 days won't be mentioned
 if not NOLLM:
-    client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
+    client = OpenAI(base_url="http://localhost:8080/v1", api_key="not-needed")
 
 too_old = 0
 errored_text = 0
@@ -124,16 +124,17 @@ def get_relevant_stories():
 
                 # Don't do anything with stories older than two days
                 if datetime.now(timezone.utc) - dt_parse.parse(entry.published) <= timedelta(days=2):
-                    print(f"Skipping {entry.title} as it's older than two days.")
+                    if SHOWOUTDATEDARTICLES:
+                        print(f"Skipping {entry.title} as it's older than two days.")
                     too_old += 1
                     continue
 
                 # Create article dict
                 article = {
-                    'Title': entry.title, 'URL': entry.link, "Execs:": [], "Companies": [],
+                    'Title': entry.title, 'URL': entry.link, "Execs": [], "Companies": [],
                     'Published': dt_parse.parse(getattr(entry, "published", "updated")),
                     'Summary': getattr(entry, 'summary', "Summary unavailable"),
-                    "Content": get_article_text(entry.link) }
+                    "Content": get_article_text(entry.link)}
 
                 # Stories containing execs are worth parsing
                 for executive in Execs.keys():
@@ -152,77 +153,38 @@ def get_relevant_stories():
                     NextStage.append(article)
                     print(f"[NEW] {article['Title']} - Execs: {len(article['Execs'])} | Companies: {len(CompanyNames)}"
                           f"\t\t\t{article['Summary']}")
-
+                    summarise(article["Title"], article["Content"])
                 else:
                     worth_reading = summary_filter(article["Title"], article["Summary"])
                     if worth_reading == "True" or worth_reading == "Unknown":
+                        summarise(article["Title"], article["Content"])
                         NextStage.append(article)
 
             except Exception as ex:
                 errored_parsing += 1
-                print(ex)
+                print(f"ERROR:{ex}")
 
     return NextStage
 
-
-def get_stories():
-    global errored_text
-    global sources
-    global blacklist
-    global db
-    global too_old
-    global LLMFilter
-    global already_done
-    global errored_parsing
-
-    entries_list = []
+def test_strings():
+    file = open(f"HydrantData/Test/TestRun.txt", "a+", encoding="utf-8")
     for source in sources:
-        feed = feedparser.parse(source)
-        for entry in feed.entries:  # Loop through each entry in the feed
-            try:
-                # Hotfix for Apple newsroom since doesn't have a published, just an updated field.
-                if source == "https://www.apple.com/newsroom/rss-feed.rss":
-                    entry.published = ""
-                entry_data = {
-                    'Title': entry.title,
-                    'URL': entry.link,
-                    'Published': dt_parse.parse(entry.published),
-                    'Summary': getattr(entry, 'summary', entry["updated"])}
+        src = (feedparser.parse(source)).entries
+        if len(src) != 0:
+            file.writelines(f"source\n\n\n====={get_article_text(src[0]['link'])}")
+    file.close()
+    return
 
-                age = datetime.now(timezone.utc) - entry_data['Published']  # Calc article age
-
-                # Check we haven't tried to read this URL before
-                if seen_URLs.__contains__(entry_data["URL"]):
-                    already_done += 1
-                    print(f"Skipping {entry_data['Title']} since it's already been viewed.")
-                else:
-                    seen_URLs.add(entry_data["URL"])
-                    if age <= timedelta(days=2):  # Ignore article if it's older than 2 days.
-                        if entry_data["Summary"] == "No summary available":
-                            verdict = "Unknown"
-                        else:
-                            # Filter based on phi-2 seeing if article is related to business.
-                            verdict = summary_filter(entry_data["Title"], entry_data["Summary"])
-                        if verdict == "True" or verdict == "Unknown":
-                            entry_data['Content'] = get_article_text(entry_data["URL"])  # Get Article
-                            find_people_of_interest(entry_data["Content"])
-                            # Display information
-                            print(f"Found Story from {feed.feed.title} ("
-                                  f"{round(age.total_seconds() / 60 / 60, 2)} hrs ago) -\n Verdict {verdict}"
-                                  f" {entry_data['Title']}\n\t\t\t\t Article Text - {entry_data['Summary']}")
-
-                            # Affected_Companies(entry_data["Title"], entry_data["Content"])
-                            entries_list.append(entry_data)
-                        else:
-                            print(f"Skipping {entry_data['Title']} due to being irrelevant")
-                            LLMFilter += 1
-                    else:
-                        too_old += 1
-            except Exception as ex:
-                errored_parsing += 1
-                print(f"[ERROR] failed parsing source of {source} for URL {entry} with exception of {ex}")
-
-    return entries_list
+def summarise(Headline, Content):
+    messages = [
+        {"role": "system", "content": """Instruction: Your task is to give a short yet effective summary of the given 
+        stories. Your summaries should be roughly a paragraph long and not much longer. Your summaries should 
+        encapsulate all relevant content within the article. Your titles should not include article titles, your outputs
+        only need to include summaries."""},
+        {"role": "user", "content": f"Title: {Headline}\n{Content}"}]
+    completion = client.chat.completions.create(model="lunatic", messages=messages, temperature=0.2, max_tokens=400)
+    msg = completion.choices[0].message.content.strip()
+    print(msg)
 
 
 def strip_titles(text):
@@ -256,10 +218,10 @@ def summary_filter(title, rss_summary):
 
     messages = [
         {"role": "system", "content": """You are given story headlines and summaries.
-Your task is to determine if they are related to companies or not.
+Your task is to determine if they are related to companies, poltics or geoplotics.
 You should return your answers with either a Yes or No."""},
-        {"role": "user", "content": f"Title:{title}\nSSummary:{rss_summary}"}]
-    completion = client.chat.completions.create(model="lunatic", messages=messages, temperature=0.1,
+        {"role": "user", "content": f"Title:{title}\nSummary:{rss_summary}"}]
+    completion = client.chat.completions.create(model="llama", messages=messages, temperature=0.1,
                                                 max_tokens=1).choices[0].message.content.lower().strip().translate(
         str.maketrans('', '', string.punctuation)).split(" ")[0]
     if completion == "yes" or completion == "true":
@@ -292,9 +254,11 @@ def update_blacklist():
 start = time.time()
 parse_sources("HydrantData/FirehoseSources.txt")
 parse_blacklist("HydrantData/Blacklist.txt")
+#test_strings()
 load_url_blacklist()
-load_exec_data()
-load_company_names()
+object_ = tnc.TNS("Tesco").get_objects()
+print(object_)
+#load_company_names()
 res = get_relevant_stories()
 print(f"""Stats
     Took {round((time.time() - start), 2)}s
