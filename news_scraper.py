@@ -5,6 +5,7 @@ import time
 import re
 from bs4 import BeautifulSoup
 import requests
+from readability import Document
 
 # this file is a test file and notes file on news scraping
 # new todo for lewis --- make exit browser on end of scroll, or option to reuse browser to go to next link
@@ -73,7 +74,7 @@ class NewsScraper:
                         url_list.append(url)
             except KeyError:
                 pass
-        print(url_list)
+        return url_list
 
     def close(self):
         self.browser.quit()
@@ -98,17 +99,11 @@ class YahooFinanceNewsScraper(NewsScraper):
         super().scrape_site_for_links(site_url, scroll_time)
 
 
-def get_article_text(url):
-    response = requests.get(url, headers={
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-                      'Chrome/118.0.0.0 Safari/537.36'})
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
-        txt = clean_text(soup.get_text().strip())
-        return txt
-    else:
-        print(f"[ERROR] Failed parsing Article URL {url}, expected 200 response, got {response.status_code}")
-        return "Error parsing text."
+def get_article_summary(url) -> str:
+    response = requests.get(url, headers=default_headers)
+    summary_html = Document(response.content).summary()
+    soup = BeautifulSoup(summary_html, "html.parser")
+    return clean_text(soup.get_text())
 
 
 def clean_text(text):
@@ -140,4 +135,5 @@ def parse_blacklist(path):
 # yahoo.close()
 
 parse_blacklist("HydrantData/blacklist.txt")
-print(get_article_text("https://uk.finance.yahoo.com/news/interest-rate-cuts-bank-england-inflation-162216537.html"))
+print(get_article_summary("https://uk.finance.yahoo.com/news/live-ftse-european-stocks-us-inflation-figures-091031074.html"))
+#print(get_article_summary("https://news.sky.com/story/bolton-vs-cheltenham-league-one-match-postponed-after-medical-emergency-in-crowd-13047434"))
