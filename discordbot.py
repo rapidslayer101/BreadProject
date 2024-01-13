@@ -4,6 +4,23 @@ import os
 subscribed_users = []  # List of user IDs that are subscribed to the bot
 
 
+def subscribe_user(user_id):
+    subscribed_users.append(user_id)
+    with open("BotData/subscribed_users.txt", "a") as f:
+        f.write(f"{user_id}\n")
+
+
+# Get token
+with open("BotData/token.txt", "r") as f:
+    token = f.read()
+
+# Get subscribed users
+with open("BotData/subscribed_users.txt", "a+") as f:
+    content = f.readlines()
+    for i in range(len(content)):
+        subscribed_users.append(int(content[i].replace("\n", "")))
+
+
 class BreadBot(discord.Client):
 
     async def on_ready(self):
@@ -13,7 +30,7 @@ class BreadBot(discord.Client):
         if type(message.channel) is discord.DMChannel:
 
             if message.content.startswith("!subscribe"):
-                if not message.author.id in subscribed_users:
+                if message.author.id not in subscribed_users:
                     subscribe_user(message.author.id)
                     await message.channel.send("You have subscribed to the BreadBot, W rizz my friend! :bread:")
                 else:
@@ -25,22 +42,6 @@ class BreadBot(discord.Client):
                     user = await self.fetch_user(user_id)
                     await user.send(push_content)
 
-
-def subscribe_user(user_id):
-    subscribed_users.append(user_id)
-    with open("BotData/subscribed_users.txt", "a") as file:
-        file.write(str(user_id) + "\n")
-
-
-# Get token
-with open("BotData/token.txt", "r") as file:
-    token = file.read()
-
-# Get subscribed users
-with open("BotData/subscribed_users.txt", "a+") as file:
-    content = file.readlines()
-    for i in range(len(content)):
-        subscribed_users.append(int(content[i].replace("\n", "")))
 
 # Create client
 intents = discord.Intents.default()

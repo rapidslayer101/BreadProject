@@ -6,6 +6,9 @@ from bs4 import BeautifulSoup
 import requests
 
 # this file is a test file and notes file on news scraping
+# new todo for lewis --- make exit browser on end of scroll, or option to reuse browser to go to next link
+
+
 
 # todo for lewis (unfinished list of all feeds on uk.finance.yahoo.com)
 # scrape https://uk.finance.yahoo.com/
@@ -43,9 +46,8 @@ default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
 class NewsScraper:
     def __init__(self):
         self.browser = webdriver.Chrome()
-        pass
 
-    def scrape_site_for_links(self, site_url: str, scroll_time: int):
+    def scrape_site_for_links(self, site_url: str, scroll_time: float):
         self.browser.get(site_url)
         time.sleep(1)
         while scroll_time > 0:
@@ -53,20 +55,24 @@ class NewsScraper:
             time.sleep(1)
             scroll_time -= 1
 
-        soup = BeautifulSoup(self.browser.page_source, "html.parser")
-        links = soup.find_all("a")
+        links = BeautifulSoup(self.browser.page_source, "html.parser").find_all("a")
 
-        # Get links
+        # Get links out of content
+        url_list = []
         for a_tag in links:
             try:
-                print(a_tag["href"])
+                url = a_tag["href"]
+                if not len(url) < 2:
+                    if not url.startswith("https"):
+                        url_list.append(f"{site_url[:-1]}{url}")
+                    else:
+                        url_list.append(url)
             except KeyError:
-                print("Fail")
-        pass
+                pass
+        print(url_list)
 
     def close(self):
         self.browser.quit()
-    pass
 
 
 class YahooFinanceNewsScraper(NewsScraper):
@@ -87,8 +93,6 @@ class YahooFinanceNewsScraper(NewsScraper):
 
         super().scrape_site_for_links(site_url, scroll_time)
 
-    pass
-
 
 cnn = NewsScraper()
 cnn.scrape_site_for_links("https://edition.cnn.com/", 5)
@@ -96,46 +100,3 @@ cnn.close()
 # yahoo = YahooFinanceNewsScraper()
 # yahoo.scrape_site_for_links("https://uk.finance.yahoo.com/topic/bank-of-england/", 5)
 # yahoo.close()
-
-
-# TODO lewis old functions
-def get_bank_of_england_news():
-    endResult = []
-    soup = BeautifulSoup(requests.get("https://uk.finance.yahoo.com/topic/bank-of-england/", headers=default_headers).text, 'html.parser')
-    print(soup)
-    uL = soup.find("ul", {'class': 'My(0) P(0) Wow(bw) Ov(h)'})
-    articles = uL.find_all("li")
-    for article in articles:
-        # adblock LMAO
-        if article.find("div", {"class": "native-ad-item"}) != None:
-            continue
-        articleDiv = article.find("div").find("div").find_all("div")[2]
-        titleDiv = articleDiv.find("h3").find("a")
-        link = titleDiv["href"]
-        title = titleDiv.text
-        desc = articleDiv.find("p").text
-        result = [title, desc, f"https://uk.finance.yahoo.com{str(link)}"]
-        endResult.append(result)
-    print(endResult)
-
-
-# TODO lewis old functions
-def get_saving_spending_news():
-    endResult = []
-    soup = BeautifulSoup(
-        requests.get("https://uk.finance.yahoo.com/topic/saving-spending/", headers=default_headers).text,
-        'html.parser')
-    uL = soup.find("ul", {'class': 'My(0) P(0) Wow(bw) Ov(h)'})
-    articles = uL.find_all("li")
-    for article in articles:
-        # adblock LMAO
-        if article.find("div", {"class": "native-ad-item"}) != None:
-            continue
-        articleDiv = article.find("div").find("div").find_all("div")[2]
-        titleDiv = articleDiv.find("h3").find("a")
-        link = titleDiv["href"]
-        title = titleDiv.text
-        desc = articleDiv.find("p").text
-        result = [title, desc, f"https://uk.finance.yahoo.com{str(link)}"]
-        endResult.append(result)
-    print(endResult)
