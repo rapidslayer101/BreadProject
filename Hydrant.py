@@ -16,19 +16,16 @@ from datetime import datetime, timedelta, timezone
 import mysql.connector
 import feedparser
 import mysql
-import requests
-from bs4 import BeautifulSoup
 from dateutil import parser as dt_parse
-from openai import OpenAI
 import string
 import tickers_and_cache as tnc
+import LLMServer.LLMTool as LLM
+import news_scraper as newstool
 
-NOSQL = False  # If true, does not try anything with MySQL
+NOSQL = True  # If true, does not try anything with MySQL
 NOLLM = False  # If true, does not try to use LLM
 NOURLBLACKLIST = True  # The blacklist won't be loaded.
-SHOWOUTDATEDARTICLES = False # articles older than 2 days won't be mentioned
-if not NOLLM:
-    client = OpenAI(base_url="http://localhost:8080/v1", api_key="not-needed")
+SHOWOUTDATEDARTICLES = False  # articles older than 2 days won't be mentioned
 
 too_old = 0
 errored_text = 0
@@ -54,7 +51,7 @@ def load_exec_data():
     Gets ands parses company exec names
     """
 
-    dat = ticker.get_exec_data()
+    dat = tnc.get_exec_data()
     for key in dat.keys():
         for executive in dat[key]:
             Execs.update({strip_titles(executive["name"]): key})
@@ -64,8 +61,8 @@ def load_company_names():
     """
     Gets ands parses company names (long and short names)
     """
-    dat = ticker.get_comp_names_l()
-    dat.update(ticker.get_comp_names_s())
+    dat = tnc.data.get_comp_names_l()
+    dat.update(tnc.data.get_comp_names_s())
     for name in dat.values():
         CompanyNames.update(name)
 
@@ -134,7 +131,7 @@ def get_relevant_stories():
                     'Title': entry.title, 'URL': entry.link, "Execs": [], "Companies": [],
                     'Published': dt_parse.parse(getattr(entry, "published", "updated")),
                     'Summary': getattr(entry, 'summary', "Summary unavailable"),
-                    "Content": get_article_text(entry.link)}
+                    "Content": newstool.get_article_summary(entry.link)}
 
                 # Stories containing execs are worth parsing
                 for executive in Execs.keys():
@@ -157,7 +154,9 @@ def get_relevant_stories():
                 else:
                     worth_reading = summary_filter(article["Title"], article["Summary"])
                     if worth_reading == "True" or worth_reading == "Unknown":
-                        summarise(article["Title"], article["Content"])
+                        # TODO: Summary should be in the next stage to reduce model loading
+                        article["GeneratedSummary"] = summarise(article["Title"], article["Content"])
+                        print(f"\n\n[NEW] {article['Title']}\n{article['GeneratedSummary']}")
                         NextStage.append(article)
 
             except Exception as ex:
@@ -166,27 +165,25 @@ def get_relevant_stories():
 
     return NextStage
 
+
 def test_strings():
     file = open(f"HydrantData/Test/TestRun.txt", "a+", encoding="utf-8")
     for source in sources:
         src = (feedparser.parse(source)).entries
         if len(src) != 0:
-            file.writelines(f"source\n\n\n====={get_article_text(src[0]['link'])}")
+            print("fix")
+            # file.writelines(f"source\n\n\n====={get_article_text(src[0]['link'])}")
     file.close()
     return
 
+
 def summarise(Headline, Content):
-    messages = [
-        {"role": "system", "content": """Instruction: Your task is to give a short yet effective summary of the given 
+    output = LLM.one_shot(SystemPrompt="""Instruction: Your task is to give a short yet effective summary of the given 
         stories. Your summaries should be roughly a paragraph long and not much longer. Your summaries should 
         encapsulate all relevant content within the article. Your titles should not include article titles, your outputs
-        only need to include summaries."""},
-        {"role": "user", "content": f"Title: {Headline}\n{Content}"}]
-    completion = client.chat.completions.create(model="lunatic", messages=messages, temperature=0.2, max_tokens=400)
-    msg = completion.choices[0].message.content.strip()
-    print(msg)
+        only need to include summaries.""", UserPrompt=f"Title: {Headline}\n{Content}", Model="mistal", MaxTokens=400)
 
-
+    return output
 def strip_titles(text):
     """
     This strips titles from names such as Mr.
@@ -216,14 +213,14 @@ def summary_filter(title, rss_summary):
     if NOLLM:
         return "Unknown"
 
-    messages = [
-        {"role": "system", "content": """You are given story headlines and summaries.
-Your task is to determine if they are related to companies, poltics or geoplotics.
-You should return your answers with either a Yes or No."""},
-        {"role": "user", "content": f"Title:{title}\nSummary:{rss_summary}"}]
-    completion = client.chat.completions.create(model="llama", messages=messages, temperature=0.1,
-                                                max_tokens=1).choices[0].message.content.lower().strip().translate(
-        str.maketrans('', '', string.punctuation)).split(" ")[0]
+    # Get completion and clean text
+    completion = LLM.one_shot(SystemPrompt="""You are given story headlines and summaries.
+Your task is to determine if they are related to companies, politics or geopolitics.
+You should return your answers with either a Yes or No.""",
+                              UserPrompt=f"Title:{title}\nSummary:{rss_summary}", Model="llama", MaxTokens=1,
+                              Temperature=0.1)
+    completion = completion.lower().strip().translate(str.maketrans('', '', string.punctuation)).split(" ")[0]
+
     if completion == "yes" or completion == "true":
         return "True"
     elif completion == "no" or completion == "false":
@@ -251,14 +248,12 @@ def update_blacklist():
         print(f"Error: {err}")
         db.rollback()
 
+
 start = time.time()
 parse_sources("HydrantData/FirehoseSources.txt")
-parse_blacklist("HydrantData/Blacklist.txt")
-#test_strings()
-load_url_blacklist()
-object_ = tnc.TNS("Tesco").get_objects()
-print(object_)
+# test_strings()
 #load_company_names()
+load_url_blacklist()
 res = get_relevant_stories()
 print(f"""Stats
     Took {round((time.time() - start), 2)}s
