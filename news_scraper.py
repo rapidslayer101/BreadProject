@@ -102,10 +102,10 @@ class YahooFinanceNewsScraper(NewsScraper):
 def get_article_summary(url) -> str:
     response = requests.get(url, headers=default_headers)
     # Clean the html
-    soup = BeautifulSoup(response.content, "html.parser")
-    soup.find("header").decompose()
-    soup.find("footer").decompose()
-    summary_html = Document(soup.get_text()).summary()
+    # soup = BeautifulSoup(response.content, "html.parser")
+    # soup.find("header").decompose()
+    # soup.find("footer").decompose()
+    summary_html = Document(response.content).summary()
     soup = BeautifulSoup(summary_html, "html.parser")
     return clean_text(soup.get_text())
 
@@ -139,5 +139,5 @@ def parse_blacklist(path):
 # yahoo.close()
 
 parse_blacklist("HydrantData/blacklist.txt")
-#print(get_article_summary("https://uk.finance.yahoo.com/news/live-ftse-european-stocks-us-inflation-figures-091031074.html"))
-print(get_article_summary("https://news.sky.com/story/an-immense-effort-behind-the-scenes-of-typhoon-attack-mission-13046991"))
+print(get_article_summary("https://uk.finance.yahoo.com/news/live-ftse-european-stocks-us-inflation-figures-091031074.html"))
+#print(get_article_summary("https://news.sky.com/story/an-immense-effort-behind-the-scenes-of-typhoon-attack-mission-13046991"))
