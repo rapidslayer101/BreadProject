@@ -2,3 +2,4 @@
 /__pycache__
 BotData/token.txt
 /BotData/subscribed_users.txt
+LLMServer/model_config.cfg
