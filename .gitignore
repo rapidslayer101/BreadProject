@@ -1,5 +1,11 @@
 /.idea/*
 /__pycache__
-BotData/token.txt
+/BotData/token.txt
 /BotData/subscribed_users.txt
-LLMServer/model_config.cfg
+
+/BreadClient/app
+/BreadClient/resources
+/BreadClient/bread.kv
+
+/LLMServer/model_config.cfg
+/LLMServer/models
