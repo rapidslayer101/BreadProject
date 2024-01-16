@@ -10,4 +10,3 @@ def one_shot(system_prompt, user_prompt, model="mistral16k", temperature=0.2, ma
     return completion.choices[0].message.content.strip()
 
 
-print(one_shot("You are a helpful chatbot", "What is demorgan's law?"))

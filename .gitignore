@@ -7,5 +7,5 @@
 /BreadClient/resources
 /BreadClient/bread.kv
 
-/LLMServer/model_config.cfg
+/AITools/LLMServer/model_config.cfg
 /LLMServer/models

@@ -19,7 +19,7 @@ import mysql
 from dateutil import parser as dt_parse
 import string
 import tickers_and_cache as tnc
-import LLMServer.LLMTool as LLM
+import AITools.LLMTool as LLM
 import news_scraper as newstool
 
 NOSQL = True  # If true, does not try anything with MySQL
