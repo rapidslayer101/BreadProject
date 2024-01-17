@@ -3,13 +3,13 @@ import enclib
 import time
 import os
 import rsa
-from socket import socket, AF_INET, SOCK_STREAM, SOL_SOCKET, SO_REUSEADDR
+import zlib
+import socket
+import random
+import requests
+import threading
 from datetime import datetime, timedelta
-from zlib import error as zl_error
 from csv import writer, reader
-from threading import Thread
-from random import choices, randint
-from requests import get
 from captcha.image import ImageCaptcha
 
 
@@ -80,8 +80,8 @@ def add_action(uid, t_type, amount, spent, desc):
 
 
 users = Users()
-s = socket(AF_INET, SOCK_STREAM)
-s.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 s.bind(('', 30678))
 s.listen()
 print(f"[*] Listening as {str(s).split('laddr=')[1][:-1]}")
@@ -93,25 +93,35 @@ def client_connection(cs):
         connection_type = str(cs.recv(32))[2:-1]
         print(f"NEW CLIENT --- Type-{connection_type} IP-{ip}:{port}")
         uid = None
-        try:
-            pub_key_cli = rsa.PublicKey.load_pkcs1(cs.recv(256))
-        except ValueError:
+        if connection_type == "CLI":
+            try:
+                pub_key_cli = rsa.PublicKey.load_pkcs1(cs.recv(256))
+            except ValueError:
+                raise InvalidClientData
+            enc_seed = enclib.rand_b96_str(36)
+            cs.send(rsa.encrypt(enc_seed.encode(), pub_key_cli))
+            enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
+
+            def send_e(text):  # encrypt and send to client
+                try:
+                    cs.send(enclib.enc_from_key(text, enc_key))
+                except zlib.error:
+                    raise ConnectionResetError
+
+            def recv_d(buf_lim=1024):  # decrypt data from client
+                try:
+                    return enclib.dec_from_key(cs.recv(buf_lim), enc_key)
+                except zlib.error:
+                    raise ConnectionResetError
+        else:
+            def send_e(text):
+                cs.send(text.encode())
+
+            def recv_d(buf_lim=1024):
+                return cs.recv(buf_lim).decode()
+
+            # todo temp kick other client types
             raise InvalidClientData
-        enc_seed = enclib.rand_b96_str(36)
-        cs.send(rsa.encrypt(enc_seed.encode(), pub_key_cli))
-        enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
-
-        def send_e(text):  # encrypt and send to client
-            try:
-                cs.send(enclib.enc_from_key(text, enc_key))
-            except zl_error:
-                raise ConnectionResetError
-
-        def recv_d(buf_lim=1024):  # decrypt data from client
-            try:
-                return enclib.dec_from_key(cs.recv(buf_lim), enc_key)
-            except zl_error:
-                raise ConnectionResetError
 
         while True:  # login loop
             login_request = recv_d()
@@ -119,7 +129,7 @@ def client_connection(cs):
 
             if login_request == "CAP":  # captcha request
                 img = ImageCaptcha(width=280, height=90)
-                captcha_text = "".join(choices("23456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(10)))
+                captcha_text = "".join(random.choices("23456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(10)))
                 print(captcha_text)
                 img.generate(captcha_text)  # todo remove the need for a file
                 img.write(captcha_text, 'captcha.jpg')
@@ -141,16 +151,17 @@ def client_connection(cs):
                 if log_or_create.startswith("NAC:"):  # new account
                     master_key, u_pass = log_or_create[4:].split("🱫")
                     while True:  # create random unique user id
-                        uid = "".join(choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=8))
-                        u_name = uid+"#"+str(randint(111, 999))
+                        uid = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=8))
+                        u_name = uid+"#"+str(random.randint(111, 999))
                         if users.db.execute("SELECT user_id FROM users WHERE user_id = ?", (uid,)).fetchone() is None:
                             break
-                    u_secret = "".join(choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz", k=8))
+                    u_secret = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXY"
+                                                      "abcdefghijklmnopqrstuvwxyz", k=8))
                     send_e(f"{uid}🱫{u_secret}")
                     while True:  # 2fa challenge
                         code_challenge = recv_d()
-                        if get(f"https://www.authenticatorapi.com/Validate.aspx?"
-                               f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
+                        if requests.get(f"https://www.authenticatorapi.com/Validate.aspx?"
+                                        f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
                             send_e("N")
                         else:
                             ipk = enclib.rand_b96_str(24)
@@ -198,8 +209,8 @@ def client_connection(cs):
                             u_secret = enclib.dec_from_key(u_secret, u_pass_c)
                             while True:  # 2fa challenge
                                 code_challenge = recv_d()
-                                if get(f"https://www.authenticatorapi.com/Validate.aspx?"
-                                       f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
+                                if requests.get(f"https://www.authenticatorapi.com/Validate.aspx?"
+                                                f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
                                     send_e("N")
                                 else:
                                     break
@@ -307,8 +318,8 @@ def client_connection(cs):
                         u_secret = enclib.dec_from_key(u_secret, u_pass_c)
                         while True:  # 2fa challenge
                             code_challenge = recv_d()
-                            if get(f"https://www.authenticatorapi.com/Validate.aspx?"
-                                   f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
+                            if requests.get(f"https://www.authenticatorapi.com/Validate.aspx?"
+                                            f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
                                 send_e("N")
                             else:
                                 break
@@ -337,7 +348,7 @@ def client_connection(cs):
                     counter = 0
                     while True:
                         counter += 1
-                        n_u_name_i = n_u_name+"#"+str(randint(111, 999))
+                        n_u_name_i = n_u_name+"#"+str(random.randint(111, 999))
                         try:
                             if users.db.execute("SELECT * FROM users WHERE username = ?",
                                                 (n_u_name_i,)).fetchone() is None:
@@ -382,4 +393,4 @@ def client_connection(cs):
 
 while True:  # connection accept loop
     client_socket, client_address = s.accept()
-    t = Thread(target=client_connection, args=(client_socket,), daemon=True).start()
+    t = threading.Thread(target=client_connection, args=(client_socket,), daemon=True).start()
