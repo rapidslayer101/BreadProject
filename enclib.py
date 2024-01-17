@@ -11,7 +11,7 @@ from multiprocessing import Pool as _Pool_, cpu_count as _cpu_count_
 _default_block_size_ = 5000000  # the chunking size
 _xor_salt_len_ = 7  # 94^8 combinations
 _default_pass_depth_ = 100000  # the hash loop depth
-_b94set_ = "£0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/`!\"$%^&*() -=[{]};:'@#~\\|,<.>"
+_b94set_ = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz£+/`!\"$%^&*() -=[{]};:'@#~\\|,<.>"
 _b96set_ = _b94set_+"¬?"
 
 
@@ -36,17 +36,6 @@ def to_base(base_fr, base_to, hex_to_convert, alpha_set=_b96set_):
         while decimal > 0:
             hexadecimal, decimal = alpha_set[decimal % base_to]+hexadecimal, decimal//base_to
         return hexadecimal
-
-
-def to_base(base_to, base_fr, hex_to_convert):
-    decimal, power = 0, len(str(hex_to_convert))-1
-    for digit in str(hex_to_convert):
-        decimal += _b96set_.index(digit)*base_fr**power
-        power -= 1
-    hexadecimal = ""
-    while decimal > 0:
-        hexadecimal, decimal = _b96set_[decimal % base_to]+hexadecimal, decimal//base_to
-    return hexadecimal
 
 
 # attempts to find the base of an input string

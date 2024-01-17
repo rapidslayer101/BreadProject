@@ -1,9 +1,10 @@
 import bread_kv
-from enclib import hash_a_file, to_base, pass_to_key, enc_from_key, dec_from_pass, dec_from_key
+from enclib import pass_to_key, enc_from_key, dec_from_pass, dec_from_key
+import enclib
 from base64 import b32encode
 from datetime import datetime
 from hashlib import sha512
-from os import path, mkdir, listdir
+from os import path, mkdir
 from random import randint, uniform, choices
 from socket import socket
 from threading import Thread
@@ -28,7 +29,7 @@ if not path.exists("app"):
     mkdir("app")
 
 # hashes client file
-app_hash = hash_a_file("bread_client.py")
+app_hash = enclib.hash_a_file("bread_client.py")
 
 # updates sha.txt with new app_hash
 version = None
@@ -69,6 +70,7 @@ class Server:
             l_ip, l_port = str(self.s).split("laddr=")[1].split("raddr=")[0][2:-3].split("', ")
             s_ip, s_port = str(self.s).split("raddr=")[1][2:-2].split("', ")
             print(f" << Server connected via {l_ip}:{l_port} -> {s_ip}:{s_port}")
+            self.s.send(b"CLI")
             pub_key, pri_key = newkeys(512)
             try:
                 self.s.send(PublicKey.save_pkcs1(pub_key))
@@ -240,12 +242,12 @@ class CreateKey(Screen):
                     self.pin_code_text = f"Generating Key and Pin ({round(time_left, 2)}s left)"
                 except ZeroDivisionError:
                     pass
-        App.mkey = to_base(96, 16, master_key.hex())
+        App.mkey = enclib.to_base(17, 95, master_key.hex())
         self.rand_confirmation = str(randint(0, 9))
-        self.pin_code_text = f"Account Pin: {to_base(36, 10, current_depth)}"
+        self.pin_code_text = f"Account Pin: {enclib.to_base(10, 36, current_depth)}"
         self.rand_confirm_text = f"Enter {self.rand_confirmation} below.\n" \
                                  f"By proceeding with account creation you agree to our Terms and Conditions."
-        App.pin_code = to_base(36, 10, current_depth)
+        App.pin_code = enclib.to_base(10, 36, current_depth)
 
     def on_pre_enter(self, *args):
         App.path = "make"
@@ -378,13 +380,13 @@ class ReCreateGen(Screen):
                                          f"({round((depth_left-depth_count)/real_dps, 2)}s left)"
                 except ZeroDivisionError:
                     pass
-        App.mkey = to_base(96, 16, master_key.hex())
+        App.mkey = enclib.to_base(17, 95, master_key.hex())
         Clock.schedule_once(lambda dt: App.sm.switch_to(Captcha(), direction="left"))
 
     def on_enter(self, *args):
         self.gen_left_text = f"Generating master key"
         Thread(target=self.regenerate_master_key, args=(App.pass_code[:6].encode(),
-               App.pass_code[6:].encode(), int(to_base(10, 36, App.pin_code)),), daemon=True).start()
+               App.pass_code[6:].encode(), int(enclib.to_base(36, 10, App.pin_code)),), daemon=True).start()
 
 
 # screen to verify a captcha
@@ -716,35 +718,35 @@ class Home(Screen):
 
 
 # screen for public chat room
-class Chat(Screen):
+class Console(Screen):
     r_coins = StringProperty()
     d_coins = StringProperty()
     public_room_msg_counter = 0
     public_room_inp = ObjectProperty(None)
 
     def msg_watch(self):  # look for new messages
-        s.send_e("JNC")
         while True:
             msg_author, msg_content = s.recv_d().split("🱫")
-            if msg_author == "LVC":
-                break
-            Clock.schedule_once(lambda dt: self.add_msg(msg_author[:-4], msg_content))
+            print(msg_author, msg_content)
+            Clock.schedule_once(lambda dt: self.add_msg(msg_author, msg_content))
 
     def on_pre_enter(self, *args):
         self.r_coins = App.r_coin+" R"
         self.d_coins = App.d_coin+" D"
         Thread(target=self.msg_watch, daemon=True).start()
 
-    def on_leave(self, *args):  # on leave stop looking for new messages
-        s.send_e("LVC")
-
     def add_msg(self, name, text):
         if "https://" in text or "http://" in text:
             self.ids.public_chat.add_widget(AsyncImage(source=text, size_hint_y=None, height=300, anim_delay=0.05))
         else:
-            self.ids.public_chat.add_widget(Label(text=f"[color=#14e42bff]{name}[/color] [color=#858d8fff] "
-                                                       f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
-                                                  color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
+            if name == "SERVER":
+                self.ids.public_chat.add_widget(Label(text=f"[color=#f46f0eff]{name}[/color] [color=#858d8fff] "
+                                                           f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
+                                                      color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
+            else:
+                self.ids.public_chat.add_widget(Label(text=f"[color=#14e42bff]{name}[/color] [color=#858d8fff] "
+                                                           f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
+                                                      color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
         self.public_room_msg_counter += 1
         if self.ids.public_room_scroll.scroll_y == 0:
             scroll_down = True
@@ -774,16 +776,6 @@ class Chat(Screen):
 
 # screen for the store
 class Store(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-
-
-# screen for selecting a game
-class Games(Screen):
     r_coins = StringProperty()
     d_coins = StringProperty()
 
@@ -990,212 +982,6 @@ def canvas_update(canvas, color):
         RoundedRectangle(size=canvas.size, pos=canvas.pos, radius=[10])
 
 
-# check outcome of value against odds
-def check_odd(odds, value):  # todo make support multiple odds
-    value = float(str(round(value/360, 3)).split(".")[1])
-    if 500-odds[0] <= value < 500:
-        return "green"
-    if 500-odds[0] > value or 500 <= value:
-        return "red"
-
-
-# create game draws given the odds
-def create_draws(result, odds):
-    while True:
-        last = 1
-        draws = []
-        for i in reversed(range(1, randint(100, 200))):
-            next_odd = round(last-i*0.36, 4)
-            draws.append([next_odd, check_odd(odds, next_odd)])
-            last = round(last+i*0.36, 4)
-        if check_odd(odds, last) == result:
-            return draws
-
-
-# games screen for the spin2win game
-class Spinner(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-    spin_bet = ObjectProperty(None)
-    game_info = ObjectProperty(None)
-    game_hash = None
-    spin_odds = [480, 520]
-    mult = 2
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-        if self.game_hash is None:
-            s.send_e("MCF:2")
-            self.game_hash = s.recv_d()
-            self.game_info.text = "Game - 2x"
-        draw_circle(self, self.spin_odds)
-        draw_triangle(self, "yellow")
-
-    def set_odds(self, mult):
-        s.send_e(f"MCF:{mult}")
-        for mult_btn in ["set_x2", "set_x3", "set_x5", "set_x10"]:
-            self.ids[mult_btn].disabled = False
-        self.ids[f"set_x{mult}"].disabled = True
-        self.spin_odds = {2: [470, 530], 3: [310, 690], 5: [190, 810], 10: [105, 895]}.get(mult)
-        draw_circle(self, self.spin_odds)
-        self.game_hash = s.recv_d()
-        self.game_info.text = f"Game - {mult}x"
-
-    def check_bet(self):
-        if self.spin_bet.text != "":
-            self.spin_bet.text = self.spin_bet.text[:12]
-            if float(self.spin_bet.text) > float(App.r_coin):
-                self.spin_bet.text = App.r_coin
-            if "." in self.spin_bet.text:
-                if len(self.spin_bet.text.split(".")[1]) > 2:
-                    self.spin_bet.text = self.spin_bet.text[:-1]
-        if self.spin_bet.text == ".":
-            self.spin_bet.text = ""
-
-    def spin(self):
-        if self.spin_bet.text == "":
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.spin_bet.text) < 1:
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.spin_bet.text) > float(App.r_coin):
-            Clock.schedule_once(lambda dt: popup("error", "Insufficient funds For Transfer"))
-        elif float(self.spin_bet.text) > 30:
-            Clock.schedule_once(lambda dt: popup("error", "Above Maximum Bet\n- Bet amount above the 30 R maximum\n"
-                                                          "This limit is based on your level"))
-        else:
-            for mult_btn in ["set_x2", "set_x3", "set_x5", "set_x10"]:
-                self.ids[mult_btn].disabled = True
-            self.ids.spin_btn.disabled = True
-            s.send_e(f"RCF:{self.game_hash}🱫{self.spin_bet.text}")
-            seed_inp, rand_float, outcome = s.recv_d().split("🱫")
-            for draw in create_draws(outcome, self.spin_odds):
-                Clock.schedule_once(lambda dt: draw_circle(self, self.spin_odds, draw[0]))
-                Clock.schedule_once(lambda dt: draw_triangle(self, draw[1]))
-                if draw[1] == "green":
-                    self.ids.spin_text.text = "Green"
-                if draw[1] == "red":
-                    self.ids.spin_text.text = "Red"
-                sleep(0.03)  # wheel speed, higher is slower
-            xp_amt = round(float(self.spin_bet.text)/5, 2)
-            App.xp = str(float(App.xp)+xp_amt)
-            if outcome == "green":
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.spin_col, rgb("#2F3D2Fff")))
-                self.ids.spin_text.text = "You Won!"
-                App.r_coin = str(round(float(App.r_coin)+float(self.spin_bet.text)*self.mult, 2))
-                App.transactions.append(f"Spinner [color=25be42ff]won[/color][color=f46f0eff] "
-                                        f"{float(self.spin_bet.text)*self.mult} R[/color] "
-                                        f"[color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-            else:
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.spin_col, rgb("#3D332Fff")))
-                App.transactions.append(f"Spinner [color=fa1d04ff]lost[/color][color=f46f0eff] {self.spin_bet.text} "
-                                        f"R[/color] [color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-                self.ids.spin_text.text = "You Lost"
-                App.r_coin = str(round(float(App.r_coin)-float(self.spin_bet.text), 2))
-            if App.r_coin.endswith(".0"):
-                App.r_coin = App.r_coin[:-2]
-            self.r_coins = App.r_coin+" R"
-            sleep(2)
-            Clock.schedule_once(lambda dt: canvas_update(self.ids.spin_col, rgb("#3c3c3cff")))
-            Clock.schedule_once(lambda dt: draw_circle(self, self.spin_odds))
-            Clock.schedule_once(lambda dt: draw_triangle(self, "yellow"))
-            s.send_e(f"MCF:{self.mult}")
-            self.game_hash = s.recv_d()
-            self.ids.spin_text.text = ""
-            for mult_btn in ["set_x2", "set_x3", "set_x5", "set_x10"]:
-                self.ids[mult_btn].disabled = False
-            self.ids[f"set_x{self.mult}"].disabled = True
-            self.ids.spin_btn.disabled = False
-
-    def run_spinner(self):
-        Thread(target=self.spin).start()
-        draw_circle(self, self.spin_odds)
-
-
-# games class for the wheel game
-class Wheel(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-    wheel_bet = ObjectProperty(None)
-    game_info = ObjectProperty(None)
-    game_hash = None
-    wheel_odds = [120, 150, 190, 250, 290]
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-        self.ids.wheel_btn.disabled = True
-        #if self.game_hash is None:
-        #    s.send_e("MCF:2")
-        #    self.game_hash = s.recv_d()
-        #    self.game_info.text = "Game - ??"
-        draw_circle(self, self.wheel_odds)
-        draw_triangle(self, "yellow")
-
-    def check_bet(self):
-        if self.wheel_bet.text != "":
-            self.wheel_bet.text = self.wheel_bet.text[:12]
-            if float(self.wheel_bet.text) > float(App.r_coin):
-                self.wheel_bet.text = App.r_coin
-            if "." in self.wheel_bet.text:
-                if len(self.wheel_bet.text.split(".")[1]) > 2:
-                    self.wheel_bet.text = self.wheel_bet.text[:-1]
-        if self.wheel_bet.text == ".":
-            self.wheel_bet.text = ""
-
-    def wheel(self):
-        if self.wheel_bet.text == "":
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.wheel_bet.text) < 1:
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.wheel_bet.text) > float(App.r_coin):
-            Clock.schedule_once(lambda dt: popup("error", "Insufficient funds For Transfer"))
-        elif float(self.wheel_bet.text) > 30:
-            Clock.schedule_once(lambda dt: popup("error", "Above Maximum Bet\n- Bet amount above the 30 R maximum\n"
-                                                          "This limit is based on your level"))
-        else:
-            self.ids.wheel_btn.disabled = True
-            s.send_e(f"RCF:{self.game_hash}🱫{self.wheel_bet.text}")
-            seed_inp, rand_float, outcome = s.recv_d().split("🱫")
-            for draw in create_draws(outcome, self.wheel_odds):
-                Clock.schedule_once(lambda dt: draw_circle(self, self.wheel_odds, draw[0]))
-                if draw[1] == "green":
-                    self.ids.wheel_text.text = "Green"
-                if draw[1] == "red":
-                    self.ids.wheel_text.text = "Red"
-                sleep(0.03)  # wheel speed, higher is slower
-            xp_amt = round(float(self.wheel_bet.text)/5, 2)
-            App.xp = str(float(App.xp)+xp_amt)
-            if outcome == "green":
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.wheel_col, rgb("#2F3D2Fff")))
-                self.ids.wheel_text.text = "You Won!"
-                App.r_coin = str(round(float(App.r_coin)+float(self.wheel_bet.text)*2, 2))
-                App.transactions.append(f"Spinner [color=25be42ff]won[/color][color=f46f0eff] "
-                                        f"{float(self.wheel_bet.text)*2} R[/color] "
-                                        f"[color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-            else:
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.wheel_col, rgb("#3D332Fff")))
-                App.transactions.append(f"Spinner [color=fa1d04ff]lost[/color][color=f46f0eff] {self.wheel_bet.text} "
-                                        f"R[/color] [color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-                self.ids.wheel_text.text = "You Lost"
-                App.r_coin = str(round(float(App.r_coin)-float(self.wheel_bet.text), 2))
-            if App.r_coin.endswith(".0"):
-                App.r_coin = App.r_coin[:-2]
-            self.r_coins = App.r_coin+" R"
-            sleep(2)
-            Clock.schedule_once(lambda dt: canvas_update(self.ids.wheel_col, rgb("#3c3c3cff")))
-            Clock.schedule_once(lambda dt: draw_circle(self, self.wheel_odds))
-            Clock.schedule_once(lambda dt: draw_triangle(self, "yellow"))
-            s.send_e(f"MCF:2")
-            self.game_hash = s.recv_d()
-            self.ids.wheel_text.text = ""
-            self.ids.wheel_btn.disabled = False
-
-    def run_wheel(self):
-        Thread(target=self.wheel).start()
-        draw_circle(self, self.wheel_odds)
-
-
 # screen that is shown when the app is reloading
 class Reloading(Screen):
     reload_text = StringProperty()
@@ -1255,10 +1041,9 @@ class App(KivyApp):
          CreateKey(name="CreateKey"), UsbSetup(name="UsbSetup"), ReCreateKey(name="ReCreateKey"),
          ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
          LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
-         Home(name="Home"), Chat(name="Chat"), Store(name="Store"), Games(name="Games"),
-         Inventory(name="Inventory"), Settings(name="Settings"), ColorSettings(name="ColorSettings"),
-         GiftCards(name="GiftCards"), DataCoins(name="DataCoins"), Spinner(name="Spinner"), Wheel(name="Wheel"),
-         Reloading(name="Reloading")]]
+         Home(name="Home"), Console(name="Console"), Store(name="Store"), Inventory(name="Inventory"),
+         Settings(name="Settings"), ColorSettings(name="ColorSettings"), GiftCards(name="GiftCards"),
+         DataCoins(name="DataCoins"), Reloading(name="Reloading")]]
 
         if version:
             App.title = f"BreadClient-{version}"
@@ -1304,9 +1089,9 @@ def reload(reason):
      CreateKey(name="CreateKey"), UsbSetup(name="UsbSetup"), ReCreateKey(name="ReCreateKey"),
      ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
      LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
-     Home(name="Home"), Chat(name="Chat"), Store(name="Store"), Games(name="Games"),
-     Inventory(name="Inventory"), Settings(name="Settings"), ColorSettings(name="ColorSettings"),
-     GiftCards(name="GiftCards"), DataCoins(name="DataCoins"), Spinner(name="Spinner"), Wheel(name="Wheel")]]
+     Home(name="Home"), Console(name="Console"), Store(name="Store"), Inventory(name="Inventory"),
+     Settings(name="Settings"), ColorSettings(name="ColorSettings"), GiftCards(name="GiftCards"),
+     DataCoins(name="DataCoins")]]
     if reason == "reload":
         if current_screen == "_screen0":
             current_screen = "Home"

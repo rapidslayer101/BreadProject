@@ -247,7 +247,7 @@ kv_payload = """# You can edit this file to change the UI.
                 root.manager.current = 'ReCreateKey'
                 root.manager.transition.direction = "left"
         RoundedButton:
-            text: "Request Access"
+            text: "Create Account"
             pos_hint: {"x": 0.35, "top": 0.35}
             on_release:
                 root.manager.current = 'CreateKey'
@@ -619,8 +619,8 @@ kv_payload = """# You can edit this file to change the UI.
     size_hint: 0.09, 0.05
     pos_hint: {"x": 0.01, "top": 0.99}
     
-<ChatButton@Button>:
-    text: "Chat Room"
+<ConsoleButton@Button>:
+    text: "Console"
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.1, "top": 0.99}
     
@@ -629,8 +629,8 @@ kv_payload = """# You can edit this file to change the UI.
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.24, "top": 0.99}
 
-<GameButton@Button>:
-    text: "Games"
+<PlaceholderButton@Button>:
+    text: "Placeholder"
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.38, "top": 0.99}
     
@@ -659,18 +659,18 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             disabled: True
-        ChatButton:
+        ConsoleButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
-                root.manager.current = 'Chat'
+                root.manager.current = 'Console'
         StoreButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
                 root.manager.current = 'Store'
-        GameButton:
-            on_press: 
-                root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
-                root.manager.current = 'Games'
+        PlaceholderButton:
+            #on_press: 
+                #root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
+                #root.manager.current = 'Games'
         InventoryButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
@@ -825,16 +825,16 @@ kv_payload = """# You can edit this file to change the UI.
             pos_hint: {"x": 0.09, "top": 0.09}
             on_press: root.check_code()
             
-<Chat>:
+<Console>:
     public_room_inp: public_room_inp
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
+        ConsoleButton:
             disabled: True
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
+        PlaceholderButton:
             on_press: root.manager.current = 'Games'
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
@@ -848,7 +848,7 @@ kv_payload = """# You can edit this file to change the UI.
             size_hint: 0.5, 0.88
             pos_hint: {"x": 0.25, "top": 0.9}
         Label:
-            text: "Public Chat Room" 
+            text: "Console" 
             size_hint: 0.3, 0.1
             pos_hint: {"x": 0.35, "top": 0.9}
         ScrollView:
@@ -877,11 +877,11 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             disabled: True
-        GameButton:
+        PlaceholderButton:
             on_press: root.manager.current = 'Games'
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
@@ -920,11 +920,11 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
+        PlaceholderButton:
             disabled: True
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
@@ -961,11 +961,11 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
+        PlaceholderButton:
             on_press: root.manager.current = 'Games'
         InventoryButton:
             disabled: True
@@ -986,11 +986,11 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
+        PlaceholderButton:
             on_press: root.manager.current = 'Games'
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
