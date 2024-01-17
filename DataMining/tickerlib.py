@@ -21,7 +21,7 @@ default_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl
 
 
 # connect to the ticker database
-_ticker_db = sqlite3.connect("TickerData/ticker.db")
+_ticker_db = sqlite3.connect("DataMining/TickerData/ticker.db")
 _ticker_db.execute("CREATE TABLE IF NOT EXISTS profile (ticker TEXT PRIMARY KEY, refresh_time TEXT, profile_data TEXT,"
                    " UNIQUE(ticker))")
 
@@ -139,7 +139,7 @@ def _tickers_ftse250_():  # UK 250
 
 
 def __writer__(file, refresh_days):
-    with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
+    with open(f"DataMining/TickerData/{file}.txt", "w", encoding="utf-8") as f:
         f.write(f"# reload+after+{datetime.datetime.now()+datetime.timedelta(days=refresh_days)}\n")
         if file == "sp_500":
             ticker_data = _tickers_sp500_()
@@ -165,11 +165,11 @@ def __writer__(file, refresh_days):
 
 
 def _refresh_ticker_data_(file, refresh_days):
-    if not os.path.exists(f"TickerData/{file}.txt"):
+    if not os.path.exists(f"DataMining/TickerData/{file}.txt"):
         print(f"Downloading {file} tickers...")
         ticker_info = __writer__(file, refresh_days)
     else:
-        with open(f"TickerData/{file}.txt", "r", encoding="utf-8") as f:
+        with open(f"DataMining/TickerData/{file}.txt", "r", encoding="utf-8") as f:
             file_time = datetime.datetime.strptime(f.readline().split("+")[2].replace("\n", ""),
                                                    "%Y-%m-%d %H:%M:%S.%f")
             if file_time < datetime.datetime.now():
@@ -184,7 +184,7 @@ def _refresh_ticker_data_(file, refresh_days):
 
 
 def __lse_writer__(lse_data, file, refresh_days):
-    with open(f"TickerData/{file}.txt", "w", encoding="utf-8") as f:
+    with open(f"DataMining/TickerData/{file}.txt", "w", encoding="utf-8") as f:
         f.write(f"# reload+after+{datetime.datetime.now() + datetime.timedelta(days=refresh_days)}\n")
         for ticker in lse_data:
             line = ""
@@ -200,27 +200,27 @@ def __lse_writer__(lse_data, file, refresh_days):
 
 
 def __lse_reader__():
-    if not os.path.exists(f"TickerData/lse.xlsx"):
+    if not os.path.exists(f"DataMining/TickerData/lse.xlsx"):
         print("LSE tickers not found, please download the file from "
               "https://www.londonstockexchange.com/reports?tab=instruments, then save it as lse.xlsx in the "
               "TickerData folder")
         exit()
     else:
         print(f"Downloading lse tickers...")
-        _data = pandas.read_excel(f"TickerData/lse.xlsx", None)
+        _data = pandas.read_excel(f"DataMining/TickerData/lse.xlsx", None)
         all_eq = _data['1.0 All Equity'].values.tolist()[8:]
         all_no_eq = _data['2.0 All Non-Equity'].values.tolist()[8:]
         __lse_writer__(all_eq, "lse", 31)
         __lse_writer__(all_no_eq, "lse_eq", 31)
-        os.rename("TickerData/lse.xlsx", "TickerData/lse_old.xlsx")
+        os.rename("DataMining/TickerData/lse.xlsx", "DataMining/TickerData/lse_old.xlsx")
         return all_eq, all_no_eq
 
 
 def _refresh_lse_tickers_():
-    if not os.path.exists(f"TickerData/lse.txt") or not os.path.exists(f"TickerData/lse_eq.txt"):
+    if not os.path.exists(f"DataMining/TickerData/lse.txt") or not os.path.exists(f"DataMining/TickerData/lse_eq.txt"):
         return __lse_reader__()
     else:
-        with open(f"TickerData/lse.txt", "r", encoding="utf-8") as f:
+        with open(f"DataMining/TickerData/lse.txt", "r", encoding="utf-8") as f:
             file_time = datetime.datetime.strptime(f.readline().split("+")[2].replace("\n", ""),
                                                    "%Y-%m-%d %H:%M:%S.%f")
             if file_time < datetime.datetime.now():
@@ -231,7 +231,7 @@ def _refresh_lse_tickers_():
                 for ticker in f.readlines():
                     _lse_.append(ticker.replace("\n", "").split("§"))
                 _lse_eq_ = []
-                with open(f"TickerData/lse_eq.txt", "r", encoding="utf-8") as g:
+                with open(f"DataMining/TickerData/lse_eq.txt", "r", encoding="utf-8") as g:
                     for ticker in g.readlines()[1:]:
                         _lse_eq_.append(ticker.replace("\n", "").split("§"))
                 return _lse_, _lse_eq_
@@ -302,8 +302,8 @@ def load_ticker_info(_ticker):
 # START OF CACHE LOAD SYSTEM - Before this line no file manipulation
 
 
-if not os.path.exists("TickerData"):
-    os.mkdir("TickerData")
+if not os.path.exists("DataMining/TickerData"):
+    os.mkdir("DataMining/TickerData")
     print("Created TickerData directory...")
 else:
     print("Found TickerData directory...")

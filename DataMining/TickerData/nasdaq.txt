@@ -1,4 +1,4 @@
-# reload+after+2024-01-17 01:04:09.004676
+# reload+after+2024-01-24 22:16:35.947899
 AACI§Armada Acquisition Corp. I§Common Stock
 AACIU§Armada Acquisition Corp. I§Unit
 AACIW§Armada Acquisition Corp. I§Warrant
@@ -69,7 +69,6 @@ ACONW§Aclarion, Inc.§Warrant
 ACOR§Acorda Therapeutics, Inc.§Common Stock
 ACRS§Aclaris Therapeutics, Inc.§Common Stock
 ACRV§Acrivon Therapeutics, Inc.§Common Stock
-ACRX§AcelRx Pharmaceuticals, Inc.§Common Stock
 ACST§Acasti Pharma, Inc. §Class A Common Stock
 ACT§Enact Holdings, Inc.§Common Stock
 ACTG§Acacia Research Corporation§Common Stock
@@ -704,6 +703,7 @@ BRNY§Burney U.S. Factor Rotation ETF
 BROG§Brooge Energy Limited §Ordinary Shares
 BROGW§Brooge Energy Limited §Warrant
 BRP§BRP Group, Inc.§Class A Common Stock
+BRRR§Valkyrie Bitcoin Fund
 BRSH§Bruush Oral Care Inc.§Common Stock
 BRSHW§Bruush Oral Care Inc.§Warrant
 BRTR§BlackRock Total Return ETF
@@ -1383,6 +1383,7 @@ DXPE§DXP Enterprises, Inc.§Common Stock
 DXR§Daxor Corporation§Closed End Fund
 DXYN§The Dixie Group, Inc.§Common Stock
 DYAI§Dyadic International, Inc.§Common Stock
+DYFI§IDX Dynamic Fixed Income ETF
 DYN§Dyne Therapeutics, Inc.§Common Stock
 DYNI§IDX Dynamic Innovation ETF
 DYNT§Dynatronics Corporation§Common Stock
@@ -1976,6 +1977,7 @@ GOODN§Gladstone Commercial Corporation§6.625% Series E Cumulative Redeemable P
 GOODO§Gladstone Commercial Corporation§6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share
 GOOG§Alphabet Inc.§Class C Capital Stock
 GOOGL§Alphabet Inc.§Class A Common Stock
+GORV§Lazydays Holdings, Inc.§Common Stock
 GOSS§Gossamer Bio, Inc.§Common Stock
 GOVI§Invesco Equal Weight 0-30 Year Treasury ETF§
 GOVX§GeoVax Labs, Inc.§Common Stock
@@ -1988,7 +1990,6 @@ GPAK§Gamer Pakistan Inc.§Common Stock
 GPCR§Structure Therapeutics Inc.§American Depositary Shares
 GPIQ§Goldman Sachs Nasdaq-100 Core Premium Income ETF§
 GPIX§Goldman Sachs S&P 500 Core Premium Income ETF
-GPP§Green Plains Partners LP§Common Units
 GPRE§Green Plains, Inc.§Common Stock
 GPRO§GoPro, Inc.§Class A Common Stock
 GRAB§Grab Holdings Limited§Class A Ordinary Shares
@@ -2136,6 +2137,8 @@ HOPE§Hope Bancorp, Inc.§Common Stock
 HOTH§Hoth Therapeutics, Inc.§Common Stock
 HOUR§Hour Loop, Inc.§common stock
 HOVNP§Hovnanian Enterprises Inc§Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
+HOVR§New Horizon Aircraft Ltd.§Class A Ordinary Shares
+HOVRW§New Horizon Aircraft Ltd.§Warrant
 HOWL§Werewolf Therapeutics, Inc.§Common Stock
 HPCO§Hempacco Co., Inc.§Common Stock
 HPK§HighPeak Energy, Inc.§Common Stock
@@ -2216,6 +2219,7 @@ IBB§iShares Biotechnology ETF
 IBBQ§Invesco Nasdaq Biotechnology ETF
 IBCP§Independent Bank Corporation§Common Stock
 IBEX§IBEX Limited§Common Share
+IBIT§iShares Bitcoin Trust§iShares Bitcoin Trust
 IBKR§Interactive Brokers Group, Inc.§Class A Common Stock
 IBOC§International Bancshares Corporation§Common Stock
 IBOT§VanEck Robotics ETF
@@ -2593,7 +2597,6 @@ LATG§Chenghe Acquisition I Co.§Class A Ordinary Shares
 LATGU§Chenghe Acquisition I Co.§Units
 LAUR§Laureate Education, Inc.§Common Stock
 LAZR§Luminar Technologies, Inc. §Class A Common Stock
-LAZY§Lazydays Holdings, Inc.§Common Stock
 LBAI§Lakeland Bancorp, Inc.§Common Stock
 LBBB§Lakeshore Acquisition II Corp.§Ordinary Shares
 LBBBR§Lakeshore Acquisition II Corp.§Rights
@@ -2832,6 +2835,7 @@ MCBS§MetroCity Bankshares, Inc.§Common Stock
 MCFT§MasterCraft Boat Holdings, Inc.§Common Stock
 MCHI§iShares MSCI China ETF
 MCHP§Microchip Technology Incorporated§Common Stock
+MCHS§Matthews China Discovery Active ETF
 MCHX§Marchex, Inc.§Class B Common Stock
 MCRB§Seres Therapeutics, Inc.§Common Stock
 MCRI§Monarch Casino & Resort, Inc.§Common Stock
@@ -2862,6 +2866,7 @@ MEDX§Horizon Kinetics Medical ETF
 MEGL§Magic Empire Global Limited§Ordinary Shares
 MEIP§MEI Pharma, Inc.§Common Stock
 MELI§MercadoLibre, Inc.§Common Stock
+MEMS§Matthews Emerging Markets Discovery Active ETF
 MEOH§Methanex Corporation§Common Stock
 MERC§Mercer International Inc.§Common Stock
 MESA§Mesa Air Group, Inc.§Common Stock
@@ -3079,6 +3084,7 @@ NEWTI§NewtekOne, Inc.§8.00% Fixed Rate Senior Notes due 2028
 NEWTL§NewtekOne, Inc.§5.75% Notes due 2024
 NEWTZ§NewtekOne, Inc.§5.50% Notes Due 2026
 NEXI§NexImmune, Inc.§Common Stock
+NEXN§Nexxen International Ltd.§American Depository Shares
 NEXT§NextDecade Corporation§Common Stock
 NFBK§Northfield Bancorp, Inc.§Common Stock
 NFE§New Fortress Energy Inc.§Class A Common Stock
@@ -3628,9 +3634,6 @@ PTEN§Patterson-UTI Energy, Inc.§Common Stock
 PTF§Invesco Dorsey Wright Technology Momentum ETF
 PTGX§Protagonist Therapeutics, Inc.§Common Stock
 PTH§Invesco Dorsey Wright Healthcare Momentum ETF
-PTHR§Pono Capital Three, Inc.§Class A Ordinary Shares
-PTHRU§Pono Capital Three, Inc.§Unit
-PTHRW§Pono Capital Three, Inc.§Warrant
 PTIX§Protagenic Therapeutics, Inc.§Common Stock
 PTIXW§Protagenic Therapeutics, Inc.§Warrant
 PTLO§Portillo's Inc.§Class A Common Stock
@@ -4353,6 +4356,7 @@ TCON§TRACON Pharmaceuticals, Inc.§Common Stock
 TCPC§BlackRock TCP Capital Corp.§Closed End Fund
 TCRT§Alaunos Therapeutics, Inc.§Common Stock
 TCRX§TScan Therapeutics, Inc.§Common Stock
+TCTM§Tarena International, Inc.§American Depositary Shares
 TCX§Tucows Inc.§Common Stock
 TDI§Touchstone Dynamic International ETF
 TDIV§First Trust NASDAQ Technology Dividend Index Fund
@@ -4362,7 +4366,6 @@ TDUP§ThredUp Inc.§Class A Common Stock
 TEAM§Atlassian Corporation §Class A Common Stock
 TECH§Bio-Techne Corp§Common Stock
 TECTP§Tectonic Financial, Inc.§9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
-TEDU§Tarena International, Inc.§American Depositary Shares
 TELA§TELA Bio, Inc.§Common stock
 TENB§Tenable Holdings, Inc.§Common Stock
 TENK§TenX Keane Acquisition§Ordinary Share
@@ -4417,6 +4420,7 @@ TLGY§TLGY Acquisition Corporation§Class A Ordinary Share
 TLGYU§TLGY Acquisition Corporation§Unit
 TLGYW§TLGY Acquisition Corporation§Warrant
 TLIS§Talis Biomedical Corporation§common stock
+TLPH§Talphera, Inc.§Common Stock
 TLRY§Tilray Brands, Inc.§Common Stock
 TLS§Telos Corporation§Common Stock
 TLSA§Tiziana Life Sciences Ltd§Common Shares
@@ -4461,7 +4465,6 @@ TRMB§Trimble Inc.§Common Stock
 TRMD§TORM plc§Class A Common Stock
 TRMK§Trustmark Corporation§Common Stock
 TRML§Tourmaline Bio, Inc. §Common Stock
-TRMR§Tremor International Ltd.§American Depository Shares
 TRNR§Interactive Strength Inc.§Common Stock
 TRNS§Transcat, Inc.§Common Stock
 TRON§Corner Growth Acquisition Corp. 2§Class A Ordinary Share
@@ -4727,7 +4730,6 @@ VRPX§Virpax Pharmaceuticals, Inc.§Common Stock
 VRRM§Verra Mobility Corporation§Class A Common Stock
 VRSK§Verisk Analytics, Inc.§Common Stock
 VRSN§VeriSign, Inc.§Common Stock
-VRTS§Virtus Investment Partners, Inc.§Common Stock
 VRTX§Vertex Pharmaceuticals Incorporated§Common Stock
 VS§Versus Systems Inc.§Common Shares
 VSAC§Vision Sensing Acquisition Corp.§Class A Common Stock

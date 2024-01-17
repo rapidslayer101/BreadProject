@@ -18,9 +18,9 @@ import feedparser
 import mysql
 from dateutil import parser as dt_parse
 import string
-import tickers_and_cache as tnc
+import DataMining.tickers_and_cache as tnc
 import AITools.LLMTool as LLM
-import news_scraper as newstool
+import DataMining.news_scraper as news_tool
 
 NOSQL = True  # If true, does not try anything with MySQL
 NOLLM = False  # If true, does not try to use LLM
@@ -131,7 +131,7 @@ def get_relevant_stories():
                     'Title': entry.title, 'URL': entry.link, "Execs": [], "Companies": [],
                     'Published': dt_parse.parse(getattr(entry, "published", "updated")),
                     'Summary': getattr(entry, 'summary', "Summary unavailable"),
-                    "Content": newstool.get_article_summary(entry.link)}
+                    "Content": news_tool.get_article_summary(entry.link)}
 
                 # Stories containing execs are worth parsing
                 for executive in Execs.keys():

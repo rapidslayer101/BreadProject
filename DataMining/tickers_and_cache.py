@@ -1,6 +1,6 @@
 import json
 import requests_html
-from tickerlib import *
+from DataMining.tickerlib import *
 
 # This file contains functions that scrape data from Yahoo Finance
 # This file should be called when the program starts
