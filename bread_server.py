@@ -2,14 +2,14 @@ import sqlite3
 import enclib
 import time
 import os
-from socket import socket, AF_INET, SOCK_STREAM, SOL_SOCKET, SO_REUSEADDR
+import rsa
+import zlib
+import socket
+import random
+import requests
+import threading
 from datetime import datetime, timedelta
-from rsa import PublicKey, encrypt
-from zlib import error as zl_error
 from csv import writer, reader
-from threading import Thread
-from random import choices, randint
-from requests import get
 from captcha.image import ImageCaptcha
 
 
@@ -18,13 +18,8 @@ class InvalidClientData(Exception):
     pass
 
 
-if not os.path.exists('users'):
-    os.mkdir('users')
-
-
 # class containing data for logged in users
 class Users:
-    chat_users = {}
     logged_in_users = []
     uid_keys = {}
 
@@ -33,10 +28,7 @@ class Users:
         self.db.execute("CREATE TABLE IF NOT EXISTS users (user_id TEXT PRIMARY KEY NOT NULL UNIQUE,"
                         "creation_time DATE NOT NULL, master_key TEXT NOT NULL, secret TEXT NOT NULL,"
                         "user_pass TEXT NOT NULL, ipk1 TEXT, ipk2 TEXT, ipk3 TEXT, ipk4 TEXT, username TEXT NOT NULL, "
-                        "last_online DATE NOT NULL, xp FLOAT NOT NULL, r_coin FLOAT NOT NULL, d_coin FLOAT NOT NULL)")
-        self.db.execute("CREATE TABLE IF NOT EXISTS codes (code TEXT PRIMARY KEY NOT NULL UNIQUE,"
-                        "expiry_date DATE NOT NULL, left TEXT NOT NULL, reward_type TEXT NOT NULL, "
-                        "amount FLOAT NOT NULL)")
+                        "last_online DATE NOT NULL, level FLOAT NOT NULL, r_coin FLOAT NOT NULL, d_coin FLOAT NOT NULL)")
 
     def login(self, u_id, ip, enc_key):
         self.logged_in_users.append(u_id)
@@ -59,16 +51,14 @@ class Users:
         self.db.execute("INSERT INTO users VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (uid, now,
                         enclib.pass_to_key(master_key, uid), enclib.enc_from_key(secret, u_pass),
                         enclib.pass_to_key(u_pass, uid), ipk+"🱫"+expiry_time, None,
-                        None, None, username, now, 0, 0, 350))
+                        None, None, username, now, 99, 0, 0))
         self.db.commit()
-        os.mkdir(f"users/{uid}")
-        with open(f"users/{uid}/friends.csv", 'w') as f:
-            f.write("")
-        with open(f"users/{uid}/transactions.csv", "w", newline='', encoding="utf-8") as csv:
-            writer(csv).writerows([["Date", "Type", "Amount", "Spent", "Description", "Hash"],
-                                  [str(datetime.now())[:-7], "NACD", "350", "0", "New account 350 D bonus",
-                                   enclib.pass_to_key(f"{str(datetime.now())[:-7]}NACD3500New account"
-                                                      f" 350 D bonus", uid)]])
+        # todo move to database
+        #with open(f"users/{uid}/transactions.csv", "w", newline='', encoding="utf-8") as csv:
+        #    writer(csv).writerows([["Date", "Type", "Amount", "Spent", "Description", "Hash"],
+        #                          [str(datetime.now())[:-7], "NACD", "350", "0", "New account 350 D bonus",
+        #                           enclib.pass_to_key(f"{str(datetime.now())[:-7]}NACD3500New account"
+        #                                              f" 350 D bonus", uid)]])
 
     def check_logged_in(self, uid, ip):
         if uid in self.logged_in_users:
@@ -78,21 +68,20 @@ class Users:
         else:
             return False
 
-    def join_chat(self, uid, cs):
-        self.chat_users.update({uid: cs})
 
-
-def add_transaction(uid, t_type, amount, spent, desc):
-    with open(f"users/{uid}/transactions.csv", "r", encoding="utf-8") as csv:
-        prev_hash = list(reader(csv))[-1][5]
-    with open(f"users/{uid}/transactions.csv", "a", newline='', encoding="utf-8") as csv:
-        writer(csv).writerow([str(datetime.now())[:-7], t_type, amount, spent, desc, enclib.pass_to_key(
-            f"{str(datetime.now())[:-7]}{t_type}{amount}{spent}{desc}", prev_hash)])
+def add_action(uid, t_type, amount, spent, desc):
+    pass
+    # todo move to database
+    #with open(f"users/{uid}/transactions.csv", "r", encoding="utf-8") as csv:
+    #    prev_hash = list(reader(csv))[-1][5]
+    #with open(f"users/{uid}/transactions.csv", "a", newline='', encoding="utf-8") as csv:
+    #    writer(csv).writerow([str(datetime.now())[:-7], t_type, amount, spent, desc, enclib.pass_to_key(
+    #        f"{str(datetime.now())[:-7]}{t_type}{amount}{spent}{desc}", prev_hash)])
 
 
 users = Users()
-s = socket(AF_INET, SOCK_STREAM)
-s.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 s.bind(('', 30678))
 s.listen()
 print(f"[*] Listening as {str(s).split('laddr=')[1][:-1]}")
@@ -101,28 +90,38 @@ print(f"[*] Listening as {str(s).split('laddr=')[1][:-1]}")
 def client_connection(cs):
     try:
         ip, port = str(cs).split("raddr=")[1][2:-2].split("', ")
-        print(f"NEW CLIENT-{ip}:{port}")
+        connection_type = str(cs.recv(32))[2:-1]
+        print(f"NEW CLIENT --- Type-{connection_type} IP-{ip}:{port}")
         uid = None
-        try:
-            pub_key_cli = PublicKey.load_pkcs1(cs.recv(256))
-        except ValueError:
+        if connection_type == "CLI":
+            try:
+                pub_key_cli = rsa.PublicKey.load_pkcs1(cs.recv(256))
+            except ValueError:
+                raise InvalidClientData
+            enc_seed = enclib.rand_b96_str(36)
+            cs.send(rsa.encrypt(enc_seed.encode(), pub_key_cli))
+            enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
+
+            def send_e(text):  # encrypt and send to client
+                try:
+                    cs.send(enclib.enc_from_key(text, enc_key))
+                except zlib.error:
+                    raise ConnectionResetError
+
+            def recv_d(buf_lim=1024):  # decrypt data from client
+                try:
+                    return enclib.dec_from_key(cs.recv(buf_lim), enc_key)
+                except zlib.error:
+                    raise ConnectionResetError
+        else:
+            def send_e(text):
+                cs.send(text.encode())
+
+            def recv_d(buf_lim=1024):
+                return cs.recv(buf_lim).decode()
+
+            # todo temp kick other client types
             raise InvalidClientData
-        enc_seed = enclib.rand_b96_str(36)
-        cs.send(encrypt(enc_seed.encode(), pub_key_cli))
-        enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
-        request = None
-
-        def send_e(text):  # encrypt and send to client
-            try:
-                cs.send(enclib.enc_from_key(text, enc_key))
-            except zl_error:
-                raise ConnectionResetError
-
-        def recv_d(buf_lim=1024):  # decrypt data from client
-            try:
-                return enclib.dec_from_key(cs.recv(buf_lim), enc_key)
-            except zl_error:
-                raise ConnectionResetError
 
         while True:  # login loop
             login_request = recv_d()
@@ -130,7 +129,7 @@ def client_connection(cs):
 
             if login_request == "CAP":  # captcha request
                 img = ImageCaptcha(width=280, height=90)
-                captcha_text = "".join(choices("23456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(10)))
+                captcha_text = "".join(random.choices("23456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(10)))
                 print(captcha_text)
                 img.generate(captcha_text)  # todo remove the need for a file
                 img.write(captcha_text, 'captcha.jpg')
@@ -152,31 +151,33 @@ def client_connection(cs):
                 if log_or_create.startswith("NAC:"):  # new account
                     master_key, u_pass = log_or_create[4:].split("🱫")
                     while True:  # create random unique user id
-                        uid = "".join(choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=8))
-                        u_name = uid+"#"+str(randint(111, 999))
+                        uid = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=8))
+                        u_name = uid+"#"+str(random.randint(111, 999))
                         if users.db.execute("SELECT user_id FROM users WHERE user_id = ?", (uid,)).fetchone() is None:
                             break
-                    u_secret = "".join(choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz", k=8))
+                    u_secret = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXY"
+                                                      "abcdefghijklmnopqrstuvwxyz", k=8))
                     send_e(f"{uid}🱫{u_secret}")
                     while True:  # 2fa challenge
                         code_challenge = recv_d()
-                        if get(f"https://www.authenticatorapi.com/Validate.aspx?"
-                               f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
+                        if requests.get(f"https://www.authenticatorapi.com/Validate.aspx?"
+                                        f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
                             send_e("N")
                         else:
                             ipk = enclib.rand_b96_str(24)
                             send_e(enclib.enc_from_pass(ipk, u_pass[:40], u_pass[40:]))
-                            send_e(f"{u_name}🱫0🱫0🱫350")
+                            send_e(f"{u_name}🱫0🱫0🱫0")
                             users.add_user(uid, master_key, u_secret, u_pass,
                                            enclib.pass_to_key(ip+ipk, uid), u_name)
                             break
 
                 if log_or_create.startswith("LOG:"):  # login
+                    print(log_or_create)
                     master_key_c, search_for, uname_or_uid = log_or_create[4:].split("🱫")
                     if search_for == "u":
                         try:
-                            uid, master_key, u_secret, u_pass, u_name, xp, r_coin, d_coin = users.db.execute(
-                                "SELECT user_id, master_key, secret, user_pass, username, xp, r_coin, d_coin "
+                            uid, master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = users.db.execute(
+                                "SELECT user_id, master_key, secret, user_pass, username, level, r_coin, d_coin "
                                 "FROM users WHERE username = ?", (uname_or_uid,)).fetchone()
                         except TypeError:
                             uid = None
@@ -184,8 +185,8 @@ def client_connection(cs):
                     else:
                         try:
                             uid = uname_or_uid
-                            master_key, u_secret, u_pass, u_name, xp, r_coin, d_coin = users.db.execute(
-                                "SELECT master_key, secret, user_pass, username, xp, r_coin, d_coin "
+                            master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = users.db.execute(
+                                "SELECT master_key, secret, user_pass, username, level, r_coin, d_coin "
                                 "FROM users WHERE user_id = ?", (uname_or_uid,)).fetchone()
                         except TypeError:
                             uid = None
@@ -208,12 +209,12 @@ def client_connection(cs):
                             u_secret = enclib.dec_from_key(u_secret, u_pass_c)
                             while True:  # 2fa challenge
                                 code_challenge = recv_d()
-                                if get(f"https://www.authenticatorapi.com/Validate.aspx?"
-                                       f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
+                                if requests.get(f"https://www.authenticatorapi.com/Validate.aspx?"
+                                                f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
                                     send_e("N")
                                 else:
                                     break
-                            send_e(f"{u_name}🱫{xp}🱫{r_coin}🱫{d_coin}")
+                            send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
                             ipk1, ipk2, ipk3, ipk4 = users.db.execute(
                                 "SELECT ipk1, ipk2, ipk3, ipk4 FROM users WHERE user_id = ?",
                                 (uid,)).fetchone()  # get ip keys from db
@@ -254,8 +255,8 @@ def client_connection(cs):
                     send_e("SESH_T")
                 else:
                     try:
-                        ipk1, ipk2, ipk3, ipk4, u_name, xp, r_coin, d_coin = \
-                            users.db.execute("SELECT ipk1, ipk2, ipk3, ipk4, username, xp, r_coin, "
+                        ipk1, ipk2, ipk3, ipk4, u_name, level, r_coin, d_coin = \
+                            users.db.execute("SELECT ipk1, ipk2, ipk3, ipk4, username, level, r_coin, "
                                              "d_coin FROM users WHERE user_id = ?", (uid,)).fetchone()
                     except ValueError:
                         send_e("N")  # User ID not found
@@ -273,19 +274,19 @@ def client_connection(cs):
 
                         if ipk1:
                             if check_ipk(ipk1):
-                                send_e(f"{u_name}🱫{xp}🱫{r_coin}🱫{d_coin}")
+                                send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
                                 break
                         if ipk2:
                             if check_ipk(ipk2):
-                                send_e(f"{u_name}🱫{xp}🱫{r_coin}🱫{d_coin}")
+                                send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
                                 break
                         if ipk3:
                             if check_ipk(ipk3):
-                                send_e(f"{u_name}🱫{xp}🱫{r_coin}🱫{d_coin}")
+                                send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
                                 break
                         if ipk4:
                             if check_ipk(ipk4):
-                                send_e(f"{u_name}🱫{xp}🱫{r_coin}🱫{d_coin}")
+                                send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
                                 break
                         send_e("N")
 
@@ -304,48 +305,6 @@ def client_connection(cs):
             #elif request.startswith("DLAC:"):  # todo delete account
             #    pass
 
-            elif request.startswith("BGC:"):  # buy gift card
-                try:
-                    amount = int(request[4:])
-                except ValueError:
-                    raise InvalidClientData
-                if amount not in [25, 40, 100, 250, 600]:
-                    raise InvalidClientData
-                elif r_coin >= amount:
-                    r_coin = round(r_coin-amount, 2)
-                    users.db.execute("UPDATE users SET r_coin = ? WHERE user_id = ?", (r_coin, uid))
-                    while True:  # create random unique gift code
-                        code = "".join(choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXY", k=16))
-                        try:
-                            users.db.execute("INSERT INTO codes VALUES (?, ?, ?, ?, ?)", (code,
-                                             str(datetime.now()+timedelta(days=14))[:-7], 1, "R", amount))
-                            break
-                        except sqlite3.IntegrityError:
-                            pass
-                    users.db.commit()
-                    add_transaction(uid, "BGC", amount, amount, f"Code: {code}")
-                    send_e(f"{code[:4]}-{code[4:8]}-{code[8:12]}-{code[12:]}")
-                else:
-                    raise InvalidClientData
-
-            elif request.startswith("BYD:"):  # buy d_coin
-                try:
-                    amount = int(request[4:])
-                except ValueError:
-                    raise InvalidClientData
-                if amount not in [15, 35, 50, 100, 210]:
-                    raise InvalidClientData
-                elif r_coin >= amount:
-                    r_coin = round(r_coin-amount, 2)
-                    d_coin_amt = {15: 150, 35: 375, 50: 550, 100: 1150, 210: 2500}.get(amount)
-                    users.db.execute("UPDATE users SET r_coin = ?, d_coin = ? WHERE user_id = ?",
-                                     (r_coin, d_coin+d_coin_amt, uid))
-                    users.db.commit()
-                    add_transaction(uid, "BUYD", d_coin_amt, amount, "Bought d_coin")
-                    send_e("V")
-                else:
-                    raise InvalidClientData
-
             elif request.startswith("CUP:"):  # change user password
                 u_pass_c = request[4:]
                 try:
@@ -359,8 +318,8 @@ def client_connection(cs):
                         u_secret = enclib.dec_from_key(u_secret, u_pass_c)
                         while True:  # 2fa challenge
                             code_challenge = recv_d()
-                            if get(f"https://www.authenticatorapi.com/Validate.aspx?"
-                                   f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
+                            if requests.get(f"https://www.authenticatorapi.com/Validate.aspx?"
+                                            f"Pin={code_challenge}&SecretCode={u_secret}").content != b"True":
                                 send_e("N")
                             else:
                                 break
@@ -376,6 +335,7 @@ def client_connection(cs):
                 except sqlite3.OperationalError:
                     send_e("N")
 
+            # todo fix code
             elif request.startswith("CUN:"):  # change username
                 if d_coin < 5:
                     raise InvalidClientData
@@ -388,7 +348,7 @@ def client_connection(cs):
                     counter = 0
                     while True:
                         counter += 1
-                        n_u_name_i = n_u_name+"#"+str(randint(111, 999))
+                        n_u_name_i = n_u_name+"#"+str(random.randint(111, 999))
                         try:
                             if users.db.execute("SELECT * FROM users WHERE username = ?",
                                                 (n_u_name_i,)).fetchone() is None:
@@ -396,7 +356,7 @@ def client_connection(cs):
                                 users.db.execute("UPDATE users SET username = ?, d_coin = ? WHERE user_id = ?",
                                                  (n_u_name_i, d_coin, uid))
                                 users.db.commit()
-                                add_transaction(uid, "CUN", 0, 5, f"Changed u_name to {n_u_name_i}")
+                                add_action(uid, "CUN", 0, 5, f"Changed u_name to {n_u_name_i}")
                                 send_e(n_u_name_i)
                                 u_name = n_u_name_i
                                 break
@@ -405,89 +365,14 @@ def client_connection(cs):
                                 send_e("N")
                                 break
 
-            elif request.startswith("JNC"):  # join public chat
-                Users.chat_users.update({uid: cs})
-                while True:
-                    u_msg = recv_d()
-                    if u_msg == "LVC":  # leave public chat
-                        Users.chat_users.pop(uid)
-                        send_e("LVC🱫")
-                        break
-                    else:
-                        for user_id in Users.chat_users.keys():  # todo keys for each user
-                            if user_id != uid:
-                                try:
-                                    print(user_id, Users.chat_users[user_id])
-                                    Users.chat_users[user_id].send(enclib.enc_from_key(f"{u_name}🱫{u_msg}",
-                                                                                Users.uid_keys[user_id]))
-                                except zl_error:
-                                    raise ConnectionResetError
-
-            elif request.startswith("TRF:"):  # transfer R coins
-                transfer_to, transfer_amount = request[4:].split("🱫")
-                if round(float(transfer_amount)/0.995, 2) > r_coin:
-                    raise InvalidClientData
-                if transfer_to == uid:
-                    raise InvalidClientData
-                try:
-                    transfer_to_r_coin = users.db.execute("SELECT r_coin FROM users WHERE username = ?",
-                                                          (transfer_to,)).fetchone()[0]
-                    r_coin = round(float(r_coin)-float(transfer_amount)/0.995, 2)
-                    users.db.execute("UPDATE users SET r_coin = ? WHERE user_id = ?", (r_coin, uid))
-                    users.db.execute("UPDATE users SET r_coin = ? WHERE username = ?",
-                                     (float(transfer_to_r_coin)+float(transfer_amount), transfer_to))
-                    users.db.commit()
-                    add_transaction(uid, "TRF", float(transfer_amount)/0.995, float(transfer_amount),
-                                    f"Transferred to {transfer_to}")
-                    send_e("V")
-                except TypeError:
-                    try:  # todo what if the user is already logged in, resolve username to UID
-                        transfer_to_r_coin = users.db.execute("SELECT r_coin FROM users WHERE user_id = ?",
-                                                              (transfer_to,)).fetchone()[0]
-                        r_coin = round(float(r_coin)-float(transfer_amount)/0.995, 2)
-                        users.db.execute("UPDATE users SET r_coin = ? WHERE user_id = ?", (r_coin, uid))
-                        users.db.execute("UPDATE users SET r_coin = ? WHERE user_id = ?",
-                                         (float(transfer_to_r_coin)+float(transfer_amount), transfer_to))
-                        users.db.commit()
-                        add_transaction(uid, "TRF", float(transfer_amount)/0.995, float(transfer_amount),
-                                        f"Transferred to {transfer_to}")
-                        send_e("V")
-                    except TypeError:
-                        send_e("N")  # user not exist
-
-            elif request.startswith("CLM:"):  # claim code
-                code = request[4:].replace("-", "")
-                code_data = users.db.execute("SELECT * FROM codes WHERE code = ?", (code,)).fetchone()
-                if code_data is None:
-                    send_e("N")
-                elif code_data[3] == "R":
-                    r_coin = round(r_coin+float(code_data[4]), 2)
-                    users.db.execute("UPDATE users SET r_coin = ? WHERE user_id = ?", (r_coin, uid))
-                    users.db.commit()
-                    add_transaction(uid, "CLM", float(code_data[4]), 0, f"Claimed code: {code}")
-                    send_e(f"R:{code_data[4]}")
-                if code_data[2] == "1":
-                    users.db.execute("DELETE FROM codes WHERE code = ?", (code,))
-                    users.db.commit()
-                elif code_data[2] == "-1":  # infinite code
-                    pass
-                else:
-                    users.db.execute("UPDATE codes SET left = ? WHERE code = ?", (int(code_data[2])-1, code))
-                    users.db.commit()
-
-            elif request.startswith("AFR:"):
-                add_friend_n = request[6:]
-                if 9 < len(add_friend_n) < 38:
-                    try:
-                        int(add_friend_n[-4:])
-                        if add_friend_n[-5] != "#":
-                            raise InvalidClientData
-                        else:
-                            print("process new friend", add_friend_n)
-                    except ValueError:
-                        raise InvalidClientData
-                else:
-                    raise InvalidClientData
+            # todo conversation with server
+            elif request.startswith("CON"):  # join public chat
+                print(request)
+                send_e("SERVER🱫V")
+                time.sleep(0.1)
+                send_e("CLIENT2🱫Y")
+                time.sleep(3)
+                send_e("SERVER🱫completed task")
 
     except ConnectionResetError:  # client disconnection exception handler
         print(f"{uid}-{ip}:{port} DC")
@@ -497,13 +382,15 @@ def client_connection(cs):
         print(f"{uid}-{ip}:{port} DC - modified/invalid client request")
         if ip in users.logged_in_users:
             users.logout(uid, ip)
-        with open(f"users/{uid}/log.txt", "a") as log:  # log logout time
-            if request:
-                log.write(f"{str(datetime.now())[:-7]} - ICR: {request}\n")
-            else:
-                log.write(f"{str(datetime.now())[:-7]} - ICR: None\n")
+
+        # todo move to database
+        #with open(f"users/{uid}/log.txt", "a") as log:  # log logout time
+        #    if request:
+        #        log.write(f"{str(datetime.now())[:-7]} - ICR: {request}\n")
+        #    else:
+        #        log.write(f"{str(datetime.now())[:-7]} - ICR: None\n")
 
 
 while True:  # connection accept loop
     client_socket, client_address = s.accept()
-    t = Thread(target=client_connection, args=(client_socket,), daemon=True).start()
+    t = threading.Thread(target=client_connection, args=(client_socket,), daemon=True).start()

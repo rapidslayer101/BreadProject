@@ -247,7 +247,7 @@ kv_payload = """# You can edit this file to change the UI.
                 root.manager.current = 'ReCreateKey'
                 root.manager.transition.direction = "left"
         RoundedButton:
-            text: "Request Access"
+            text: "Create Account"
             pos_hint: {"x": 0.35, "top": 0.35}
             on_release:
                 root.manager.current = 'CreateKey'
@@ -619,8 +619,8 @@ kv_payload = """# You can edit this file to change the UI.
     size_hint: 0.09, 0.05
     pos_hint: {"x": 0.01, "top": 0.99}
     
-<ChatButton@Button>:
-    text: "Chat Room"
+<ConsoleButton@Button>:
+    text: "Console"
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.1, "top": 0.99}
     
@@ -629,8 +629,8 @@ kv_payload = """# You can edit this file to change the UI.
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.24, "top": 0.99}
 
-<GameButton@Button>:
-    text: "Games"
+<PlaceholderButton@Button>:
+    text: "Placeholder"
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.38, "top": 0.99}
     
@@ -659,18 +659,18 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             disabled: True
-        ChatButton:
+        ConsoleButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
-                root.manager.current = 'Chat'
+                root.manager.current = 'Console'
         StoreButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
                 root.manager.current = 'Store'
-        GameButton:
-            on_press: 
-                root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
-                root.manager.current = 'Games'
+        PlaceholderButton:
+            #on_press: 
+                #root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
+                #root.manager.current = 'Games'
         InventoryButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
@@ -825,17 +825,17 @@ kv_payload = """# You can edit this file to change the UI.
             pos_hint: {"x": 0.09, "top": 0.09}
             on_press: root.check_code()
             
-<Chat>:
+<Console>:
     public_room_inp: public_room_inp
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
+        ConsoleButton:
             disabled: True
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
-            on_press: root.manager.current = 'Games'
+        PlaceholderButton:
+            #on_press: root.manager.current = 'Games'
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
         SettingsButton:
@@ -848,7 +848,7 @@ kv_payload = """# You can edit this file to change the UI.
             size_hint: 0.5, 0.88
             pos_hint: {"x": 0.25, "top": 0.9}
         Label:
-            text: "Public Chat Room" 
+            text: "Console" 
             size_hint: 0.3, 0.1
             pos_hint: {"x": 0.35, "top": 0.9}
         ScrollView:
@@ -877,12 +877,12 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             disabled: True
-        GameButton:
-            on_press: root.manager.current = 'Games'
+        PlaceholderButton:
+            #on_press: root.manager.current = 'Games'
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
         SettingsButton:
@@ -891,40 +891,16 @@ kv_payload = """# You can edit this file to change the UI.
             text: root.r_coins
         D_coin_label:
             text: root.d_coins
-        RoundedBackingButton:
-            size_hint: 0.2, 0.4
-            pos_hint: {"x": 0.01, "top": 0.92}
-            on_press: root.manager.current = 'GiftCards'
-        SizeLabel:
-            text: "Buy R-Coin Gift Cards"
-            pos_hint: {"x": 0.06, "top": 0.91}
-        AsyncImage:
-            source: "https://d2j6dbq0eux0bg.cloudfront.net/default-store/giftcards/gift_card_002_1500px.jpg"
-            anim_delay: 0.05
-            size_hint: 0.16, 0.3
-            pos_hint: {"x": 0.03, "top": 0.85}
-        RoundedBackingButton:
-            size_hint: 0.2, 0.4
-            pos_hint: {"x": 0.22, "top": 0.92}
-            on_press: root.manager.current = 'DataCoins'
-        SizeLabel:
-            text: "Buy D-Coin"
-            pos_hint: {"x": 0.27, "top": 0.91}
-        AsyncImage:
-            source: "http://getdrawings.com/free-icon/database-icon-png-55.png"
-            anim_delay: 0.05
-            size_hint: 0.16, 0.3
-            pos_hint: {"x": 0.24, "top": 0.85}
         
 <Games>:
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
+        PlaceholderButton:
             disabled: True
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
@@ -945,28 +921,17 @@ kv_payload = """# You can edit this file to change the UI.
             source: "https://purepng.com/public/uploads/large/purepng.com-gold-coingoldatomic-number-79chemical-elementgroup-11-elementaurumgold-dustprecious-metalgold-coins-1701528977728s2dcq.png"
             size_hint: 0.16, 0.3
             pos_hint: {"x": 0.03, "top": 0.85}
-        #RoundedBackingButton:
-        #    size_hint: 0.2, 0.4
-        #    pos_hint: {"x": 0.22, "top": 0.92}
-        #    on_press: root.manager.current = 'Wheel'
-        #SizeLabel:
-        #    text: "Wheel of Fortune"
-        #    pos_hint: {"x": 0.27, "top": 0.91}
-        #AsyncImage:
-        #    source: "https://newsroom.mohegansun.com/wp-content/uploads/2016/03/WOF_Family_Logo.png"
-        #    size_hint: 0.16, 0.3
-        #    pos_hint: {"x": 0.24, "top": 0.85}
             
 <Inventory>:
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
-            on_press: root.manager.current = 'Games'
+        PlaceholderButton:
+            #on_press: root.manager.current = 'Games'
         InventoryButton:
             disabled: True
         SettingsButton:
@@ -986,12 +951,12 @@ kv_payload = """# You can edit this file to change the UI.
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
-        ChatButton:
-            on_press: root.manager.current = 'Chat'
+        ConsoleButton:
+            on_press: root.manager.current = 'Console'
         StoreButton:
             on_press: root.manager.current = 'Store'
-        GameButton:
-            on_press: root.manager.current = 'Games'
+        PlaceholderButton:
+            #on_press: root.manager.current = 'Games'
         InventoryButton:
             on_press: root.manager.current = 'Inventory'
         SettingsButton:
@@ -1370,262 +1335,6 @@ kv_payload = """# You can edit this file to change the UI.
                     size: self.size
                     radius: [10]
         
-<GiftCardBackingButton@RoundedBackingButton>:
-    size_hint: 0.27, 0.42
-    
-<GiftCardAsyncImage@AsyncImage>:
-    source: "https://d2j6dbq0eux0bg.cloudfront.net/default-store/giftcards/gift_card_002_1500px.jpg"
-    size_hint: 0.23, 0.35
-        
-<GiftCards>:
-    GreyFloatLayout:
-        Button:
-            text: "<< Store"
-            size_hint: 0.1, 0.05
-            pos_hint: {"x": 0, "top": 1}
-            on_press: root.manager.current = 'Store'
-        R_coin_label:
-            text: root.r_coins
-        D_coin_label:
-            text: root.d_coins
-        GiftCardBackingButton:
-            pos_hint: {"x": 0.23, "top": 0.89}
-            on_press: root.buy_gift_card(25)
-        SizeLabel:
-            text: "25 R Gift Card"
-            font_size: "20dp"
-            pos_hint: {"x": 0.31, "top": 0.85}
-        GiftCardAsyncImage:
-            pos_hint: {"x": 0.25, "top": 0.8}
-        GiftCardBackingButton:
-            pos_hint: {"x": 0.51, "top": 0.89}
-            on_press: root.buy_gift_card(40)
-        SizeLabel:
-            text: "40 R Gift Card"
-            font_size: "20dp"
-            pos_hint: {"x": 0.59, "top": 0.85}
-        GiftCardAsyncImage:
-            pos_hint: {"x": 0.53, "top": 0.8}
-        GiftCardBackingButton:
-            pos_hint: {"x": 0.09, "top": 0.45}
-            on_press: root.buy_gift_card(100)
-        SizeLabel:
-            text: "100 R Gift Card"
-            font_size: "20dp"
-            pos_hint: {"x": 0.17, "top": 0.41}
-        GiftCardAsyncImage:
-            pos_hint: {"x": 0.11, "top": 0.36}
-        GiftCardBackingButton:
-            pos_hint: {"x": 0.37, "top": 0.45}
-            on_press: root.buy_gift_card(250)
-        SizeLabel:
-            text: "250 R Gift Card"
-            font_size: "20dp"
-            pos_hint: {"x": 0.45, "top": 0.41}
-        GiftCardAsyncImage:
-            pos_hint: {"x": 0.39, "top": 0.36}
-        GiftCardBackingButton:
-            pos_hint: {"x": 0.65, "top": 0.45}
-            on_press: root.buy_gift_card(600)
-        SizeLabel:
-            text: "600 R Gift Card"
-            font_size: "20dp"
-            pos_hint: {"x": 0.73, "top": 0.41}
-        GiftCardAsyncImage:
-            pos_hint: {"x": 0.67, "top": 0.36}
-
-
-<DataCoinAsyncImage@AsyncImage>:
-    source: "http://getdrawings.com/free-icon/database-icon-png-55.png"
-    size_hint: 0.21, 0.33
-            
-<DataCoins>:
-    GreyFloatLayout:
-        Button:
-            text: "<< Store"
-            size_hint: 0.1, 0.05
-            pos_hint: {"x": 0, "top": 1}
-            on_press: root.manager.current = 'Store'
-        R_coin_label:   
-            text: root.r_coins
-        D_coin_label:
-            text: root.d_coins
-        RoundedBackingButton:
-            size_hint: 0.27, 0.42
-            pos_hint: {"x": 0.23, "top": 0.89}
-            on_press: root.buy_d(15)
-        SizeLabel:
-            text: "15 R -> 150 D"
-            font_size: "20dp"
-            pos_hint: {"x": 0.31, "top": 0.85}
-        DataCoinAsyncImage:
-            pos_hint: {"x": 0.26, "top": 0.8}
-        RoundedBackingButton:
-            size_hint: 0.27, 0.42
-            pos_hint: {"x": 0.51, "top": 0.89}
-            on_press: root.buy_d(35)
-        SizeLabel:
-            text: "35 R -> 375 D"
-            font_size: "20dp"
-            pos_hint: {"x": 0.59, "top": 0.85}
-        DataCoinAsyncImage:
-            pos_hint: {"x": 0.54, "top": 0.8}
-        RoundedBackingButton:
-            size_hint: 0.27, 0.42
-            pos_hint: {"x": 0.09, "top": 0.45}
-            on_press: root.buy_d(50)
-        SizeLabel:
-            text: "50 R -> 550 D"
-            font_size: "20dp"
-            pos_hint: {"x": 0.17, "top": 0.41}
-        DataCoinAsyncImage:
-            pos_hint: {"x": 0.12, "top": 0.36}
-        RoundedBackingButton:
-            size_hint: 0.27, 0.42
-            pos_hint: {"x": 0.37, "top": 0.45}
-            on_press: root.buy_d(100)
-        SizeLabel:
-            text: "100 R -> 1150 D"
-            font_size: "20dp"
-            pos_hint: {"x": 0.45, "top": 0.41}
-        DataCoinAsyncImage:
-            pos_hint: {"x": 0.4, "top": 0.36}
-        RoundedBackingButton:
-            size_hint: 0.27, 0.42
-            pos_hint: {"x": 0.65, "top": 0.45}
-            on_press: root.buy_d(210)
-        SizeLabel:
-            text: "210 R -> 2500 D"
-            font_size: "20dp"
-            pos_hint: {"x": 0.73, "top": 0.41}
-        DataCoinAsyncImage:
-            pos_hint: {"x": 0.68, "top": 0.36}
-            
-<Spinner>:
-    spin_bet: spin_bet
-    game_info: game_info
-    GreyFloatLayout:
-        Button:
-            text: "<< Games"
-            size_hint: 0.1, 0.05
-            pos_hint: {"x": 0, "top": 1}
-            on_press: root.manager.current = 'Games'
-        R_coin_label:
-            text: root.r_coins
-        D_coin_label:
-            text: root.d_coins
-        BackingLabel:
-            id: spin_col
-            size_hint: 0.5, 0.9
-            pos_hint: {"x": 0.25, "top": 0.95}
-        Label:
-            text: "Spin2Win"
-            font_size: "30dp"
-            pos_hint: {"x": 0, "top": 1.38}
-        Label:
-            id: spin_text
-            markup: True
-            font_size: "25dp"
-            pos_hint: {"x": 0, "top": 1.07}
-        RoundedButton:
-            id: spin_btn
-            text: "Spin"
-            size_hint: 0.1, 0.1
-            pos_hint: {"x": 0.55, "top": 0.2}
-            on_press: root.run_spinner()
-        RoundedTxtInp:
-            id: spin_bet
-            input_filter: "float"
-            hint_text: "Bet"
-            size_hint: 0.15, 0.1
-            pos_hint: {"x": 0.35, "top": 0.2}
-            multiline: False
-            on_text: root.check_bet()
-        BackingLabel:
-            size_hint: 0.23, 0.2
-            pos_hint: {"x": 0.76, "top": 0.92}
-        SizeLabel:
-            id: game_info
-            pos_hint: {"x": 0.827, "top": 0.9}
-        RoundedButton:
-            id: set_x2
-            text: "X2 - 47%"
-            size_hint: 0.15, 0.1
-            pos_hint: {"x": 0.8, "top": 0.65}
-            disabled: True
-            on_press: root.set_odds(2)
-        RoundedButton:
-            id: set_x3
-            text: "X3 - 31%"
-            size_hint: 0.15, 0.1
-            pos_hint: {"x": 0.8, "top": 0.5}
-            on_press: root.set_odds(3)
-        RoundedButton:
-            id: set_x5
-            text: "X5 - 19%"
-            size_hint: 0.15, 0.1
-            pos_hint: {"x": 0.8, "top": 0.35}
-            on_press: root.set_odds(5)
-        RoundedButton:
-            id: set_x10
-            text: "X10 - 9.5%"
-            size_hint: 0.15, 0.1
-            pos_hint: {"x": 0.8, "top": 0.2}
-            on_press: root.set_odds(10)
-            
-<Wheel>:
-    wheel_bet: wheel_bet
-    game_info: game_info
-    GreyFloatLayout:
-        Button:
-            text: "<< Games"
-            size_hint: 0.1, 0.05
-            pos_hint: {"x": 0, "top": 1}
-            on_press: root.manager.current = 'Games'
-        R_coin_label:
-            text: root.r_coins
-        D_coin_label:
-            text: root.d_coins
-        BackingLabel:
-            id: wheel_col
-            size_hint: 0.5, 0.9
-            pos_hint: {"x": 0.25, "top": 0.95}
-        Label:
-            text: "Wheel of Fortune"
-            font_size: "30dp"
-            pos_hint: {"x": 0, "top": 1.38}
-        Label:
-            id: wheel_text
-            markup: True
-            font_size: "25dp"
-            pos_hint: {"x": 0, "top": 1.07}
-        RoundedButton:
-            id: wheel_btn
-            text: "Spin"
-            size_hint: 0.1, 0.1
-            pos_hint: {"x": 0.55, "top": 0.2}
-            on_press: root.run_wheel()
-        RoundedTxtInp:
-            id: wheel_bet
-            input_filter: "float"
-            hint_text: "Bet"
-            size_hint: 0.15, 0.1
-            pos_hint: {"x": 0.35, "top": 0.2}
-            multiline: False
-            on_text: root.check_bet()
-        BackingLabel:
-            size_hint: 0.23, 0.2
-            pos_hint: {"x": 0.76, "top": 0.92}
-        SizeLabel:
-            id: game_info
-            pos_hint: {"x": 0.827, "top": 0.9}
-        BackingLabel:
-            size_hint: 0.23, 0.2
-            pos_hint: {"x": 0.76, "top": 0.92}
-        SizeLabel:
-            id: game_info
-            pos_hint: {"x": 0.827, "top": 0.9}
-            
 <Reloading>
     GreyFloatLayout:
         SizeLabel:

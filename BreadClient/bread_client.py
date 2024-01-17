@@ -1,14 +1,15 @@
 import bread_kv
-from enclib import hash_a_file, to_base, pass_to_key, enc_from_key, dec_from_pass, dec_from_key
-from base64 import b32encode
+import enclib
+import base64
+import hashlib
+import os
+import random
+import zlib
+import socket
+import threading
+import time
+import rsa
 from datetime import datetime
-from hashlib import sha512
-from os import path, mkdir, listdir
-from random import randint, uniform, choices
-from socket import socket
-from threading import Thread
-from time import perf_counter, sleep
-from zlib import error as zl_error
 
 from kivy.app import App as KivyApp
 from kivy.clock import Clock
@@ -22,17 +23,16 @@ from kivy.utils import platform, get_color_from_hex as rgb
 from kivy.uix.image import AsyncImage
 from kivy.uix.label import Label
 from kivy.uix.screenmanager import ScreenManager, Screen
-from rsa import newkeys, PublicKey, decrypt
 
-if not path.exists("app"):
-    mkdir("app")
+if not os.path.exists("app"):
+    os.mkdir("app")
 
 # hashes client file
-app_hash = hash_a_file("bread_client.py")
+app_hash = enclib.hash_a_file("bread_client.py")
 
 # updates sha.txt with new app_hash
 version = None
-if path.exists("sha.txt"):
+if os.path.exists("sha.txt"):
     bread_kv.kv()
     with open("sha.txt", "r", encoding="utf-8") as f:
         latest_sha_, version, tme_, bld_num_, run_num_ = f.readlines()[-1].split("§")
@@ -55,8 +55,8 @@ default_salt = "52gy\"J$&)6%0}fgYfm/%ino}PbJk$w<5~j'|+R .bJcSZ.H&3z'A:gip/jtW$6A
 # server class containing connection algorithm and data transfer functions
 class Server:
     def __init__(self):
-        self.s, self.enc_key = socket(), None
-        if path.exists("app/server_ip"):
+        self.s, self.enc_key = socket.socket(), None
+        if os.path.exists("app/server_ip"):
             with open(f"app/server_ip", "rb") as f:
                 self.ip = f.read().decode().split(":")
         else:
@@ -69,14 +69,15 @@ class Server:
             l_ip, l_port = str(self.s).split("laddr=")[1].split("raddr=")[0][2:-3].split("', ")
             s_ip, s_port = str(self.s).split("raddr=")[1][2:-2].split("', ")
             print(f" << Server connected via {l_ip}:{l_port} -> {s_ip}:{s_port}")
-            pub_key, pri_key = newkeys(512)
+            self.s.send(b"CLI")
+            pub_key, pri_key = rsa.newkeys(512)
             try:
-                self.s.send(PublicKey.save_pkcs1(pub_key))
+                self.s.send(rsa.PublicKey.save_pkcs1(pub_key))
             except ConnectionResetError:
                 return False
             print(" >> Public RSA key sent")
-            enc_seed = decrypt(self.s.recv(128), pri_key).decode()
-            self.enc_key = pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
+            enc_seed = rsa.decrypt(self.s.recv(128), pri_key).decode()
+            self.enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
             print(" << Client enc_seed and enc_salt received and loaded\n -- RSA Enc bootstrap complete")
             return True
         except ConnectionRefusedError:
@@ -85,21 +86,21 @@ class Server:
 
     def send_e(self, text):  # encrypt and send data to server
         try:
-            self.s.send(enc_from_key(text, self.enc_key))
+            self.s.send(enclib.enc_from_key(text, self.enc_key))
         except ConnectionResetError:
             print("CONNECTION_LOST, reconnecting...")
             if s.ip and s.connect():
-                self.s.send(enc_from_key(text, self.enc_key))
+                self.s.send(enclib.enc_from_key(text, self.enc_key))
             else:
                 print("Failed to reconnect")
 
     def recv_d(self, buf_lim=1024):  # receive and decrypt data to server
         try:
-            return dec_from_key(self.s.recv(buf_lim), self.enc_key)
+            return enclib.dec_from_key(self.s.recv(buf_lim), self.enc_key)
         except ConnectionResetError:
             print("CONNECTION_LOST, reconnecting...")
             if s.ip and s.connect():
-                return dec_from_key(self.s.recv(buf_lim), self.enc_key)
+                return enclib.dec_from_key(self.s.recv(buf_lim), self.enc_key)
             else:
                 print("Failed to reconnect")
 
@@ -120,7 +121,7 @@ def connect_system():
         with open(f"app/server_ip", "wb") as f:
             f.write(str(s.ip[0]+":"+str(s.ip[1])).encode())
         print("Loading account keys...")
-        if path.exists(f'app/key'):
+        if os.path.exists(f'app/key'):
             with open(f'app/key', 'rb') as f:
                 key_data = f.read()
             print(" - Key data loaded")
@@ -179,7 +180,7 @@ class KeyUnlock(Screen):
 
     def on_pre_enter(self, *args):
         self.passcode_prompt_text = f"Enter passcode for account {App.uid}"
-        if path.exists("password.txt"):  # this is for testing ONLY
+        if os.path.exists("password.txt"):  # this is for testing ONLY
             with open("password.txt", "r") as f:
                 self.pwd.text = f.read()
                 self.login()
@@ -193,8 +194,8 @@ class KeyUnlock(Screen):
                 popup("error", "Password Blank\n- WHY IS THE BOX BLANK?")
         else:
             try:
-                user_pass = pass_to_key(self.pwd.text, default_salt, 50000)
-                ipk = dec_from_pass(App.ipk, user_pass[:40], user_pass[40:])
+                user_pass = enclib.pass_to_key(self.pwd.text, default_salt, 50000)
+                ipk = enclib.dec_from_pass(App.ipk, user_pass[:40], user_pass[40:])
                 s.send_e(f"ULK:{App.uid}🱫{ipk}")
                 ulk_resp = s.recv_d(128)
                 if ulk_resp == "SESH_T":
@@ -209,7 +210,7 @@ class KeyUnlock(Screen):
                     if App.d_coin.endswith(".0"):
                         App.d_coin = App.d_coin[:-2]
                     App.sm.switch_to(Home(), direction="left")
-            except zl_error:
+            except zlib.error:
                 popup("error", "Incorrect Password")
                 self.pwd.text = ""
 
@@ -222,17 +223,17 @@ class CreateKey(Screen):
     rand_confirmation = None
 
     def generate_master_key(self, master_key, salt, depth_time, current_depth=0):
-        sleep(0.2)
-        start, time_left, loop_timer = perf_counter(), depth_time, perf_counter()
+        time.sleep(0.2)
+        start, time_left, loop_timer = time.perf_counter(), depth_time, time.perf_counter()
         while time_left > 0:
             current_depth += 1
-            master_key = sha512(master_key+salt).digest()
-            if perf_counter()-loop_timer > 0.25:
+            master_key = hashlib.sha512(master_key+salt).digest()
+            if time.perf_counter()-loop_timer > 0.25:
                 try:
-                    time_left -= (perf_counter()-loop_timer)
-                    loop_timer = perf_counter()
-                    real_dps = int(round(current_depth/(perf_counter()-start), 0))
-                    print(f"Runtime: {round(perf_counter()-start, 2)}s  "
+                    time_left -= (time.perf_counter()-loop_timer)
+                    loop_timer = time.perf_counter()
+                    real_dps = int(round(current_depth/(time.perf_counter()-start), 0))
+                    print(f"Runtime: {round(time.perf_counter()-start, 2)}s  "
                           f"Time Left: {round(time_left, 2)}s  "
                           f"DPS: {round(real_dps/1000000, 3)}M  "
                           f"Depth: {current_depth}/{round(real_dps*time_left, 2)}  "
@@ -240,18 +241,18 @@ class CreateKey(Screen):
                     self.pin_code_text = f"Generating Key and Pin ({round(time_left, 2)}s left)"
                 except ZeroDivisionError:
                     pass
-        App.mkey = to_base(96, 16, master_key.hex())
-        self.rand_confirmation = str(randint(0, 9))
-        self.pin_code_text = f"Account Pin: {to_base(36, 10, current_depth)}"
+        App.mkey = enclib.to_base(16, 96, master_key.hex())
+        self.rand_confirmation = str(random.randint(0, 9))
+        self.pin_code_text = f"Account Pin: {enclib.to_base(10, 36, current_depth)}"
         self.rand_confirm_text = f"Enter {self.rand_confirmation} below.\n" \
                                  f"By proceeding with account creation you agree to our Terms and Conditions."
-        App.pin_code = to_base(36, 10, current_depth)
+        App.pin_code = enclib.to_base(10, 36, current_depth)
 
     def on_pre_enter(self, *args):
         App.path = "make"
-        acc_key = "".join(choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(15)))
-        time_depth = uniform(3, 5)
-        Thread(target=self.generate_master_key, args=(acc_key[:6].encode(),
+        acc_key = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(15)))
+        time_depth = random.uniform(3, 5)
+        threading.Thread(target=self.generate_master_key, args=(acc_key[:6].encode(),
                acc_key[6:].encode(), time_depth,), daemon=True).start()
         self.pin_code_text = f"Generating Key and Pin ({time_depth}s left)"
         acc_key_print = f"{acc_key[:5]}-{acc_key[5:10]}-{acc_key[10:15]}"
@@ -278,16 +279,16 @@ class UsbSetup(Screen):
 
     def check_usb(self):  # todo linux version
         dl = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        before_drives = [f"{d}:\\" for d in dl if path.exists(f"{d}:\\")]
+        before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
         while True:
-            now_drives = [f"{d}:\\" for d in dl if path.exists(f"{d}:\\")]
+            now_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
             if before_drives != now_drives:
                 try:
                     new_drive = [d for d in now_drives if d not in before_drives][0]
                     break
                 except IndexError:
-                    before_drives = [f"{d}:\\" for d in dl if path.exists(f"{d}:\\")]
-            sleep(0.1)
+                    before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
+            time.sleep(0.1)
         App.new_drive = new_drive
         self.usb_text = f"USB detected at {new_drive}\n" \
                         f"Do not unplug USB until your account is created and you are on the home screen"
@@ -297,7 +298,7 @@ class UsbSetup(Screen):
         self.usb_text = "Detecting USB drive....\nPlease connect your USB drive\n" \
                         "(If it is already connected please disconnect and reconnect it)"
         self.skip_text = "Skip USB setup"
-        Thread(target=self.check_usb, daemon=True).start()
+        threading.Thread(target=self.check_usb, daemon=True).start()
 
 
 # screen to collect data for regenerate master key
@@ -317,16 +318,16 @@ class ReCreateKey(Screen):
 
     def detect_usb(self):
         dl = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        before_drives = [f"{d}:\\" for d in dl if path.exists(f"{d}:\\")]
+        before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
         while True:  # check all possible new drives
-            now_drives = [f"{d}:\\" for d in dl if path.exists(f"{d}:\\")]
+            now_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
             if before_drives != now_drives:
                 try:
                     new_drive = [d for d in now_drives if d not in before_drives][0]
                     break
                 except IndexError:
-                    before_drives = [f"{d}:\\" for d in dl if path.exists(f"{d}:\\")]
-            sleep(0.1)
+                    before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
+            time.sleep(0.1)
         self.load_text = "USB loaded"
         self.drive = new_drive
         Clock.schedule_once(lambda dt: self.load_data())
@@ -334,7 +335,7 @@ class ReCreateKey(Screen):
     def load_from_usb(self):
         self.load_text = "Detecting USB"
         self.ids.load_from_usb_button.disabled = True
-        Thread(target=self.detect_usb, daemon=True).start()
+        threading.Thread(target=self.detect_usb, daemon=True).start()
 
     def toggle_button(self):
         if len(self.name_or_uid.text) == 8 and len(self.pass_code.text) == 15 and self.pin_code.text:
@@ -362,14 +363,14 @@ class ReCreateGen(Screen):
     gen_left_text = StringProperty()
 
     def regenerate_master_key(self, master_key, salt, depth_to, current_depth=0):
-        start, depth_left, loop_timer = perf_counter(), depth_to-current_depth, perf_counter()
+        start, depth_left, loop_timer = time.perf_counter(), depth_to-current_depth, time.perf_counter()
         for depth_count in range(1, depth_left+1):
-            master_key = sha512(master_key+salt).digest()
-            if perf_counter()-loop_timer > 0.25:
+            master_key = hashlib.sha512(master_key+salt).digest()
+            if time.perf_counter()-loop_timer > 0.25:
                 try:
-                    loop_timer = perf_counter()
-                    real_dps = int(round(depth_count/(perf_counter()-start), 0))
-                    print(f"Runtime: {round(perf_counter()-start, 2)}s  "
+                    loop_timer = time.perf_counter()
+                    real_dps = int(round(depth_count/(time.perf_counter()-start), 0))
+                    print(f"Runtime: {round(time.perf_counter()-start, 2)}s  "
                           f"Time Left: {round((depth_left-depth_count)/real_dps, 2)}s  "
                           f"DPS: {round(real_dps/1000000, 3)}M  "
                           f"Depth: {current_depth+depth_count}/{depth_to}  "
@@ -378,13 +379,13 @@ class ReCreateGen(Screen):
                                          f"({round((depth_left-depth_count)/real_dps, 2)}s left)"
                 except ZeroDivisionError:
                     pass
-        App.mkey = to_base(96, 16, master_key.hex())
+        App.mkey = enclib.to_base(16, 96, master_key.hex())
         Clock.schedule_once(lambda dt: App.sm.switch_to(Captcha(), direction="left"))
 
     def on_enter(self, *args):
         self.gen_left_text = f"Generating master key"
-        Thread(target=self.regenerate_master_key, args=(App.pass_code[:6].encode(),
-               App.pass_code[6:].encode(), int(to_base(10, 36, App.pin_code)),), daemon=True).start()
+        threading.Thread(target=self.regenerate_master_key, args=(App.pass_code[:6].encode(),
+               App.pass_code[6:].encode(), int(enclib.to_base(36, 10, App.pin_code)),), daemon=True).start()
 
 
 # screen to verify a captcha
@@ -446,7 +447,7 @@ class NacPass(Screen):
         elif self.nac_password_1.text != self.nac_password_2.text:
             popup("error", "Password Mismatch\n- Passwords must be the same")
         else:
-            pass_send = pass_to_key(self.nac_password_1.text, default_salt, 50000)
+            pass_send = enclib.pass_to_key(self.nac_password_1.text, default_salt, 50000)
             if App.path == "CHANGE_PASS":
                 s.send_e(pass_send)
                 App.sm.switch_to(TwoFacLog(), direction="left")
@@ -468,7 +469,7 @@ class LogUnlock(Screen):
             popup("error", "Password Blank\n- The question is, why is it blank?")
         else:
             try:
-                user_pass = pass_to_key(self.pwd.text, default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, default_salt, 50000)
                 s.send_e(user_pass)
                 ipk = s.recv_d()
                 if ipk == "N":
@@ -477,7 +478,7 @@ class LogUnlock(Screen):
                 else:
                     App.ipk = ipk
                     App.sm.switch_to(TwoFacLog(), direction="left")
-            except zl_error:
+            except zlib.error:
                 popup("error", "Incorrect Password")
                 self.pwd.text = ""
 
@@ -492,7 +493,7 @@ class TwoFacSetup(Screen):
 
     def on_enter(self, *args):
         App.uid, secret_code = s.recv_d().split("🱫")
-        secret_code = b32encode(secret_code.encode()).decode().replace('=', '')
+        secret_code = base64.b32encode(secret_code.encode()).decode().replace('=', '')
         print(secret_code)  # todo mention in UI text
         self.ids.two_fac_qr.source = "https://chart.googleapis.com/chart?cht=qr&chs=300x300&chl=otpauth%3A%2" \
                                      f"F%2Ftotp%2F{App.uid}%3Fsecret%3D{secret_code}%26issuer%3DBreadClient"
@@ -716,35 +717,35 @@ class Home(Screen):
 
 
 # screen for public chat room
-class Chat(Screen):
+class Console(Screen):
     r_coins = StringProperty()
     d_coins = StringProperty()
     public_room_msg_counter = 0
     public_room_inp = ObjectProperty(None)
 
     def msg_watch(self):  # look for new messages
-        s.send_e("JNC")
         while True:
             msg_author, msg_content = s.recv_d().split("🱫")
-            if msg_author == "LVC":
-                break
-            Clock.schedule_once(lambda dt: self.add_msg(msg_author[:-4], msg_content))
+            print(msg_author, msg_content)
+            Clock.schedule_once(lambda dt: self.add_msg(msg_author, msg_content))
 
     def on_pre_enter(self, *args):
         self.r_coins = App.r_coin+" R"
         self.d_coins = App.d_coin+" D"
-        Thread(target=self.msg_watch, daemon=True).start()
-
-    def on_leave(self, *args):  # on leave stop looking for new messages
-        s.send_e("LVC")
+        threading.Thread(target=self.msg_watch, daemon=True).start()
 
     def add_msg(self, name, text):
         if "https://" in text or "http://" in text:
             self.ids.public_chat.add_widget(AsyncImage(source=text, size_hint_y=None, height=300, anim_delay=0.05))
         else:
-            self.ids.public_chat.add_widget(Label(text=f"[color=#14e42bff]{name}[/color] [color=#858d8fff] "
-                                                       f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
-                                                  color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
+            if name == "SERVER":
+                self.ids.public_chat.add_widget(Label(text=f"[color=#f46f0eff]{name}[/color] [color=#858d8fff] "
+                                                           f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
+                                                      color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
+            else:
+                self.ids.public_chat.add_widget(Label(text=f"[color=#14e42bff]{name}[/color] [color=#858d8fff] "
+                                                           f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
+                                                      color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
         self.public_room_msg_counter += 1
         if self.ids.public_room_scroll.scroll_y == 0:
             scroll_down = True
@@ -774,16 +775,6 @@ class Chat(Screen):
 
 # screen for the store
 class Store(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-
-
-# screen for selecting a game
-class Games(Screen):
     r_coins = StringProperty()
     d_coins = StringProperty()
 
@@ -840,7 +831,7 @@ class Settings(Screen):
         if len(self.n_pass.text) < 9:
             popup("error", "Password Invalid\n- Password must be at least 9 characters")
         else:
-            s.send_e(f"CUP:{pass_to_key(self.n_pass.text, default_salt, 50000)}")
+            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, default_salt, 50000)}")
             if s.recv_d() == "V":
                 App.path = "CHANGE_PASS"
                 App.sm.switch_to(NacPass(), direction="left")
@@ -904,61 +895,6 @@ class ColorSettings(Screen):
                 self.selected_color = color
                 self.change_color(App.theme[theme][color])
 
-
-# store screen for buying gift cards
-class GiftCards(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-
-    def buy_gift_card(self, amount):
-        if float(App.r_coin) >= float(amount):
-            s.send_e(f"BGC:{amount}")
-            gift_code = s.recv_d()
-            App.r_coin = str(round(float(App.r_coin)-float(amount), 2))
-            if App.r_coin.endswith(".0"):
-                App.r_coin = App.r_coin[:-2]
-            self.r_coins = App.r_coin+" R"
-            popup("success", f"Successfully bought {amount} R gift card\nCode: {gift_code}\n\n"
-                             f"To view this code again,\ngo to your transaction history")
-            App.transactions.append(f"Bought [color=f46f0eff]{amount} R gift card[/color] for [color=f46f0eff]"
-                                    f"{amount} R[/color]\n Code: [color=25be42ff]{gift_code}[/color]")
-        else:
-            popup("error", "Insufficient Funds\n- You require more R Coins")
-
-
-# store screen for buying data coins
-class DataCoins(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-
-    def buy_d(self, amount):
-        if float(App.r_coin) < float(amount):
-            popup("error", "Insufficient Funds\n- You require more R Coins")
-        else:
-            s.send_e(f"BYD:{amount}")
-            if s.recv_d() == "V":
-                App.r_coin = str(round(float(App.r_coin)-float(amount), 2))
-                d_amount = {15: 150, 35: 375, 50: 550, 100: 1150, 210: 2500}.get(amount)
-                App.d_coin = str(round(float(App.d_coin)+d_amount, 2))
-                if App.r_coin.endswith(".0"):
-                    App.r_coin = App.r_coin[:-2]
-                if App.d_coin.endswith(".0"):
-                    App.d_coin = App.d_coin[:-2]
-                self.d_coins = App.d_coin+" D"
-                self.r_coins = App.r_coin+" R"
-                popup("success", f"Successfully bought {d_amount} D for {amount} R")
-                App.transactions.append(f"Bought [color=15c1e0ff]{d_amount} D[/color] for "
-                                        f"[color=f46f0eff]{amount} R[/color]")
-
-
 # draw a circle with segments and a rotation
 def draw_circle(self, segments, rotation=0):
     seg = [seg*0.36 for seg in segments]
@@ -988,212 +924,6 @@ def canvas_update(canvas, color):
     with canvas.canvas:
         Color(*color)
         RoundedRectangle(size=canvas.size, pos=canvas.pos, radius=[10])
-
-
-# check outcome of value against odds
-def check_odd(odds, value):  # todo make support multiple odds
-    value = float(str(round(value/360, 3)).split(".")[1])
-    if 500-odds[0] <= value < 500:
-        return "green"
-    if 500-odds[0] > value or 500 <= value:
-        return "red"
-
-
-# create game draws given the odds
-def create_draws(result, odds):
-    while True:
-        last = 1
-        draws = []
-        for i in reversed(range(1, randint(100, 200))):
-            next_odd = round(last-i*0.36, 4)
-            draws.append([next_odd, check_odd(odds, next_odd)])
-            last = round(last+i*0.36, 4)
-        if check_odd(odds, last) == result:
-            return draws
-
-
-# games screen for the spin2win game
-class Spinner(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-    spin_bet = ObjectProperty(None)
-    game_info = ObjectProperty(None)
-    game_hash = None
-    spin_odds = [480, 520]
-    mult = 2
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-        if self.game_hash is None:
-            s.send_e("MCF:2")
-            self.game_hash = s.recv_d()
-            self.game_info.text = "Game - 2x"
-        draw_circle(self, self.spin_odds)
-        draw_triangle(self, "yellow")
-
-    def set_odds(self, mult):
-        s.send_e(f"MCF:{mult}")
-        for mult_btn in ["set_x2", "set_x3", "set_x5", "set_x10"]:
-            self.ids[mult_btn].disabled = False
-        self.ids[f"set_x{mult}"].disabled = True
-        self.spin_odds = {2: [470, 530], 3: [310, 690], 5: [190, 810], 10: [105, 895]}.get(mult)
-        draw_circle(self, self.spin_odds)
-        self.game_hash = s.recv_d()
-        self.game_info.text = f"Game - {mult}x"
-
-    def check_bet(self):
-        if self.spin_bet.text != "":
-            self.spin_bet.text = self.spin_bet.text[:12]
-            if float(self.spin_bet.text) > float(App.r_coin):
-                self.spin_bet.text = App.r_coin
-            if "." in self.spin_bet.text:
-                if len(self.spin_bet.text.split(".")[1]) > 2:
-                    self.spin_bet.text = self.spin_bet.text[:-1]
-        if self.spin_bet.text == ".":
-            self.spin_bet.text = ""
-
-    def spin(self):
-        if self.spin_bet.text == "":
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.spin_bet.text) < 1:
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.spin_bet.text) > float(App.r_coin):
-            Clock.schedule_once(lambda dt: popup("error", "Insufficient funds For Transfer"))
-        elif float(self.spin_bet.text) > 30:
-            Clock.schedule_once(lambda dt: popup("error", "Above Maximum Bet\n- Bet amount above the 30 R maximum\n"
-                                                          "This limit is based on your level"))
-        else:
-            for mult_btn in ["set_x2", "set_x3", "set_x5", "set_x10"]:
-                self.ids[mult_btn].disabled = True
-            self.ids.spin_btn.disabled = True
-            s.send_e(f"RCF:{self.game_hash}🱫{self.spin_bet.text}")
-            seed_inp, rand_float, outcome = s.recv_d().split("🱫")
-            for draw in create_draws(outcome, self.spin_odds):
-                Clock.schedule_once(lambda dt: draw_circle(self, self.spin_odds, draw[0]))
-                Clock.schedule_once(lambda dt: draw_triangle(self, draw[1]))
-                if draw[1] == "green":
-                    self.ids.spin_text.text = "Green"
-                if draw[1] == "red":
-                    self.ids.spin_text.text = "Red"
-                sleep(0.03)  # wheel speed, higher is slower
-            xp_amt = round(float(self.spin_bet.text)/5, 2)
-            App.xp = str(float(App.xp)+xp_amt)
-            if outcome == "green":
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.spin_col, rgb("#2F3D2Fff")))
-                self.ids.spin_text.text = "You Won!"
-                App.r_coin = str(round(float(App.r_coin)+float(self.spin_bet.text)*self.mult, 2))
-                App.transactions.append(f"Spinner [color=25be42ff]won[/color][color=f46f0eff] "
-                                        f"{float(self.spin_bet.text)*self.mult} R[/color] "
-                                        f"[color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-            else:
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.spin_col, rgb("#3D332Fff")))
-                App.transactions.append(f"Spinner [color=fa1d04ff]lost[/color][color=f46f0eff] {self.spin_bet.text} "
-                                        f"R[/color] [color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-                self.ids.spin_text.text = "You Lost"
-                App.r_coin = str(round(float(App.r_coin)-float(self.spin_bet.text), 2))
-            if App.r_coin.endswith(".0"):
-                App.r_coin = App.r_coin[:-2]
-            self.r_coins = App.r_coin+" R"
-            sleep(2)
-            Clock.schedule_once(lambda dt: canvas_update(self.ids.spin_col, rgb("#3c3c3cff")))
-            Clock.schedule_once(lambda dt: draw_circle(self, self.spin_odds))
-            Clock.schedule_once(lambda dt: draw_triangle(self, "yellow"))
-            s.send_e(f"MCF:{self.mult}")
-            self.game_hash = s.recv_d()
-            self.ids.spin_text.text = ""
-            for mult_btn in ["set_x2", "set_x3", "set_x5", "set_x10"]:
-                self.ids[mult_btn].disabled = False
-            self.ids[f"set_x{self.mult}"].disabled = True
-            self.ids.spin_btn.disabled = False
-
-    def run_spinner(self):
-        Thread(target=self.spin).start()
-        draw_circle(self, self.spin_odds)
-
-
-# games class for the wheel game
-class Wheel(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-    wheel_bet = ObjectProperty(None)
-    game_info = ObjectProperty(None)
-    game_hash = None
-    wheel_odds = [120, 150, 190, 250, 290]
-
-    def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-        self.ids.wheel_btn.disabled = True
-        #if self.game_hash is None:
-        #    s.send_e("MCF:2")
-        #    self.game_hash = s.recv_d()
-        #    self.game_info.text = "Game - ??"
-        draw_circle(self, self.wheel_odds)
-        draw_triangle(self, "yellow")
-
-    def check_bet(self):
-        if self.wheel_bet.text != "":
-            self.wheel_bet.text = self.wheel_bet.text[:12]
-            if float(self.wheel_bet.text) > float(App.r_coin):
-                self.wheel_bet.text = App.r_coin
-            if "." in self.wheel_bet.text:
-                if len(self.wheel_bet.text.split(".")[1]) > 2:
-                    self.wheel_bet.text = self.wheel_bet.text[:-1]
-        if self.wheel_bet.text == ".":
-            self.wheel_bet.text = ""
-
-    def wheel(self):
-        if self.wheel_bet.text == "":
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.wheel_bet.text) < 1:
-            Clock.schedule_once(lambda dt: popup("error", "Below Minimum Bet\n- Bet amount below the 1 R minimum"))
-        elif float(self.wheel_bet.text) > float(App.r_coin):
-            Clock.schedule_once(lambda dt: popup("error", "Insufficient funds For Transfer"))
-        elif float(self.wheel_bet.text) > 30:
-            Clock.schedule_once(lambda dt: popup("error", "Above Maximum Bet\n- Bet amount above the 30 R maximum\n"
-                                                          "This limit is based on your level"))
-        else:
-            self.ids.wheel_btn.disabled = True
-            s.send_e(f"RCF:{self.game_hash}🱫{self.wheel_bet.text}")
-            seed_inp, rand_float, outcome = s.recv_d().split("🱫")
-            for draw in create_draws(outcome, self.wheel_odds):
-                Clock.schedule_once(lambda dt: draw_circle(self, self.wheel_odds, draw[0]))
-                if draw[1] == "green":
-                    self.ids.wheel_text.text = "Green"
-                if draw[1] == "red":
-                    self.ids.wheel_text.text = "Red"
-                sleep(0.03)  # wheel speed, higher is slower
-            xp_amt = round(float(self.wheel_bet.text)/5, 2)
-            App.xp = str(float(App.xp)+xp_amt)
-            if outcome == "green":
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.wheel_col, rgb("#2F3D2Fff")))
-                self.ids.wheel_text.text = "You Won!"
-                App.r_coin = str(round(float(App.r_coin)+float(self.wheel_bet.text)*2, 2))
-                App.transactions.append(f"Spinner [color=25be42ff]won[/color][color=f46f0eff] "
-                                        f"{float(self.wheel_bet.text)*2} R[/color] "
-                                        f"[color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-            else:
-                Clock.schedule_once(lambda dt: canvas_update(self.ids.wheel_col, rgb("#3D332Fff")))
-                App.transactions.append(f"Spinner [color=fa1d04ff]lost[/color][color=f46f0eff] {self.wheel_bet.text} "
-                                        f"R[/color] [color=25be42ff]gained[/color] [color=f2ef32ff]{xp_amt} XP[/color]")
-                self.ids.wheel_text.text = "You Lost"
-                App.r_coin = str(round(float(App.r_coin)-float(self.wheel_bet.text), 2))
-            if App.r_coin.endswith(".0"):
-                App.r_coin = App.r_coin[:-2]
-            self.r_coins = App.r_coin+" R"
-            sleep(2)
-            Clock.schedule_once(lambda dt: canvas_update(self.ids.wheel_col, rgb("#3c3c3cff")))
-            Clock.schedule_once(lambda dt: draw_circle(self, self.wheel_odds))
-            Clock.schedule_once(lambda dt: draw_triangle(self, "yellow"))
-            s.send_e(f"MCF:2")
-            self.game_hash = s.recv_d()
-            self.ids.wheel_text.text = ""
-            self.ids.wheel_btn.disabled = False
-
-    def run_wheel(self):
-        Thread(target=self.wheel).start()
-        draw_circle(self, self.wheel_odds)
 
 
 # screen that is shown when the app is reloading
@@ -1233,7 +963,7 @@ class App(KivyApp):
                                    "red": rgb("#fb1e05ff"), "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"),
                                    "bk_grey_2": rgb("#373737ff"), "bk_grey_3": rgb("#3c3c3cff")}})
 
-        if path.exists("color_scheme.txt"):  # load color scheme
+        if os.path.exists("color_scheme.txt"):  # load color scheme
             with open("color_scheme.txt", encoding="utf-8") as f:
                 for color in f.readlines()[1:]:
                     color_name, color = color.replace("\n", "").split(": ")
@@ -1255,10 +985,8 @@ class App(KivyApp):
          CreateKey(name="CreateKey"), UsbSetup(name="UsbSetup"), ReCreateKey(name="ReCreateKey"),
          ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
          LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
-         Home(name="Home"), Chat(name="Chat"), Store(name="Store"), Games(name="Games"),
-         Inventory(name="Inventory"), Settings(name="Settings"), ColorSettings(name="ColorSettings"),
-         GiftCards(name="GiftCards"), DataCoins(name="DataCoins"), Spinner(name="Spinner"), Wheel(name="Wheel"),
-         Reloading(name="Reloading")]]
+         Home(name="Home"), Console(name="Console"), Store(name="Store"), Inventory(name="Inventory"),
+         Settings(name="Settings"), ColorSettings(name="ColorSettings")]]
 
         if version:
             App.title = f"BreadClient-{version}"
@@ -1304,9 +1032,8 @@ def reload(reason):
      CreateKey(name="CreateKey"), UsbSetup(name="UsbSetup"), ReCreateKey(name="ReCreateKey"),
      ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
      LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
-     Home(name="Home"), Chat(name="Chat"), Store(name="Store"), Games(name="Games"),
-     Inventory(name="Inventory"), Settings(name="Settings"), ColorSettings(name="ColorSettings"),
-     GiftCards(name="GiftCards"), DataCoins(name="DataCoins"), Spinner(name="Spinner"), Wheel(name="Wheel")]]
+     Home(name="Home"), Console(name="Console"), Store(name="Store"), Inventory(name="Inventory"),
+     Settings(name="Settings"), ColorSettings(name="ColorSettings")]]
     if reason == "reload":
         if current_screen == "_screen0":
             current_screen = "Home"
@@ -1315,13 +1042,13 @@ def reload(reason):
 
 # app entry point
 if __name__ == "__main__":
-    if not path.exists("resources"):
-        mkdir("resources")
+    if not os.path.exists("resources"):
+        os.mkdir("resources")
 
-    if not path.exists("resources/blank_captcha.png") or not path.exists("resources/blank_qr.png"):
+    if not os.path.exists("resources/blank_captcha.png") or not os.path.exists("resources/blank_qr.png"):
         bread_kv.w_images()
 
-    if not path.exists("bread.kv"):
+    if not os.path.exists("bread.kv"):
         bread_kv.kv()
     crash_num = 0
     while True:
@@ -1337,7 +1064,7 @@ if __name__ == "__main__":
                 print(f"Error {crash_num} caught: {e}")
             if crash_num == 5:
                 print("Crash loop detected, exiting app in 3 seconds...")
-                sleep(3)
+                time.sleep(3)
                 break
             else:
                 reload("crash")
