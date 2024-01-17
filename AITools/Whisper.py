@@ -17,46 +17,45 @@ from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
 from datasets import load_dataset
 
 
-class Whisper():
-    pipe = pipeline
+import torch
+from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
 
-    def __init__(self, ModelPath):
-        global pipe
-        os.chdir(ModelPath)
-        print("Initialising Whisper object")
-        device = "cuda:0" if torch.cuda.is_available() else "cpu"
-        torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
-        print(f"Using {device} device")
+class Whisper:
+    def __init__(self, model_path):
+        import torch
+        self.device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        print(f"CUDA/ROCm available: {self.device}")
+        self.torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
 
-        model = AutoModelForSpeechSeq2Seq.from_pretrained(
-            "openai/whisper-large-v3", torch_dtype=torch_dtype, low_cpu_mem_usage=True, use_safetensors=True)
-        model.to(device)
+        # Load the model from the specified path
+        self.model = AutoModelForSpeechSeq2Seq.from_pretrained(
+            model_path, torch_dtype=self.torch_dtype, low_cpu_mem_usage=True, use_safetensors=True
+        )
+        self.model.to(self.device)
 
-        processor = AutoProcessor.from_pretrained("openai/whisper-large-v3")
+        # Load the processor from the same path
+        self.processor = AutoProcessor.from_pretrained(model_path)
 
-        pipe = pipeline(
+        self.pipe = pipeline(
             "automatic-speech-recognition",
-            model=model,
-            tokenizer=processor.tokenizer,
-            feature_extractor=processor.feature_extractor,
+            model=self.model,
+            tokenizer=self.processor.tokenizer,
+            feature_extractor=self.processor.feature_extractor,
             max_new_tokens=128,
             chunk_length_s=30,
             batch_size=16,
             return_timestamps=True,
-            torch_dtype=torch_dtype,
-            device=device,
+            torch_dtype=self.torch_dtype,
+            device=self.device,
         )
+        print(f"READY!")
 
-        dataset = load_dataset("distil-whisper/librispeech_long", "clean", split="validation")
-        sample = dataset[0]["audio"]
+    def transcribe(self, audio_file_path):
+        result = self.pipe(audio_file_path)
+        return result["text"]
 
-    def get_text(self, FilePath):
-        """
-        Gets text from a given filepath
-        """
+# Usage
 
-        global pipe
-        return pipe(FilePath)
 
 if __name__ == "__main__":
     print("This is a library file, see WhisperTest.py for an example on how to use this.")
