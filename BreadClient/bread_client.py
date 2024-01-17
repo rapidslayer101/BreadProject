@@ -5,10 +5,8 @@ import hashlib
 import os
 import random
 import zlib
-import socket
 import threading
 import time
-import rsa
 from datetime import datetime
 
 from kivy.app import App as KivyApp
@@ -23,9 +21,8 @@ from kivy.utils import platform, get_color_from_hex as rgb
 from kivy.uix.image import AsyncImage
 from kivy.uix.label import Label
 from kivy.uix.screenmanager import ScreenManager, Screen
+import client_auth
 
-if not os.path.exists("app"):
-    os.mkdir("app")
 
 # hashes client file
 app_hash = enclib.hash_a_file("bread_client.py")
@@ -48,61 +45,6 @@ if os.path.exists("sha.txt"):
                   f"TME-{str(datetime.now())[:-4].replace(' ', '_')} "
                   f"BLD_NM-{bld_num_[7:]} RUN_NM-{int(run_num_[7:])+1}")
     print(f"Running BreadClient V{release_major}.{major}.{build}.{run}")
-
-default_salt = "52gy\"J$&)6%0}fgYfm/%ino}PbJk$w<5~j'|+R .bJcSZ.H&3z'A:gip/jtW$6A=G-;|&&rR81!BTElChN|+\"T"
-
-
-# server class containing connection algorithm and data transfer functions
-class Server:
-    def __init__(self):
-        self.s, self.enc_key = socket.socket(), None
-        if os.path.exists("app/server_ip"):
-            with open(f"app/server_ip", "rb") as f:
-                self.ip = f.read().decode().split(":")
-        else:
-            self.ip = None
-
-    def connect(self):  # connect to server
-        try:
-            self.s.connect((self.ip[0], int(self.ip[1])))
-            print("Connected to server")
-            l_ip, l_port = str(self.s).split("laddr=")[1].split("raddr=")[0][2:-3].split("', ")
-            s_ip, s_port = str(self.s).split("raddr=")[1][2:-2].split("', ")
-            print(f" << Server connected via {l_ip}:{l_port} -> {s_ip}:{s_port}")
-            self.s.send(b"CLI")
-            pub_key, pri_key = rsa.newkeys(512)
-            try:
-                self.s.send(rsa.PublicKey.save_pkcs1(pub_key))
-            except ConnectionResetError:
-                return False
-            print(" >> Public RSA key sent")
-            enc_seed = rsa.decrypt(self.s.recv(128), pri_key).decode()
-            self.enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
-            print(" << Client enc_seed and enc_salt received and loaded\n -- RSA Enc bootstrap complete")
-            return True
-        except ConnectionRefusedError:
-            print("Connection refused")
-            return False
-
-    def send_e(self, text):  # encrypt and send data to server
-        try:
-            self.s.send(enclib.enc_from_key(text, self.enc_key))
-        except ConnectionResetError:
-            print("CONNECTION_LOST, reconnecting...")
-            if s.ip and s.connect():
-                self.s.send(enclib.enc_from_key(text, self.enc_key))
-            else:
-                print("Failed to reconnect")
-
-    def recv_d(self, buf_lim=1024):  # receive and decrypt data to server
-        try:
-            return enclib.dec_from_key(self.s.recv(buf_lim), self.enc_key)
-        except ConnectionResetError:
-            print("CONNECTION_LOST, reconnecting...")
-            if s.ip and s.connect():
-                return enclib.dec_from_key(self.s.recv(buf_lim), self.enc_key)
-            else:
-                print("Failed to reconnect")
 
 
 # creates a popup
@@ -180,8 +122,8 @@ class KeyUnlock(Screen):
 
     def on_pre_enter(self, *args):
         self.passcode_prompt_text = f"Enter passcode for account {App.uid}"
-        if os.path.exists("password.txt"):  # this is for testing ONLY
-            with open("password.txt", "r") as f:
+        if os.path.exists("app/password.txt"):  # this is for testing ONLY
+            with open("app/password.txt", "r") as f:
                 self.pwd.text = f.read()
                 self.login()
 
@@ -194,7 +136,7 @@ class KeyUnlock(Screen):
                 popup("error", "Password Blank\n- WHY IS THE BOX BLANK?")
         else:
             try:
-                user_pass = enclib.pass_to_key(self.pwd.text, default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, client_auth.default_salt, 50000)
                 ipk = enclib.dec_from_pass(App.ipk, user_pass[:40], user_pass[40:])
                 s.send_e(f"ULK:{App.uid}🱫{ipk}")
                 ulk_resp = s.recv_d(128)
@@ -204,7 +146,7 @@ class KeyUnlock(Screen):
                     popup("error", "Incorrect Password\n- How exactly did you manage to trigger this.")
                     self.pwd.text = ""
                 else:
-                    App.uname, App.xp, App.r_coin, App.d_coin = ulk_resp.split("🱫")
+                    App.uname, App.level, App.r_coin, App.d_coin = ulk_resp.split("🱫")
                     if App.r_coin.endswith(".0"):
                         App.r_coin = App.r_coin[:-2]
                     if App.d_coin.endswith(".0"):
@@ -447,7 +389,7 @@ class NacPass(Screen):
         elif self.nac_password_1.text != self.nac_password_2.text:
             popup("error", "Password Mismatch\n- Passwords must be the same")
         else:
-            pass_send = enclib.pass_to_key(self.nac_password_1.text, default_salt, 50000)
+            pass_send = enclib.pass_to_key(self.nac_password_1.text, client_auth.default_salt, 50000)
             if App.path == "CHANGE_PASS":
                 s.send_e(pass_send)
                 App.sm.switch_to(TwoFacLog(), direction="left")
@@ -469,7 +411,7 @@ class LogUnlock(Screen):
             popup("error", "Password Blank\n- The question is, why is it blank?")
         else:
             try:
-                user_pass = enclib.pass_to_key(self.pwd.text, default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, client_auth.default_salt, 50000)
                 s.send_e(user_pass)
                 ipk = s.recv_d()
                 if ipk == "N":
@@ -513,7 +455,7 @@ class TwoFacSetup(Screen):
             else:
                 with open("app/key", "wb") as f:
                     f.write(App.uid.encode()+ipk)
-                App.uname, App.xp, App.r_coin, App.d_coin = s.recv_d().split("🱫")
+                App.uname, App.level, App.r_coin, App.d_coin = s.recv_d().split("🱫")
                 if App.r_coin.endswith(".0"):
                     App.r_coin = App.r_coin[:-2]
                 if App.d_coin.endswith(".0"):
@@ -546,7 +488,7 @@ class TwoFacLog(Screen):
             else:
                 with open("app/key", "wb") as f:
                     f.write(App.uid.encode()+App.ipk)
-                App.uname, App.xp, App.r_coin, App.d_coin = two_fa_valid.split("🱫")
+                App.uname, App.level, App.r_coin, App.d_coin = two_fa_valid.split("🱫")
                 if App.r_coin.endswith(".0"):
                     App.r_coin = App.r_coin[:-2]
                 if App.d_coin.endswith(".0"):
@@ -572,7 +514,7 @@ class Home(Screen):
     transactions_counter = 0
 
     def update_level_bar(self):
-        self.level_progress = [round(float(App.xp), 2), 100]
+        self.level_progress = [round(float(App.level), 2), 100]
         self.ids.level_bar_text.text = f"{self.level_progress[0]} XP"
         #self.ids.level_bar_text.text = f"{self.level_progress[0]}/{self.level_progress[1]} XP"
         #with self.ids.level_bar.canvas:
@@ -831,7 +773,7 @@ class Settings(Screen):
         if len(self.n_pass.text) < 9:
             popup("error", "Password Invalid\n- Password must be at least 9 characters")
         else:
-            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, default_salt, 50000)}")
+            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, client_auth.default_salt, 50000)}")
             if s.recv_d() == "V":
                 App.path = "CHANGE_PASS"
                 App.sm.switch_to(NacPass(), direction="left")
@@ -1053,7 +995,7 @@ if __name__ == "__main__":
     crash_num = 0
     while True:
         try:
-            s = Server()
+            s = client_auth.Server()
             App().run()
             break
         except Exception as e:

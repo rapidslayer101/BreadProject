@@ -4,9 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/BreadClient/app" />
       <excludeFolder url="file://$MODULE_DIR$/BreadClient/resources" />
-      <excludeFolder url="file://$MODULE_DIR$/LLMServer/models" />
       <excludeFolder url="file://$MODULE_DIR$/users" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/AITools/LLMServer/models" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -7,10 +7,9 @@
 /BreadClient/resources
 /BreadClient/bread.kv
 /BreadClient/captcha.jpg
-/BreadClient/password.txt
 
 /AITools/LLMServer/model_config.cfg
-/LLMServer/models
+/AITools/LLMServer/models
 
 /users
 
