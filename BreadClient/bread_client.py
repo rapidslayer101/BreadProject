@@ -1,12 +1,10 @@
-import bread_kv
-import enclib
 import base64
 import hashlib
 import os
 import random
-import zlib
 import threading
 import time
+import zlib
 from datetime import datetime
 
 from kivy.app import App as KivyApp
@@ -14,14 +12,16 @@ from kivy.clock import Clock
 from kivy.config import Config
 from kivy.core.window import Window
 from kivy.factory import Factory
+from kivy.graphics import Line, Color, RoundedRectangle
 from kivy.lang import Builder
 from kivy.properties import StringProperty, ObjectProperty
-from kivy.graphics import Line, Color, RoundedRectangle
-from kivy.utils import platform, get_color_from_hex as rgb
 from kivy.uix.image import AsyncImage
 from kivy.uix.label import Label
 from kivy.uix.screenmanager import ScreenManager, Screen
+from kivy.utils import platform, get_color_from_hex as rgb
 
+import bread_kv
+import enclib
 
 # hashes client file
 app_hash = enclib.hash_a_file("bread_client.py")
@@ -43,7 +43,6 @@ if os.path.exists("sha.txt"):
             print(f"crnt V{release_major}.{major}.{build}.{run} "
                   f"TME-{str(datetime.now())[:-4].replace(' ', '_')} "
                   f"BLD_NM-{bld_num_[7:]} RUN_NM-{int(run_num_[7:])+1}")
-    print(f"Running BreadClient V{release_major}.{major}.{build}.{run}")
 
 
 # creates a popup
@@ -58,7 +57,11 @@ def popup(popup_type, reason):
 
 # connects to sever with ip and port from file or user input
 def connect_system():
-    if s.ip and s.connect():
+    if s.ip and s.connect(b"CLI"):
+        s.send_e(app_hash)
+        version_info = s.recv_d()
+        App.get_running_app().title = f"BreadClient-{version_info}"
+        print(f"Running BreadClient {version_info}")
         with open(f"app/server_ip", "wb") as f:
             f.write(str(s.ip[0]+":"+str(s.ip[1])).encode())
         print("Loading account keys...")
@@ -78,6 +81,7 @@ def connect_system():
 # screen to run connect_system()
 class AttemptConnection(Screen):
     def on_enter(self, *args):
+        App.get_running_app().title = f"BreadClient-VX.X.X.X"
         Clock.schedule_once(lambda dt: connect_system(), 1)  # todo make this retry
 
 
@@ -151,6 +155,7 @@ class KeyUnlock(Screen):
                     if App.d_coin.endswith(".0"):
                         App.d_coin = App.d_coin[:-2]
                     App.sm.switch_to(Home(), direction="left")
+                    print(f"Logged in as {App.uname} ({App.level})\n - Coins: {App.r_coin}R {App.d_coin}D")
             except zlib.error:
                 popup("error", "Incorrect Password")
                 self.pwd.text = ""
@@ -689,7 +694,7 @@ class ColorSettings(DefaultScreen):
 
     @staticmethod
     def save_colors():
-        with open("color_scheme.txt", "w", encoding="utf-8") as f:
+        with open("resources/color_scheme.txt", "w", encoding="utf-8") as f:
             f.write(f"# CUSTOM COLOR SCHEME #\n")
             for color in App.col:
                 hex_color = " #"
@@ -746,46 +751,47 @@ class Reloading(Screen):
 
 # app class
 class App(KivyApp):
+    col = {"bread_purple": rgb("#6753fcff"), "bread_purple_dark": rgb("#6748a0ff"), "bread_cyan": rgb("#25be96ff"),
+           "rcoin_orange": rgb("#f56f0eff"), "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"),
+           "green": rgb("#14e42bff"), "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"), "red": rgb("#fb1e05ff"),
+           "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"),
+           "bk_grey_3": rgb("#3c3c3cff")}
+    theme = {"purple": col.copy()}
+    theme.update({"pink": {"bread_purple": rgb("#ff4772ff"), "bread_purple_dark": rgb("#ff6d71ff"),
+                           "bread_cyan": rgb("#c467b2ff"), "rcoin_orange": rgb("#f56f0eff"),
+                           "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"), "green": rgb("#14e42bff"),
+                           "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"), "red": rgb("#fb1e05ff"),
+                           "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"),
+                           "bk_grey_3": rgb("#3c3c3cff")}})
+    theme.update({"green": {"bread_purple": rgb("#009f70ff"), "bread_purple_dark": rgb("#658e37ff"),
+                            "bread_cyan": rgb("#25be42ff"), "rcoin_orange": rgb("#f56f0eff"),
+                            "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"), "green": rgb("#14e42bff"),
+                            "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"), "red": rgb("#fb1e05ff"),
+                            "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"),
+                            "bk_grey_3": rgb("#3c3c3cff")}})
+    theme.update({"lime": {"bread_purple": rgb("#99bf38ff"), "bread_purple_dark": rgb("#998739ff"),
+                            "bread_cyan": rgb("#dfbb38ff"), "rcoin_orange": rgb("#f56f0eff"),
+                            "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"), "green": rgb("#14e42bff"),
+                           "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"), "red": rgb("#fb1e05ff"),
+                           "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"),
+                           "bk_grey_3": rgb("#3c3c3cff")}})
+
+    if os.path.exists("resources/color_scheme.txt"):  # load color scheme
+        with open("resources/color_scheme.txt", encoding="utf-8") as f:
+            for color in f.readlines()[1:]:
+                color_name, color = color.replace("\n", "").split(": ")
+                col[color_name] = rgb(color)
+
+    t_and_c = bread_kv.t_and_c()
+    transactions = []
+    reload_text, popup, popup_text, new_drive = "", None, "Popup Error", None
+    uname, level, r_coin, d_coin = None, None, None, None
+
+    if platform in ["win", "linux"]:
+        Window.size = (1264, 681)
+
     def build(self):
         self.icon = "bread_icon.jpg"
-        App.col = {"bread_purple": rgb("#6753fcff"), "bread_purple_dark": rgb("#6748a0ff"),
-                   "bread_cyan": rgb("#25be96ff"), "rcoin_orange": rgb("#f56f0eff"), "dcoin_blue": rgb("#16c2e1ff"),
-                   "link_blue": rgb("#509ae4ff"), "green": rgb("#14e42bff"), "yellow": rgb("#f3ef32ff"),
-                   "orange": rgb("#f38401ff"), "red": rgb("#fb1e05ff"), "grey": rgb("#3c3c32ff"),
-                   "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"), "bk_grey_3": rgb("#3c3c3cff")}
-        App.theme = {"purple": App.col.copy()}
-        App.theme.update({"pink": {"bread_purple": rgb("#ff4772ff"), "bread_purple_dark": rgb("#ff6d71ff"),
-                                   "bread_cyan": rgb("#c467b2ff"), "rcoin_orange": rgb("#f56f0eff"),
-                                   "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"),
-                                   "green": rgb("#14e42bff"), "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"),
-                                   "red": rgb("#fb1e05ff"), "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"),
-                                   "bk_grey_2": rgb("#373737ff"), "bk_grey_3": rgb("#3c3c3cff")}})
-        App.theme.update({"green": {"bread_purple": rgb("#009f70ff"), "bread_purple_dark": rgb("#658e37ff"),
-                                    "bread_cyan": rgb("#25be42ff"), "rcoin_orange": rgb("#f56f0eff"),
-                                    "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"),
-                                    "green": rgb("#14e42bff"), "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"),
-                                    "red": rgb("#fb1e05ff"), "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"),
-                                    "bk_grey_2": rgb("#373737ff"), "bk_grey_3": rgb("#3c3c3cff")}})
-        App.theme.update({"lime": {"bread_purple": rgb("#99bf38ff"), "bread_purple_dark": rgb("#998739ff"),
-                                   "bread_cyan": rgb("#dfbb38ff"), "rcoin_orange": rgb("#f56f0eff"),
-                                   "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"),
-                                   "green": rgb("#14e42bff"), "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"),
-                                   "red": rgb("#fb1e05ff"), "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"),
-                                   "bk_grey_2": rgb("#373737ff"), "bk_grey_3": rgb("#3c3c3cff")}})
-
-        if os.path.exists("color_scheme.txt"):  # load color scheme
-            with open("color_scheme.txt", encoding="utf-8") as f:
-                for color in f.readlines()[1:]:
-                    color_name, color = color.replace("\n", "").split(": ")
-                    App.col[color_name] = rgb(color)
-
-        App.t_and_c = bread_kv.t_and_c()
-        App.uname = None  # username
-        App.transactions = []
-        App.popup = None
-        App.new_drive = None
-        App.reload_text = ""
-        App.popup_text = "Popup Error"
 
         # app defaults and window manager
         Builder.load_file("resources/bread.kv")
@@ -796,12 +802,7 @@ class App(KivyApp):
          ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
          LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
          Home(name="Home"), Console(name="Console"), Store(name="Store"), Mesh(name="Mesh"),
-         Settings(name="Settings"), ColorSettings(name="ColorSettings")]]
-
-        if version:
-            App.title = f"BreadClient-{version}"
-        if platform in ["win", "linux"]:
-            Window.size = (1264, 681)
+         Settings(name="Settings"), ColorSettings(name="ColorSettings"), Reloading(name="Reloading")]]
 
         Window.bind(on_keyboard=on_keyboard)
         Config.set('input', 'mouse', 'mouse,disable_multitouch')
@@ -815,11 +816,18 @@ def on_keyboard(window, key, scancode, text, modifiers):
         reload("reload")
     if 'ctrl' in modifiers and text == 'x':
         App.get_running_app().stop()
-    if 'ctrl' and 'alt' in modifiers and text == 'c':
+    if 'ctrl' in modifiers and text == 'c':
         App.stop()  # Forces a crash
     if App.popup and key == 8:
         App.popup.dismiss()
         App.popup = None
+    if App.r_coin:  # if logged in
+        if 'alt' in modifiers and text == 'h':
+            App.sm.switch_to(Home(), direction="up")
+        if 'alt' in modifiers and text == 'c':
+            App.sm.switch_to(Console(), direction="up")
+        if 'alt' in modifiers and text == 'm':
+            App.sm.switch_to(Mesh(), direction="up")
 
 
 # reload function for the app
@@ -843,7 +851,7 @@ def reload(reason):
      ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
      LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
      Home(name="Home"), Console(name="Console"), Store(name="Store"), Mesh(name="Mesh"),
-     Settings(name="Settings"), ColorSettings(name="ColorSettings")]]
+     Settings(name="Settings"), ColorSettings(name="ColorSettings"), Reloading(name="Reloading")]]
     if reason == "reload":
         if current_screen == "_screen0":
             current_screen = "Home"

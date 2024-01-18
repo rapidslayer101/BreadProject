@@ -93,35 +93,42 @@ def client_connection(cs):
         connection_type = str(cs.recv(32))[2:-1]
         print(f"NEW CLIENT --- Type-{connection_type} IP-{ip}:{port}")
         uid = None
-        if connection_type == "CLI":
-            try:
-                pub_key_cli = rsa.PublicKey.load_pkcs1(cs.recv(256))
-            except ValueError:
-                raise InvalidClientData
-            enc_seed = enclib.rand_b96_str(36)
-            cs.send(rsa.encrypt(enc_seed.encode(), pub_key_cli))
-            enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
-
-            def send_e(text):  # encrypt and send to client
-                try:
-                    cs.send(enclib.enc_from_key(text, enc_key))
-                except zlib.error:
-                    raise ConnectionResetError
-
-            def recv_d(buf_lim=1024):  # decrypt data from client
-                try:
-                    return enclib.dec_from_key(cs.recv(buf_lim), enc_key)
-                except zlib.error:
-                    raise ConnectionResetError
-        else:
-            def send_e(text):
-                cs.send(text.encode())
-
-            def recv_d(buf_lim=1024):
-                return cs.recv(buf_lim).decode()
-
-            # todo temp kick other client types
+        try:
+            pub_key_cli = rsa.PublicKey.load_pkcs1(cs.recv(256))
+        except ValueError:
             raise InvalidClientData
+        enc_seed = enclib.rand_b96_str(36)
+        cs.send(rsa.encrypt(enc_seed.encode(), pub_key_cli))
+        enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
+
+        def send_e(text):  # encrypt and send to client
+            try:
+                cs.send(enclib.enc_from_key(text, enc_key))
+            except zlib.error:
+                raise ConnectionResetError
+
+        def recv_d(buf_lim=1024):  # decrypt data from client
+            try:
+                return enclib.dec_from_key(cs.recv(buf_lim), enc_key)
+            except zlib.error:
+                raise ConnectionResetError
+
+        if connection_type == "CLI":
+            cli_hash = recv_d()
+            valid_version = False
+            with open("BreadClient/sha.txt", "r", encoding="utf-8") as f:
+                for line in f.readlines():
+                    if line.startswith(cli_hash):
+                        latest_sha_, version, tme_, bld_num_, run_num_ = line.split("§")
+                        valid_version = version
+            if valid_version:
+                send_e(valid_version)
+                print("Client Connection --- Version:", version, tme_, bld_num_, run_num_)
+            else:
+                print("Client Connection --- Invalid Version")
+                raise InvalidClientData
+        else:
+            print("Headless Connection")
 
         while True:  # login loop
             login_request = recv_d()

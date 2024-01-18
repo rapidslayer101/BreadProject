@@ -23,7 +23,7 @@ def connect_system(s):
             login()
     else:  # connection failed, switch to ip input screen
         s.ip = input("Enter server IP: ").split(":")
-        connect_system()
+        connect_system(s)
 
 
 def unlock(s, uid, ipk):
@@ -37,7 +37,7 @@ def unlock(s, uid, ipk):
             print("ERROR: Password Blank\n- Top tip, type something in the password box.")
         else:
             try:
-                user_pass = enclib.pass_to_key(acc_pass, default_salt, 50000)
+                user_pass = enclib.pass_to_key(acc_pass, enclib.default_salt, 50000)
                 ipk = enclib.dec_from_pass(ipk, user_pass[:40], user_pass[40:])
                 s.send_e(f"ULK:{uid}🱫{ipk}")
                 ulk_resp = s.recv_d(128)
