@@ -153,6 +153,7 @@ def client_connection(cs):
                             time.sleep(10)  # rate limit
                     else:
                         send_e("V")
+                        captcha_complete = True
                         break
 
                 login_request = recv_d()
@@ -254,8 +255,8 @@ def client_connection(cs):
                             break
 
             elif login_request.startswith("ULK:"):  # unlock account
-                uid, u_ipk = login_request[4:].split("🱫")
-                print(uid, u_ipk)
+                uid, ipk = login_request[4:].split("🱫")
+                print(uid, ipk)
                 if users.check_logged_in(uid, ip):
                     send_e("SESH_T")
                 else:
@@ -266,11 +267,11 @@ def client_connection(cs):
                     except ValueError:
                         send_e("N")  # User ID not found
                     else:
-                        u_ipk = enclib.pass_to_key(ip+u_ipk, uid)
+                        ipk = enclib.pass_to_key(ip+ipk, uid)
 
-                        def check_ipk(ipk):
-                            ipk, ipk_e = ipk.split("🱫")
-                            if u_ipk != ipk:
+                        def check_ipk(_ipk):
+                            _ipk, ipk_e = _ipk.split("🱫")
+                            if ipk != _ipk:
                                 return False
                             elif datetime.now() < datetime.strptime(ipk_e, "%Y-%m-%d %H:%M:%S"):
                                 return True
@@ -300,7 +301,26 @@ def client_connection(cs):
             request = recv_d()
             print(request)  # temp debug for dev
 
-            if request.startswith("LOG_A"):  # deletes all IP keys
+            if request.startswith("LOGOUT_ALL"):  # deletes all IP keys
+                users.db.execute("UPDATE users SET ipk1 = ?, ipk2 = ?, ipk3 = ? WHERE user_id = ?",
+                                 (None, None, None, uid))
+                raise ConnectionResetError
+
+            if request.startswith("LOGOUT"):  # deletes current IP key
+                ipk1, ipk2, ipk3 = users.db.execute("SELECT ipk1, ipk2, ipk3 FROM users WHERE user_id = ?",
+                                                     (uid,)).fetchone()
+                if ipk1:
+                    if ipk == ipk1.split("🱫")[0]:
+                        users.db.execute("UPDATE users SET ipk1 = ? WHERE user_id = ?", (None, uid))
+                        users.db.commit()
+                if ipk2:
+                    if ipk == ipk2.split("🱫")[0]:
+                        users.db.execute("UPDATE users SET ipk2 = ? WHERE user_id = ?", (None, uid))
+                        users.db.commit()
+                if ipk3:
+                    if ipk == ipk3.split("🱫")[0]:
+                        users.db.execute("UPDATE users SET ipk3 = ? WHERE user_id = ?", (None, uid))
+                        users.db.commit()
                 raise ConnectionResetError
 
             #elif request.startswith("DLAC:"):  # todo delete account
@@ -328,9 +348,9 @@ def client_connection(cs):
                         expiry_time = str(datetime.now()+timedelta(days=14))[:-7]
                         users.db.execute("UPDATE users SET secret = ?, user_pass = ?, ipk1 = ?, ipk2 = ?, ipk3 = ? "
                                          "WHERE user_id = ?", (enclib.enc_from_key(u_secret, n_u_pass),
-                                                                        enclib.pass_to_key(n_u_pass, uid),
-                                                                        enclib.pass_to_key(ip+n_ipk, uid)+"🱫"+expiry_time,
-                                                                        None, None, None, uid))
+                                                               enclib.pass_to_key(n_u_pass, uid),
+                                                               enclib.pass_to_key(ip+n_ipk, uid)+"🱫"+expiry_time,
+                                                               None, None, None, uid))
                         users.db.commit()
                         send_e(enclib.enc_from_pass(n_ipk, n_u_pass[:40], n_u_pass[40:]))
                 except sqlite3.OperationalError:
@@ -357,7 +377,7 @@ def client_connection(cs):
                                 users.db.execute("UPDATE users SET username = ?, d_coin = ? WHERE user_id = ?",
                                                  (n_u_name_i, d_coin, uid))
                                 users.db.commit()
-                                add_action(uid, "CUN", 0, 5, f"Changed u_name to {n_u_name_i}")
+                                #add_action(uid, "CUN", 0, 5, f"Changed u_name to {n_u_name_i}")
                                 send_e(n_u_name_i)
                                 u_name = n_u_name_i
                                 break
@@ -380,16 +400,9 @@ def client_connection(cs):
         if ip in users.logged_in_users:
             users.logout(uid, ip)
     except InvalidClientData:  # invalid client data exception handler
-        print(f"{uid}-{ip}:{port} DC - modified/invalid client request")
+        print(f"{uid}-{ip}:{port} DC - modified/invalid client request")  # todo log invalid requests
         if ip in users.logged_in_users:
             users.logout(uid, ip)
-
-        # todo move to database
-        #with open(f"users/{uid}/log.txt", "a") as log:  # log logout time
-        #    if request:
-        #        log.write(f"{str(datetime.now())[:-7]} - ICR: {request}\n")
-        #    else:
-        #        log.write(f"{str(datetime.now())[:-7]} - ICR: None\n")
 
 
 while True:  # connection accept loop

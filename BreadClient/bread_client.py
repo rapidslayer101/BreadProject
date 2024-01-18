@@ -145,7 +145,7 @@ class KeyUnlock(Screen):
                 if ulk_resp == "SESH_T":
                     popup("error", "This accounts session is taken.")
                 elif ulk_resp == "N":
-                    popup("error", "Incorrect Password\n- How exactly did you manage to trigger this.")
+                    popup("error", "Incorrect Password")
                     self.pwd.text = ""
                 else:
                     App.uname, App.level, App.r_coin, App.d_coin = ulk_resp.split("🱫")
@@ -380,7 +380,7 @@ class LogUnlock(Screen):
                 s.send_e(user_pass)
                 ipk = s.recv_d()
                 if ipk == "N":
-                    popup("error", "Incorrect Password\n- How exactly did you manage to trigger this")
+                    popup("error", "Incorrect Password")
                     self.pwd.text = ""
                 else:
                     App.ipk = ipk
@@ -475,33 +475,33 @@ class DefaultScreen(Screen):
 # the home screen
 class Home(DefaultScreen):
     welcome_text = StringProperty()
-    transactions_counter = 0
+    request_hist_counter = 0
 
     def on_enter(self, *args):
         self.ids.level_bar_text.text = f"Auth level {App.level}"
-        [self.add_transaction(transaction) for transaction in App.transactions]
-        App.transactions = []
+        [self.add_transaction(transaction) for transaction in App.request_hist]
+        App.request_hist = []
 
     def add_transaction(self, transaction):
-        self.ids.transactions.add_widget(Label(text=transaction, font_size=16, color=(1, 1, 1, 1), size_hint_y=None,
+        self.ids.request_hist.add_widget(Label(text=transaction, font_size=16, color=(1, 1, 1, 1), size_hint_y=None,
                                                height=40+transaction.count("\n")*20, halign="left", markup=True))
-        self.transactions_counter += 1
-        if self.ids.transactions_scroll.scroll_y == 0:
+        self.request_hist_counter += 1
+        if self.ids.request_hist_scroll.scroll_y == 0:
             scroll_down = True
         else:
             scroll_down = False
-        if self.transactions_counter > 101:
-            self.ids.transactions.remove_widget(self.ids.public_chat.children[-1])
-            self.ids.transactions.children[-1].text = "ONLY SHOWING LATEST 100 TRANSACTIONS"
-            self.transactions_counter -= 1
+        if self.request_hist_counter > 101:
+            self.ids.request_hist.remove_widget(self.ids.public_chat.children[-1])
+            self.ids.request_hist.children[-1].text = "ONLY SHOWING LATEST 100 request_hist"
+            self.request_hist_counter -= 1
         message_height = 0
-        for i in reversed(range(self.transactions_counter)):
-            self.ids.transactions.children[i].y = message_height
-            self.ids.transactions.children[i].x = 0
-            message_height += self.ids.transactions.children[i].height
-        self.ids.transactions.height = message_height
+        for i in reversed(range(self.request_hist_counter)):
+            self.ids.request_hist.children[i].y = message_height
+            self.ids.request_hist.children[i].x = 0
+            message_height += self.ids.request_hist.children[i].height
+        self.ids.request_hist.height = message_height
         if scroll_down:
-            self.ids.transactions_scroll.scroll_y = 0
+            self.ids.request_hist_scroll.scroll_y = 0
         else:
             pass  # todo make stay still
 
@@ -533,6 +533,10 @@ class Console(DefaultScreen):
                 self.ids.public_chat.add_widget(Label(text=f"[color=#f46f0eff]{name}[/color] [color=#858d8fff] "
                                                            f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
                                                       color=(1, 1, 1, 1), size_hint_y=None, height=40, markup=True))
+                App.request_hist.append(f"REQUEST: [color=#f46f0eff]1 R [/color]"
+                                        f"[color=#14e42aff] GPU0-phi2 [/color]")
+                App.r_coin = str(int(App.r_coin)+1)
+                self.r_coins = App.r_coin+" R"
             else:
                 self.ids.public_chat.add_widget(Label(text=f"[color=#14e42bff]{name}[/color] [color=#858d8fff] "
                                                            f"{str(datetime.now())[:-7]}[/color] {text}", font_size=16,
@@ -557,10 +561,17 @@ class Console(DefaultScreen):
         else:
             pass  # todo make stay still
 
+    # todo add these as buttons to
     def send_public_message(self):
         if self.public_room_inp.text != "":
             self.add_msg(App.uname[:-4], self.public_room_inp.text)
             s.send_e(f"{self.public_room_inp.text}")
+            if self.public_room_inp.text in ["LOGOUT_ALL", "LOGOUT"]:
+                os.remove("app/key")
+                os.remove("app/password.txt")
+                os.remove("app/server_ip")
+                os.remove("app")
+                reload("reload")
             self.public_room_inp.text = ""
 
 
@@ -602,7 +613,7 @@ class Settings(DefaultScreen):
                     App.d_coin = App.d_coin[:-2]
                 self.d_coins = App.d_coin+" D"
                 popup("success", f"Username changed to {self.uname}")
-                App.transactions.append(f"Spent [color=#16c2e1ff]5 D[/color] to change username to "
+                App.request_hist.append(f"Spent [color=#16c2e1ff]5 D[/color] to change username to "
                                         f"[color=#14e42aff]{self.uname}[/color]")
         else:
             popup("error", "Invalid Username\n- Username must be between 5 and 24 characters")
@@ -746,7 +757,7 @@ class App(KivyApp):
                 col[color_name] = rgb(color)
 
     t_and_c = bread_kv.t_and_c()
-    transactions = []
+    request_hist = []
     mkey, ipk, pass_code, pin_code = None, None, None, None
     path, reload_text, popup, popup_text, new_drive = None, "", None, "Popup Error", None
     uname, level, r_coin, d_coin = None, 99, None, None

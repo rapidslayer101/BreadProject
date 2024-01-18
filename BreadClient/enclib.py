@@ -9,7 +9,7 @@ import multiprocessing
 import socket
 import rsa
 
-# enc 12.1.1 - CREATED BY RAPIDSLAYER101 (Scott Bree)
+# enc 12.2.0 - CREATED BY RAPIDSLAYER101 (Scott Bree)
 default_salt = "52gy\"J$&)6%0}fgYfm/%ino}PbJk$w<5~j'|+R .bJcSZ.H&3z'A:gip/jtW$6A=G-;|&&rR81!BTElChN|+\"T"
 _default_block_size_ = 5000000  # the chunking size
 _xor_salt_len_ = 7  # 94^8 combinations

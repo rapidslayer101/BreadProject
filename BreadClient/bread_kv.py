@@ -695,15 +695,15 @@ kv_payload = """# You can edit this file to change the UI.
             size_hint: 0.32, 0.66
             pos_hint: {"x": 0.67, "top": 0.68}
         SizeLabel:
-            text: "Transaction History (This session)"
+            text: "Request History (This session)"
             pos_hint: {"x": 0.78, "top": 0.66}
         ScrollView:
-            id: transactions_scroll
+            id: request_hist_scroll
             size_hint: 0.32, 0.53
             pos_hint: {"x": 0.67, "top": 0.59}
             scroll_type: ['bars']
             FloatLayout:
-                id: transactions
+                id: request_hist
                 canvas.before:
                     Color:
                         rgba: app.col['bk_grey_2']
