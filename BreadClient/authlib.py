@@ -2,9 +2,6 @@ import enclib
 import os
 import zlib
 
-# todo abstract out of bread_client to here
-# todo merge example_headless into here and make it a good example
-
 
 def connect_system(s):
     if s.ip and s.connect():
@@ -16,11 +13,11 @@ def connect_system(s):
                 key_data = f.read()
             print(" - Key data loaded")
             uid, ipk = str(key_data[:8])[2:-1], key_data[8:]
-            uname, level, r_coin, d_coin = unlock(s, uid, ipk)
-            return uname, level, r_coin, d_coin
+            return unlock(s, uid, ipk)
         else:
             print(" - No keys found")
-            login()
+            return login(s)
+
     else:  # connection failed, switch to ip input screen
         s.ip = input("Enter server IP: ").split(":")
         connect_system(s)
@@ -58,44 +55,65 @@ def unlock(s, uid, ipk):
 
 
 # screen to collect data for regenerate master key
-def login():
-    drive = None
-    load_from_usb = input("Load from USB? (y/n): ")
-    if load_from_usb.lower() == "y":
-        print("Scanning for USB...")
-        drive = enclib.drive_insert_detector()
-        with open(drive+"mkey", "r", encoding="utf-8") as f:
-            name_or_uid, pass_code, pin_code = f.read().split("🱫")
-        print(name_or_uid, pass_code, pin_code)
-        print("Loaded from USB")
+def login(s):
+    print("Insert Auth USB...")
+    drive = enclib.drive_insert_detector()
+    with open(drive+"mkey", "r", encoding="utf-8") as f:
+        name_or_uid, pass_code, pin_code = f.read().split("🱫")
+    print("Loaded keys from USB")
+    print(name_or_uid, pass_code, pin_code)
+    uid, uname = None, None
+    if len(name_or_uid) == 8:
+        uid = name_or_uid
+    elif 8 < len(name_or_uid) < 29 and "#" in name_or_uid:
+        uname = name_or_uid
+
+    mkey = enclib.regenerate_master_key(pass_code[:6].encode(), pass_code[6:].encode(),
+                                        int(enclib.to_base(36, 10, pin_code)))
+    if uname:
+        s.send_e(f"LOG:{mkey}🱫u🱫{name_or_uid}")
+    elif uid:
+        s.send_e(f"LOG:{mkey}🱫i🱫{name_or_uid}")
+
+    log_resp = s.recv_d()
+    if log_resp == "IMK":
+        print("ERROR: Invalid Master Key")
+        login(s)
+    elif log_resp == "NU":
+        print("ERROR: Username/UID does not exist")
+        login(s)
     else:
-        print("Enter account details")
-        name_or_uid = input("Input Name or UID: ")
-        pass_code = input("Input Passcode: ")
-        pin_code = input("Input Pincode: ")
-
-        if len(name_or_uid) == 8 and len(pass_code) == 15 and pin_code:
-            #self.ids.start_regen_button.disabled = False
-            pass
-        elif 8 < len(name_or_uid) < 29 and "#" in name_or_uid and len(pass_code) == 15 and pin_code:
-            pass
-            #self.ids.start_regen_button.disabled = False
-        else:
-            pass
-            #self.ids.start_regen_button.disabled = True
-
-    input()
-
-    # todo account login from command line
-
-
-    def start_regeneration(self):
-        if len(self.name_or_uid.text) == 8 and len(self.pass_code.text) == 15 and self.pin_code.text:
-            App.path, App.uid = "login", self.name_or_uid.text
-            App.pass_code, App.pin_code = self.pass_code.text, self.pin_code.text
-            App.sm.switch_to(ReCreateGen(), direction="left")
-        if 8 < len(self.name_or_uid.text) < 29 and "#" in self.name_or_uid.text and \
-                len(self.pass_code.text) == 15 and self.pin_code.text:
-            App.path, App.uname = "login", self.name_or_uid.text
-            App.pass_code, App.pin_code = self.pass_code.text, self.pin_code.text
-            App.sm.switch_to(ReCreateGen(), direction="left")
+        if uname:
+            uid = s.recv_d()
+        while True:
+            acc_pass = input(f"Enter account passcode for {uid}: ")
+            if acc_pass == "":
+                print("ERROR: Password Blank\n- Top tip, type something in the password box.")
+            acc_pass = enclib.pass_to_key(acc_pass, enclib.default_salt, 50000)
+            s.send_e(acc_pass)
+            ipk = s.recv_d()
+            if ipk == "N":
+                print("ERROR: Incorrect Password")
+            else:
+                break
+        while True:
+            two_fac_code = input("Enter 2FA Code: ")
+            if two_fac_code == "":
+                print("ERROR: 2FA Code Blank - Please enter a 2FA code")
+            elif len(two_fac_code) != 6:
+                print("Invalid 2FA Code")
+            else:
+                s.send_e(two_fac_code.replace(" ", ""))
+                two_fa_valid = s.recv_d()
+                if two_fa_valid == "N":
+                    print("2FA Failed - Please Try Again")
+                else:
+                    with open("app/key", "wb") as f:
+                        f.write(uid.encode()+ipk)
+                    uname, level, r_coin, d_coin = two_fa_valid.split("🱫")
+                    if r_coin.endswith(".0"):
+                        r_coin = r_coin[:-2]
+                    if d_coin.endswith(".0"):
+                        d_coin = d_coin[:-2]
+                    print(f"Logged in as {uname} ({level})\n - Coins: {r_coin}R {d_coin}D")
+                    return uname, level, r_coin, d_coin

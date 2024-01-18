@@ -1,5 +1,4 @@
 import base64
-import hashlib
 import os
 import random
 import threading
@@ -154,8 +153,8 @@ class KeyUnlock(Screen):
                         App.r_coin = App.r_coin[:-2]
                     if App.d_coin.endswith(".0"):
                         App.d_coin = App.d_coin[:-2]
-                    App.sm.switch_to(Home(), direction="left")
                     print(f"Logged in as {App.uname} ({App.level})\n - Coins: {App.r_coin}R {App.d_coin}D")
+                    App.sm.switch_to(Home(), direction="left")
             except zlib.error:
                 popup("error", "Incorrect Password")
                 self.pwd.text = ""
@@ -169,37 +168,15 @@ class CreateKey(Screen):
     rand_confirmation = None
 
     def generate_master_key(self, master_key, salt, depth_time, current_depth=0):
-        time.sleep(0.2)
-        start, time_left, loop_timer = time.perf_counter(), depth_time, time.perf_counter()
-        while time_left > 0:
-            current_depth += 1
-            master_key = hashlib.sha512(master_key+salt).digest()
-            if time.perf_counter()-loop_timer > 0.25:
-                try:
-                    time_left -= (time.perf_counter()-loop_timer)
-                    loop_timer = time.perf_counter()
-                    real_dps = int(round(current_depth/(time.perf_counter()-start), 0))
-                    print(f"Runtime: {round(time.perf_counter()-start, 2)}s  "
-                          f"Time Left: {round(time_left, 2)}s  "
-                          f"DPS: {round(real_dps/1000000, 3)}M  "
-                          f"Depth: {current_depth}/{round(real_dps*time_left, 2)}  "
-                          f"Progress: {round((depth_time-time_left)/depth_time*100, 3)}%")
-                    self.pin_code_text = f"Generating Key and Pin ({round(time_left, 2)}s left)"
-                except ZeroDivisionError:
-                    pass
-        App.mkey = enclib.to_base(16, 96, master_key.hex())
-        self.rand_confirmation = str(random.randint(0, 9))
-        self.pin_code_text = f"Account Pin: {enclib.to_base(10, 36, current_depth)}"
-        self.rand_confirm_text = f"Enter {self.rand_confirmation} below.\n" \
-                                 f"By proceeding with account creation you agree to our Terms and Conditions."
-        App.pin_code = enclib.to_base(10, 36, current_depth)
+        App.mkey, App.pin_code = enclib.generate_master_key(master_key, salt, depth_time, current_depth, self)
+        print(App.mkey)
 
     def on_pre_enter(self, *args):
         App.path = "make"
         acc_key = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=int(15)))
         time_depth = random.uniform(3, 5)
         threading.Thread(target=self.generate_master_key, args=(acc_key[:6].encode(),
-               acc_key[6:].encode(), time_depth,), daemon=True).start()
+                         acc_key[6:].encode(), time_depth,), daemon=True).start()
         self.pin_code_text = f"Generating Key and Pin ({time_depth}s left)"
         acc_key_print = f"{acc_key[:5]}-{acc_key[5:10]}-{acc_key[10:15]}"
         self.pass_code_text = f"Your Account Key is: {acc_key_print}"
@@ -309,23 +286,7 @@ class ReCreateGen(Screen):
     gen_left_text = StringProperty()
 
     def regenerate_master_key(self, master_key, salt, depth_to, current_depth=0):
-        start, depth_left, loop_timer = time.perf_counter(), depth_to-current_depth, time.perf_counter()
-        for depth_count in range(1, depth_left+1):
-            master_key = hashlib.sha512(master_key+salt).digest()
-            if time.perf_counter()-loop_timer > 0.25:
-                try:
-                    loop_timer = time.perf_counter()
-                    real_dps = int(round(depth_count/(time.perf_counter()-start), 0))
-                    print(f"Runtime: {round(time.perf_counter()-start, 2)}s  "
-                          f"Time Left: {round((depth_left-depth_count)/real_dps, 2)}s  "
-                          f"DPS: {round(real_dps/1000000, 3)}M  "
-                          f"Depth: {current_depth+depth_count}/{depth_to}  "
-                          f"Progress: {round((current_depth+depth_count)/depth_to*100, 3)}%")
-                    self.gen_left_text = f"Generating master key " \
-                                         f"({round((depth_left-depth_count)/real_dps, 2)}s left)"
-                except ZeroDivisionError:
-                    pass
-        App.mkey = enclib.to_base(16, 96, master_key.hex())
+        App.mkey = enclib.regenerate_master_key(master_key, salt, depth_to, current_depth, self)
         Clock.schedule_once(lambda dt: App.sm.switch_to(Captcha(), direction="left"))
 
     def on_enter(self, *args):
@@ -467,6 +428,7 @@ class TwoFacSetup(Screen):
                 if App.new_drive:
                     with open(f"{App.new_drive}mkey", "w", encoding="utf-8") as f:
                         f.write(f"{App.uid}🱫{App.acc_key}🱫{App.pin_code}")
+                print(f"Logged in as {App.uname} ({App.level})\n - Coins: {App.r_coin}R {App.d_coin}D")
                 App.sm.switch_to(Home(), direction="left")
 
 
@@ -497,6 +459,7 @@ class TwoFacLog(Screen):
                     App.r_coin = App.r_coin[:-2]
                 if App.d_coin.endswith(".0"):
                     App.d_coin = App.d_coin[:-2]
+                print(f"Logged in as {App.uname} ({App.level})\n - Coins: {App.r_coin}R {App.d_coin}D")
                 App.sm.switch_to(Home(), direction="left")
 
 
@@ -770,8 +733,8 @@ class App(KivyApp):
                             "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"),
                             "bk_grey_3": rgb("#3c3c3cff")}})
     theme.update({"lime": {"bread_purple": rgb("#99bf38ff"), "bread_purple_dark": rgb("#998739ff"),
-                            "bread_cyan": rgb("#dfbb38ff"), "rcoin_orange": rgb("#f56f0eff"),
-                            "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"), "green": rgb("#14e42bff"),
+                           "bread_cyan": rgb("#dfbb38ff"), "rcoin_orange": rgb("#f56f0eff"),
+                           "dcoin_blue": rgb("#16c2e1ff"), "link_blue": rgb("#509ae4ff"), "green": rgb("#14e42bff"),
                            "yellow": rgb("#f3ef32ff"), "orange": rgb("#f38401ff"), "red": rgb("#fb1e05ff"),
                            "grey": rgb("#3c3c32ff"), "bk_grey_1": rgb("#323232ff"), "bk_grey_2": rgb("#373737ff"),
                            "bk_grey_3": rgb("#3c3c3cff")}})
@@ -784,8 +747,9 @@ class App(KivyApp):
 
     t_and_c = bread_kv.t_and_c()
     transactions = []
-    reload_text, popup, popup_text, new_drive = "", None, "Popup Error", None
-    uname, level, r_coin, d_coin = None, None, None, None
+    mkey, ipk, pass_code, pin_code = None, None, None, None
+    path, reload_text, popup, popup_text, new_drive = None, "", None, "Popup Error", None
+    uname, level, r_coin, d_coin = None, 99, None, None
 
     if platform in ["win", "linux"]:
         Window.size = (1264, 681)

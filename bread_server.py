@@ -27,7 +27,7 @@ class Users:
         self.db = sqlite3.connect('cnc_server.db', check_same_thread=False)
         self.db.execute("CREATE TABLE IF NOT EXISTS users (user_id TEXT PRIMARY KEY NOT NULL UNIQUE,"
                         "creation_time DATE NOT NULL, master_key TEXT NOT NULL, secret TEXT NOT NULL,"
-                        "user_pass TEXT NOT NULL, ipk1 TEXT, ipk2 TEXT, ipk3 TEXT, ipk4 TEXT, username TEXT NOT NULL, "
+                        "user_pass TEXT NOT NULL, ipk1 TEXT, ipk2 TEXT, ipk3 TEXT, username TEXT NOT NULL, "
                         "last_online DATE NOT NULL, level FLOAT NOT NULL, r_coin FLOAT NOT NULL, d_coin FLOAT NOT NULL)")
 
     def login(self, u_id, ip, enc_key):
@@ -48,10 +48,10 @@ class Users:
     def add_user(self, uid, master_key, secret, u_pass, ipk, username):
         now = str(datetime.now())[:-7]
         expiry_time = str(datetime.now()+timedelta(days=14))[:-7]
-        self.db.execute("INSERT INTO users VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (uid, now,
+        self.db.execute("INSERT INTO users VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (uid, now,
                         enclib.pass_to_key(master_key, uid), enclib.enc_from_key(secret, u_pass),
                         enclib.pass_to_key(u_pass, uid), ipk+"🱫"+expiry_time, None,
-                        None, None, username, now, 99, 0, 0))
+                        None, username, now, 99, 0, 0))
         self.db.commit()
         # todo move to database
         #with open(f"users/{uid}/transactions.csv", "w", newline='', encoding="utf-8") as csv:
@@ -131,6 +131,7 @@ def client_connection(cs):
             print("Headless Connection")
 
         while True:  # login loop
+            captcha_complete = False
             login_request = recv_d()
             print(login_request)  # temp debug for dev
 
@@ -154,9 +155,10 @@ def client_connection(cs):
                         send_e("V")
                         break
 
-                log_or_create = recv_d()
-                if log_or_create.startswith("NAC:"):  # new account
-                    master_key, u_pass = log_or_create[4:].split("🱫")
+                login_request = recv_d()
+                print(login_request)
+                if login_request.startswith("NAC:"):  # new account
+                    master_key, u_pass = login_request[4:].split("🱫")
                     while True:  # create random unique user id
                         uid = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=8))
                         u_name = uid+"#"+str(random.randint(111, 999))
@@ -178,9 +180,11 @@ def client_connection(cs):
                                            enclib.pass_to_key(ip+ipk, uid), u_name)
                             break
 
-                if log_or_create.startswith("LOG:"):  # login
-                    print(log_or_create)
-                    master_key_c, search_for, uname_or_uid = log_or_create[4:].split("🱫")
+            if login_request.startswith("LOG:"):  # login
+                if not captcha_complete and connection_type == "CLI":
+                    raise InvalidClientData
+                elif captcha_complete or connection_type == "HDL":
+                    master_key_c, search_for, uname_or_uid = login_request[4:].split("🱫")
                     if search_for == "u":
                         try:
                             uid, master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = users.db.execute(
@@ -222,22 +226,19 @@ def client_connection(cs):
                                 else:
                                     break
                             send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
-                            ipk1, ipk2, ipk3, ipk4 = users.db.execute(
-                                "SELECT ipk1, ipk2, ipk3, ipk4 FROM users WHERE user_id = ?",
+                            ipk1, ipk2, ipk3 = users.db.execute(
+                                "SELECT ipk1, ipk2, ipk3 FROM users WHERE user_id = ?",
                                 (uid,)).fetchone()  # get ip keys from db
 
                             expiry_time = str(datetime.now() + timedelta(days=14))[:-7]
-                            if ipk1 and ipk2 and ipk3 and ipk4:  # if 4 ip keys, replace the oldest one
+                            if ipk1 and ipk2 and ipk3:  # if 3 ip keys, replace the oldest one
                                 oldest_ipk = "1"
                                 oldest_ipk_d = datetime.strptime(ipk1.split("🱫")[1], "%Y-%m-%d %H:%M:%S")
                                 if oldest_ipk_d > datetime.strptime(ipk2.split("🱫")[1], "%Y-%m-%d %H:%M:%S"):
                                     oldest_ipk_d = datetime.strptime(ipk2.split("🱫")[1], "%Y-%m-%d %H:%M:%S")
                                     oldest_ipk = "2"
                                 if oldest_ipk_d > datetime.strptime(ipk3.split("🱫")[1], "%Y-%m-%d %H:%M:%S"):
-                                    oldest_ipk_d = datetime.strptime(ipk3.split("🱫")[1], "%Y-%m-%d %H:%M:%S")
                                     oldest_ipk = "3"
-                                if oldest_ipk_d > datetime.strptime(ipk4.split("🱫")[1], "%Y-%m-%d %H:%M:%S"):
-                                    oldest_ipk = "4"
                                 users.db.execute("UPDATE users SET ipk" + oldest_ipk + " = ? WHERE user_id = ?",
                                                  (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
                             elif not ipk1:  # save to empty ip key
@@ -249,9 +250,6 @@ def client_connection(cs):
                             elif not ipk3:
                                 users.db.execute("UPDATE users SET ipk3 = ? WHERE user_id = ?",
                                                  (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
-                            elif not ipk4:
-                                users.db.execute("UPDATE users SET ipk4 = ? WHERE user_id = ?",
-                                                 (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
                             users.db.commit()
                             break
 
@@ -262,8 +260,8 @@ def client_connection(cs):
                     send_e("SESH_T")
                 else:
                     try:
-                        ipk1, ipk2, ipk3, ipk4, u_name, level, r_coin, d_coin = \
-                            users.db.execute("SELECT ipk1, ipk2, ipk3, ipk4, username, level, r_coin, "
+                        ipk1, ipk2, ipk3, u_name, level, r_coin, d_coin = \
+                            users.db.execute("SELECT ipk1, ipk2, ipk3, username, level, r_coin, "
                                              "d_coin FROM users WHERE user_id = ?", (uid,)).fetchone()
                     except ValueError:
                         send_e("N")  # User ID not found
@@ -289,10 +287,6 @@ def client_connection(cs):
                                 break
                         if ipk3:
                             if check_ipk(ipk3):
-                                send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
-                                break
-                        if ipk4:
-                            if check_ipk(ipk4):
                                 send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
                                 break
                         send_e("N")
@@ -332,8 +326,8 @@ def client_connection(cs):
                                 break
                         n_ipk = enclib.rand_b96_str(24)
                         expiry_time = str(datetime.now()+timedelta(days=14))[:-7]
-                        users.db.execute("UPDATE users SET secret = ?, user_pass = ?, ipk1 = ?, ipk2 = ?, ipk3 = ?, "
-                                         "ipk4 = ? WHERE user_id = ?", (enclib.enc_from_key(u_secret, n_u_pass),
+                        users.db.execute("UPDATE users SET secret = ?, user_pass = ?, ipk1 = ?, ipk2 = ?, ipk3 = ? "
+                                         "WHERE user_id = ?", (enclib.enc_from_key(u_secret, n_u_pass),
                                                                         enclib.pass_to_key(n_u_pass, uid),
                                                                         enclib.pass_to_key(ip+n_ipk, uid)+"🱫"+expiry_time,
                                                                         None, None, None, uid))

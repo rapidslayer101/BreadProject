@@ -60,6 +60,7 @@
 0.60 public chat room, multiple s2w odds options
 0.61 coinflip improvements
 0.62 reworking into BreadClient, rewriting
+0.63 BreadClient Headless now available
 
 0.xx commenting work, abstraction
 

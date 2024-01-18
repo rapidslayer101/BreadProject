@@ -1,4 +1,4 @@
-from datetime import datetime as _datetime_, timedelta as _timedelta_
+import datetime
 import sys
 import time
 import os
@@ -208,13 +208,64 @@ def dec_file_from_pass(e_file, password, salt, file_output, depth=_default_pass_
     return _file_encrypter_(False, e_file, pass_to_key(password, salt, depth), file_output, compressor)
 
 
+def generate_master_key(master_key, salt, depth_time, current_depth=0, self=None):
+    time.sleep(0.2)
+    start, time_left, loop_timer = time.perf_counter(), depth_time, time.perf_counter()
+    while time_left > 0:
+        current_depth += 1
+        master_key = hashlib.sha512(master_key+salt).digest()
+        if time.perf_counter()-loop_timer > 0.25:
+            try:
+                time_left -= (time.perf_counter()-loop_timer)
+                loop_timer = time.perf_counter()
+                real_dps = int(round(current_depth/(time.perf_counter()-start), 0))
+                print(f"Runtime: {round(time.perf_counter()-start, 2)}s  "
+                      f"Time Left: {round(time_left, 2)}s  "
+                      f"DPS: {round(real_dps/1000000, 3)}M  "
+                      f"Depth: {current_depth}/{round(real_dps*time_left, 2)}  "
+                      f"Progress: {round((depth_time-time_left)/depth_time*100, 3)}%")
+                if self:
+                    self.pin_code_text = f"Generating Key and Pin ({round(time_left, 2)}s left)"
+            except ZeroDivisionError:
+                pass
+    mkey = to_base(16, 96, master_key.hex())
+    pin_code = to_base(10, 36, current_depth)
+    if self:
+        self.rand_confirmation = str(random.randint(0, 9))
+        self.pin_code_text = f"Account Pin: {pin_code}"
+        self.rand_confirm_text = f"Enter {self.rand_confirmation} below.\n" \
+                                 f"By proceeding with account creation you agree to our Terms and Conditions."
+    return mkey, pin_code
+
+
+def regenerate_master_key(master_key, salt, depth_to, current_depth=0, self=None):
+    start, depth_left, loop_timer = time.perf_counter(), depth_to-current_depth, time.perf_counter()
+    for depth_count in range(1, depth_left+1):
+        master_key = hashlib.sha512(master_key+salt).digest()
+        if time.perf_counter()-loop_timer > 0.25:
+            try:
+                loop_timer = time.perf_counter()
+                real_dps = int(round(depth_count/(time.perf_counter()-start), 0))
+                print(f"Runtime: {round(time.perf_counter()-start, 2)}s  "
+                      f"Time Left: {round((depth_left-depth_count)/real_dps, 2)}s  "
+                      f"DPS: {round(real_dps/1000000, 3)}M  "
+                      f"Depth: {current_depth+depth_count}/{depth_to}  "
+                      f"Progress: {round((current_depth+depth_count)/depth_to*100, 3)}%")
+                if self:
+                    self.gen_left_text = f"Generating master key " \
+                                         f"({round((depth_left-depth_count)/real_dps, 2)}s left)"
+            except ZeroDivisionError:
+                pass
+    return to_base(16, 96, master_key.hex())
+
+
 # rounds dt to an amount of seconds
 # this function can be used to create a time based key system
 def round_time(dt=None, round_to=30):
     if not dt:
-        dt = _datetime_.now()
+        dt = datetime.datetime.now()
     seconds = (dt.replace(tzinfo=None)-dt.min).seconds
-    return dt+_timedelta_(0, (seconds+round_to/2)//round_to*round_to-seconds, -dt.microsecond)
+    return dt+datetime.timedelta(0, (seconds+round_to/2)//round_to*round_to-seconds, -dt.microsecond)
 
 
 # hashes a file using the SHA512 algorithm
