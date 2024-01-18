@@ -21,7 +21,6 @@ from kivy.utils import platform, get_color_from_hex as rgb
 from kivy.uix.image import AsyncImage
 from kivy.uix.label import Label
 from kivy.uix.screenmanager import ScreenManager, Screen
-import client_auth
 
 
 # hashes client file
@@ -136,7 +135,7 @@ class KeyUnlock(Screen):
                 popup("error", "Password Blank\n- WHY IS THE BOX BLANK?")
         else:
             try:
-                user_pass = enclib.pass_to_key(self.pwd.text, client_auth.default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, enclib.default_salt, 50000)
                 ipk = enclib.dec_from_pass(App.ipk, user_pass[:40], user_pass[40:])
                 s.send_e(f"ULK:{App.uid}🱫{ipk}")
                 ulk_resp = s.recv_d(128)
@@ -389,7 +388,7 @@ class NacPass(Screen):
         elif self.nac_password_1.text != self.nac_password_2.text:
             popup("error", "Password Mismatch\n- Passwords must be the same")
         else:
-            pass_send = enclib.pass_to_key(self.nac_password_1.text, client_auth.default_salt, 50000)
+            pass_send = enclib.pass_to_key(self.nac_password_1.text, enclib.default_salt, 50000)
             if App.path == "CHANGE_PASS":
                 s.send_e(pass_send)
                 App.sm.switch_to(TwoFacLog(), direction="left")
@@ -411,7 +410,7 @@ class LogUnlock(Screen):
             popup("error", "Password Blank\n- The question is, why is it blank?")
         else:
             try:
-                user_pass = enclib.pass_to_key(self.pwd.text, client_auth.default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, enclib.default_salt, 50000)
                 s.send_e(user_pass)
                 ipk = s.recv_d()
                 if ipk == "N":
@@ -496,37 +495,22 @@ class TwoFacLog(Screen):
                 App.sm.switch_to(Home(), direction="left")
 
 
-# the home screen
-class Home(Screen):
+class DefaultScreen(Screen):
     r_coins = StringProperty()
     d_coins = StringProperty()
+
+    def set_coins(self):
+        self.r_coins = App.r_coin + " R"
+        self.d_coins = App.d_coin + " D"
+
+
+# the home screen
+class Home(DefaultScreen):
     welcome_text = StringProperty()
-    transfer_uid = ObjectProperty(None)
-    transfer_amt = ObjectProperty(None)
-    transfer_cost = StringProperty()
-    transfer_send = StringProperty()
-    transfer_fee = StringProperty()
-    direction_text = StringProperty()
-    coin_conversion = StringProperty()
-    code = ObjectProperty(None)
-    transfer_direction = "R"
-    level_progress = [0, 100]
     transactions_counter = 0
 
-    def update_level_bar(self):
-        self.level_progress = [round(float(App.level), 2), 100]
-        self.ids.level_bar_text.text = f"{self.level_progress[0]} XP"
-        #self.ids.level_bar_text.text = f"{self.level_progress[0]}/{self.level_progress[1]} XP"
-        #with self.ids.level_bar.canvas:
-        #    Color(*App.col["yellow"])
-        #    RoundedRectangle(pos=self.ids.level_bar.pos,
-        #                     size=(self.ids.level_bar.size[0]*self.level_progress[0]/self.level_progress[1],
-        #                           self.ids.level_bar.size[1]))
-
     def on_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
-        Clock.schedule_once(lambda dt: self.update_level_bar())
+        self.ids.level_bar_text.text = f"Auth level {App.level}"
         [self.add_transaction(transaction) for transaction in App.transactions]
         App.transactions = []
 
@@ -554,114 +538,12 @@ class Home(Screen):
             pass  # todo make stay still
 
     def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
+        self.set_coins()
         self.welcome_text = f"Welcome back {App.uname}"
-        self.transfer_cost = "0.00"
-        self.transfer_send = "0.00"
-        self.transfer_fee = "0.00"
-        self.coin_conversion = "0.00 R"
-        self.direction_text = "Conversion Calculator (£->R)"
-
-    def check_transfer(self):  # check if transfer is valid
-        if self.transfer_amt.text != "":
-            self.transfer_amt.text = self.transfer_amt.text[:12]
-            if float(self.transfer_amt.text) > float(App.r_coin)*0.995:
-                self.transfer_amt.text = str(round(float(App.r_coin)*0.995, 2))
-            if "." in self.transfer_amt.text:
-                if len(self.transfer_amt.text.split(".")[1]) > 2:
-                    self.transfer_amt.text = self.transfer_amt.text[:-1]
-            self.transfer_cost = str(round(float(self.transfer_amt.text)/0.995, 2))
-            self.transfer_send = self.transfer_amt.text
-            self.transfer_fee = str(round(float(self.transfer_cost)-float(self.transfer_amt.text), 2))
-        if self.transfer_amt.text == ".":
-            self.transfer_amt.text = ""
-        if self.transfer_amt.text == "":
-            self.transfer_cost = "0.00"
-            self.transfer_send = "0.00"
-            self.transfer_fee = "0.00"
-
-    def transfer_coins(self):
-        if self.transfer_amt.text in ["", "."]:
-            popup("error", "Below Minimum Transfer\n- Transaction amount below the 3 R minimum")
-        elif len(self.transfer_uid.text) < 8:
-            popup("error", "Invalid Username/UID For Transfer")
-        elif self.transfer_uid.text == App.uid or self.transfer_uid.text == App.uname:
-            popup("error", "You cannot transfer funds to yourself\n- WHY ARE YOU EVEN TRYING TO?!")
-        elif float(self.transfer_amt.text) < 3:
-            popup("error", "Below Minimum Transfer\n- Transaction amount below the 3 R minimum")
-        elif float(self.transfer_amt.text) > float(App.r_coin)*0.995:
-            popup("error", "Insufficient funds For Transfer")
-        else:
-            s.send_e(f"TRF:{self.transfer_uid.text}🱫{self.transfer_amt.text}")
-            if s.recv_d() != "V":
-                popup("error", "Invalid Username/UID For Transfer")
-            else:
-                popup("success", f"Transfer of {self.transfer_amt.text} R to {self.transfer_uid.text} Successful")
-                self.add_transaction(f"Sent [color=f46f0eff]{self.transfer_amt.text} R[/color] "
-                                     f"to {self.transfer_uid.text}")
-                App.r_coin = str(round(float(App.r_coin)-float(self.transfer_amt.text)/0.995, 2))
-                if App.r_coin.endswith(".0"):
-                    App.r_coin = App.r_coin[:-2]
-                self.r_coins = App.r_coin+" R"
-                self.transfer_uid.text = ""
-                self.transfer_amt.text = ""
-
-    def check_code(self):
-        if not len(self.code.text) == 19:
-            popup("error", "Invalid Code\n- Does not match format xxxx-xxxx-xxxx-xxxx")
-        elif not self.code.text[5] == "-" and self.code.text[10] == "-" and self.code.text[15] == "-":
-            popup("error", "Invalid Code\n- Does not match format xxxx-xxxx-xxxx-xxxx")
-        else:
-            s.send_e(f"CLM:{self.code.text}")
-            code_resp = s.recv_d()
-            if code_resp != "N":
-                if code_resp.startswith("R"):
-                    App.r_coin = str(round(float(App.r_coin)+float(code_resp[2:]), 2))
-                    if App.r_coin.endswith(".0"):
-                        App.r_coin = App.r_coin[:-2]
-                    self.r_coins = App.r_coin+" R"
-                    popup("success", f"Successfully claimed {code_resp[2:]} R")
-                    self.add_transaction(f"Claimed [color=f46f0eff]{code_resp[2:]} R[/color] from gift code")
-            else:
-                popup("error", "Invalid Code")
-
-    def convert_coins(self, amount_convert):
-        if amount_convert not in ["", "."]:
-            amount_convert = amount_convert[:7]
-            if "." in amount_convert:
-                if len(amount_convert.split(".")[1]) > 2:
-                    amount_convert = amount_convert[:-1]
-            if self.transfer_direction == "R":
-                amount_converted = str(round(float(amount_convert)/0.06, 2))
-            else:
-                amount_converted = str(round(float(amount_convert)*0.0585, 2))
-            if "." in amount_converted:
-                amount_converted = amount_converted[:amount_converted.index(".")+3]
-            if self.transfer_direction == "R":
-                self.coin_conversion = f"{amount_converted} R"
-            else:
-                self.coin_conversion = f"£{amount_converted}"
-        else:
-            if amount_convert == "":
-                if self.transfer_direction == "R":
-                    self.coin_conversion = "0.00 R"
-                else:
-                    self.coin_conversion = "£0.00"
-
-    def change_conversion_direction(self):
-        if self.transfer_direction == "R":
-            self.transfer_direction = "D"
-            self.direction_text = "Conversion Calculator (R->£)"
-        else:
-            self.transfer_direction = "R"
-            self.direction_text = "Conversion Calculator (£->R)"
 
 
 # screen for public chat room
-class Console(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
+class Console(DefaultScreen):
     public_room_msg_counter = 0
     public_room_inp = ObjectProperty(None)
 
@@ -672,8 +554,7 @@ class Console(Screen):
             Clock.schedule_once(lambda dt: self.add_msg(msg_author, msg_content))
 
     def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
+        self.set_coins()
         threading.Thread(target=self.msg_watch, daemon=True).start()
 
     def add_msg(self, name, text):
@@ -716,37 +597,26 @@ class Console(Screen):
 
 
 # screen for the store
-class Store(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-
+class Store(DefaultScreen):
     def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
+        self.set_coins()
 
 
-# screen for viewing inventory items
-class Inventory(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
-
+# screen for viewing mesh network
+class Mesh(DefaultScreen):
     def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
+        self.set_coins()
 
 
 # screen for changing account details and other settings
-class Settings(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
+class Settings(DefaultScreen):
     uname = StringProperty()
     uid = StringProperty()
     uname_to = ObjectProperty(None)
     n_pass = ObjectProperty(None)
 
     def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
+        self.set_coins()
         self.uname = App.uname
         self.uid = App.uid
 
@@ -773,7 +643,7 @@ class Settings(Screen):
         if len(self.n_pass.text) < 9:
             popup("error", "Password Invalid\n- Password must be at least 9 characters")
         else:
-            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, client_auth.default_salt, 50000)}")
+            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, enclib.default_salt, 50000)}")
             if s.recv_d() == "V":
                 App.path = "CHANGE_PASS"
                 App.sm.switch_to(NacPass(), direction="left")
@@ -782,15 +652,12 @@ class Settings(Screen):
 
 
 # screen for changing the colour scheme
-class ColorSettings(Screen):
-    r_coins = StringProperty()
-    d_coins = StringProperty()
+class ColorSettings(DefaultScreen):
     selected_color = None
     color_list_old = None
 
     def on_pre_enter(self, *args):
-        self.r_coins = App.r_coin+" R"
-        self.d_coins = App.d_coin+" D"
+        self.set_coins()
         self.color_list_old = App.col.copy()
 
     def select_color(self, color_name):
@@ -836,6 +703,7 @@ class ColorSettings(Screen):
             for color in App.col:
                 self.selected_color = color
                 self.change_color(App.theme[theme][color])
+
 
 # draw a circle with segments and a rotation
 def draw_circle(self, segments, rotation=0):
@@ -920,14 +788,14 @@ class App(KivyApp):
         App.popup_text = "Popup Error"
 
         # app defaults and window manager
-        Builder.load_file("bread.kv")
+        Builder.load_file("resources/bread.kv")
         App.sm = ScreenManager()
         [App.sm.add_widget(screen) for screen in [AttemptConnection(name="AttemptConnection"),
          IpSet(name="IpSet"), LogInOrSignUp(name="LogInOrSignUp"), KeyUnlock(name="KeyUnlock"),
          CreateKey(name="CreateKey"), UsbSetup(name="UsbSetup"), ReCreateKey(name="ReCreateKey"),
          ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
          LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
-         Home(name="Home"), Console(name="Console"), Store(name="Store"), Inventory(name="Inventory"),
+         Home(name="Home"), Console(name="Console"), Store(name="Store"), Mesh(name="Mesh"),
          Settings(name="Settings"), ColorSettings(name="ColorSettings")]]
 
         if version:
@@ -964,17 +832,17 @@ def reload(reason):
         if s.ip:
             s.s.close()
     App.sm.current = "Reloading"
-    Builder.unload_file("bread.kv")
+    Builder.unload_file("resources/bread.kv")
     while len(App.sm.screens) > 2:
         [App.sm.remove_widget(screen) for screen in App.sm.screens if screen.name not in ["Reloading", ""]]
     if reason == "reload":
-        Builder.load_file("bread.kv")
+        Builder.load_file("resources/bread.kv")
     [App.sm.add_widget(screen) for screen in [AttemptConnection(name="AttemptConnection"),
      IpSet(name="IpSet"), LogInOrSignUp(name="LogInOrSignUp"), KeyUnlock(name="KeyUnlock"),
      CreateKey(name="CreateKey"), UsbSetup(name="UsbSetup"), ReCreateKey(name="ReCreateKey"),
      ReCreateGen(name="ReCreateGen"), Captcha(name="Captcha"), NacPass(name="NacPass"),
      LogUnlock(name="LogUnlock"), TwoFacSetup(name="TwoFacSetup"), TwoFacLog(name="TwoFacLog"),
-     Home(name="Home"), Console(name="Console"), Store(name="Store"), Inventory(name="Inventory"),
+     Home(name="Home"), Console(name="Console"), Store(name="Store"), Mesh(name="Mesh"),
      Settings(name="Settings"), ColorSettings(name="ColorSettings")]]
     if reason == "reload":
         if current_screen == "_screen0":
@@ -984,18 +852,21 @@ def reload(reason):
 
 # app entry point
 if __name__ == "__main__":
+    if not os.path.exists("app"):
+        os.mkdir("app")
+
     if not os.path.exists("resources"):
         os.mkdir("resources")
 
     if not os.path.exists("resources/blank_captcha.png") or not os.path.exists("resources/blank_qr.png"):
         bread_kv.w_images()
 
-    if not os.path.exists("bread.kv"):
+    if not os.path.exists("resources/bread.kv"):
         bread_kv.kv()
     crash_num = 0
     while True:
         try:
-            s = client_auth.Server()
+            s = enclib.ClientSocket()
             App().run()
             break
         except Exception as e:

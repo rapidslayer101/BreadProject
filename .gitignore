@@ -5,7 +5,6 @@
 
 /BreadClient/app
 /BreadClient/resources
-/BreadClient/bread.kv
 /BreadClient/captcha.jpg
 
 /AITools/LLMServer/model_config.cfg

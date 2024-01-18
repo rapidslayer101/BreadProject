@@ -1,11 +1,11 @@
 from datetime import datetime as _datetime_, timedelta as _timedelta_
-from sys import byteorder as _byteorder_
-from time import perf_counter as _perf_counter_
-from os.path import exists as _exists_, getsize as _getsize_
-from random import choices as _choices_
-from hashlib import sha512 as _sha512_
-from zlib import compress as _compress_, decompress as _decompress_
-from multiprocessing import Pool as _Pool_, cpu_count as _cpu_count_
+import sys
+import time
+import os
+import random
+import hashlib
+import zlib
+import multiprocessing
 
 # enc 12.0.0 - CREATED BY RAPIDSLAYER101 (Scott Bree)
 _default_block_size_ = 5000000  # the chunking size
@@ -17,7 +17,7 @@ _b96set_ = _b94set_+"¬£"
 
 # generate a random base 96 string of a given length
 def rand_b96_str(num, alpha_set=_b96set_):
-    return "".join(_choices_(alpha_set, k=int(num)))
+    return "".join(random.choices(alpha_set, k=int(num)))
 
 
 # convert a string to another base
@@ -50,7 +50,7 @@ def get_base(data_to_resolve):
 def pass_to_key(password, salt, depth=1000000):
     password, salt = password.encode(), salt.encode()
     for i in range(depth):
-        password = _sha512_(password+salt).digest()
+        password = hashlib.sha512(password+salt).digest()
     return to_base(16, 96, password.hex())
 
 
@@ -58,10 +58,10 @@ def pass_to_key(password, salt, depth=1000000):
 def _xor_(data, key, xor_salt):
     key_value, key = [], key.encode()
     for i in range((len(data)//64)+1):
-        key = _sha512_(key+xor_salt).digest()
+        key = hashlib.sha512(key+xor_salt).digest()
         key_value.append(key)
     key = b"".join(key_value)[:len(data)]
-    return (int.from_bytes(data, _byteorder_) ^ int.from_bytes(key, _byteorder_)).to_bytes(len(data), _byteorder_)
+    return (int.from_bytes(data, sys.byteorder) ^ int.from_bytes(key, sys.byteorder)).to_bytes(len(data), sys.byteorder)
 
 
 def _encrypter_(enc, text, key, block_size, compressor, file_output=None):
@@ -69,15 +69,15 @@ def _encrypter_(enc, text, key, block_size, compressor, file_output=None):
         if type(text) != bytes:
             text = text.encode()
         if compressor:
-            text = _compress_(text, 9)
-        xor_salt = "".join(_choices_(_b94set_, k=_xor_salt_len_)).encode()
+            text = zlib.compress(text, 9)
+        xor_salt = "".join(random.choices(_b94set_, k=_xor_salt_len_)).encode()
     else:
         xor_salt, text = text[:_xor_salt_len_], text[_xor_salt_len_:]
     if len(text)//block_size < 11 and not file_output:
         if enc:
             return xor_salt+_xor_(text, key, xor_salt)
         elif compressor:
-            block = _decompress_(_xor_(text, key, xor_salt))
+            block = zlib.decompress(_xor_(text, key, xor_salt))
         else:
             block = _xor_(text, key, xor_salt)
         try:
@@ -105,7 +105,7 @@ def _encrypter_(enc, text, key, block_size, compressor, file_output=None):
             key = pass_to_key(key, keys_salt, 1)
             block_keys.append(key)
         print(f"Launching {len(text)} threads")
-        pool = _Pool_(_cpu_count_())
+        pool = multiprocessing.Pool(multiprocessing.cpu_count())
         result_objects = [pool.apply_async(_xor_, args=(text[x], block_keys[x], xor_salt)) for x in range(0, len(text))]
         pool.close()
         if file_output:
@@ -129,7 +129,7 @@ def _encrypter_(enc, text, key, block_size, compressor, file_output=None):
                             f.write(block.replace("\r", ""))
                 if compressor:
                     with open(f"{file_output}", "rb") as f:
-                        data = _decompress_(f.read())
+                        data = zlib.decompress(f.read())
                     with open(f"{file_output}", "wb") as f:
                         f.write(data)
             pool.join()
@@ -140,7 +140,7 @@ def _encrypter_(enc, text, key, block_size, compressor, file_output=None):
             if enc:
                 d_data = xor_salt + d_data
             elif compressor:
-                d_data = _decompress_(d_data)
+                d_data = zlib.decompress(d_data)
             try:
                 d_data = d_data.decode()
             except UnicodeDecodeError:
@@ -151,7 +151,7 @@ def _encrypter_(enc, text, key, block_size, compressor, file_output=None):
 
 # returns the file size of a file in standard units
 def get_file_size(file):
-    size, power, n = [_getsize_(file), 2 ** 10, 0]
+    size, power, n = [os.path.getsize(file), 2 ** 10, 0]
     power_labels = {0: '', 1: 'KB', 2: 'MB', 3: 'GB', 4: 'TB'}
     while size > power:
         size /= power
@@ -161,14 +161,14 @@ def get_file_size(file):
 
 # a wrapper for the encrypter function to support file encryption and decryption
 def _file_encrypter_(enc, file, key, file_output, compressor):
-    start = _perf_counter_()
-    if _exists_(file):
+    start = time.perf_counter()
+    if os.path.exists(file):
         file_name = file.split("/")[-1].split(".")[:-1]  # file_type = file.split("/")[-1].split(".")[-1:]
-        print(f"{file_name} is {get_file_size(file)}, should take {round(_getsize_(file)/136731168.599, 2)}s")
+        print(f"{file_name} is {get_file_size(file)}, should take {round(os.path.getsize(file)/136731168.599, 2)}s")
         with open(file, 'rb') as hash_file:
             data = hash_file.read()
         _encrypter_(enc, data, key, _default_block_size_, compressor, file_output)
-        print(f"ENC/DEC COMPLETE OF {get_file_size(file)} IN {round(_perf_counter_()-start, 2)}s")
+        print(f"ENC/DEC COMPLETE OF {get_file_size(file)} IN {round(time.perf_counter()-start, 2)}s")
     else:
         return "File not found"
 
@@ -216,10 +216,23 @@ def round_time(dt=None, round_to=30):
 
 # hashes a file using the SHA512 algorithm
 def hash_a_file(file):
-    hash_ = _sha512_()
+    hash_ = hashlib.sha512()
     with open(file, 'rb') as hash_file:
         buf = hash_file.read(262144)
         while len(buf) > 0:
             hash_.update(buf)
             buf = hash_file.read(262144)
     return to_base(16, 96, hash_.hexdigest())
+
+
+# todo add timeout to this function
+def drive_insert_detector(time_out=None):
+    dl = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
+    while True:  # check all possible new drives
+        now_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
+        if before_drives != now_drives:
+            try:
+                return [d for d in now_drives if d not in before_drives][0]
+            except IndexError:
+                before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]

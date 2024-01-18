@@ -126,34 +126,6 @@ kv_payload = """# You can edit this file to change the UI.
             pos_hint: {"x": 0.35, "top": 0.2}
             on_release: root.dismiss()
             
-<TransferConfirmPopup@Popup>:
-    title: "Transfer Confirmation"
-    auto_dismiss: False
-    size_hint: 0.6, 0.6
-    GreyFloatLayout:
-        Label:
-            text: app.popup_text
-            font_size: "20dp"
-            size_hint: 0.9, 0.9
-            pos_hint: {"x": 0.05, "top": 1.2}
-        RoundedButton:
-            canvas.before:
-                Color:
-                    rgba: app.col['red']
-                RoundedRectangle:
-                    size: self.size
-                    pos: self.pos
-                    radius: [10]
-            text: 'Cancel'
-            size_hint: 0.3, 0.1
-            pos_hint: {"x": 0.19, "top": 0.2}
-            on_release: root.dismiss()
-        RoundedButton:
-            text: 'Confirm'
-            size_hint: 0.3, 0.1
-            pos_hint: {"x": 0.51, "top": 0.2}
-            on_release: root.dismiss()
-            
 <SuccessPopup@Popup>:
     title: "Success"
     size_hint: 0.32, 0.27
@@ -634,13 +606,13 @@ kv_payload = """# You can edit this file to change the UI.
     size_hint: 0.14, 0.05
     pos_hint: {"x": 0.38, "top": 0.99}
     
-<InventoryButton@Button>:
-    text: "Inventory"
-    size_hint: 0.14, 0.05
-    pos_hint: {"x": 0.52, "top": 0.99}
+<MeshButton@Button>:
+    text: "GPU Mesh"
+    size_hint: 0.10, 0.05
+    pos_hint: {"x": 0.56, "top": 0.99}
     
 <SettingsButton@Button>:
-    text: "Settings"
+    text: "Settings/Info"
     size_hint: 0.11, 0.05
     pos_hint: {"x": 0.66, "top": 0.99}
     
@@ -653,9 +625,6 @@ kv_payload = """# You can edit this file to change the UI.
     pos_hint: {"x": 0.78, "top": 0.99}
             
 <Home>:
-    transfer_uid: transfer_uid
-    transfer_amt: transfer_amt
-    code: code
     GreyFloatLayout:
         HomeButton:
             disabled: True
@@ -671,10 +640,10 @@ kv_payload = """# You can edit this file to change the UI.
             #on_press: 
                 #root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
                 #root.manager.current = 'Games'
-        InventoryButton:
+        MeshButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
-                root.manager.current = 'Inventory'
+                root.manager.current = 'Mesh'
         SettingsButton:
             on_press: 
                 root.manager.transition = WipeTransition(clearcolor=app.col['bk_grey_1'])
@@ -687,40 +656,9 @@ kv_payload = """# You can edit this file to change the UI.
             size_hint: 0.32, 0.6
             pos_hint: {"x": 0.01, "top": 0.92}
         Label:
-            text: "Transfer R-Coins"
+            text: "Blank Canvas"
             size_hint: 0.1, 0.1
             pos_hint: {"x": 0.12, "top": 0.92}
-        RoundedTxtInp:
-            id: transfer_uid
-            hint_text: "Username or UID"
-            size_hint: 0.2, 0.1
-            pos_hint: {"x": 0.07, "top": 0.82}
-            on_text: self.text = self.text[:28]
-            on_text_validate: transfer_amt.focus = True
-        RoundedTxtInp
-            id: transfer_amt
-            input_filter: "float"
-            hint_text: "0.00"
-            size_hint: 0.2, 0.1
-            pos_hint: {"x": 0.07, "top": 0.67}
-            on_text: root.check_transfer()
-        Label:
-            text: f"Cost: {root.transfer_cost}R"
-            size_hint: 0.1, 0.1
-            pos_hint: {"x": 0.02, "top": 0.56}
-        Label:
-            text: f"Send: {root.transfer_send}R"
-            size_hint: 0.1, 0.1
-            pos_hint: {"x": 0.12, "top": 0.56}
-        Label:
-            text: f"Fee: {root.transfer_fee}R"
-            size_hint: 0.1, 0.1
-            pos_hint: {"x": 0.22, "top": 0.56}
-        RoundedButton:
-            text: "Transfer"
-            size_hint: 0.2, 0.1
-            pos_hint: {"x": 0.07, "top": 0.46}
-            on_press: root.transfer_coins()
         BackingLabel:
             text: root.welcome_text
             size_hint: 0.32, 0.15
@@ -737,49 +675,17 @@ kv_payload = """# You can edit this file to change the UI.
         BackingLabel:
             size_hint: 0.32, 0.13
             pos_hint: {"x": 0.34, "top": 0.15}
-        Label:
-            text: root.direction_text
-            size_hint: 0.1, 0.1
-            pos_hint: {"x": 0.45, "top": 0.17}
-        RoundedButton:
-            text: "<>"
-            size_hint: 0.04, 0.04
-            pos_hint: {"x": 0.62, "top": 0.15}
-            on_press: root.change_conversion_direction()
-        RoundedTxtInp
-            input_filter: "float"
-            hint_text: "0.00"
-            size_hint: 0.1, 0.05
-            pos_hint: {"x": 0.4, "top": 0.09}
-            on_text: root.convert_coins(self.text)
-        SizeLabel:
-            text: root.coin_conversion
-            pos_hint: {"x": 0.53, "top": 0.09}
         BackingLabel:
             size_hint: 0.32, 0.23
             pos_hint: {"x": 0.67, "top": 0.92}
         SizeLabel:
             #text: "Level 0"
-            text: "Experience"
+            text: "Blank canvas"
             pos_hint: {"x": 0.78, "top": 0.9}
         Label:
             id: level_bar
             size_hint: 0.29, 0.05
             pos_hint: {"x": 0.69, "top": 0.83}
-            canvas.before:
-                Color:
-                    rgba: app.col['link_blue']
-                RoundedRectangle:
-                    pos: self.pos
-                    size: self.size
-                    radius: [6]
-            canvas.after:
-                Color:
-                    rgba: app.col['yellow']
-                RoundedRectangle:
-                    pos: self.pos
-                    size: self.size[0]*root.level_progress[0]/root.level_progress[1], self.size[1]
-                    radius: [6]
         SizeLabel:
             id: level_bar_text
             color: (0, 0, 0, 1)
@@ -810,20 +716,8 @@ kv_payload = """# You can edit this file to change the UI.
             size_hint: 0.32, 0.29
             pos_hint: {"x": 0.01, "top": 0.31}
         SizeLabel:
-            text: "Check Code"
+            text: "Blank Canvas"
             pos_hint: {"x": 0.12, "top": 0.29}
-        RoundedTxtInp
-            id: code
-            hint_text: "XXXX-XXXX-XXXX-XXXX"
-            size_hint: 0.2, 0.1
-            pos_hint: {"x": 0.07, "top": 0.23}
-            on_text: self.text = self.text.replace(" ", "")[:19].upper()
-            on_text_validate: root.check_code()
-        RoundedButton:
-            text: "Claim"
-            size_hint: 0.16, 0.05
-            pos_hint: {"x": 0.09, "top": 0.09}
-            on_press: root.check_code()
             
 <Console>:
     public_room_inp: public_room_inp
@@ -836,8 +730,8 @@ kv_payload = """# You can edit this file to change the UI.
             on_press: root.manager.current = 'Store'
         PlaceholderButton:
             #on_press: root.manager.current = 'Games'
-        InventoryButton:
-            on_press: root.manager.current = 'Inventory'
+        MeshButton:
+            on_press: root.manager.current = 'Mesh'
         SettingsButton:
             on_press: root.manager.current = 'Settings'
         R_coin_label:
@@ -883,8 +777,8 @@ kv_payload = """# You can edit this file to change the UI.
             disabled: True
         PlaceholderButton:
             #on_press: root.manager.current = 'Games'
-        InventoryButton:
-            on_press: root.manager.current = 'Inventory'
+        MeshButton:
+            on_press: root.manager.current = 'Mesh'
         SettingsButton:
             on_press: root.manager.current = 'Settings'
         R_coin_label:
@@ -902,8 +796,8 @@ kv_payload = """# You can edit this file to change the UI.
             on_press: root.manager.current = 'Store'
         PlaceholderButton:
             disabled: True
-        InventoryButton:
-            on_press: root.manager.current = 'Inventory'
+        MeshButton:
+            on_press: root.manager.current = 'Mesh'
         SettingsButton:
             on_press: root.manager.current = 'Settings'
         R_coin_label:
@@ -922,7 +816,7 @@ kv_payload = """# You can edit this file to change the UI.
             size_hint: 0.16, 0.3
             pos_hint: {"x": 0.03, "top": 0.85}
             
-<Inventory>:
+<Mesh>:
     GreyFloatLayout:
         HomeButton:
             on_press: root.manager.current = 'Home'
@@ -932,7 +826,7 @@ kv_payload = """# You can edit this file to change the UI.
             on_press: root.manager.current = 'Store'
         PlaceholderButton:
             #on_press: root.manager.current = 'Games'
-        InventoryButton:
+        MeshButton:
             disabled: True
         SettingsButton:
             on_press: root.manager.current = 'Settings'
@@ -941,7 +835,7 @@ kv_payload = """# You can edit this file to change the UI.
         D_coin_label:
             text: root.d_coins
         Label:
-            text: "Inventory (Coming Soon)"
+            text: "GPU Mesh Network (Coming Soon)"
             size_hint: 0.3, 0.1
             pos_hint: {"x": 0.35, "top": 0.7}
             
@@ -957,8 +851,8 @@ kv_payload = """# You can edit this file to change the UI.
             on_press: root.manager.current = 'Store'
         PlaceholderButton:
             #on_press: root.manager.current = 'Games'
-        InventoryButton:
-            on_press: root.manager.current = 'Inventory'
+        MeshButton:
+            on_press: root.manager.current = 'Mesh'
         SettingsButton:
             disabled: True
         R_coin_label:
@@ -1346,7 +1240,7 @@ kv_payload = """# You can edit this file to change the UI.
 
 
 def kv():
-    with open("bread.kv", "w", encoding="utf-8") as f:
+    with open("resources/bread.kv", "w", encoding="utf-8") as f:
         f.write(kv_payload)
 
 
