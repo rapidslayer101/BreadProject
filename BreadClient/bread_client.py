@@ -523,6 +523,7 @@ class Console(DefaultScreen):
 
     def on_pre_enter(self, *args):
         self.set_coins()
+        self.ids.public_room_inp.focus = True
         threading.Thread(target=self.msg_watch, daemon=True).start()
 
     def add_msg(self, name, text):
@@ -600,21 +601,14 @@ class Settings(DefaultScreen):
         self.uid = App.uid
 
     def change_name(self):
-        if float(App.d_coin) < 5:
-            popup("error", "Insufficient Funds\n- You require 5 D to change your username")
-        elif 4 < len(self.uname_to.text) < 25:
+        if 4 < len(self.uname_to.text) < 25:
             s.send_e(f"CUN:{self.uname_to.text}")
             new_uname = s.recv_d()
             if new_uname != "N":
                 App.uname = new_uname
                 self.uname = App.uname
-                App.d_coin = str(round(float(App.d_coin)-5, 2))
-                if App.d_coin.endswith(".0"):
-                    App.d_coin = App.d_coin[:-2]
-                self.d_coins = App.d_coin+" D"
                 popup("success", f"Username changed to {self.uname}")
-                App.request_hist.append(f"Spent [color=#16c2e1ff]5 D[/color] to change username to "
-                                        f"[color=#14e42aff]{self.uname}[/color]")
+                App.request_hist.append(f"Changed username to [color=#14e42aff]{self.uname}[/color]")
         else:
             popup("error", "Invalid Username\n- Username must be between 5 and 24 characters")
 

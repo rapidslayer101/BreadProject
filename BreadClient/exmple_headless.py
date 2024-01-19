@@ -12,5 +12,6 @@ s.send_e("CON")
 
 # Example of receiving a response from the server
 print(s.recv_d())  # returns server response "SERVER🱫V"
+input()
 
 

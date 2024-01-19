@@ -1,7 +1,8 @@
 import os
-import multiprocessing
+#import multiprocessing
+import time
 
-print(multiprocessing.cpu_count())
+#print(multiprocessing.cpu_count())
 
 model_configs = {"TheBloke/LLaMA-Pro-8B-Instruct-GGUF/llama-pro-8b-instruct.Q8_0.gguf":
                      {"model_alias": "llama-pro", "chat_format": "chatml", "n_gpu_layers": 35, "offload_kqv": "true",
@@ -22,19 +23,22 @@ model_configs = {"TheBloke/LLaMA-Pro-8B-Instruct-GGUF/llama-pro-8b-instruct.Q8_0
 
 loaded_models = []
 
-if not os.path.exists("models/"):
-    os.mkdir("models/")
+if not os.path.exists("AITools/LLMServer/models/"):
+    os.mkdir("AITools/LLMServer/models/")
 
-for directory in os.listdir("models/"):
-    models = os.listdir(f"models/{directory}")
+for directory in os.listdir("AITools/LLMServer/models/"):
+    models = os.listdir(f"AITools/LLMServer/models/{directory}")
     for model in models:
-        for variant in os.listdir(f"models/{directory}/{model}"):
+        for variant in os.listdir(f"AITools/LLMServer/models/{directory}/{model}"):
             loaded_models.append(f"{directory}/{model}/{variant}")
 
+valid_models = []
 model_configs_string = ""
 for model in loaded_models:
     if model in list(model_configs.keys()):
-        model_configs[model]["model_path"] = f"models/{model}"
+        print(f"Valid model: {model}")
+        valid_models.append(model)
+        model_configs[model]["model_path"] = f"AITools/LLMServer/models/{model}"
         model_configs_string += str(model_configs[model])+",\n"
     else:
         print(f"Invalid model: {model}")
@@ -45,5 +49,8 @@ model_configs = """{
     "port": 8080,
     "models": [\n"""+model_configs_string+"]"+"""}"""
 
-with open("LLMServer/model_config.cfg", "w", encoding="utf-8") as f:
+with open("AITools/LLMServer/model_config.cfg", "w", encoding="utf-8") as f:
     f.write(str(model_configs))
+
+print(f"Wrote model config for {len(valid_models)} models.")
+time.sleep(3)

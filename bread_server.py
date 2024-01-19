@@ -1,7 +1,6 @@
 import sqlite3
 import enclib
 import time
-import os
 import rsa
 import zlib
 import socket
@@ -18,9 +17,9 @@ class InvalidClientData(Exception):
     pass
 
 
-# class containing data for logged in users
-class Users:
-    logged_in_users = []
+# class containing data for logged in clients
+class Clients:
+    logged_in_clients = []
     uid_keys = {}
 
     def __init__(self):
@@ -31,14 +30,14 @@ class Users:
                         "last_online DATE NOT NULL, level FLOAT NOT NULL, r_coin FLOAT NOT NULL, d_coin FLOAT NOT NULL)")
 
     def login(self, u_id, ip, enc_key):
-        self.logged_in_users.append(u_id)
-        self.logged_in_users.append(ip)
+        self.logged_in_clients.append(u_id)
+        self.logged_in_clients.append(ip)
         self.uid_keys.update({u_id: enc_key})
 
     def logout(self, u_id, ip):
         try:
-            self.logged_in_users.pop(self.logged_in_users.index(u_id))
-            self.logged_in_users.pop(self.logged_in_users.index(ip))
+            self.logged_in_clients.pop(self.logged_in_clients.index(u_id))
+            self.logged_in_clients.pop(self.logged_in_clients.index(ip))
             self.uid_keys.pop(u_id)
             self.db.execute("UPDATE users SET last_online = ? WHERE user_id = ?", (str(datetime.now())[:-7], u_id))
             self.db.commit()
@@ -61,25 +60,22 @@ class Users:
         #                                              f" 350 D bonus", uid)]])
 
     def check_logged_in(self, uid, ip):
-        if uid in self.logged_in_users:
+        if uid in self.logged_in_clients:
             return True
-        elif ip in self.logged_in_users:
+        elif ip in self.logged_in_clients:
             return True
         else:
             return False
 
 
-def add_action(uid, t_type, amount, spent, desc):
+def add_action(direction, uid, t_type, amount, change):
     pass
     # todo move to database
-    #with open(f"users/{uid}/transactions.csv", "r", encoding="utf-8") as csv:
-    #    prev_hash = list(reader(csv))[-1][5]
     #with open(f"users/{uid}/transactions.csv", "a", newline='', encoding="utf-8") as csv:
-    #    writer(csv).writerow([str(datetime.now())[:-7], t_type, amount, spent, desc, enclib.pass_to_key(
-    #        f"{str(datetime.now())[:-7]}{t_type}{amount}{spent}{desc}", prev_hash)])
+    #    writer(csv).writerow([str(datetime.now())[:-7], t_type, amount, spent, desc)
 
 
-users = Users()
+clients = Clients()
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 s.bind(('', 30678))
@@ -163,7 +159,7 @@ def client_connection(cs):
                     while True:  # create random unique user id
                         uid = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ", k=8))
                         u_name = uid+"#"+str(random.randint(111, 999))
-                        if users.db.execute("SELECT user_id FROM users WHERE user_id = ?", (uid,)).fetchone() is None:
+                        if clients.db.execute("SELECT user_id FROM users WHERE user_id = ?", (uid,)).fetchone() is None:
                             break
                     u_secret = "".join(random.choices("0123456789ABCDEFGHIJKLMNOPQRSTUVWXY"
                                                       "abcdefghijklmnopqrstuvwxyz", k=8))
@@ -177,7 +173,7 @@ def client_connection(cs):
                             ipk = enclib.rand_b96_str(24)
                             send_e(enclib.enc_from_pass(ipk, u_pass[:40], u_pass[40:]))
                             send_e(f"{u_name}🱫0🱫0🱫0")
-                            users.add_user(uid, master_key, u_secret, u_pass,
+                            clients.add_user(uid, master_key, u_secret, u_pass,
                                            enclib.pass_to_key(ip+ipk, uid), u_name)
                             break
 
@@ -188,7 +184,7 @@ def client_connection(cs):
                     master_key_c, search_for, uname_or_uid = login_request[4:].split("🱫")
                     if search_for == "u":
                         try:
-                            uid, master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = users.db.execute(
+                            uid, master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = clients.db.execute(
                                 "SELECT user_id, master_key, secret, user_pass, username, level, r_coin, d_coin "
                                 "FROM users WHERE username = ?", (uname_or_uid,)).fetchone()
                         except TypeError:
@@ -197,7 +193,7 @@ def client_connection(cs):
                     else:
                         try:
                             uid = uname_or_uid
-                            master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = users.db.execute(
+                            master_key, u_secret, u_pass, u_name, level, r_coin, d_coin = clients.db.execute(
                                 "SELECT master_key, secret, user_pass, username, level, r_coin, d_coin "
                                 "FROM users WHERE user_id = ?", (uname_or_uid,)).fetchone()
                         except TypeError:
@@ -227,7 +223,7 @@ def client_connection(cs):
                                 else:
                                     break
                             send_e(f"{u_name}🱫{level}🱫{r_coin}🱫{d_coin}")
-                            ipk1, ipk2, ipk3 = users.db.execute(
+                            ipk1, ipk2, ipk3 = clients.db.execute(
                                 "SELECT ipk1, ipk2, ipk3 FROM users WHERE user_id = ?",
                                 (uid,)).fetchone()  # get ip keys from db
 
@@ -240,29 +236,29 @@ def client_connection(cs):
                                     oldest_ipk = "2"
                                 if oldest_ipk_d > datetime.strptime(ipk3.split("🱫")[1], "%Y-%m-%d %H:%M:%S"):
                                     oldest_ipk = "3"
-                                users.db.execute("UPDATE users SET ipk" + oldest_ipk + " = ? WHERE user_id = ?",
+                                clients.db.execute("UPDATE users SET ipk" + oldest_ipk + " = ? WHERE user_id = ?",
                                                  (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
                             elif not ipk1:  # save to empty ip key
-                                users.db.execute("UPDATE users SET ipk1 = ? WHERE user_id = ?",
+                                clients.db.execute("UPDATE users SET ipk1 = ? WHERE user_id = ?",
                                                  (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
                             elif not ipk2:
-                                users.db.execute("UPDATE users SET ipk2 = ? WHERE user_id = ?",
+                                clients.db.execute("UPDATE users SET ipk2 = ? WHERE user_id = ?",
                                                  (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
                             elif not ipk3:
-                                users.db.execute("UPDATE users SET ipk3 = ? WHERE user_id = ?",
+                                clients.db.execute("UPDATE users SET ipk3 = ? WHERE user_id = ?",
                                                  (enclib.pass_to_key(ip+ipk, uid)+"🱫"+expiry_time, uid))
-                            users.db.commit()
+                            clients.db.commit()
                             break
 
             elif login_request.startswith("ULK:"):  # unlock account
                 uid, ipk = login_request[4:].split("🱫")
                 print(uid, ipk)
-                if users.check_logged_in(uid, ip):
+                if clients.check_logged_in(uid, ip):
                     send_e("SESH_T")
                 else:
                     try:
                         ipk1, ipk2, ipk3, u_name, level, r_coin, d_coin = \
-                            users.db.execute("SELECT ipk1, ipk2, ipk3, username, level, r_coin, "
+                            clients.db.execute("SELECT ipk1, ipk2, ipk3, username, level, r_coin, "
                                              "d_coin FROM users WHERE user_id = ?", (uid,)).fetchone()
                     except ValueError:
                         send_e("N")  # User ID not found
@@ -295,32 +291,32 @@ def client_connection(cs):
             else:
                 raise InvalidClientData
 
-        users.login(uid, ip, enc_key)
+        clients.login(uid, ip, enc_key)
         print(f"{uid} logged in with IP-{ip}:{port}")
         while True:  # main loop
             request = recv_d()
             print(request)  # temp debug for dev
 
             if request.startswith("LOGOUT_ALL"):  # deletes all IP keys
-                users.db.execute("UPDATE users SET ipk1 = ?, ipk2 = ?, ipk3 = ? WHERE user_id = ?",
+                clients.db.execute("UPDATE users SET ipk1 = ?, ipk2 = ?, ipk3 = ? WHERE user_id = ?",
                                  (None, None, None, uid))
                 raise ConnectionResetError
 
             if request.startswith("LOGOUT"):  # deletes current IP key
-                ipk1, ipk2, ipk3 = users.db.execute("SELECT ipk1, ipk2, ipk3 FROM users WHERE user_id = ?",
+                ipk1, ipk2, ipk3 = clients.db.execute("SELECT ipk1, ipk2, ipk3 FROM users WHERE user_id = ?",
                                                      (uid,)).fetchone()
                 if ipk1:
                     if ipk == ipk1.split("🱫")[0]:
-                        users.db.execute("UPDATE users SET ipk1 = ? WHERE user_id = ?", (None, uid))
-                        users.db.commit()
+                        clients.db.execute("UPDATE users SET ipk1 = ? WHERE user_id = ?", (None, uid))
+                        clients.db.commit()
                 if ipk2:
                     if ipk == ipk2.split("🱫")[0]:
-                        users.db.execute("UPDATE users SET ipk2 = ? WHERE user_id = ?", (None, uid))
-                        users.db.commit()
+                        clients.db.execute("UPDATE users SET ipk2 = ? WHERE user_id = ?", (None, uid))
+                        clients.db.commit()
                 if ipk3:
                     if ipk == ipk3.split("🱫")[0]:
-                        users.db.execute("UPDATE users SET ipk3 = ? WHERE user_id = ?", (None, uid))
-                        users.db.commit()
+                        clients.db.execute("UPDATE users SET ipk3 = ? WHERE user_id = ?", (None, uid))
+                        clients.db.commit()
                 raise ConnectionResetError
 
             #elif request.startswith("DLAC:"):  # todo delete account
@@ -329,8 +325,8 @@ def client_connection(cs):
             elif request.startswith("CUP:"):  # change user password
                 u_pass_c = request[4:]
                 try:
-                    u_pass, u_secret = users.db.execute("SELECT user_pass, secret FROM users WHERE user_id = ?",
-                                                        (uid,)).fetchone()
+                    u_pass, u_secret = clients.db.execute("SELECT user_pass, secret FROM users WHERE user_id = ?",
+                                                          (uid,)).fetchone()
                     if enclib.pass_to_key(u_pass_c, uid) != u_pass:
                         send_e("N")
                     else:
@@ -346,45 +342,40 @@ def client_connection(cs):
                                 break
                         n_ipk = enclib.rand_b96_str(24)
                         expiry_time = str(datetime.now()+timedelta(days=14))[:-7]
-                        users.db.execute("UPDATE users SET secret = ?, user_pass = ?, ipk1 = ?, ipk2 = ?, ipk3 = ? "
-                                         "WHERE user_id = ?", (enclib.enc_from_key(u_secret, n_u_pass),
-                                                               enclib.pass_to_key(n_u_pass, uid),
-                                                               enclib.pass_to_key(ip+n_ipk, uid)+"🱫"+expiry_time,
-                                                               None, None, None, uid))
-                        users.db.commit()
+                        clients.db.execute("UPDATE users SET secret = ?, user_pass = ?, ipk1 = ?, ipk2 = ?, ipk3 = ? "
+                                           "WHERE user_id = ?", (enclib.enc_from_key(u_secret, n_u_pass),
+                                                                 enclib.pass_to_key(n_u_pass, uid),
+                                                                 enclib.pass_to_key(ip+n_ipk, uid)+"🱫"+expiry_time,
+                                                                 None, None, None, uid))
+                        clients.db.commit()
                         send_e(enclib.enc_from_pass(n_ipk, n_u_pass[:40], n_u_pass[40:]))
                 except sqlite3.OperationalError:
                     send_e("N")
 
             # todo fix code
             elif request.startswith("CUN:"):  # change username
-                if d_coin < 5:
+                n_u_name = request[4:]
+                if not 4 < len(n_u_name) < 25:
                     raise InvalidClientData
-                else:
-                    n_u_name = request[4:]
-                    if not 4 < len(n_u_name) < 25:
-                        raise InvalidClientData
-                    if "#" in n_u_name or "  " in n_u_name:
-                        raise InvalidClientData
-                    counter = 0
-                    while True:
-                        counter += 1
-                        n_u_name_i = n_u_name+"#"+str(random.randint(111, 999))
-                        try:
-                            if users.db.execute("SELECT * FROM users WHERE username = ?",
-                                                (n_u_name_i,)).fetchone() is None:
-                                d_coin = round(d_coin-5, 2)
-                                users.db.execute("UPDATE users SET username = ?, d_coin = ? WHERE user_id = ?",
-                                                 (n_u_name_i, d_coin, uid))
-                                users.db.commit()
-                                #add_action(uid, "CUN", 0, 5, f"Changed u_name to {n_u_name_i}")
-                                send_e(n_u_name_i)
-                                u_name = n_u_name_i
-                                break
-                        except sqlite3.OperationalError:
-                            if counter == 10:
-                                send_e("N")
-                                break
+                if "#" in n_u_name or "  " in n_u_name:
+                    raise InvalidClientData
+                counter = 0
+                while True:
+                    counter += 1
+                    n_u_name_i = n_u_name+"#"+str(random.randint(111, 999))
+                    try:
+                        if clients.db.execute("SELECT * FROM users WHERE username = ?",
+                                              (n_u_name_i,)).fetchone() is None:
+                            clients.db.execute("UPDATE users SET username = ? WHERE user_id = ?",
+                                               (n_u_name_i, uid))
+                            clients.db.commit()
+                            send_e(n_u_name_i)
+                            u_name = n_u_name_i
+                            break
+                    except sqlite3.OperationalError:
+                        if counter == 10:
+                            send_e("N")
+                            break
 
             # todo conversation with server
             elif request.startswith("CON"):  # join public chat
@@ -397,12 +388,12 @@ def client_connection(cs):
 
     except ConnectionResetError:  # client disconnection exception handler
         print(f"{uid}-{ip}:{port} DC")
-        if ip in users.logged_in_users:
-            users.logout(uid, ip)
+        if ip in clients.logged_in_clients:
+            clients.logout(uid, ip)
     except InvalidClientData:  # invalid client data exception handler
         print(f"{uid}-{ip}:{port} DC - modified/invalid client request")  # todo log invalid requests
-        if ip in users.logged_in_users:
-            users.logout(uid, ip)
+        if ip in clients.logged_in_clients:
+            clients.logout(uid, ip)
 
 
 while True:  # connection accept loop

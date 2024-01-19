@@ -884,10 +884,6 @@ kv_payload = """# You can edit this file to change the UI.
             text: f"Tag: {root.uname[-4:]}"
             pos_hint: {"x": 0.22, "top": 0.82}
         SizeLabel:
-            text: "Changing your name will cost 5 D"
-            font_size: "10dp"
-            pos_hint: {"x": 0.1, "top": 0.78}
-        SizeLabel:
             text: f"UID: {root.uid}"
             pos_hint: {"x": 0.14, "top": 0.73}
         SizeLabel:
