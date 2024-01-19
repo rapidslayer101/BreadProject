@@ -804,17 +804,6 @@ kv_payload = """# You can edit this file to change the UI.
             text: root.r_coins
         D_coin_label:
             text: root.d_coins
-        RoundedBackingButton:
-            size_hint: 0.2, 0.4
-            pos_hint: {"x": 0.01, "top": 0.92}
-            on_press: root.manager.current = 'Spinner'
-        SizeLabel:
-            text: "Spin2Win"
-            pos_hint: {"x": 0.06, "top": 0.91}
-        AsyncImage:
-            source: "https://purepng.com/public/uploads/large/purepng.com-gold-coingoldatomic-number-79chemical-elementgroup-11-elementaurumgold-dustprecious-metalgold-coins-1701528977728s2dcq.png"
-            size_hint: 0.16, 0.3
-            pos_hint: {"x": 0.03, "top": 0.85}
             
 <Mesh>:
     GreyFloatLayout:

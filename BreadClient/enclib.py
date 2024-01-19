@@ -290,6 +290,7 @@ def drive_insert_detector(time_out=None):
                 return [d for d in now_drives if d not in before_drives][0]
             except IndexError:
                 before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
+        time.sleep(0.1)
 
 
 # server class containing connection algorithm and data transfer functions

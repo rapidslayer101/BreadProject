@@ -33,6 +33,7 @@ class Clients:
         self.logged_in_clients.append(u_id)
         self.logged_in_clients.append(ip)
         self.uid_keys.update({u_id: enc_key})
+        print(self.logged_in_clients, self.uid_keys)
 
     def logout(self, u_id, ip):
         try:
@@ -52,12 +53,6 @@ class Clients:
                         enclib.pass_to_key(u_pass, uid), ipk+"🱫"+expiry_time, None,
                         None, username, now, 99, 0, 0))
         self.db.commit()
-        # todo move to database
-        #with open(f"users/{uid}/transactions.csv", "w", newline='', encoding="utf-8") as csv:
-        #    writer(csv).writerows([["Date", "Type", "Amount", "Spent", "Description", "Hash"],
-        #                          [str(datetime.now())[:-7], "NACD", "350", "0", "New account 350 D bonus",
-        #                           enclib.pass_to_key(f"{str(datetime.now())[:-7]}NACD3500New account"
-        #                                              f" 350 D bonus", uid)]])
 
     def check_logged_in(self, uid, ip):
         if uid in self.logged_in_clients:

@@ -62,7 +62,8 @@
 0.62 reworking into BreadClient, rewriting
 0.63 BreadClient Headless now available
 
-0.xx commenting work, abstraction
+0.64 Device profiling, server classes, 1 liner cmd client download
+0.xx AI functions
 
 known issues:
 - check values for transfers and bets are actually 2dp server side
@@ -73,7 +74,6 @@ known issues:
 
 - public chat text on the left not centre
 - linux support
-- check for rounding errors in transfers
 - ip_key expired removal as well as dealing with other invalid keys
 - connection rate limit and checks for entire login paths
 - asynchronous server << not likely to happen due to complexity
@@ -84,21 +84,3 @@ known issues:
 # -> set master key and password
 # master key + 2fa = ip key enc
 # ip key + password = login
-
-
-gitignores for BreadClient:
-userdata
-users
-bread.kv
-dist
-build
-captcha.jpg
-secret_qr.png
-rdisc_server.db
-rdisc.spec
-bin
-resources
-app
-.idea
-password.txt
-color_scheme.txt

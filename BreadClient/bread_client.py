@@ -169,7 +169,6 @@ class CreateKey(Screen):
 
     def generate_master_key(self, master_key, salt, depth_time, current_depth=0):
         App.mkey, App.pin_code = enclib.generate_master_key(master_key, salt, depth_time, current_depth, self)
-        print(App.mkey)
 
     def on_pre_enter(self, *args):
         App.path = "make"
@@ -200,20 +199,9 @@ class UsbSetup(Screen):
     usb_text = StringProperty()
     skip_text = StringProperty()
 
-    def check_usb(self):  # todo linux version
-        dl = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
-        while True:
-            now_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
-            if before_drives != now_drives:
-                try:
-                    new_drive = [d for d in now_drives if d not in before_drives][0]
-                    break
-                except IndexError:
-                    before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
-            time.sleep(0.1)
-        App.new_drive = new_drive
-        self.usb_text = f"USB detected at {new_drive}\n" \
+    def detect_usb(self):  # todo linux version
+        App.new_drive = enclib.drive_insert_detector()
+        self.usb_text = f"USB detected at {App.new_drive}\n" \
                         f"Do not unplug USB until your account is created and you are on the home screen"
         self.skip_text = "Continue"
 
@@ -221,7 +209,7 @@ class UsbSetup(Screen):
         self.usb_text = "Detecting USB drive....\nPlease connect your USB drive\n" \
                         "(If it is already connected please disconnect and reconnect it)"
         self.skip_text = "Skip USB setup"
-        threading.Thread(target=self.check_usb, daemon=True).start()
+        threading.Thread(target=self.detect_usb, daemon=True).start()
 
 
 # screen to collect data for regenerate master key
@@ -240,17 +228,7 @@ class ReCreateKey(Screen):
             self.name_or_uid.text, self.pass_code.text, self.pin_code.text = f.read().split("🱫")
 
     def detect_usb(self):
-        dl = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
-        while True:  # check all possible new drives
-            now_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
-            if before_drives != now_drives:
-                try:
-                    new_drive = [d for d in now_drives if d not in before_drives][0]
-                    break
-                except IndexError:
-                    before_drives = [f"{d}:\\" for d in dl if os.path.exists(f"{d}:\\")]
-            time.sleep(0.1)
+        new_drive = enclib.drive_insert_detector()
         self.load_text = "USB loaded"
         self.drive = new_drive
         Clock.schedule_once(lambda dt: self.load_data())
@@ -292,7 +270,8 @@ class ReCreateGen(Screen):
     def on_enter(self, *args):
         self.gen_left_text = f"Generating master key"
         threading.Thread(target=self.regenerate_master_key, args=(App.pass_code[:6].encode(),
-               App.pass_code[6:].encode(), int(enclib.to_base(36, 10, App.pin_code)),), daemon=True).start()
+                         App.pass_code[6:].encode(), int(enclib.to_base(36, 10, App.pin_code)),),
+                         daemon=True).start()
 
 
 # screen to verify a captcha
@@ -309,10 +288,10 @@ class Captcha(Screen):
 
     def get_captcha(self):
         image = s.recv_d(32768)  # todo remove the need for a file
-        with open('captcha.jpg', 'wb') as f:
+        with open('resources/captcha.jpg', 'wb') as f:
             f.write(image)
         self.captcha_prompt_text = f"Enter the text below"
-        self.ids.captcha_image.source = 'captcha.jpg'
+        self.ids.captcha_image.source = 'resources/captcha.jpg'
 
     def try_captcha(self):
         if len(self.captcha_inp.text) == 10:
@@ -518,7 +497,6 @@ class Console(DefaultScreen):
     def msg_watch(self):  # look for new messages
         while True:
             msg_author, msg_content = s.recv_d().split("🱫")
-            print(msg_author, msg_content)
             Clock.schedule_once(lambda dt: self.add_msg(msg_author, msg_content))
 
     def on_pre_enter(self, *args):
@@ -752,7 +730,7 @@ class App(KivyApp):
 
     t_and_c = bread_kv.t_and_c()
     request_hist = []
-    mkey, ipk, pass_code, pin_code = None, None, None, None
+    sm, mkey, ipk, pass_code, pin_code, acc_key = None, None, None, None, None, None
     path, reload_text, popup, popup_text, new_drive = None, "", None, "Popup Error", None
     uname, level, r_coin, d_coin = None, 99, None, None
 
@@ -786,7 +764,7 @@ def on_keyboard(window, key, scancode, text, modifiers):
     if 'ctrl' in modifiers and text == 'x':
         App.get_running_app().stop()
     if 'ctrl' in modifiers and text == 'c':
-        App.stop()  # Forces a crash
+        App.stop(App.get_running_app())  # Forces a crash
     if App.popup and key == 8:
         App.popup.dismiss()
         App.popup = None
