@@ -61,15 +61,15 @@
 0.61 coinflip improvements
 0.62 reworking into BreadClient, rewriting
 0.63 BreadClient Headless now available
+0.64 Server classes, 1 liner cmd client download
 
-0.64 Device profiling, server classes, 1 liner cmd client download
-0.xx AI functions
+0.65 Device profiling, request level handling
+0.6x AI functions
 
 known issues:
-- check values for transfers and bets are actually 2dp server side
 - redrawn canvas does not move when UI resized
 - after a crash reload the app cannot be closed with cntl+x and color reloads don't work
-- cannot change password straight after making account
+- cannot change password straight after making account << might be fixed now, todo test, as well as try CON on NAC
 - crash text does not show, neither do crash loops
 
 - public chat text on the left not centre
