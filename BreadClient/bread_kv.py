@@ -823,10 +823,32 @@ kv_payload = """# You can edit this file to change the UI.
             text: root.r_coins
         D_coin_label:
             text: root.d_coins
+        BackingLabel:
+            size_hint: 0.5, 0.88
+            pos_hint: {"x": 0.25, "top": 0.9}
         Label:
-            text: "GPU Mesh Network (Coming Soon)"
+            text: "Loaded models {root.loaded_models()}"
+            size_hint: 0.3, 0.1
+            pos_hint: {"x": 0.35, "top": 0.9}
+             
+<MeshConsent>:
+    GreyFloatLayout:
+        Label:
+            text: "GPU Mesh Network Consent"
+            size_hint: 0.3, 0.1
+            pos_hint: {"x": 0.35, "top": 0.9}
+        SizeLabel:
+            text: root.mesh_consent_text
             size_hint: 0.3, 0.1
             pos_hint: {"x": 0.35, "top": 0.7}
+        RoundedButton:
+            text: "Accept"
+            pos_hint: {"x": 0.35, "top": 0.42}
+            on_press: root.on_consent()
+        RoundedButton:
+            text: "Decline"
+            pos_hint: {"x": 0.35, "top": 0.3}
+            on_press: root.manager.current = 'Home'
             
 <Settings>:
     uname_to: uname_to

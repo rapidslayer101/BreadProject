@@ -33,7 +33,6 @@ class Clients:
         self.logged_in_clients.append(u_id)
         self.logged_in_clients.append(ip)
         self.uid_keys.update({u_id: enc_key})
-        print(self.logged_in_clients, self.uid_keys)
 
     def logout(self, u_id, ip):
         try:
@@ -102,14 +101,12 @@ class ClientLogin:
         self.enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
         self.login_loop()
 
-    @catch_exception
     def send_e(self, text):  # encrypt and send to client
         try:
             self.cs.send(enclib.enc_from_key(text, self.enc_key))
         except zlib.error:
             raise ConnectionResetError
 
-    @catch_exception
     def recv_d(self, buf_lim=1024):  # decrypt data from client
         try:
             return enclib.dec_from_key(self.cs.recv(buf_lim), self.enc_key)
@@ -129,6 +126,9 @@ class ClientLogin:
             if valid_version:
                 self.send_e(valid_version)
                 print("Client Connection --- Version:", self.version, tme_, bld_num_, run_num_)
+            elif self.ip == "127.0.0.1":  # allows local testing
+                self.send_e("VX.X.X.X")
+                print("Headless Connection")
             else:
                 print("Client Connection --- Invalid Version")
                 raise InvalidClientData
@@ -323,6 +323,8 @@ class Client(ClientLogin):
         print(f"{self.uid} logged in with IP-{self.ip}:{self.port}")
         while True:  # main loop
             request = self.recv_d()
+            if not request:
+                break
             print(request)  # temp debug for dev
             if request.startswith("LOGOUT_ALL"):  # deletes all IP keys
                 clients.db.execute("UPDATE users SET ipk1 = ?, ipk2 = ?, ipk3 = ? WHERE user_id = ?",
@@ -414,6 +416,14 @@ class Client(ClientLogin):
                 time.sleep(3)
                 self.send_e("SERVER🱫completed task")
                 self.add_action("REQ:CON", self.uid, "Posted CON in chat", 1)
+
+            elif request.startswith("GET"):
+                if request == "GET:DebugTool":
+                    if self.level < 10:  # todo choose permission level
+                        self.send_e("V")
+                        # todo send debug tool
+                    else:
+                        self.send_e("N")
 
     @staticmethod
     def add_action(t_type, uid, desc, change):
