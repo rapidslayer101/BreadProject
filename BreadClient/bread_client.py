@@ -572,9 +572,7 @@ class Mesh(DefaultScreen):
             tool = True
         except ModuleNotFoundError:
             s.send_e("GET:DebugTool")
-            if s.recv_d() == "V":
-                with open("DebugTool.py", "wb") as f:
-                    f.write(s.recv_d())
+            if s.recv_file():
                 import DebugTool
                 tool = True
             else:
@@ -587,7 +585,7 @@ class Mesh(DefaultScreen):
                 self.GPU = DebugTool.get_best_accelerator()
 
             if self.GPU['manufacturer'] == "NVIDIA":
-                if not DebugTool._check_cuda_toolkit():
+                if not DebugTool.check_cuda_toolkit():
                     print("CUDA Toolkit not found")
                     App.sm.switch_to(MeshConsent(), direction="left")
                 try:
@@ -880,19 +878,19 @@ if __name__ == "__main__":
     bread_kv.kv()
     crash_num = 0
     while True:
-        try:
-            s = enclib.ClientSocket()
-            App().run()
+        #try:
+        s = enclib.ClientSocket()
+        App().run()
+        break
+        #except Exception as e:
+        if "App.stop() missing 1 required positional argument: 'self'" in str(e):
+            print("Crash forced by user.")
+        else:
+            crash_num += 1
+            print(f"Error {crash_num} caught: {e}")
+        if crash_num == 5:
+            print("Crash loop detected, exiting app in 3 seconds...")
+            time.sleep(3)
             break
-        except Exception as e:
-            if "App.stop() missing 1 required positional argument: 'self'" in str(e):
-                print("Crash forced by user.")
-            else:
-                crash_num += 1
-                print(f"Error {crash_num} caught: {e}")
-            if crash_num == 5:
-                print("Crash loop detected, exiting app in 3 seconds...")
-                time.sleep(3)
-                break
-            else:
-                reload("crash")
+        else:
+            reload("crash")

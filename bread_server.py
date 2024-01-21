@@ -8,6 +8,7 @@ import random
 import requests
 import threading
 import csv
+import os
 from datetime import datetime, timedelta
 from captcha.image import ImageCaptcha
 
@@ -112,6 +113,17 @@ class ClientLogin:
             return enclib.dec_from_key(self.cs.recv(buf_lim), self.enc_key)
         except zlib.error:
             raise ConnectionResetError
+
+    def send_file(self, path):  # send update to client
+        file = path.split("/")[-1]
+        self.send_e(f"{file}🱫{(os.path.getsize(f'{path}'))}")
+        with open(f"{path}", "rb") as f:
+            while True:
+                bytes_read = f.read(32768)
+                if not bytes_read:
+                    self.send_e(b"_BREAK_")
+                    break
+                self.send_e(bytes_read)
 
     @catch_exception
     def login_loop(self):
@@ -420,8 +432,7 @@ class Client(ClientLogin):
             elif request.startswith("GET"):
                 if request == "GET:DebugTool":
                     if self.level < 10:  # todo choose permission level
-                        self.send_e("V")
-                        # todo send debug tool
+                        self.send_file("AISDK-temp/DebugTool.py")
                     else:
                         self.send_e("N")
 
