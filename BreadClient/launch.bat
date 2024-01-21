@@ -4,19 +4,19 @@ if not exist BreadClient\ (
 )
 cd BreadClient
 if not exist bread_client.py (
-  curl https://raw.githubusercontent.com/rapidslayer101/BreadClient/main/bread_client.py -o bread_client.py
+  curl https://raw.githubusercontent.com/iaiERG/BreadClient/main/bread_client.py -o bread_client.py
 )
 if not exist bread_kv.py (
-  curl https://raw.githubusercontent.com/rapidslayer101/BreadClient/main/bread_kv.py -o bread_kv.py
+  curl https://raw.githubusercontent.com/iaiERG/BreadClient/main/bread_kv.py -o bread_kv.py
 )
 if not exist bread_icon.jpg (
-  curl https://raw.githubusercontent.com/rapidslayer101/BreadClient/main/bread_icon.jpg -o bread_icon.jpg
+  curl https://raw.githubusercontent.com/iaiERG/BreadClient/main/bread_icon.jpg -o bread_icon.jpg
 )
 if not exist enclib.py (
-  curl https://raw.githubusercontent.com/rapidslayer101/BreadClient/main/enclib.py -o enclib.py
+  curl https://raw.githubusercontent.com/iaiERG/BreadClient/main/enclib.py -o enclib.py
 )
 if not exist authlib.py (
-  curl https://raw.githubusercontent.com/rapidslayer101/BreadClient/main/authlib.py -o authlib.py
+  curl https://raw.githubusercontent.com/iaiERG/BreadClient/main/authlib.py -o authlib.py
 )
 
 if exist venv\ (
@@ -29,6 +29,6 @@ if exist venv\ (
     )
     start /wait "" miniconda.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\BreadClient\Miniconda3
   )
-  .\Miniconda3\_conda.exe create -p %UserProfile%\BreadClient\venv python=3.11 conda-forge::kivy conda-forge::rsa conda-forge::gputil conda-forge::psutil
+  echo y |.\Miniconda3\_conda.exe create -p %UserProfile%\BreadClient\venv python=3.11 conda-forge::kivy conda-forge::rsa conda-forge::gputil conda-forge::psutil
 )
 start venv/python.exe bread_client.py

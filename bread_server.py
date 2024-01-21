@@ -102,15 +102,15 @@ class ClientLogin:
         self.enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
         self.login_loop()
 
-    def send_e(self, text):  # encrypt and send to client
+    def send_e(self, text, compress=True):  # encrypt and send to client
         try:
-            self.cs.send(enclib.enc_from_key(text, self.enc_key))
+            self.cs.send(enclib.enc_from_key(text, self.enc_key, compress))
         except zlib.error:
             raise ConnectionResetError
 
-    def recv_d(self, buf_lim=1024):  # decrypt data from client
+    def recv_d(self, buf_lim=1024, compress=True, decode=True):  # decrypt data from client
         try:
-            return enclib.dec_from_key(self.cs.recv(buf_lim), self.enc_key)
+            return enclib.dec_from_key(self.cs.recv(buf_lim), self.enc_key, compress, decode)
         except zlib.error:
             raise ConnectionResetError
 
@@ -121,9 +121,9 @@ class ClientLogin:
             while True:
                 bytes_read = f.read(32768)
                 if not bytes_read:
-                    self.send_e(b"_BREAK_")
+                    self.send_e(b"_BREAK_", False)
                     break
-                self.send_e(bytes_read)
+                self.send_e(bytes_read, False)
 
     @catch_exception
     def login_loop(self):
@@ -430,9 +430,9 @@ class Client(ClientLogin):
                 self.add_action("REQ:CON", self.uid, "Posted CON in chat", 1)
 
             elif request.startswith("GET"):
-                if request == "GET:DebugTool":
-                    if self.level < 10:  # todo choose permission level
-                        self.send_file("AISDK-temp/DebugTool.py")
+                if request == "GET:IlluminationSDK":
+                    if self.level < 15:  # todo choose permission level
+                        self.send_file("IlluminationSDK.zip")
                     else:
                         self.send_e("N")
 

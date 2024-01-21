@@ -94,7 +94,7 @@ def _block_encrypter_(text, key, block_size, xor_salt):
     return pool, result_objects
 
 
-def _encrypter_(text, key, block_size, compressor, file_output=None):
+def _encrypter_(text, key, compressor, block_size, file_output=None):
     if not isinstance(text, bytes):
         text = text.encode()
     if compressor:
@@ -122,7 +122,7 @@ def _encrypter_(text, key, block_size, compressor, file_output=None):
             return d_data
 
 
-def _decrypter_(text, key, block_size, compressor, decode=True, file_output=None):
+def _decrypter_(text, key, compressor, decode, block_size, file_output=None):
     xor_salt, text = text[:_xor_salt_len_], text[_xor_salt_len_:]
     if len(text) // block_size < 11 and not file_output:
         if compressor:
@@ -180,7 +180,7 @@ def get_file_size(file):
 
 
 # a wrapper for the encrypter function to support file encryption and decryption
-def _file_encrypter_(enc, file, key, file_output, compressor):
+def _file_encrypter_(enc, file, key, compressor, file_output):
     start = time.perf_counter()
     if os.path.exists(file):
         file_name = file.split("/")[-1].split(".")[:-1]  # file_type = file.split("/")[-1].split(".")[-1:]
@@ -188,9 +188,9 @@ def _file_encrypter_(enc, file, key, file_output, compressor):
         with open(file, 'rb') as hash_file:
             data = hash_file.read()
         if enc:
-            _encrypter_(data, key, _default_block_size_, compressor, file_output)
+            _encrypter_(data, key, compressor, _default_block_size_, file_output)
         else:
-            _decrypter_(data, key, _default_block_size_, compressor, True, file_output)
+            _decrypter_(data, key, compressor, True, _default_block_size_, file_output)
         print(f"ENC/DEC COMPLETE OF {get_file_size(file)} IN {round(time.perf_counter()-start, 2)}s")
     else:
         return "File not found"
@@ -200,31 +200,32 @@ def _file_encrypter_(enc, file, key, file_output, compressor):
 
 # encrypts data
 def enc_from_pass(text, password, salt, depth=_default_pass_depth_, block_size=_default_block_size_):
-    return _encrypter_(text, pass_to_key(password, salt, depth), block_size, True)
+    return _encrypter_(text, pass_to_key(password, salt, depth), True, block_size)
 
 
 # uses a pre-generated key to encrypt data
-def enc_from_key(text, key, block_size=_default_block_size_):
-    return _encrypter_(text, key, block_size, True)
+def enc_from_key(text, key, compress=True, block_size=_default_block_size_, ):
+    return _encrypter_(text, key, compress, block_size)
 
 
 # decrypts data
-def dec_from_pass(e_text, password, salt, depth=_default_pass_depth_, block_size=_default_block_size_, decode=True):
-    return _decrypter_(e_text, pass_to_key(password, salt, depth), block_size, True, decode)
+def dec_from_pass(e_text, password, salt, depth=_default_pass_depth_, compress=True, decode=True,
+                  block_size=_default_block_size_):
+    return _decrypter_(e_text, pass_to_key(password, salt, depth), compress, decode, block_size)
 
 
 # uses a pre-generated key to decrypt data
-def dec_from_key(e_text, key, block_size=_default_block_size_, decode=True):
-    return _decrypter_(e_text, key, block_size, True, decode)
+def dec_from_key(e_text, key, compress=True, decode=True, block_size=_default_block_size_):
+    return _decrypter_(e_text, key, compress, decode, block_size)
 
 
 # encrypts a file
-def enc_file_from_pass(file, password, salt, file_output, depth=_default_pass_depth_, compressor=False):
+def enc_file_from_pass(file, password, salt, file_output, compressor=False, depth=_default_pass_depth_):
     return _file_encrypter_(True, file, pass_to_key(password, salt, depth), file_output, compressor)
 
 
 # decrypts a file
-def dec_file_from_pass(e_file, password, salt, file_output, depth=_default_pass_depth_, compressor=False):
+def dec_file_from_pass(e_file, password, salt, file_output, compressor=False, depth=_default_pass_depth_):
     return _file_encrypter_(False, e_file, pass_to_key(password, salt, depth), file_output, compressor)
 
 
@@ -348,23 +349,23 @@ class ClientSocket:
             print("Invalid IP")
             return False
 
-    def send_e(self, text):  # encrypt and send data to server
+    def send_e(self, text, compress=True):  # encrypt and send data to server
         try:
-            self.s.send(enc_from_key(text, self.enc_key))
+            self.s.send(enc_from_key(text, self.enc_key, compress))
         except ConnectionResetError:
             print("CONNECTION_LOST, reconnecting...")
             if self.ip and self.connect():
-                self.s.send(enc_from_key(text, self.enc_key))
+                self.s.send(enc_from_key(text, self.enc_key, compress))
             else:
                 print("Failed to reconnect")
 
-    def recv_d(self, buf_lim=1024, decode=True):  # receive and decrypt data to server
+    def recv_d(self, buf_lim=1024, compress=True, decode=True):  # receive and decrypt data to server
         try:
-            return dec_from_key(self.s.recv(buf_lim), self.enc_key, _default_block_size_, decode)
+            return dec_from_key(self.s.recv(buf_lim), self.enc_key, compress, decode)
         except ConnectionResetError:
             print("CONNECTION_LOST, reconnecting...")
             if self.ip and self.connect():
-                return dec_from_key(self.s.recv(buf_lim), self.enc_key)
+                return dec_from_key(self.s.recv(buf_lim), self.enc_key, compress, decode)
             else:
                 print("Failed to reconnect")
 
@@ -378,13 +379,14 @@ class ClientSocket:
             all_bytes = b""
             start = time.perf_counter()
             while True:  # receive update from server
-                bytes_read = self.recv_d(32768, False)
+                bytes_read = self.recv_d(32768, False, False)
+                print(bytes_read)
                 if b"_BREAK_" in bytes_read:
                     all_bytes += bytes_read[:-7]
                     break
                 if time.perf_counter() - start > 0.25:
                     start = time.perf_counter()
-                    print(f"Downloading version {file_name[:-4].replace('rdisc', 'Rdisc')} "
+                    print(f"Downloading {file_name[:-4].replace('rdisc', 'Rdisc')} "
                           f"({round((len(all_bytes) / file_size) * 100, 2)}%)")
                 all_bytes += bytes_read
             with open(f"{file_name}", "wb") as f:

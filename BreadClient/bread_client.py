@@ -3,6 +3,7 @@ import os
 import random
 import threading
 import time
+import subprocess
 import zlib
 
 import bread_kv
@@ -563,23 +564,34 @@ class Store(DefaultScreen):
 # screen for viewing mesh network
 class Mesh(DefaultScreen):
     GPU = {}
+    tool = False
+    configs = False
 
     def on_pre_enter(self, *args):
         self.set_coins()
-        tool = False
         try:
-            import DebugTool
-            tool = True
+            import IlluminationSDK.Tools.DebugTool as DebugTool
+            self.tool = True
         except ModuleNotFoundError:
-            s.send_e("GET:DebugTool")
+            s.send_e("GET:IlluminationSDK")
             if s.recv_file():
-                import DebugTool
-                tool = True
+                #os.system("start IlluminationSDK.zip")
+                input()
+                import IlluminationSDK.Tools.DebugTool as DebugTool
+                self.tool = True
             else:
                 popup("error", "You do not have permission to use this feature")
                 App.sm.switch_to(Home(), direction="left")
 
-        if tool:
+        if self.tool:
+            try:
+                subprocess.check_output(['ffmpeg'], text=True)
+            except FileNotFoundError:
+                print("FFmpeg not found - installing in another window")
+                os.system("start winget install FFmpeg -e")
+            except subprocess.CalledProcessError:
+                pass
+
             # todo get GPU info, install CUDA/ROCKm if not installed
             if not self.GPU:
                 self.GPU = DebugTool.get_best_accelerator()
@@ -602,6 +614,9 @@ class Mesh(DefaultScreen):
             #    else:
             #        print("ROCKm found")
 
+        if self.configs:
+            print("Running config detection")
+
     def loaded_models(self):
         pass  # todo load AITools/LLMServer/model_config.py
 
@@ -619,7 +634,11 @@ class MeshConsent(Screen):
 
     @staticmethod
     def on_consent():
-        os.system("start nvidia.bat")
+        import DebugTool
+        if not DebugTool.check_cuda_toolkit():
+            print("CUDA Toolkit not found")
+
+        #os.system("start nvidia.bat")
         App.stop(App.get_running_app())
 
 
@@ -878,19 +897,19 @@ if __name__ == "__main__":
     bread_kv.kv()
     crash_num = 0
     while True:
-        #try:
-        s = enclib.ClientSocket()
-        App().run()
-        break
-        #except Exception as e:
-        if "App.stop() missing 1 required positional argument: 'self'" in str(e):
-            print("Crash forced by user.")
-        else:
-            crash_num += 1
-            print(f"Error {crash_num} caught: {e}")
-        if crash_num == 5:
-            print("Crash loop detected, exiting app in 3 seconds...")
-            time.sleep(3)
+        try:
+            s = enclib.ClientSocket()
+            App().run()
             break
-        else:
-            reload("crash")
+        except Exception as e:
+            if "App.stop() missing 1 required positional argument: 'self'" in str(e):
+                print("Crash forced by user.")
+            else:
+                crash_num += 1
+                print(f"Error {crash_num} caught: {e}")
+            if crash_num == 5:
+                print("Crash loop detected, exiting app in 3 seconds...")
+                time.sleep(3)
+                break
+            else:
+                reload("crash")
