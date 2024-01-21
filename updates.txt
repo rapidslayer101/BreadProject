@@ -63,6 +63,7 @@
 0.63 BreadClient Headless now available
 0.64 Server classes, 1 liner cmd client download
 
+# todo file sending and receiving functions
 0.65 Device profiling, request level handling
 0.6x AI functions
 
