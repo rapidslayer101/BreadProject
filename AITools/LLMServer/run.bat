@@ -1,1 +1,0 @@
-python3 -m llama_cpp.server --config_file model_config.cfg

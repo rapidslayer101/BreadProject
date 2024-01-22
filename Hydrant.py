@@ -22,6 +22,7 @@ import DataMining.tickers_and_cache as tnc
 import AITools.LLMTool as LLM
 import DataMining.news_scraper as news_tool
 
+
 NOSQL = True  # If true, does not try anything with MySQL
 NOLLM = False  # If true, does not try to use LLM
 NOURLBLACKLIST = True  # The blacklist won't be loaded.
