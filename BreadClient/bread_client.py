@@ -139,7 +139,7 @@ class KeyUnlock(Screen):
                 popup("error", "Password Blank\n- WHY IS THE BOX BLANK?")
         else:
             try:
-                user_pass = enclib.pass_to_key(self.pwd.text, enclib.default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, enclib.default_salt)
                 ipk = enclib.dec_from_pass(App.ipk, user_pass[:40], user_pass[40:])
                 s.send_e(f"ULK:{App.uid}🱫{ipk}")
                 ulk_resp = s.recv_d(128)
@@ -334,7 +334,7 @@ class NacPass(Screen):
         elif self.nac_password_1.text != self.nac_password_2.text:
             popup("error", "Password Mismatch\n- Passwords must be the same")
         else:
-            pass_send = enclib.pass_to_key(self.nac_password_1.text, enclib.default_salt, 50000)
+            pass_send = enclib.pass_to_key(self.nac_password_1.text, enclib.default_salt)
             if App.path == "CHANGE_PASS":
                 s.send_e(pass_send)
                 App.sm.switch_to(TwoFacLog(), direction="left")
@@ -356,7 +356,7 @@ class LogUnlock(Screen):
             popup("error", "Password Blank\n- The question is, why is it blank?")
         else:
             try:
-                user_pass = enclib.pass_to_key(self.pwd.text, enclib.default_salt, 50000)
+                user_pass = enclib.pass_to_key(self.pwd.text, enclib.default_salt)
                 s.send_e(user_pass)
                 ipk = s.recv_d()
                 if ipk == "N":
@@ -575,10 +575,10 @@ class Mesh(DefaultScreen):
         except ModuleNotFoundError:
             s.send_e("GET:IlluminationSDK")
             if s.recv_file():
+                pass
                 #os.system("start IlluminationSDK.zip")
-                input()
-                import IlluminationSDK.Tools.DebugTool as DebugTool
-                self.tool = True
+                #import IlluminationSDK.Tools.DebugTool as DebugTool
+                #self.tool = True
             else:
                 popup("error", "You do not have permission to use this feature")
                 App.sm.switch_to(Home(), direction="left")
@@ -670,7 +670,7 @@ class Settings(DefaultScreen):
         if len(self.n_pass.text) < 9:
             popup("error", "Password Invalid\n- Password must be at least 9 characters")
         else:
-            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, enclib.default_salt, 50000)}")
+            s.send_e(f"CUP:{enclib.pass_to_key(self.n_pass.text, enclib.default_salt)}")
             if s.recv_d() == "V":
                 App.path = "CHANGE_PASS"
                 App.sm.switch_to(NacPass(), direction="left")

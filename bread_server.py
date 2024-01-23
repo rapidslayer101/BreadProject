@@ -99,31 +99,36 @@ class ClientLogin:
             raise InvalidClientData
         enc_seed = enclib.rand_b96_str(36)
         cs.send(rsa.encrypt(enc_seed.encode(), pub_key_cli))
-        self.enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:], 100000)
+        self.enc_key = enclib.pass_to_key(enc_seed[:18], enc_seed[18:])
         self.login_loop()
 
-    def send_e(self, text, compress=True):  # encrypt and send to client
+    def send_e(self, text):  # encrypt and send to client
         try:
-            self.cs.send(enclib.enc_from_key(text, self.enc_key, compress))
-        except zlib.error:
+            self.cs.send(enclib.enc_from_key(text, self.enc_key))
+        except zlib.error or ConnectionAbortedError:
             raise ConnectionResetError
 
-    def recv_d(self, buf_lim=1024, compress=True, decode=True):  # decrypt data from client
+    def recv_d(self, buf_lim=1024, decode=True):  # decrypt data from client
         try:
-            return enclib.dec_from_key(self.cs.recv(buf_lim), self.enc_key, compress, decode)
-        except zlib.error:
+            return enclib.dec_from_key(self.cs.recv(buf_lim), self.enc_key, decode)
+        except zlib.error or ConnectionAbortedError:
             raise ConnectionResetError
 
-    def send_file(self, path):  # send update to client
+    def send_file(self, path, buffer=65356):  # send file to client
         file = path.split("/")[-1]
         self.send_e(f"{file}🱫{(os.path.getsize(f'{path}'))}")
         with open(f"{path}", "rb") as f:
             while True:
-                bytes_read = f.read(32768)
-                if not bytes_read:
-                    self.send_e(b"_BREAK_", False)
+                bytes_read = f.read(buffer-7)
+                if len(bytes_read) < (buffer-7):
+                    self.send_e(bytes_read)
                     break
-                self.send_e(bytes_read, False)
+                self.send_e(bytes_read)
+        self.send_e(enclib.hash_a_file(path))
+        if self.recv_d() == "V":
+            print(f"Sent {file} to {self.uid}-{self.ip}:{self.port}")
+        else:
+            self.send_file(path, 32678)
 
     @catch_exception
     def login_loop(self):
