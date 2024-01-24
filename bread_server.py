@@ -340,7 +340,7 @@ class Client(ClientLogin):
         print(f"{self.uid} logged in with IP-{self.ip}:{self.port}")
         while True:  # main loop
             request = self.recv_d()
-            if not request:
+            if not request or not isinstance(request, str):
                 break
             print(request)  # temp debug for dev
             if request.startswith("LOGOUT_ALL"):  # deletes all IP keys
@@ -368,7 +368,7 @@ class Client(ClientLogin):
             # elif request.startswith("DLAC:"):  # todo delete account
             #    pass
 
-            elif request.startswith("CUP:"):  # change user password
+            elif request.startswith("CUP:") and self.client_type == "CLI":  # change user password
                 u_pass_c = request[4:]
                 try:
                     self.u_pass, self.u_secret = clients.db.execute("SELECT user_pass, secret FROM users WHERE "
@@ -400,7 +400,7 @@ class Client(ClientLogin):
                     self.send_e("N")
 
             # todo fix code
-            elif request.startswith("CUN:"):  # change username
+            elif request.startswith("CUN:") and self.client_type == "CLI":  # change username
                 n_u_name = request[4:]
                 if not 4 < len(n_u_name) < 25:
                     raise InvalidClientData
@@ -434,12 +434,20 @@ class Client(ClientLogin):
                 self.send_e("SERVER🱫completed task")
                 self.add_action("REQ:CON", self.uid, "Posted CON in chat", 1)
 
-            elif request.startswith("GET"):
+            elif request.startswith("GET:"):
                 if request == "GET:IlluminationSDK":
                     if self.level < 15:  # todo choose permission level
                         self.send_file("IlluminationSDK.zip")
                     else:
                         self.send_e("N")
+                elif self.level == 1:  # todo admin can request any file
+                    try:
+                        self.send_file(request[4:])
+                    except FileNotFoundError:
+                        self.send_e("N")
+
+            else:
+                self.send_e("INV_REQ")
 
     @staticmethod
     def add_action(t_type, uid, desc, change):

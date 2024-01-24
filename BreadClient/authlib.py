@@ -34,14 +34,16 @@ def unlock(s, uid, ipk):
             print("ERROR: Password Blank\n- Top tip, type something in the password box.")
         else:
             try:
-                user_pass = enclib.pass_to_key(acc_pass, enclib.default_salt, 50000)
+                user_pass = enclib.pass_to_key(acc_pass, enclib.default_salt)
                 ipk = enclib.dec_from_pass(ipk, user_pass[:40], user_pass[40:])
                 s.send_e(f"ULK:{uid}🱫{ipk}")
                 ulk_resp = s.recv_d(128)
                 if ulk_resp == "SESH_T":
                     print("ERROR: This accounts session is taken.")
+                    exit()
                 elif ulk_resp == "N":
                     print("ERROR: Incorrect Password\n- How exactly did you manage to trigger this.")
+                    exit()
                 else:
                     uname, level, r_coin, d_coin = ulk_resp.split("🱫")
                     if r_coin.endswith(".0"):
@@ -89,7 +91,7 @@ def login(s):
             acc_pass = input(f"Enter account passcode for {uid}: ")
             if acc_pass == "":
                 print("ERROR: Password Blank\n- Top tip, type something in the password box.")
-            acc_pass = enclib.pass_to_key(acc_pass, enclib.default_salt, 50000)
+            acc_pass = enclib.pass_to_key(acc_pass, enclib.default_salt)
             s.send_e(acc_pass)
             ipk = s.recv_d()
             if ipk == "N":
